@@ -219,6 +219,20 @@
       loadSleepingSources();
     }
 
+    async function grabSettingsSource(name, grabFn) {
+      try {
+        showStatus('Grabbing ' + name + '...', 'info');
+        const res = await apiFetch('/grab', {method:'POST', body: JSON.stringify({source: name})});
+        if (res.results > 0) {
+          showStatus(`${name}: ${res.results} programs! Now active.`, 'success');
+        } else {
+          showStatus(`${name}: 0 programs, ${res.errors} errors.`, 'error');
+        }
+        loadSleepingSources();
+        refreshAll();
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
     async function grabSleepingSource(name) {
       try {
         showStatus('Grabbing ' + name + '...', 'info');
@@ -236,26 +250,60 @@
 
     async function loadSleepingSources() {
       await loadSleeping();
-      const names = Object.keys(sleepingMap);
-      if (names.length === 0) {
-        document.getElementById('sleeping-sources').innerHTML = '';
-        return;
+      const grabStats = await apiFetch('/grab-stats').catch(() => []);
+      const statsMap = {};
+      (grabStats||[]).forEach(s => statsMap[s.source] = s);
+
+      const allSources = await apiFetch('/sources').catch(() => []);
+      const extSources = await apiFetch('/external-sources').catch(() => []);
+      const all = [
+        ...allSources.map(s => ({...s, _type: 'plugin'})),
+        ...(extSources||[]).map(s => ({...s, _type: 'external'}))
+      ];
+
+      const ungrabbed = all.filter(s => !statsMap[s.name] && !sleepingMap[s.name]).sort((a,b) => a.name.localeCompare(b.name));
+      const sleeping = Object.keys(sleepingMap).sort();
+
+      let html = '';
+
+      if (ungrabbed.length > 0) {
+        html += `<h3 style="margin-bottom:12px;color:#8b98a5;">New Sources (${ungrabbed.length})</h3>`;
+        html += '<div class="grid">' + ungrabbed.map(s => {
+          const safeN = (s.name||'').replace(/'/g, "\\'");
+          const grabFn = s._type === 'external' ? 'grabExternal' : 'grabSource';
+          return `
+            <div class="card">
+              <h3>${s.name}</h3>
+              <p style="font-size:12px;color:#8b98a5;">${s.description || s.url || ''}</p>
+              <div style="margin-top:8px;">
+                <button class="btn btn-success" onclick="grabSettingsSource('${safeN}','${grabFn}')">Grab</button>
+              </div>
+            </div>
+          `;
+        }).join('') + '</div>';
       }
 
-      let html = `<h3 style="margin-bottom:12px;color:#8b98a5;">Sleeping Sources (${names.length})</h3>`;
-      html += '<div class="grid">' + names.sort().map(name => {
-        const reason = sleepingMap[name] || '';
-        const safeN = name.replace(/'/g, "\\'");
-        return `
-          <div class="card">
-            <h3>${name}</h3>
-            <p style="font-size:11px;color:#8b98a5;">${reason}</p>
-            <div style="margin-top:8px;">
-              <button class="btn btn-success" onclick="grabSleepingSource('${safeN}')">Grab</button>
+      if (sleeping.length > 0) {
+        html += `<h3 style="margin:24px 0 12px;color:#8b98a5;">Sleeping Sources (${sleeping.length})</h3>`;
+        html += '<div class="grid">' + sleeping.map(name => {
+          const reason = sleepingMap[name] || '';
+          const safeN = name.replace(/'/g, "\\'");
+          return `
+            <div class="card">
+              <h3>${name}</h3>
+              <p style="font-size:11px;color:#8b98a5;">${reason}</p>
+              <div style="margin-top:8px;">
+                <button class="btn btn-success" onclick="grabSleepingSource('${safeN}')">Grab</button>
+              </div>
             </div>
-          </div>
-        `;
-      }).join('') + '</div>';
+          `;
+        }).join('') + '</div>';
+      }
+
+      if (!html) {
+        html = '<p style="color:#8b98a5;">All sources are active.</p>';
+      }
+
       document.getElementById('sleeping-sources').innerHTML = html;
     }
 
@@ -346,22 +394,17 @@
           `;
         }
 
-        const awake = all.filter(s => !sleepingMap[s.name]);
-        const active = awake.filter(s => statsMap[s.name] && statsMap[s.name].programs > 0);
-        const dormant = awake.filter(s => !statsMap[s.name]);
+        const active = all.filter(s => !sleepingMap[s.name] && statsMap[s.name] && statsMap[s.name].programs > 0);
 
         let html = '';
         if (active.length > 0) {
-          html += `<h3 style="margin-bottom:12px;color:#8b98a5;">Active (${active.length})</h3>`;
           html += '<div class="grid">' + active.map(renderCard).join('') + '</div>';
+        } else {
+          html += '<p style="color:#8b98a5;">No active sources. Grab a source from Settings to get started.</p>';
         }
-        if (dormant.length > 0) {
-          html += `<h3 style="margin:24px 0 12px;color:#8b98a5;">New (${dormant.length})</h3>`;
-          html += '<div class="grid">' + dormant.map(renderCard).join('') + '</div>';
-        }
-        const sleepCount = all.filter(s => sleepingMap[s.name]).length;
-        if (sleepCount > 0) {
-          html += `<p style="margin-top:16px;font-size:12px;color:#8b98a5;">${sleepCount} sleeping source${sleepCount>1?'s':''} hidden — manage in Settings</p>`;
+        const otherCount = all.length - active.length;
+        if (otherCount > 0) {
+          html += `<p style="margin-top:16px;font-size:12px;color:#8b98a5;">${otherCount} more source${otherCount>1?'s':''} available in Settings</p>`;
         }
         document.getElementById('all-sources').innerHTML = html;
       } catch(e) { showStatus(e.message, 'error'); }
