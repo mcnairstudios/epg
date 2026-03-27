@@ -10,6 +10,7 @@ import (
 	"github.com/gavinmcnair/epg/internal/grabber"
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
+	"github.com/gavinmcnair/epg/internal/ui"
 )
 
 type Server struct {
@@ -58,6 +59,8 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		r.Get("/epg.xml", srv.getXMLTV)
 		r.Get("/epg/{source}.xml", srv.getSourceXMLTV)
 	})
+
+	srv.router.Handle("/*", ui.Handler())
 
 	return srv
 }

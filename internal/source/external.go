@@ -7,6 +7,7 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"path/filepath"
 	"strings"
 	"sync"
 	"time"
@@ -135,6 +136,10 @@ func (m *ExternalSourceManager) Save() error {
 
 	if m.path == "" {
 		return nil
+	}
+
+	if err := os.MkdirAll(filepath.Dir(m.path), 0755); err != nil {
+		return err
 	}
 
 	f, err := os.Create(m.path)

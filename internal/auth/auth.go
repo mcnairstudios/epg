@@ -8,6 +8,7 @@ import (
 	"fmt"
 	"net/http"
 	"os"
+	"path/filepath"
 	"strings"
 	"sync"
 	"time"
@@ -131,6 +132,10 @@ func (s *UserStore) Save() error {
 
 	if s.path == "" {
 		return nil
+	}
+
+	if err := os.MkdirAll(filepath.Dir(s.path), 0755); err != nil {
+		return err
 	}
 
 	f, err := os.Create(s.path)

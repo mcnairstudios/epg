@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EPG Service</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f1419; color: #e7e9ea; }
+    .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+    header { display: flex; justify-content: space-between; align-items: center; padding: 16px 0; border-bottom: 1px solid #2f3336; margin-bottom: 24px; }
+    header h1 { font-size: 24px; font-weight: 700; }
+    .tabs { display: flex; gap: 4px; margin-bottom: 24px; }
+    .tab { padding: 8px 16px; border: 1px solid #2f3336; background: transparent; color: #8b98a5; cursor: pointer; border-radius: 6px; font-size: 14px; }
+    .tab.active { background: #1d9bf0; color: white; border-color: #1d9bf0; }
+    .panel { display: none; }
+    .panel.active { display: block; }
+    .card { background: #16202a; border: 1px solid #2f3336; border-radius: 8px; padding: 16px; margin-bottom: 12px; }
+    .card h3 { font-size: 16px; margin-bottom: 8px; }
+    .card p { font-size: 13px; color: #8b98a5; }
+    .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: 600; }
+    .badge-plugin { background: #1d4ed8; color: white; }
+    .badge-external { background: #7c3aed; color: white; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
+    .btn { padding: 8px 16px; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 600; }
+    .btn-primary { background: #1d9bf0; color: white; }
+    .btn-danger { background: #dc2626; color: white; }
+    .btn-success { background: #059669; color: white; }
+    .btn:hover { opacity: 0.9; }
+    .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    input, select { padding: 8px 12px; border: 1px solid #2f3336; border-radius: 6px; background: #0f1419; color: #e7e9ea; font-size: 14px; width: 100%; }
+    .form-row { display: flex; gap: 8px; margin-bottom: 12px; align-items: end; }
+    .form-group { flex: 1; }
+    .form-group label { display: block; font-size: 12px; color: #8b98a5; margin-bottom: 4px; }
+    .status { padding: 12px; border-radius: 6px; margin-bottom: 12px; font-size: 13px; }
+    .status-success { background: #052e16; border: 1px solid #059669; color: #34d399; }
+    .status-error { background: #450a0a; border: 1px solid #dc2626; color: #fca5a5; }
+    .status-info { background: #0c1929; border: 1px solid #1d9bf0; color: #93c5fd; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #2f3336; font-size: 13px; }
+    th { color: #8b98a5; font-weight: 600; font-size: 12px; text-transform: uppercase; }
+    .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 24px; }
+    .stat { background: #16202a; border: 1px solid #2f3336; border-radius: 8px; padding: 16px; text-align: center; }
+    .stat-value { font-size: 32px; font-weight: 700; color: #1d9bf0; }
+    .stat-label { font-size: 12px; color: #8b98a5; margin-top: 4px; }
+    .program-time { font-size: 12px; color: #8b98a5; }
+    .program-meta { font-size: 12px; color: #1d9bf0; }
+    .filter-bar { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+    .filter-bar input, .filter-bar select { width: auto; min-width: 150px; }
+    .xmltv-url { font-family: monospace; font-size: 13px; padding: 8px; background: #0f1419; border: 1px solid #2f3336; border-radius: 4px; word-break: break-all; }
+    #status-msg { display: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>EPG Service</h1>
+      <div>
+        <span id="auth-status" style="font-size:13px;color:#8b98a5;margin-right:12px;"></span>
+        <input type="text" id="token-input" placeholder="API Token" style="width:200px;display:inline-block;">
+      </div>
+    </header>
+
+    <div id="status-msg" class="status"></div>
+
+    <div class="stats" id="stats"></div>
+
+    <div class="tabs">
+      <button class="tab active" data-panel="sources">Sources</button>
+      <button class="tab" data-panel="channels">Channels</button>
+      <button class="tab" data-panel="programs">Programs</button>
+      <button class="tab" data-panel="xmltv">XMLTV</button>
+      <button class="tab" data-panel="users">Users</button>
+    </div>
+
+    <div class="panel active" id="sources">
+      <h2 style="margin-bottom:16px;">Plugin Sources</h2>
+      <div class="grid" id="plugin-sources"></div>
+
+      <h2 style="margin:24px 0 16px;">External XMLTV Sources</h2>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Name</label>
+          <input type="text" id="ext-name" placeholder="e.g. uk-epg">
+        </div>
+        <div class="form-group">
+          <label>URL</label>
+          <input type="text" id="ext-url" placeholder="https://example.com/epg.xml">
+        </div>
+        <button class="btn btn-primary" onclick="addExternalSource()">Add</button>
+      </div>
+      <div class="grid" id="external-sources"></div>
+    </div>
+
+    <div class="panel" id="channels">
+      <div class="filter-bar">
+        <input type="text" id="ch-source-filter" placeholder="Filter by source">
+        <input type="text" id="ch-genre-filter" placeholder="Filter by genre">
+        <button class="btn btn-primary" onclick="loadChannels()">Filter</button>
+      </div>
+      <table>
+        <thead><tr><th>Name</th><th>Source</th><th>XMLTV ID</th><th>Lang</th><th>Genre</th><th>Quality</th></tr></thead>
+        <tbody id="channels-table"></tbody>
+      </table>
+    </div>
+
+    <div class="panel" id="programs">
+      <div class="filter-bar">
+        <input type="text" id="prog-channel-filter" placeholder="Channel ID">
+        <input type="text" id="prog-source-filter" placeholder="Source">
+        <input type="date" id="prog-date-filter">
+        <button class="btn btn-primary" onclick="loadPrograms()">Filter</button>
+      </div>
+      <table>
+        <thead><tr><th>Time</th><th>Title</th><th>Channel</th><th>Category</th><th>Source</th></tr></thead>
+        <tbody id="programs-table"></tbody>
+      </table>
+    </div>
+
+    <div class="panel" id="xmltv">
+      <h2 style="margin-bottom:16px;">XMLTV Endpoints</h2>
+      <div class="card">
+        <h3>Full EPG</h3>
+        <p class="xmltv-url" id="xmltv-full-url"></p>
+        <div style="margin-top:8px;">
+          <button class="btn btn-primary" onclick="copyXmltvUrl('xmltv-full-url')">Copy URL</button>
+        </div>
+      </div>
+      <div id="xmltv-source-urls"></div>
+    </div>
+
+    <div class="panel" id="users">
+      <div class="form-row">
+        <div class="form-group">
+          <label>Username</label>
+          <input type="text" id="user-username" placeholder="username">
+        </div>
+        <div class="form-group">
+          <label>Role</label>
+          <select id="user-role"><option value="admin">Admin</option><option value="viewer">Viewer</option></select>
+        </div>
+        <button class="btn btn-primary" onclick="createUser()">Create</button>
+      </div>
+      <table>
+        <thead><tr><th>Username</th><th>Role</th><th>Token</th><th>Created</th><th></th></tr></thead>
+        <tbody id="users-table"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    const API = '/api/v1';
+    let token = localStorage.getItem('epg-token') || '';
+    document.getElementById('token-input').value = token;
+    document.getElementById('token-input').addEventListener('change', e => {
+      token = e.target.value;
+      localStorage.setItem('epg-token', token);
+      refreshAll();
+    });
+
+    function headers() {
+      const h = {'Content-Type': 'application/json'};
+      if (token) h['Authorization'] = 'Bearer ' + token;
+      return h;
+    }
+
+    function showStatus(msg, type) {
+      const el = document.getElementById('status-msg');
+      el.textContent = msg;
+      el.className = 'status status-' + type;
+      el.style.display = 'block';
+      setTimeout(() => el.style.display = 'none', 5000);
+    }
+
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+        tab.classList.add('active');
+        document.getElementById(tab.dataset.panel).classList.add('active');
+      });
+    });
+
+    async function apiFetch(path, opts = {}) {
+      const resp = await fetch(API + path, {headers: headers(), ...opts});
+      if (!resp.ok) {
+        const err = await resp.text();
+        throw new Error(err);
+      }
+      return resp.json();
+    }
+
+    async function loadStats() {
+      try {
+        const [sources, channels, programs] = await Promise.all([
+          apiFetch('/sources'),
+          apiFetch('/channels'),
+          apiFetch('/programs')
+        ]);
+        const extSources = await apiFetch('/external-sources').catch(() => []);
+        document.getElementById('stats').innerHTML = `
+          <div class="stat"><div class="stat-value">${(sources||[]).length + (extSources||[]).length}</div><div class="stat-label">Sources</div></div>
+          <div class="stat"><div class="stat-value">${(channels||[]).length}</div><div class="stat-label">Channels</div></div>
+          <div class="stat"><div class="stat-value">${(programs||[]).length}</div><div class="stat-label">Programs</div></div>
+          <div class="stat"><div class="stat-value">${(sources||[]).length}</div><div class="stat-label">Plugins</div></div>
+        `;
+      } catch(e) { console.error(e); }
+    }
+
+    async function loadSources() {
+      try {
+        const sources = await apiFetch('/sources');
+        document.getElementById('plugin-sources').innerHTML = (sources||[]).map(s => `
+          <div class="card">
+            <h3>${s.name} <span class="badge badge-plugin">plugin</span></h3>
+            <p>${s.description || ''}</p>
+            <div style="margin-top:12px;">
+              <button class="btn btn-success" onclick="grabSource('${s.name}')">Grab EPG</button>
+            </div>
+          </div>
+        `).join('');
+
+        const ext = await apiFetch('/external-sources').catch(() => []);
+        document.getElementById('external-sources').innerHTML = (ext||[]).map(s => `
+          <div class="card">
+            <h3>${s.name} <span class="badge badge-external">${s.type}</span></h3>
+            <p style="word-break:break-all;">${s.url}</p>
+            <div style="margin-top:12px;">
+              <button class="btn btn-success" onclick="grabExternal('${s.name}')">Grab</button>
+              <button class="btn btn-danger" onclick="removeExternal('${s.name}')">Remove</button>
+            </div>
+          </div>
+        `).join('');
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
+    async function grabSource(name) {
+      try {
+        showStatus('Grabbing ' + name + '...', 'info');
+        const res = await apiFetch('/grab', {method:'POST', body: JSON.stringify({source: name})});
+        showStatus(`Grabbed ${res.results} programs from ${name}`, 'success');
+        refreshAll();
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
+    async function addExternalSource() {
+      const name = document.getElementById('ext-name').value;
+      const url = document.getElementById('ext-url').value;
+      try {
+        await apiFetch('/external-sources', {method:'POST', body: JSON.stringify({name, url})});
+        showStatus('Added external source: ' + name, 'success');
+        document.getElementById('ext-name').value = '';
+        document.getElementById('ext-url').value = '';
+        loadSources();
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
+    async function removeExternal(name) {
+      try {
+        await apiFetch('/external-sources/' + name, {method:'DELETE'});
+        showStatus('Removed: ' + name, 'success');
+        loadSources();
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
+    async function grabExternal(name) {
+      try {
+        showStatus('Grabbing external source: ' + name + '...', 'info');
+        const res = await apiFetch('/external-sources/' + name + '/grab', {method:'POST'});
+        showStatus(`Imported ${res.channels} channels, ${res.programs} programs from ${name}`, 'success');
+        refreshAll();
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
+    async function loadChannels() {
+      const source = document.getElementById('ch-source-filter').value;
+      const genre = document.getElementById('ch-genre-filter').value;
+      const params = new URLSearchParams();
+      if (source) params.set('source', source);
+      if (genre) params.set('genre', genre);
+      try {
+        const channels = await apiFetch('/channels?' + params);
+        document.getElementById('channels-table').innerHTML = (channels||[]).map(c => `
+          <tr><td>${c.name}</td><td>${c.source}</td><td><code>${c.xmltv_id}</code></td><td>${c.lang}</td><td>${c.genre||''}</td><td>${c.quality||''}</td></tr>
+        `).join('');
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
+    async function loadPrograms() {
+      const channel = document.getElementById('prog-channel-filter').value;
+      const source = document.getElementById('prog-source-filter').value;
+      const date = document.getElementById('prog-date-filter').value;
+      const params = new URLSearchParams();
+      if (channel) params.set('channel', channel);
+      if (source) params.set('source', source);
+      if (date) params.set('date', date);
+      try {
+        const programs = await apiFetch('/programs?' + params);
+        document.getElementById('programs-table').innerHTML = (programs||[]).slice(0, 200).map(p => `
+          <tr>
+            <td class="program-time">${new Date(p.start).toLocaleTimeString()} - ${new Date(p.stop).toLocaleTimeString()}</td>
+            <td>${p.title}${p.sub_title ? '<br><span class="program-meta">' + p.sub_title + '</span>':''}</td>
+            <td><code>${p.channel}</code></td>
+            <td>${p.category||''}</td>
+            <td>${p.source}</td>
+          </tr>
+        `).join('');
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
+    function loadXmltvUrls() {
+      const base = window.location.origin;
+      const tokenParam = token ? '?token=' + token : '';
+      document.getElementById('xmltv-full-url').textContent = base + '/epg.xml' + tokenParam;
+    }
+
+    function copyXmltvUrl(id) {
+      navigator.clipboard.writeText(document.getElementById(id).textContent);
+      showStatus('URL copied to clipboard', 'success');
+    }
+
+    async function loadUsers() {
+      try {
+        const users = await apiFetch('/users');
+        document.getElementById('users-table').innerHTML = (users||[]).map(u => `
+          <tr>
+            <td>${u.username}</td>
+            <td>${u.role}</td>
+            <td><code style="font-size:11px;">${u.token}</code></td>
+            <td>${new Date(u.created_at).toLocaleDateString()}</td>
+            <td><button class="btn btn-danger" onclick="deleteUser('${u.id}')">Delete</button></td>
+          </tr>
+        `).join('');
+      } catch(e) { console.error(e); }
+    }
+
+    async function createUser() {
+      const username = document.getElementById('user-username').value;
+      const role = document.getElementById('user-role').value;
+      try {
+        const user = await apiFetch('/users', {method:'POST', body: JSON.stringify({username, role})});
+        showStatus(`User created: ${user.username} (token: ${user.token})`, 'success');
+        document.getElementById('user-username').value = '';
+        loadUsers();
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
+    async function deleteUser(id) {
+      try {
+        await apiFetch('/users/' + id, {method:'DELETE'});
+        showStatus('User deleted', 'success');
+        loadUsers();
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
+    function refreshAll() {
+      loadStats();
+      loadSources();
+      loadChannels();
+      loadPrograms();
+      loadXmltvUrls();
+      loadUsers();
+    }
+
+    refreshAll();
+  </script>
+</body>
+</html>

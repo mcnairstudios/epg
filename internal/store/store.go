@@ -3,6 +3,7 @@ package store
 import (
 	"encoding/gob"
 	"os"
+	"path/filepath"
 	"sync"
 	"time"
 
@@ -87,6 +88,10 @@ func (s *Store) Save() error {
 
 	if s.path == "" {
 		return nil
+	}
+
+	if err := os.MkdirAll(filepath.Dir(s.path), 0755); err != nil {
+		return err
 	}
 
 	f, err := os.Create(s.path)
