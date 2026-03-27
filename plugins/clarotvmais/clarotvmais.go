@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"strings"
 	"time"
 
 	_ "embed"
@@ -64,6 +65,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	req.Header.Set("Accept", "application/json, text/plain, */*")
+	req.Header.Set("Accept-Encoding", "gzip, deflate, br, zstd")
 	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36")
 
 	resp, err := p.client.Do(req)
@@ -71,6 +73,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, nil
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
@@ -83,7 +89,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	var response apiResponse
 	if err := json.Unmarshal(data, &response); err != nil {
-		return nil, err
+		return []domain.Program{}, nil
 	}
 
 	if len(response.Response.LiveChannels) == 0 {
@@ -107,6 +113,9 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 			Stop:        time.Unix(s.EndTime, 0).UTC(),
 		}
 
+		if s.Image != "" {
+			p.Image = strings.ReplaceAll(s.Image, "{{image-size-placeholder}}", "420_236")
+		}
 		if s.SeasonNumber > 0 {
 			p.Season = s.SeasonNumber
 		}
@@ -135,6 +144,7 @@ type liveChannel struct {
 type scheduleItem struct {
 	Title         string `json:"title"`
 	Description   string `json:"description"`
+	Image         string `json:"image"`
 	StartTime     int64  `json:"startTime"`
 	EndTime       int64  `json:"endTime"`
 	SeasonNumber  int    `json:"seasonNumber"`

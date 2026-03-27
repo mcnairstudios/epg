@@ -23,11 +23,13 @@ var channelsData []byte
 func init() {
 	plugin.Register(&provider{
 		client: http.DefaultClient,
+		sleep:  time.Sleep,
 	})
 }
 
 type provider struct {
 	client httpClient
+	sleep  func(time.Duration)
 }
 
 type httpClient interface {
@@ -80,24 +82,50 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 
-	req, err := http.NewRequest(http.MethodPost, "https://tvlistings.gracenote.com/api/sslgrid", bytes.NewReader(payload))
-	if err != nil {
-		return nil, err
-	}
+	var data []byte
+	backoff := time.Second
+	const maxRetries = 3
 
-	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("Accept", "application/json")
-	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36")
+	for attempt := 0; attempt <= maxRetries; attempt++ {
+		req, err := http.NewRequest(http.MethodPost, "https://tvlistings.gracenote.com/api/sslgrid", bytes.NewReader(payload))
+		if err != nil {
+			return nil, err
+		}
 
-	resp, err := p.client.Do(req)
-	if err != nil {
-		return nil, err
-	}
-	defer resp.Body.Close()
+		req.Header.Set("Content-Type", "application/json")
+		req.Header.Set("Accept", "application/json")
+		req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36")
 
-	data, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return nil, err
+		resp, err := p.client.Do(req)
+		if err != nil {
+			if attempt < maxRetries {
+				p.sleep(backoff)
+				backoff *= 2
+				continue
+			}
+			return nil, err
+		}
+
+		data, err = io.ReadAll(resp.Body)
+		resp.Body.Close()
+		if err != nil {
+			return nil, err
+		}
+
+		if resp.StatusCode == http.StatusTooManyRequests || resp.StatusCode >= 500 {
+			if attempt < maxRetries {
+				p.sleep(backoff)
+				backoff *= 2
+				continue
+			}
+			return nil, nil
+		}
+
+		if resp.StatusCode != http.StatusOK {
+			return nil, nil
+		}
+
+		break
 	}
 
 	return Parse(data, channel)

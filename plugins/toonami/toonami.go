@@ -1,10 +1,12 @@
 package toonami
 
 import (
+	"crypto/tls"
 	"encoding/json"
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"time"
 
 	_ "embed"
@@ -18,8 +20,13 @@ import (
 var channelsData []byte
 
 func init() {
+	tlsClient := &http.Client{
+		Transport: &http.Transport{
+			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
+		},
+	}
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: tlsClient,
 	})
 }
 
@@ -41,10 +48,12 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	// Step 1: Get playlists for this week
 	nextDay := date.Add(24 * time.Hour)
-	playlistsURL := fmt.Sprintf(
-		"https://api.toonamiaftermath.com/playlists?scheduleName=%s&startDate=%s&thisWeek=true&weekStartDay=monday",
-		channel.SiteID, nextDay.Format(time.RFC3339),
-	)
+	params := url.Values{}
+	params.Set("scheduleName", channel.SiteID)
+	params.Set("startDate", nextDay.UTC().Format("2006-01-02T15:04:05.000Z"))
+	params.Set("thisWeek", "true")
+	params.Set("weekStartDay", "monday")
+	playlistsURL := fmt.Sprintf("https://api.toonamiaftermath.com/playlists?%s", params.Encode())
 
 	req, err := http.NewRequest(http.MethodGet, playlistsURL, nil)
 	if err != nil {

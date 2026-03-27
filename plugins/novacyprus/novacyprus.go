@@ -20,7 +20,6 @@ import (
 var channelsData []byte
 
 func init() {
-	// JS sets NODE_TLS_REJECT_UNAUTHORIZED=0 for this site
 	tlsClient := &http.Client{
 		Transport: &http.Transport{
 			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
@@ -63,6 +62,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("unexpected status %d", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
@@ -83,11 +86,17 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 			continue
 		}
 
+		var image string
+		if len(item.MediaItems) > 0 {
+			image = item.MediaItems[0].CdnURL
+		}
+
 		p := domain.Program{
 			Channel:     channel.XmltvID,
 			Source:      "novacyprus.com",
 			Title:       item.Title,
 			Description: item.Description,
+			Image:       image,
 			Lang:        channel.Lang,
 		}
 
@@ -110,10 +119,15 @@ type apiResponse struct {
 }
 
 type node struct {
-	DateTime     string `json:"datetime"`
-	CID          string `json:"cid"`
-	ChannelID    string `json:"ChannelId"`
-	Title        string `json:"title"`
-	Description  string `json:"description"`
-	SlotDuration string `json:"slotDuration"`
+	DateTime     string      `json:"datetime"`
+	CID          string      `json:"cid"`
+	ChannelID    string      `json:"ChannelId"`
+	Title        string      `json:"title"`
+	Description  string      `json:"description"`
+	SlotDuration string      `json:"slotDuration"`
+	MediaItems   []mediaItem `json:"mediaItems"`
+}
+
+type mediaItem struct {
+	CdnURL string `json:"CdnUrl"`
 }

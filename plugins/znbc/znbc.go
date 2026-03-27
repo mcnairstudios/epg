@@ -52,6 +52,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d for channel %s", resp.StatusCode, channel.SiteID)
+	}
+
 	data, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err

@@ -14,6 +14,7 @@ import (
 	"github.com/gavinmcnair/epg/internal/grabber"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"github.com/gavinmcnair/epg/internal/scheduler"
+	"github.com/gavinmcnair/epg/internal/seed"
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
 
@@ -182,6 +183,10 @@ func main() {
 	ext := source.NewExternalSourceManager(filepath.Join(*dataDir, "sources.gob"))
 	if err := ext.Load(); err != nil {
 		log.Printf("warning: failed to load external sources: %v", err)
+	}
+
+	if added := seed.SeedExternalSources(ext); added > 0 {
+		log.Printf("seeded %d external sources", added)
 	}
 
 	sleeping := store.NewSleepingStore(filepath.Join(*dataDir, "sleeping.gob"))

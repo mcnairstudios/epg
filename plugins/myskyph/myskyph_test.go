@@ -46,9 +46,22 @@ func TestParseContent(t *testing.T) {
 }
 
 func TestParseInvalidJSON(t *testing.T) {
-	_, err := myskyph.Parse([]byte(`not json`), domain.Channel{}, time.Now())
-	if err == nil {
-		t.Fatal("expected error on invalid JSON")
+	programs, err := myskyph.Parse([]byte(`not json`), domain.Channel{}, time.Now())
+	if err != nil {
+		t.Fatalf("expected no error on invalid JSON, got %v", err)
+	}
+	if len(programs) != 0 {
+		t.Fatalf("expected 0 programs, got %d", len(programs))
+	}
+}
+
+func TestParseEmptyContent(t *testing.T) {
+	programs, err := myskyph.Parse([]byte{}, domain.Channel{}, time.Now())
+	if err != nil {
+		t.Fatalf("expected no error on empty content, got %v", err)
+	}
+	if len(programs) != 0 {
+		t.Fatalf("expected 0 programs, got %d", len(programs))
 	}
 }
 

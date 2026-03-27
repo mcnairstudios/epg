@@ -12,6 +12,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -30,7 +31,7 @@ var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: httpclient.Browser(),
 	})
 }
 
@@ -68,11 +69,15 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	if err != nil {
 		return nil, err
 	}
-	defer resp.Body.Close()
 
 	body, err := io.ReadAll(resp.Body)
+	resp.Body.Close()
 	if err != nil {
 		return nil, err
+	}
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("unexpected status %d", resp.StatusCode)
 	}
 
 	return Parse(body, channel)

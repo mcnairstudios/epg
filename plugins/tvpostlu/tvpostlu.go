@@ -31,6 +31,10 @@ type httpClient interface {
 	Do(req *http.Request) (*http.Response, error)
 }
 
+func NewWithClient(client *http.Client) *provider {
+	return &provider{client: client}
+}
+
 func (p *provider) Name() string        { return "tv.post.lu" }
 func (p *provider) Description() string { return "POST Luxembourg TV guide" }
 
@@ -57,6 +61,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, nil
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

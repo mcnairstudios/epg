@@ -54,6 +54,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, nil
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
@@ -63,13 +67,17 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 }
 
 func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Program, error) {
+	if len(data) == 0 {
+		return []domain.Program{}, nil
+	}
+
 	var response apiResponse
 	if err := json.Unmarshal(data, &response); err != nil {
-		return nil, err
+		return []domain.Program{}, nil
 	}
 
 	// JS filters by date: data.events.filter(i => i.location == channel.site_id && i.start.includes(d))
-	datePrefix := date.In(manilaTZ).Format("2006/01/02")
+	datePrefix := date.UTC().Format("2006/01/02")
 
 	programs := make([]domain.Program, 0)
 	for _, item := range response.Events {

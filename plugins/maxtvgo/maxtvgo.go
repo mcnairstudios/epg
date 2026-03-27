@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"strings"
 	"time"
 
 	_ "embed"
@@ -59,6 +60,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, nil
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
@@ -70,7 +75,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	var response apiResponse
 	if err := json.Unmarshal(data, &response); err != nil {
-		return nil, err
+		return []domain.Program{}, nil
 	}
 
 	programs := make([]domain.Program, 0, len(response.Programme))
@@ -83,8 +88,11 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 			Lang:     channel.Lang,
 		}
 
-		if item.Desc != "" {
-			p.Description = item.Desc
+		if desc := parseDesc(item.Desc); desc != "" {
+			p.Description = desc
+		}
+		if item.Icon.Attributes.Src != "" {
+			p.Image = item.Icon.Attributes.Src
 		}
 
 		attrs := item.Attributes
@@ -105,15 +113,36 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	return programs, nil
 }
 
+func parseDesc(raw json.RawMessage) string {
+	s := strings.TrimSpace(string(raw))
+	if s == "" || s == "{}" || s == "null" {
+		return ""
+	}
+	var desc string
+	if err := json.Unmarshal(raw, &desc); err != nil {
+		return ""
+	}
+	return desc
+}
+
 type apiResponse struct {
 	Programme []programme `json:"programme"`
 }
 
 type programme struct {
 	Attributes programmeAttrs `json:"@attributes"`
-	Title      string         `json:"title"`
-	Category   string         `json:"category"`
-	Desc       string         `json:"desc"`
+	Title      string          `json:"title"`
+	Category   string          `json:"category"`
+	Desc       json.RawMessage `json:"desc"`
+	Icon       iconData        `json:"icon"`
+}
+
+type iconData struct {
+	Attributes iconAttrs `json:"@attributes"`
+}
+
+type iconAttrs struct {
+	Src string `json:"src"`
 }
 
 type programmeAttrs struct {

@@ -43,9 +43,12 @@ func TestParseContent(t *testing.T) {
 }
 
 func TestParseInvalidJSON(t *testing.T) {
-	_, err := clarotvmais.Parse([]byte(`not json`), domain.Channel{})
-	if err == nil {
-		t.Fatal("expected error on invalid JSON")
+	programs, err := clarotvmais.Parse([]byte(`not json`), domain.Channel{})
+	if err != nil {
+		t.Fatalf("expected no error on invalid JSON, got %v", err)
+	}
+	if len(programs) != 0 {
+		t.Fatalf("expected 0 programs, got %d", len(programs))
 	}
 }
 

@@ -1,15 +1,22 @@
 package tvpostlu_test
 
 import (
+	"io"
+	"net/http"
 	"os"
 	"path/filepath"
 	"runtime"
+	"strings"
 	"testing"
 	"time"
 
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/plugins/tvpostlu"
 )
+
+type fakeTransport struct {
+	handler func(req *http.Request) (*http.Response, error)
+}
 
 func testdataPath(name string) string {
 	_, filename, _, _ := runtime.Caller(0)
@@ -113,5 +120,74 @@ func TestParseNullResult(t *testing.T) {
 	}
 	if len(programs) != 0 {
 		t.Fatalf("expected 0 programs, got %d", len(programs))
+	}
+}
+
+func (f *fakeTransport) RoundTrip(req *http.Request) (*http.Response, error) {
+	return f.handler(req)
+}
+
+func TestFetchSuccess(t *testing.T) {
+	contentData, err := os.ReadFile(testdataPath("content.json"))
+	if err != nil {
+		t.Fatalf("failed to read test data: %v", err)
+	}
+
+	transport := &fakeTransport{
+		handler: func(req *http.Request) (*http.Response, error) {
+			return &http.Response{
+				StatusCode: 200,
+				Body:       io.NopCloser(strings.NewReader(string(contentData))),
+			}, nil
+		},
+	}
+
+	p := tvpostlu.NewWithClient(&http.Client{Transport: transport})
+	channel := domain.Channel{
+		SiteID:  "269695d0-8076-11e9-b5ca-f345a2ed0fbe",
+		XmltvID: "DasErste.de",
+		Lang:    "de",
+	}
+
+	programs, err := p.Fetch(channel, time.Date(2023, 1, 16, 0, 0, 0, 0, time.UTC))
+	if err != nil {
+		t.Fatalf("fetch failed: %v", err)
+	}
+
+	if len(programs) == 0 {
+		t.Fatal("expected at least one program")
+	}
+
+	if programs[0].Title != "Tagesschau" {
+		t.Fatalf("expected title 'Tagesschau', got %q", programs[0].Title)
+	}
+}
+
+func TestFetchNon200ReturnsNil(t *testing.T) {
+	codes := []int{404, 500, 403, 502}
+	for _, code := range codes {
+		transport := &fakeTransport{
+			handler: func(req *http.Request) (*http.Response, error) {
+				return &http.Response{
+					StatusCode: code,
+					Body:       io.NopCloser(strings.NewReader("error")),
+				}, nil
+			},
+		}
+
+		p := tvpostlu.NewWithClient(&http.Client{Transport: transport})
+		channel := domain.Channel{
+			SiteID:  "test-id",
+			XmltvID: "Test.ch",
+			Lang:    "en",
+		}
+
+		programs, err := p.Fetch(channel, time.Date(2023, 1, 16, 0, 0, 0, 0, time.UTC))
+		if err != nil {
+			t.Fatalf("status %d: expected nil error, got %v", code, err)
+		}
+		if programs != nil {
+			t.Fatalf("status %d: expected nil programs, got %d", code, len(programs))
+		}
 	}
 }

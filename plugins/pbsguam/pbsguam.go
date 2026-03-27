@@ -1,6 +1,7 @@
 package pbsguam
 
 import (
+	"crypto/tls"
 	"encoding/json"
 	"io"
 	"net/http"
@@ -18,8 +19,13 @@ import (
 var channelsData []byte
 
 func init() {
+	tlsClient := &http.Client{
+		Transport: &http.Transport{
+			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
+		},
+	}
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: tlsClient,
 	})
 }
 
@@ -58,7 +64,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	return Parse(body, channel, date)
 }
 
-var scheduleRe = regexp.MustCompile(`EventsSchedule_1 = (.*);`)
+var scheduleRe = regexp.MustCompile(`(?i)EventsSchedule_1 = (.*);`)
 
 func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	matches := scheduleRe.FindSubmatch(data)

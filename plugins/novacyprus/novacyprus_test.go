@@ -40,6 +40,24 @@ func TestParseContent(t *testing.T) {
 	if programs[0].Source != "novacyprus.com" {
 		t.Fatalf("expected source 'novacyprus.com', got %q", programs[0].Source)
 	}
+
+	if programs[0].Image != "http://cache-forthnet.secure.footprint.net/linear/3/0/305608_COMMOBLOOX_GUIDE_STILL.jpg" {
+		t.Fatalf("unexpected image: %q", programs[0].Image)
+	}
+
+	if programs[0].Title != "Δεσμοί Αίματος" {
+		t.Fatalf("unexpected title: %q", programs[0].Title)
+	}
+
+	expectedStart := "2021-11-17T04:20:00.000Z"
+	if programs[0].Start.Format("2006-01-02T15:04:05.000Z") != expectedStart {
+		t.Fatalf("expected start %s, got %v", expectedStart, programs[0].Start)
+	}
+
+	expectedStop := "2021-11-17T06:10:00.000Z"
+	if programs[0].Stop.Format("2006-01-02T15:04:05.000Z") != expectedStop {
+		t.Fatalf("expected stop %s, got %v", expectedStop, programs[0].Stop)
+	}
 }
 
 func TestParseInvalidJSON(t *testing.T) {

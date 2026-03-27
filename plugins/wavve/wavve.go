@@ -47,7 +47,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	dateStr := date.Format("2006-01-02")
 	nextDate := date.Add(24 * time.Hour).Format("2006-01-02")
 	url := fmt.Sprintf(
-		"https://apis.pooq.co.kr/live/epgs/channels/%s?startdatetime=%s%%2000%%3A00&enddatetime=%s%%2000%%3A00&apikey=E5F3E0D30947AA5440556471321BB6D9&limit=500",
+		"https://apis.wavve.com/live/epgs/channels/%s?startdatetime=%s%%2000%%3A00&enddatetime=%s%%2000%%3A00&apikey=E5F3E0D30947AA5440556471321BB6D9&limit=500",
 		channel.SiteID, dateStr, nextDate,
 	)
 
@@ -63,6 +63,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("unexpected status %d", resp.StatusCode)
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

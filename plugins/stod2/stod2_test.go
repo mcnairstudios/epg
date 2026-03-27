@@ -23,9 +23,9 @@ func TestParseContent(t *testing.T) {
 	}
 
 	channel := domain.Channel{
-		ID:      "stod2",
-		XmltvID: "Stod2.is",
-		SiteID:  "STOD2",
+		ID:      "syn",
+		XmltvID: "Stod2.is@SD",
+		SiteID:  "syn",
 		Lang:    "is",
 	}
 

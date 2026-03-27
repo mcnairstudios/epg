@@ -78,6 +78,14 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 			return nil, err
 		}
 
+		if resp.StatusCode == http.StatusNoContent || len(body) == 0 {
+			return []domain.Program{}, nil
+		}
+
+		if resp.StatusCode != http.StatusOK {
+			return nil, fmt.Errorf("unexpected status %d", resp.StatusCode)
+		}
+
 		var ar apiResponse
 		if err := json.Unmarshal(body, &ar); err != nil {
 			return nil, err
