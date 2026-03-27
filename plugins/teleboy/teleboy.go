@@ -43,19 +43,16 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	begin := date.Format("2006-01-02 15:04:05")
 	end := date.Add(24 * time.Hour).Format("2006-01-02 15:04:05")
 
-	params := url.Values{}
-	params.Set("begin", begin)
-	params.Set("end", end)
-	params.Set("expand", "flags,primary_image")
-	params.Set("station", channel.SiteID)
-
-	reqURL := fmt.Sprintf("https://api.teleboy.ch/epg/broadcasts?%s", params.Encode())
+	reqURL := fmt.Sprintf("https://api.teleboy.ch/epg/broadcasts?begin=%s&end=%s&expand=flags,primary_image&station=%s",
+		url.QueryEscape(begin), url.QueryEscape(end), channel.SiteID)
 
 	req, err := http.NewRequest(http.MethodGet, reqURL, nil)
 	if err != nil {
 		return nil, err
 	}
 	req.Header.Set("x-teleboy-apikey", apiKey)
+	req.Header.Set("Accept", "application/json")
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
 
 	resp, err := p.client.Do(req)
 	if err != nil {
