@@ -7,9 +7,15 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -27,9 +33,7 @@ func (p *provider) Name() string        { return "freetv.tv" }
 func (p *provider) Description() string { return "FreeTV Israel TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "freetv-3370462", Name: "Kan 11", Source: "freetv.tv", SiteID: "3370462", Lang: "he", XmltvID: "Kan11.il"},
-	}, nil
+	return channels.Load(channelsData, "freetv.tv")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

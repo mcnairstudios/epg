@@ -6,11 +6,17 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var manilaTZ = time.FixedZone("Asia/Manila", 8*60*60)
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -30,9 +36,7 @@ func (p *provider) Name() string        { return "mysky.com.ph" }
 func (p *provider) Description() string { return "MySky Philippines" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "mysky-8", Name: "ABS-CBN", Source: "mysky.com.ph", SiteID: "8", Lang: "tl", XmltvID: "ABSCBN.ph"},
-	}, nil
+	return channels.Load(channelsData, "mysky.com.ph")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

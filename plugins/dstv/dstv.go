@@ -8,9 +8,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -32,9 +38,7 @@ func (p *provider) Description() string { return "DStv African satellite televis
 const apiEndpoint = "https://www.dstv.com/umbraco/api/TvGuide"
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "dstv-zaf-201", Name: "SuperSport Grandstand HD", Source: "dstv.com", SiteID: "zaf#201", Lang: "en", XmltvID: "SuperSportGrandstand.za"},
-	}, nil
+	return channels.Load(channelsData, "dstv.com")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -12,6 +12,7 @@ import (
 	"github.com/gavinmcnair/epg/internal/api"
 	"github.com/gavinmcnair/epg/internal/auth"
 	"github.com/gavinmcnair/epg/internal/grabber"
+	"github.com/gavinmcnair/epg/internal/plugin"
 	"github.com/gavinmcnair/epg/internal/scheduler"
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
@@ -30,7 +31,6 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/derana"
 	_ "github.com/gavinmcnair/epg/plugins/digiturk"
 	_ "github.com/gavinmcnair/epg/plugins/directvar"
-	_ "github.com/gavinmcnair/epg/plugins/dishtvIn"
 	_ "github.com/gavinmcnair/epg/plugins/distrotv"
 	_ "github.com/gavinmcnair/epg/plugins/dnafi"
 	_ "github.com/gavinmcnair/epg/plugins/dsmart"
@@ -146,6 +146,16 @@ func main() {
 	if err := s.Load(); err != nil {
 		log.Printf("warning: failed to load data: %v", err)
 	}
+
+	for _, p := range plugin.List() {
+		channels, err := p.Channels()
+		if err != nil {
+			log.Printf("warning: failed to load channels for %s: %v", p.Name(), err)
+			continue
+		}
+		s.SetChannels(channels)
+	}
+	log.Printf("loaded channels from %d plugins", len(plugin.List()))
 
 	ext := source.NewExternalSourceManager(filepath.Join(*dataDir, "sources.gob"))
 	if err := ext.Load(); err != nil {

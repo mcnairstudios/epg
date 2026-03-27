@@ -7,9 +7,15 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -29,9 +35,7 @@ func (p *provider) Description() string { return "Horizon TV Slovakia EPG" }
 const apiEndpoint = "https://legacy-static.oesp.horizon.tv/oesp/v4/SK/slk/web"
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "horizontv-10024", Name: "AMC", Source: "horizon.tv", SiteID: "10024", Lang: "sk", XmltvID: "AMCCzechRepublic.cz"},
-	}, nil
+	return channels.Load(channelsData, "horizon.tv")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

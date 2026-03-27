@@ -7,9 +7,15 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -25,6 +31,7 @@ type httpClient interface {
 
 var seoulLocation *time.Location
 
+
 func init() {
 	seoulLocation, _ = time.LoadLocation("Asia/Seoul")
 }
@@ -33,9 +40,7 @@ func (p *provider) Name() string        { return "wavve.com" }
 func (p *provider) Description() string { return "Wavve Korean streaming EPG" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "wavve-k01", Name: "KBS 1TV", Source: "wavve.com", SiteID: "K01", Lang: "ko", XmltvID: "KBS1TV.kr"},
-	}, nil
+	return channels.Load(channelsData, "wavve.com")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

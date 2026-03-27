@@ -7,10 +7,16 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -30,9 +36,7 @@ func (p *provider) Name() string        { return "programtv.onet.pl" }
 func (p *provider) Description() string { return "Onet.pl Polish TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "onetpl-13thstreet", Name: "13th Street", Source: "programtv.onet.pl", SiteID: "13th-street-250", Lang: "pl", XmltvID: "13thStreet.de"},
-	}, nil
+	return channels.Load(channelsData, "programtv.onet.pl")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
@@ -62,6 +66,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 }
 
 var warsaw *time.Location
+
 
 func init() {
 	warsaw, _ = time.LoadLocation("Europe/Warsaw")

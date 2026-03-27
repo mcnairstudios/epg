@@ -9,11 +9,17 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var buenosAires *time.Location
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	var err error
@@ -36,9 +42,7 @@ func (p *provider) Name() string        { return "directv.com.ar" }
 func (p *provider) Description() string { return "DirecTV Argentina electronic program guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "directvar-207", Name: "A&E HD", Source: "directv.com.ar", SiteID: "207#A&amp;EHD", Lang: "es", XmltvID: "AEHDSouth.us"},
-	}, nil
+	return channels.Load(channelsData, "directv.com.ar")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

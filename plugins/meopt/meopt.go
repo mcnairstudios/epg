@@ -8,11 +8,17 @@ import (
 	"net/url"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var lisbonTZ *time.Location
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	lisbonTZ, _ = time.LoadLocation("Europe/Lisbon")
@@ -33,9 +39,7 @@ func (p *provider) Name() string        { return "meo.pt" }
 func (p *provider) Description() string { return "MEO Portuguese TV provider" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "meopt-RTPM", Name: "RTP Madeira", Source: "meo.pt", SiteID: "RTPM", Lang: "pt", XmltvID: "RTPMadeira.pt"},
-	}, nil
+	return channels.Load(channelsData, "meo.pt")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -8,11 +8,17 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var pragueTZ *time.Location
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	var err error
@@ -37,9 +43,7 @@ func (p *provider) Name() string        { return "mujtvprogram.cz" }
 func (p *provider) Description() string { return "Czech TV program guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "mujtvprogram-1", Name: "CT1", Source: "mujtvprogram.cz", SiteID: "1", Lang: "cs", XmltvID: "CT1.cz"},
-	}, nil
+	return channels.Load(channelsData, "mujtvprogram.cz")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

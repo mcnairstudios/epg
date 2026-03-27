@@ -6,9 +6,15 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -28,9 +34,7 @@ func (p *provider) Name() string        { return "winplay.co" }
 func (p *provider) Description() string { return "Win+ Colombia streaming" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "winplay-futbol", Name: "Win+ Futbol", Source: "winplay.co", SiteID: "529cff6f6bd2ea6b610000e0", Lang: "es", XmltvID: "WinFutbol.co"},
-	}, nil
+	return channels.Load(channelsData, "winplay.co")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

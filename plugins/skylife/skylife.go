@@ -8,11 +8,17 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var seoulTZ = time.FixedZone("Asia/Seoul", 9*60*60)
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -32,9 +38,7 @@ func (p *provider) Name() string        { return "skylife.co.kr" }
 func (p *provider) Description() string { return "SkyLife Korean satellite TV" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "skylife-kbs1", Name: "KBS1", Source: "skylife.co.kr", SiteID: "4003#798", Lang: "ko", XmltvID: "KBS1.kr"},
-	}, nil
+	return channels.Load(channelsData, "skylife.co.kr")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

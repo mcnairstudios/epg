@@ -8,9 +8,15 @@ import (
 	"sort"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -28,9 +34,7 @@ func (p *provider) Name() string        { return "sky.com" }
 func (p *provider) Description() string { return "Sky UK electronic programme guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "sky-4086", Name: "Sky History HD", Source: "sky.com", SiteID: "4086", Lang: "en", XmltvID: "SkyHistoryHD.uk"},
-	}, nil
+	return channels.Load(channelsData, "sky.com")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

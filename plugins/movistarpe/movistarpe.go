@@ -7,9 +7,15 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -29,9 +35,7 @@ func (p *provider) Name() string        { return "tv.movistar.com.pe" }
 func (p *provider) Description() string { return "Movistar TV Peru" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "movistarpe-1", Name: "Movistar PE", Source: "tv.movistar.com.pe", SiteID: "lch2219", Lang: "es", XmltvID: "MovistarPE.pe"},
-	}, nil
+	return channels.Load(channelsData, "tv.movistar.com.pe")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

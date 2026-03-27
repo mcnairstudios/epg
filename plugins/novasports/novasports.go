@@ -8,12 +8,18 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
 
 var athensTZ, _ = time.LoadLocation("Europe/Athens")
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -33,9 +39,7 @@ func (p *provider) Name() string        { return "novasports.gr" }
 func (p *provider) Description() string { return "Novasports Greece" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "novasports-pl", Name: "Novasports Premier League", Source: "novasports.gr", SiteID: "Novasports Premier League", Lang: "el", XmltvID: "NovasportsPremierLeague.gr"},
-	}, nil
+	return channels.Load(channelsData, "novasports.gr")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

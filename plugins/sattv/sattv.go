@@ -9,10 +9,16 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -32,9 +38,7 @@ func (p *provider) Name() string        { return "sat.tv" }
 func (p *provider) Description() string { return "Sat.TV satellite TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "sattv-alsaudiya", Name: "Al Saudiya", Source: "sat.tv", SiteID: "1#38#السعودية", Lang: "ar", XmltvID: "AlSaudiya.sa"},
-	}, nil
+	return channels.Load(channelsData, "sat.tv")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -8,9 +8,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -30,9 +36,7 @@ func (p *provider) Description() string { return "Proximus Pickx Belgium EPG" }
 const posterBaseURL = "https://experience-cache.proximustv.be/posterserver/poster/EPG/"
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "pickxbe-UID0118", Name: "Vivacité", Source: "pickx.be", SiteID: "UID0118", Lang: "fr", XmltvID: "Vivacite.be"},
-	}, nil
+	return channels.Load(channelsData, "pickx.be")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

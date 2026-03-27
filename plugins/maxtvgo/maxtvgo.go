@@ -7,9 +7,15 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -29,9 +35,7 @@ func (p *provider) Name() string        { return "maxtvgo.mk" }
 func (p *provider) Description() string { return "MaxTV Go North Macedonia" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "maxtvgo-105", Name: "MaxTV", Source: "maxtvgo.mk", SiteID: "105", Lang: "mk", XmltvID: "MaxTV.mk"},
-	}, nil
+	return channels.Load(channelsData, "maxtvgo.mk")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -7,11 +7,17 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var jerusalemTZ = time.FixedZone("Asia/Jerusalem", 2*60*60)
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -31,9 +37,7 @@ func (p *provider) Name() string        { return "i24news.tv" }
 func (p *provider) Description() string { return "i24NEWS international news channel" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "i24news-ar", Name: "i24NEWS Arabic", Source: "i24news.tv", SiteID: "ar", Lang: "ar", XmltvID: "I24NewsArabic.il"},
-	}, nil
+	return channels.Load(channelsData, "i24news.tv")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

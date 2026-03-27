@@ -9,9 +9,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -32,9 +38,7 @@ const apiProgramEndpoint = "https://epg.orangetv.orange.es/epg/Smartphone_Androi
 const apiImageEndpoint = "https://pc.orangetv.orange.es/pc/api/rtv/v1/images"
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "orangees-1010", Name: "La 1", Source: "orangetv.orange.es", SiteID: "1010", Lang: "es", XmltvID: "La1.es"},
-	}, nil
+	return channels.Load(channelsData, "orangetv.orange.es")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

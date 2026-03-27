@@ -7,9 +7,15 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -29,9 +35,7 @@ func (p *provider) Name() string        { return "pluto.tv" }
 func (p *provider) Description() string { return "Pluto TV free streaming service" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "pluto-5ee92e72fb286e0007285fec", Name: "Naruto", Source: "pluto.tv", SiteID: "5ee92e72fb286e0007285fec", Lang: "es", Genre: "Anime", XmltvID: "Naruto.pluto.tv"},
-	}, nil
+	return channels.Load(channelsData, "pluto.tv")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -8,9 +8,15 @@ import (
 	"strconv"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -30,9 +36,7 @@ func (p *provider) Name() string        { return "raiplay.it" }
 func (p *provider) Description() string { return "Rai Play Italian TV schedule" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "raiplay-rai-2", Name: "Rai 2", Source: "raiplay.it", SiteID: "rai-2", Lang: "it", XmltvID: "Rai2.it"},
-	}, nil
+	return channels.Load(channelsData, "raiplay.it")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

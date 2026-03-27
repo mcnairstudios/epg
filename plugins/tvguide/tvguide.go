@@ -9,9 +9,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -33,9 +39,7 @@ func (p *provider) Description() string { return "TV Guide US television listing
 const providerID = "9100001138"
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "tvguide-9200004683", Name: "National Geographic Wild", Source: "tvguide.com", SiteID: "9200004683", Lang: "en", XmltvID: "NationalGeographicWild.us@East"},
-	}, nil
+	return channels.Load(channelsData, "tvguide.com")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

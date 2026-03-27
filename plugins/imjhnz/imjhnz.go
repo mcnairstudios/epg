@@ -7,12 +7,18 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"github.com/gavinmcnair/epg/internal/xmltv"
 )
 
 const apiEndpoint = "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master"
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -30,9 +36,7 @@ func (p *provider) Name() string        { return "i.mjh.nz" }
 func (p *provider) Description() string { return "Matt Huisman XMLTV aggregator (AU/NZ/Plex/Samsung/etc)" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "imjhnz-plex-darkmatter", Name: "Dark Matter TV", Source: "i.mjh.nz", SiteID: "Plex/all#5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6", Lang: "en", XmltvID: "DarkMatterTV.us"},
-	}, nil
+	return channels.Load(channelsData, "i.mjh.nz")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

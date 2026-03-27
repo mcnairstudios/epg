@@ -10,9 +10,15 @@ import (
 
 	"golang.org/x/net/html"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -30,7 +36,7 @@ func (p *provider) Name() string        { return "mi.tv" }
 func (p *provider) Description() string { return "Mi.tv Latin American TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return nil, nil
+	return channels.Load(channelsData, "mi.tv")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

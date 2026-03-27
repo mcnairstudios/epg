@@ -10,10 +10,16 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -33,9 +39,7 @@ func (p *provider) Description() string { return "Mediaklikk Hungary EPG" }
 const endpoint = "https://mediaklikk.hu/wp-content/plugins/hms-global-widgets/widgets/programGuide/programGuideInterface.php"
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "mediaklikk-3", Name: "Dune TV", Source: "mediaklikk.hu", SiteID: "3", Lang: "hu", XmltvID: "DuneTV.hu"},
-	}, nil
+	return channels.Load(channelsData, "mediaklikk.hu")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

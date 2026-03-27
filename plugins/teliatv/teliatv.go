@@ -8,9 +8,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -30,9 +36,7 @@ func (p *provider) Name() string        { return "teliatv.ee" }
 func (p *provider) Description() string { return "Telia TV Estonia" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "teliatv-etv", Name: "ETV", Source: "teliatv.ee", SiteID: "et#1", Lang: "et", XmltvID: "ETV.ee"},
-	}, nil
+	return channels.Load(channelsData, "teliatv.ee")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

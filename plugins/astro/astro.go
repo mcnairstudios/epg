@@ -10,9 +10,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -30,9 +36,7 @@ func (p *provider) Name() string        { return "content.astro.com.my" }
 func (p *provider) Description() string { return "Astro Malaysia TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "astro-425", Name: "TVB Classic", Source: "content.astro.com.my", SiteID: "425", Lang: "ms", XmltvID: "TVBClassic.hk"},
-	}, nil
+	return channels.Load(channelsData, "content.astro.com.my")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -11,9 +11,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -98,9 +104,7 @@ fragment epgTileFragment on Tile {
 `
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "vrt-vrt1", Name: "VRT 1", Source: "vrt.be", SiteID: "vrt1", Lang: "nl", XmltvID: "VRT1.be"},
-	}, nil
+	return channels.Load(channelsData, "vrt.be")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -9,11 +9,17 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var reykjavikTZ = time.FixedZone("Atlantic/Reykjavik", 0)
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -33,9 +39,7 @@ func (p *provider) Name() string        { return "ruv.is" }
 func (p *provider) Description() string { return "RUV Icelandic national broadcaster" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "ruv", Name: "RUV", Source: "ruv.is", SiteID: "ruv", Lang: "is", XmltvID: "RUV.is"},
-	}, nil
+	return channels.Load(channelsData, "ruv.is")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

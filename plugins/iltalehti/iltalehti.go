@@ -8,9 +8,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -30,9 +36,7 @@ func (p *provider) Name() string        { return "iltalehti.fi" }
 func (p *provider) Description() string { return "Iltalehti Finnish TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "iltalehti-yle1", Name: "YLE TV1", Source: "iltalehti.fi", SiteID: "d63736b5-7f72-45d4-8f9e-6505f1bac855#391", Lang: "fi", XmltvID: "YleTV1.fi"},
-	}, nil
+	return channels.Load(channelsData, "iltalehti.fi")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -6,9 +6,15 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -26,9 +32,7 @@ func (p *provider) Name() string        { return "epg.112114.xyz" }
 func (p *provider) Description() string { return "Chinese IPTV EPG from 112114.xyz" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "epg112114-btv-wenyi", Name: "BTV文艺", Source: "epg.112114.xyz", SiteID: "BTV文艺", Lang: "zh", XmltvID: "BRTVArtsChannel.cn"},
-	}, nil
+	return channels.Load(channelsData, "epg.112114.xyz")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

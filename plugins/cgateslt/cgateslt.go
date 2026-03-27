@@ -9,12 +9,18 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
 
 var vilniusTZ, _ = time.LoadLocation("Europe/Vilnius")
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -34,9 +40,7 @@ func (p *provider) Name() string        { return "cgates.lt" }
 func (p *provider) Description() string { return "Cgates Lithuania TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "cgates-lrt", Name: "LRT televizija", Source: "cgates.lt", SiteID: "lrt-televizija-hd", Lang: "lt", XmltvID: "LRTTV.lt"},
-	}, nil
+	return channels.Load(channelsData, "cgates.lt")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

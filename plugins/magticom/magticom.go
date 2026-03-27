@@ -9,11 +9,17 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var tbilisi *time.Location
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	var err error
@@ -36,9 +42,7 @@ func (p *provider) Name() string        { return "magticom.ge" }
 func (p *provider) Description() string { return "Magticom TV Guide (Georgia)" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "magticom-260", Name: "Bollywood HD Russia", Source: "magticom.ge", SiteID: "260", Lang: "ka", XmltvID: "BollywoodHDRussia.ru"},
-	}, nil
+	return channels.Load(channelsData, "magticom.ge")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

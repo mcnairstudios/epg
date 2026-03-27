@@ -10,9 +10,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -30,9 +36,7 @@ func (p *provider) Name() string        { return "freeview.co.uk" }
 func (p *provider) Description() string { return "Freeview UK TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "freeview-4164", Name: "BBC ONE Lon", Source: "freeview.co.uk", SiteID: "64257#4164", Lang: "en", XmltvID: "BBCOneLondon.uk"},
-	}, nil
+	return channels.Load(channelsData, "freeview.co.uk")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -8,10 +8,16 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -30,14 +36,13 @@ func (p *provider) Description() string { return "Guida TV Italy EPG" }
 
 var romeLocation *time.Location
 
+
 func init() {
 	romeLocation, _ = time.LoadLocation("Europe/Rome")
 }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "guidatv-rai1", Name: "Rai 1", Source: "guida.tv", SiteID: "826573/rai-1", Lang: "it", XmltvID: "Rai1.it"},
-	}, nil
+	return channels.Load(channelsData, "guida.tv")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -7,11 +7,17 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var jakartaTZ = time.FixedZone("Asia/Jakarta", 7*60*60)
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -31,9 +37,7 @@ func (p *provider) Name() string        { return "dens.tv" }
 func (p *provider) Description() string { return "Dens.tv Indonesian streaming" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "denstv-1", Name: "Dens TV", Source: "dens.tv", SiteID: "1", Lang: "id", XmltvID: "DensTV.id"},
-	}, nil
+	return channels.Load(channelsData, "dens.tv")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -184,8 +184,47 @@ func (s *Store) Load() error {
 	s.programs = snap.Programs
 	if snap.GrabStats != nil {
 		s.grabStats = snap.GrabStats
+	} else {
+		s.grabStats = s.deriveGrabStats()
 	}
 	return nil
+}
+
+func (s *Store) deriveGrabStats() map[string]GrabStats {
+	stats := make(map[string]GrabStats)
+
+	sourceChannels := make(map[string]int)
+	sourcePrograms := make(map[string]int)
+
+	for _, ch := range s.channels {
+		sourceChannels[ch.Source]++
+	}
+
+	for _, progs := range s.programs {
+		for _, p := range progs {
+			sourcePrograms[p.Source]++
+		}
+	}
+
+	sources := make(map[string]bool)
+	for src := range sourceChannels {
+		sources[src] = true
+	}
+	for src := range sourcePrograms {
+		sources[src] = true
+	}
+
+	for src := range sources {
+		stats[src] = GrabStats{
+			Source:   src,
+			Channels: sourceChannels[src],
+			Programs: sourcePrograms[src],
+			LastGrab: time.Now().UTC(),
+			Duration: "restored",
+		}
+	}
+
+	return stats
 }
 
 type Filter struct {

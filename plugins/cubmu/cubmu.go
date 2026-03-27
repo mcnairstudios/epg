@@ -8,11 +8,17 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var jakartaTZ *time.Location
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	jakartaTZ, _ = time.LoadLocation("Asia/Jakarta")
@@ -33,9 +39,7 @@ func (p *provider) Name() string        { return "cubmu.com" }
 func (p *provider) Description() string { return "CubMu Indonesian TV streaming service" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "cubmu-transtv", Name: "Trans TV", Source: "cubmu.com", SiteID: "4028c68574537fcd0174be43042758d8", Lang: "id", XmltvID: "TransTV.id"},
-	}, nil
+	return channels.Load(channelsData, "cubmu.com")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

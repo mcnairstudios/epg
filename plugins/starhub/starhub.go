@@ -10,9 +10,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -35,9 +41,7 @@ var languages = map[string]string{
 }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "starhub-d258444e-b66b-4cbe-88db-e09f31ab8a1f", Name: "AXN", Source: "starhubtvplus.com", SiteID: "d258444e-b66b-4cbe-88db-e09f31ab8a1f", Lang: "en", XmltvID: "AXN.sg"},
-	}, nil
+	return channels.Load(channelsData, "starhubtvplus.com")
 }
 
 func buildURL(channel domain.Channel, date time.Time, page int) string {

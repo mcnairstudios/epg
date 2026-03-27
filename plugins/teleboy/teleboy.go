@@ -7,11 +7,17 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 const apiKey = "e899f715940a209148f834702fc7f340b6b0496b62120b3ed9c9b3ec4d7dca00"
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -29,9 +35,7 @@ func (p *provider) Name() string        { return "teleboy.ch" }
 func (p *provider) Description() string { return "Teleboy Switzerland EPG" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "teleboy-303", Name: "SRF 1", Source: "teleboy.ch", SiteID: "303", Lang: "de", XmltvID: "SRF1.ch"},
-	}, nil
+	return channels.Load(channelsData, "teleboy.ch")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -7,9 +7,15 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -29,9 +35,7 @@ func (p *provider) Name() string        { return "clarotvmais.com.br" }
 func (p *provider) Description() string { return "Claro TV+ Brazil" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "clarotvmais-1", Name: "Discovery Kids", Source: "clarotvmais.com.br", SiteID: "1", Lang: "pt", XmltvID: "DiscoveryKids.br"},
-	}, nil
+	return channels.Load(channelsData, "clarotvmais.com.br")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

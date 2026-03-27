@@ -7,9 +7,15 @@ import (
 	"regexp"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -29,9 +35,7 @@ func (p *provider) Name() string        { return "pbsguam.org" }
 func (p *provider) Description() string { return "PBS Guam" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "pbsguam", Name: "KGTF", Source: "pbsguam.org", SiteID: "#", Lang: "en", XmltvID: "KGTF.us"},
-	}, nil
+	return channels.Load(channelsData, "pbsguam.org")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -8,9 +8,15 @@ import (
 	"strconv"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -32,9 +38,7 @@ func (p *provider) Name() string        { return "singtel.com" }
 func (p *provider) Description() string { return "Singtel TV electronic programme guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "singtel-5418", Name: "Paramount Network Singapore", Source: "singtel.com", SiteID: "5418", Lang: "en", XmltvID: "ParamountNetworkSingapore.sg"},
-	}, nil
+	return channels.Load(channelsData, "singtel.com")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

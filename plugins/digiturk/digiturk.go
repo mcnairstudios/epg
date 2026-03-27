@@ -9,12 +9,18 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
 
 var istanbulTZ *time.Location
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	istanbulTZ, _ = time.LoadLocation("Europe/Istanbul")
@@ -35,9 +41,7 @@ func (p *provider) Name() string        { return "digiturk.com.tr" }
 func (p *provider) Description() string { return "Digiturk Turkish satellite TV provider" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "digiturk-351", Name: "Nickelodeon", Source: "digiturk.com.tr", SiteID: "351", Lang: "tr", XmltvID: "Nickelodeon.tr"},
-	}, nil
+	return channels.Load(channelsData, "digiturk.com.tr")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

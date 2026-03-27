@@ -9,11 +9,17 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
 var colomboTZ = time.FixedZone("Asia/Colombo", 5*60*60+30*60)
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -33,9 +39,7 @@ func (p *provider) Name() string        { return "derana.lk" }
 func (p *provider) Description() string { return "TV Derana Sri Lanka" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "derana", Name: "TV Derana", Source: "derana.lk", SiteID: "derana", Lang: "si", XmltvID: "TVDerana.lk"},
-	}, nil
+	return channels.Load(channelsData, "derana.lk")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

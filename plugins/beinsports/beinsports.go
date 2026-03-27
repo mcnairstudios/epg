@@ -7,9 +7,15 @@ import (
 	"net/http"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -27,9 +33,7 @@ func (p *provider) Name() string        { return "beinsports.com" }
 func (p *provider) Description() string { return "beIN Sports EPG" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "beinsports-usa", Name: "beIN Sports USA", Source: "beinsports.com", SiteID: "C244C48D-3B54-406A-94C9-D63B16318267", Lang: "en", XmltvID: "beINSportsUSA.us"},
-	}, nil
+	return channels.Load(channelsData, "beinsports.com")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

@@ -9,12 +9,18 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
 
 var sofiaTZ, _ = time.LoadLocation("Europe/Sofia")
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -34,9 +40,7 @@ func (p *provider) Name() string        { return "tv.dir.bg" }
 func (p *provider) Description() string { return "Dir.bg Bulgarian TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "tvdirbg-61", Name: "bTV", Source: "tv.dir.bg", SiteID: "61", Lang: "bg", XmltvID: "BTV.bg"},
-	}, nil
+	return channels.Load(channelsData, "tv.dir.bg")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {

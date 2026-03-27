@@ -9,9 +9,15 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -31,9 +37,7 @@ func (p *provider) Name() string        { return "programetv.ro" }
 func (p *provider) Description() string { return "Romanian TV schedule from programetv.ro" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "programetvro-pro-tv", Name: "PRO TV", Source: "programetv.ro", SiteID: "pro-tv", Lang: "ro", XmltvID: "ProTV.ro"},
-	}, nil
+	return channels.Load(channelsData, "programetv.ro")
 }
 
 var daysOfWeek = map[int]string{

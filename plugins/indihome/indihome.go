@@ -8,10 +8,16 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
@@ -31,9 +37,7 @@ func (p *provider) Name() string        { return "indihometv.com" }
 func (p *provider) Description() string { return "IndiHome TV Indonesia guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "indihome-metrotv", Name: "Metro TV", Source: "indihometv.com", SiteID: "metrotv", Lang: "id", XmltvID: "MetroTV.id"},
-	}, nil
+	return channels.Load(channelsData, "indihometv.com")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
@@ -60,6 +64,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 
 var jakarta *time.Location
 var timeRangeRe = regexp.MustCompile(`(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})`)
+
 
 func init() {
 	jakarta, _ = time.LoadLocation("Asia/Jakarta")

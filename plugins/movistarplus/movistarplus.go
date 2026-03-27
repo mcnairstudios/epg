@@ -10,10 +10,16 @@ import (
 	"strings"
 	"time"
 
+	_ "embed"
+
+	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
+
+//go:embed channels.json
+var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{client: http.DefaultClient})
@@ -31,9 +37,7 @@ func (p *provider) Name() string        { return "movistarplus.es" }
 func (p *provider) Description() string { return "Movistar Plus+ Spain TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return []domain.Channel{
-		{ID: "movistarplus-sexta", Name: "La Sexta", Source: "movistarplus.es", SiteID: "sexta", Lang: "es", XmltvID: "LaSexta.es"},
-	}, nil
+	return channels.Load(channelsData, "movistarplus.es")
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
