@@ -2,6 +2,7 @@ package api
 
 import (
 	"net/http"
+	"strings"
 
 	"github.com/go-chi/chi/v5"
 
@@ -21,7 +22,9 @@ func (s *Server) getXMLTV(w http.ResponseWriter, r *http.Request) {
 }
 
 func (s *Server) getSourceXMLTV(w http.ResponseWriter, r *http.Request) {
-	source := chi.URLParam(r, "source")
+	source := chi.URLParam(r, "*")
+	source = strings.TrimSuffix(source, ".xml")
+	source = strings.TrimPrefix(source, "/")
 	f := store.Filter{
 		Source:  source,
 		Channel: r.URL.Query().Get("channel"),

@@ -64,7 +64,7 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		r.Use(users.Middleware)
 		r.Use(middleware.SetHeader("Content-Type", "application/xml"))
 		r.Get("/epg.xml", srv.getXMLTV)
-		r.Get("/epg/{source}.xml", srv.getSourceXMLTV)
+		r.Get("/epg/*", srv.getSourceXMLTV)
 	})
 
 	srv.router.Handle("/*", ui.Handler())
