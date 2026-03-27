@@ -1,7 +1,6 @@
 package novacyprus
 
 import (
-	"crypto/tls"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -13,6 +12,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -20,13 +20,8 @@ import (
 var channelsData []byte
 
 func init() {
-	tlsClient := &http.Client{
-		Transport: &http.Transport{
-			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
-		},
-	}
 	plugin.Register(&provider{
-		client: tlsClient,
+		client: httpclient.InsecureBrowser(),
 	})
 }
 
