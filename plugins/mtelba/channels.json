@@ -1,241 +1,13 @@
 [
   {
-    "site_id": "iptv#ch-radio-beograd-202",
-    "name": "Radio Beograd 202",
+    "site_id": "iptv#ch-televizija-m",
+    "name": "Televizija M",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "msat#ch-402-tv-mreza-most",
-    "name": "TV Mreža Most",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-280-tv-zdravlje",
-    "name": "Zelena TV Zdravlje",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-6-happy-tv",
-    "name": "Happy TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-50-rts-muzika",
-    "name": "RTS Muzika",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-388-rts-poletarac",
-    "name": "RTS Poletarac",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-star-life-hd",
-    "name": "Star Life HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-189-pink-erotic-7",
-    "name": "Pink Erotic 7",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-398-nba-tv-hd",
-    "name": "NBA TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-449-vesti",
-    "name": "Vesti",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-radio-rokenroler",
-    "name": "RTS Rokenroler",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-48-rts-kolo",
-    "name": "RTS Kolo",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-437-toxic-folk",
-    "name": "Toxic Folk",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-483-rtl-2",
-    "name": "RTL 2",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-469-adria-tv",
-    "name": "Adria TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-383-tv-partizan",
-    "name": "TV Partizan",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-lh-tv-hd",
-    "name": "LH TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-206-bravo-music",
-    "name": "Bravo Music",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-270-extreme-sports",
-    "name": "Extreme Sports",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-358-prva",
-    "name": "Prva",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-370-amari",
-    "name": "Amari",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-bbc-earth-hd",
-    "name": "BBC Earth HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-192-bn-music",
-    "name": "BN Music",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-124-filmbox-arthouse",
-    "name": "Filmbox Arthouse",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-214-pink-zabava",
-    "name": "PINK ZABAVA",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-216-pink-show",
-    "name": "PINK SHOW",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-128-id",
-    "name": "ID",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-385-rtv-2",
-    "name": "RTV 2",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-116-fox-life",
-    "name": "Star LIFE",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-472-bn-music",
-    "name": "BN Music HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-radio-beograd-1",
-    "name": "Radio Beograd 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-393-tv-d-plus",
-    "name": "TV D+",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-4-pink",
-    "name": "Pink",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-102-hbo-2",
-    "name": "HBO 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-361-prva-world",
-    "name": "Prva World",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-85-baby-tv",
-    "name": "BABY TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-174-pink-music",
-    "name": "Pink Music",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-49-rts-trezor",
-    "name": "RTS Trezor",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-bloomberg-adria",
-    "name": "Bloomberg Adria",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-fox-crime",
-    "name": "Star CRIME",
+    "site_id": "msat#ch-315-sos-kanal-plus",
+    "name": "SOS Kanal Plus",
     "lang": "bs",
     "region": "MSAT"
   },
@@ -246,686 +18,50 @@
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-223-hayat-folk",
-    "name": "Hayat Folk Box",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-242-t1",
-    "name": "tß1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-46-rts-drama",
-    "name": "RTS Drama",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-409-kazbuka",
-    "name": "Kazbuka",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-202-deutsche-welle",
-    "name": "DEUTSCHE WELLE",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-blic-tv-hd",
-    "name": "Blic TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-404-dox-tv",
-    "name": "DOX TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-220-lol",
-    "name": "LOL",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-365-eg-melody",
-    "name": "EG Melody",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-358-prva",
-    "name": "Prva",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-81-rtv-kd",
-    "name": "RTV KD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-209-pink-folk",
-    "name": "Pink Folk",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-409-kazbuka",
-    "name": "Kazbuka",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-472-bn-music-hd",
-    "name": "BN Music HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-euro-cinema-4",
-    "name": "Euro Cinema 4",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-430-red-tv",
-    "name": "Red TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-euro-cinema-3",
-    "name": "Euro Cinema 3",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-175-erox-hd",
-    "name": "EROX",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-187-kontakt-tv",
-    "name": "Kontakt TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-19-rts-svet",
-    "name": "RTS Svet",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-129-pink-world-cinema",
-    "name": "Pink World Cinema",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-138-viasat-history",
-    "name": "Viasat History",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-145-pink-movies",
-    "name": "Pink Movies",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-blue-hustler",
-    "name": "Blue Hustler",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-o-kanal-music-hd",
-    "name": "O Kanal Music HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-49-rts-trezor",
-    "name": "RTS Trezor",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-295-id-hd",
-    "name": "ID HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-373-babes-tv",
-    "name": "Babes TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-98-da-vinci-learning",
-    "name": "Da Vinci Learning",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-221-pink-reality",
-    "name": "Pink Reality",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-arena-premium-2",
-    "name": "Arena Premium 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-182-pink-erotic-3",
-    "name": "Pink Erotic 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-368-folk-melody",
-    "name": "Folk Melody",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-136-pink-crime-mystery",
-    "name": "Pink Crime \u0026 Mystery",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-101-hbo",
-    "name": "HBO",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-114-fox",
-    "name": "Star Channel HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-411-k1",
-    "name": "K1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-current-time",
-    "name": "Current Time TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-59-eurosport-2",
-    "name": "Eurosport 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-455-kontakt-radio",
-    "name": "Kontakt Radio",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-moj-astrolog-hd",
-    "name": "Moj astrolog HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-arena-sport-5",
-    "name": "Arena Sport 5",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-162-fashion",
-    "name": "Fashion",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-366-pop-melody",
-    "name": "Pop Melody",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-424-nicktoons",
-    "name": "NickToons",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-433-rts-klasika",
-    "name": "RTS Klasika",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-54-arena-sport-2",
-    "name": "Arena Sport 2",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-173-hustler",
-    "name": "HUSTLER",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-304-nickelodeon-junior",
-    "name": "Nickelodeon Junior",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-137-viasat-explore",
-    "name": "Viasat Explore",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-142-pink-pedia",
-    "name": "PINK PEDIA",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-177-eroxxx-hd",
-    "name": "EROXXX",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-203-pink-folk-2",
-    "name": "PINK FOLK 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-359-b92",
-    "name": "B92",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-385-rtv-2",
-    "name": "RTV 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-467-superstar-tv",
-    "name": "Superstar",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-471-vikom",
-    "name": "VIKOM",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-106-cinemax-2",
-    "name": "CINEMAX 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-30-hrt-1",
-    "name": "HRT 1",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-newsmax-balkans",
-    "name": "Newsmax Balkans",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-126-pink-premium",
-    "name": "Pink Premium",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-149-pink-sci-fi-fantasy",
-    "name": "Pink Sci-Fi \u0026 Fantasy",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-euro-cinema-1",
-    "name": "Euro Cinema 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-211-kcn-2-music",
-    "name": "K:CN 2 Music",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-376-adult-1",
-    "name": "Adult 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-arena-sport-6",
-    "name": "Arena Sport 6",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-68-fight-box",
-    "name": "FIGHT BOX",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-449-vesti",
-    "name": "Vesti",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-54-arena-sport-2",
-    "name": "Arena Sport 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-372-happy-reality-2",
-    "name": "Happy Reality 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-bir-tv",
-    "name": "Bir TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-euro-cinema-2",
-    "name": "Euro Cinema 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-moj-astrolog",
-    "name": "Moj astrolog",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-18-rtrs-plus",
-    "name": "RTRS Plus",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-47-rtv-i-sarajevo",
-    "name": "RTVIS",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-126-pink-premium",
-    "name": "Pink Premium",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-137-viasat-explore",
-    "name": "Viasat Explore",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-199-dm-sat",
-    "name": "DM SAT",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-146-pink-comedy",
-    "name": "Pink Comedy",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
     "site_id": "iptv#ch-178-pink-koncert",
     "name": "PINK KONCERT",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-79-eurosport-1-hd",
-    "name": "Eurosport 1 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-400-zvezda-tv-hd",
-    "name": "Zvezda TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-439-otv-valentino",
-    "name": "OTV Valentino",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-464-liverpool-hd",
-    "name": "Liverpool FC TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-arena-sport-5",
-    "name": "Arena Sport 5",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-brazzers",
-    "name": "Brazzers",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-210-kcn-3",
-    "name": "K:CN 3",
+    "site_id": "msat#ch-18-rtrs-plus",
+    "name": "RTRS Plus",
     "lang": "bs",
     "region": "MSAT"
   },
   {
-    "site_id": "iptv#ch-375-bang-u",
-    "name": "Bang U",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-4-pink",
-    "name": "Pink",
+    "site_id": "msat#ch-31-hrt-2",
+    "name": "HRT 2",
     "lang": "bs",
     "region": "MSAT"
   },
   {
-    "site_id": "msat#ch-euro-cinema-2",
-    "name": "Euro Cinema 2",
+    "site_id": "msat#ch-364-prva-files",
+    "name": "Prva Files",
     "lang": "bs",
     "region": "MSAT"
   },
   {
-    "site_id": "iptv#ch-332-travel-channel",
-    "name": "Travel Channel",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-77-arena-sport-1-hd-srbija",
-    "name": "Arena Sport 5 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-156-pink-classic",
-    "name": "Pink Classic",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-199-dm-sat",
-    "name": "DM SAT",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-437-toxic-folk",
-    "name": "Toxic Folk",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-televizija-m",
-    "name": "Televizija M",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-272-amc",
-    "name": "AMC",
+    "site_id": "msat#ch-411-k1",
+    "name": "K1",
     "lang": "bs",
     "region": "MSAT"
   },
   {
-    "site_id": "msat#ch-422-msat-info",
-    "name": "m:SAT Info",
+    "site_id": "msat#ch-433-rts-klasika",
+    "name": "RTS Klasika",
     "lang": "bs",
     "region": "MSAT"
   },
   {
-    "site_id": "iptv#ch-37-face-tv",
-    "name": "FACE TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-119-national-geographic",
-    "name": "National Geographic",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-136-pink-crime-mystery",
-    "name": "Pink Crime \u0026 Mystery",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-hayat-love-box",
-    "name": "Hayat Love Box",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-410-tv-dr",
-    "name": "TV DR",
+    "site_id": "msat#ch-288-pink-bh",
+    "name": "Pink BH",
     "lang": "bs",
     "region": "MSAT"
   },
   {
-    "site_id": "iptv#ch-35-hayat-tv",
-    "name": "HAYAT TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-78-alfa-tv",
-    "name": "ALFA TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-153-24-kitchen",
-    "name": "24 Kitchen",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-79-eurosport-1-hd",
-    "name": "Eurosport 1 HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-premier-league-tv",
-    "name": "Premier League TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-20-rts-2",
-    "name": "RTS 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-1-pink-family",
-    "name": "Pink Family",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-48-rts-kolo",
-    "name": "RTS Kolo",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-204-france-24",
-    "name": "France 24",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-euro-cinema-3",
-    "name": "Euro Cinema 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-336-dw-english",
-    "name": "DW English",
+    "site_id": "msat#ch-335-euronews",
+    "name": "Euronews",
     "lang": "bs",
     "region": "MSAT"
   },
@@ -936,20 +72,62 @@
     "region": "MSAT"
   },
   {
-    "site_id": "msat#ch-blic-tv-hd",
-    "name": "Blic TV HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-21-rts-nauka-hd",
-    "name": "RTS Nauka HD",
+    "site_id": "iptv#ch-364-prva-files",
+    "name": "Prva Files",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-122-filmbox-stars",
-    "name": "Filmbox Stars",
+    "site_id": "iptv#ch-premier-league-tv-hd",
+    "name": "Premier League TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-radio-pletenica",
+    "name": "RTS Pletenica",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-rtv-hb-hd",
+    "name": "RTV HB HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-363-prva-life",
+    "name": "Prva Life",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-158-rtl-living",
+    "name": "RTL Living",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-430-red-tv",
+    "name": "Red TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-430-red-tv",
+    "name": "Red TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-180-pink-hits",
+    "name": "PINK HITS",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-457-naxi-kids-radio",
+    "name": "Naxi Kids Radio",
     "lang": "bs",
     "region": "IPTV"
   },
@@ -960,8 +138,686 @@
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-363-prva-life",
-    "name": "Prva Life",
+    "site_id": "iptv#ch-438-cartoon-network",
+    "name": "Cartoon Network",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-142-pink-pedia",
+    "name": "PINK PEDIA",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-220-lol",
+    "name": "LOL",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-463-hrt-2-hd",
+    "name": "HRT 2 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-rt-documentary-hd",
+    "name": "RT Documentary",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-398-nba-tv-hd",
+    "name": "NBA TV HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-121-national-geographic-wild",
+    "name": "National Geographic Wild",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-182-pink-erotic-3",
+    "name": "Pink Erotic 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-private-tv",
+    "name": "Private TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-224-pink-roll",
+    "name": "Pink\u0026Roll",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-185-pink-hits-2",
+    "name": "Pink Hits 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-401-turizam-plus-tv",
+    "name": "Turizam TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-165-pink-serije",
+    "name": "Pink Serije",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-412-viasat-nature-hd",
+    "name": "Viasat Nature HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-461-balkan-trip-hd",
+    "name": "Balkan Trip HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-ekovizija",
+    "name": "Ekovizija",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-euro-cinema-4",
+    "name": "Euro Cinema 4",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-225-ftv",
+    "name": "FTV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-bbc-earth",
+    "name": "BBC Earth",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-26-o-kanal",
+    "name": "O Kanal HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-77-arena-sport-1-hd-srbija",
+    "name": "Arena Sport 5 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-391-timeless-dizi-channel",
+    "name": "Timeless Dizi Channel",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-428-tv-101",
+    "name": "TV 101",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-409-kazbuka",
+    "name": "Kazbuka",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-42-pink-m",
+    "name": "PINK M",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-147-agro-tv",
+    "name": "Agro TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-ekovizija-hd",
+    "name": "Ekovizija HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-superstar-3-hd",
+    "name": "SUPERSTAR 3 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-91-pink-super-kids",
+    "name": "Pink Super Kids",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-425-super-sat-tv",
+    "name": "Super Sat TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-121-national-geographic-wild",
+    "name": "National Geographic Wild",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-70-fast-funbox",
+    "name": "FAST\u0026FUNBOX",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-95-nick-jr",
+    "name": "NICK JR.",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-290-ras-tv",
+    "name": "RAS TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-blic-tv-hd",
+    "name": "Blic TV HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-48-rts-kolo",
+    "name": "RTS Kolo",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-110-axn",
+    "name": "AXN",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-112-axn-spin",
+    "name": "AXN Spin",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-161-pink-soap",
+    "name": "Pink Soap",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-164-pink-film",
+    "name": "Pink Film",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-32-hrt-3",
+    "name": "HRT 3",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-214-pink-zabava",
+    "name": "PINK ZABAVA",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-367-ex-yu-melody",
+    "name": "EX YU Melody",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-76-arena-sport-4-hd",
+    "name": "Arena Sport 4 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-154-pink-western",
+    "name": "Pink Western",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-439-otv-valentino",
+    "name": "OTV Valentino",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-138-viasat-history",
+    "name": "Viasat History",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-179-pink-erotic",
+    "name": "Pink Erotic",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-451-food-network",
+    "name": "Food Network",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-54-arena-sport-2",
+    "name": "Arena Sport 2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-18-rtrs-plus",
+    "name": "RTRS Plus",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-114-fox",
+    "name": "Star Channel HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-133-pink-thriller",
+    "name": "Pink Thriller",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-tv-rudo-hd",
+    "name": "TV Rudo",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-111-hbo-3-hd",
+    "name": "HBO 3 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-331-koreni",
+    "name": "Koreni",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-349-melos-tv",
+    "name": "Melos TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-397-zadruga-4",
+    "name": "Elita Live 4",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-15-bht",
+    "name": "BHT 1",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-11-rtrs",
+    "name": "RTRS",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-136-pink-crime-mystery",
+    "name": "Pink Crime \u0026 Mystery",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-25-al-jazeera-balkans",
+    "name": "AL Jazeera Balkans",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-46-rts-drama",
+    "name": "RTS Drama",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-83-hayat-plus",
+    "name": "Hayat 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-143-pink-romance",
+    "name": "Pink Romance",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-433-rts-klasika",
+    "name": "RTS Klasika",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-174-pink-music",
+    "name": "Pink Music",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-423-dexy-tv",
+    "name": "Dexy TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-79-eurosport-1-hd",
+    "name": "Eurosport 1 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-107-tv-1000",
+    "name": "TV 1000",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-115-cinemax-2-hd",
+    "name": "Cinemax 2 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-445-mtv-00s",
+    "name": "MTV 00s",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-arena-premium-1",
+    "name": "Arena Premium 1",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-1-pink-family",
+    "name": "Pink Family",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-406-arena-esport-hd",
+    "name": "Arena Esport HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-o-kanal-plus-hd",
+    "name": "O Kanal Plus HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-una-tv",
+    "name": "UNA TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-79-eurosport-1-hd",
+    "name": "Eurosport 1 HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-72-arena-sport-1-hd",
+    "name": "Arena Sport 1 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-330-tv-hram",
+    "name": "TV Hram",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-332-travel-channel",
+    "name": "Travel Channel",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-449-vesti",
+    "name": "Vesti",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-arena-sport-6",
+    "name": "Arena Sport 6",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-euro-cinema-1",
+    "name": "Euro Cinema 1",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-4-pink",
+    "name": "Pink",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-181-pink-erotic-2",
+    "name": "Pink Erotic 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-22-rtv-1",
+    "name": "RTV 1",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-127-tlc",
+    "name": "TLC",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-327-rts-3",
+    "name": "RTS 3",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-293-superstar-tv",
+    "name": "Superstar",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-6-happy-tv",
+    "name": "Happy TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-149-pink-sci-fi-fantasy",
+    "name": "Pink Sci-Fi \u0026 Fantasy",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-263-hayat-hd",
+    "name": "Hayat HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-481-euronews-serbia",
+    "name": "Euronews Serbia",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-296-gametoon",
+    "name": "Gametoon",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-452-svetska-srpska-tv",
+    "name": "RTV Puls Brčko distrikt BiH",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-468-bn-2",
+    "name": "BN 2 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-11-rtrs",
+    "name": "RTRS",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-470-izvorna-tv",
+    "name": "Izvorna TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-116-fox-life",
+    "name": "Star LIFE",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-lh-tv-hd",
+    "name": "LH TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-45-rts-zivot",
+    "name": "RTS Život",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-126-pink-premium",
+    "name": "Pink Premium",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-289-bn-hd",
+    "name": "BN HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-291-one",
+    "name": "ONE",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-444-hgtv",
+    "name": "HGTV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-137-viasat-explore",
+    "name": "Viasat Explore",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-3-rts-1",
+    "name": "RTS 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-207-cgtn",
+    "name": "CGTN HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-75-arena-sport-3-hd",
+    "name": "Arena Sport 3 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-176-pink-music-2",
+    "name": "Pink Music 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-465-arena-fight-hd",
+    "name": "Arena Fight HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-hrt-4-hd",
+    "name": "HRT 4 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-rtv-gradiska-hd",
+    "name": "RTV Gradiška HD",
     "lang": "bs",
     "region": "IPTV"
   },
@@ -972,8 +828,1310 @@
     "region": "MSAT"
   },
   {
-    "site_id": "msat#ch-109-hbo-2-hd",
-    "name": "HBO 2 HD",
+    "site_id": "msat#ch-444-hgtv",
+    "name": "HGTV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-199-dm-sat",
+    "name": "DM SAT",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-bir-tv",
+    "name": "Bir TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-104-cinemax",
+    "name": "CINEMAX",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-133-pink-thriller",
+    "name": "Pink Thriller",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-56-arena-sport-4",
+    "name": "Arena Sport 4",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-1-pink-family",
+    "name": "Pink Family",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-24-kitchen",
+    "name": "24 Kitchen",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-58-eurosport-1",
+    "name": "Eurosport 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-32-hrt-3",
+    "name": "HRT 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-117-fox-crime",
+    "name": "Star CRIME",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-404-dox-tv",
+    "name": "DOX TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-arena-premium-3-hd",
+    "name": "Arena Premium 3 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-215-pink-world",
+    "name": "PINK WORLD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-370-amari",
+    "name": "Amari",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-450-ftv-hd",
+    "name": "FTV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-140-docubox-hd",
+    "name": "Docubox",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-216-pink-show",
+    "name": "PINK SHOW",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-432-boomerang",
+    "name": "Cartoonito",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-56-arena-sport-4",
+    "name": "Arena Sport 4",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-106-cinemax-2",
+    "name": "CINEMAX 2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-192-bn-music",
+    "name": "BN Music",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-359-b92",
+    "name": "B92",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-403-klasik-tv",
+    "name": "Klasik",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-204-france-24",
+    "name": "France 24",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-209-pink-folk",
+    "name": "Pink Folk",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-375-bang-u",
+    "name": "Bang U",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-409-kazbuka",
+    "name": "Kazbuka",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-388-rts-poletarac",
+    "name": "RTS Poletarac",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-272-amc",
+    "name": "AMC",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-361-prva-world",
+    "name": "Prva World",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-359-b92",
+    "name": "B92",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-468-tanjug-tv",
+    "name": "Tanjug TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-hype-2",
+    "name": "Hype 2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-insta-tv",
+    "name": "Narodna TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-456-naxi-radio",
+    "name": "Naxi Radio",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-311-rts-2-hd",
+    "name": "RTS 2 HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-484-arena-esport",
+    "name": "Arena Esport",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-arena-premium-3",
+    "name": "Arena Premium 3",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-euro-cinema-3",
+    "name": "Euro Cinema 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-4-pink",
+    "name": "Pink",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-6-happy-tv",
+    "name": "Happy TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-54-arena-sport-2",
+    "name": "Arena Sport 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-98-da-vinci-learning",
+    "name": "Da Vinci Learning",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-104-cinemax",
+    "name": "CINEMAX",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-431-kuvo-tv-hd",
+    "name": "Kuvo TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-175-erox-hd",
+    "name": "EROX",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-206-bravo-music",
+    "name": "Bravo Music",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-arena-premium-2-hd",
+    "name": "Arena Premium 2 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-14-nova-bh",
+    "name": "Nova BH",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-34-rtl-hd",
+    "name": "RTL HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-407-toxic-tv",
+    "name": "Toxic TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-yachting-tv-hd",
+    "name": "Yachting TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-203-pink-folk-2",
+    "name": "PINK FOLK 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-446-hype-tv",
+    "name": "Hype TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-462-hrt-1-hd",
+    "name": "HRT 1 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-hayat-zivot-i-stil",
+    "name": "Hayat Život i Stil",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-moj-astrolog-hd",
+    "name": "Moj astrolog HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-radio-beograd-1",
+    "name": "Radio Beograd 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-arena-premium-2",
+    "name": "Arena Premium 2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-19-rts-svet",
+    "name": "RTS Svet",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-186-pink-erotic-5",
+    "name": "Pink Erotic 5",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-obn-hd",
+    "name": "OBN HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-485-kuvo-tv",
+    "name": "Kuvo TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-199-dm-sat",
+    "name": "DM SAT",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-309-rts-svet-hd",
+    "name": "RTS Svet HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-149-pink-sci-fi-fantasy",
+    "name": "Pink Sci-Fi \u0026 Fantasy",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-374-realty-kings",
+    "name": "Realty Kings",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-437-toxic-folk",
+    "name": "Toxic Folk",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-471-vikom",
+    "name": "VIKOM",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-154-pink-western",
+    "name": "Pink Western",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-407-toxic-tv",
+    "name": "Toxic TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-17-tv-k3-hd",
+    "name": "TV K3 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-227-english-club-tv",
+    "name": "English Club TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-429-cnn",
+    "name": "CNN",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-422-msat-info",
+    "name": "m:SAT Info",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-arena-sport-6",
+    "name": "Arena Sport 6",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-126-pink-premium",
+    "name": "Pink Premium",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-crime-investigation",
+    "name": "Crime \u0026 Investigation",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-radio-beograd-3",
+    "name": "Radio Beograd 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-89-minimax",
+    "name": "Minimax",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-125-animal-planet",
+    "name": "Animal Planet",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-210-kcn-3",
+    "name": "K:CN 3",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-euro-cinema-2",
+    "name": "Euro Cinema 2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-289-bn-hd",
+    "name": "BN HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-49-rts-trezor",
+    "name": "RTS Trezor",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-388-rts-poletarac",
+    "name": "RTS Poletarac",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-447-euronews-serbia-hd",
+    "name": "Euronews Serbia HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-51-elta-1-hd",
+    "name": "ELTA 1 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-176-pink-music-2",
+    "name": "Pink Music 2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-119-national-geographic",
+    "name": "National Geographic",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-127-tlc",
+    "name": "TLC",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-458-naxi-rock-radio",
+    "name": "Naxi Rock Radio",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-brazzers",
+    "name": "Brazzers",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-173-hustler",
+    "name": "HUSTLER",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-210-kcn-3",
+    "name": "K:CN 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-59-eurosport-2",
+    "name": "Eurosport 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-219-ha-ha",
+    "name": "HA HA",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-euro-cinema-2",
+    "name": "Euro Cinema 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-483-rtl-2",
+    "name": "RTL 2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-113-cinemax-hd",
+    "name": "Cinemax HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-129-pink-world-cinema",
+    "name": "Pink World Cinema",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-188-pink-erotic-6",
+    "name": "Pink Erotic 6",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-365-eg-melody",
+    "name": "EG Melody",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-404-dox-tv",
+    "name": "DOX TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-446-hype-tv",
+    "name": "Hype TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-440-arena-sport-1-2",
+    "name": "Arena sport 1x2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-466-rtl-kockica-hd",
+    "name": "RTL KOCKICA HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-402-tv-mreza-most",
+    "name": "TV Mreža Most",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-21-rts-nauka-hd",
+    "name": "RTS Nauka HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-108-hbo-hd",
+    "name": "HBO HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-459-big-radio-1",
+    "name": "BIG Radio 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-92-pink-kids",
+    "name": "Pink Kids",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-122-filmbox-stars",
+    "name": "Filmbox Stars",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-166-fashionbox",
+    "name": "Fashionbox",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-424-nicktoons",
+    "name": "NickToons",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-13-atv-hd",
+    "name": "ATV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-360-prva-max",
+    "name": "Prva Max",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-453-radio-bn",
+    "name": "Radio BN",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-89-minimax",
+    "name": "Minimax",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-35-hayat-tv",
+    "name": "HAYAT TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-187-kontakt-tv",
+    "name": "Kontakt TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-195-russia-24",
+    "name": "RUSSIA 24",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-euro-cinema-1",
+    "name": "Euro Cinema 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-369-hits-melody",
+    "name": "Hits Melody",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-100-hayatovci",
+    "name": "HAYATOVCI",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-284-balkan-tv",
+    "name": "Balkan TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-16-obn",
+    "name": "OBN",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-128-id",
+    "name": "ID",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-169-360-tune-box",
+    "name": "360 Tune Box",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-208-city-play",
+    "name": "City Play",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-94-nickelodeon",
+    "name": "Nickelodeon",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-135-viasat-nature",
+    "name": "Viasat Nature",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-361-prva-world",
+    "name": "Prva World",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-100-hayatovci",
+    "name": "HAYATOVCI",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-22-rtv-1",
+    "name": "RTV 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-120-filmbox-extra",
+    "name": "Filmbox Extra",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-134-history2",
+    "name": "History 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-74-arena-sport-2-hd",
+    "name": "Arena Sport 2 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-270-extreme-sports",
+    "name": "Extreme Sports",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-435-liverpool-fc-tv",
+    "name": "Liverpool FC TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-266-mtel-info",
+    "name": "m:tel Info",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-37-face-tv",
+    "name": "FACE TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-90-tv-prijedor",
+    "name": "TV Prijedor",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-211-kcn-2-music",
+    "name": "K:CN 2 Music",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-223-hayat-folk",
+    "name": "Hayat Folk Box",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-410-tv-dr",
+    "name": "TV DR",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-242-t1",
+    "name": "tß1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-271-jim-jam",
+    "name": "Jim Jam",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-398-nba-tv-hd",
+    "name": "NBA TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-blue-hustler",
+    "name": "Blue Hustler",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-368-folk-melody",
+    "name": "Folk Melody",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-108-hbo-hd",
+    "name": "HBO HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-189-pink-erotic-7",
+    "name": "Pink Erotic 7",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-358-prva",
+    "name": "Prva",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-395-zadruga-2",
+    "name": "Elita Live 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-265-ntv-arena",
+    "name": "NTV Arena",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-373-babes-tv",
+    "name": "Babes TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-405-dexy-tv-hd",
+    "name": "Dexy TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-449-vesti",
+    "name": "Vesti",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-165-pink-serije",
+    "name": "Pink Serije",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-331-koreni",
+    "name": "Koreni",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-393-tv-d-plus",
+    "name": "TV D+",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-radio-beograd-2",
+    "name": "Radio Beograd 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-sky-news",
+    "name": "Sky News",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-29-kcn",
+    "name": "K:CN",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-superstar-3",
+    "name": "Superstar 3",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-223-hayat-folk",
+    "name": "Hayat Folk Box",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-455-kontakt-radio",
+    "name": "Kontakt Radio",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-128-id",
+    "name": "ID",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-67-fight-network",
+    "name": "Fight Network",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-86-tv-simic-hd",
+    "name": "TV SIMIĆ HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-14-nova-bh-hd",
+    "name": "Nova BH HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-55-arena-sport-3",
+    "name": "Arena Sport 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-toxic-rap",
+    "name": "Toxic Rap",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-119-national-geographic",
+    "name": "National Geographic",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-329-al-jazeera",
+    "name": "Al Jazeera",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-393-tv-d-plus",
+    "name": "TV D+",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-288-pink-bh",
+    "name": "Pink BH",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-newsmax-balkans-hd",
+    "name": "Newsmax Balkans HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-53-arena-sport-1",
+    "name": "Arena Sport 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-226-mtv-80s",
+    "name": "MTV 80’s",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-37-face-tv",
+    "name": "FACE TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-448-tanjug-tv",
+    "name": "Tanjug TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-33-vikom",
+    "name": "VIKOM",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-78-alfa-tv",
+    "name": "ALFA TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-80-eurosport-2-hd",
+    "name": "Eurosport 2 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-340-agro-tv-hd",
+    "name": "Agro TV HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-newsmax-balkans",
+    "name": "Newsmax Balkans",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-81-rtv-kd",
+    "name": "RTV KD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-376-adult-1",
+    "name": "Adult 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-radio-beograd-202",
+    "name": "Radio Beograd 202",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-45-rts-zivot",
+    "name": "RTS Život",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-162-fashion",
+    "name": "Fashion",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-399-tropik-tv-hd",
+    "name": "Tropik TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-420-rtv-usk-hd",
+    "name": "RTV USK HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-442-superstar-2",
+    "name": "Superstar 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-39-rtv-hit",
+    "name": "RTV HIT",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-101-hbo",
+    "name": "HBO",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-177-eroxxx-hd",
+    "name": "EROXXX",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-472-bn-music-hd",
+    "name": "BN Music HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-insta-tv-hd",
+    "name": "Narodna TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-moj-astrolog",
+    "name": "Moj astrolog",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-106-cinemax-2",
+    "name": "CINEMAX 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-137-viasat-explore",
+    "name": "Viasat Explore",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-286-filmbox-premium",
+    "name": "Filmbox Premium",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-385-rtv-2",
+    "name": "RTV 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-440-arena-sport-1-2",
+    "name": "Arena sport 1x2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-225-ftv",
+    "name": "FTV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-363-prva-life",
+    "name": "Prva Life",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-396-zadruga-3",
+    "name": "Elita Live 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-464-liverpool-hd",
+    "name": "Liverpool FC TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-arena-premium-1",
+    "name": "Arena Premium 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-arena-sport-6-hd",
+    "name": "Arena Sport 6 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-o-kanal-music-hd",
+    "name": "O Kanal Music HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-146-pink-comedy",
+    "name": "Pink Comedy",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-145-pink-movies",
+    "name": "Pink Movies",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-304-nickelodeon-junior",
+    "name": "Nickelodeon Junior",
     "lang": "bs",
     "region": "MSAT"
   },
@@ -990,1442 +2148,14 @@
     "region": "MSAT"
   },
   {
-    "site_id": "iptv#ch-70-fast-funbox",
-    "name": "FAST\u0026FUNBOX",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-360-prva-max",
-    "name": "Prva Max",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-16-obn",
-    "name": "OBN",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-135-viasat-nature",
-    "name": "Viasat Nature",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-rt-documentary-hd",
-    "name": "RT Documentary",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-364-prva-files",
-    "name": "Prva Files",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-34-rtl-hd",
-    "name": "RTL HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-56-arena-sport-4",
-    "name": "Arena Sport 4",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-103-hbo-3",
-    "name": "HBO 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-104-cinemax",
-    "name": "CINEMAX",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-468-bn-2",
-    "name": "BN 2 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-290-ras-tv",
-    "name": "RAS TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-31-hrt-2",
-    "name": "HRT 2",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-225-ftv",
-    "name": "FTV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-217-pink-plus",
-    "name": "PINK PLUS",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-sky-news",
-    "name": "Sky News",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-89-minimax",
-    "name": "Minimax",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-89-minimax",
-    "name": "Minimax",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-410-tv-dr",
-    "name": "TV DR",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-390-tv-niksic",
-    "name": "TV Nikšić",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-401-turizam-plus-tv",
-    "name": "Turizam TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-51-elta-1-hd",
-    "name": "ELTA 1 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-109-hbo-2-hd",
-    "name": "HBO 2 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-176-pink-music-2",
-    "name": "Pink Music 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-211-kcn-2-music",
-    "name": "K:CN 2 Music",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-309-rts-svet-hd",
-    "name": "RTS Svet HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-118-history",
-    "name": "HISTORY",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-327-rts-3",
-    "name": "RTS 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-rtv-zenica-hd",
-    "name": "RTV Zenica HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-yachting-tv-hd",
-    "name": "Yachting TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-80-eurosport-2-hd",
-    "name": "Eurosport 2 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-466-rtl-kockica-hd",
-    "name": "RTL KOCKICA HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-408-balkan-trip",
-    "name": "Balkan Trip",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-435-liverpool-fc-tv",
-    "name": "Liverpool FC TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-76-arena-sport-4-hd",
-    "name": "Arena Sport 4 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-informer-tv-hd",
-    "name": "Informer TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-72-arena-sport-1-hd",
-    "name": "Arena Sport 1 HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-32-hrt-3",
-    "name": "HRT 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-446-hype-tv",
-    "name": "Hype TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-superstar-3-hd",
-    "name": "SUPERSTAR 3 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-123-discovery-channel",
-    "name": "Discovery Channel",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-arena-premium-1-hd",
-    "name": "Arena Premium 1 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-premier-league-tv-hd",
-    "name": "Premier League TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-private-tv",
-    "name": "Private TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-396-zadruga-3",
-    "name": "Elita Live 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-419-kurir-tv-hd",
-    "name": "Kurir TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-121-national-geographic-wild",
-    "name": "National Geographic Wild",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-361-prva-world",
-    "name": "Prva World",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-446-hype-tv",
-    "name": "Hype TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-53-arena-sport-1",
-    "name": "Arena Sport 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-74-arena-sport-2-hd",
-    "name": "Arena Sport 2 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-83-hayat-plus",
-    "name": "Hayat 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-86-tv-simic-hd",
-    "name": "TV SIMIĆ HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-158-rtl-living",
-    "name": "RTL Living",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-224-pink-roll",
-    "name": "Pink\u0026Roll",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-134-history2",
-    "name": "History 2",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-146-pink-comedy",
-    "name": "Pink Comedy",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-143-pink-romance",
-    "name": "Pink Romance",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-150-pink-style",
-    "name": "Pink Style",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-407-toxic-tv",
-    "name": "Toxic TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-39-rtv-hit",
-    "name": "RTV HIT",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-121-national-geographic-wild",
-    "name": "National Geographic Wild",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-452-svetska-srpska-tv",
-    "name": "RTV Puls Brčko distrikt BiH",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-15-bht",
-    "name": "BHT 1",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-407-toxic-tv",
-    "name": "Toxic TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-bbc-earth",
-    "name": "BBC Earth",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-14-nova-bh-hd",
-    "name": "Nova BH HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-55-arena-sport-3",
-    "name": "Arena Sport 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-dankos-plus-tv",
-    "name": "Dankos Plus TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-434-arena-fight",
-    "name": "Arena Fight",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-228-al-jazeera-balkans-hd",
-    "name": "AL Jazeera Balkans HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-397-zadruga-4",
-    "name": "Elita Live 4",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-100-hayatovci",
-    "name": "HAYATOVCI",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-120-filmbox-extra",
-    "name": "Filmbox Extra",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-154-pink-western",
-    "name": "Pink Western",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-394-zadruga-1",
-    "name": "Elita Live 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-458-naxi-rock-radio",
-    "name": "Naxi Rock Radio",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-ekovizija-hd",
-    "name": "Ekovizija HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-429-cnn",
-    "name": "CNN",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-206-bravo-music",
-    "name": "Bravo Music",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-266-mtel-info",
-    "name": "m:tel Info",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-toxic-rap",
-    "name": "Toxic Rap",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-138-viasat-history",
+    "site_id": "iptv#ch-138-viasat-history",
     "name": "Viasat History",
     "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-388-rts-poletarac",
-    "name": "RTS Poletarac",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-460-big-radio-2",
-    "name": "BIG Radio 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-186-pink-erotic-5",
-    "name": "Pink Erotic 5",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-284-balkan-tv",
-    "name": "Balkan TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-315-sos-kanal-plus",
-    "name": "SOS Kanal Plus",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-440-arena-sport-1-2",
-    "name": "Arena sport 1x2",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-226-mtv-80s",
-    "name": "MTV 80’s",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-obn-hd",
-    "name": "OBN HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-radio-dzuboks",
-    "name": "RTS Džuboks",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-rtv-hb-hd",
-    "name": "RTV HB HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-turizam-tv",
-    "name": "Turizam TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-445-mtv-00s",
-    "name": "MTV 00s",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-arena-sport-6-hd",
-    "name": "Arena Sport 6 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-391-timeless-dizi-channel",
-    "name": "Timeless Dizi Channel",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-46-rts-drama",
-    "name": "RTS Drama",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-166-fashionbox",
-    "name": "Fashionbox",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-467-euronews-serbia-hd",
-    "name": "Euronews Serbia HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-104-cinemax",
-    "name": "CINEMAX",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-330-tv-hram",
-    "name": "TV Hram",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-hype-2",
-    "name": "Hype 2",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-58-eurosport-1",
-    "name": "Eurosport 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-288-pink-bh",
-    "name": "Pink BH",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-165-pink-serije",
-    "name": "Pink Serije",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-484-arena-esport",
-    "name": "Arena Esport",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-227-english-club-tv",
-    "name": "English Club TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-hrt-4-hd",
-    "name": "HRT 4 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-29-kcn",
-    "name": "K:CN",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-37-face-tv",
-    "name": "FACE TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-355-studio-b",
-    "name": "Studio B",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-411-k1",
-    "name": "K1",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-arena-premium-3",
-    "name": "Arena Premium 3",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-110-axn",
-    "name": "AXN",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-291-one",
-    "name": "ONE",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-393-tv-d-plus",
-    "name": "TV D+",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-425-super-sat-tv",
-    "name": "Super Sat TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-456-naxi-radio",
-    "name": "Naxi Radio",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-359-b92",
-    "name": "B92",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-433-rts-klasika",
-    "name": "RTS Klasika",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-36-rtl-2-hd",
-    "name": "RTL 2 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-66-sos-kanal",
-    "name": "SOS Kanal",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-438-cartoon-network",
-    "name": "Cartoon Network",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-288-pink-bh",
-    "name": "Pink BH",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-arena-premium-3",
-    "name": "Arena Premium 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-147-agro-tv",
-    "name": "Agro TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-281-bvn",
-    "name": "BVN",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-282-epic-drama",
-    "name": "Epic Drama",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-363-prva-life",
-    "name": "Prva Life",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-insta-tv-hd",
-    "name": "Narodna TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-106-cinemax-2",
-    "name": "CINEMAX 2",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-310-rts-1-hd",
-    "name": "RTS 1 HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-379-adult-4",
-    "name": "Adult 4",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-arena-premium-3-hd",
-    "name": "Arena Premium 3 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-crime-investigation",
-    "name": "Crime \u0026 Investigation",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-14-nova-bh",
-    "name": "Nova BH",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-22-rtv-1",
-    "name": "RTV 1",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-482-rtl",
-    "name": "RTL",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-111-hbo-3-hd",
-    "name": "HBO 3 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-159-pink-horror",
-    "name": "Pink Horror",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-283-bht-hd",
-    "name": "BHT 1 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-440-arena-sport-1-2",
-    "name": "Arena sport 1x2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-364-prva-files",
-    "name": "Prva Files",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-arena-sport-6",
-    "name": "Arena Sport 6",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-403-klasik-tv",
-    "name": "Klasik",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-180-pink-hits",
-    "name": "PINK HITS",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-436-fox-news-channel",
-    "name": "Fox News Channel",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-11-rtrs",
-    "name": "RTRS",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-334-mtv-europe",
-    "name": "MTV Europe",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-349-melos-tv",
-    "name": "Melos TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-395-zadruga-2",
-    "name": "Elita Live 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-412-viasat-nature-hd",
-    "name": "Viasat Nature HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-33-vikom",
-    "name": "VIKOM",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-72-arena-sport-1-hd",
-    "name": "Arena Sport 1 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-125-animal-planet",
-    "name": "Animal Planet",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-271-jim-jam",
-    "name": "Jim Jam",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-293-superstar-tv",
-    "name": "Superstar",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-hayat-zivot-i-stil",
-    "name": "Hayat Život i Stil",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-45-rts-zivot",
-    "name": "RTS Život",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-174-pink-music",
-    "name": "Pink Music",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-296-gametoon",
-    "name": "Gametoon",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-arena-premium-1",
-    "name": "Arena Premium 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-180-pink-hits",
-    "name": "PINK HITS",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-263-hayat-hd",
-    "name": "Hayat HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-436-fox-news-channel",
-    "name": "Fox News Channel",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-3-rts-1",
-    "name": "RTS 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-168-mtv-hits-international",
-    "name": "MTV Hits International",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-rtv-gradiska-hd",
-    "name": "RTV Gradiška HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-108-hbo-hd",
-    "name": "HBO HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-26-o-kanal",
-    "name": "O Kanal HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-369-hits-melody",
-    "name": "Hits Melody",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-448-tanjug-tv",
-    "name": "Tanjug TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-83-hayat-plus",
-    "name": "Hayat 2",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-329-al-jazeera",
-    "name": "Al Jazeera",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-11-rtrs",
-    "name": "RTRS",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-453-radio-bn",
-    "name": "Radio BN",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-459-big-radio-1",
-    "name": "BIG Radio 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-221-pink-reality",
-    "name": "Pink Reality",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-313-prva-max",
-    "name": "Prva MAX",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-ekovizija",
-    "name": "Ekovizija",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-informer-tv",
-    "name": "Informer TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-una-tv",
-    "name": "UNA TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-25-al-jazeera-balkans",
-    "name": "AL Jazeera Balkans",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-50-rts-muzika",
-    "name": "RTS Muzika",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-429-cnn",
-    "name": "CNN",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-453-radio-rs",
-    "name": "Radio RS",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-420-rtv-usk-hd",
-    "name": "RTV USK HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-450-ftv-hd",
-    "name": "FTV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-462-hrt-1-hd",
-    "name": "HRT 1 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-485-kuvo-tv",
-    "name": "Kuvo TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-134-history2",
-    "name": "History 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-140-docubox-hd",
-    "name": "Docubox",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-465-arena-fight-hd",
-    "name": "Arena Fight HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-o-kanal-plus-hd",
-    "name": "O Kanal Plus HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-223-hayat-folk",
-    "name": "Hayat Folk Box",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-331-koreni",
-    "name": "Koreni",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-115-cinemax-2-hd",
-    "name": "Cinemax 2 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-188-pink-erotic-6",
-    "name": "Pink Erotic 6",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-222-hayat-music",
-    "name": "Hayat Music Box",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-340-agro-tv-hd",
-    "name": "Agro TV HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-201-rtr-planeta",
-    "name": "RTR PLANETA",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-289-bn-hd",
-    "name": "BN HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-421-kurir-tv",
-    "name": "Kurir TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-190-hifi-music",
-    "name": "HiFi Music",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-330-tv-hram",
-    "name": "TV Hram",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-103-hbo-3",
-    "name": "HBO 3",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-superstar-3",
-    "name": "Superstar 3",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-179-pink-erotic",
-    "name": "Pink Erotic",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-406-arena-esport-hd",
-    "name": "Arena Esport HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-radio-pletenica",
-    "name": "RTS Pletenica",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-426-superstar-tv-hd",
-    "name": "Superstar HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-127-tlc",
-    "name": "TLC",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-169-360-tune-box",
-    "name": "360 Tune Box",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-127-tlc",
-    "name": "TLC",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-222-hayat-music",
-    "name": "Hayat Music Box",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-15-bht",
-    "name": "BHT 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-208-city-play",
-    "name": "City Play",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-263-hayat-hd",
-    "name": "Hayat HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-378-adult-3",
-    "name": "Adult 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-428-tv-101",
-    "name": "TV 101",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-radio-beograd-3",
-    "name": "Radio Beograd 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-95-nick-jr",
-    "name": "NICK JR.",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-56-arena-sport-4",
-    "name": "Arena Sport 4",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-94-nickelodeon",
-    "name": "Nickelodeon",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-131-pink-action",
-    "name": "Pink Action",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-161-pink-soap",
-    "name": "Pink Soap",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-444-hgtv",
-    "name": "HGTV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-42-pink-m",
-    "name": "PINK M",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-131-pink-action",
-    "name": "Pink Action",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-67-fight-network",
-    "name": "Fight Network",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-92-pink-kids",
-    "name": "Pink Kids",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-arena-premium-2-hd",
-    "name": "Arena Premium 2 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-bloomberg-adria-hd",
-    "name": "Bloomberg Adria HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-128-id",
-    "name": "ID",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-185-pink-hits-2",
-    "name": "Pink Hits 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-286-filmbox-premium",
-    "name": "Filmbox Premium",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-399-tropik-tv-hd",
-    "name": "Tropik TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-442-superstar-2",
-    "name": "Superstar 2",
-    "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-hype-2",
-    "name": "Hype 2",
+    "site_id": "iptv#ch-bbc-earth-hd",
+    "name": "BBC Earth HD",
     "lang": "bs",
     "region": "IPTV"
   },
@@ -2436,110 +2166,56 @@
     "region": "MSAT"
   },
   {
-    "site_id": "iptv#ch-75-arena-sport-3-hd",
-    "name": "Arena Sport 3 HD",
+    "site_id": "msat#ch-385-rtv-2",
+    "name": "RTV 2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-408-balkan-trip",
+    "name": "Balkan Trip",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-93-hema-tv",
+    "name": "Hema TV",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-367-ex-yu-melody",
-    "name": "EX YU Melody",
+    "site_id": "iptv#ch-224-pink-roll",
+    "name": "Pink\u0026Roll",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-447-euronews-serbia-hd",
-    "name": "Euronews Serbia HD",
+    "site_id": "msat#ch-131-pink-action",
+    "name": "Pink Action",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-330-tv-hram",
+    "name": "TV Hram",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-153-24-kitchen",
+    "name": "24 Kitchen",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "msat#ch-154-pink-western",
-    "name": "Pink Western",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-insta-tv",
-    "name": "Narodna TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-125-animal-planet",
-    "name": "Animal Planet",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-176-pink-music-2",
-    "name": "Pink Music 2",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-335-euronews",
-    "name": "Euronews",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-423-dexy-tv",
-    "name": "Dexy TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-448-tanjug-tv",
-    "name": "Tanjug TV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-404-dox-tv",
-    "name": "DOX TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-405-dexy-tv-hd",
-    "name": "Dexy TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-468-tanjug-tv",
+    "site_id": "iptv#ch-448-tanjug-tv",
     "name": "Tanjug TV",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-newsmax-balkans-hd",
-    "name": "Newsmax Balkans HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-481-euronews-serbia",
-    "name": "Euronews Serbia",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-22-rtv-1",
-    "name": "RTV 1",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-112-axn-spin",
-    "name": "AXN Spin",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-470-izvorna-tv",
-    "name": "Izvorna TV",
+    "site_id": "iptv#ch-current-time",
+    "name": "Current Time TV HD",
     "lang": "bs",
     "region": "IPTV"
   },
@@ -2550,374 +2226,20 @@
     "region": "MSAT"
   },
   {
-    "site_id": "iptv#ch-13-atv-hd",
-    "name": "ATV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-41-herceg-tv",
-    "name": "Herceg TV HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-155-pink-kuvar",
-    "name": "Pink Kuvar",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-195-russia-24",
-    "name": "RUSSIA 24",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-210-kcn-3",
-    "name": "K:CN 3",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-457-naxi-kids-radio",
-    "name": "Naxi Kids Radio",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-80-eurosport-2-hd",
-    "name": "Eurosport 2 HD",
+    "site_id": "msat#ch-429-cnn",
+    "name": "CNN",
     "lang": "bs",
     "region": "MSAT"
   },
   {
-    "site_id": "iptv#ch-91-pink-super-kids",
-    "name": "Pink Super Kids",
+    "site_id": "iptv#ch-131-pink-action",
+    "name": "Pink Action",
     "lang": "bs",
     "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-289-bn-hd",
-    "name": "BN HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-331-koreni",
-    "name": "Koreni",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-123-discovery-channel",
-    "name": "Discovery Channel",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-208-city-play",
-    "name": "City Play",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-272-amc",
-    "name": "AMC",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-432-boomerang",
-    "name": "Cartoonito",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-radio-vrteska",
-    "name": "RTS Vrteška",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-45-rts-zivot",
-    "name": "RTS Život",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-una-tv",
-    "name": "UNA TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-55-arena-sport-3",
-    "name": "Arena Sport 3",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-119-national-geographic",
-    "name": "National Geographic",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-17-tv-k3-hd",
-    "name": "TV K3 HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-451-food-network",
-    "name": "Food Network",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-480-bn-hd",
-    "name": "BN HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-377-adult-2",
-    "name": "Adult 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-tv-rudo-hd",
-    "name": "TV Rudo",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-arena-premium-1",
-    "name": "Arena Premium 1",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-403-klasik-tv",
-    "name": "Klasik",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-486-superstar-2-hd",
-    "name": "Superstar 2 TV HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-29-kcn",
-    "name": "K:CN",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-165-pink-serije",
-    "name": "Pink Serije",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-181-pink-erotic-2",
-    "name": "Pink Erotic 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-198-rt-news-tv",
-    "name": "RT NEWS TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-390-tv-niksic",
-    "name": "TV Nikšić",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-32-hrt-3",
-    "name": "HRT 3",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-444-hgtv",
-    "name": "HGTV",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-arena-premium-2",
-    "name": "Arena Premium 2",
-    "lang": "bs",
-    "region": "MSAT"
   },
   {
     "site_id": "iptv#ch-151-pink-fashion",
     "name": "Pink Fashion",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-215-pink-world",
-    "name": "PINK WORLD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-225-ftv",
-    "name": "FTV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-radio-beograd-2",
-    "name": "Radio Beograd 2",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-311-rts-2-hd",
-    "name": "RTS 2 HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-euro-cinema-1",
-    "name": "Euro Cinema 1",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-90-tv-prijedor",
-    "name": "TV Prijedor",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-108-hbo-hd",
-    "name": "HBO HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-13-atv-hd",
-    "name": "ATV HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-100-hayatovci",
-    "name": "HAYATOVCI",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-224-pink-roll",
-    "name": "Pink\u0026Roll",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-327-rts-3",
-    "name": "RTS 3",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-488-toxic-rap",
-    "name": "Toxic Rap",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-149-pink-sci-fi-fantasy",
-    "name": "Pink Sci-Fi \u0026 Fantasy",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-398-nba-tv-hd",
-    "name": "NBA TV HD",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-117-fox-crime",
-    "name": "Star CRIME",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-219-ha-ha",
-    "name": "HA HA",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-133-pink-thriller",
-    "name": "Pink Thriller",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-107-tv-1000",
-    "name": "TV 1000",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-18-rtrs-plus",
-    "name": "RTRS Plus",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "msat#ch-24-kitchen",
-    "name": "24 Kitchen",
-    "lang": "bs",
-    "region": "MSAT"
-  },
-  {
-    "site_id": "iptv#ch-133-pink-thriller",
-    "name": "Pink Thriller",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-454-nes-radio",
-    "name": "Nes radio",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-113-cinemax-hd",
-    "name": "Cinemax HD",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-184-pink-erotic-4",
-    "name": "Pink Erotic 4",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-265-ntv-arena",
-    "name": "NTV Arena",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-463-hrt-2-hd",
-    "name": "HRT 2 HD",
     "lang": "bs",
     "region": "IPTV"
   },
@@ -2928,8 +2250,362 @@
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-207-cgtn",
-    "name": "CGTN HD",
+    "site_id": "iptv#ch-263-hayat-hd",
+    "name": "Hayat HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-327-rts-3",
+    "name": "RTS 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-informer-tv-hd",
+    "name": "Informer TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-80-eurosport-2-hd",
+    "name": "Eurosport 2 HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-208-city-play",
+    "name": "City Play",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-411-k1",
+    "name": "K1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-221-pink-reality",
+    "name": "Pink Reality",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-391-timeless-dizi-channel",
+    "name": "Timeless Dizi Channel",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-68-fight-box",
+    "name": "FIGHT BOX",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-156-pink-classic",
+    "name": "Pink Classic",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-372-happy-reality-2",
+    "name": "Happy Reality 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-436-fox-news-channel",
+    "name": "Fox News Channel",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-469-adria-tv",
+    "name": "Adria TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-dankos-plus-tv",
+    "name": "Dankos Plus TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-383-tv-partizan",
+    "name": "TV Partizan",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-20-rts-2",
+    "name": "RTS 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-85-baby-tv",
+    "name": "BABY TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-184-pink-erotic-4",
+    "name": "Pink Erotic 4",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-222-hayat-music",
+    "name": "Hayat Music Box",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-358-prva",
+    "name": "Prva",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-168-mtv-hits-international",
+    "name": "MTV Hits International",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-190-hifi-music",
+    "name": "HiFi Music",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-390-tv-niksic",
+    "name": "TV Nikšić",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-460-big-radio-2",
+    "name": "BIG Radio 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-48-rts-kolo",
+    "name": "RTS Kolo",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-310-rts-1-hd",
+    "name": "RTS 1 HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-155-pink-kuvar",
+    "name": "Pink Kuvar",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-star-life-hd",
+    "name": "Star Life HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-174-pink-music",
+    "name": "Pink Music",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-211-kcn-2-music",
+    "name": "K:CN 2 Music",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-280-tv-zdravlje",
+    "name": "Zelena TV Zdravlje",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-72-arena-sport-1-hd",
+    "name": "Arena Sport 1 HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-una-tv",
+    "name": "UNA TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-109-hbo-2-hd",
+    "name": "HBO 2 HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-272-amc",
+    "name": "AMC",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-421-kurir-tv",
+    "name": "Kurir TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-426-superstar-tv-hd",
+    "name": "Superstar HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-66-sos-kanal",
+    "name": "SOS Kanal",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-bloomberg-adria-hd",
+    "name": "Bloomberg Adria HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-55-arena-sport-3",
+    "name": "Arena Sport 3",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-premier-league-tv",
+    "name": "Premier League TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-217-pink-plus",
+    "name": "PINK PLUS",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-118-history",
+    "name": "HISTORY",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-390-tv-niksic",
+    "name": "TV Nikšić",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-355-studio-b",
+    "name": "Studio B",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-36-rtl-2-hd",
+    "name": "RTL 2 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-150-pink-style",
+    "name": "Pink Style",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-403-klasik-tv",
+    "name": "Klasik",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-419-kurir-tv-hd",
+    "name": "Kurir TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-467-euronews-serbia-hd",
+    "name": "Euronews Serbia HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-480-bn-hd",
+    "name": "BN HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-13-atv-hd",
+    "name": "ATV HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-206-bravo-music",
+    "name": "Bravo Music",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-41-herceg-tv",
+    "name": "Herceg TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-136-pink-crime-mystery",
+    "name": "Pink Crime \u0026 Mystery",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-379-adult-4",
+    "name": "Adult 4",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-50-rts-muzika",
+    "name": "RTS Muzika",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-114-fox",
+    "name": "Star Channel HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-434-arena-fight",
+    "name": "Arena Fight",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-102-hbo-2",
+    "name": "HBO 2",
     "lang": "bs",
     "region": "IPTV"
   },
@@ -2940,46 +2616,202 @@
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-431-kuvo-tv-hd",
-    "name": "Kuvo TV HD",
+    "site_id": "iptv#ch-334-mtv-europe",
+    "name": "MTV Europe",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-461-balkan-trip-hd",
-    "name": "Balkan Trip HD",
+    "site_id": "iptv#ch-arena-premium-2",
+    "name": "Arena Premium 2",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-6-happy-tv",
-    "name": "Happy TV",
+    "site_id": "iptv#ch-hype-2",
+    "name": "Hype 2",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-93-hema-tv",
-    "name": "Hema TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-164-pink-film",
-    "name": "Pink Film",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "iptv#ch-430-red-tv",
-    "name": "Red TV",
-    "lang": "bs",
-    "region": "IPTV"
-  },
-  {
-    "site_id": "msat#ch-1-pink-family",
-    "name": "Pink Family",
+    "site_id": "msat#ch-46-rts-drama",
+    "name": "RTS Drama",
     "lang": "bs",
     "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-bloomberg-adria",
+    "name": "Bloomberg Adria",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-15-bht",
+    "name": "BHT 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-454-nes-radio",
+    "name": "Nes radio",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-turizam-tv",
+    "name": "Turizam TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-180-pink-hits",
+    "name": "PINK HITS",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-437-toxic-folk",
+    "name": "Toxic Folk",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-fox-crime",
+    "name": "Star CRIME",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-124-filmbox-arthouse",
+    "name": "Filmbox Arthouse",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-221-pink-reality",
+    "name": "Pink Reality",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-30-hrt-1",
+    "name": "HRT 1",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-informer-tv",
+    "name": "Informer TV",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-50-rts-muzika",
+    "name": "RTS Muzika",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-125-animal-planet",
+    "name": "Animal Planet",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-282-epic-drama",
+    "name": "Epic Drama",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-295-id-hd",
+    "name": "ID HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-400-zvezda-tv-hd",
+    "name": "Zvezda TV HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-arena-sport-5",
+    "name": "Arena Sport 5",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-281-bvn",
+    "name": "BVN",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-arena-premium-3",
+    "name": "Arena Premium 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-rtv-zenica-hd",
+    "name": "RTV Zenica HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-103-hbo-3",
+    "name": "HBO 3",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-482-rtl",
+    "name": "RTL",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-486-superstar-2-hd",
+    "name": "Superstar 2 TV HD",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-202-deutsche-welle",
+    "name": "DEUTSCHE WELLE",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-arena-premium-1-hd",
+    "name": "Arena Premium 1 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-radio-rokenroler",
+    "name": "RTS Rokenroler",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-47-rtv-i-sarajevo",
+    "name": "RTVIS",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-488-toxic-rap",
+    "name": "Toxic Rap",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-29-kcn",
+    "name": "K:CN",
+    "lang": "bs",
+    "region": "IPTV"
   },
   {
     "site_id": "iptv#ch-371-happy-reality-1",
@@ -2988,20 +2820,188 @@
     "region": "IPTV"
   },
   {
-    "site_id": "iptv#ch-391-timeless-dizi-channel",
-    "name": "Timeless Dizi Channel",
+    "site_id": "iptv#ch-blic-tv-hd",
+    "name": "Blic TV HD",
     "lang": "bs",
     "region": "IPTV"
   },
   {
-    "site_id": "msat#ch-114-fox",
-    "name": "Star Channel HD",
+    "site_id": "msat#ch-336-dw-english",
+    "name": "DW English",
     "lang": "bs",
     "region": "MSAT"
   },
   {
-    "site_id": "iptv#ch-374-realty-kings",
-    "name": "Realty Kings",
+    "site_id": "msat#ch-euro-cinema-3",
+    "name": "Euro Cinema 3",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-103-hbo-3",
+    "name": "HBO 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-134-history2",
+    "name": "History 2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-313-prva-max",
+    "name": "Prva MAX",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-436-fox-news-channel",
+    "name": "Fox News Channel",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-109-hbo-2-hd",
+    "name": "HBO 2 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-366-pop-melody",
+    "name": "Pop Melody",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-394-zadruga-1",
+    "name": "Elita Live 1",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-472-bn-music",
+    "name": "BN Music HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-radio-vrteska",
+    "name": "RTS Vrteška",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-146-pink-comedy",
+    "name": "Pink Comedy",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-201-rtr-planeta",
+    "name": "RTR PLANETA",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-228-al-jazeera-balkans-hd",
+    "name": "AL Jazeera Balkans HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-377-adult-2",
+    "name": "Adult 2",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-378-adult-3",
+    "name": "Adult 3",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-410-tv-dr",
+    "name": "TV DR",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-hayat-love-box",
+    "name": "Hayat Love Box",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-83-hayat-plus",
+    "name": "Hayat 2",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-283-bht-hd",
+    "name": "BHT 1 HD",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-467-superstar-tv",
+    "name": "Superstar",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-49-rts-trezor",
+    "name": "RTS Trezor",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "msat#ch-123-discovery-channel",
+    "name": "Discovery Channel",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-123-discovery-channel",
+    "name": "Discovery Channel",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-198-rt-news-tv",
+    "name": "RT NEWS TV",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-453-radio-rs",
+    "name": "Radio RS",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-radio-dzuboks",
+    "name": "RTS Džuboks",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "msat#ch-222-hayat-music",
+    "name": "Hayat Music Box",
+    "lang": "bs",
+    "region": "MSAT"
+  },
+  {
+    "site_id": "iptv#ch-159-pink-horror",
+    "name": "Pink Horror",
+    "lang": "bs",
+    "region": "IPTV"
+  },
+  {
+    "site_id": "iptv#ch-arena-sport-5",
+    "name": "Arena Sport 5",
     "lang": "bs",
     "region": "IPTV"
   }

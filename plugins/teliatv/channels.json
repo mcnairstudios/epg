@@ -1,313 +1,35 @@
 [
   {
-    "site_id": "en#11",
-    "name": "SAT 1",
+    "site_id": "en#1230",
+    "name": "ZDF",
     "lang": "de",
     "region": "EN",
-    "xmltv_id": "SAT1.de@SD"
+    "xmltv_id": "ZDF.de@SD"
   },
   {
-    "site_id": "en#52",
-    "name": "BBC World",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "BBCNews.uk@Europe"
-  },
-  {
-    "site_id": "et#1236",
-    "name": "HISTORY2",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#39",
-    "name": "MTV Europe",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#255",
-    "name": "TVEi",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "et#1224",
-    "name": "Food Network",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#230",
-    "name": "Viasat Explore",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "ViasatExplore.se@SD"
-  },
-  {
-    "site_id": "en#2",
-    "name": "TV3",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "en#89",
-    "name": "Al Jazeera",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AlJazeera.qa@English"
-  },
-  {
-    "site_id": "en#1343",
-    "name": "Kanal 7",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "et#33",
-    "name": "Discovery Science",
+    "site_id": "et#58",
+    "name": "Nickelodeon",
     "lang": "et",
     "region": "ET",
-    "xmltv_id": "DiscoveryScienceEurope.uk@Russia"
+    "xmltv_id": "Nickelodeon.ru@SD"
   },
   {
-    "site_id": "et#77",
-    "name": "Fox",
+    "site_id": "et#257",
+    "name": "Duo 3",
     "lang": "et",
     "region": "ET",
-    "xmltv_id": "Fox.ru@SD"
+    "xmltv_id": "Duo3.ee@SD"
   },
   {
-    "site_id": "ru#1",
-    "name": "ETV",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "ETV.ee@SD"
-  },
-  {
-    "site_id": "ru#2",
-    "name": "TV3",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "TV3.ee@SD"
-  },
-  {
-    "site_id": "ru#50",
-    "name": "CNN International",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "CNNInternational.us@MENA"
-  },
-  {
-    "site_id": "et#231",
-    "name": "Viasat History",
+    "site_id": "et#57",
+    "name": "Cartoonito",
     "lang": "et",
     "region": "ET",
-    "xmltv_id": "ViasatHistory.se@SD"
+    "xmltv_id": "CartoonitoCEE.uk@SD"
   },
   {
-    "site_id": "ru#1344",
-    "name": "Smartzone",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Smartzone.ee@SD"
-  },
-  {
-    "site_id": "en#26",
-    "name": "Discovery Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DiscoveryChannel.ru@SD"
-  },
-  {
-    "site_id": "et#2",
-    "name": "TV3",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "TV3.ee@SD"
-  },
-  {
-    "site_id": "et#69",
-    "name": "MTV 90s",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#79",
-    "name": "Nat Geo Wild",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "NationalGeographicWild.ru@SD"
-  },
-  {
-    "site_id": "ru#1286",
-    "name": "Euronews Rus",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "EuronewsRussian.fr@SD"
-  },
-  {
-    "site_id": "en#8",
-    "name": "TVXXI",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "et#140",
-    "name": "TVN",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#217",
-    "name": "DTX",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "DTX.ru@SD"
-  },
-  {
-    "site_id": "ru#256",
-    "name": "France 2",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "France2.fr@SD"
-  },
-  {
-    "site_id": "ru#829",
-    "name": "AMC",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "en#81",
-    "name": "Bloomberg TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "BloombergTV.us@Europe"
-  },
-  {
-    "site_id": "et#8",
-    "name": "TVXXI",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "TVXXI.lv@SD"
-  },
-  {
-    "site_id": "et#19",
-    "name": "National Geographic",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "NationalGeographic.ru@SD"
-  },
-  {
-    "site_id": "et#1238",
-    "name": "Filmzone",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "Filmzone.ee@SD"
-  },
-  {
-    "site_id": "en#59",
-    "name": "Euronews",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "EuronewsEnglish.fr@SD"
-  },
-  {
-    "site_id": "en#789",
-    "name": "Mezzo Live HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MezzoLive.fr@SD"
-  },
-  {
-    "site_id": "en#1206",
-    "name": "Setanta Sports",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "en#1224",
-    "name": "Food Network",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "ru#13",
-    "name": "YLE TV2",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "YleTV2.fi@SD"
-  },
-  {
-    "site_id": "ru#231",
-    "name": "Viasat History",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "ViasatHistory.se@SD"
-  },
-  {
-    "site_id": "en#829",
-    "name": "AMC",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "et#60",
-    "name": "PRO 7",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "ProSieben.de@SD"
-  },
-  {
-    "site_id": "ru#8",
-    "name": "TVXXI",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "TVXXI.lv@SD"
-  },
-  {
-    "site_id": "ru#89",
-    "name": "Al Jazeera",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#91",
-    "name": "SKY News",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#1347",
-    "name": "Украина 24",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Ukraina24.ua@SD"
-  },
-  {
-    "site_id": "et#20",
-    "name": "RTL",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "RTL.de@SD"
-  },
-  {
-    "site_id": "et#1260",
-    "name": "SVT2",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#54",
-    "name": "Fashion TV",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "FashionTV.ru@SD"
-  },
-  {
-    "site_id": "ru#1229",
-    "name": "RTL2",
+    "site_id": "ru#1353",
+    "name": "Кино 7",
     "lang": "ru",
     "region": "RU"
   },
@@ -319,387 +41,11 @@
     "xmltv_id": "YleTV1.fi@SD"
   },
   {
-    "site_id": "en#85",
-    "name": "TV5MONDE Europe",
-    "lang": "fr",
-    "region": "EN",
-    "xmltv_id": "TV5MondeEurope.fr@SD"
-  },
-  {
-    "site_id": "et#829",
-    "name": "AMC",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#101",
-    "name": "Duo 4",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Duo4.ee@SD"
-  },
-  {
-    "site_id": "et#85",
-    "name": "TV5MONDE Europe",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#227",
-    "name": "Viasat Kino Action",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "vijuTV1000action.ru@SD"
-  },
-  {
-    "site_id": "et#1293",
-    "name": "Kidzone Mini",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "KidZoneMini.ee@SD"
-  },
-  {
-    "site_id": "en#60",
-    "name": "PRO 7",
+    "site_id": "en#70",
+    "name": "MTV Club",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "ProSieben.de@SD"
-  },
-  {
-    "site_id": "ru#72",
-    "name": "MTV 80s",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#1292",
-    "name": "Epic Drama",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "EpicDrama.uk@Sweden"
-  },
-  {
-    "site_id": "en#38",
-    "name": "MTV 00s",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MTV00s.uk@SD"
-  },
-  {
-    "site_id": "en#220",
-    "name": "LIFE TV",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "en#1260",
-    "name": "SVT2",
-    "lang": "sv",
-    "region": "EN",
-    "xmltv_id": "SVT2.se@SD"
-  },
-  {
-    "site_id": "ru#32",
-    "name": "ID",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "InvestigationDiscovery.ru@SD"
-  },
-  {
-    "site_id": "ru#86",
-    "name": "RAI 1",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Rai1.it@SD"
-  },
-  {
-    "site_id": "en#225",
-    "name": "Viasat Kino World",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "vijuTV1000russkoe.ru@SD"
-  },
-  {
-    "site_id": "et#13",
-    "name": "YLE TV2",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "YleTV2.fi@SD"
-  },
-  {
-    "site_id": "et#1230",
-    "name": "ZDF",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "en#1352",
-    "name": "Kanal 7+",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "et#224",
-    "name": "Viasat Kino",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "vijuTV1000.ru@SD"
-  },
-  {
-    "site_id": "et#731",
-    "name": "iConcerts",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#17",
-    "name": "Super RTL",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "RTLSuper.de@SD"
-  },
-  {
-    "site_id": "ru#81",
-    "name": "Bloomberg TV",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#731",
-    "name": "iConcerts",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#1230",
-    "name": "ZDF",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "ZDF.de@SD"
-  },
-  {
-    "site_id": "en#19",
-    "name": "National Geographic",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NationalGeographic.ru@SD"
-  },
-  {
-    "site_id": "en#32",
-    "name": "ID",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "InvestigationDiscovery.ru@SD"
-  },
-  {
-    "site_id": "en#71",
-    "name": "MTV Hits",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MTVHitsEurope.uk@SD"
-  },
-  {
-    "site_id": "en#217",
-    "name": "DTX",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DTX.ru@SD"
-  },
-  {
-    "site_id": "en#1238",
-    "name": "Filmzone",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Filmzone.ee@SD"
-  },
-  {
-    "site_id": "en#1349",
-    "name": "3+",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "et#73",
-    "name": "Deutsche Welle",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "DW.de@English"
-  },
-  {
-    "site_id": "ru#69",
-    "name": "MTV 90s",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "en#3",
-    "name": "Kanal 2",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "en#54",
-    "name": "Fashion TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "FashionTV.ru@SD"
-  },
-  {
-    "site_id": "en#1086",
-    "name": "Kidzone Max",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "KidZoneMax.ee@SD"
-  },
-  {
-    "site_id": "en#1236",
-    "name": "HISTORY2",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "History2Asia.us@SD"
-  },
-  {
-    "site_id": "et#1268",
-    "name": "Fight Sports",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#85",
-    "name": "TV5MONDE Europe",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "TV5MondeEurope.fr@SD"
-  },
-  {
-    "site_id": "ru#1239",
-    "name": "Filmzone+",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "FilmzonePlus.ee@SD"
-  },
-  {
-    "site_id": "en#257",
-    "name": "Duo 3",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Duo3.ee@SD"
-  },
-  {
-    "site_id": "et#223",
-    "name": "TV6",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "TV6.ee@SD"
-  },
-  {
-    "site_id": "ru#102",
-    "name": "Disney Channel",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "en#1338",
-    "name": "Inspira",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Inspira.ee@SD"
-  },
-  {
-    "site_id": "et#230",
-    "name": "Viasat Explore",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "ViasatExplore.se@SD"
-  },
-  {
-    "site_id": "et#1347",
-    "name": "Ukraina 24",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#1236",
-    "name": "HISTORY2",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "History2Asia.us@SD"
-  },
-  {
-    "site_id": "en#1259",
-    "name": "SVT1",
-    "lang": "sv",
-    "region": "EN",
-    "xmltv_id": "SVT1.se@SD"
-  },
-  {
-    "site_id": "en#1292",
-    "name": "Epic Drama",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "EpicDrama.uk@Sweden"
-  },
-  {
-    "site_id": "ru#59",
-    "name": "Euronews",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "EuronewsEnglish.fr@SD"
-  },
-  {
-    "site_id": "ru#1346",
-    "name": "HGTV",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "HGTV.ru@SD"
-  },
-  {
-    "site_id": "en#91",
-    "name": "SKY News",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "SkyNewsInternational.uk@SD"
-  },
-  {
-    "site_id": "en#101",
-    "name": "Duo 4",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Duo4.ee@SD"
-  },
-  {
-    "site_id": "en#1264",
-    "name": "BBC Earth",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "BBCEarth.uk@Asia"
-  },
-  {
-    "site_id": "et#256",
-    "name": "France 2",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#141",
-    "name": "Orsent TV",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "OrsentTV.ee@SD"
-  },
-  {
-    "site_id": "ru#221",
-    "name": "TV3 Life",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "TV3Life.ee@SD"
-  },
-  {
-    "site_id": "ru#223",
-    "name": "TV6",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "TV6.ee@SD"
+    "xmltv_id": "ClubMTVEurope.uk@SD"
   },
   {
     "site_id": "en#141",
@@ -708,209 +54,18 @@
     "region": "EN"
   },
   {
-    "site_id": "et#3",
-    "name": "Kanal 2",
+    "site_id": "et#157",
+    "name": "ALO-TV",
     "lang": "et",
     "region": "ET",
-    "xmltv_id": "Kanal2.ee@SD"
+    "xmltv_id": "AloTV.ee@SD"
   },
   {
-    "site_id": "et#83",
-    "name": "RFM TV",
-    "lang": "fr",
-    "region": "ET",
-    "xmltv_id": "RFMTV.fr@SD"
-  },
-  {
-    "site_id": "en#84",
-    "name": "MCM TOP",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MCMTop.ru@SD"
-  },
-  {
-    "site_id": "en#231",
-    "name": "Viasat History",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ViasatHistory.se@SD"
-  },
-  {
-    "site_id": "et#217",
-    "name": "DTX",
+    "site_id": "et#251",
+    "name": "History Channel",
     "lang": "et",
     "region": "ET",
-    "xmltv_id": "DTX.ru@SD"
-  },
-  {
-    "site_id": "et#55",
-    "name": "Cartoon Network",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "en#716",
-    "name": "Viasat Nature",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ViasatNature.se@SD"
-  },
-  {
-    "site_id": "et#1",
-    "name": "ETV",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "ETV.ee@SD"
-  },
-  {
-    "site_id": "et#105",
-    "name": "Fox Life",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "FoxLife.ru@SD"
-  },
-  {
-    "site_id": "et#1239",
-    "name": "Filmzone+",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "FilmzonePlus.ee@SD"
-  },
-  {
-    "site_id": "et#1344",
-    "name": "Smartzone",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "Smartzone.ee@SD"
-  },
-  {
-    "site_id": "ru#55",
-    "name": "Cartoon Network",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "CartoonNetworkCEE.uk@Russia"
-  },
-  {
-    "site_id": "ru#140",
-    "name": "TVN",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "TVN.ee@SD"
-  },
-  {
-    "site_id": "et#17",
-    "name": "Super RTL",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "RTLSuper.de@SD"
-  },
-  {
-    "site_id": "et#248",
-    "name": "TAEVAS TV7",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "TaevasTV7.fi@SD"
-  },
-  {
-    "site_id": "ru#225",
-    "name": "Viasat Kino World",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "vijuTV1000russkoe.ru@SD"
-  },
-  {
-    "site_id": "ru#227",
-    "name": "Viasat Kino Action",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "vijuTV1000action.ru@SD"
-  },
-  {
-    "site_id": "en#57",
-    "name": "Cartoonito",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CartoonitoCEE.uk@SD"
-  },
-  {
-    "site_id": "en#58",
-    "name": "Nickelodeon",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Nickelodeon.ru@SD"
-  },
-  {
-    "site_id": "et#11",
-    "name": "SAT 1",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "SAT1.de@SD"
-  },
-  {
-    "site_id": "et#12",
-    "name": "YLE TV1",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "YleTV1.fi@SD"
-  },
-  {
-    "site_id": "ru#3",
-    "name": "Kanal 2",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Kanal2.ee@SD"
-  },
-  {
-    "site_id": "ru#226",
-    "name": "Go3 Films",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Go3Films.ee@SD"
-  },
-  {
-    "site_id": "en#79",
-    "name": "Nat Geo Wild",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NationalGeographicWild.ru@SD"
-  },
-  {
-    "site_id": "en#728",
-    "name": "Duo 5",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "ru#82",
-    "name": "CNBC Europe",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#1354",
-    "name": "Семейка",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "en#145",
-    "name": "n-tv",
-    "lang": "de",
-    "region": "EN",
-    "xmltv_id": "ntv.de@SD"
-  },
-  {
-    "site_id": "et#59",
-    "name": "Euronews",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#145",
-    "name": "n-tv",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "ntv.de@SD"
+    "xmltv_id": "History.ru@SD"
   },
   {
     "site_id": "et#1222",
@@ -920,24 +75,10 @@
     "xmltv_id": "TravelChannelEMEA.uk@SD"
   },
   {
-    "site_id": "ru#58",
-    "name": "Nickelodeon",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Nickelodeon.ru@SD"
-  },
-  {
-    "site_id": "ru#157",
-    "name": "ALO-TV",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "en#157",
-    "name": "ALO-TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AloTV.ee@SD"
+    "site_id": "et#1347",
+    "name": "Ukraina 24",
+    "lang": "et",
+    "region": "ET"
   },
   {
     "site_id": "en#228",
@@ -947,178 +88,50 @@
     "xmltv_id": "Go3Sport1.ee@SD"
   },
   {
-    "site_id": "en#255",
-    "name": "TVEi",
-    "lang": "es",
-    "region": "EN",
-    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
-  },
-  {
-    "site_id": "en#1348",
-    "name": "Current Time",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "et#76",
-    "name": "MyHits",
-    "lang": "et",
+    "site_id": "et#83",
+    "name": "RFM TV",
+    "lang": "fr",
     "region": "ET",
-    "xmltv_id": "MyHits.ee@SD"
+    "xmltv_id": "RFMTV.fr@SD"
   },
   {
-    "site_id": "et#228",
-    "name": "Go3 Sport 1",
+    "site_id": "et#256",
+    "name": "France 2",
     "lang": "et",
     "region": "ET"
   },
   {
-    "site_id": "ru#19",
-    "name": "National Geographic",
+    "site_id": "et#829",
+    "name": "AMC",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#58",
+    "name": "Nickelodeon",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "NationalGeographic.ru@SD"
+    "xmltv_id": "Nickelodeon.ru@SD"
   },
   {
-    "site_id": "ru#790",
-    "name": "Classica",
+    "site_id": "ru#728",
+    "name": "Duo 5",
     "lang": "ru",
-    "region": "RU"
+    "region": "RU",
+    "xmltv_id": "Duo5.ee@SD"
   },
   {
-    "site_id": "en#50",
-    "name": "CNN International",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CNNInternational.us@MENA"
-  },
-  {
-    "site_id": "en#1239",
-    "name": "Filmzone+",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "FilmzonePlus.ee@SD"
-  },
-  {
-    "site_id": "en#1297",
-    "name": "НЕБЕСА ТВ7",
-    "lang": "en",
-    "region": "EN"
+    "site_id": "ru#1238",
+    "name": "Filmzone",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Filmzone.ee@SD"
   },
   {
     "site_id": "et#716",
     "name": "Viasat Nature",
     "lang": "et",
     "region": "ET",
-    "xmltv_id": "ViasatNature.se@SD"
-  },
-  {
-    "site_id": "ru#1206",
-    "name": "Setanta Sports",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "en#102",
-    "name": "Disney Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DisneyChannelScandinavia.uk@SD"
-  },
-  {
-    "site_id": "en#140",
-    "name": "TVN",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "en#224",
-    "name": "Viasat Kino",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "vijuTV1000.ru@SD"
-  },
-  {
-    "site_id": "et#36",
-    "name": "Mezzo",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "Mezzo.fr@SD"
-  },
-  {
-    "site_id": "et#89",
-    "name": "Al Jazeera",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#1302",
-    "name": "MTV Live",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#1343",
-    "name": "Kanal 7",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#38",
-    "name": "MTV 00s",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "en#1",
-    "name": "ETV",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "en#1354",
-    "name": "Semejka",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "et#1354",
-    "name": "Semejka",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#70",
-    "name": "MTV Club",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#229",
-    "name": "Go3 Sport 2",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Go3Sport2.ee@SD"
-  },
-  {
-    "site_id": "ru#251",
-    "name": "History Channel",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "History.ru@SD"
-  },
-  {
-    "site_id": "ru#261",
-    "name": "TBN Baltia",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "TBNBaltia.ee@SD"
-  },
-  {
-    "site_id": "ru#716",
-    "name": "Viasat Nature",
-    "lang": "ru",
-    "region": "RU",
     "xmltv_id": "ViasatNature.se@SD"
   },
   {
@@ -1129,130 +142,11 @@
     "xmltv_id": "Duo6.ee@SD"
   },
   {
-    "site_id": "et#1086",
-    "name": "Kidzone Max",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "KidZoneMax.ee@SD"
-  },
-  {
-    "site_id": "ru#1259",
-    "name": "SVT1",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#1268",
-    "name": "Fight Sports",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#1293",
-    "name": "Kidzone Mini",
+    "site_id": "ru#2",
+    "name": "TV3",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "KidZoneMini.ee@SD"
-  },
-  {
-    "site_id": "en#1222",
-    "name": "Travel Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TravelChannelEMEA.uk@SD"
-  },
-  {
-    "site_id": "ru#1264",
-    "name": "BBC Earth",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#1300",
-    "name": "nick Jr.",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "NickJrScandinavia.nl@SD"
-  },
-  {
-    "site_id": "ru#1343",
-    "name": "Kanal 7",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Kanal7.ee@SD"
-  },
-  {
-    "site_id": "ru#1353",
-    "name": "Кино 7",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "en#39",
-    "name": "MTV Europe",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MTVGlobal.uk@SD"
-  },
-  {
-    "site_id": "ru#1224",
-    "name": "Food Network",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "en#72",
-    "name": "MTV 80s",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MTV80s.uk@SD"
-  },
-  {
-    "site_id": "en#251",
-    "name": "History Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "History.ru@SD"
-  },
-  {
-    "site_id": "en#823",
-    "name": "TLC",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TLC.ru@SD"
-  },
-  {
-    "site_id": "et#1259",
-    "name": "SVT1",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "en#1129",
-    "name": "DJAZZ.tv",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "StingrayDJAZZ.ca@SD"
-  },
-  {
-    "site_id": "et#823",
-    "name": "TLC",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "TLC.ru@SD"
-  },
-  {
-    "site_id": "et#1297",
-    "name": "НЕБЕСА ТВ7",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#24",
-    "name": "Arte",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "arte.fr@SD"
+    "xmltv_id": "TV3.ee@SD"
   },
   {
     "site_id": "ru#105",
@@ -1262,104 +156,35 @@
     "xmltv_id": "FoxLife.ru@SD"
   },
   {
-    "site_id": "ru#1252",
-    "name": "ETV+",
+    "site_id": "ru#1303",
+    "name": "Viasat Kino Comedy",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "ETVPlus.ee@SD"
+    "xmltv_id": "vijuPlusComedy.ru@SD"
   },
   {
-    "site_id": "ru#1301",
-    "name": "nicktoons",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "NicktoonsScandinavia.nl@SD"
-  },
-  {
-    "site_id": "en#86",
-    "name": "RAI 1",
-    "lang": "it",
-    "region": "EN",
-    "xmltv_id": "Rai1.it@SD"
-  },
-  {
-    "site_id": "en#1230",
-    "name": "ZDF",
-    "lang": "de",
-    "region": "EN",
-    "xmltv_id": "ZDF.de@SD"
-  },
-  {
-    "site_id": "et#51",
-    "name": "Eurosport 2",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "Eurosport2.fr@Russia"
-  },
-  {
-    "site_id": "et#103",
-    "name": "Disney Junior",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#255",
-    "name": "TVEi",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "en#1286",
-    "name": "Euronews Rus",
+    "site_id": "en#248",
+    "name": "TAEVAS TV7",
     "lang": "en",
-    "region": "EN",
-    "xmltv_id": "EuronewsRussian.fr@SD"
+    "region": "EN"
   },
   {
-    "site_id": "et#32",
-    "name": "ID",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "InvestigationDiscovery.ru@SD"
+    "site_id": "en#1297",
+    "name": "НЕБЕСА ТВ7",
+    "lang": "en",
+    "region": "EN"
   },
   {
-    "site_id": "et#72",
-    "name": "MTV 80s",
+    "site_id": "et#55",
+    "name": "Cartoon Network",
     "lang": "et",
     "region": "ET"
   },
   {
-    "site_id": "et#86",
-    "name": "RAI 1",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#1300",
-    "name": "nick Jr.",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "NickJrScandinavia.nl@SD"
-  },
-  {
-    "site_id": "ru#36",
-    "name": "Mezzo",
+    "site_id": "ru#81",
+    "name": "Bloomberg TV",
     "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Mezzo.fr@SD"
-  },
-  {
-    "site_id": "ru#1080",
-    "name": "Duo 6",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Duo6.ee@SD"
-  },
-  {
-    "site_id": "et#1286",
-    "name": "Euronews Rus",
-    "lang": "et",
-    "region": "ET"
+    "region": "RU"
   },
   {
     "site_id": "en#24",
@@ -1369,57 +194,125 @@
     "xmltv_id": "arte.fr@SD"
   },
   {
-    "site_id": "en#36",
-    "name": "Mezzo",
+    "site_id": "en#76",
+    "name": "MyHits",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "Mezzo.fr@SD"
+    "xmltv_id": "MyHits.ee@SD"
   },
   {
-    "site_id": "en#82",
-    "name": "CNBC Europe",
+    "site_id": "en#1222",
+    "name": "Travel Channel",
     "lang": "en",
     "region": "EN",
+    "xmltv_id": "TravelChannelEMEA.uk@SD"
+  },
+  {
+    "site_id": "en#1260",
+    "name": "SVT2",
+    "lang": "sv",
+    "region": "EN",
+    "xmltv_id": "SVT2.se@SD"
+  },
+  {
+    "site_id": "et#82",
+    "name": "CNBC Europe",
+    "lang": "et",
+    "region": "ET",
     "xmltv_id": "CNBCEurope.uk@SD"
   },
   {
-    "site_id": "et#50",
+    "site_id": "ru#1344",
+    "name": "Smartzone",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Smartzone.ee@SD"
+  },
+  {
+    "site_id": "en#19",
+    "name": "National Geographic",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NationalGeographic.ru@SD"
+  },
+  {
+    "site_id": "en#226",
+    "name": "Go3 Films",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Go3Films.ee@SD"
+  },
+  {
+    "site_id": "et#102",
+    "name": "Disney Channel",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#50",
     "name": "CNN International",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "en#140",
+    "name": "TVN",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#145",
+    "name": "n-tv",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "ntv.de@SD"
+  },
+  {
+    "site_id": "et#1338",
+    "name": "Inspira",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "Inspira.ee@SD"
+  },
+  {
+    "site_id": "et#1353",
+    "name": "Kino 7",
     "lang": "et",
     "region": "ET"
   },
   {
-    "site_id": "et#111",
-    "name": "ETV 2",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "ETV2.ee@SD"
+    "site_id": "ru#1301",
+    "name": "nicktoons",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "NicktoonsScandinavia.nl@SD"
   },
   {
-    "site_id": "et#143",
-    "name": "France 24",
-    "lang": "et",
-    "region": "ET"
+    "site_id": "en#1",
+    "name": "ETV",
+    "lang": "en",
+    "region": "EN"
   },
   {
-    "site_id": "et#157",
-    "name": "ALO-TV",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "AloTV.ee@SD"
+    "site_id": "en#26",
+    "name": "Discovery Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DiscoveryChannel.ru@SD"
   },
   {
-    "site_id": "et#52",
-    "name": "BBC World",
-    "lang": "et",
-    "region": "ET"
+    "site_id": "en#1238",
+    "name": "Filmzone",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Filmzone.ee@SD"
   },
   {
-    "site_id": "et#57",
-    "name": "Cartoonito",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "CartoonitoCEE.uk@SD"
+    "site_id": "en#1348",
+    "name": "Current Time",
+    "lang": "en",
+    "region": "EN"
   },
   {
     "site_id": "et#1349",
@@ -1429,55 +322,102 @@
     "xmltv_id": "TV3Plus.lv@SD"
   },
   {
-    "site_id": "ru#1297",
-    "name": "НЕБЕСА ТВ7",
+    "site_id": "ru#223",
+    "name": "TV6",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "TV6.ee@SD"
+  },
+  {
+    "site_id": "ru#248",
+    "name": "TAEVAS TV7",
     "lang": "ru",
     "region": "RU"
   },
   {
-    "site_id": "en#83",
-    "name": "RFM TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "RFMTV.fr@SD"
-  },
-  {
-    "site_id": "en#103",
-    "name": "Disney Junior",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DisneyJuniorScandinavia.uk@SD"
-  },
-  {
-    "site_id": "en#1300",
-    "name": "nick Jr.",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NickJrScandinavia.nl@SD"
-  },
-  {
-    "site_id": "et#1301",
-    "name": "nicktoons",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "NicktoonsScandinavia.nl@SD"
-  },
-  {
-    "site_id": "et#1352",
-    "name": "Kanal 7+",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#145",
-    "name": "n-tv",
+    "site_id": "ru#251",
+    "name": "History Channel",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "ntv.de@SD"
+    "xmltv_id": "History.ru@SD"
+  },
+  {
+    "site_id": "en#31",
+    "name": "Animal Planet",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AnimalPlanet.ru@SD"
+  },
+  {
+    "site_id": "en#1259",
+    "name": "SVT1",
+    "lang": "sv",
+    "region": "EN",
+    "xmltv_id": "SVT1.se@SD"
+  },
+  {
+    "site_id": "et#1292",
+    "name": "Epic Drama",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "EpicDrama.uk@Sweden"
+  },
+  {
+    "site_id": "ru#11",
+    "name": "SAT 1",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "SAT1.de@SD"
+  },
+  {
+    "site_id": "ru#76",
+    "name": "MyHits",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#1080",
+    "name": "Duo 6",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Duo6.ee@SD"
   },
   {
     "site_id": "ru#1302",
     "name": "MTV Live",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "en#1224",
+    "name": "Food Network",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#1",
+    "name": "ETV",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "ETV.ee@SD"
+  },
+  {
+    "site_id": "et#33",
+    "name": "Discovery Science",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "DiscoveryScienceEurope.uk@Russia"
+  },
+  {
+    "site_id": "ru#86",
+    "name": "RAI 1",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Rai1.it@SD"
+  },
+  {
+    "site_id": "ru#1297",
+    "name": "НЕБЕСА ТВ7",
     "lang": "ru",
     "region": "RU"
   },
@@ -1489,11 +429,63 @@
     "xmltv_id": "RTLSuper.de@SD"
   },
   {
-    "site_id": "en#20",
-    "name": "RTL",
-    "lang": "de",
+    "site_id": "en#143",
+    "name": "France 24",
+    "lang": "en",
     "region": "EN",
-    "xmltv_id": "RTL.de@SD"
+    "xmltv_id": "France24.fr@English"
+  },
+  {
+    "site_id": "en#1303",
+    "name": "Viasat Kino Comedy",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "vijuPlusComedy.ru@SD"
+  },
+  {
+    "site_id": "ru#261",
+    "name": "TBN Baltia",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "TBNBaltia.ee@SD"
+  },
+  {
+    "site_id": "en#1352",
+    "name": "Kanal 7+",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#52",
+    "name": "BBC World",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#54",
+    "name": "Fashion TV",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#39",
+    "name": "MTV Europe",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#716",
+    "name": "Viasat Nature",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "ViasatNature.se@SD"
+  },
+  {
+    "site_id": "en#58",
+    "name": "Nickelodeon",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Nickelodeon.ru@SD"
   },
   {
     "site_id": "en#77",
@@ -1503,38 +495,478 @@
     "xmltv_id": "Fox.ru@SD"
   },
   {
-    "site_id": "en#221",
-    "name": "TV3 Life",
+    "site_id": "en#81",
+    "name": "Bloomberg TV",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "TV3Life.ee@SD"
+    "xmltv_id": "BloombergTV.us@Europe"
   },
   {
-    "site_id": "en#226",
-    "name": "Go3 Films",
+    "site_id": "en#257",
+    "name": "Duo 3",
     "lang": "en",
     "region": "EN",
+    "xmltv_id": "Duo3.ee@SD"
+  },
+  {
+    "site_id": "et#70",
+    "name": "MTV Club",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#1260",
+    "name": "SVT2",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#1268",
+    "name": "Fight Sports",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "en#35",
+    "name": "Eurosport",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Eurosport1.fr@Russia"
+  },
+  {
+    "site_id": "en#231",
+    "name": "Viasat History",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ViasatHistory.se@SD"
+  },
+  {
+    "site_id": "en#716",
+    "name": "Viasat Nature",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ViasatNature.se@SD"
+  },
+  {
+    "site_id": "en#1333",
+    "name": "Eesti Kanal",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#84",
+    "name": "MCM TOP",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "MCMTop.ru@SD"
+  },
+  {
+    "site_id": "ru#1129",
+    "name": "DJAZZ.tv",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#1292",
+    "name": "Epic Drama",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "EpicDrama.uk@Sweden"
+  },
+  {
+    "site_id": "en#39",
+    "name": "MTV Europe",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MTVGlobal.uk@SD"
+  },
+  {
+    "site_id": "en#1252",
+    "name": "ETV+",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "ru#57",
+    "name": "Cartoonito",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "CartoonitoCEE.uk@SD"
+  },
+  {
+    "site_id": "et#50",
+    "name": "CNN International",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#76",
+    "name": "MyHits",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "MyHits.ee@SD"
+  },
+  {
+    "site_id": "et#140",
+    "name": "TVN",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#1286",
+    "name": "Euronews Rus",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#19",
+    "name": "National Geographic",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "NationalGeographic.ru@SD"
+  },
+  {
+    "site_id": "ru#32",
+    "name": "ID",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "InvestigationDiscovery.ru@SD"
+  },
+  {
+    "site_id": "ru#72",
+    "name": "MTV 80s",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#79",
+    "name": "Nat Geo Wild",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "NationalGeographicWild.ru@SD"
+  },
+  {
+    "site_id": "en#255",
+    "name": "TVEi",
+    "lang": "es",
+    "region": "EN",
+    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
+  },
+  {
+    "site_id": "en#829",
+    "name": "AMC",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#231",
+    "name": "Viasat History",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "ViasatHistory.se@SD"
+  },
+  {
+    "site_id": "et#1206",
+    "name": "Setanta Sports",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#1264",
+    "name": "BBC Earth",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#85",
+    "name": "TV5MONDE Europe",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "TV5MondeEurope.fr@SD"
+  },
+  {
+    "site_id": "ru#101",
+    "name": "Duo 4",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Duo4.ee@SD"
+  },
+  {
+    "site_id": "ru#220",
+    "name": "LIFE TV",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "LifeTV.ee@SD"
+  },
+  {
+    "site_id": "en#251",
+    "name": "History Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "History.ru@SD"
+  },
+  {
+    "site_id": "et#229",
+    "name": "Go3 Sport 2",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#230",
+    "name": "Viasat Explore",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "ViasatExplore.se@SD"
+  },
+  {
+    "site_id": "et#1238",
+    "name": "Filmzone",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "Filmzone.ee@SD"
+  },
+  {
+    "site_id": "ru#83",
+    "name": "RFM TV",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#141",
+    "name": "Orsent TV",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "OrsentTV.ee@SD"
+  },
+  {
+    "site_id": "ru#226",
+    "name": "Go3 Films",
+    "lang": "ru",
+    "region": "RU",
     "xmltv_id": "Go3Films.ee@SD"
   },
   {
-    "site_id": "en#1293",
-    "name": "Kidzone Mini",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "KidZoneMini.ee@SD"
-  },
-  {
-    "site_id": "ru#143",
-    "name": "France 24",
+    "site_id": "ru#230",
+    "name": "Viasat Explore",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "ViasatExplore.se@SD"
   },
   {
-    "site_id": "en#248",
-    "name": "TAEVAS TV7",
+    "site_id": "en#3",
+    "name": "Kanal 2",
     "lang": "en",
     "region": "EN"
+  },
+  {
+    "site_id": "et#13",
+    "name": "YLE TV2",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "YleTV2.fi@SD"
+  },
+  {
+    "site_id": "et#226",
+    "name": "Go3 Films",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "Go3Films.ee@SD"
+  },
+  {
+    "site_id": "ru#1230",
+    "name": "ZDF",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "ZDF.de@SD"
+  },
+  {
+    "site_id": "ru#1338",
+    "name": "Inspira",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Inspira.ee@SD"
+  },
+  {
+    "site_id": "en#2",
+    "name": "TV3",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#2",
+    "name": "TV3",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "TV3.ee@SD"
+  },
+  {
+    "site_id": "et#224",
+    "name": "Viasat Kino",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "vijuTV1000.ru@SD"
+  },
+  {
+    "site_id": "et#228",
+    "name": "Go3 Sport 1",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#54",
+    "name": "Fashion TV",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "FashionTV.ru@SD"
+  },
+  {
+    "site_id": "ru#55",
+    "name": "Cartoon Network",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "CartoonNetworkCEE.uk@Russia"
+  },
+  {
+    "site_id": "ru#89",
+    "name": "Al Jazeera",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#1343",
+    "name": "Kanal 7",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Kanal7.ee@SD"
+  },
+  {
+    "site_id": "et#1301",
+    "name": "nicktoons",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "NicktoonsScandinavia.nl@SD"
+  },
+  {
+    "site_id": "et#103",
+    "name": "Disney Junior",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#111",
+    "name": "ETV 2",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "ETV2.ee@SD"
+  },
+  {
+    "site_id": "et#790",
+    "name": "Classica",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#217",
+    "name": "DTX",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "DTX.ru@SD"
+  },
+  {
+    "site_id": "en#83",
+    "name": "RFM TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "RFMTV.fr@SD"
+  },
+  {
+    "site_id": "en#89",
+    "name": "Al Jazeera",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AlJazeera.qa@English"
+  },
+  {
+    "site_id": "en#1338",
+    "name": "Inspira",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Inspira.ee@SD"
+  },
+  {
+    "site_id": "et#12",
+    "name": "YLE TV1",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "YleTV1.fi@SD"
+  },
+  {
+    "site_id": "et#24",
+    "name": "Arte",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "arte.fr@SD"
+  },
+  {
+    "site_id": "ru#77",
+    "name": "Fox",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Fox.ru@SD"
+  },
+  {
+    "site_id": "en#33",
+    "name": "Discovery Science",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DiscoveryScienceEurope.uk@Russia"
+  },
+  {
+    "site_id": "en#105",
+    "name": "Fox Life",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "FoxLife.ru@SD"
+  },
+  {
+    "site_id": "en#823",
+    "name": "TLC",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TLC.ru@SD"
+  },
+  {
+    "site_id": "en#1343",
+    "name": "Kanal 7",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#823",
+    "name": "TLC",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "TLC.ru@SD"
+  },
+  {
+    "site_id": "ru#790",
+    "name": "Classica",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#1346",
+    "name": "HGTV",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "HGTV.ru@SD"
+  },
+  {
+    "site_id": "ru#1348",
+    "name": "Настоящее время",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "CurrentTimeTV.cz@SD"
   },
   {
     "site_id": "en#790",
@@ -1544,62 +976,15 @@
     "xmltv_id": "StingrayClassica.ca@SD"
   },
   {
-    "site_id": "et#81",
-    "name": "Bloomberg TV",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "BloombergTV.us@Europe"
-  },
-  {
-    "site_id": "et#251",
-    "name": "History Channel",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "History.ru@SD"
-  },
-  {
-    "site_id": "et#257",
-    "name": "Duo 3",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "Duo3.ee@SD"
-  },
-  {
-    "site_id": "et#1348",
-    "name": "Current Time",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#11",
-    "name": "SAT 1",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "SAT1.de@SD"
-  },
-  {
-    "site_id": "ru#83",
-    "name": "RFM TV",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "en#143",
-    "name": "France 24",
+    "site_id": "en#1129",
+    "name": "DJAZZ.tv",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "StingrayDJAZZ.ca@SD"
   },
   {
-    "site_id": "et#31",
-    "name": "Animal Planet",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "AnimalPlanet.ru@SD"
-  },
-  {
-    "site_id": "et#1264",
-    "name": "BBC Earth",
+    "site_id": "et#89",
+    "name": "Al Jazeera",
     "lang": "et",
     "region": "ET"
   },
@@ -1617,6 +1002,64 @@
     "region": "RU"
   },
   {
+    "site_id": "et#11",
+    "name": "SAT 1",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "SAT1.de@SD"
+  },
+  {
+    "site_id": "et#35",
+    "name": "Eurosport",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "Eurosport1.fr@Russia"
+  },
+  {
+    "site_id": "et#71",
+    "name": "MTV Hits",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#1302",
+    "name": "MTV Live",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#52",
+    "name": "BBC World",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#143",
+    "name": "France 24",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "France24.fr@English"
+  },
+  {
+    "site_id": "ru#1206",
+    "name": "Setanta Sports",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "en#1239",
+    "name": "Filmzone+",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "FilmzonePlus.ee@SD"
+  },
+  {
+    "site_id": "et#1236",
+    "name": "HISTORY2",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
     "site_id": "ru#224",
     "name": "Viasat Kino",
     "lang": "ru",
@@ -1624,103 +1067,51 @@
     "xmltv_id": "vijuTV1000.ru@SD"
   },
   {
-    "site_id": "ru#248",
-    "name": "TAEVAS TV7",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#823",
-    "name": "TLC",
+    "site_id": "ru#225",
+    "name": "Viasat Kino World",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "TLC.ru@SD"
+    "xmltv_id": "vijuTV1000russkoe.ru@SD"
   },
   {
-    "site_id": "en#223",
-    "name": "TV6",
+    "site_id": "ru#231",
+    "name": "Viasat History",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "ViasatHistory.se@SD"
+  },
+  {
+    "site_id": "en#50",
+    "name": "CNN International",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "en#261",
+    "name": "TBN Baltia",
     "lang": "en",
     "region": "EN"
   },
   {
-    "site_id": "en#1303",
-    "name": "Viasat Kino Comedy",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "vijuPlusComedy.ru@SD"
-  },
-  {
-    "site_id": "et#261",
-    "name": "TBN Baltia",
+    "site_id": "et#85",
+    "name": "TV5MONDE Europe",
     "lang": "et",
     "region": "ET"
   },
   {
-    "site_id": "et#1229",
-    "name": "RTL2",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#103",
-    "name": "Disney Junior",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#728",
+    "site_id": "et#728",
     "name": "Duo 5",
-    "lang": "ru",
-    "region": "RU",
+    "lang": "et",
+    "region": "ET",
     "xmltv_id": "Duo5.ee@SD"
   },
   {
-    "site_id": "en#33",
-    "name": "Discovery Science",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DiscoveryScienceEurope.uk@Russia"
-  },
-  {
-    "site_id": "en#35",
-    "name": "Eurosport",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Eurosport1.fr@Russia"
-  },
-  {
-    "site_id": "en#76",
-    "name": "MyHits",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MyHits.ee@SD"
-  },
-  {
-    "site_id": "en#1301",
-    "name": "nicktoons",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NicktoonsScandinavia.nl@SD"
-  },
-  {
-    "site_id": "en#1353",
-    "name": "Kino 7",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "ru#789",
-    "name": "Mezzo Live HD",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "MezzoLive.fr@SD"
-  },
-  {
-    "site_id": "en#55",
-    "name": "Cartoon Network",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CartoonNetworkCEE.uk@Russia"
+    "site_id": "et#1344",
+    "name": "Smartzone",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "Smartzone.ee@SD"
   },
   {
     "site_id": "et#26",
@@ -1730,147 +1121,27 @@
     "xmltv_id": "DiscoveryChannel.ru@SD"
   },
   {
-    "site_id": "et#54",
-    "name": "Fashion TV",
+    "site_id": "et#39",
+    "name": "MTV Europe",
     "lang": "et",
     "region": "ET"
   },
   {
-    "site_id": "et#141",
-    "name": "Orsent TV",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#1346",
-    "name": "HGTV",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "HGTV.ru@SD"
-  },
-  {
-    "site_id": "et#82",
-    "name": "CNBC Europe",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "CNBCEurope.uk@SD"
-  },
-  {
-    "site_id": "et#229",
-    "name": "Go3 Sport 2",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#228",
-    "name": "Go3 Sport 1",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Go3Sport1.ee@SD"
-  },
-  {
-    "site_id": "en#1347",
-    "name": "Ukraine 24",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "et#58",
-    "name": "Nickelodeon",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "Nickelodeon.ru@SD"
-  },
-  {
-    "site_id": "et#1252",
-    "name": "ETV+",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "ETVPlus.ee@SD"
-  },
-  {
-    "site_id": "ru#33",
-    "name": "Discovery Science",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "DiscoveryScienceEurope.uk@Russia"
-  },
-  {
-    "site_id": "ru#60",
+    "site_id": "et#60",
     "name": "PRO 7",
-    "lang": "ru",
-    "region": "RU",
+    "lang": "et",
+    "region": "ET",
     "xmltv_id": "ProSieben.de@SD"
   },
   {
-    "site_id": "ru#111",
-    "name": "ETV 2",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "ETV2.ee@SD"
-  },
-  {
-    "site_id": "en#111",
-    "name": "ETV 2",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "et#71",
-    "name": "MTV Hits",
+    "site_id": "et#1129",
+    "name": "DJAZZ.tv",
     "lang": "et",
     "region": "ET"
   },
   {
-    "site_id": "et#221",
-    "name": "TV3 Life",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "TV3Life.ee@SD"
-  },
-  {
-    "site_id": "ru#12",
-    "name": "YLE TV1",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "YleTV1.fi@SD"
-  },
-  {
-    "site_id": "ru#84",
-    "name": "MCM TOP",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "ru#1086",
-    "name": "Kidzone Max",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "KidZoneMax.ee@SD"
-  },
-  {
-    "site_id": "ru#1352",
-    "name": "Канал 7+",
-    "lang": "ru",
-    "region": "RU"
-  },
-  {
-    "site_id": "et#220",
-    "name": "LIFE TV",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "LifeTV.ee@SD"
-  },
-  {
-    "site_id": "et#226",
-    "name": "Go3 Films",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "Go3Films.ee@SD"
-  },
-  {
-    "site_id": "et#1206",
-    "name": "Setanta Sports",
+    "site_id": "et#1297",
+    "name": "НЕБЕСА ТВ7",
     "lang": "et",
     "region": "ET"
   },
@@ -1882,77 +1153,168 @@
     "xmltv_id": "vijuPlusComedy.ru@SD"
   },
   {
-    "site_id": "et#1353",
-    "name": "Kino 7",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "ru#26",
-    "name": "Discovery Channel",
+    "site_id": "ru#73",
+    "name": "Deutsche Welle",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "DiscoveryChannel.ru@SD"
+    "xmltv_id": "DW.de@English"
   },
   {
-    "site_id": "ru#35",
-    "name": "Eurosport",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "Eurosport1.fr@Russia"
-  },
-  {
-    "site_id": "ru#52",
-    "name": "BBC World",
+    "site_id": "ru#1224",
+    "name": "Food Network",
     "lang": "ru",
     "region": "RU"
   },
   {
-    "site_id": "en#261",
-    "name": "TBN Baltia",
+    "site_id": "en#217",
+    "name": "DTX",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DTX.ru@SD"
+  },
+  {
+    "site_id": "en#230",
+    "name": "Viasat Explore",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ViasatExplore.se@SD"
+  },
+  {
+    "site_id": "en#1353",
+    "name": "Kino 7",
     "lang": "en",
     "region": "EN"
   },
   {
-    "site_id": "en#731",
-    "name": "iConcerts",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "StingrayiConcerts.ca@SD"
-  },
-  {
-    "site_id": "en#1346",
-    "name": "HGTV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HGTV.ru@SD"
-  },
-  {
-    "site_id": "et#101",
-    "name": "Duo 4",
+    "site_id": "et#1343",
+    "name": "Kanal 7",
     "lang": "et",
-    "region": "ET",
-    "xmltv_id": "Duo4.ee@SD"
+    "region": "ET"
   },
   {
-    "site_id": "et#225",
-    "name": "Viasat Kino World",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "vijuTV1000russkoe.ru@SD"
+    "site_id": "ru#1236",
+    "name": "HISTORY2",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "History2Asia.us@SD"
   },
   {
-    "site_id": "ru#1129",
-    "name": "DJAZZ.tv",
+    "site_id": "ru#1252",
+    "name": "ETV+",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "ETVPlus.ee@SD"
+  },
+  {
+    "site_id": "ru#1259",
+    "name": "SVT1",
     "lang": "ru",
     "region": "RU"
   },
   {
-    "site_id": "ru#1338",
-    "name": "Inspira",
+    "site_id": "en#36",
+    "name": "Mezzo",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Mezzo.fr@SD"
+  },
+  {
+    "site_id": "en#789",
+    "name": "Mezzo Live HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MezzoLive.fr@SD"
+  },
+  {
+    "site_id": "en#1354",
+    "name": "Semejka",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#81",
+    "name": "Bloomberg TV",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "BloombergTV.us@Europe"
+  },
+  {
+    "site_id": "et#220",
+    "name": "LIFE TV",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "LifeTV.ee@SD"
+  },
+  {
+    "site_id": "en#256",
+    "name": "France 2",
+    "lang": "fr",
+    "region": "EN",
+    "xmltv_id": "France2.fr@SD"
+  },
+  {
+    "site_id": "et#255",
+    "name": "TVEi",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#1224",
+    "name": "Food Network",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#91",
+    "name": "SKY News",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#157",
+    "name": "ALO-TV",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#255",
+    "name": "TVEi",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#1086",
+    "name": "Kidzone Max",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "Inspira.ee@SD"
+    "xmltv_id": "KidZoneMax.ee@SD"
+  },
+  {
+    "site_id": "en#229",
+    "name": "Go3 Sport 2",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Go3Sport2.ee@SD"
+  },
+  {
+    "site_id": "et#248",
+    "name": "TAEVAS TV7",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "TaevasTV7.fi@SD"
+  },
+  {
+    "site_id": "et#1230",
+    "name": "ZDF",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#823",
+    "name": "TLC",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "TLC.ru@SD"
   },
   {
     "site_id": "ru#1349",
@@ -1962,6 +1324,313 @@
     "xmltv_id": "TV3Plus.lv@SD"
   },
   {
+    "site_id": "en#1346",
+    "name": "HGTV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HGTV.ru@SD"
+  },
+  {
+    "site_id": "en#51",
+    "name": "Eurosport 2",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Eurosport2.fr@Russia"
+  },
+  {
+    "site_id": "en#84",
+    "name": "MCM TOP",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MCMTop.ru@SD"
+  },
+  {
+    "site_id": "en#86",
+    "name": "RAI 1",
+    "lang": "it",
+    "region": "EN",
+    "xmltv_id": "Rai1.it@SD"
+  },
+  {
+    "site_id": "en#1293",
+    "name": "Kidzone Mini",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "KidZoneMini.ee@SD"
+  },
+  {
+    "site_id": "et#91",
+    "name": "SKY News",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#261",
+    "name": "TBN Baltia",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#731",
+    "name": "iConcerts",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "en#13",
+    "name": "YLE TV2",
+    "lang": "fi",
+    "region": "EN",
+    "xmltv_id": "YleTV2.fi@SD"
+  },
+  {
+    "site_id": "en#38",
+    "name": "MTV 00s",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MTV00s.uk@SD"
+  },
+  {
+    "site_id": "en#227",
+    "name": "Viasat Kino Action",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "vijuTV1000action.ru@SD"
+  },
+  {
+    "site_id": "en#728",
+    "name": "Duo 5",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "en#1264",
+    "name": "BBC Earth",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "BBCEarth.uk@Asia"
+  },
+  {
+    "site_id": "en#1349",
+    "name": "3+",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#79",
+    "name": "Nat Geo Wild",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#38",
+    "name": "MTV 00s",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "en#1286",
+    "name": "Euronews Rus",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "EuronewsRussian.fr@SD"
+  },
+  {
+    "site_id": "et#32",
+    "name": "ID",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "InvestigationDiscovery.ru@SD"
+  },
+  {
+    "site_id": "ru#35",
+    "name": "Eurosport",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Eurosport1.fr@Russia"
+  },
+  {
+    "site_id": "ru#69",
+    "name": "MTV 90s",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#103",
+    "name": "Disney Junior",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#789",
+    "name": "Mezzo Live HD",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "MezzoLive.fr@SD"
+  },
+  {
+    "site_id": "en#72",
+    "name": "MTV 80s",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MTV80s.uk@SD"
+  },
+  {
+    "site_id": "en#103",
+    "name": "Disney Junior",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DisneyJuniorScandinavia.uk@SD"
+  },
+  {
+    "site_id": "en#1229",
+    "name": "RTL2",
+    "lang": "de",
+    "region": "EN",
+    "xmltv_id": "RTLZwei.de@SD"
+  },
+  {
+    "site_id": "ru#227",
+    "name": "Viasat Kino Action",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "vijuTV1000action.ru@SD"
+  },
+  {
+    "site_id": "en#1206",
+    "name": "Setanta Sports",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#227",
+    "name": "Viasat Kino Action",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "vijuTV1000action.ru@SD"
+  },
+  {
+    "site_id": "et#1239",
+    "name": "Filmzone+",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "FilmzonePlus.ee@SD"
+  },
+  {
+    "site_id": "en#73",
+    "name": "Deutsche Welle",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DW.de@English"
+  },
+  {
+    "site_id": "en#82",
+    "name": "CNBC Europe",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CNBCEurope.uk@SD"
+  },
+  {
+    "site_id": "et#1333",
+    "name": "Eesti Kanal",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "EestiKanal.ee@SD"
+  },
+  {
+    "site_id": "ru#111",
+    "name": "ETV 2",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "ETV2.ee@SD"
+  },
+  {
+    "site_id": "ru#1260",
+    "name": "SVT2",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "en#54",
+    "name": "Fashion TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "FashionTV.ru@SD"
+  },
+  {
+    "site_id": "en#85",
+    "name": "TV5MONDE Europe",
+    "lang": "fr",
+    "region": "EN",
+    "xmltv_id": "TV5MondeEurope.fr@SD"
+  },
+  {
+    "site_id": "en#111",
+    "name": "ETV 2",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "et#38",
+    "name": "MTV 00s",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#1268",
+    "name": "Fight Sports",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#1347",
+    "name": "Украина 24",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Ukraina24.ua@SD"
+  },
+  {
+    "site_id": "en#1268",
+    "name": "Fight Sports",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "FightSports.us@SD"
+  },
+  {
+    "site_id": "et#1252",
+    "name": "ETV+",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "ETVPlus.ee@SD"
+  },
+  {
+    "site_id": "et#1354",
+    "name": "Semejka",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#229",
+    "name": "Go3 Sport 2",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Go3Sport2.ee@SD"
+  },
+  {
+    "site_id": "ru#1293",
+    "name": "Kidzone Mini",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "KidZoneMini.ee@SD"
+  },
+  {
+    "site_id": "en#52",
+    "name": "BBC World",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "BBCNews.uk@Europe"
+  },
+  {
     "site_id": "en#1302",
     "name": "MTV Live",
     "lang": "en",
@@ -1969,20 +1638,83 @@
     "xmltv_id": "MTVLive.uk@SD"
   },
   {
-    "site_id": "en#1333",
-    "name": "Eesti Kanal",
+    "site_id": "et#1346",
+    "name": "HGTV",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "HGTV.ru@SD"
+  },
+  {
+    "site_id": "en#55",
+    "name": "Cartoon Network",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CartoonNetworkCEE.uk@Russia"
+  },
+  {
+    "site_id": "et#51",
+    "name": "Eurosport 2",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "Eurosport2.fr@Russia"
+  },
+  {
+    "site_id": "ru#24",
+    "name": "Arte",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "arte.fr@SD"
+  },
+  {
+    "site_id": "en#223",
+    "name": "TV6",
     "lang": "en",
     "region": "EN"
   },
   {
-    "site_id": "et#39",
-    "name": "MTV Europe",
+    "site_id": "et#17",
+    "name": "Super RTL",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "RTLSuper.de@SD"
+  },
+  {
+    "site_id": "et#1259",
+    "name": "SVT1",
     "lang": "et",
     "region": "ET"
   },
   {
-    "site_id": "et#70",
-    "name": "MTV Club",
+    "site_id": "et#1300",
+    "name": "nick Jr.",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "NickJrScandinavia.nl@SD"
+  },
+  {
+    "site_id": "en#1300",
+    "name": "nick Jr.",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NickJrScandinavia.nl@SD"
+  },
+  {
+    "site_id": "en#1344",
+    "name": "Smartzone",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Smartzone.ee@SD"
+  },
+  {
+    "site_id": "en#1086",
+    "name": "Kidzone Max",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "KidZoneMax.ee@SD"
+  },
+  {
+    "site_id": "et#69",
+    "name": "MTV 90s",
     "lang": "et",
     "region": "ET"
   },
@@ -1993,124 +1725,51 @@
     "region": "RU"
   },
   {
-    "site_id": "ru#1260",
-    "name": "SVT2",
+    "site_id": "ru#829",
+    "name": "AMC",
     "lang": "ru",
     "region": "RU"
   },
   {
-    "site_id": "en#13",
-    "name": "YLE TV2",
-    "lang": "fi",
-    "region": "EN",
-    "xmltv_id": "YleTV2.fi@SD"
-  },
-  {
-    "site_id": "en#1252",
-    "name": "ETV+",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "en#1344",
-    "name": "Smartzone",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Smartzone.ee@SD"
-  },
-  {
-    "site_id": "ru#73",
-    "name": "Deutsche Welle",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "DW.de@English"
-  },
-  {
-    "site_id": "en#70",
-    "name": "MTV Club",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ClubMTVEurope.uk@SD"
-  },
-  {
-    "site_id": "en#1229",
-    "name": "RTL2",
-    "lang": "de",
-    "region": "EN",
-    "xmltv_id": "RTLZwei.de@SD"
-  },
-  {
-    "site_id": "et#79",
-    "name": "Nat Geo Wild",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#91",
-    "name": "SKY News",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#102",
-    "name": "Disney Channel",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#1338",
-    "name": "Inspira",
+    "site_id": "et#101",
+    "name": "Duo 4",
     "lang": "et",
     "region": "ET",
-    "xmltv_id": "Inspira.ee@SD"
+    "xmltv_id": "Duo4.ee@SD"
   },
   {
-    "site_id": "ru#31",
-    "name": "Animal Planet",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "AnimalPlanet.ru@SD"
+    "site_id": "et#105",
+    "name": "Fox Life",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "FoxLife.ru@SD"
   },
   {
-    "site_id": "ru#57",
-    "name": "Cartoonito",
-    "lang": "ru",
-    "region": "RU",
-    "xmltv_id": "CartoonitoCEE.uk@SD"
-  },
-  {
-    "site_id": "en#227",
-    "name": "Viasat Kino Action",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "vijuTV1000action.ru@SD"
-  },
-  {
-    "site_id": "en#1080",
-    "name": "Duo 6",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Duo6.ee@SD"
-  },
-  {
-    "site_id": "et#38",
-    "name": "MTV 00s",
+    "site_id": "et#1352",
+    "name": "Kanal 7+",
     "lang": "et",
     "region": "ET"
   },
   {
-    "site_id": "ru#1222",
-    "name": "Travel Channel",
+    "site_id": "ru#60",
+    "name": "PRO 7",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "TravelChannelEMEA.uk@SD"
+    "xmltv_id": "ProSieben.de@SD"
   },
   {
-    "site_id": "ru#1303",
-    "name": "Viasat Kino Comedy",
+    "site_id": "ru#228",
+    "name": "Go3 Sport 1",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "vijuPlusComedy.ru@SD"
+    "xmltv_id": "Go3Sport1.ee@SD"
+  },
+  {
+    "site_id": "en#60",
+    "name": "PRO 7",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ProSieben.de@SD"
   },
   {
     "site_id": "en#69",
@@ -2120,114 +1779,85 @@
     "xmltv_id": "MTV90s.uk@SD"
   },
   {
-    "site_id": "en#105",
-    "name": "Fox Life",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "FoxLife.ru@SD"
+    "site_id": "ru#731",
+    "name": "iConcerts",
+    "lang": "ru",
+    "region": "RU"
   },
   {
-    "site_id": "et#24",
-    "name": "Arte",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "arte.fr@SD"
-  },
-  {
-    "site_id": "et#728",
-    "name": "Duo 5",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "Duo5.ee@SD"
-  },
-  {
-    "site_id": "et#790",
-    "name": "Classica",
+    "site_id": "et#1348",
+    "name": "Current Time",
     "lang": "et",
     "region": "ET"
   },
   {
-    "site_id": "et#1333",
-    "name": "Eesti Kanal",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "EestiKanal.ee@SD"
+    "site_id": "en#57",
+    "name": "Cartoonito",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CartoonitoCEE.uk@SD"
   },
   {
-    "site_id": "ru#220",
-    "name": "LIFE TV",
+    "site_id": "en#79",
+    "name": "Nat Geo Wild",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NationalGeographicWild.ru@SD"
+  },
+  {
+    "site_id": "en#102",
+    "name": "Disney Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DisneyChannelScandinavia.uk@SD"
+  },
+  {
+    "site_id": "en#157",
+    "name": "ALO-TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AloTV.ee@SD"
+  },
+  {
+    "site_id": "en#1236",
+    "name": "HISTORY2",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "History2Asia.us@SD"
+  },
+  {
+    "site_id": "et#36",
+    "name": "Mezzo",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "Mezzo.fr@SD"
+  },
+  {
+    "site_id": "et#86",
+    "name": "RAI 1",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#12",
+    "name": "YLE TV1",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "LifeTV.ee@SD"
+    "xmltv_id": "YleTV1.fi@SD"
   },
   {
-    "site_id": "en#73",
-    "name": "Deutsche Welle",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DW.de@English"
+    "site_id": "ru#26",
+    "name": "Discovery Channel",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "DiscoveryChannel.ru@SD"
   },
   {
-    "site_id": "en#230",
-    "name": "Viasat Explore",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ViasatExplore.se@SD"
-  },
-  {
-    "site_id": "et#35",
-    "name": "Eurosport",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "Eurosport1.fr@Russia"
-  },
-  {
-    "site_id": "en#31",
+    "site_id": "ru#31",
     "name": "Animal Planet",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AnimalPlanet.ru@SD"
-  },
-  {
-    "site_id": "en#51",
-    "name": "Eurosport 2",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Eurosport2.fr@Russia"
-  },
-  {
-    "site_id": "et#84",
-    "name": "MCM TOP",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "MCMTop.ru@SD"
-  },
-  {
-    "site_id": "et#789",
-    "name": "Mezzo Live HD",
-    "lang": "fr",
-    "region": "ET",
-    "xmltv_id": "MezzoLive.fr@SD"
-  },
-  {
-    "site_id": "et#1129",
-    "name": "DJAZZ.tv",
-    "lang": "et",
-    "region": "ET"
-  },
-  {
-    "site_id": "et#1292",
-    "name": "Epic Drama",
-    "lang": "et",
-    "region": "ET",
-    "xmltv_id": "EpicDrama.uk@Sweden"
-  },
-  {
-    "site_id": "ru#77",
-    "name": "Fox",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "Fox.ru@SD"
+    "xmltv_id": "AnimalPlanet.ru@SD"
   },
   {
     "site_id": "ru#257",
@@ -2237,38 +1867,24 @@
     "xmltv_id": "Duo3.ee@SD"
   },
   {
-    "site_id": "en#229",
-    "name": "Go3 Sport 2",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Go3Sport2.ee@SD"
-  },
-  {
-    "site_id": "en#256",
-    "name": "France 2",
-    "lang": "fr",
-    "region": "EN",
-    "xmltv_id": "France2.fr@SD"
-  },
-  {
-    "site_id": "en#1268",
-    "name": "Fight Sports",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "FightSports.us@SD"
-  },
-  {
-    "site_id": "ru#76",
-    "name": "MyHits",
+    "site_id": "ru#1354",
+    "name": "Семейка",
     "lang": "ru",
     "region": "RU"
   },
   {
-    "site_id": "ru#1238",
-    "name": "Filmzone",
+    "site_id": "ru#1",
+    "name": "ETV",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "Filmzone.ee@SD"
+    "xmltv_id": "ETV.ee@SD"
+  },
+  {
+    "site_id": "ru#256",
+    "name": "France 2",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "France2.fr@SD"
   },
   {
     "site_id": "ru#1333",
@@ -2278,10 +1894,394 @@
     "xmltv_id": "EestiKanal.ee@SD"
   },
   {
-    "site_id": "ru#1348",
-    "name": "Настоящее время",
+    "site_id": "en#11",
+    "name": "SAT 1",
+    "lang": "de",
+    "region": "EN",
+    "xmltv_id": "SAT1.de@SD"
+  },
+  {
+    "site_id": "en#20",
+    "name": "RTL",
+    "lang": "de",
+    "region": "EN",
+    "xmltv_id": "RTL.de@SD"
+  },
+  {
+    "site_id": "et#143",
+    "name": "France 24",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#789",
+    "name": "Mezzo Live HD",
+    "lang": "fr",
+    "region": "ET",
+    "xmltv_id": "MezzoLive.fr@SD"
+  },
+  {
+    "site_id": "ru#140",
+    "name": "TVN",
     "lang": "ru",
     "region": "RU",
-    "xmltv_id": "CurrentTimeTV.cz@SD"
+    "xmltv_id": "TVN.ee@SD"
+  },
+  {
+    "site_id": "en#221",
+    "name": "TV3 Life",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TV3Life.ee@SD"
+  },
+  {
+    "site_id": "en#1292",
+    "name": "Epic Drama",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "EpicDrama.uk@Sweden"
+  },
+  {
+    "site_id": "et#59",
+    "name": "Euronews",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#72",
+    "name": "MTV 80s",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "et#221",
+    "name": "TV3 Life",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "TV3Life.ee@SD"
+  },
+  {
+    "site_id": "ru#145",
+    "name": "n-tv",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "ntv.de@SD"
+  },
+  {
+    "site_id": "en#101",
+    "name": "Duo 4",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Duo4.ee@SD"
+  },
+  {
+    "site_id": "en#224",
+    "name": "Viasat Kino",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "vijuTV1000.ru@SD"
+  },
+  {
+    "site_id": "et#19",
+    "name": "National Geographic",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "NationalGeographic.ru@SD"
+  },
+  {
+    "site_id": "et#1229",
+    "name": "RTL2",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#36",
+    "name": "Mezzo",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Mezzo.fr@SD"
+  },
+  {
+    "site_id": "ru#82",
+    "name": "CNBC Europe",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#1239",
+    "name": "Filmzone+",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "FilmzonePlus.ee@SD"
+  },
+  {
+    "site_id": "ru#1352",
+    "name": "Канал 7+",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "et#1086",
+    "name": "Kidzone Max",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "KidZoneMax.ee@SD"
+  },
+  {
+    "site_id": "et#3",
+    "name": "Kanal 2",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "Kanal2.ee@SD"
+  },
+  {
+    "site_id": "et#31",
+    "name": "Animal Planet",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "AnimalPlanet.ru@SD"
+  },
+  {
+    "site_id": "et#77",
+    "name": "Fox",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "Fox.ru@SD"
+  },
+  {
+    "site_id": "ru#8",
+    "name": "TVXXI",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "TVXXI.lv@SD"
+  },
+  {
+    "site_id": "ru#13",
+    "name": "YLE TV2",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "YleTV2.fi@SD"
+  },
+  {
+    "site_id": "ru#84",
+    "name": "MCM TOP",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "en#731",
+    "name": "iConcerts",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "StingrayiConcerts.ca@SD"
+  },
+  {
+    "site_id": "et#8",
+    "name": "TVXXI",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "TVXXI.lv@SD"
+  },
+  {
+    "site_id": "et#223",
+    "name": "TV6",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "TV6.ee@SD"
+  },
+  {
+    "site_id": "et#1293",
+    "name": "Kidzone Mini",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "KidZoneMini.ee@SD"
+  },
+  {
+    "site_id": "ru#221",
+    "name": "TV3 Life",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "TV3Life.ee@SD"
+  },
+  {
+    "site_id": "ru#1286",
+    "name": "Euronews Rus",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "EuronewsRussian.fr@SD"
+  },
+  {
+    "site_id": "en#145",
+    "name": "n-tv",
+    "lang": "de",
+    "region": "EN",
+    "xmltv_id": "ntv.de@SD"
+  },
+  {
+    "site_id": "et#73",
+    "name": "Deutsche Welle",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "DW.de@English"
+  },
+  {
+    "site_id": "et#141",
+    "name": "Orsent TV",
+    "lang": "et",
+    "region": "ET"
+  },
+  {
+    "site_id": "ru#1229",
+    "name": "RTL2",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "en#225",
+    "name": "Viasat Kino World",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "vijuTV1000russkoe.ru@SD"
+  },
+  {
+    "site_id": "et#217",
+    "name": "DTX",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "DTX.ru@SD"
+  },
+  {
+    "site_id": "et#225",
+    "name": "Viasat Kino World",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "vijuTV1000russkoe.ru@SD"
+  },
+  {
+    "site_id": "ru#3",
+    "name": "Kanal 2",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "Kanal2.ee@SD"
+  },
+  {
+    "site_id": "ru#70",
+    "name": "MTV Club",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#1300",
+    "name": "nick Jr.",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "NickJrScandinavia.nl@SD"
+  },
+  {
+    "site_id": "en#8",
+    "name": "TVXXI",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "en#32",
+    "name": "ID",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "InvestigationDiscovery.ru@SD"
+  },
+  {
+    "site_id": "en#1301",
+    "name": "nicktoons",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NicktoonsScandinavia.nl@SD"
+  },
+  {
+    "site_id": "en#1347",
+    "name": "Ukraine 24",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "ru#33",
+    "name": "Discovery Science",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "DiscoveryScienceEurope.uk@Russia"
+  },
+  {
+    "site_id": "ru#102",
+    "name": "Disney Channel",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "ru#1222",
+    "name": "Travel Channel",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "TravelChannelEMEA.uk@SD"
+  },
+  {
+    "site_id": "et#20",
+    "name": "RTL",
+    "lang": "et",
+    "region": "ET",
+    "xmltv_id": "RTL.de@SD"
+  },
+  {
+    "site_id": "ru#17",
+    "name": "Super RTL",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "RTLSuper.de@SD"
+  },
+  {
+    "site_id": "ru#59",
+    "name": "Euronews",
+    "lang": "ru",
+    "region": "RU",
+    "xmltv_id": "EuronewsEnglish.fr@SD"
+  },
+  {
+    "site_id": "ru#1264",
+    "name": "BBC Earth",
+    "lang": "ru",
+    "region": "RU"
+  },
+  {
+    "site_id": "en#59",
+    "name": "Euronews",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "EuronewsEnglish.fr@SD"
+  },
+  {
+    "site_id": "en#71",
+    "name": "MTV Hits",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MTVHitsEurope.uk@SD"
+  },
+  {
+    "site_id": "en#91",
+    "name": "SKY News",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "SkyNewsInternational.uk@SD"
+  },
+  {
+    "site_id": "en#220",
+    "name": "LIFE TV",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "en#1080",
+    "name": "Duo 6",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Duo6.ee@SD"
   }
 ]

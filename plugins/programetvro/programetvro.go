@@ -55,36 +55,65 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	d := date.Truncate(24 * time.Hour).UTC()
 	dayName := daysOfWeek[int(d.Weekday())]
 
-	url := fmt.Sprintf(
+	u := fmt.Sprintf(
 		"https://www.programetv.ro/program-tv/%s/%s/",
 		channel.SiteID,
 		dayName,
 	)
 
-	req, err := http.NewRequest(http.MethodGet, url, nil)
-	if err != nil {
-		return nil, err
-	}
+	var body []byte
+	backoff := time.Second
+	const maxRetries = 3
 
-	resp, err := p.client.Do(req)
-	if err != nil {
-		return nil, err
-	}
-	defer resp.Body.Close()
+	for attempt := 0; attempt <= maxRetries; attempt++ {
+		req, err := http.NewRequest(http.MethodGet, u, nil)
+		if err != nil {
+			return nil, err
+		}
+		req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36")
+		req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
+		req.Header.Set("Accept-Language", "ro,en;q=0.5")
 
-	if resp.StatusCode != http.StatusOK {
-		return nil, nil
-	}
+		resp, err := p.client.Do(req)
+		if err != nil {
+			if attempt < maxRetries {
+				time.Sleep(backoff)
+				backoff *= 2
+				continue
+			}
+			return nil, err
+		}
 
-	body, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return nil, err
+		body, err = io.ReadAll(resp.Body)
+		resp.Body.Close()
+		if err != nil {
+			return nil, err
+		}
+
+		if resp.StatusCode == http.StatusTooManyRequests || resp.StatusCode >= 500 {
+			if attempt < maxRetries {
+				time.Sleep(backoff)
+				backoff *= 2
+				continue
+			}
+			return nil, fmt.Errorf("HTTP %d after %d retries for channel %s", resp.StatusCode, maxRetries, channel.SiteID)
+		}
+
+		if resp.StatusCode == http.StatusNotFound {
+			return nil, nil
+		}
+
+		if resp.StatusCode != http.StatusOK {
+			return nil, fmt.Errorf("HTTP %d for channel %s", resp.StatusCode, channel.SiteID)
+		}
+
+		break
 	}
 
 	return Parse(body, channel)
 }
 
-var pageDataRegex = regexp.MustCompile(`var pageData = ({.+?});`)
+var pageDataRegex = regexp.MustCompile(`(?s)var\s+pageData\s*=\s*(\{.+?\});\s*`)
 
 func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	matches := pageDataRegex.FindSubmatch(data)
@@ -171,7 +200,6 @@ type Credits struct {
 	Actor    []string `json:"actor"`
 }
 
-// flexInt handles JSON values that may be a number, a string, or null.
 type flexInt int
 
 func (fi *flexInt) UnmarshalJSON(data []byte) error {
@@ -190,17 +218,14 @@ func (fi *flexInt) UnmarshalJSON(data []byte) error {
 	return nil
 }
 
-// flexStrSlice handles JSON values that may be an array of strings, a single string, or null.
 type flexStrSlice []string
 
 func (fs *flexStrSlice) UnmarshalJSON(data []byte) error {
-	// Try array first
 	var arr []string
 	if err := json.Unmarshal(data, &arr); err == nil {
 		*fs = arr
 		return nil
 	}
-	// Try single string
 	var s string
 	if err := json.Unmarshal(data, &s); err == nil {
 		if s != "" {
@@ -208,6 +233,5 @@ func (fs *flexStrSlice) UnmarshalJSON(data []byte) error {
 		}
 		return nil
 	}
-	// Ignore unrecognized types
 	return nil
 }

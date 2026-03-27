@@ -26,11 +26,15 @@ func init() {
 }
 
 type provider struct {
-	client httpClient
+	client HTTPClient
 }
 
-type httpClient interface {
+type HTTPClient interface {
 	Do(req *http.Request) (*http.Response, error)
+}
+
+func NewProvider(client HTTPClient) *provider {
+	return &provider{client: client}
 }
 
 func (p *provider) Name() string        { return "tvmusor.hu" }
@@ -60,7 +64,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("unexpected status %d for channel %s", resp.StatusCode, channel.SiteID)
+		return []domain.Program{}, nil
 	}
 
 	body, err := io.ReadAll(resp.Body)
@@ -74,7 +78,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	var response apiResponse
 	if err := json.Unmarshal(data, &response); err != nil {
-		return nil, err
+		return []domain.Program{}, nil
 	}
 
 	if response.Data.LoadedBlocks == nil {
@@ -87,13 +91,19 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 		return []domain.Program{}, nil
 	}
 
-	seen := make(map[int64]bool)
+	seenStart := make(map[int64]bool)
+	seenB := make(map[int64]bool)
 	programs := make([]domain.Program, 0, len(items))
 	for _, item := range items {
-		if seen[item.E] {
+		if seenStart[item.E] {
 			continue
 		}
-		seen[item.E] = true
+		seenStart[item.E] = true
+
+		if seenB[item.B] {
+			continue
+		}
+		seenB[item.B] = true
 
 		p := domain.Program{
 			Channel:     channel.XmltvID,

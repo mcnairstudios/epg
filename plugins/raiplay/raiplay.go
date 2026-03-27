@@ -84,7 +84,7 @@ func mustLoadLocation(name string) *time.Location {
 func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	var response ScheduleResponse
 	if err := json.Unmarshal(data, &response); err != nil {
-		return nil, err
+		return nil, nil
 	}
 
 	if response.Events == nil {

@@ -90,8 +90,34 @@ func TestParseEmptyContent(t *testing.T) {
 
 func TestParseInvalidJSON(t *testing.T) {
 	date := time.Date(2022, 5, 3, 0, 0, 0, 0, time.UTC)
-	_, err := raiplay.Parse([]byte(`not json`), domain.Channel{}, date)
-	if err == nil {
-		t.Fatal("expected error on invalid JSON")
+	programs, err := raiplay.Parse([]byte(`not json`), domain.Channel{}, date)
+	if err != nil {
+		t.Fatalf("expected nil error, got %v", err)
+	}
+	if len(programs) != 0 {
+		t.Fatalf("expected 0 programs, got %d", len(programs))
+	}
+}
+
+func TestParseEmptyBody(t *testing.T) {
+	date := time.Date(2022, 5, 3, 0, 0, 0, 0, time.UTC)
+	programs, err := raiplay.Parse([]byte{}, domain.Channel{}, date)
+	if err != nil {
+		t.Fatalf("expected nil error, got %v", err)
+	}
+	if len(programs) != 0 {
+		t.Fatalf("expected 0 programs, got %d", len(programs))
+	}
+}
+
+func TestParseHTMLResponse(t *testing.T) {
+	date := time.Date(2022, 5, 3, 0, 0, 0, 0, time.UTC)
+	html := []byte(`<!DOCTYPE html><html><body>Not Found</body></html>`)
+	programs, err := raiplay.Parse(html, domain.Channel{}, date)
+	if err != nil {
+		t.Fatalf("expected nil error, got %v", err)
+	}
+	if len(programs) != 0 {
+		t.Fatalf("expected 0 programs, got %d", len(programs))
 	}
 }
