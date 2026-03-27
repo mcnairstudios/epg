@@ -24,7 +24,7 @@ type httpClient interface {
 }
 
 func (p *provider) Name() string        { return "cosmotetv.gr" }
-func (p *provider) Description() string { return "Cosmote TV Greece" }
+func (p *provider) Description() string { return "Cosmote TV Greece TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
 	return []domain.Channel{
@@ -33,11 +33,12 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	startOfDay := time.Date(date.Year(), date.Month(), date.Day(), 0, 0, 0, 0, time.UTC)
-	endOfDay := startOfDay.Add(24*time.Hour - time.Second)
+	startOfDay := date.Truncate(24 * time.Hour).UTC().Unix()
+	endOfDay := date.Truncate(24*time.Hour).Add(24*time.Hour-time.Second).UTC().Unix()
+
 	url := fmt.Sprintf(
 		"https://mwapi-prod.cosmotetvott.gr/api/v3.4/epg/listings/el?from=%d&to=%d&callSigns=%s&endingIncludedInRange=false",
-		startOfDay.Unix(), endOfDay.Unix(), channel.SiteID,
+		startOfDay, endOfDay, channel.SiteID,
 	)
 
 	req, err := http.NewRequest(http.MethodGet, url, nil)
@@ -68,31 +69,31 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	var programs []domain.Program
 	for _, ch := range response.Channels {
 		for _, item := range ch.Items {
-			start, err := time.Parse(time.RFC3339, item.StartTime)
-			if err != nil {
-				continue
-			}
-			stop, err := time.Parse(time.RFC3339, item.EndTime)
-			if err != nil {
-				continue
-			}
-
-			desc := item.Description
-			if desc == "" {
-				desc = "No description available"
-			}
-
-			programs = append(programs, domain.Program{
+			prog := domain.Program{
 				Channel:     channel.XmltvID,
 				Source:      "cosmotetv.gr",
 				Title:       item.Title,
-				Description: desc,
-				Category:    item.Qoe.Genre,
+				Description: item.Description,
 				Image:       item.Thumbnails.Standard,
 				Lang:        channel.Lang,
-				Start:       start.UTC(),
-				Stop:        stop.UTC(),
-			})
+			}
+
+			if item.QOE.Genre != "" {
+				prog.Category = item.QOE.Genre
+			}
+
+			if item.StartTime != "" {
+				if t, err := time.Parse(time.RFC3339, item.StartTime); err == nil {
+					prog.Start = t.UTC()
+				}
+			}
+			if item.EndTime != "" {
+				if t, err := time.Parse(time.RFC3339, item.EndTime); err == nil {
+					prog.Stop = t.UTC()
+				}
+			}
+
+			programs = append(programs, prog)
 		}
 	}
 
@@ -116,14 +117,14 @@ type programItem struct {
 	EndTime     string     `json:"endTime"`
 	Title       string     `json:"title"`
 	Description string     `json:"description"`
-	Qoe         qoeData    `json:"qoe"`
-	Thumbnails  thumbData  `json:"thumbnails"`
+	QOE         qoeData    `json:"qoe"`
+	Thumbnails  thumbnails `json:"thumbnails"`
 }
 
 type qoeData struct {
 	Genre string `json:"genre"`
 }
 
-type thumbData struct {
+type thumbnails struct {
 	Standard string `json:"standard"`
 }
