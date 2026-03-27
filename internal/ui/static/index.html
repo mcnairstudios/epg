@@ -55,9 +55,9 @@
   <div class="container">
     <header>
       <h1>EPG Service</h1>
-      <div>
-        <span id="auth-status" style="font-size:13px;color:#8b98a5;margin-right:12px;"></span>
-        <input type="text" id="token-input" placeholder="API Token" style="width:200px;display:inline-block;">
+      <div style="display:flex;align-items:center;gap:8px;">
+        <input type="text" id="token-input" placeholder="API Token" style="width:180px;display:inline-block;font-size:12px;">
+        <button class="btn" style="background:#374151;color:#9ca3af;" onclick="openSettings()">Settings</button>
       </div>
     </header>
 
@@ -65,17 +65,11 @@
 
     <div class="stats" id="stats"></div>
 
-    <div class="tabs">
-      <button class="tab active" data-panel="sources">Sources</button>
-      <button class="tab" data-panel="channels">Channels</button>
-      <button class="tab" data-panel="programs">Programs</button>
-      <button class="tab" data-panel="xmltv">XMLTV</button>
-      <button class="tab" data-panel="users">Users</button>
-    </div>
 
-    <div class="panel active" id="sources">
+    <div id="sources">
+      <div id="sources-list-view">
       <div style="margin-bottom:16px;display:flex;justify-content:space-between;align-items:center;">
-        <h2>Plugin Sources</h2>
+        <h2>Sources</h2>
         <button class="btn btn-success" onclick="grabAll()">Grab All Sources</button>
       </div>
       <div class="grid" id="plugin-sources"></div>
@@ -93,29 +87,24 @@
         <button class="btn btn-primary" onclick="addExternalSource()">Add</button>
       </div>
       <div class="grid" id="external-sources"></div>
-    </div>
+    </div></div>
 
-    <div class="panel" id="channels">
-      <div id="channel-source-list"></div>
-      <div id="channel-detail" style="display:none;">
-        <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
-          <button class="btn btn-primary" onclick="showChannelSources()">&larr; Back</button>
-          <h2 id="channel-detail-title"></h2>
-        </div>
+    <div id="source-detail-overlay" style="display:none;" class="panel active">
+      <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+        <button class="btn btn-primary" onclick="closeSourceDetail()">&larr; Back to Sources</button>
+        <h2 id="source-detail-name"></h2>
+      </div>
+      <div class="tabs" style="margin-bottom:16px;">
+        <button class="tab active" onclick="showDetailTab(this,'detail-channels')">Channels</button>
+        <button class="tab" onclick="showDetailTab(this,'detail-programs')">Programs</button>
+      </div>
+      <div id="detail-channels">
         <table>
           <thead><tr><th>Name</th><th>XMLTV ID</th><th>Lang</th></tr></thead>
           <tbody id="channels-table"></tbody>
         </table>
       </div>
-    </div>
-
-    <div class="panel" id="programs">
-      <div id="program-source-list"></div>
-      <div id="program-detail" style="display:none;">
-        <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
-          <button class="btn btn-primary" onclick="showProgramSources()">&larr; Back</button>
-          <h2 id="program-detail-title"></h2>
-        </div>
+      <div id="detail-programs" style="display:none;">
         <table>
           <thead><tr><th>Time</th><th>Title</th><th>Channel</th><th>Category</th></tr></thead>
           <tbody id="programs-table"></tbody>
@@ -123,19 +112,17 @@
       </div>
     </div>
 
-    <div class="panel" id="xmltv">
-      <h2 style="margin-bottom:16px;">XMLTV Endpoints</h2>
-      <div class="card">
-        <h3>Full EPG</h3>
-        <p class="xmltv-url" id="xmltv-full-url"></p>
-        <div style="margin-top:8px;">
-          <button class="btn btn-primary" onclick="copyXmltvUrl('xmltv-full-url')">Copy URL</button>
-        </div>
+    <div id="settings-overlay" style="display:none;">
+      <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+        <button class="btn btn-primary" onclick="closeSettings()">&larr; Back</button>
+        <h2>Settings</h2>
       </div>
-      <div id="xmltv-source-urls"></div>
-    </div>
-
-    <div class="panel" id="users">
+      <div class="card" style="margin-bottom:16px;">
+        <h3>Full XMLTV URL</h3>
+        <p class="xmltv-url" id="xmltv-full-url"></p>
+        <button class="btn btn-primary" style="margin-top:8px;" onclick="copyXmltvUrl('xmltv-full-url')">Copy URL</button>
+      </div>
+      <h3 style="margin-bottom:12px;">Users</h3>
       <div class="form-row">
         <div class="form-group">
           <label>Username</label>
@@ -170,6 +157,26 @@
       return h;
     }
 
+    function copySourceXmltvUrl(name) {
+      const base = window.location.origin;
+      const tokenParam = token ? '?token=' + token : '';
+      navigator.clipboard.writeText(base + '/epg/' + name + '.xml' + tokenParam);
+      showStatus('XMLTV URL copied for ' + name, 'success');
+    }
+
+    function openSettings() {
+      document.getElementById('sources').style.display = 'none';
+      document.getElementById('source-detail-overlay').style.display = 'none';
+      document.getElementById('settings-overlay').style.display = 'block';
+      loadXmltvUrls();
+      loadUsers();
+    }
+
+    function closeSettings() {
+      document.getElementById('settings-overlay').style.display = 'none';
+      document.getElementById('sources').style.display = 'block';
+    }
+
     function showStatus(msg, type) {
       const el = document.getElementById('status-msg');
       el.textContent = msg;
@@ -178,14 +185,6 @@
       setTimeout(() => el.style.display = 'none', 5000);
     }
 
-    document.querySelectorAll('.tab').forEach(tab => {
-      tab.addEventListener('click', () => {
-        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-        document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
-        tab.classList.add('active');
-        document.getElementById(tab.dataset.panel).classList.add('active');
-      });
-    });
 
     async function apiFetch(path, opts = {}) {
       const resp = await fetch(API + path, {headers: headers(), ...opts});
@@ -227,10 +226,10 @@
           const grabbedCh = gs ? gs.channels : 0;
           const statusBadge = gs
             ? (gs.programs > 0
-              ? `<span class="badge badge-plugin" style="background:#059669;">${gs.programs} progs / ${gs.channels} ch</span>`
-              : `<span class="badge badge-plugin" style="background:#dc2626;">0 programs</span>`)
+              ? `<span class="badge" style="background:#059669;color:white;">${gs.programs} progs / ${gs.channels} ch</span>`
+              : `<span class="badge" style="background:#dc2626;color:white;">0 programs</span>`)
             : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
-          const channelInfo = `<span style="font-size:12px;color:#8b98a5;">${total} channels available</span>`;
+          const channelInfo = `<span style="font-size:12px;color:#8b98a5;">${total} channels</span>`;
           const lastGrab = gs ? `<span style="font-size:11px;color:#8b98a5;">Last: ${new Date(gs.last_grab).toLocaleString()} (${gs.duration})</span>` : '';
           const errorInfo = gs && gs.errors > 0 ? `<span style="font-size:11px;color:#fca5a5;"> ${gs.errors} errors</span>` : '';
           return `
@@ -239,8 +238,11 @@
               <p>${s.description || ''}</p>
               <div style="margin-top:4px;">${channelInfo}</div>
               <div style="margin-top:2px;">${lastGrab}${errorInfo}</div>
-              <div style="margin-top:8px;">
-                <button class="btn btn-success" onclick="grabSource('${s.name}')">Grab EPG</button>
+              <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
+                <button class="btn btn-success" onclick="grabSource('${s.name}')">Grab</button>
+                <button class="btn btn-primary" onclick="openSourceDetail('${s.name}','channels')">Channels</button>
+                ${gs && gs.programs > 0 ? `<button class="btn btn-primary" onclick="openSourceDetail('${s.name}','programs')">Programs</button>` : ''}
+                <button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${s.name}')">Copy XMLTV URL</button>
               </div>
             </div>
           `;
@@ -305,6 +307,53 @@
         showStatus(`Imported ${res.channels} channels, ${res.programs} programs from ${name}`, 'success');
         refreshAll();
       } catch(e) { showStatus(e.message, 'error'); }
+    }
+
+    async function openSourceDetail(source, tab) {
+      document.getElementById('sources-list-view').style.display = 'none';
+      document.getElementById('source-detail-overlay').style.display = 'block';
+      document.getElementById('source-detail-name').textContent = source;
+
+      try {
+        const channels = await apiFetch('/channels?source=' + source);
+        document.getElementById('channels-table').innerHTML = (channels||[]).sort((a,b) => a.name.localeCompare(b.name)).map(c => `
+          <tr><td>${c.name}</td><td><code>${c.xmltv_id}</code></td><td>${c.lang}</td></tr>
+        `).join('');
+      } catch(e) {}
+
+      try {
+        const programs = await apiFetch('/programs?source=' + source);
+        document.getElementById('programs-table').innerHTML = (programs||[]).slice(0, 500).map(p => `
+          <tr>
+            <td class="program-time">${new Date(p.start).toLocaleString([], {month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'})} - ${new Date(p.stop).toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})}</td>
+            <td>${p.title}${p.sub_title ? '<br><span class="program-meta">' + p.sub_title + '</span>':''}</td>
+            <td><code>${p.channel}</code></td>
+            <td>${p.category||''}</td>
+          </tr>
+        `).join('');
+      } catch(e) {}
+
+      if (tab === 'programs') {
+        document.getElementById('detail-channels').style.display = 'none';
+        document.getElementById('detail-programs').style.display = 'block';
+        document.querySelectorAll('#source-detail-overlay .tab').forEach((t,i) => t.classList.toggle('active', i===1));
+      } else {
+        document.getElementById('detail-channels').style.display = 'block';
+        document.getElementById('detail-programs').style.display = 'none';
+        document.querySelectorAll('#source-detail-overlay .tab').forEach((t,i) => t.classList.toggle('active', i===0));
+      }
+    }
+
+    function closeSourceDetail() {
+      document.getElementById('source-detail-overlay').style.display = 'none';
+      document.getElementById('sources-list-view').style.display = 'block';
+    }
+
+    function showDetailTab(btn, tabId) {
+      document.querySelectorAll('#source-detail-overlay .tab').forEach(t => t.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('detail-channels').style.display = tabId === 'detail-channels' ? 'block' : 'none';
+      document.getElementById('detail-programs').style.display = tabId === 'detail-programs' ? 'block' : 'none';
     }
 
     async function loadChannels() {
@@ -387,25 +436,11 @@
       } catch(e) { showStatus(e.message, 'error'); }
     }
 
-    async function loadXmltvUrls() {
+    function loadXmltvUrls() {
       const base = window.location.origin;
       const tokenParam = token ? '?token=' + token : '';
-      document.getElementById('xmltv-full-url').textContent = base + '/epg.xml' + tokenParam;
-
-      try {
-        const sources = await apiFetch('/sources');
-        const ext = await apiFetch('/external-sources').catch(() => []);
-        const all = [...(sources||[]).map(s => s.name), ...(ext||[]).map(s => s.name)];
-        document.getElementById('xmltv-source-urls').innerHTML = all.map(name => `
-          <div class="card">
-            <h3>${name}</h3>
-            <p class="xmltv-url" id="xmltv-${name}">${base}/epg/${name}.xml${tokenParam}</p>
-            <div style="margin-top:8px;">
-              <button class="btn btn-primary" onclick="copyXmltvUrl('xmltv-${name}')">Copy URL</button>
-            </div>
-          </div>
-        `).join('');
-      } catch(e) { console.error(e); }
+      const el = document.getElementById('xmltv-full-url');
+      if (el) el.textContent = base + '/epg.xml' + tokenParam;
     }
 
     function copyXmltvUrl(id) {
