@@ -12,6 +12,7 @@ import (
 	"github.com/gavinmcnair/epg/internal/api"
 	"github.com/gavinmcnair/epg/internal/auth"
 	"github.com/gavinmcnair/epg/internal/grabber"
+	"github.com/gavinmcnair/epg/internal/scheduler"
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
 
@@ -41,6 +42,7 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/mitv"
 	_ "github.com/gavinmcnair/epg/plugins/mncvision"
 	_ "github.com/gavinmcnair/epg/plugins/movistarplus"
+	_ "github.com/gavinmcnair/epg/plugins/mtelba"
 	_ "github.com/gavinmcnair/epg/plugins/mytvsuper"
 	_ "github.com/gavinmcnair/epg/plugins/neoio"
 	_ "github.com/gavinmcnair/epg/plugins/ontvtonight"
@@ -57,8 +59,9 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/sattv"
 	_ "github.com/gavinmcnair/epg/plugins/shahid"
 	_ "github.com/gavinmcnair/epg/plugins/singtel"
-	_ "github.com/gavinmcnair/epg/plugins/skyuk"
+	_ "github.com/gavinmcnair/epg/plugins/skyde"
 	_ "github.com/gavinmcnair/epg/plugins/skynz"
+	_ "github.com/gavinmcnair/epg/plugins/skyuk"
 	_ "github.com/gavinmcnair/epg/plugins/starhub"
 	_ "github.com/gavinmcnair/epg/plugins/tataplay"
 	_ "github.com/gavinmcnair/epg/plugins/teleboy"
@@ -79,6 +82,7 @@ func main() {
 	dataDir := flag.String("data-dir", ".", "directory for persistent data files")
 	days := flag.Int("days", 3, "number of days to grab")
 	maxConn := flag.Int("max-connections", 3, "max concurrent connections per grab")
+	schedule := flag.String("schedule", "", "cron schedule for automatic grabbing (e.g. '0 0 * * *' for daily)")
 	flag.Parse()
 
 	s := store.New(filepath.Join(*dataDir, "epg.gob"))
@@ -98,6 +102,14 @@ func main() {
 
 	g := grabber.New(s, *maxConn, *days)
 	srv := api.NewServer(s, g, ext, users)
+
+	if *schedule != "" {
+		sched := scheduler.New(g, s)
+		if err := sched.Start(*schedule); err != nil {
+			log.Fatalf("failed to start scheduler: %v", err)
+		}
+		defer sched.Stop()
+	}
 
 	go func() {
 		sigCh := make(chan os.Signal, 1)
