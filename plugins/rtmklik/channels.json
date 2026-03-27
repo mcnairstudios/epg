@@ -1,17 +1,5 @@
 [
   {
-    "site_id": "2",
-    "name": "TV2",
-    "lang": "ms",
-    "xmltv_id": "TV2.my@SD"
-  },
-  {
-    "site_id": "3",
-    "name": "Okey",
-    "lang": "ms",
-    "xmltv_id": "Okey.my@SD"
-  },
-  {
     "site_id": "4",
     "name": "Sukan RTM",
     "lang": "ms",
@@ -44,5 +32,17 @@
     "name": "TV1",
     "lang": "ms",
     "xmltv_id": "TV1.my@SD"
+  },
+  {
+    "site_id": "2",
+    "name": "TV2",
+    "lang": "ms",
+    "xmltv_id": "TV2.my@SD"
+  },
+  {
+    "site_id": "3",
+    "name": "Okey",
+    "lang": "ms",
+    "xmltv_id": "Okey.my@SD"
   }
 ]

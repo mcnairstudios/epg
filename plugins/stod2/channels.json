@@ -1,32 +1,5 @@
 [
   {
-    "site_id": "stod3",
-    "name": "Stöð 2 Fjölskylda",
-    "lang": "is",
-    "xmltv_id": "Stod2Fjolskylda.is@SD"
-  },
-  {
-    "site_id": "vodasport",
-    "name": "Vodafone Sport",
-    "lang": "is"
-  },
-  {
-    "site_id": "besta01",
-    "name": "Besta01",
-    "lang": "is"
-  },
-  {
-    "site_id": "besta02",
-    "name": "Besta02",
-    "lang": "is"
-  },
-  {
-    "site_id": "golfstodin",
-    "name": "Stöð 2 Sport 5",
-    "lang": "is",
-    "xmltv_id": "Stod2Sport5.is@SD"
-  },
-  {
     "site_id": "sport4",
     "name": "Stöð 2 Sport 4",
     "lang": "is",
@@ -39,15 +12,20 @@
     "xmltv_id": "Stod2Sport6.is@SD"
   },
   {
+    "site_id": "vodasport",
+    "name": "Vodafone Sport",
+    "lang": "is"
+  },
+  {
     "site_id": "besta03",
     "name": "Besta03",
     "lang": "is"
   },
   {
-    "site_id": "sport",
-    "name": "Stöð 2 Sport",
+    "site_id": "golfstodin",
+    "name": "Stöð 2 Sport 5",
     "lang": "is",
-    "xmltv_id": "Stod2Sport.is@SD"
+    "xmltv_id": "Stod2Sport5.is@SD"
   },
   {
     "site_id": "sport2",
@@ -66,5 +44,27 @@
     "name": "Stöð 2",
     "lang": "is",
     "xmltv_id": "Stod2.is@SD"
+  },
+  {
+    "site_id": "stod3",
+    "name": "Stöð 2 Fjölskylda",
+    "lang": "is",
+    "xmltv_id": "Stod2Fjolskylda.is@SD"
+  },
+  {
+    "site_id": "besta01",
+    "name": "Besta01",
+    "lang": "is"
+  },
+  {
+    "site_id": "besta02",
+    "name": "Besta02",
+    "lang": "is"
+  },
+  {
+    "site_id": "sport",
+    "name": "Stöð 2 Sport",
+    "lang": "is",
+    "xmltv_id": "Stod2Sport.is@SD"
   }
 ]

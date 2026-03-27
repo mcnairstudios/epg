@@ -1,9 +1,15 @@
 [
   {
-    "site_id": "lis#5",
-    "name": "RTP Internacional",
+    "site_id": "lis#6",
+    "name": "RTP África",
     "lang": "pt",
-    "xmltv_id": "RTPInternacional.pt@SD"
+    "xmltv_id": "RTPAfrica.pt@SD"
+  },
+  {
+    "site_id": "rja#5",
+    "name": "RTP Internacional América",
+    "lang": "pt",
+    "xmltv_id": "RTPiAmerica.pt@SD"
   },
   {
     "site_id": "lis#4",
@@ -36,27 +42,21 @@
     "xmltv_id": "RTP2.pt@SD"
   },
   {
-    "site_id": "rja#5",
-    "name": "RTP Internacional América",
-    "lang": "pt",
-    "xmltv_id": "RTPiAmerica.pt@SD"
-  },
-  {
     "site_id": "lis#3",
     "name": "RTP Açores",
     "lang": "pt",
     "xmltv_id": "RTPAcores.pt@SD"
   },
   {
-    "site_id": "lis#6",
-    "name": "RTP África",
-    "lang": "pt",
-    "xmltv_id": "RTPAfrica.pt@SD"
-  },
-  {
     "site_id": "per#5",
     "name": "RTP Internacional Ásia",
     "lang": "pt",
     "xmltv_id": "RTPiAsia.pt@SD"
+  },
+  {
+    "site_id": "lis#5",
+    "name": "RTP Internacional",
+    "lang": "pt",
+    "xmltv_id": "RTPInternacional.pt@SD"
   }
 ]

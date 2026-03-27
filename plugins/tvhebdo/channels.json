@@ -1,53 +1,70 @@
 [
   {
+    "site_id": "cmt/CMT",
+    "name": "COUNTRY MUSIC TELEVISION",
+    "lang": "fr",
+    "xmltv_id": "CMT.ca@SD"
+  },
+  {
+    "site_id": "azmu/AZMU",
+    "name": "AZ Mundo",
+    "lang": "fr",
+    "xmltv_id": "AzMundo.mx@SD"
+  },
+  {
+    "site_id": "nfln/NFL",
+    "name": "NFL Network",
+    "lang": "fr",
+    "xmltv_id": "NFLNetwork.us@SD"
+  },
+  {
+    "site_id": "plan/PLAHD",
+    "name": "Planète HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "v/NVSMT",
+    "name": "NVSMT",
+    "lang": "fr",
+    "xmltv_id": "Noovo.ca@SD"
+  },
+  {
+    "site_id": "abc/WVNY",
+    "name": "WVNY",
+    "lang": "fr"
+  },
+  {
+    "site_id": "aptn/APTHD",
+    "name": "APTN HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ita/ITA",
+    "name": "Mediaset Italia",
+    "lang": "fr",
+    "xmltv_id": "MediasetItalia.ca@SD"
+  },
+  {
+    "site_id": "mmax/MAXHD",
+    "name": "MAX HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nino/NINOS",
+    "name": "TLN Ninos",
+    "lang": "fr",
+    "xmltv_id": "TeleNinos.ca@SD"
+  },
+  {
+    "site_id": "snet/SNET+ONT+H",
+    "name": "Sportsnet Ontario HD",
+    "lang": "fr"
+  },
+  {
     "site_id": "ajaz/ALJAZ",
     "name": "ALJAZEERA",
     "lang": "fr",
     "xmltv_id": "AlJazeera.qa@English"
-  },
-  {
-    "site_id": "d/D+HD",
-    "name": "D HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "fair/FAIRCH",
-    "name": "FAIR",
-    "lang": "fr",
-    "xmltv_id": "FairchildTV1.ca@East"
-  },
-  {
-    "site_id": "golf/GLHD",
-    "name": "GOLF HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "met/MET",
-    "name": "MeteoMedia HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "nat/GEOHD",
-    "name": "National Geographic HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "chh/CITYM",
-    "name": "CJNT (Metro 14)",
-    "lang": "fr",
-    "xmltv_id": "CJNTDT.ca@SD"
-  },
-  {
-    "site_id": "cnnh/HLN",
-    "name": "CNN HEADLINE NEWS",
-    "lang": "fr",
-    "xmltv_id": "HLN.us@SD"
-  },
-  {
-    "site_id": "d/D",
-    "name": "D",
-    "lang": "fr",
-    "xmltv_id": "CanalD.ca@SD"
   },
   {
     "site_id": "dw/DWTV",
@@ -56,120 +73,54 @@
     "xmltv_id": "DW.de@English"
   },
   {
-    "site_id": "se/SE+4",
-    "name": "SE 4",
-    "lang": "fr",
-    "xmltv_id": "SuperEcran4.ca@SD"
-  },
-  {
-    "site_id": "zest/ZESHD",
-    "name": "Zeste HD",
+    "site_id": "sc4/SC4HD",
+    "name": "Super Channel 4 HD",
     "lang": "fr"
   },
   {
-    "site_id": "zest/ZESTE",
-    "name": "Zeste",
+    "site_id": "cbc/CBUT",
+    "name": "CBUT-2",
     "lang": "fr",
-    "xmltv_id": "Zeste.ca@SD"
+    "xmltv_id": "CBUTDT.ca@SD"
   },
   {
-    "site_id": "cgtv/GAMETV",
-    "name": "GAME TV",
+    "site_id": "docc/DOC",
+    "name": "Documentary Channel",
     "lang": "fr",
-    "xmltv_id": "GameTV.ca@SD"
+    "xmltv_id": "DocumentaryChannel.ca@SD"
   },
   {
-    "site_id": "chh/CITYMH",
-    "name": "CJNT (Metro 14)",
+    "site_id": "golf/GLHD",
+    "name": "GOLF HD",
     "lang": "fr"
   },
   {
-    "site_id": "mmax/MAX",
-    "name": "MAX SD",
+    "site_id": "ownh/OWN",
+    "name": "OWN Canada",
     "lang": "fr",
-    "xmltv_id": "Max.ca@SD"
+    "xmltv_id": "OWN.ca@SD"
   },
   {
-    "site_id": "tcmv/TCM1",
-    "name": "Turner Classic Movie 1",
-    "lang": "fr",
-    "xmltv_id": "TCM.ca@SD"
-  },
-  {
-    "site_id": "tva/TVAHD",
-    "name": "CFTM HD",
+    "site_id": "rds2/RDS2H",
+    "name": "RDS2 HD",
     "lang": "fr"
   },
   {
-    "site_id": "ae/A%26amp%3BEHD",
-    "name": "A\u0026E HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ltim/LTMH",
-    "name": "LIFETIME HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tmn/HBOCH",
-    "name": "HBO HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tv5/TV5HD",
-    "name": "TV5 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "beis/BEIS",
-    "name": "Be In Sports",
+    "site_id": "tva/CFTM",
+    "name": "CFTM",
     "lang": "fr",
-    "xmltv_id": "beINSports.qa@Canada"
+    "xmltv_id": "CFTMDT.ca@SD"
   },
   {
-    "site_id": "inve/INVE",
-    "name": "Investigation",
+    "site_id": "tvas/TVASP",
+    "name": "TVA Sports",
     "lang": "fr",
-    "xmltv_id": "Investigation.ca@SD"
+    "xmltv_id": "TVASports.ca@SD"
   },
   {
-    "site_id": "wild/WILD",
-    "name": "Wild",
-    "lang": "fr",
-    "xmltv_id": "WildTV.ca@SD"
-  },
-  {
-    "site_id": "life/SLICE+HD",
-    "name": "Slice HD",
+    "site_id": "yoo/YOOHD",
+    "name": "YOOPA HD",
     "lang": "fr"
-  },
-  {
-    "site_id": "tcmv/TCMV",
-    "name": "TCM HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tqc/TQCHD",
-    "name": "CIVM",
-    "lang": "fr"
-  },
-  {
-    "site_id": "wgn9/WGN9",
-    "name": "WGN9 HD",
-    "lang": "fr",
-    "xmltv_id": "WGNHD.us@SD"
-  },
-  {
-    "site_id": "wwe/WWE",
-    "name": "WWE",
-    "lang": "fr",
-    "xmltv_id": "WWENetwork.ca@SD"
-  },
-  {
-    "site_id": "animal/ANPL",
-    "name": "Animal Planet",
-    "lang": "fr",
-    "xmltv_id": "AnimalPlanet.ca@SD"
   },
   {
     "site_id": "city/CITHD",
@@ -177,87 +128,22 @@
     "lang": "fr"
   },
   {
-    "site_id": "rds/RDS",
-    "name": "RDS",
+    "site_id": "se/SE+2",
+    "name": "SE 2",
     "lang": "fr",
-    "xmltv_id": "RDS.ca@SD"
+    "xmltv_id": "SuperEcran2.ca@SD"
   },
   {
-    "site_id": "stz/STZ",
-    "name": "STARZ1",
+    "site_id": "tsc/SHOP",
+    "name": "The Shopping Channel",
     "lang": "fr",
-    "xmltv_id": "Starz1.ca@East"
+    "xmltv_id": "TSC.ca@SD"
   },
   {
-    "site_id": "vie/VIEHD",
-    "name": "Canal Vie HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cbs/WCAXH",
-    "name": "WCAXDT",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cour/IDHD",
-    "name": "Investigation Discovery Canada HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cpop/POPHD",
-    "name": "Ciné-pop HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "oash/NATUR",
-    "name": "Oasis HD",
+    "site_id": "city/CITY",
+    "name": "CITY",
     "lang": "fr",
-    "xmltv_id": "LoveNature.ca@SD"
-  },
-  {
-    "site_id": "se/SE2HD",
-    "name": "SE 2 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tsn/TSN3",
-    "name": "TSN3",
-    "lang": "fr",
-    "xmltv_id": "TSN3.ca@SD"
-  },
-  {
-    "site_id": "bet/BET",
-    "name": "BLACK ENTERTAINMENT",
-    "lang": "fr",
-    "xmltv_id": "BET.ca@SD"
-  },
-  {
-    "site_id": "cara/CARA",
-    "name": "Caracol TV",
-    "lang": "fr",
-    "xmltv_id": "CaracolInternacional.co@SD"
-  },
-  {
-    "site_id": "cnn/CNNHD",
-    "name": "CNN HD",
-    "lang": "fr",
-    "xmltv_id": "CNN.us@SD"
-  },
-  {
-    "site_id": "se/SE4HD",
-    "name": "SE4 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "star/E",
-    "name": "STAR!",
-    "lang": "fr",
-    "xmltv_id": "E.ca@SD"
-  },
-  {
-    "site_id": "tvas/TSPHD",
-    "name": "TVA Sports HD",
-    "lang": "fr"
+    "xmltv_id": "CITYDT.ca@SD"
   },
   {
     "site_id": "cpop/CPOP",
@@ -272,141 +158,10 @@
     "xmltv_id": "KTLADT1.us@SD"
   },
   {
-    "site_id": "oln/OLN",
-    "name": "OUTDOOR LIFE",
+    "site_id": "enew/ENEW",
+    "name": "Euronews",
     "lang": "fr",
-    "xmltv_id": "OLN.ca@SD"
-  },
-  {
-    "site_id": "plan/PLAN",
-    "name": "Planète",
-    "lang": "fr",
-    "xmltv_id": "PlanetePlus.fr@SD"
-  },
-  {
-    "site_id": "ae/AE",
-    "name": "A\u0026E",
-    "lang": "fr",
-    "xmltv_id": "AE.us@East"
-  },
-  {
-    "site_id": "mlbn/MLBN",
-    "name": "MLB Network SD",
-    "lang": "fr",
-    "xmltv_id": "MLBNetwork.us@SD"
-  },
-  {
-    "site_id": "ownh/OWNHD",
-    "name": "OWN HD Canada",
-    "lang": "fr"
-  },
-  {
-    "site_id": "salt/SALTL",
-    "name": "Salt + Light TV",
-    "lang": "fr",
-    "xmltv_id": "SaltPlusLightTelevision.ca@SD"
-  },
-  {
-    "site_id": "speed/FOXSR",
-    "name": "FOX Sports Racing",
-    "lang": "fr",
-    "xmltv_id": "FoxSportsRacing.us@SD"
-  },
-  {
-    "site_id": "tfo/TFO",
-    "name": "TFO",
-    "lang": "fr",
-    "xmltv_id": "CHLFTV.ca@SD"
-  },
-  {
-    "site_id": "unis/UNIS",
-    "name": "UNIS",
-    "lang": "fr",
-    "xmltv_id": "Unis.ca@SD"
-  },
-  {
-    "site_id": "ytv/YTV+HD",
-    "name": "YTV HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "alph/ALPH",
-    "name": "ALPHA",
-    "lang": "fr",
-    "xmltv_id": "AlphaSat.gr@SD"
-  },
-  {
-    "site_id": "bnnb/BNNB",
-    "name": "BNN Bloomberg",
-    "lang": "fr",
-    "xmltv_id": "BNNBloomberg.ca@SD"
-  },
-  {
-    "site_id": "ctv/CTVHD",
-    "name": "CFCF HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "lsta/MTIME",
-    "name": "MovieTime",
-    "lang": "fr",
-    "xmltv_id": "MovieTime.ca@SD"
-  },
-  {
-    "site_id": "rdi/RDI",
-    "name": "RDI",
-    "lang": "fr",
-    "xmltv_id": "IciRDI.ca@SD"
-  },
-  {
-    "site_id": "scor/SN360HD",
-    "name": "The Score HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cbc/CBUT",
-    "name": "CBUT-2",
-    "lang": "fr",
-    "xmltv_id": "CBUTDT.ca@SD"
-  },
-  {
-    "site_id": "cmt/CMT",
-    "name": "COUNTRY MUSIC TELEVISION",
-    "lang": "fr",
-    "xmltv_id": "CMT.ca@SD"
-  },
-  {
-    "site_id": "nick/NICH",
-    "name": "Nickelodeon HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "plan/PLAHD",
-    "name": "Planète HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rdi/RDIHD",
-    "name": "RDI HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "snet/RSNP",
-    "name": "Sports Net Pacifique",
-    "lang": "fr",
-    "xmltv_id": "Sportsnet.ca@Pacific"
-  },
-  {
-    "site_id": "spar/SPARK",
-    "name": "SPARK",
-    "lang": "fr",
-    "xmltv_id": "ABCSpark.ca@SD"
-  },
-  {
-    "site_id": "tvs2/TVS2",
-    "name": "TVA Sports 2",
-    "lang": "fr",
-    "xmltv_id": "TVASports2.ca@SD"
+    "xmltv_id": "EuronewsEnglish.fr@SD"
   },
   {
     "site_id": "fox/KCPQ",
@@ -415,155 +170,55 @@
     "xmltv_id": "KCPQDT1.us@SD"
   },
   {
-    "site_id": "rds2/RDS2H",
-    "name": "RDS2 HD",
+    "site_id": "met/MET",
+    "name": "MeteoMedia HD",
     "lang": "fr"
   },
   {
-    "site_id": "tvo/TVO",
-    "name": "CICA",
-    "lang": "fr",
-    "xmltv_id": "CICADT.ca@SD"
-  },
-  {
-    "site_id": "fxx/FXX",
-    "name": "FXX SD",
-    "lang": "fr",
-    "xmltv_id": "FXX.ca@SD"
-  },
-  {
-    "site_id": "ici/ICIHD",
-    "name": "ICI Canal international HD",
+    "site_id": "snet/SNOHD",
+    "name": "Sports Net One HD",
     "lang": "fr"
   },
   {
-    "site_id": "mlle/MOIHD",
-    "name": "MOI ET CIE",
+    "site_id": "myst/ADDIKHD",
+    "name": "addik TV HD",
     "lang": "fr"
   },
   {
-    "site_id": "tsn/TSN3H",
-    "name": "TSN3 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "prise2/PR2",
-    "name": "Prise 2",
+    "site_id": "se/SE+4",
+    "name": "SE 4",
     "lang": "fr",
-    "xmltv_id": "Prise2.ca@SD"
+    "xmltv_id": "SuperEcran4.ca@SD"
   },
   {
-    "site_id": "tg24/TG24",
-    "name": "TGCOM 24",
+    "site_id": "ssrc/SSCR",
+    "name": "Silver Screen Classics",
     "lang": "fr",
-    "xmltv_id": "TGCom24.it@SD"
+    "xmltv_id": "SilverScreenClassics.ca@SD"
   },
   {
-    "site_id": "disx/DISX",
-    "name": "Disney XD SD",
+    "site_id": "abc/WVNYH",
+    "name": "WVNDT",
     "lang": "fr",
-    "xmltv_id": "DisneyXD.ca@SD"
+    "xmltv_id": "WVNYDT1.us@SD"
   },
   {
-    "site_id": "outv/OUTTV",
-    "name": "Out TV",
+    "site_id": "food/FOOD",
+    "name": "FOOD",
     "lang": "fr",
-    "xmltv_id": "OUTtv.ca@SD"
+    "xmltv_id": "FoodNetwork.ca@SD"
   },
   {
-    "site_id": "se/SE+2",
-    "name": "SE 2",
+    "site_id": "nagw/NATGW",
+    "name": "National Geographic Wild",
     "lang": "fr",
-    "xmltv_id": "SuperEcran2.ca@SD"
+    "xmltv_id": "NationalGeographicWild.ca@SD"
   },
   {
-    "site_id": "cpac/CPAC",
-    "name": "CPAC",
+    "site_id": "show/SHOW",
+    "name": "SHOW",
     "lang": "fr",
-    "xmltv_id": "CPACFrench.ca@SD"
-  },
-  {
-    "site_id": "cpae/CPAE",
-    "name": "CPAC English",
-    "lang": "en",
-    "xmltv_id": "CPACEnglish.ca@SD"
-  },
-  {
-    "site_id": "sais/SAIS",
-    "name": "Saisons SD",
-    "lang": "fr",
-    "xmltv_id": "SaisonsCanada.ca@SD"
-  },
-  {
-    "site_id": "sc2/SC2HD",
-    "name": "Super Channel 2 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ttf/TOONF",
-    "name": "TOONF",
-    "lang": "fr",
-    "xmltv_id": "TeletoonFrench.ca@SD"
-  },
-  {
-    "site_id": "asna/ANAT",
-    "name": "Assemblée Nationale",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cinl/CINEL",
-    "name": "Cine Latino",
-    "lang": "fr",
-    "xmltv_id": "CineLatino.mx@SD"
-  },
-  {
-    "site_id": "nat/NGEO",
-    "name": "National Geographic Canada",
-    "lang": "fr",
-    "xmltv_id": "NationalGeographic.ca@SD"
-  },
-  {
-    "site_id": "ttf/TTF",
-    "name": "TTF HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tvch/CHILE",
-    "name": "Tv Chile international",
-    "lang": "es",
-    "xmltv_id": "TVChile.cl@SD"
-  },
-  {
-    "site_id": "artv/ARTHD",
-    "name": "Artv HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "figh/FIGH",
-    "name": "Fight Network HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "lat/TLAT",
-    "name": "TLAT",
-    "lang": "fr",
-    "xmltv_id": "TLN.ca@SD"
-  },
-  {
-    "site_id": "ment/H2HD",
-    "name": "H2 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "series/SEPHD",
-    "name": "Séries Plus HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tdc/DISC",
-    "name": "TDC",
-    "lang": "fr",
-    "xmltv_id": "DiscoveryChannel.ca@SD"
+    "xmltv_id": "Showcase.ca@SD"
   },
   {
     "site_id": "tsn/TSN4",
@@ -572,210 +227,10 @@
     "xmltv_id": "TSN4.ca@SD"
   },
   {
-    "site_id": "vox/MAHD",
-    "name": "MATV HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cctv/CCTV",
-    "name": "CCTV",
+    "site_id": "snet/SNONE",
+    "name": "Sports Net One",
     "lang": "fr",
-    "xmltv_id": "CCTV4America.cn@SD"
-  },
-  {
-    "site_id": "sav/SAV",
-    "name": "SAVM",
-    "lang": "fr"
-  },
-  {
-    "site_id": "sc3/SC3HD",
-    "name": "Super Channel 3 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "se/SEHD",
-    "name": "SE HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "show/SHOW+HD",
-    "name": "Showcase HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "src/CBFT",
-    "name": "CBFT",
-    "lang": "fr",
-    "xmltv_id": "CBFTDT.ca@SD"
-  },
-  {
-    "site_id": "baby/BABY",
-    "name": "Baby TV francophone",
-    "lang": "fr"
-  },
-  {
-    "site_id": "fox/WFFFH",
-    "name": "WFFF",
-    "lang": "fr",
-    "xmltv_id": "WFFFDT1.us@SD"
-  },
-  {
-    "site_id": "fr24/FR24",
-    "name": "France 24",
-    "lang": "fr",
-    "xmltv_id": "France24.fr@French"
-  },
-  {
-    "site_id": "nfln/NFLHD",
-    "name": "NFL HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "nick/NICK",
-    "name": "Nickelodeon",
-    "lang": "fr",
-    "xmltv_id": "Nickelodeon.ca@SD"
-  },
-  {
-    "site_id": "ntv/CJON",
-    "name": "CJON",
-    "lang": "fr",
-    "xmltv_id": "CJONDT.ca@SD"
-  },
-  {
-    "site_id": "tdc/DISCH",
-    "name": "Discovery HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "expl/EXPHD",
-    "name": "Explora HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ltim/LTIM",
-    "name": "LIFETIME SD",
-    "lang": "fr",
-    "xmltv_id": "Lifetime.ca@SD"
-  },
-  {
-    "site_id": "snet/RSNE",
-    "name": "Sports Net EST",
-    "lang": "fr",
-    "xmltv_id": "Sportsnet.ca@East"
-  },
-  {
-    "site_id": "fxc/FXHD",
-    "name": "FX Canada HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mtvc/MTVC",
-    "name": "MTV Canada",
-    "lang": "fr",
-    "xmltv_id": "MTV.ca@SD"
-  },
-  {
-    "site_id": "nino/NINOS",
-    "name": "TLN Ninos",
-    "lang": "fr",
-    "xmltv_id": "TeleNinos.ca@SD"
-  },
-  {
-    "site_id": "pbs/WETK",
-    "name": "WETK",
-    "lang": "fr",
-    "xmltv_id": "WETKDT1.us@SD"
-  },
-  {
-    "site_id": "ctv/CIVT",
-    "name": "CIVT",
-    "lang": "fr",
-    "xmltv_id": "CIVTDT.ca@SD"
-  },
-  {
-    "site_id": "elle/ELLE",
-    "name": "Elle Fictions SD",
-    "lang": "fr",
-    "xmltv_id": "ElleFictions.ca@SD"
-  },
-  {
-    "site_id": "se/SE+3",
-    "name": "SE 3",
-    "lang": "fr",
-    "xmltv_id": "SuperEcran3.ca@SD"
-  },
-  {
-    "site_id": "src/CBUFT",
-    "name": "CBUFT",
-    "lang": "fr",
-    "xmltv_id": "CBUFTDT.ca@SD"
-  },
-  {
-    "site_id": "v/NOOVHD",
-    "name": "NVMT",
-    "lang": "fr"
-  },
-  {
-    "site_id": "fox/WFFF",
-    "name": "WFFF",
-    "lang": "fr"
-  },
-  {
-    "site_id": "abc/KOMO",
-    "name": "KOMO",
-    "lang": "fr",
-    "xmltv_id": "KOMODT1.us@SD"
-  },
-  {
-    "site_id": "boom/BOOMH",
-    "name": "Boomerang HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cbc/CBMT",
-    "name": "CBVU-TV",
-    "lang": "fr",
-    "xmltv_id": "CBMTDT.ca@SD"
-  },
-  {
-    "site_id": "fam/FAM",
-    "name": "THE FAMILY CHANNEL HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "qub/QUB",
-    "name": "QUB Radio",
-    "lang": "fr"
-  },
-  {
-    "site_id": "trav/TRAV",
-    "name": "Travel \u0026 Escape",
-    "lang": "fr",
-    "xmltv_id": "TPlusE.ca@SD"
-  },
-  {
-    "site_id": "yoo/YOOHD",
-    "name": "YOOPA HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cour/ID",
-    "name": "Investigation Discovery Canada",
-    "lang": "fr",
-    "xmltv_id": "InvestigationDiscovery.ca@SD"
-  },
-  {
-    "site_id": "dciv/DISCC",
-    "name": "Discovery Science",
-    "lang": "fr",
-    "xmltv_id": "DiscoveryScience.ca@SD"
-  },
-  {
-    "site_id": "docc/DOC",
-    "name": "Documentary Channel",
-    "lang": "fr",
-    "xmltv_id": "DocumentaryChannel.ca@SD"
+    "xmltv_id": "SportsnetOne.ca@SD"
   },
   {
     "site_id": "game/GSN",
@@ -784,126 +239,50 @@
     "xmltv_id": "GameShowNetwork.us@East"
   },
   {
-    "site_id": "lcn/LCN+HD",
-    "name": "LCN HD",
+    "site_id": "rwd/RWD",
+    "name": "Rewind",
+    "lang": "fr",
+    "xmltv_id": "Rewind.ca@SD"
+  },
+  {
+    "site_id": "tree/TREE",
+    "name": "TREE",
+    "lang": "fr",
+    "xmltv_id": "TreehouseTV.ca@SD"
+  },
+  {
+    "site_id": "wpix/WPIX",
+    "name": "WPIX",
+    "lang": "fr",
+    "xmltv_id": "WPIXDT1.us@SD"
+  },
+  {
+    "site_id": "ytv/YTV",
+    "name": "YTV",
+    "lang": "fr",
+    "xmltv_id": "YTV.ca@East"
+  },
+  {
+    "site_id": "ahc/AHC",
+    "name": "American Hero Channel",
+    "lang": "fr",
+    "xmltv_id": "AmericanHeroesChannel.us@SD"
+  },
+  {
+    "site_id": "beis/BEIS",
+    "name": "Be In Sports",
+    "lang": "fr",
+    "xmltv_id": "beINSports.qa@Canada"
+  },
+  {
+    "site_id": "nfln/NFLHD",
+    "name": "NFL HD",
     "lang": "fr"
   },
   {
-    "site_id": "life/SLICE",
-    "name": "Slice",
-    "lang": "fr",
-    "xmltv_id": "Slice.ca@SD"
-  },
-  {
-    "site_id": "yoo/YOOPA",
-    "name": "YOOPA",
-    "lang": "fr",
-    "xmltv_id": "Yoopa.ca@SD"
-  },
-  {
-    "site_id": "adsm/ADSM",
-    "name": "Adult Swim SD",
-    "lang": "fr",
-    "xmltv_id": "AdultSwim.ca@SD"
-  },
-  {
-    "site_id": "amit/AMIT",
-    "name": "AMI-Télé",
-    "lang": "fr",
-    "xmltv_id": "AMItele.ca@SD"
-  },
-  {
-    "site_id": "vox/MATV",
-    "name": "MAMTL",
-    "lang": "fr",
-    "xmltv_id": "MAtv.ca@SD"
-  },
-  {
-    "site_id": "abc/WVNY",
-    "name": "WVNY",
+    "site_id": "sav/SAVH",
+    "name": "SAVM HD",
     "lang": "fr"
-  },
-  {
-    "site_id": "raze/MTV2",
-    "name": "Razer",
-    "lang": "fr",
-    "xmltv_id": "MTV2.ca@SD"
-  },
-  {
-    "site_id": "rds2/RDS2",
-    "name": "RDS2",
-    "lang": "fr",
-    "xmltv_id": "RDS2.ca@SD"
-  },
-  {
-    "site_id": "snet/RSNHD",
-    "name": "Sports Net HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tve/TVE",
-    "name": "TVE1",
-    "lang": "fr",
-    "xmltv_id": "TVEInternacionalAmerica.es@SD"
-  },
-  {
-    "site_id": "idee/CASA",
-    "name": "CASA",
-    "lang": "fr",
-    "xmltv_id": "Casa.ca@SD"
-  },
-  {
-    "site_id": "otn/OTN",
-    "name": "OTN",
-    "lang": "fr",
-    "xmltv_id": "Odyssey.ca@SD"
-  },
-  {
-    "site_id": "seta/SNWL",
-    "name": "Sportsnet World",
-    "lang": "fr",
-    "xmltv_id": "SportsnetWorld.ca@SD"
-  },
-  {
-    "site_id": "wsbk/WSBK",
-    "name": "WSBK",
-    "lang": "fr",
-    "xmltv_id": "WSBKDT1.us@SD"
-  },
-  {
-    "site_id": "bbce/BBCE",
-    "name": "BBC Earth",
-    "lang": "fr",
-    "xmltv_id": "BBCEarth.uk@Canada"
-  },
-  {
-    "site_id": "fris/FRIS",
-    "name": "Frissons TV SD",
-    "lang": "fr",
-    "xmltv_id": "FrissonsTV.ca@SD"
-  },
-  {
-    "site_id": "ris/RDSIH",
-    "name": "RDS Info HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "snet/SNONE",
-    "name": "Sports Net One",
-    "lang": "fr",
-    "xmltv_id": "SportsnetOne.ca@SD"
-  },
-  {
-    "site_id": "tact/AMITV",
-    "name": "The Accessible Channel",
-    "lang": "fr",
-    "xmltv_id": "AMItv.ca@SD"
-  },
-  {
-    "site_id": "tlc/TLC",
-    "name": "TLC",
-    "lang": "fr",
-    "xmltv_id": "TLC.us@East"
   },
   {
     "site_id": "trop/DTOUR",
@@ -912,75 +291,84 @@
     "xmltv_id": "DTour.ca@SD"
   },
   {
-    "site_id": "hgtv/HGTV",
-    "name": "HGTV",
+    "site_id": "cbs/WCAX",
+    "name": "WCAX",
     "lang": "fr",
-    "xmltv_id": "HGTV.ca@SD"
+    "xmltv_id": "WCAXDT1.us@SD"
   },
   {
-    "site_id": "mys/CI",
-    "name": "Crime + Investigation",
+    "site_id": "nat/NGEO",
+    "name": "National Geographic Canada",
     "lang": "fr",
-    "xmltv_id": "CrimePlusInvestigation.ca@SD"
+    "xmltv_id": "NationalGeographic.ca@SD"
   },
   {
-    "site_id": "nba/NBAHD",
-    "name": "NBA TV HD",
+    "site_id": "prise2/P2HD",
+    "name": "Prise 2 HD",
     "lang": "fr"
   },
   {
-    "site_id": "rwd/RWD",
-    "name": "Rewind",
+    "site_id": "vie/VIE",
+    "name": "Canal Vie",
     "lang": "fr",
-    "xmltv_id": "Rewind.ca@SD"
+    "xmltv_id": "CanalVie.ca@SD"
   },
   {
-    "site_id": "sc4/SC4",
-    "name": "Super Channel 4",
+    "site_id": "se/SE+3",
+    "name": "SE 3",
     "lang": "fr",
-    "xmltv_id": "GINXEsportsTVCanada.ca@SD"
+    "xmltv_id": "SuperEcran3.ca@SD"
   },
   {
-    "site_id": "snet/SNET+WEST+",
-    "name": "Sports Net West HD",
+    "site_id": "star/E",
+    "name": "STAR!",
+    "lang": "fr",
+    "xmltv_id": "E.ca@SD"
+  },
+  {
+    "site_id": "stca/STCA",
+    "name": "StudioCanal SD",
+    "lang": "fr",
+    "xmltv_id": "Studiocanal.fr@SD"
+  },
+  {
+    "site_id": "tact/AMITV",
+    "name": "The Accessible Channel",
+    "lang": "fr",
+    "xmltv_id": "AMItv.ca@SD"
+  },
+  {
+    "site_id": "ae/AE",
+    "name": "A\u0026E",
+    "lang": "fr",
+    "xmltv_id": "AE.us@East"
+  },
+  {
+    "site_id": "pbs/PBS",
+    "name": "WETK HD",
+    "lang": "fr",
+    "xmltv_id": "WETKHD.us@SD"
+  },
+  {
+    "site_id": "pbs/WETK",
+    "name": "WETK",
+    "lang": "fr",
+    "xmltv_id": "WETKDT1.us@SD"
+  },
+  {
+    "site_id": "raze/MTV2",
+    "name": "Razer",
+    "lang": "fr",
+    "xmltv_id": "MTV2.ca@SD"
+  },
+  {
+    "site_id": "tsn/TSN4H",
+    "name": "TSN4 HD",
     "lang": "fr"
   },
   {
-    "site_id": "spar/SPARKHD",
-    "name": "ABC Sparks HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "bbcw/BBCW",
-    "name": "BBC World",
-    "lang": "fr",
-    "xmltv_id": "BBCNews.uk@NorthAmerica"
-  },
-  {
-    "site_id": "cbc/CBCHD",
-    "name": "CBMT",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cnn/CNN",
-    "name": "CNN",
-    "lang": "fr",
-    "xmltv_id": "CNNInternational.us@NorthAmerica"
-  },
-  {
-    "site_id": "rev/REV",
-    "name": "REV",
-    "lang": "fr",
-    "xmltv_id": "REVTVCanada.ca@SD"
-  },
-  {
-    "site_id": "snet/SNET+PAC+H",
-    "name": "Sports Net Pacifique HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tsn/TSN2H",
-    "name": "TSN2 HD",
+    "site_id": "tva/TVAHD",
+    "name": "CFTM HD",
     "lang": "fr"
   },
   {
@@ -990,419 +378,16 @@
     "xmltv_id": "WGNDT1.us@SD"
   },
   {
-    "site_id": "global/CHAN",
-    "name": "CHAN",
+    "site_id": "animal/ANPL",
+    "name": "Animal Planet",
     "lang": "fr",
-    "xmltv_id": "CHANDT1.ca@SD"
+    "xmltv_id": "AnimalPlanet.ca@SD"
   },
   {
-    "site_id": "tmn/HBO",
-    "name": "HBO",
-    "lang": "fr",
-    "xmltv_id": "HBO1.ca@SD"
-  },
-  {
-    "site_id": "aptn/APTHD",
-    "name": "APTN HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "enew/ENEW",
-    "name": "Euronews",
-    "lang": "fr",
-    "xmltv_id": "EuronewsEnglish.fr@SD"
-  },
-  {
-    "site_id": "fam/FAMILY",
-    "name": "FAMILY",
-    "lang": "fr",
-    "xmltv_id": "FamilyChannel.ca@East"
-  },
-  {
-    "site_id": "play/PLBHD",
-    "name": "PLAYBOY HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rds/RDSHD",
-    "name": "RDS HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "sc1/SC1",
-    "name": "Super Channel 1",
-    "lang": "fr",
-    "xmltv_id": "SuperChannelFuse.ca@SD"
-  },
-  {
-    "site_id": "sc2/SC2",
-    "name": "Super Channel 2",
-    "lang": "fr",
-    "xmltv_id": "SuperChannelHeartHome.ca@SD"
-  },
-  {
-    "site_id": "snet/SNET+ONT+H",
-    "name": "Sportsnet Ontario HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mgio/MGIO",
-    "name": "Télémagino SD",
-    "lang": "fr",
-    "xmltv_id": "Telemagino.ca@SD"
-  },
-  {
-    "site_id": "scor/SN360",
-    "name": "The Score",
-    "lang": "fr",
-    "xmltv_id": "Sportsnet360.ca@SD"
-  },
-  {
-    "site_id": "spmn/SPMN",
-    "name": "Sportsman Canada",
-    "lang": "fr",
-    "xmltv_id": "SportsmanChannelCanada.ca@SD"
-  },
-  {
-    "site_id": "animal/APLA",
-    "name": "Animal Planet HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "aptn/APTN",
-    "name": "Aboriginal Peoples Television Network",
-    "lang": "fr"
-  },
-  {
-    "site_id": "hgtv/HGTVH",
-    "name": "HGTV HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "idee/CASAH",
-    "name": "CASA HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mm/MUCH+HD",
-    "name": "MuchMusic HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "stca/STCA",
-    "name": "StudioCanal SD",
-    "lang": "fr",
-    "xmltv_id": "Studiocanal.fr@SD"
-  },
-  {
-    "site_id": "art/ART",
-    "name": "Art America",
-    "lang": "fr",
-    "xmltv_id": "ARTAmerica.sa@SD"
-  },
-  {
-    "site_id": "ctvn/NEWSNT",
-    "name": "CTVN",
-    "lang": "fr",
-    "xmltv_id": "CTVNewsChannel.ca@SD"
-  },
-  {
-    "site_id": "nbc/WPTZ",
-    "name": "WPTZ",
-    "lang": "fr",
-    "xmltv_id": "WPTZDT1.us@SD"
-  },
-  {
-    "site_id": "nbc/WPTZH",
-    "name": "WPTZDT",
-    "lang": "fr"
-  },
-  {
-    "site_id": "nfln/NFL",
-    "name": "NFL Network",
-    "lang": "fr",
-    "xmltv_id": "NFLNetwork.us@SD"
-  },
-  {
-    "site_id": "crtn/CRTN",
-    "name": "Cartoon Network HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "show/SHOW",
-    "name": "SHOW",
-    "lang": "fr",
-    "xmltv_id": "Showcase.ca@SD"
-  },
-  {
-    "site_id": "ssrc/SSCR",
-    "name": "Silver Screen Classics",
-    "lang": "fr",
-    "xmltv_id": "SilverScreenClassics.ca@SD"
-  },
-  {
-    "site_id": "ahc/AHC",
-    "name": "American Hero Channel",
-    "lang": "fr",
-    "xmltv_id": "AmericanHeroesChannel.us@SD"
-  },
-  {
-    "site_id": "boom/BOOMS",
-    "name": "Boomrang SD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "expl/EXPLO",
-    "name": "Explora",
-    "lang": "fr",
-    "xmltv_id": "IciExplora.ca@SD"
-  },
-  {
-    "site_id": "global/CIIIHD",
-    "name": "CIII (Hull-Ottawa) HD",
-    "lang": "fr",
-    "xmltv_id": "CIIIDT.ca@SD"
-  },
-  {
-    "site_id": "met/METEO",
-    "name": "METEO",
-    "lang": "fr",
-    "xmltv_id": "MeteoMedia.ca@SD"
-  },
-  {
-    "site_id": "nba/NBATV",
-    "name": "NBA TV",
-    "lang": "fr",
-    "xmltv_id": "NBATV.us@SD"
-  },
-  {
-    "site_id": "sav/SAVH",
-    "name": "SAVM HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "speed/FSRHD",
-    "name": "FOX Sports Racing",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cct3/CCT3",
-    "name": "CCT3",
-    "lang": "fr",
-    "xmltv_id": "CCTV3.cn@SD"
-  },
-  {
-    "site_id": "sc4/SC4HD",
-    "name": "Super Channel 4 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tsc/SHOP",
-    "name": "The Shopping Channel",
-    "lang": "fr",
-    "xmltv_id": "TSC.ca@SD"
-  },
-  {
-    "site_id": "tsn/TSN4H",
-    "name": "TSN4 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ytv/YTV",
-    "name": "YTV",
-    "lang": "fr",
-    "xmltv_id": "YTV.ca@East"
-  },
-  {
-    "site_id": "cook/COOK",
-    "name": "Cooking Channel SD",
-    "lang": "fr",
-    "xmltv_id": "CookingChannel.ca@SD"
-  },
-  {
-    "site_id": "cott/COTT",
-    "name": "Cottage Life",
-    "lang": "fr",
-    "xmltv_id": "CottageLife.ca@SD"
-  },
-  {
-    "site_id": "mmax/MAXHD",
-    "name": "MAX HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "nagw/NATGW",
-    "name": "National Geographic Wild",
-    "lang": "fr",
-    "xmltv_id": "NationalGeographicWild.ca@SD"
-  },
-  {
-    "site_id": "omni/CFMT",
-    "name": "Omni 1",
-    "lang": "fr",
-    "xmltv_id": "CFMTDT.ca@SD"
-  },
-  {
-    "site_id": "snet/RSNO",
-    "name": "Sports Net Ontario",
-    "lang": "fr",
-    "xmltv_id": "Sportsnet.ca@Ontario"
-  },
-  {
-    "site_id": "vie/VIE",
-    "name": "Canal Vie",
-    "lang": "fr",
-    "xmltv_id": "CanalVie.ca@SD"
-  },
-  {
-    "site_id": "cw/CW",
-    "name": "KTLA HD",
-    "lang": "fr",
-    "xmltv_id": "KTLAHD.us@SD"
-  },
-  {
-    "site_id": "evasion/EVAHD",
-    "name": "Évasion HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "nw/CNEHD",
-    "name": "CBC News Network HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "wpix/WPIX",
-    "name": "WPIX",
-    "lang": "fr",
-    "xmltv_id": "WPIXDT1.us@SD"
-  },
-  {
-    "site_id": "crtn/CRTS",
-    "name": "Cartoon Network SD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ownh/OWN",
-    "name": "OWN Canada",
-    "lang": "fr",
-    "xmltv_id": "OWN.ca@SD"
-  },
-  {
-    "site_id": "ris/RDSI",
-    "name": "RDS Info",
-    "lang": "fr",
-    "xmltv_id": "RDSInfo.ca@SD"
-  },
-  {
-    "site_id": "tlc/TLCH",
-    "name": "TLC HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tv5/TV5",
-    "name": "TV5",
-    "lang": "fr",
-    "xmltv_id": "TV5QuebecCanada.ca@SD"
-  },
-  {
-    "site_id": "abc/WVNYH",
-    "name": "WVNDT",
-    "lang": "fr",
-    "xmltv_id": "WVNYDT1.us@SD"
-  },
-  {
-    "site_id": "artv/ARTV",
-    "name": "Artv",
-    "lang": "fr",
-    "xmltv_id": "IciARTV.ca@SD"
-  },
-  {
-    "site_id": "disj/DISJ",
-    "name": "Disney Jr SD",
-    "lang": "fr",
-    "xmltv_id": "DisneyJunior.ca@SD"
-  },
-  {
-    "site_id": "ertw/ERTW",
-    "name": "ERT World OTN2",
-    "lang": "fr",
-    "xmltv_id": "ERTWorld.ca@SD"
-  },
-  {
-    "site_id": "lsta/MTIMH",
-    "name": "MovieTime HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "scla/SCLA",
-    "name": "Classica",
-    "lang": "fr",
-    "xmltv_id": "Classica.us@SD"
-  },
-  {
-    "site_id": "src/SRCHD",
-    "name": "CBFT HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "disn/DISN",
-    "name": "Disney Channel",
-    "lang": "fr",
-    "xmltv_id": "DisneyChannel.ca@East"
-  },
-  {
-    "site_id": "mlle/MOI",
-    "name": "MOI ET CIE",
-    "lang": "fr",
-    "xmltv_id": "MoietCie.ca@SD"
-  },
-  {
-    "site_id": "par/PAR",
-    "name": "Paramount SD",
-    "lang": "fr",
-    "xmltv_id": "ParamountNetwork.us@East"
-  },
-  {
-    "site_id": "famj/FAMJ",
-    "name": "Family Jr SD",
-    "lang": "fr",
-    "xmltv_id": "FamilyJr.ca@SD"
-  },
-  {
-    "site_id": "golf/GOLF",
-    "name": "GOLF",
-    "lang": "fr",
-    "xmltv_id": "GolfChannel.us@SD"
-  },
-  {
-    "site_id": "play/PLAYBO",
-    "name": "PLAYBOY",
-    "lang": "fr",
-    "xmltv_id": "PlayboyTV.us@SD"
-  },
-  {
-    "site_id": "snet/RSNW",
-    "name": "Sports Net West",
-    "lang": "fr",
-    "xmltv_id": "Sportsnet.ca@West"
-  },
-  {
-    "site_id": "tqc/CIVM",
-    "name": "CIVM",
-    "lang": "fr",
-    "xmltv_id": "CIVMDT.ca@SD"
-  },
-  {
-    "site_id": "tvas/TVASP",
-    "name": "TVA Sports",
-    "lang": "fr",
-    "xmltv_id": "TVASports.ca@SD"
-  },
-  {
-    "site_id": "besp/BESP",
-    "name": "BeIN Sports ESP SD",
-    "lang": "fr",
-    "xmltv_id": "beINSportsenEspanol.qa@SD"
+    "site_id": "cpae/CPAE",
+    "name": "CPAC English",
+    "lang": "en",
+    "xmltv_id": "CPACEnglish.ca@SD"
   },
   {
     "site_id": "ctv/CFCF",
@@ -1411,81 +396,27 @@
     "xmltv_id": "CFCFDT.ca@SD"
   },
   {
-    "site_id": "drma/DRMA",
-    "name": "CTV Drama SD",
+    "site_id": "d/D",
+    "name": "D",
     "lang": "fr",
-    "xmltv_id": "CTVDramaChannel.ca@SD"
+    "xmltv_id": "CanalD.ca@SD"
   },
   {
-    "site_id": "historia/HISF",
-    "name": "Historia",
+    "site_id": "fxc/FXC",
+    "name": "FX Canada",
     "lang": "fr",
-    "xmltv_id": "Historia.ca@SD"
+    "xmltv_id": "FX.ca@SD"
   },
   {
-    "site_id": "rfo/SPM1",
-    "name": "Saint-Pierre-et-Miquelon",
-    "lang": "fr",
-    "xmltv_id": "SaintPierreMiquelon1ere.pm@SD"
-  },
-  {
-    "site_id": "crv/CRV",
-    "name": "Crave 1",
-    "lang": "fr",
-    "xmltv_id": "Crave1.ca@SD"
-  },
-  {
-    "site_id": "fptv/FPTV",
-    "name": "Festival Portuguese Television",
-    "lang": "fr",
-    "xmltv_id": "FPTV.ca@SD"
-  },
-  {
-    "site_id": "hard/PLAYM",
-    "name": "Hard",
-    "lang": "fr",
-    "xmltv_id": "PlaymenTV.ca@SD"
-  },
-  {
-    "site_id": "lcn/LCN",
-    "name": "LCN",
-    "lang": "fr",
-    "xmltv_id": "LCN.ca@SD"
-  },
-  {
-    "site_id": "mezz/MEZZ",
-    "name": "Mezzo",
-    "lang": "fr",
-    "xmltv_id": "Mezzo.fr@SD"
-  },
-  {
-    "site_id": "mnbc/MSNBC",
-    "name": "MSNBC",
-    "lang": "fr",
-    "xmltv_id": "MSNBCInternational.us@SD"
-  },
-  {
-    "site_id": "wtn/WTN",
-    "name": "WTN",
-    "lang": "fr",
-    "xmltv_id": "WNetwork.ca@East"
-  },
-  {
-    "site_id": "2m/2M",
-    "name": "2M",
-    "lang": "fr",
-    "xmltv_id": "2MMonde.ma@SD"
-  },
-  {
-    "site_id": "mm/MMUSIC",
-    "name": "MuchMusic",
-    "lang": "fr",
-    "xmltv_id": "Much.ca@SD"
-  },
-  {
-    "site_id": "sc1/SC1HD",
-    "name": "Super Channel 1 HD",
+    "site_id": "nagw/NGWHD",
+    "name": "National Geo Wild HD",
     "lang": "fr"
+  },
+  {
+    "site_id": "rds2/RDS2",
+    "name": "RDS2",
+    "lang": "fr",
+    "xmltv_id": "RDS2.ca@SD"
   },
   {
     "site_id": "tsn/TSN5",
@@ -1494,59 +425,216 @@
     "xmltv_id": "TSN5.ca@SD"
   },
   {
-    "site_id": "cmdy/CMDY",
-    "name": "CTV Comedy SD",
-    "lang": "fr",
-    "xmltv_id": "CTVComedyChannel.ca@SD"
-  },
-  {
-    "site_id": "deja/DEJA",
-    "name": "Déjà View",
-    "lang": "fr",
-    "xmltv_id": "DejaView.ca@SD"
-  },
-  {
-    "site_id": "nbc/KING",
-    "name": "KING",
-    "lang": "fr",
-    "xmltv_id": "KINGDT1.us@SD"
-  },
-  {
-    "site_id": "myst/ADDIK",
-    "name": "addikTV",
-    "lang": "fr",
-    "xmltv_id": "addikTV.ca@SD"
-  },
-  {
-    "site_id": "stvi/STVI",
-    "name": "STVI",
-    "lang": "fr",
-    "xmltv_id": "StingrayVibe.ca@SD"
-  },
-  {
-    "site_id": "tree/TREE",
-    "name": "TREE",
-    "lang": "fr",
-    "xmltv_id": "TreehouseTV.ca@SD"
-  },
-  {
-    "site_id": "unic/UNIC",
-    "name": "Univision Canada",
+    "site_id": "boom/BOOMS",
+    "name": "Boomrang SD",
     "lang": "fr"
   },
   {
-    "site_id": "historia/HIAHD",
-    "name": "Historia HD",
+    "site_id": "ment/H2",
+    "name": "H2",
+    "lang": "fr",
+    "xmltv_id": "History2.ca@SD"
+  },
+  {
+    "site_id": "show/SHOW+HD",
+    "name": "Showcase HD",
     "lang": "fr"
   },
   {
-    "site_id": "nagw/NGWHD",
-    "name": "National Geo Wild HD",
+    "site_id": "snet/SNET+WEST+",
+    "name": "Sports Net West HD",
     "lang": "fr"
   },
   {
-    "site_id": "tfo/TFOHD",
-    "name": "TFO HD",
+    "site_id": "tfo/TFO",
+    "name": "TFO",
+    "lang": "fr",
+    "xmltv_id": "CHLFTV.ca@SD"
+  },
+  {
+    "site_id": "tvch/CHILE",
+    "name": "Tv Chile international",
+    "lang": "es",
+    "xmltv_id": "TVChile.cl@SD"
+  },
+  {
+    "site_id": "bbcw/BBCW",
+    "name": "BBC World",
+    "lang": "fr",
+    "xmltv_id": "BBCNews.uk@NorthAmerica"
+  },
+  {
+    "site_id": "outv/OUTTV",
+    "name": "Out TV",
+    "lang": "fr",
+    "xmltv_id": "OUTtv.ca@SD"
+  },
+  {
+    "site_id": "tmn/HBO",
+    "name": "HBO",
+    "lang": "fr",
+    "xmltv_id": "HBO1.ca@SD"
+  },
+  {
+    "site_id": "tmn/HBOCH",
+    "name": "HBO HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ttf/TOONF",
+    "name": "TOONF",
+    "lang": "fr",
+    "xmltv_id": "TeletoonFrench.ca@SD"
+  },
+  {
+    "site_id": "wgn9/WGN9",
+    "name": "WGN9 HD",
+    "lang": "fr",
+    "xmltv_id": "WGNHD.us@SD"
+  },
+  {
+    "site_id": "sais/SAIS",
+    "name": "Saisons SD",
+    "lang": "fr",
+    "xmltv_id": "SaisonsCanada.ca@SD"
+  },
+  {
+    "site_id": "sc3/SC3HD",
+    "name": "Super Channel 3 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "se/SE4HD",
+    "name": "SE4 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "boom/BOOMH",
+    "name": "Boomerang HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "mezz/MEZZ",
+    "name": "Mezzo",
+    "lang": "fr",
+    "xmltv_id": "Mezzo.fr@SD"
+  },
+  {
+    "site_id": "mlle/MOI",
+    "name": "MOI ET CIE",
+    "lang": "fr",
+    "xmltv_id": "MoietCie.ca@SD"
+  },
+  {
+    "site_id": "mnbc/MSNBC",
+    "name": "MSNBC",
+    "lang": "fr",
+    "xmltv_id": "MSNBCInternational.us@SD"
+  },
+  {
+    "site_id": "oash/NATUR",
+    "name": "Oasis HD",
+    "lang": "fr",
+    "xmltv_id": "LoveNature.ca@SD"
+  },
+  {
+    "site_id": "disj/DISJ",
+    "name": "Disney Jr SD",
+    "lang": "fr",
+    "xmltv_id": "DisneyJunior.ca@SD"
+  },
+  {
+    "site_id": "ici/ICIHD",
+    "name": "ICI Canal international HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rev/REV",
+    "name": "REV",
+    "lang": "fr",
+    "xmltv_id": "REVTVCanada.ca@SD"
+  },
+  {
+    "site_id": "rfo/SPM1",
+    "name": "Saint-Pierre-et-Miquelon",
+    "lang": "fr",
+    "xmltv_id": "SaintPierreMiquelon1ere.pm@SD"
+  },
+  {
+    "site_id": "rnsu/RAI",
+    "name": "RAI Nettuno Sat Uno",
+    "lang": "fr",
+    "xmltv_id": "UniNettunoUniversityTV.it@SD"
+  },
+  {
+    "site_id": "spmn/SPMN",
+    "name": "Sportsman Canada",
+    "lang": "fr",
+    "xmltv_id": "SportsmanChannelCanada.ca@SD"
+  },
+  {
+    "site_id": "tsn/TSN2H",
+    "name": "TSN2 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "vox/MATV",
+    "name": "MAMTL",
+    "lang": "fr",
+    "xmltv_id": "MAtv.ca@SD"
+  },
+  {
+    "site_id": "art/ART",
+    "name": "Art America",
+    "lang": "fr",
+    "xmltv_id": "ARTAmerica.sa@SD"
+  },
+  {
+    "site_id": "bbce/BBCE",
+    "name": "BBC Earth",
+    "lang": "fr",
+    "xmltv_id": "BBCEarth.uk@Canada"
+  },
+  {
+    "site_id": "cctv/CCTV",
+    "name": "CCTV",
+    "lang": "fr",
+    "xmltv_id": "CCTV4America.cn@SD"
+  },
+  {
+    "site_id": "fxc/FXHD",
+    "name": "FX Canada HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rdi/RDIHD",
+    "name": "RDI HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tdc/DISCH",
+    "name": "Discovery HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tvas/TSPHD",
+    "name": "TVA Sports HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "yoo/YOOPA",
+    "name": "YOOPA",
+    "lang": "fr",
+    "xmltv_id": "Yoopa.ca@SD"
+  },
+  {
+    "site_id": "ae/A%26amp%3BEHD",
+    "name": "A\u0026E HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "chh/CITYMH",
+    "name": "CJNT (Metro 14)",
     "lang": "fr"
   },
   {
@@ -1556,20 +644,22 @@
     "xmltv_id": "CTVLifeChannel.ca@SD"
   },
   {
-    "site_id": "myst/ADDIKHD",
-    "name": "addik TV HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "nw/CBCN",
-    "name": "CBC News Network",
+    "site_id": "global/CIIIHD",
+    "name": "CIII (Hull-Ottawa) HD",
     "lang": "fr",
-    "xmltv_id": "CBCNewsNetwork.ca@SD"
+    "xmltv_id": "CIIIDT.ca@SD"
   },
   {
-    "site_id": "raiw/RAIW",
-    "name": "RAI World",
-    "lang": "fr"
+    "site_id": "lcn/LCN",
+    "name": "LCN",
+    "lang": "fr",
+    "xmltv_id": "LCN.ca@SD"
+  },
+  {
+    "site_id": "sc2/SC2",
+    "name": "Super Channel 2",
+    "lang": "fr",
+    "xmltv_id": "SuperChannelHeartHome.ca@SD"
   },
   {
     "site_id": "series/SERP",
@@ -1578,50 +668,122 @@
     "xmltv_id": "SeriesPlus.ca@SD"
   },
   {
-    "site_id": "tva/CFTM",
-    "name": "CFTM",
-    "lang": "fr",
-    "xmltv_id": "CFTMDT.ca@SD"
-  },
-  {
-    "site_id": "azmu/AZMU",
-    "name": "AZ Mundo",
-    "lang": "fr",
-    "xmltv_id": "AzMundo.mx@SD"
-  },
-  {
-    "site_id": "dvel/DVEL",
-    "name": "Discovery Velocity",
-    "lang": "fr",
-    "xmltv_id": "DiscoveryVelocity.ca@SD"
-  },
-  {
-    "site_id": "food/FOODH",
-    "name": "FOOD HD",
+    "site_id": "src/SRCHD",
+    "name": "CBFT HD",
     "lang": "fr"
   },
   {
-    "site_id": "tsn/TSN5H",
-    "name": "TSN HD (5)",
+    "site_id": "nick/NICK",
+    "name": "Nickelodeon",
+    "lang": "fr",
+    "xmltv_id": "Nickelodeon.ca@SD"
+  },
+  {
+    "site_id": "oln/OLN",
+    "name": "OUTDOOR LIFE",
+    "lang": "fr",
+    "xmltv_id": "OLN.ca@SD"
+  },
+  {
+    "site_id": "tve/TVE",
+    "name": "TVE1",
+    "lang": "fr",
+    "xmltv_id": "TVEInternacionalAmerica.es@SD"
+  },
+  {
+    "site_id": "baby/BABY",
+    "name": "Baby TV francophone",
     "lang": "fr"
   },
   {
-    "site_id": "city/CITY",
-    "name": "CITY",
+    "site_id": "ctv/CIVT",
+    "name": "CIVT",
     "lang": "fr",
-    "xmltv_id": "CITYDT.ca@SD"
+    "xmltv_id": "CIVTDT.ca@SD"
   },
   {
-    "site_id": "cnbc/CNBC",
-    "name": "CNBC",
-    "lang": "fr",
-    "xmltv_id": "CNBC.us@SD"
+    "site_id": "lcn/LCN+HD",
+    "name": "LCN HD",
+    "lang": "fr"
   },
   {
-    "site_id": "disf/DISF",
-    "name": "La chaîne Disney",
+    "site_id": "mlle/MOIHD",
+    "name": "MOI ET CIE",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nbc/KING",
+    "name": "KING",
     "lang": "fr",
-    "xmltv_id": "LaChaineDisney.ca@SD"
+    "xmltv_id": "KINGDT1.us@SD"
+  },
+  {
+    "site_id": "cnnh/HLN",
+    "name": "CNN HEADLINE NEWS",
+    "lang": "fr",
+    "xmltv_id": "HLN.us@SD"
+  },
+  {
+    "site_id": "evasion/EVAHD",
+    "name": "Évasion HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "figh/FIGH",
+    "name": "Fight Network HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "lsta/MTIME",
+    "name": "MovieTime",
+    "lang": "fr",
+    "xmltv_id": "MovieTime.ca@SD"
+  },
+  {
+    "site_id": "met/METEO",
+    "name": "METEO",
+    "lang": "fr",
+    "xmltv_id": "MeteoMedia.ca@SD"
+  },
+  {
+    "site_id": "nba/NBAHD",
+    "name": "NBA TV HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "wtn/WTN",
+    "name": "WTN",
+    "lang": "fr",
+    "xmltv_id": "WNetwork.ca@East"
+  },
+  {
+    "site_id": "ctvn/NEWSNT",
+    "name": "CTVN",
+    "lang": "fr",
+    "xmltv_id": "CTVNewsChannel.ca@SD"
+  },
+  {
+    "site_id": "fam/FAM",
+    "name": "THE FAMILY CHANNEL HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "mgio/MGIO",
+    "name": "Télémagino SD",
+    "lang": "fr",
+    "xmltv_id": "Telemagino.ca@SD"
+  },
+  {
+    "site_id": "nw/CBCN",
+    "name": "CBC News Network",
+    "lang": "fr",
+    "xmltv_id": "CBCNewsNetwork.ca@SD"
+  },
+  {
+    "site_id": "cook/COOK",
+    "name": "Cooking Channel SD",
+    "lang": "fr",
+    "xmltv_id": "CookingChannel.ca@SD"
   },
   {
     "site_id": "hist/HIST",
@@ -1630,28 +792,156 @@
     "xmltv_id": "History.ca@SD"
   },
   {
-    "site_id": "ment/H2",
-    "name": "H2",
+    "site_id": "ris/RDSI",
+    "name": "RDS Info",
     "lang": "fr",
-    "xmltv_id": "History2.ca@SD"
+    "xmltv_id": "RDSInfo.ca@SD"
   },
   {
-    "site_id": "global/CKMI",
-    "name": "CKMI (Montréal)",
-    "lang": "fr",
-    "xmltv_id": "CKMIDT1.ca@SD"
+    "site_id": "zest/ZESHD",
+    "name": "Zeste HD",
+    "lang": "fr"
   },
   {
-    "site_id": "cbs/WCAX",
-    "name": "WCAX",
+    "site_id": "dvel/DVEL",
+    "name": "Discovery Velocity",
     "lang": "fr",
-    "xmltv_id": "WCAXDT1.us@SD"
+    "xmltv_id": "DiscoveryVelocity.ca@SD"
   },
   {
-    "site_id": "figh/FIGHT",
-    "name": "Fight Network",
+    "site_id": "mmax/MAX",
+    "name": "MAX SD",
     "lang": "fr",
-    "xmltv_id": "FightNetwork.ca@SD"
+    "xmltv_id": "Max.ca@SD"
+  },
+  {
+    "site_id": "sc4/SC4",
+    "name": "Super Channel 4",
+    "lang": "fr",
+    "xmltv_id": "GINXEsportsTVCanada.ca@SD"
+  },
+  {
+    "site_id": "scor/SN360HD",
+    "name": "The Score HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "seta/SNWL",
+    "name": "Sportsnet World",
+    "lang": "fr",
+    "xmltv_id": "SportsnetWorld.ca@SD"
+  },
+  {
+    "site_id": "disn/DISN",
+    "name": "Disney Channel",
+    "lang": "fr",
+    "xmltv_id": "DisneyChannel.ca@East"
+  },
+  {
+    "site_id": "lat/TLAT",
+    "name": "TLAT",
+    "lang": "fr",
+    "xmltv_id": "TLN.ca@SD"
+  },
+  {
+    "site_id": "mm/MMUSIC",
+    "name": "MuchMusic",
+    "lang": "fr",
+    "xmltv_id": "Much.ca@SD"
+  },
+  {
+    "site_id": "speed/FSRHD",
+    "name": "FOX Sports Racing",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tcmv/TCMV",
+    "name": "TCM HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "v/NOOVHD",
+    "name": "NVMT",
+    "lang": "fr"
+  },
+  {
+    "site_id": "artv/ARTV",
+    "name": "Artv",
+    "lang": "fr",
+    "xmltv_id": "IciARTV.ca@SD"
+  },
+  {
+    "site_id": "historia/HISF",
+    "name": "Historia",
+    "lang": "fr",
+    "xmltv_id": "Historia.ca@SD"
+  },
+  {
+    "site_id": "mm/MUCH+HD",
+    "name": "MuchMusic HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "snet/RSNHD",
+    "name": "Sports Net HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "stz/STZ",
+    "name": "STARZ1",
+    "lang": "fr",
+    "xmltv_id": "Starz1.ca@East"
+  },
+  {
+    "site_id": "famj/FAMJ",
+    "name": "Family Jr SD",
+    "lang": "fr",
+    "xmltv_id": "FamilyJr.ca@SD"
+  },
+  {
+    "site_id": "nick/NICH",
+    "name": "Nickelodeon HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "wthr/WTHR",
+    "name": "WTHR",
+    "lang": "fr",
+    "xmltv_id": "TheWeatherNetwork.ca@SD"
+  },
+  {
+    "site_id": "chh/CITYM",
+    "name": "CJNT (Metro 14)",
+    "lang": "fr",
+    "xmltv_id": "CJNTDT.ca@SD"
+  },
+  {
+    "site_id": "animal/APLA",
+    "name": "Animal Planet HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "sav/SAV",
+    "name": "SAVM",
+    "lang": "fr"
+  },
+  {
+    "site_id": "snet/RSNO",
+    "name": "Sports Net Ontario",
+    "lang": "fr",
+    "xmltv_id": "Sportsnet.ca@Ontario"
+  },
+  {
+    "site_id": "snet/RSNW",
+    "name": "Sports Net West",
+    "lang": "fr",
+    "xmltv_id": "Sportsnet.ca@West"
+  },
+  {
+    "site_id": "par/PAR",
+    "name": "Paramount SD",
+    "lang": "fr",
+    "xmltv_id": "ParamountNetwork.us@East"
   },
   {
     "site_id": "pbs/WCFE",
@@ -1660,85 +950,26 @@
     "xmltv_id": "WCFEDT1.us@SD"
   },
   {
-    "site_id": "rain/RAIN",
-    "name": "RAI News",
-    "lang": "fr",
-    "xmltv_id": "RaiNews24.it@SD"
-  },
-  {
-    "site_id": "vtv/VISION",
-    "name": "VISION",
-    "lang": "fr",
-    "xmltv_id": "VisionTV.ca@SD"
-  },
-  {
-    "site_id": "food/FOOD",
-    "name": "FOOD",
-    "lang": "fr",
-    "xmltv_id": "FoodNetwork.ca@SD"
-  },
-  {
-    "site_id": "cbs/KIRO",
-    "name": "KIRO",
-    "lang": "fr",
-    "xmltv_id": "KIRODT1.us@SD"
-  },
-  {
-    "site_id": "evasion/EVAS",
-    "name": "Évasion",
-    "lang": "fr",
-    "xmltv_id": "Evasion.ca@SD"
-  },
-  {
-    "site_id": "ewtn/EWTN",
-    "name": "EWTN",
-    "lang": "fr",
-    "xmltv_id": "EWTN.us@Canada"
-  },
-  {
-    "site_id": "ita/ITA",
-    "name": "Mediaset Italia",
-    "lang": "fr",
-    "xmltv_id": "MediasetItalia.ca@SD"
-  },
-  {
-    "site_id": "prise2/P2HD",
-    "name": "Prise 2 HD",
+    "site_id": "fox/WFFF",
+    "name": "WFFF",
     "lang": "fr"
   },
   {
-    "site_id": "rnsu/RAI",
-    "name": "RAI Nettuno Sat Uno",
+    "site_id": "hard/PLAYM",
+    "name": "Hard",
     "lang": "fr",
-    "xmltv_id": "UniNettunoUniversityTV.it@SD"
+    "xmltv_id": "PlaymenTV.ca@SD"
   },
   {
-    "site_id": "sc3/SC3",
-    "name": "Super Channel 3",
+    "site_id": "mys/CI",
+    "name": "Crime + Investigation",
     "lang": "fr",
-    "xmltv_id": "SuperChannelVault.ca@SD"
+    "xmltv_id": "CrimePlusInvestigation.ca@SD"
   },
   {
-    "site_id": "cnnh/CNNH",
-    "name": "CNN Headline News HD",
+    "site_id": "tqc/TQCHD",
+    "name": "CIVM",
     "lang": "fr"
-  },
-  {
-    "site_id": "dciv/DCIV",
-    "name": "Discovery Science HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "fxc/FXC",
-    "name": "FX Canada",
-    "lang": "fr",
-    "xmltv_id": "FX.ca@SD"
-  },
-  {
-    "site_id": "pbs/PBS",
-    "name": "WETK HD",
-    "lang": "fr",
-    "xmltv_id": "WETKHD.us@SD"
   },
   {
     "site_id": "tsn/TSN2",
@@ -1747,10 +978,191 @@
     "xmltv_id": "TSN2.ca@SD"
   },
   {
-    "site_id": "v/NVSMT",
-    "name": "NVSMT",
+    "site_id": "tv5/TV5HD",
+    "name": "TV5 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ytv/YTV+HD",
+    "name": "YTV HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "adsm/ADSM",
+    "name": "Adult Swim SD",
     "lang": "fr",
-    "xmltv_id": "Noovo.ca@SD"
+    "xmltv_id": "AdultSwim.ca@SD"
+  },
+  {
+    "site_id": "tvs2/TVS2",
+    "name": "TVA Sports 2",
+    "lang": "fr",
+    "xmltv_id": "TVASports2.ca@SD"
+  },
+  {
+    "site_id": "vox/MAHD",
+    "name": "MATV HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "otn/OTN",
+    "name": "OTN",
+    "lang": "fr",
+    "xmltv_id": "Odyssey.ca@SD"
+  },
+  {
+    "site_id": "rds/RDSHD",
+    "name": "RDS HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "speed/FOXSR",
+    "name": "FOX Sports Racing",
+    "lang": "fr",
+    "xmltv_id": "FoxSportsRacing.us@SD"
+  },
+  {
+    "site_id": "cbc/CBMT",
+    "name": "CBVU-TV",
+    "lang": "fr",
+    "xmltv_id": "CBMTDT.ca@SD"
+  },
+  {
+    "site_id": "cbs/WCAXH",
+    "name": "WCAXDT",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cmdy/CMDY",
+    "name": "CTV Comedy SD",
+    "lang": "fr",
+    "xmltv_id": "CTVComedyChannel.ca@SD"
+  },
+  {
+    "site_id": "cnn/CNN",
+    "name": "CNN",
+    "lang": "fr",
+    "xmltv_id": "CNNInternational.us@NorthAmerica"
+  },
+  {
+    "site_id": "cw/CW",
+    "name": "KTLA HD",
+    "lang": "fr",
+    "xmltv_id": "KTLAHD.us@SD"
+  },
+  {
+    "site_id": "nat/GEOHD",
+    "name": "National Geographic HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "idee/CASAH",
+    "name": "CASA HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "wild/WILD",
+    "name": "Wild",
+    "lang": "fr",
+    "xmltv_id": "WildTV.ca@SD"
+  },
+  {
+    "site_id": "artv/ARTHD",
+    "name": "Artv HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cnn/CNNHD",
+    "name": "CNN HD",
+    "lang": "fr",
+    "xmltv_id": "CNN.us@SD"
+  },
+  {
+    "site_id": "d/D+HD",
+    "name": "D HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "historia/HIAHD",
+    "name": "Historia HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "play/PLAYBO",
+    "name": "PLAYBOY",
+    "lang": "fr",
+    "xmltv_id": "PlayboyTV.us@SD"
+  },
+  {
+    "site_id": "cgtv/GAMETV",
+    "name": "GAME TV",
+    "lang": "fr",
+    "xmltv_id": "GameTV.ca@SD"
+  },
+  {
+    "site_id": "global/CKMI",
+    "name": "CKMI (Montréal)",
+    "lang": "fr",
+    "xmltv_id": "CKMIDT1.ca@SD"
+  },
+  {
+    "site_id": "prise2/PR2",
+    "name": "Prise 2",
+    "lang": "fr",
+    "xmltv_id": "Prise2.ca@SD"
+  },
+  {
+    "site_id": "scla/SCLA",
+    "name": "Classica",
+    "lang": "fr",
+    "xmltv_id": "Classica.us@SD"
+  },
+  {
+    "site_id": "se/SEHD",
+    "name": "SE HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "snet/RSNE",
+    "name": "Sports Net EST",
+    "lang": "fr",
+    "xmltv_id": "Sportsnet.ca@East"
+  },
+  {
+    "site_id": "inve/INVE",
+    "name": "Investigation",
+    "lang": "fr",
+    "xmltv_id": "Investigation.ca@SD"
+  },
+  {
+    "site_id": "mlbn/MLBN",
+    "name": "MLB Network SD",
+    "lang": "fr",
+    "xmltv_id": "MLBNetwork.us@SD"
+  },
+  {
+    "site_id": "sc3/SC3",
+    "name": "Super Channel 3",
+    "lang": "fr",
+    "xmltv_id": "SuperChannelVault.ca@SD"
+  },
+  {
+    "site_id": "tvo/TVO",
+    "name": "CICA",
+    "lang": "fr",
+    "xmltv_id": "CICADT.ca@SD"
+  },
+  {
+    "site_id": "wwe/WWE",
+    "name": "WWE",
+    "lang": "fr",
+    "xmltv_id": "WWENetwork.ca@SD"
+  },
+  {
+    "site_id": "zest/ZESTE",
+    "name": "Zeste",
+    "lang": "fr",
+    "xmltv_id": "Zeste.ca@SD"
   },
   {
     "site_id": "foxn/FOXN",
@@ -1759,31 +1171,16 @@
     "xmltv_id": "FoxNewsChannel.us@SD"
   },
   {
-    "site_id": "scfi/SCFI",
-    "name": "CTV SCIFI SD",
-    "lang": "fr",
-    "xmltv_id": "CTVSciFiChannel.ca@SD"
-  },
-  {
-    "site_id": "seta/SNETWORLD+",
-    "name": "SNWHD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "snet/SNOHD",
-    "name": "Sports Net One HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tsn/TSN1H",
-    "name": "TSN1 HD",
-    "lang": "fr"
-  },
-  {
     "site_id": "se/SE",
     "name": "SE",
     "lang": "fr",
     "xmltv_id": "SuperEcran1.ca@SD"
+  },
+  {
+    "site_id": "snet/RSNP",
+    "name": "Sports Net Pacifique",
+    "lang": "fr",
+    "xmltv_id": "Sportsnet.ca@Pacific"
   },
   {
     "site_id": "tsn/TSN1",
@@ -1792,9 +1189,612 @@
     "xmltv_id": "TSN1.ca@SD"
   },
   {
-    "site_id": "wthr/WTHR",
-    "name": "WTHR",
+    "site_id": "tsn/TSN5H",
+    "name": "TSN HD (5)",
+    "lang": "fr"
+  },
+  {
+    "site_id": "vtv/VISION",
+    "name": "VISION",
     "lang": "fr",
-    "xmltv_id": "TheWeatherNetwork.ca@SD"
+    "xmltv_id": "VisionTV.ca@SD"
+  },
+  {
+    "site_id": "amit/AMIT",
+    "name": "AMI-Télé",
+    "lang": "fr",
+    "xmltv_id": "AMItele.ca@SD"
+  },
+  {
+    "site_id": "cott/COTT",
+    "name": "Cottage Life",
+    "lang": "fr",
+    "xmltv_id": "CottageLife.ca@SD"
+  },
+  {
+    "site_id": "cour/ID",
+    "name": "Investigation Discovery Canada",
+    "lang": "fr",
+    "xmltv_id": "InvestigationDiscovery.ca@SD"
+  },
+  {
+    "site_id": "tg24/TG24",
+    "name": "TGCOM 24",
+    "lang": "fr",
+    "xmltv_id": "TGCom24.it@SD"
+  },
+  {
+    "site_id": "ctv/CTVHD",
+    "name": "CFCF HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "fam/FAMILY",
+    "name": "FAMILY",
+    "lang": "fr",
+    "xmltv_id": "FamilyChannel.ca@East"
+  },
+  {
+    "site_id": "salt/SALTL",
+    "name": "Salt + Light TV",
+    "lang": "fr",
+    "xmltv_id": "SaltPlusLightTelevision.ca@SD"
+  },
+  {
+    "site_id": "series/SEPHD",
+    "name": "Séries Plus HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "disf/DISF",
+    "name": "La chaîne Disney",
+    "lang": "fr",
+    "xmltv_id": "LaChaineDisney.ca@SD"
+  },
+  {
+    "site_id": "disx/DISX",
+    "name": "Disney XD SD",
+    "lang": "fr",
+    "xmltv_id": "DisneyXD.ca@SD"
+  },
+  {
+    "site_id": "hgtv/HGTV",
+    "name": "HGTV",
+    "lang": "fr",
+    "xmltv_id": "HGTV.ca@SD"
+  },
+  {
+    "site_id": "life/SLICE+HD",
+    "name": "Slice HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ltim/LTIM",
+    "name": "LIFETIME SD",
+    "lang": "fr",
+    "xmltv_id": "Lifetime.ca@SD"
+  },
+  {
+    "site_id": "seta/SNETWORLD+",
+    "name": "SNWHD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "besp/BESP",
+    "name": "BeIN Sports ESP SD",
+    "lang": "fr",
+    "xmltv_id": "beINSportsenEspanol.qa@SD"
+  },
+  {
+    "site_id": "cour/IDHD",
+    "name": "Investigation Discovery Canada HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "fris/FRIS",
+    "name": "Frissons TV SD",
+    "lang": "fr",
+    "xmltv_id": "FrissonsTV.ca@SD"
+  },
+  {
+    "site_id": "idee/CASA",
+    "name": "CASA",
+    "lang": "fr",
+    "xmltv_id": "Casa.ca@SD"
+  },
+  {
+    "site_id": "nba/NBATV",
+    "name": "NBA TV",
+    "lang": "fr",
+    "xmltv_id": "NBATV.us@SD"
+  },
+  {
+    "site_id": "snet/SNET+PAC+H",
+    "name": "Sports Net Pacifique HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cnnh/CNNH",
+    "name": "CNN Headline News HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "crtn/CRTS",
+    "name": "Cartoon Network SD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "dciv/DCIV",
+    "name": "Discovery Science HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "deja/DEJA",
+    "name": "Déjà View",
+    "lang": "fr",
+    "xmltv_id": "DejaView.ca@SD"
+  },
+  {
+    "site_id": "fptv/FPTV",
+    "name": "Festival Portuguese Television",
+    "lang": "fr",
+    "xmltv_id": "FPTV.ca@SD"
+  },
+  {
+    "site_id": "tv5/TV5",
+    "name": "TV5",
+    "lang": "fr",
+    "xmltv_id": "TV5QuebecCanada.ca@SD"
+  },
+  {
+    "site_id": "cnbc/CNBC",
+    "name": "CNBC",
+    "lang": "fr",
+    "xmltv_id": "CNBC.us@SD"
+  },
+  {
+    "site_id": "2m/2M",
+    "name": "2M",
+    "lang": "fr",
+    "xmltv_id": "2MMonde.ma@SD"
+  },
+  {
+    "site_id": "golf/GOLF",
+    "name": "GOLF",
+    "lang": "fr",
+    "xmltv_id": "GolfChannel.us@SD"
+  },
+  {
+    "site_id": "hgtv/HGTVH",
+    "name": "HGTV HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "lsta/MTIMH",
+    "name": "MovieTime HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "src/CBUFT",
+    "name": "CBUFT",
+    "lang": "fr",
+    "xmltv_id": "CBUFTDT.ca@SD"
+  },
+  {
+    "site_id": "tlc/TLC",
+    "name": "TLC",
+    "lang": "fr",
+    "xmltv_id": "TLC.us@East"
+  },
+  {
+    "site_id": "cct3/CCT3",
+    "name": "CCT3",
+    "lang": "fr",
+    "xmltv_id": "CCTV3.cn@SD"
+  },
+  {
+    "site_id": "fxx/FXX",
+    "name": "FXX SD",
+    "lang": "fr",
+    "xmltv_id": "FXX.ca@SD"
+  },
+  {
+    "site_id": "life/SLICE",
+    "name": "Slice",
+    "lang": "fr",
+    "xmltv_id": "Slice.ca@SD"
+  },
+  {
+    "site_id": "myst/ADDIK",
+    "name": "addikTV",
+    "lang": "fr",
+    "xmltv_id": "addikTV.ca@SD"
+  },
+  {
+    "site_id": "ntv/CJON",
+    "name": "CJON",
+    "lang": "fr",
+    "xmltv_id": "CJONDT.ca@SD"
+  },
+  {
+    "site_id": "rain/RAIN",
+    "name": "RAI News",
+    "lang": "fr",
+    "xmltv_id": "RaiNews24.it@SD"
+  },
+  {
+    "site_id": "unic/UNIC",
+    "name": "Univision Canada",
+    "lang": "fr"
+  },
+  {
+    "site_id": "crv/CRV",
+    "name": "Crave 1",
+    "lang": "fr",
+    "xmltv_id": "Crave1.ca@SD"
+  },
+  {
+    "site_id": "ewtn/EWTN",
+    "name": "EWTN",
+    "lang": "fr",
+    "xmltv_id": "EWTN.us@Canada"
+  },
+  {
+    "site_id": "figh/FIGHT",
+    "name": "Fight Network",
+    "lang": "fr",
+    "xmltv_id": "FightNetwork.ca@SD"
+  },
+  {
+    "site_id": "omni/CFMT",
+    "name": "Omni 1",
+    "lang": "fr",
+    "xmltv_id": "CFMTDT.ca@SD"
+  },
+  {
+    "site_id": "raiw/RAIW",
+    "name": "RAI World",
+    "lang": "fr"
+  },
+  {
+    "site_id": "scfi/SCFI",
+    "name": "CTV SCIFI SD",
+    "lang": "fr",
+    "xmltv_id": "CTVSciFiChannel.ca@SD"
+  },
+  {
+    "site_id": "tsn/TSN1H",
+    "name": "TSN1 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "alph/ALPH",
+    "name": "ALPHA",
+    "lang": "fr",
+    "xmltv_id": "AlphaSat.gr@SD"
+  },
+  {
+    "site_id": "cbc/CBCHD",
+    "name": "CBMT",
+    "lang": "fr"
+  },
+  {
+    "site_id": "elle/ELLE",
+    "name": "Elle Fictions SD",
+    "lang": "fr",
+    "xmltv_id": "ElleFictions.ca@SD"
+  },
+  {
+    "site_id": "rdi/RDI",
+    "name": "RDI",
+    "lang": "fr",
+    "xmltv_id": "IciRDI.ca@SD"
+  },
+  {
+    "site_id": "spar/SPARKHD",
+    "name": "ABC Sparks HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "stvi/STVI",
+    "name": "STVI",
+    "lang": "fr",
+    "xmltv_id": "StingrayVibe.ca@SD"
+  },
+  {
+    "site_id": "tcmv/TCM1",
+    "name": "Turner Classic Movie 1",
+    "lang": "fr",
+    "xmltv_id": "TCM.ca@SD"
+  },
+  {
+    "site_id": "dciv/DISCC",
+    "name": "Discovery Science",
+    "lang": "fr",
+    "xmltv_id": "DiscoveryScience.ca@SD"
+  },
+  {
+    "site_id": "expl/EXPHD",
+    "name": "Explora HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "sc2/SC2HD",
+    "name": "Super Channel 2 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tlc/TLCH",
+    "name": "TLC HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nbc/WPTZH",
+    "name": "WPTZDT",
+    "lang": "fr"
+  },
+  {
+    "site_id": "play/PLBHD",
+    "name": "PLAYBOY HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rds/RDS",
+    "name": "RDS",
+    "lang": "fr",
+    "xmltv_id": "RDS.ca@SD"
+  },
+  {
+    "site_id": "src/CBFT",
+    "name": "CBFT",
+    "lang": "fr",
+    "xmltv_id": "CBFTDT.ca@SD"
+  },
+  {
+    "site_id": "tqc/CIVM",
+    "name": "CIVM",
+    "lang": "fr",
+    "xmltv_id": "CIVMDT.ca@SD"
+  },
+  {
+    "site_id": "ertw/ERTW",
+    "name": "ERT World OTN2",
+    "lang": "fr",
+    "xmltv_id": "ERTWorld.ca@SD"
+  },
+  {
+    "site_id": "evasion/EVAS",
+    "name": "Évasion",
+    "lang": "fr",
+    "xmltv_id": "Evasion.ca@SD"
+  },
+  {
+    "site_id": "expl/EXPLO",
+    "name": "Explora",
+    "lang": "fr",
+    "xmltv_id": "IciExplora.ca@SD"
+  },
+  {
+    "site_id": "global/CHAN",
+    "name": "CHAN",
+    "lang": "fr",
+    "xmltv_id": "CHANDT1.ca@SD"
+  },
+  {
+    "site_id": "ltim/LTMH",
+    "name": "LIFETIME HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "mtvc/MTVC",
+    "name": "MTV Canada",
+    "lang": "fr",
+    "xmltv_id": "MTV.ca@SD"
+  },
+  {
+    "site_id": "ris/RDSIH",
+    "name": "RDS Info HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "bnnb/BNNB",
+    "name": "BNN Bloomberg",
+    "lang": "fr",
+    "xmltv_id": "BNNBloomberg.ca@SD"
+  },
+  {
+    "site_id": "food/FOODH",
+    "name": "FOOD HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "plan/PLAN",
+    "name": "Planète",
+    "lang": "fr",
+    "xmltv_id": "PlanetePlus.fr@SD"
+  },
+  {
+    "site_id": "vie/VIEHD",
+    "name": "Canal Vie HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "wsbk/WSBK",
+    "name": "WSBK",
+    "lang": "fr",
+    "xmltv_id": "WSBKDT1.us@SD"
+  },
+  {
+    "site_id": "abc/KOMO",
+    "name": "KOMO",
+    "lang": "fr",
+    "xmltv_id": "KOMODT1.us@SD"
+  },
+  {
+    "site_id": "aptn/APTN",
+    "name": "Aboriginal Peoples Television Network",
+    "lang": "fr"
+  },
+  {
+    "site_id": "bet/BET",
+    "name": "BLACK ENTERTAINMENT",
+    "lang": "fr",
+    "xmltv_id": "BET.ca@SD"
+  },
+  {
+    "site_id": "cara/CARA",
+    "name": "Caracol TV",
+    "lang": "fr",
+    "xmltv_id": "CaracolInternacional.co@SD"
+  },
+  {
+    "site_id": "nw/CNEHD",
+    "name": "CBC News Network HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "sc1/SC1",
+    "name": "Super Channel 1",
+    "lang": "fr",
+    "xmltv_id": "SuperChannelFuse.ca@SD"
+  },
+  {
+    "site_id": "scor/SN360",
+    "name": "The Score",
+    "lang": "fr",
+    "xmltv_id": "Sportsnet360.ca@SD"
+  },
+  {
+    "site_id": "tfo/TFOHD",
+    "name": "TFO HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "asna/ANAT",
+    "name": "Assemblée Nationale",
+    "lang": "fr"
+  },
+  {
+    "site_id": "crtn/CRTN",
+    "name": "Cartoon Network HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "fox/WFFFH",
+    "name": "WFFF",
+    "lang": "fr",
+    "xmltv_id": "WFFFDT1.us@SD"
+  },
+  {
+    "site_id": "qub/QUB",
+    "name": "QUB Radio",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ttf/TTF",
+    "name": "TTF HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "unis/UNIS",
+    "name": "UNIS",
+    "lang": "fr",
+    "xmltv_id": "Unis.ca@SD"
+  },
+  {
+    "site_id": "sc1/SC1HD",
+    "name": "Super Channel 1 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tdc/DISC",
+    "name": "TDC",
+    "lang": "fr",
+    "xmltv_id": "DiscoveryChannel.ca@SD"
+  },
+  {
+    "site_id": "cpop/POPHD",
+    "name": "Ciné-pop HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nbc/WPTZ",
+    "name": "WPTZ",
+    "lang": "fr",
+    "xmltv_id": "WPTZDT1.us@SD"
+  },
+  {
+    "site_id": "ownh/OWNHD",
+    "name": "OWN HD Canada",
+    "lang": "fr"
+  },
+  {
+    "site_id": "trav/TRAV",
+    "name": "Travel \u0026 Escape",
+    "lang": "fr",
+    "xmltv_id": "TPlusE.ca@SD"
+  },
+  {
+    "site_id": "cinl/CINEL",
+    "name": "Cine Latino",
+    "lang": "fr",
+    "xmltv_id": "CineLatino.mx@SD"
+  },
+  {
+    "site_id": "drma/DRMA",
+    "name": "CTV Drama SD",
+    "lang": "fr",
+    "xmltv_id": "CTVDramaChannel.ca@SD"
+  },
+  {
+    "site_id": "fr24/FR24",
+    "name": "France 24",
+    "lang": "fr",
+    "xmltv_id": "France24.fr@French"
+  },
+  {
+    "site_id": "se/SE2HD",
+    "name": "SE 2 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tsn/TSN3H",
+    "name": "TSN3 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cbs/KIRO",
+    "name": "KIRO",
+    "lang": "fr",
+    "xmltv_id": "KIRODT1.us@SD"
+  },
+  {
+    "site_id": "cpac/CPAC",
+    "name": "CPAC",
+    "lang": "fr",
+    "xmltv_id": "CPACFrench.ca@SD"
+  },
+  {
+    "site_id": "fair/FAIRCH",
+    "name": "FAIR",
+    "lang": "fr",
+    "xmltv_id": "FairchildTV1.ca@East"
+  },
+  {
+    "site_id": "ment/H2HD",
+    "name": "H2 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "spar/SPARK",
+    "name": "SPARK",
+    "lang": "fr",
+    "xmltv_id": "ABCSpark.ca@SD"
+  },
+  {
+    "site_id": "tsn/TSN3",
+    "name": "TSN3",
+    "lang": "fr",
+    "xmltv_id": "TSN3.ca@SD"
   }
 ]

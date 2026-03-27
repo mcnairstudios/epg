@@ -1,45 +1,33 @@
 [
   {
-    "site_id": "arte",
-    "name": "ARTE",
-    "lang": "de",
-    "xmltv_id": "arte.fr@SD"
-  },
-  {
-    "site_id": "phoenix",
-    "name": "PHOENIX",
-    "lang": "de",
-    "xmltv_id": "phoenix.de@HD"
-  },
-  {
-    "site_id": "rtlcrime",
-    "name": "RTLCrime",
-    "lang": "de",
-    "xmltv_id": "RTLCrime.de@SD"
-  },
-  {
-    "site_id": "skyci",
-    "name": "SKYci",
-    "lang": "de",
-    "xmltv_id": "SkyCinemaPremieren.de@SD"
-  },
-  {
-    "site_id": "zdfinfo",
-    "name": "ZDFinfo",
-    "lang": "de",
-    "xmltv_id": "ZDFinfo.de@SD"
-  },
-  {
     "site_id": "3sat",
     "name": "3SAT",
     "lang": "de",
     "xmltv_id": "3sat.de@SD"
   },
   {
-    "site_id": "ard",
-    "name": "ARD",
+    "site_id": "dazn",
+    "name": "DAZN",
     "lang": "de",
-    "xmltv_id": "DasErste.de@SD"
+    "xmltv_id": "DAZN1.uk@Germany"
+  },
+  {
+    "site_id": "kika",
+    "name": "KIKA",
+    "lang": "de",
+    "xmltv_id": "KiKA.de@SD"
+  },
+  {
+    "site_id": "vox",
+    "name": "VOX",
+    "lang": "de",
+    "xmltv_id": "VOX.at@SD"
+  },
+  {
+    "site_id": "zdfneo",
+    "name": "ZDFneo",
+    "lang": "de",
+    "xmltv_id": "ZDFneo.de@SD"
   },
   {
     "site_id": "atv2",
@@ -48,22 +36,76 @@
     "xmltv_id": "ATV2.at@SD"
   },
   {
-    "site_id": "hr",
-    "name": "HR",
+    "site_id": "euro",
+    "name": "EURO",
     "lang": "de",
-    "xmltv_id": "hrfernsehen.de@SD"
+    "xmltv_id": "Eurosport1.fr@Germany"
   },
   {
-    "site_id": "ntv",
-    "name": "NTV",
+    "site_id": "k1",
+    "name": "K1",
     "lang": "de",
-    "xmltv_id": "ntv.at@SD"
+    "xmltv_id": "kabeleinsAustria.at@SD"
   },
   {
     "site_id": "one",
     "name": "ONE",
     "lang": "de",
     "xmltv_id": "One.de@SD"
+  },
+  {
+    "site_id": "pro7",
+    "name": "PRO7",
+    "lang": "de",
+    "xmltv_id": "ProSiebenAustria.at@SD"
+  },
+  {
+    "site_id": "skysp2",
+    "name": "SKYsp2",
+    "lang": "de",
+    "xmltv_id": "SkySport2.de@SD"
+  },
+  {
+    "site_id": "tele_5",
+    "name": "Tele 5",
+    "lang": "de",
+    "xmltv_id": "TELE5.de@SD"
+  },
+  {
+    "site_id": "7maxx",
+    "name": "7MAXX",
+    "lang": "de",
+    "xmltv_id": "ProSiebenMaxxAustria.at@SD"
+  },
+  {
+    "site_id": "arte",
+    "name": "ARTE",
+    "lang": "de",
+    "xmltv_id": "arte.fr@SD"
+  },
+  {
+    "site_id": "atv",
+    "name": "ATV",
+    "lang": "de",
+    "xmltv_id": "ATV.at@SD"
+  },
+  {
+    "site_id": "dmax",
+    "name": "DMAX",
+    "lang": "de",
+    "xmltv_id": "DMAX.de@SD"
+  },
+  {
+    "site_id": "nick",
+    "name": "NICK",
+    "lang": "de",
+    "xmltv_id": "NickelodeonAustria.at@SD"
+  },
+  {
+    "site_id": "orf1",
+    "name": "ORF1",
+    "lang": "de",
+    "xmltv_id": "ORF1.at@SD"
   },
   {
     "site_id": "rtl",
@@ -78,10 +120,52 @@
     "xmltv_id": "RTLSuper.de@SD"
   },
   {
-    "site_id": "7maxx",
-    "name": "7MAXX",
+    "site_id": "ard",
+    "name": "ARD",
     "lang": "de",
-    "xmltv_id": "ProSiebenMaxxAustria.at@SD"
+    "xmltv_id": "DasErste.de@SD"
+  },
+  {
+    "site_id": "ntv",
+    "name": "NTV",
+    "lang": "de",
+    "xmltv_id": "ntv.at@SD"
+  },
+  {
+    "site_id": "orf2",
+    "name": "ORF2",
+    "lang": "de",
+    "xmltv_id": "ORF2.at@SD"
+  },
+  {
+    "site_id": "phoenix",
+    "name": "PHOENIX",
+    "lang": "de",
+    "xmltv_id": "phoenix.de@HD"
+  },
+  {
+    "site_id": "rtlcrime",
+    "name": "RTLCrime",
+    "lang": "de",
+    "xmltv_id": "RTLCrime.de@SD"
+  },
+  {
+    "site_id": "sat1",
+    "name": "SAT1",
+    "lang": "de",
+    "xmltv_id": "SAT1Austria.at@SD"
+  },
+  {
+    "site_id": "skyaut",
+    "name": "SKYaut",
+    "lang": "de",
+    "xmltv_id": "SkySportAustria1.at@SD"
+  },
+  {
+    "site_id": "zdfinfo",
+    "name": "ZDFinfo",
+    "lang": "de",
+    "xmltv_id": "ZDFinfo.de@SD"
   },
   {
     "site_id": "br",
@@ -89,85 +173,9 @@
     "lang": "de"
   },
   {
-    "site_id": "dazn",
-    "name": "DAZN",
-    "lang": "de",
-    "xmltv_id": "DAZN1.uk@Germany"
-  },
-  {
-    "site_id": "euro",
-    "name": "EURO",
-    "lang": "de",
-    "xmltv_id": "Eurosport1.fr@Germany"
-  },
-  {
     "site_id": "ndr",
     "name": "NDR",
     "lang": "de"
-  },
-  {
-    "site_id": "nitro",
-    "name": "NITRO",
-    "lang": "de",
-    "xmltv_id": "Nitro.de@SD"
-  },
-  {
-    "site_id": "rbb",
-    "name": "rbb",
-    "lang": "de"
-  },
-  {
-    "site_id": "rtlliving",
-    "name": "RTLLiving",
-    "lang": "de",
-    "xmltv_id": "RTLLiving.de@SD"
-  },
-  {
-    "site_id": "atv",
-    "name": "ATV",
-    "lang": "de",
-    "xmltv_id": "ATV.at@SD"
-  },
-  {
-    "site_id": "kika",
-    "name": "KIKA",
-    "lang": "de",
-    "xmltv_id": "KiKA.de@SD"
-  },
-  {
-    "site_id": "mdr",
-    "name": "MDR",
-    "lang": "de"
-  },
-  {
-    "site_id": "orf_+",
-    "name": "ORF +",
-    "lang": "de",
-    "xmltv_id": "ORFSportPlus.at@SD"
-  },
-  {
-    "site_id": "servustv",
-    "name": "ServusTV",
-    "lang": "de",
-    "xmltv_id": "ServusTV.at@SD"
-  },
-  {
-    "site_id": "skybl",
-    "name": "SKYbl",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga1.de@SD"
-  },
-  {
-    "site_id": "tele_5",
-    "name": "Tele 5",
-    "lang": "de",
-    "xmltv_id": "TELE5.de@SD"
-  },
-  {
-    "site_id": "vox",
-    "name": "VOX",
-    "lang": "de",
-    "xmltv_id": "VOX.at@SD"
   },
   {
     "site_id": "oe24tv",
@@ -176,10 +184,91 @@
     "xmltv_id": "oe24TV.at@SD"
   },
   {
+    "site_id": "orf_iii",
+    "name": "ORF III",
+    "lang": "de",
+    "xmltv_id": "ORFIII.at@SD"
+  },
+  {
     "site_id": "puls_4",
     "name": "PULS 4",
     "lang": "de",
     "xmltv_id": "Puls4.at@SD"
+  },
+  {
+    "site_id": "rtlliving",
+    "name": "RTLLiving",
+    "lang": "de",
+    "xmltv_id": "RTLLiving.de@SD"
+  },
+  {
+    "site_id": "canal+",
+    "name": "CANAL+",
+    "lang": "de",
+    "xmltv_id": "CanalPlusFirst.at@SD"
+  },
+  {
+    "site_id": "mdr",
+    "name": "MDR",
+    "lang": "de"
+  },
+  {
+    "site_id": "rtl2",
+    "name": "RTL2",
+    "lang": "de",
+    "xmltv_id": "RTLZwei.de@SD"
+  },
+  {
+    "site_id": "skybl",
+    "name": "SKYbl",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga1.de@SD"
+  },
+  {
+    "site_id": "skyci",
+    "name": "SKYci",
+    "lang": "de",
+    "xmltv_id": "SkyCinemaPremieren.de@SD"
+  },
+  {
+    "site_id": "sport1",
+    "name": "Sport1",
+    "lang": "de",
+    "xmltv_id": "Sport1.de@SD"
+  },
+  {
+    "site_id": "wdr",
+    "name": "WDR",
+    "lang": "de"
+  },
+  {
+    "site_id": "disney",
+    "name": "Disney",
+    "lang": "de",
+    "xmltv_id": "DisneyChannel.de@SD"
+  },
+  {
+    "site_id": "orf_+",
+    "name": "ORF +",
+    "lang": "de",
+    "xmltv_id": "ORFSportPlus.at@SD"
+  },
+  {
+    "site_id": "rbb",
+    "name": "rbb",
+    "lang": "de"
+  },
+  {
+    "site_id": "servustv",
+    "name": "ServusTV",
+    "lang": "de",
+    "xmltv_id": "ServusTV.at@SD"
+  },
+  {
+    "site_id": "sixx",
+    "name": "sixx",
+    "lang": "de",
+    "xmltv_id": "sixxAustria.at@SD"
   },
   {
     "site_id": "skysp1",
@@ -188,10 +277,22 @@
     "xmltv_id": "SkySport1.de@SD"
   },
   {
-    "site_id": "skysp2",
-    "name": "SKYsp2",
+    "site_id": "hr",
+    "name": "HR",
     "lang": "de",
-    "xmltv_id": "SkySport2.de@SD"
+    "xmltv_id": "hrfernsehen.de@SD"
+  },
+  {
+    "site_id": "nitro",
+    "name": "NITRO",
+    "lang": "de",
+    "xmltv_id": "Nitro.de@SD"
+  },
+  {
+    "site_id": "sat1gold",
+    "name": "Sat1Gold",
+    "lang": "de",
+    "xmltv_id": "SAT1GoldAustria.at@SD"
   },
   {
     "site_id": "swr",
@@ -204,107 +305,6 @@
     "name": "WELT",
     "lang": "de",
     "xmltv_id": "WELT.de@SD"
-  },
-  {
-    "site_id": "zdfneo",
-    "name": "ZDFneo",
-    "lang": "de",
-    "xmltv_id": "ZDFneo.de@SD"
-  },
-  {
-    "site_id": "disney",
-    "name": "Disney",
-    "lang": "de",
-    "xmltv_id": "DisneyChannel.de@SD"
-  },
-  {
-    "site_id": "nick",
-    "name": "NICK",
-    "lang": "de",
-    "xmltv_id": "NickelodeonAustria.at@SD"
-  },
-  {
-    "site_id": "rtl2",
-    "name": "RTL2",
-    "lang": "de",
-    "xmltv_id": "RTLZwei.de@SD"
-  },
-  {
-    "site_id": "sat1gold",
-    "name": "Sat1Gold",
-    "lang": "de",
-    "xmltv_id": "SAT1GoldAustria.at@SD"
-  },
-  {
-    "site_id": "sixx",
-    "name": "sixx",
-    "lang": "de",
-    "xmltv_id": "sixxAustria.at@SD"
-  },
-  {
-    "site_id": "sport1",
-    "name": "Sport1",
-    "lang": "de",
-    "xmltv_id": "Sport1.de@SD"
-  },
-  {
-    "site_id": "dmax",
-    "name": "DMAX",
-    "lang": "de",
-    "xmltv_id": "DMAX.de@SD"
-  },
-  {
-    "site_id": "k1",
-    "name": "K1",
-    "lang": "de",
-    "xmltv_id": "kabeleinsAustria.at@SD"
-  },
-  {
-    "site_id": "skyaut",
-    "name": "SKYaut",
-    "lang": "de",
-    "xmltv_id": "SkySportAustria1.at@SD"
-  },
-  {
-    "site_id": "canal+",
-    "name": "CANAL+",
-    "lang": "de",
-    "xmltv_id": "CanalPlusFirst.at@SD"
-  },
-  {
-    "site_id": "orf1",
-    "name": "ORF1",
-    "lang": "de",
-    "xmltv_id": "ORF1.at@SD"
-  },
-  {
-    "site_id": "orf2",
-    "name": "ORF2",
-    "lang": "de",
-    "xmltv_id": "ORF2.at@SD"
-  },
-  {
-    "site_id": "orf_iii",
-    "name": "ORF III",
-    "lang": "de",
-    "xmltv_id": "ORFIII.at@SD"
-  },
-  {
-    "site_id": "pro7",
-    "name": "PRO7",
-    "lang": "de",
-    "xmltv_id": "ProSiebenAustria.at@SD"
-  },
-  {
-    "site_id": "sat1",
-    "name": "SAT1",
-    "lang": "de",
-    "xmltv_id": "SAT1Austria.at@SD"
-  },
-  {
-    "site_id": "wdr",
-    "name": "WDR",
-    "lang": "de"
   },
   {
     "site_id": "zdf",

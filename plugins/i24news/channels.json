@@ -1,11 +1,5 @@
 [
   {
-    "site_id": "en",
-    "name": "I24NEWS English (USA)",
-    "lang": "en",
-    "xmltv_id": "i24NEWSEnglishUSA.il@SD"
-  },
-  {
     "site_id": "fr",
     "name": "I24NEWS Français",
     "lang": "fr",
@@ -21,5 +15,11 @@
     "name": "I24NEWS عربى",
     "lang": "ar",
     "xmltv_id": "i24NEWSArabic.il@SD"
+  },
+  {
+    "site_id": "en",
+    "name": "I24NEWS English (USA)",
+    "lang": "en",
+    "xmltv_id": "i24NEWSEnglishUSA.il@SD"
   }
 ]
