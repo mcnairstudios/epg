@@ -3,6 +3,7 @@ package api
 import (
 	"encoding/json"
 	"net/http"
+	"time"
 
 	"github.com/go-chi/chi/v5"
 
@@ -64,14 +65,20 @@ func (s *Server) removeExternalSource(w http.ResponseWriter, r *http.Request) {
 func (s *Server) grabExternalSource(w http.ResponseWriter, r *http.Request) {
 	name := chi.URLParam(r, "name")
 
+	start := time.Now()
 	channels, programs, err := s.externalSources.Fetch(name)
+	duration := time.Since(start)
+
 	if err != nil {
 		http.Error(w, `{"error":"`+err.Error()+`"}`, http.StatusBadRequest)
 		return
 	}
 
 	s.store.SetChannels(channels)
+
+	channelsWithData := 0
 	for _, ch := range channels {
+		s.store.ClearPrograms(ch.ID)
 		var chPrograms []domain.Program
 		for _, p := range programs {
 			if p.Channel == ch.XmltvID {
@@ -80,10 +87,13 @@ func (s *Server) grabExternalSource(w http.ResponseWriter, r *http.Request) {
 		}
 		if len(chPrograms) > 0 {
 			s.store.SetPrograms(ch.ID, chPrograms)
+			channelsWithData++
 		}
 	}
 
-	if err := s.store.Save(); err != nil {
+	s.store.RecordGrabStats(name, channelsWithData, len(programs), 0, duration)
+
+	if err := s.store.SaveSource(name); err != nil {
 		http.Error(w, `{"error":"failed to persist data"}`, http.StatusInternalServerError)
 		return
 	}

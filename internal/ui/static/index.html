@@ -285,16 +285,34 @@
         }).join('');
 
         const ext = await apiFetch('/external-sources').catch(() => []);
-        document.getElementById('external-sources').innerHTML = (ext||[]).map(s => `
-          <div class="card">
-            <h3>${s.name} <span class="badge badge-external">${s.type}</span></h3>
-            <p style="word-break:break-all;">${s.url}</p>
-            <div style="margin-top:12px;">
-              <button class="btn btn-success" onclick="grabExternal('${s.name}')">Grab</button>
-              <button class="btn btn-danger" onclick="removeExternal('${s.name}')">Remove</button>
+        document.getElementById('external-sources').innerHTML = (ext||[]).map(s => {
+          const gs = statsMap[s.name];
+          const isGrabbing = grabbingSet.has('ext:' + s.name);
+          const statusBadge = isGrabbing
+            ? '<span class="badge" style="background:#d97706;color:white;">grabbing...</span>'
+            : gs
+              ? (gs.programs > 0
+                ? `<span class="badge" style="background:#059669;color:white;">${gs.programs} progs / ${gs.channels} ch</span>`
+                : `<span class="badge" style="background:#dc2626;color:white;">0 programs</span>`)
+              : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
+          const lastGrab = gs ? `<span style="font-size:11px;color:#8b98a5;">Last: ${new Date(gs.last_grab).toLocaleString()} (${gs.duration})</span>` : '';
+          const grabBtn = isGrabbing
+            ? '<button class="btn" style="background:#d97706;color:white;" disabled>Grabbing...</button>'
+            : `<button class="btn btn-success" onclick="grabExternal('${s.name}')">Grab</button>`;
+          return `
+            <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}">
+              <h3>${s.name} ${statusBadge}</h3>
+              <p style="word-break:break-all;font-size:11px;color:#8b98a5;">${s.url}</p>
+              <div style="margin-top:2px;">${lastGrab}</div>
+              <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
+                ${grabBtn}
+                ${gs && gs.programs > 0 ? `<button class="btn btn-primary" onclick="openGuide('${s.name}')">Guide</button>` : ''}
+                <button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${s.name}')">Copy XMLTV URL</button>
+                <button class="btn btn-danger" onclick="removeExternal('${s.name}')">Remove</button>
+              </div>
             </div>
-          </div>
-        `).join('');
+          `;
+        }).join('');
       } catch(e) { showStatus(e.message, 'error'); }
     }
 
@@ -356,11 +374,18 @@
 
     async function grabExternal(name) {
       try {
+        grabbingSet.add('ext:' + name);
+        loadSources();
         showStatus('Grabbing external source: ' + name + '...', 'info');
         const res = await apiFetch('/external-sources/' + name + '/grab', {method:'POST'});
+        grabbingSet.delete('ext:' + name);
         showStatus(`Imported ${res.channels} channels, ${res.programs} programs from ${name}`, 'success');
         refreshAll();
-      } catch(e) { showStatus(e.message, 'error'); }
+      } catch(e) {
+        grabbingSet.delete('ext:' + name);
+        loadSources();
+        showStatus(e.message, 'error');
+      }
     }
 
     const PX_PER_MIN = 4;
