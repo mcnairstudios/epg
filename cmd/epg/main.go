@@ -22,6 +22,7 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/imjhnz"
 	_ "github.com/gavinmcnair/epg/plugins/magticom"
 	_ "github.com/gavinmcnair/epg/plugins/mitv"
+	_ "github.com/gavinmcnair/epg/plugins/ontvtonight"
 	_ "github.com/gavinmcnair/epg/plugins/plextv"
 	_ "github.com/gavinmcnair/epg/plugins/plutotv"
 	_ "github.com/gavinmcnair/epg/plugins/singtel"

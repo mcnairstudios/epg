@@ -33,6 +33,11 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 	srv.router.Use(middleware.Logger)
 	srv.router.Use(middleware.Recoverer)
 
+	srv.router.Get("/health", func(w http.ResponseWriter, r *http.Request) {
+		w.Header().Set("Content-Type", "application/json")
+		w.Write([]byte(`{"status":"ok"}`))
+	})
+
 	srv.router.Route("/api/v1", func(r chi.Router) {
 		r.Use(users.Middleware)
 		r.Use(middleware.SetHeader("Content-Type", "application/json"))

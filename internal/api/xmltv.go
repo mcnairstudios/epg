@@ -2,7 +2,6 @@ package api
 
 import (
 	"net/http"
-	"time"
 
 	"github.com/go-chi/chi/v5"
 
@@ -40,12 +39,7 @@ func (s *Server) writeXMLTV(w http.ResponseWriter, f store.Filter) {
 		Source:  f.Source,
 		Channel: f.Channel,
 		Genre:   f.Genre,
-	}
-	if f.Date != nil {
-		programFilter.Date = f.Date
-	} else {
-		now := time.Now().UTC().Truncate(24 * time.Hour)
-		programFilter.Date = &now
+		Date:    f.Date,
 	}
 
 	programs := s.store.GetPrograms(programFilter)
