@@ -24,7 +24,7 @@ func (s *Server) getStats(w http.ResponseWriter, r *http.Request) {
 		Programs:        s.store.ProgramCount(),
 		Plugins:         len(plugin.List()),
 		ExternalSources: len(s.externalSources.List()),
-		GrabStats:       s.grabStats.All(),
+		GrabStats:       s.store.GetGrabStats(),
 	}
 	json.NewEncoder(w).Encode(resp)
 }

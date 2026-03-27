@@ -12,22 +12,25 @@ import (
 )
 
 type Store struct {
-	mu       sync.RWMutex
-	channels map[string]domain.Channel
-	programs map[string][]domain.Program
-	path     string
+	mu        sync.RWMutex
+	channels  map[string]domain.Channel
+	programs  map[string][]domain.Program
+	grabStats map[string]GrabStats
+	path      string
 }
 
 type snapshot struct {
-	Channels map[string]domain.Channel
-	Programs map[string][]domain.Program
+	Channels  map[string]domain.Channel
+	Programs  map[string][]domain.Program
+	GrabStats map[string]GrabStats
 }
 
 func New(path string) *Store {
 	return &Store{
-		channels: make(map[string]domain.Channel),
-		programs: make(map[string][]domain.Program),
-		path:     path,
+		channels:  make(map[string]domain.Channel),
+		programs:  make(map[string][]domain.Program),
+		grabStats: make(map[string]GrabStats),
+		path:      path,
 	}
 }
 
@@ -107,6 +110,29 @@ func (s *Store) ProgramCount() int {
 	return count
 }
 
+func (s *Store) RecordGrabStats(source string, channels, programs, errors int, duration time.Duration) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	s.grabStats[source] = GrabStats{
+		Source:   source,
+		Channels: channels,
+		Programs: programs,
+		Errors:   errors,
+		LastGrab: time.Now().UTC(),
+		Duration: duration.Round(time.Millisecond).String(),
+	}
+}
+
+func (s *Store) GetGrabStats() []GrabStats {
+	s.mu.RLock()
+	defer s.mu.RUnlock()
+	result := make([]GrabStats, 0, len(s.grabStats))
+	for _, gs := range s.grabStats {
+		result = append(result, gs)
+	}
+	return result
+}
+
 func (s *Store) Save() error {
 	s.mu.RLock()
 	defer s.mu.RUnlock()
@@ -126,8 +152,9 @@ func (s *Store) Save() error {
 	defer f.Close()
 
 	return gob.NewEncoder(f).Encode(snapshot{
-		Channels: s.channels,
-		Programs: s.programs,
+		Channels:  s.channels,
+		Programs:  s.programs,
+		GrabStats: s.grabStats,
 	})
 }
 
@@ -155,6 +182,9 @@ func (s *Store) Load() error {
 
 	s.channels = snap.Channels
 	s.programs = snap.Programs
+	if snap.GrabStats != nil {
+		s.grabStats = snap.GrabStats
+	}
 	return nil
 }
 

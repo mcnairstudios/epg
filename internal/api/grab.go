@@ -49,7 +49,7 @@ func (s *Server) triggerGrab(w http.ResponseWriter, r *http.Request) {
 		}
 	}
 
-	s.grabStats.Record(req.Source, channels, resp.Results, resp.Errors, duration)
+	s.store.RecordGrabStats(req.Source, channels, resp.Results, resp.Errors, duration)
 
 	if err := s.store.Save(); err != nil {
 		http.Error(w, `{"error":"failed to persist data"}`, http.StatusInternalServerError)
@@ -94,7 +94,7 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 		resp.Sources = append(resp.Sources, *sr)
 		resp.Total += sr.Results
 		resp.Errors += sr.Errors
-		s.grabStats.Record(name, sourceChannels[name], sr.Results, sr.Errors, time.Since(sourceTimes[name]))
+		s.store.RecordGrabStats(name, sourceChannels[name], sr.Results, sr.Errors, time.Since(sourceTimes[name]))
 	}
 
 	s.store.Save()
@@ -103,5 +103,5 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 }
 
 func (s *Server) getGrabStats(w http.ResponseWriter, r *http.Request) {
-	json.NewEncoder(w).Encode(s.grabStats.All())
+	json.NewEncoder(w).Encode(s.store.GetGrabStats())
 }
