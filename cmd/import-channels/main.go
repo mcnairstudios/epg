@@ -224,6 +224,11 @@ var siteToPlugin = map[string]string{
 	"mojmaxtv.hrvatskitelekom.hr":    "hrvatskitelekom",
 	"tv2go.t-2.net":                  "t2net",
 	"tv-spored.siol.net":             "siolnet",
+	"epgshare01.online":              "epgshare",
+	"tvprofil.com":                   "tvprofil",
+	"ena.skylifetv.co.kr":            "enaskylife",
+	"watch.sportsnet.ca":             "sportsnetca",
+	"moji.id":                        "mojiid",
 }
 
 func main() {

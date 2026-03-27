@@ -1,5 +1,17 @@
 [
   {
+    "site_id": "2",
+    "name": "FOX League",
+    "lang": "en",
+    "xmltv_id": "FoxLeague.au@SD"
+  },
+  {
+    "site_id": "3",
+    "name": "FOX Sports 503",
+    "lang": "en",
+    "xmltv_id": "FoxSports503.au@SD"
+  },
+  {
     "site_id": "10",
     "name": "FOX Footy",
     "lang": "en",
@@ -28,17 +40,5 @@
     "name": "FOX Cricket",
     "lang": "en",
     "xmltv_id": "FoxCricket.au@SD"
-  },
-  {
-    "site_id": "2",
-    "name": "FOX League",
-    "lang": "en",
-    "xmltv_id": "FoxLeague.au@SD"
-  },
-  {
-    "site_id": "3",
-    "name": "FOX Sports 503",
-    "lang": "en",
-    "xmltv_id": "FoxSports503.au@SD"
   }
 ]

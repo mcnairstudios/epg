@@ -1,5 +1,41 @@
 [
   {
+    "site_id": "lis#8",
+    "name": "RTP2",
+    "lang": "pt",
+    "xmltv_id": "RTP2.pt@SD"
+  },
+  {
+    "site_id": "lis#3",
+    "name": "RTP Açores",
+    "lang": "pt",
+    "xmltv_id": "RTPAcores.pt@SD"
+  },
+  {
+    "site_id": "per#5",
+    "name": "RTP Internacional Ásia",
+    "lang": "pt",
+    "xmltv_id": "RTPiAsia.pt@SD"
+  },
+  {
+    "site_id": "lis#5",
+    "name": "RTP Internacional",
+    "lang": "pt",
+    "xmltv_id": "RTPInternacional.pt@SD"
+  },
+  {
+    "site_id": "lis#9",
+    "name": "RTP Memória",
+    "lang": "pt",
+    "xmltv_id": "RTPMemoria.pt@SD"
+  },
+  {
+    "site_id": "lis#7",
+    "name": "RTP Noticias",
+    "lang": "pt",
+    "xmltv_id": "RTPNoticias.pt@HD"
+  },
+  {
     "site_id": "lis#1",
     "name": "RTP1",
     "lang": "pt",
@@ -18,45 +54,9 @@
     "xmltv_id": "RTPiAmerica.pt@SD"
   },
   {
-    "site_id": "per#5",
-    "name": "RTP Internacional Ásia",
-    "lang": "pt",
-    "xmltv_id": "RTPiAsia.pt@SD"
-  },
-  {
-    "site_id": "lis#5",
-    "name": "RTP Internacional",
-    "lang": "pt",
-    "xmltv_id": "RTPInternacional.pt@SD"
-  },
-  {
     "site_id": "lis#4",
     "name": "RTP Madeira",
     "lang": "pt",
     "xmltv_id": "RTPMadeira.pt@SD"
-  },
-  {
-    "site_id": "lis#9",
-    "name": "RTP Memória",
-    "lang": "pt",
-    "xmltv_id": "RTPMemoria.pt@SD"
-  },
-  {
-    "site_id": "lis#7",
-    "name": "RTP Noticias",
-    "lang": "pt",
-    "xmltv_id": "RTPNoticias.pt@HD"
-  },
-  {
-    "site_id": "lis#8",
-    "name": "RTP2",
-    "lang": "pt",
-    "xmltv_id": "RTP2.pt@SD"
-  },
-  {
-    "site_id": "lis#3",
-    "name": "RTP Açores",
-    "lang": "pt",
-    "xmltv_id": "RTPAcores.pt@SD"
   }
 ]

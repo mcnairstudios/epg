@@ -1,9 +1,21 @@
 [
   {
-    "site_id": "fbc-2",
-    "name": "FBC",
+    "site_id": "channel-2",
+    "name": "Channel 2",
     "lang": "fj",
-    "xmltv_id": "FBCTV.fj@SD"
+    "xmltv_id": "Channel2.fj@SD"
+  },
+  {
+    "site_id": "fbc",
+    "name": "FBC Sports",
+    "lang": "fj",
+    "xmltv_id": "FBCSports.fj@SD"
+  },
+  {
+    "site_id": "fbc2",
+    "name": "FBC 2",
+    "lang": "fj",
+    "xmltv_id": "FBC2.fj@SD"
   },
   {
     "site_id": "fiji_one",
@@ -12,27 +24,15 @@
     "xmltv_id": "FijiOne.fj@SD"
   },
   {
-    "site_id": "parliament",
-    "name": "Parliament Channel",
-    "lang": "fj",
-    "xmltv_id": "ParliamentofFiji.fj@SD"
-  },
-  {
     "site_id": "9-education-channel",
     "name": "Education Channel",
     "lang": "fj"
   },
   {
-    "site_id": "channel-2",
-    "name": "Channel 2",
+    "site_id": "fbc-2",
+    "name": "FBC",
     "lang": "fj",
-    "xmltv_id": "Channel2.fj@SD"
-  },
-  {
-    "site_id": "fbc2",
-    "name": "FBC 2",
-    "lang": "fj",
-    "xmltv_id": "FBC2.fj@SD"
+    "xmltv_id": "FBCTV.fj@SD"
   },
   {
     "site_id": "hope-channel",
@@ -47,9 +47,9 @@
     "xmltv_id": "MaiTV.fj@SD"
   },
   {
-    "site_id": "fbc",
-    "name": "FBC Sports",
+    "site_id": "parliament",
+    "name": "Parliament Channel",
     "lang": "fj",
-    "xmltv_id": "FBCSports.fj@SD"
+    "xmltv_id": "ParliamentofFiji.fj@SD"
   }
 ]

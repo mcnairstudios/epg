@@ -1,26 +1,151 @@
 [
   {
-    "site_id": "BONUM",
-    "name": "EWTN / Bonum TV (HD)",
+    "site_id": "7TV",
+    "name": "7.TV",
     "lang": "hu",
-    "xmltv_id": "EWTNBonumTV.hu@SD"
+    "xmltv_id": "7TV.hu@SD"
   },
   {
-    "site_id": "FIGHTBOX_EN",
-    "name": "Fightbox HD",
-    "lang": "en",
-    "xmltv_id": "FightBox.nl@SD"
-  },
-  {
-    "site_id": "FILMMANIA",
-    "name": "Film Mánia (HD)",
+    "site_id": "CARTOON",
+    "name": "Cartoon Network",
     "lang": "hu",
-    "xmltv_id": "FilmMania.hu@SD"
+    "xmltv_id": "CartoonNetworkCEE.uk@Hungary"
   },
   {
-    "site_id": "KOLYOK_KLUB",
-    "name": "Kölyök Klub",
+    "site_id": "CINEMAX2",
+    "name": "Cinemax 2 (HD)",
+    "lang": "hu",
+    "xmltv_id": "Cinemax2CentralEurope.hu@HD"
+  },
+  {
+    "site_id": "M3",
+    "name": "M3 (online)",
     "lang": "hu"
+  },
+  {
+    "site_id": "MR_SPORT_RADIO",
+    "name": "Nemzeti Sport Rádió",
+    "lang": "hu"
+  },
+  {
+    "site_id": "NICKELODEON",
+    "name": "Nickelodeon",
+    "lang": "hu",
+    "xmltv_id": "Nickelodeon.hu@SD"
+  },
+  {
+    "site_id": "VIASATHIST",
+    "name": "Viasat History (HD)",
+    "lang": "hu",
+    "xmltv_id": "ViasatHistory.hu@SD"
+  },
+  {
+    "site_id": "ZEG_TV",
+    "name": "Zalaegerszegi TV",
+    "lang": "hu",
+    "xmltv_id": "ZalaegerszegiTV.hu@SD"
+  },
+  {
+    "site_id": "MR2",
+    "name": "Petőfi Rádió",
+    "lang": "hu"
+  },
+  {
+    "site_id": "MTVHITS",
+    "name": "MTV Hits",
+    "lang": "en",
+    "xmltv_id": "MTVHitsEurope.uk@SD"
+  },
+  {
+    "site_id": "NATGEOWILD",
+    "name": "National Geographic Wild (HD)",
+    "lang": "hu",
+    "xmltv_id": "NationalGeographicWild.hu@SD"
+  },
+  {
+    "site_id": "VIASAT2",
+    "name": "Viasat 2",
+    "lang": "hu",
+    "xmltv_id": "Viasat2.hu@SD"
+  },
+  {
+    "site_id": "LIFE_TV",
+    "name": "Life TV (HD)",
+    "lang": "hu",
+    "xmltv_id": "LifeTV.hu@SD"
+  },
+  {
+    "site_id": "M5",
+    "name": "M5 (HD)",
+    "lang": "hu",
+    "xmltv_id": "M5.hu@SD"
+  },
+  {
+    "site_id": "MOZI_KLUB",
+    "name": "Mozi Klub",
+    "lang": "hu"
+  },
+  {
+    "site_id": "ENGLISH_CLUB_TV",
+    "name": "English Club TV",
+    "lang": "en",
+    "xmltv_id": "EnglishClubTV.uk@SD"
+  },
+  {
+    "site_id": "EUROSPORT",
+    "name": "Eurosport 1 (HD)",
+    "lang": "hu",
+    "xmltv_id": "Eurosport1.fr@Hungary"
+  },
+  {
+    "site_id": "ANIMAL",
+    "name": "Animal Planet (HD)",
+    "lang": "hu",
+    "xmltv_id": "AnimalPlanetEurope.uk@SD"
+  },
+  {
+    "site_id": "AXN",
+    "name": "AXN (HD)",
+    "lang": "hu"
+  },
+  {
+    "site_id": "CLASSICA",
+    "name": "Stingray Classica HD",
+    "lang": "en",
+    "xmltv_id": "StingrayClassica.ca@SD"
+  },
+  {
+    "site_id": "DISCOVERY",
+    "name": "Discovery Channel (HD)",
+    "lang": "hu",
+    "xmltv_id": "DiscoveryChannel.hu@SD"
+  },
+  {
+    "site_id": "FILMPLUS",
+    "name": "film+ (HD)",
+    "lang": "hu",
+    "xmltv_id": "FilmPlus.hu@SD"
+  },
+  {
+    "site_id": "CARTOONITO",
+    "name": "Cartoonito",
+    "lang": "hu"
+  },
+  {
+    "site_id": "CSUKAS_RADIO",
+    "name": "Csukás Meserádió",
+    "lang": "hu"
+  },
+  {
+    "site_id": "DANKO_RADIO",
+    "name": "Dankó Rádió",
+    "lang": "hu"
+  },
+  {
+    "site_id": "FUNBOX_UHD",
+    "name": "Funbox UltraHD 4K",
+    "lang": "hu",
+    "xmltv_id": "FunBoxUHD.nl@SD"
   },
   {
     "site_id": "MEZZOHD",
@@ -29,38 +154,171 @@
     "xmltv_id": "MezzoLive.fr@SD"
   },
   {
+    "site_id": "MTV90S",
+    "name": "MTV 90s",
+    "lang": "en",
+    "xmltv_id": "MTV90s.uk@SD"
+  },
+  {
+    "site_id": "CLUB_MTV",
+    "name": "club MTV",
+    "lang": "en",
+    "xmltv_id": "ClubMTVEurope.uk@SD"
+  },
+  {
+    "site_id": "FILMMANIA",
+    "name": "Film Mánia (HD)",
+    "lang": "hu",
+    "xmltv_id": "FilmMania.hu@SD"
+  },
+  {
+    "site_id": "HBO3",
+    "name": "HBO 3 (HD)",
+    "lang": "hu",
+    "xmltv_id": "HBO3CentralEurope.hu@HD"
+  },
+  {
+    "site_id": "KOLCSEY_TV",
+    "name": "Kölcsey TV",
+    "lang": "hu",
+    "xmltv_id": "KolcseyTV.hu@SD"
+  },
+  {
+    "site_id": "TEENNICK",
+    "name": "TeenNick",
+    "lang": "hu",
+    "xmltv_id": "TeenNick.hu@SD"
+  },
+  {
+    "site_id": "TLC",
+    "name": "TLC (HD)",
+    "lang": "hu",
+    "xmltv_id": "TLC.hu@SD"
+  },
+  {
+    "site_id": "TRAVELXP_4K",
+    "name": "Travel XP 4K",
+    "lang": "hu"
+  },
+  {
+    "site_id": "TV2_COMEDY",
+    "name": "TV2 Comedy",
+    "lang": "hu",
+    "xmltv_id": "TV2Comedy.hu@SD"
+  },
+  {
+    "site_id": "BALATON_TV",
+    "name": "Balaton TV",
+    "lang": "hu",
+    "xmltv_id": "BalatonTV.hu@SD"
+  },
+  {
+    "site_id": "CNN",
+    "name": "CNN",
+    "lang": "hu",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "FILMBOX_STARS",
+    "name": "Filmbox Stars",
+    "lang": "hu",
+    "xmltv_id": "FilmBoxStars.nl@Hungary"
+  },
+  {
+    "site_id": "FISHING_HUNTING",
+    "name": "Fishing \u0026 Hunting Channel (HD)",
+    "lang": "hu",
+    "xmltv_id": "TheFishingHuntingChannel.hu@SD"
+  },
+  {
+    "site_id": "MUZSIKATV",
+    "name": "Muzsika TV",
+    "lang": "hu",
+    "xmltv_id": "MuzsikaTV.hu@SD"
+  },
+  {
     "site_id": "NAUTICAL_CHANNEL",
     "name": "Nautical Channel (HD)",
     "lang": "hu",
     "xmltv_id": "NauticalChannel.it@SD"
   },
   {
-    "site_id": "M4_SPORT_PLUSZ",
-    "name": "M4 Sport+ (HD)",
+    "site_id": "PRIME",
+    "name": "Prime (HD)",
     "lang": "hu",
-    "xmltv_id": "M4SportPlus.hu@SD"
+    "xmltv_id": "Prime.hu@SD"
   },
   {
-    "site_id": "MOZI_PLUSZ",
-    "name": "Mozi+ (HD)",
+    "site_id": "RTL2",
+    "name": "RTL KETTŐ (HD)",
     "lang": "hu",
-    "xmltv_id": "MoziPlus.hu@SD"
+    "xmltv_id": "RTLKetto.hu@SD"
   },
   {
-    "site_id": "NICKJR",
-    "name": "Nick Jr",
+    "site_id": "BONUM",
+    "name": "EWTN / Bonum TV (HD)",
     "lang": "hu",
-    "xmltv_id": "NickJr.hu@SD"
+    "xmltv_id": "EWTNBonumTV.hu@SD"
   },
   {
-    "site_id": "NICKTOONS",
-    "name": "Nicktoons (HD)",
-    "lang": "hu",
-    "xmltv_id": "Nicktoons.ro@SD"
+    "site_id": "HBOHD",
+    "name": "HBO (HD)",
+    "lang": "hu"
   },
   {
-    "site_id": "SOROZAT_KLUB",
-    "name": "Sorozat Klub",
+    "site_id": "MATCH4",
+    "name": "Match4 (HD)",
+    "lang": "hu",
+    "xmltv_id": "Match4.hu@SD"
+  },
+  {
+    "site_id": "OZONE_TV",
+    "name": "Ozone TV (HD)",
+    "lang": "hu",
+    "xmltv_id": "OzoneTV.hu@SD"
+  },
+  {
+    "site_id": "PARAMOUNT",
+    "name": "Paramount Network (HD)",
+    "lang": "hu",
+    "xmltv_id": "ParamountNetwork.hu@SD"
+  },
+  {
+    "site_id": "DIKH_TV",
+    "name": "Dikh TV (HD)",
+    "lang": "hu",
+    "xmltv_id": "DikhTV.hu@SD"
+  },
+  {
+    "site_id": "ELSO_KERULET_TV",
+    "name": "Első Kerület TV HD",
+    "lang": "hu"
+  },
+  {
+    "site_id": "HISTORYHD",
+    "name": "History (HD)",
+    "lang": "hu"
+  },
+  {
+    "site_id": "M2",
+    "name": "M2 / Petőfi (HD)",
+    "lang": "hu",
+    "xmltv_id": "M2.hu@SD"
+  },
+  {
+    "site_id": "MAX4",
+    "name": "Max 4",
+    "lang": "hu",
+    "xmltv_id": "MAX4.hu@SD"
+  },
+  {
+    "site_id": "MKR",
+    "name": "Magyar Katolikus Rádió",
+    "lang": "hu"
+  },
+  {
+    "site_id": "NICKELODEONHD",
+    "name": "Nickelodeon HD",
     "lang": "hu"
   },
   {
@@ -70,16 +328,22 @@
     "xmltv_id": "SzegedTV.hu@SD"
   },
   {
-    "site_id": "TLC",
-    "name": "TLC (HD)",
+    "site_id": "ARENA4",
+    "name": "Arena4 (HD)",
     "lang": "hu",
-    "xmltv_id": "TLC.hu@SD"
+    "xmltv_id": "Arena4.hu@SD"
   },
   {
-    "site_id": "TRACEURBAN",
-    "name": "Trace Urban (HD)",
+    "site_id": "CINEMAX",
+    "name": "Cinemax (HD)",
+    "lang": "hu",
+    "xmltv_id": "CinemaxCentralEurope.hu@HD"
+  },
+  {
+    "site_id": "EXTREMESP",
+    "name": "Extreme Sports Channel",
     "lang": "en",
-    "xmltv_id": "TraceUrban.fr@SD"
+    "xmltv_id": "ExtremeSportsChannel.nl@SD"
   },
   {
     "site_id": "FILMBOX_ARTHOUSE",
@@ -88,194 +352,22 @@
     "xmltv_id": "FilmBoxArthouse.nl@SD"
   },
   {
-    "site_id": "DAVINCI",
-    "name": "Da Vinci (HD)",
-    "lang": "hu",
-    "xmltv_id": "DaVinci.hu@SD"
-  },
-  {
-    "site_id": "FOODNETWORK",
-    "name": "Food Network (HD)",
-    "lang": "hu",
-    "xmltv_id": "FoodNetworkEMEA.us@SD"
-  },
-  {
-    "site_id": "TV4",
-    "name": "TV 4 (HD)",
-    "lang": "hu",
-    "xmltv_id": "TV4.hu@SD"
-  },
-  {
-    "site_id": "VIASATHIST",
-    "name": "Viasat History (HD)",
-    "lang": "hu",
-    "xmltv_id": "ViasatHistory.hu@SD"
-  },
-  {
-    "site_id": "VIASATNAT",
-    "name": "Viasat Nature (HD)",
-    "lang": "hu",
-    "xmltv_id": "ViasatNature.hu@SD"
-  },
-  {
-    "site_id": "FTVHD",
-    "name": "Fashion TV HD",
-    "lang": "hu",
-    "xmltv_id": "FashionTVEurope.fr@SD"
-  },
-  {
-    "site_id": "RTL_OTTHON",
-    "name": "RTL Otthon",
-    "lang": "hu"
-  },
-  {
-    "site_id": "SZAKCSI_RADIO",
-    "name": "Szakcsi Rádió",
-    "lang": "hu"
-  },
-  {
-    "site_id": "7TV",
-    "name": "7.TV",
-    "lang": "hu",
-    "xmltv_id": "7TV.hu@SD"
-  },
-  {
     "site_id": "GAMETOON",
     "name": "Gametoon (HD)",
     "lang": "hu",
     "xmltv_id": "Gametoon.nl@SD"
   },
   {
-    "site_id": "MR1",
-    "name": "Kossuth Rádió",
-    "lang": "hu"
-  },
-  {
-    "site_id": "OZONE_TV",
-    "name": "Ozone TV (HD)",
+    "site_id": "IZAURA_TV",
+    "name": "Izaura TV (HD)",
     "lang": "hu",
-    "xmltv_id": "OzoneTV.hu@SD"
+    "xmltv_id": "IzauraTV.hu@SD"
   },
   {
-    "site_id": "ZEG_TV",
-    "name": "Zalaegerszegi TV",
+    "site_id": "JOCKYTV",
+    "name": "Jocky TV",
     "lang": "hu",
-    "xmltv_id": "ZalaegerszegiTV.hu@SD"
-  },
-  {
-    "site_id": "CLASSICA",
-    "name": "Stingray Classica HD",
-    "lang": "en",
-    "xmltv_id": "StingrayClassica.ca@SD"
-  },
-  {
-    "site_id": "COMEDY",
-    "name": "Comedy Central (HD)",
-    "lang": "hu",
-    "xmltv_id": "ComedyCentral.hu@SD"
-  },
-  {
-    "site_id": "COOL",
-    "name": "Cool (HD)",
-    "lang": "hu",
-    "xmltv_id": "CoolTV.hu@SD"
-  },
-  {
-    "site_id": "GALAXY",
-    "name": "Galaxy 4 (HD)",
-    "lang": "hu",
-    "xmltv_id": "Galaxy4.hu@SD"
-  },
-  {
-    "site_id": "MR4",
-    "name": "Nemzetiségi Adások",
-    "lang": "hu"
-  },
-  {
-    "site_id": "NATGEOWILD",
-    "name": "National Geographic Wild (HD)",
-    "lang": "hu",
-    "xmltv_id": "NationalGeographicWild.hu@SD"
-  },
-  {
-    "site_id": "VASARHELYI_TV",
-    "name": "Vásárhelyi Televízió",
-    "lang": "hu"
-  },
-  {
-    "site_id": "AMC",
-    "name": "AMC (HD)",
-    "lang": "hu"
-  },
-  {
-    "site_id": "CARTOONITO",
-    "name": "Cartoonito",
-    "lang": "hu"
-  },
-  {
-    "site_id": "DOCUBOX_EN",
-    "name": "Docubox (HD)",
-    "lang": "hu",
-    "xmltv_id": "DocuBox.nl@SD"
-  },
-  {
-    "site_id": "FILMBOX_PREMIUM",
-    "name": "Filmbox Premium",
-    "lang": "hu",
-    "xmltv_id": "FilmBoxPremium.nl@Hungary"
-  },
-  {
-    "site_id": "LIFE_TV",
-    "name": "Life TV (HD)",
-    "lang": "hu",
-    "xmltv_id": "LifeTV.hu@SD"
-  },
-  {
-    "site_id": "M4_SPORT",
-    "name": "M4 Sport (HD)",
-    "lang": "hu",
-    "xmltv_id": "M4Sport.hu@SD"
-  },
-  {
-    "site_id": "EUROSPORT",
-    "name": "Eurosport 1 (HD)",
-    "lang": "hu",
-    "xmltv_id": "Eurosport1.fr@Hungary"
-  },
-  {
-    "site_id": "MTV90S",
-    "name": "MTV 90s",
-    "lang": "en",
-    "xmltv_id": "MTV90s.uk@SD"
-  },
-  {
-    "site_id": "ZENEBUTIK",
-    "name": "Zenebutik TV",
-    "lang": "hu",
-    "xmltv_id": "Zenebutik.hu@SD"
-  },
-  {
-    "site_id": "E_ENTERTAINMENT",
-    "name": "E! Entertainment (HD)",
-    "lang": "en",
-    "xmltv_id": "EEurope.nl@SD"
-  },
-  {
-    "site_id": "ELSO_KERULET_TV",
-    "name": "Első Kerület TV HD",
-    "lang": "hu"
-  },
-  {
-    "site_id": "HEGYVIDEK_TV",
-    "name": "Hegyvidék TV",
-    "lang": "hu",
-    "xmltv_id": "HegyvidekTV.hu@SD"
-  },
-  {
-    "site_id": "M1",
-    "name": "M1 (HD)",
-    "lang": "hu",
-    "xmltv_id": "M1.hu@SD"
+    "xmltv_id": "JockyTV.hu@SD"
   },
   {
     "site_id": "MTV_EURO",
@@ -284,28 +376,206 @@
     "xmltv_id": "MTVGlobal.uk@SD"
   },
   {
-    "site_id": "RTL",
-    "name": "RTL (HD) (RTL Klub)",
+    "site_id": "EPIC_DRAMA",
+    "name": "Epic Drama (HD)",
     "lang": "hu",
-    "xmltv_id": "RTL.hu@SD"
+    "xmltv_id": "EpicDrama.uk@Sweden"
   },
   {
-    "site_id": "SPEKTRUM",
-    "name": "Spektrum (HD)",
+    "site_id": "NATGEO",
+    "name": "National Geographic (HD)",
     "lang": "hu",
-    "xmltv_id": "Spektrum.hu@SD"
+    "xmltv_id": "NationalGeographic.hu@SD"
   },
   {
-    "site_id": "BALATON_TV",
-    "name": "Balaton TV",
-    "lang": "hu",
-    "xmltv_id": "BalatonTV.hu@SD"
+    "site_id": "SOROZAT_KLUB",
+    "name": "Sorozat Klub",
+    "lang": "hu"
   },
   {
-    "site_id": "CINEMAX",
-    "name": "Cinemax (HD)",
+    "site_id": "TRAVELXP",
+    "name": "Travel XP (HD)",
+    "lang": "en",
+    "xmltv_id": "Travelxp.in@SD"
+  },
+  {
+    "site_id": "BBCWORLD",
+    "name": "BBC World News",
     "lang": "hu",
-    "xmltv_id": "CinemaxCentralEurope.hu@HD"
+    "xmltv_id": "BBCNews.uk@Europe"
+  },
+  {
+    "site_id": "BBC_EARTH",
+    "name": "BBC Earth (HD)",
+    "lang": "hu",
+    "xmltv_id": "BBCEarth.uk@Romania"
+  },
+  {
+    "site_id": "CNBC",
+    "name": "CNBC",
+    "lang": "hu",
+    "xmltv_id": "CNBCEurope.uk@SD"
+  },
+  {
+    "site_id": "DIRECT_ONE_TV",
+    "name": "Direct One TV (HD)",
+    "lang": "hu",
+    "xmltv_id": "DirectOneTV.lu@SD"
+  },
+  {
+    "site_id": "TOTALDANCE_TV",
+    "name": "Total Dance TV (HD)",
+    "lang": "en",
+    "xmltv_id": "TotalDanceTV.hu@SD"
+  },
+  {
+    "site_id": "VASARHELYI_TV",
+    "name": "Vásárhelyi Televízió",
+    "lang": "hu"
+  },
+  {
+    "site_id": "VESZPREM_TV",
+    "name": "Veszprém TV HD",
+    "lang": "hu"
+  },
+  {
+    "site_id": "VIASATEXP",
+    "name": "Viasat Explore (HD)",
+    "lang": "hu",
+    "xmltv_id": "ViasatExplore.hu@SD"
+  },
+  {
+    "site_id": "DUNAWORLD",
+    "name": "Duna World (HD)",
+    "lang": "hu",
+    "xmltv_id": "DunaWorld.hu@SD"
+  },
+  {
+    "site_id": "RTL_OTTHON",
+    "name": "RTL Otthon",
+    "lang": "hu"
+  },
+  {
+    "site_id": "FIGHTBOX_EN",
+    "name": "Fightbox HD",
+    "lang": "en",
+    "xmltv_id": "FightBox.nl@SD"
+  },
+  {
+    "site_id": "FILMCAFE",
+    "name": "Film Café (HD)",
+    "lang": "hu",
+    "xmltv_id": "FilmCafe.hu@Hungary"
+  },
+  {
+    "site_id": "ID",
+    "name": "ID (HD)",
+    "lang": "hu",
+    "xmltv_id": "InvestigationDiscovery.hu@SD"
+  },
+  {
+    "site_id": "MAGYAR_MOZI_TV",
+    "name": "Magyar Mozi TV (HD)",
+    "lang": "hu",
+    "xmltv_id": "MagyarMoziTV.hu@SD"
+  },
+  {
+    "site_id": "MOZI_PLUSZ",
+    "name": "Mozi+ (HD)",
+    "lang": "hu",
+    "xmltv_id": "MoziPlus.hu@SD"
+  },
+  {
+    "site_id": "SOROZAT",
+    "name": "Sorozat+",
+    "lang": "hu",
+    "xmltv_id": "SorozatPlus.hu@SD"
+  },
+  {
+    "site_id": "SPILER2_TV",
+    "name": "Spíler2 TV (HD)",
+    "lang": "hu",
+    "xmltv_id": "Spiler2.hu@SD"
+  },
+  {
+    "site_id": "TV2_SEF",
+    "name": "TV2 Séf",
+    "lang": "hu",
+    "xmltv_id": "TV2Sef.hu@SD"
+  },
+  {
+    "site_id": "COOL",
+    "name": "Cool (HD)",
+    "lang": "hu",
+    "xmltv_id": "CoolTV.hu@SD"
+  },
+  {
+    "site_id": "D1TV",
+    "name": "D1 Televízió",
+    "lang": "hu",
+    "xmltv_id": "D1TV.hu@SD"
+  },
+  {
+    "site_id": "JAZZ_TV",
+    "name": "Jazz TV (HD)",
+    "lang": "hu"
+  },
+  {
+    "site_id": "PESTBUDA_TV",
+    "name": "PestBuda TV HD",
+    "lang": "hu"
+  },
+  {
+    "site_id": "SLAGERTV",
+    "name": "Sláger TV (HD)",
+    "lang": "hu",
+    "xmltv_id": "SlagerTV.hu@SD"
+  },
+  {
+    "site_id": "UJBUDA_TV",
+    "name": "Újbuda TV",
+    "lang": "hu",
+    "xmltv_id": "UjbudaTV.hu@SD"
+  },
+  {
+    "site_id": "VIASAT_FILM",
+    "name": "Viasat Film (HD)",
+    "lang": "hu"
+  },
+  {
+    "site_id": "EURONEWS",
+    "name": "Euronews (HD)",
+    "lang": "hu",
+    "xmltv_id": "EuronewsHungarian.fr@SD"
+  },
+  {
+    "site_id": "EUROSPORT4K",
+    "name": "Eurosport 4K",
+    "lang": "hu",
+    "xmltv_id": "Eurosport4K.fr@France"
+  },
+  {
+    "site_id": "FILMBOXFAMILY",
+    "name": "Filmbox Family",
+    "lang": "hu",
+    "xmltv_id": "FilmBoxFamily.nl@Africa"
+  },
+  {
+    "site_id": "FIT_HD",
+    "name": "Fit HD",
+    "lang": "hu",
+    "xmltv_id": "FitHD.hu@SD"
+  },
+  {
+    "site_id": "NICKJR",
+    "name": "Nick Jr",
+    "lang": "hu",
+    "xmltv_id": "NickJr.hu@SD"
+  },
+  {
+    "site_id": "RTL3",
+    "name": "RTL HÁROM (HD)",
+    "lang": "hu"
   },
   {
     "site_id": "DUCKTV",
@@ -320,20 +590,379 @@
     "xmltv_id": "Duna.hu@SD"
   },
   {
-    "site_id": "ENGLISH_CLUB_TV",
-    "name": "English Club TV",
-    "lang": "en",
-    "xmltv_id": "EnglishClubTV.uk@SD"
-  },
-  {
-    "site_id": "FILMCAFE",
-    "name": "Film Café (HD)",
+    "site_id": "SPILER_TV",
+    "name": "Spíler1 TV (HD)",
     "lang": "hu",
-    "xmltv_id": "FilmCafe.hu@Hungary"
+    "xmltv_id": "Spiler1.hu@SD"
   },
   {
-    "site_id": "HISTORYHD",
-    "name": "History (HD)",
+    "site_id": "SPORT1",
+    "name": "Sport 1 (HD)",
+    "lang": "hu",
+    "xmltv_id": "Sport1.hu@SD"
+  },
+  {
+    "site_id": "STORY4",
+    "name": "Story 4 (HD)",
+    "lang": "hu",
+    "xmltv_id": "Story4.hu@SD"
+  },
+  {
+    "site_id": "TV2",
+    "name": "TV2 (HD)",
+    "lang": "hu",
+    "xmltv_id": "TV2.hu@SD"
+  },
+  {
+    "site_id": "PAPRIKA",
+    "name": "TV Paprika (HD)",
+    "lang": "hu",
+    "xmltv_id": "TVPaprika.hu@SD"
+  },
+  {
+    "site_id": "RTL",
+    "name": "RTL (HD) (RTL Klub)",
+    "lang": "hu",
+    "xmltv_id": "RTL.hu@SD"
+  },
+  {
+    "site_id": "DAVINCI",
+    "name": "Da Vinci (HD)",
+    "lang": "hu",
+    "xmltv_id": "DaVinci.hu@SD"
+  },
+  {
+    "site_id": "LOVE_NATURE",
+    "name": "Love Nature (HD / 4K)",
+    "lang": "hu",
+    "xmltv_id": "LoveNature.ca@SD"
+  },
+  {
+    "site_id": "MTVHU",
+    "name": "MTV Hungary",
+    "lang": "hu"
+  },
+  {
+    "site_id": "MTVLIVEHD",
+    "name": "MTV Live HD",
+    "lang": "en",
+    "xmltv_id": "MTVLive.uk@SD"
+  },
+  {
+    "site_id": "RUSSKOE_KINO",
+    "name": "TV1000 Russian Kino",
+    "lang": "hu"
+  },
+  {
+    "site_id": "SZAKCSI_RADIO",
+    "name": "Szakcsi Rádió",
+    "lang": "hu"
+  },
+  {
+    "site_id": "JIMJAM",
+    "name": "JimJam",
+    "lang": "hu",
+    "xmltv_id": "JimJam.hu@SD"
+  },
+  {
+    "site_id": "MEZZO",
+    "name": "Mezzo",
+    "lang": "hu",
+    "xmltv_id": "Mezzo.fr@SD"
+  },
+  {
+    "site_id": "MOZIVERZUM",
+    "name": "Moziverzum (HD)",
+    "lang": "hu",
+    "xmltv_id": "Moziverzum.hu@SD"
+  },
+  {
+    "site_id": "DOCUBOX_EN",
+    "name": "Docubox (HD)",
+    "lang": "hu",
+    "xmltv_id": "DocuBox.nl@SD"
+  },
+  {
+    "site_id": "PAX",
+    "name": "PAX TV",
+    "lang": "hu",
+    "xmltv_id": "PaxTV.hu@SD"
+  },
+  {
+    "site_id": "SKYNEWS",
+    "name": "Sky News",
+    "lang": "en",
+    "xmltv_id": "SkyNewsInternational.uk@SD"
+  },
+  {
+    "site_id": "TRACEURBAN",
+    "name": "Trace Urban (HD)",
+    "lang": "en",
+    "xmltv_id": "TraceUrban.fr@SD"
+  },
+  {
+    "site_id": "VIASAT6",
+    "name": "Viasat 6",
+    "lang": "hu",
+    "xmltv_id": "Viasat6.hu@SD"
+  },
+  {
+    "site_id": "ATV_EXTRA",
+    "name": "ATV Extra (HD)",
+    "lang": "hu"
+  },
+  {
+    "site_id": "DUCKHD",
+    "name": "Duck TV HD",
+    "lang": "hu"
+  },
+  {
+    "site_id": "FILMBOX_PREMIUM",
+    "name": "Filmbox Premium",
+    "lang": "hu",
+    "xmltv_id": "FilmBoxPremium.nl@Hungary"
+  },
+  {
+    "site_id": "HEGYVIDEK_TV",
+    "name": "Hegyvidék TV",
+    "lang": "hu",
+    "xmltv_id": "HegyvidekTV.hu@SD"
+  },
+  {
+    "site_id": "HGTV",
+    "name": "HGTV (HD)",
+    "lang": "hu",
+    "xmltv_id": "HGTVLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PANNON_TV",
+    "name": "Pannon TV (Vajdaság)",
+    "lang": "hu",
+    "xmltv_id": "PannonTV.rs@SD"
+  },
+  {
+    "site_id": "SPEKTRUMHOME",
+    "name": "Spektrum Home (HD)",
+    "lang": "hu",
+    "xmltv_id": "SpektrumHome.hu@SD"
+  },
+  {
+    "site_id": "ZENEBUTIK",
+    "name": "Zenebutik TV",
+    "lang": "hu",
+    "xmltv_id": "Zenebutik.hu@SD"
+  },
+  {
+    "site_id": "M1",
+    "name": "M1 (HD)",
+    "lang": "hu",
+    "xmltv_id": "M1.hu@SD"
+  },
+  {
+    "site_id": "MR4",
+    "name": "Nemzetiségi Adások",
+    "lang": "hu"
+  },
+  {
+    "site_id": "SUPERTV2",
+    "name": "Super TV2 (HD)",
+    "lang": "hu",
+    "xmltv_id": "SuperTV2.hu@SD"
+  },
+  {
+    "site_id": "APOSTOL_TV",
+    "name": "Apostol TV",
+    "lang": "hu",
+    "xmltv_id": "ApostolTV.hu@SD"
+  },
+  {
+    "site_id": "E_ENTERTAINMENT",
+    "name": "E! Entertainment (HD)",
+    "lang": "en",
+    "xmltv_id": "EEurope.nl@SD"
+  },
+  {
+    "site_id": "ERDELY_TV",
+    "name": "Erdély TV",
+    "lang": "hu",
+    "xmltv_id": "ErdelyTV.ro@SD"
+  },
+  {
+    "site_id": "NESHAMA_TV",
+    "name": "Neshama TV",
+    "lang": "hu"
+  },
+  {
+    "site_id": "AUTO_MOTOR_SPORT",
+    "name": "Auto Motor Sport (HD)",
+    "lang": "hu",
+    "xmltv_id": "automotorundsportchannel.de@SD"
+  },
+  {
+    "site_id": "FOODNETWORK",
+    "name": "Food Network (HD)",
+    "lang": "hu",
+    "xmltv_id": "FoodNetworkEMEA.us@SD"
+  },
+  {
+    "site_id": "ICONCERTS",
+    "name": "Stingray iConcerts HD",
+    "lang": "hu",
+    "xmltv_id": "StingrayiConcerts.ca@SD"
+  },
+  {
+    "site_id": "360TUNEBOX",
+    "name": "360 TuneBox",
+    "lang": "hu"
+  },
+  {
+    "site_id": "DEBRECEN_TV",
+    "name": "Debrecen TV",
+    "lang": "hu"
+  },
+  {
+    "site_id": "MR3",
+    "name": "Bartók Rádió",
+    "lang": "hu"
+  },
+  {
+    "site_id": "NICKTOONS",
+    "name": "Nicktoons (HD)",
+    "lang": "hu",
+    "xmltv_id": "Nicktoons.ro@SD"
+  },
+  {
+    "site_id": "SPORT2",
+    "name": "Sport 2 (HD)",
+    "lang": "hu",
+    "xmltv_id": "Sport2.hu@SD"
+  },
+  {
+    "site_id": "TV2_KIDS",
+    "name": "TV2 Kids",
+    "lang": "hu",
+    "xmltv_id": "TV2Kids.hu@SD"
+  },
+  {
+    "site_id": "TV2_KLUB",
+    "name": "TV2 Klub",
+    "lang": "hu"
+  },
+  {
+    "site_id": "AMC",
+    "name": "AMC (HD)",
+    "lang": "hu"
+  },
+  {
+    "site_id": "BABYTV",
+    "name": "Baby TV",
+    "lang": "hu",
+    "xmltv_id": "BabyTV.uk@UK"
+  },
+  {
+    "site_id": "FEHERVAR_TV",
+    "name": "Fehérvár TV",
+    "lang": "hu",
+    "xmltv_id": "FehervarTV.hu@SD"
+  },
+  {
+    "site_id": "KAPOS_TV",
+    "name": "Kapos TV",
+    "lang": "hu",
+    "xmltv_id": "KaposTV.hu@SD"
+  },
+  {
+    "site_id": "KOLYOK_KLUB",
+    "name": "Kölyök Klub",
+    "lang": "hu"
+  },
+  {
+    "site_id": "RTL_GOLD",
+    "name": "RTL Gold",
+    "lang": "hu",
+    "xmltv_id": "RTLGold.hu@SD"
+  },
+  {
+    "site_id": "TRAVEL",
+    "name": "Travel Channel (HD)",
+    "lang": "hu",
+    "xmltv_id": "TravelChannelEMEA.uk@SD"
+  },
+  {
+    "site_id": "FILM4",
+    "name": "Film 4 (HD)",
+    "lang": "hu",
+    "xmltv_id": "Film4.hu@SD"
+  },
+  {
+    "site_id": "FTVHD",
+    "name": "Fashion TV HD",
+    "lang": "hu",
+    "xmltv_id": "FashionTVEurope.fr@SD"
+  },
+  {
+    "site_id": "GALAXY",
+    "name": "Galaxy 4 (HD)",
+    "lang": "hu",
+    "xmltv_id": "Galaxy4.hu@SD"
+  },
+  {
+    "site_id": "CMUSIC",
+    "name": "Stingray C Music",
+    "lang": "en",
+    "xmltv_id": "StingrayCMusic.ca@SD"
+  },
+  {
+    "site_id": "HETI_TV",
+    "name": "Heti TV",
+    "lang": "hu",
+    "xmltv_id": "HetiTV.hu@SD"
+  },
+  {
+    "site_id": "M4_SPORT",
+    "name": "M4 Sport (HD)",
+    "lang": "hu",
+    "xmltv_id": "M4Sport.hu@SD"
+  },
+  {
+    "site_id": "MTV00S",
+    "name": "MTV 00s",
+    "lang": "en",
+    "xmltv_id": "MTV00s.uk@SD"
+  },
+  {
+    "site_id": "TV4",
+    "name": "TV 4 (HD)",
+    "lang": "hu",
+    "xmltv_id": "TV4.hu@SD"
+  },
+  {
+    "site_id": "VIASAT3",
+    "name": "Viasat 3 (HD)",
+    "lang": "hu",
+    "xmltv_id": "Viasat3.hu@SD"
+  },
+  {
+    "site_id": "ATV",
+    "name": "ATV (HD)",
+    "lang": "hu",
+    "xmltv_id": "ATV.hu@SD"
+  },
+  {
+    "site_id": "HBO2",
+    "name": "HBO 2 (HD)",
+    "lang": "hu",
+    "xmltv_id": "HBO2CentralEurope.hu@HD"
+  },
+  {
+    "site_id": "DISNEY",
+    "name": "Disney Channel",
+    "lang": "hu",
+    "xmltv_id": "DisneyChannel.hu@SD"
+  },
+  {
+    "site_id": "FASHIONTV",
+    "name": "Fashion TV",
     "lang": "hu"
   },
   {
@@ -343,189 +972,21 @@
     "xmltv_id": "Minimax.hu@SD"
   },
   {
-    "site_id": "DISNEY",
-    "name": "Disney Channel",
-    "lang": "hu",
-    "xmltv_id": "DisneyChannel.hu@SD"
-  },
-  {
-    "site_id": "HBO3",
-    "name": "HBO 3 (HD)",
-    "lang": "hu",
-    "xmltv_id": "HBO3CentralEurope.hu@HD"
-  },
-  {
-    "site_id": "MKR",
-    "name": "Magyar Katolikus Rádió",
+    "site_id": "MR1",
+    "name": "Kossuth Rádió",
     "lang": "hu"
   },
   {
-    "site_id": "TRAVELXP",
-    "name": "Travel XP (HD)",
-    "lang": "en",
-    "xmltv_id": "Travelxp.in@SD"
-  },
-  {
-    "site_id": "CSUKAS_RADIO",
-    "name": "Csukás Meserádió",
-    "lang": "hu"
-  },
-  {
-    "site_id": "EUROSPORT4K",
-    "name": "Eurosport 4K",
+    "site_id": "SPEKTRUM",
+    "name": "Spektrum (HD)",
     "lang": "hu",
-    "xmltv_id": "Eurosport4K.fr@France"
+    "xmltv_id": "Spektrum.hu@SD"
   },
   {
-    "site_id": "FILMBOX_EXTRA_HD",
-    "name": "Filmbox Extra HD",
+    "site_id": "M4_SPORT_PLUSZ",
+    "name": "M4 Sport+ (HD)",
     "lang": "hu",
-    "xmltv_id": "FilmBoxExtra.nl@Hungary"
-  },
-  {
-    "site_id": "HIRTV",
-    "name": "Hír TV (HD)",
-    "lang": "hu",
-    "xmltv_id": "HirTV.hu@SD"
-  },
-  {
-    "site_id": "PARAMOUNT",
-    "name": "Paramount Network (HD)",
-    "lang": "hu",
-    "xmltv_id": "ParamountNetwork.hu@SD"
-  },
-  {
-    "site_id": "TEENNICK",
-    "name": "TeenNick",
-    "lang": "hu",
-    "xmltv_id": "TeenNick.hu@SD"
-  },
-  {
-    "site_id": "TV2_KLUB",
-    "name": "TV2 Klub",
-    "lang": "hu"
-  },
-  {
-    "site_id": "TV_EGER",
-    "name": "TV Eger",
-    "lang": "hu",
-    "xmltv_id": "TVEger.hu@SD"
-  },
-  {
-    "site_id": "AUTO_MOTOR_SPORT",
-    "name": "Auto Motor Sport (HD)",
-    "lang": "hu",
-    "xmltv_id": "automotorundsportchannel.de@SD"
-  },
-  {
-    "site_id": "FEHERVAR_TV",
-    "name": "Fehérvár TV",
-    "lang": "hu",
-    "xmltv_id": "FehervarTV.hu@SD"
-  },
-  {
-    "site_id": "KOLCSEY_TV",
-    "name": "Kölcsey TV",
-    "lang": "hu",
-    "xmltv_id": "KolcseyTV.hu@SD"
-  },
-  {
-    "site_id": "MTVHITS",
-    "name": "MTV Hits",
-    "lang": "en",
-    "xmltv_id": "MTVHitsEurope.uk@SD"
-  },
-  {
-    "site_id": "SPILER_TV",
-    "name": "Spíler1 TV (HD)",
-    "lang": "hu",
-    "xmltv_id": "Spiler1.hu@SD"
-  },
-  {
-    "site_id": "VIASAT6",
-    "name": "Viasat 6",
-    "lang": "hu",
-    "xmltv_id": "Viasat6.hu@SD"
-  },
-  {
-    "site_id": "VIASAT_FILM",
-    "name": "Viasat Film (HD)",
-    "lang": "hu"
-  },
-  {
-    "site_id": "VIASATEXP",
-    "name": "Viasat Explore (HD)",
-    "lang": "hu",
-    "xmltv_id": "ViasatExplore.hu@SD"
-  },
-  {
-    "site_id": "APOSTOL_TV",
-    "name": "Apostol TV",
-    "lang": "hu",
-    "xmltv_id": "ApostolTV.hu@SD"
-  },
-  {
-    "site_id": "ATV",
-    "name": "ATV (HD)",
-    "lang": "hu",
-    "xmltv_id": "ATV.hu@SD"
-  },
-  {
-    "site_id": "DISCOVERY",
-    "name": "Discovery Channel (HD)",
-    "lang": "hu",
-    "xmltv_id": "DiscoveryChannel.hu@SD"
-  },
-  {
-    "site_id": "ICONCERTS",
-    "name": "Stingray iConcerts HD",
-    "lang": "hu",
-    "xmltv_id": "StingrayiConcerts.ca@SD"
-  },
-  {
-    "site_id": "SLAGERTV",
-    "name": "Sláger TV (HD)",
-    "lang": "hu",
-    "xmltv_id": "SlagerTV.hu@SD"
-  },
-  {
-    "site_id": "SPORT1",
-    "name": "Sport 1 (HD)",
-    "lang": "hu",
-    "xmltv_id": "Sport1.hu@SD"
-  },
-  {
-    "site_id": "TV2_COMEDY",
-    "name": "TV2 Comedy",
-    "lang": "hu",
-    "xmltv_id": "TV2Comedy.hu@SD"
-  },
-  {
-    "site_id": "CNN",
-    "name": "CNN",
-    "lang": "hu",
-    "xmltv_id": "CNNInternational.us@MENA"
-  },
-  {
-    "site_id": "FASHIONTV",
-    "name": "Fashion TV",
-    "lang": "hu"
-  },
-  {
-    "site_id": "HBOHD",
-    "name": "HBO (HD)",
-    "lang": "hu"
-  },
-  {
-    "site_id": "MR3",
-    "name": "Bartók Rádió",
-    "lang": "hu"
-  },
-  {
-    "site_id": "TOTALDANCE_TV",
-    "name": "Total Dance TV (HD)",
-    "lang": "en",
-    "xmltv_id": "TotalDanceTV.hu@SD"
+    "xmltv_id": "M4SportPlus.hu@SD"
   },
   {
     "site_id": "TRACESPORTS",
@@ -534,21 +995,16 @@
     "xmltv_id": "TraceSportStars.fr@HD"
   },
   {
-    "site_id": "TRAVEL",
-    "name": "Travel Channel (HD)",
+    "site_id": "TV_EGER",
+    "name": "TV Eger",
     "lang": "hu",
-    "xmltv_id": "TravelChannelEMEA.uk@SD"
+    "xmltv_id": "TVEger.hu@SD"
   },
   {
-    "site_id": "TV2_KIDS",
-    "name": "TV2 Kids",
+    "site_id": "COMEDY",
+    "name": "Comedy Central (HD)",
     "lang": "hu",
-    "xmltv_id": "TV2Kids.hu@SD"
-  },
-  {
-    "site_id": "DUCKHD",
-    "name": "Duck TV HD",
-    "lang": "hu"
+    "xmltv_id": "ComedyCentral.hu@SD"
   },
   {
     "site_id": "EUROSPORT2",
@@ -557,362 +1013,20 @@
     "xmltv_id": "Eurosport2.fr@Hungary"
   },
   {
-    "site_id": "GYONGYOS_TV",
-    "name": "Gyöngyös TV HD",
-    "lang": "hu"
-  },
-  {
-    "site_id": "TV2_SEF",
-    "name": "TV2 Séf",
-    "lang": "hu",
-    "xmltv_id": "TV2Sef.hu@SD"
-  },
-  {
-    "site_id": "MOZIVERZUM",
-    "name": "Moziverzum (HD)",
-    "lang": "hu",
-    "xmltv_id": "Moziverzum.hu@SD"
-  },
-  {
-    "site_id": "VESZPREM_TV",
-    "name": "Veszprém TV HD",
-    "lang": "hu"
-  },
-  {
-    "site_id": "ANIMAL",
-    "name": "Animal Planet (HD)",
-    "lang": "hu",
-    "xmltv_id": "AnimalPlanetEurope.uk@SD"
-  },
-  {
-    "site_id": "BABYTV",
-    "name": "Baby TV",
-    "lang": "hu",
-    "xmltv_id": "BabyTV.uk@UK"
-  },
-  {
-    "site_id": "DANKO_RADIO",
-    "name": "Dankó Rádió",
-    "lang": "hu"
-  },
-  {
-    "site_id": "DUNAWORLD",
-    "name": "Duna World (HD)",
-    "lang": "hu",
-    "xmltv_id": "DunaWorld.hu@SD"
-  },
-  {
-    "site_id": "ERDELY_TV",
-    "name": "Erdély TV",
-    "lang": "hu",
-    "xmltv_id": "ErdelyTV.ro@SD"
-  },
-  {
-    "site_id": "JOCKYTV",
-    "name": "Jocky TV",
-    "lang": "hu",
-    "xmltv_id": "JockyTV.hu@SD"
-  },
-  {
-    "site_id": "NATGEO",
-    "name": "National Geographic (HD)",
-    "lang": "hu",
-    "xmltv_id": "NationalGeographic.hu@SD"
-  },
-  {
-    "site_id": "PAPRIKA",
-    "name": "TV Paprika (HD)",
-    "lang": "hu",
-    "xmltv_id": "TVPaprika.hu@SD"
-  },
-  {
-    "site_id": "AXN",
-    "name": "AXN (HD)",
-    "lang": "hu"
-  },
-  {
-    "site_id": "DIRECT_ONE_TV",
-    "name": "Direct One TV (HD)",
-    "lang": "hu",
-    "xmltv_id": "DirectOneTV.lu@SD"
-  },
-  {
-    "site_id": "HETI_TV",
-    "name": "Heti TV",
-    "lang": "hu",
-    "xmltv_id": "HetiTV.hu@SD"
-  },
-  {
-    "site_id": "HGTV",
-    "name": "HGTV (HD)",
-    "lang": "hu",
-    "xmltv_id": "HGTVLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "MAGYAR_MOZI_TV",
-    "name": "Magyar Mozi TV (HD)",
-    "lang": "hu",
-    "xmltv_id": "MagyarMoziTV.hu@SD"
-  },
-  {
-    "site_id": "MTVLIVEHD",
-    "name": "MTV Live HD",
-    "lang": "en",
-    "xmltv_id": "MTVLive.uk@SD"
-  },
-  {
-    "site_id": "PAX",
-    "name": "PAX TV",
-    "lang": "hu",
-    "xmltv_id": "PaxTV.hu@SD"
-  },
-  {
-    "site_id": "RTL2",
-    "name": "RTL KETTŐ (HD)",
-    "lang": "hu",
-    "xmltv_id": "RTLKetto.hu@SD"
-  },
-  {
-    "site_id": "DEBRECEN_TV",
-    "name": "Debrecen TV",
-    "lang": "hu"
-  },
-  {
-    "site_id": "EPIC_DRAMA",
-    "name": "Epic Drama (HD)",
-    "lang": "hu",
-    "xmltv_id": "EpicDrama.uk@Sweden"
-  },
-  {
-    "site_id": "FILMBOXFAMILY",
-    "name": "Filmbox Family",
-    "lang": "hu",
-    "xmltv_id": "FilmBoxFamily.nl@Africa"
-  },
-  {
-    "site_id": "FUNBOX_UHD",
-    "name": "Funbox UltraHD 4K",
-    "lang": "hu",
-    "xmltv_id": "FunBoxUHD.nl@SD"
-  },
-  {
-    "site_id": "LOVE_NATURE",
-    "name": "Love Nature (HD / 4K)",
-    "lang": "hu",
-    "xmltv_id": "LoveNature.ca@SD"
-  },
-  {
-    "site_id": "MOZI_KLUB",
-    "name": "Mozi Klub",
-    "lang": "hu"
-  },
-  {
-    "site_id": "NICKELODEONHD",
-    "name": "Nickelodeon HD",
-    "lang": "hu"
-  },
-  {
-    "site_id": "SKYNEWS",
-    "name": "Sky News",
-    "lang": "en",
-    "xmltv_id": "SkyNewsInternational.uk@SD"
-  },
-  {
-    "site_id": "FILMPLUS",
-    "name": "film+ (HD)",
-    "lang": "hu",
-    "xmltv_id": "FilmPlus.hu@SD"
-  },
-  {
-    "site_id": "JIMJAM",
-    "name": "JimJam",
-    "lang": "hu",
-    "xmltv_id": "JimJam.hu@SD"
-  },
-  {
-    "site_id": "M2",
-    "name": "M2 / Petőfi (HD)",
-    "lang": "hu",
-    "xmltv_id": "M2.hu@SD"
-  },
-  {
-    "site_id": "RTL3",
-    "name": "RTL HÁROM (HD)",
-    "lang": "hu"
-  },
-  {
-    "site_id": "TV2",
-    "name": "TV2 (HD)",
-    "lang": "hu",
-    "xmltv_id": "TV2.hu@SD"
-  },
-  {
-    "site_id": "VIASAT3",
-    "name": "Viasat 3 (HD)",
-    "lang": "hu",
-    "xmltv_id": "Viasat3.hu@SD"
-  },
-  {
-    "site_id": "FILM4",
-    "name": "Film 4 (HD)",
-    "lang": "hu",
-    "xmltv_id": "Film4.hu@SD"
-  },
-  {
-    "site_id": "NICKELODEON",
-    "name": "Nickelodeon",
-    "lang": "hu",
-    "xmltv_id": "Nickelodeon.hu@SD"
-  },
-  {
-    "site_id": "PESTBUDA_TV",
-    "name": "PestBuda TV HD",
-    "lang": "hu"
-  },
-  {
-    "site_id": "JAZZ_TV",
-    "name": "Jazz TV (HD)",
-    "lang": "hu"
-  },
-  {
-    "site_id": "MATCH4",
-    "name": "Match4 (HD)",
-    "lang": "hu",
-    "xmltv_id": "Match4.hu@SD"
-  },
-  {
-    "site_id": "MAX4",
-    "name": "Max 4",
-    "lang": "hu",
-    "xmltv_id": "MAX4.hu@SD"
-  },
-  {
-    "site_id": "MTV00S",
-    "name": "MTV 00s",
-    "lang": "en",
-    "xmltv_id": "MTV00s.uk@SD"
-  },
-  {
-    "site_id": "PRIME",
-    "name": "Prime (HD)",
-    "lang": "hu",
-    "xmltv_id": "Prime.hu@SD"
-  },
-  {
-    "site_id": "RTL_GOLD",
-    "name": "RTL Gold",
-    "lang": "hu",
-    "xmltv_id": "RTLGold.hu@SD"
-  },
-  {
-    "site_id": "IZAURA_TV",
-    "name": "Izaura TV (HD)",
-    "lang": "hu",
-    "xmltv_id": "IzauraTV.hu@SD"
-  },
-  {
-    "site_id": "MR2",
-    "name": "Petőfi Rádió",
-    "lang": "hu"
-  },
-  {
-    "site_id": "MUZSIKATV",
-    "name": "Muzsika TV",
-    "lang": "hu",
-    "xmltv_id": "MuzsikaTV.hu@SD"
-  },
-  {
-    "site_id": "RUSSKOE_KINO",
-    "name": "TV1000 Russian Kino",
-    "lang": "hu"
-  },
-  {
-    "site_id": "VIASAT2",
-    "name": "Viasat 2",
-    "lang": "hu",
-    "xmltv_id": "Viasat2.hu@SD"
-  },
-  {
-    "site_id": "SPILER2_TV",
-    "name": "Spíler2 TV (HD)",
-    "lang": "hu",
-    "xmltv_id": "Spiler2.hu@SD"
-  },
-  {
-    "site_id": "STORY4",
-    "name": "Story 4 (HD)",
-    "lang": "hu",
-    "xmltv_id": "Story4.hu@SD"
-  },
-  {
     "site_id": "FILMBOX",
     "name": "Filmbox (HD)",
     "lang": "hu"
   },
   {
-    "site_id": "FIT_HD",
-    "name": "Fit HD",
+    "site_id": "FILMBOX_EXTRA_HD",
+    "name": "Filmbox Extra HD",
     "lang": "hu",
-    "xmltv_id": "FitHD.hu@SD"
+    "xmltv_id": "FilmBoxExtra.nl@Hungary"
   },
   {
-    "site_id": "ID",
-    "name": "ID (HD)",
-    "lang": "hu",
-    "xmltv_id": "InvestigationDiscovery.hu@SD"
-  },
-  {
-    "site_id": "EXTREMESP",
-    "name": "Extreme Sports Channel",
-    "lang": "en",
-    "xmltv_id": "ExtremeSportsChannel.nl@SD"
-  },
-  {
-    "site_id": "FILMBOX_STARS",
-    "name": "Filmbox Stars",
-    "lang": "hu",
-    "xmltv_id": "FilmBoxStars.nl@Hungary"
-  },
-  {
-    "site_id": "MR_SPORT_RADIO",
-    "name": "Nemzeti Sport Rádió",
+    "site_id": "GYONGYOS_TV",
+    "name": "Gyöngyös TV HD",
     "lang": "hu"
-  },
-  {
-    "site_id": "SPORT2",
-    "name": "Sport 2 (HD)",
-    "lang": "hu",
-    "xmltv_id": "Sport2.hu@SD"
-  },
-  {
-    "site_id": "BBC_EARTH",
-    "name": "BBC Earth (HD)",
-    "lang": "hu",
-    "xmltv_id": "BBCEarth.uk@Romania"
-  },
-  {
-    "site_id": "CARTOON",
-    "name": "Cartoon Network",
-    "lang": "hu",
-    "xmltv_id": "CartoonNetworkCEE.uk@Hungary"
-  },
-  {
-    "site_id": "D1TV",
-    "name": "D1 Televízió",
-    "lang": "hu",
-    "xmltv_id": "D1TV.hu@SD"
-  },
-  {
-    "site_id": "HBO2",
-    "name": "HBO 2 (HD)",
-    "lang": "hu",
-    "xmltv_id": "HBO2CentralEurope.hu@HD"
-  },
-  {
-    "site_id": "M5",
-    "name": "M5 (HD)",
-    "lang": "hu",
-    "xmltv_id": "M5.hu@SD"
   },
   {
     "site_id": "MTV80S",
@@ -921,129 +1035,15 @@
     "xmltv_id": "MTV80s.uk@SD"
   },
   {
-    "site_id": "PANNON_TV",
-    "name": "Pannon TV (Vajdaság)",
+    "site_id": "HIRTV",
+    "name": "Hír TV (HD)",
     "lang": "hu",
-    "xmltv_id": "PannonTV.rs@SD"
+    "xmltv_id": "HirTV.hu@SD"
   },
   {
-    "site_id": "SUPERTV2",
-    "name": "Super TV2 (HD)",
+    "site_id": "VIASATNAT",
+    "name": "Viasat Nature (HD)",
     "lang": "hu",
-    "xmltv_id": "SuperTV2.hu@SD"
-  },
-  {
-    "site_id": "EURONEWS",
-    "name": "Euronews (HD)",
-    "lang": "hu",
-    "xmltv_id": "EuronewsHungarian.fr@SD"
-  },
-  {
-    "site_id": "UJBUDA_TV",
-    "name": "Újbuda TV",
-    "lang": "hu",
-    "xmltv_id": "UjbudaTV.hu@SD"
-  },
-  {
-    "site_id": "FISHING_HUNTING",
-    "name": "Fishing \u0026 Hunting Channel (HD)",
-    "lang": "hu",
-    "xmltv_id": "TheFishingHuntingChannel.hu@SD"
-  },
-  {
-    "site_id": "M3",
-    "name": "M3 (online)",
-    "lang": "hu"
-  },
-  {
-    "site_id": "MEZZO",
-    "name": "Mezzo",
-    "lang": "hu",
-    "xmltv_id": "Mezzo.fr@SD"
-  },
-  {
-    "site_id": "MTVHU",
-    "name": "MTV Hungary",
-    "lang": "hu"
-  },
-  {
-    "site_id": "TRAVELXP_4K",
-    "name": "Travel XP 4K",
-    "lang": "hu"
-  },
-  {
-    "site_id": "360TUNEBOX",
-    "name": "360 TuneBox",
-    "lang": "hu"
-  },
-  {
-    "site_id": "CNBC",
-    "name": "CNBC",
-    "lang": "hu",
-    "xmltv_id": "CNBCEurope.uk@SD"
-  },
-  {
-    "site_id": "DIKH_TV",
-    "name": "Dikh TV (HD)",
-    "lang": "hu",
-    "xmltv_id": "DikhTV.hu@SD"
-  },
-  {
-    "site_id": "SOROZAT",
-    "name": "Sorozat+",
-    "lang": "hu",
-    "xmltv_id": "SorozatPlus.hu@SD"
-  },
-  {
-    "site_id": "ATV_EXTRA",
-    "name": "ATV Extra (HD)",
-    "lang": "hu"
-  },
-  {
-    "site_id": "CINEMAX2",
-    "name": "Cinemax 2 (HD)",
-    "lang": "hu",
-    "xmltv_id": "Cinemax2CentralEurope.hu@HD"
-  },
-  {
-    "site_id": "CLUB_MTV",
-    "name": "club MTV",
-    "lang": "en",
-    "xmltv_id": "ClubMTVEurope.uk@SD"
-  },
-  {
-    "site_id": "CMUSIC",
-    "name": "Stingray C Music",
-    "lang": "en",
-    "xmltv_id": "StingrayCMusic.ca@SD"
-  },
-  {
-    "site_id": "KAPOS_TV",
-    "name": "Kapos TV",
-    "lang": "hu",
-    "xmltv_id": "KaposTV.hu@SD"
-  },
-  {
-    "site_id": "NESHAMA_TV",
-    "name": "Neshama TV",
-    "lang": "hu"
-  },
-  {
-    "site_id": "SPEKTRUMHOME",
-    "name": "Spektrum Home (HD)",
-    "lang": "hu",
-    "xmltv_id": "SpektrumHome.hu@SD"
-  },
-  {
-    "site_id": "ARENA4",
-    "name": "Arena4 (HD)",
-    "lang": "hu",
-    "xmltv_id": "Arena4.hu@SD"
-  },
-  {
-    "site_id": "BBCWORLD",
-    "name": "BBC World News",
-    "lang": "hu",
-    "xmltv_id": "BBCNews.uk@Europe"
+    "xmltv_id": "ViasatNature.hu@SD"
   }
 ]

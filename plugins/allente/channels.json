@@ -1,55 +1,61 @@
 [
   {
-    "site_id": "dk#0259",
-    "name": "V sport live 5 (T)",
+    "site_id": "fi#689",
+    "name": "YLE Teema \u0026 Fem HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0406",
+    "name": "TV 2 Sport 2 HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0051",
+    "name": "DR2 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0086",
+    "name": "Nickelodeon (Nordic) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#452",
+    "name": "DR1 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0200",
+    "name": "TV3 Sport HD (D) (T)",
     "lang": "da",
     "region": "DK"
   },
   {
-    "site_id": "fi#0159",
-    "name": "Viaplay 1 Urheilu HD (T)",
+    "site_id": "fi#0256",
+    "name": "V sport live 2 (T)",
     "lang": "fi",
     "region": "FI"
   },
   {
-    "site_id": "fi#0257",
-    "name": "V sport live 3 (T)",
+    "site_id": "fi#1024",
+    "name": "Eurosport 2 HD (S/F) (T)",
     "lang": "fi",
     "region": "FI"
   },
   {
-    "site_id": "fi#1078",
-    "name": "MTV Sub HD (F) (T)",
+    "site_id": "fi#1076",
+    "name": "MTV3 HD (F) (T)",
     "lang": "fi",
     "region": "FI"
   },
   {
-    "site_id": "no#0033",
-    "name": "CNN (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0149",
-    "name": "Kunskapskanalen HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0320",
-    "name": "V series HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0321",
-    "name": "V film premiere HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#1080",
-    "name": "liv HD (F) (T)",
+    "site_id": "fi#1083",
+    "name": "Discovery Channel HD (F) (T)",
     "lang": "fi",
     "region": "FI"
   },
@@ -60,494 +66,50 @@
     "region": "NO"
   },
   {
-    "site_id": "no#0256",
-    "name": "V sport live 2 (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0084",
-    "name": "National Geographic HD (S/F) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#969",
-    "name": "TV4 Hits HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#1087",
-    "name": "MTV Urheilu 2 HD (F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "dk#0288",
-    "name": "NRK2 HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0320",
-    "name": "V series HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#418",
-    "name": "V sport ultra HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "se#0148",
-    "name": "SVT1 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0282",
-    "name": "SVT2 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0325",
-    "name": "TV4 Sportkanalen HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#418",
-    "name": "V sport ultra HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#666",
-    "name": "TV8 HD (S) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#1039",
-    "name": "ID Investigation Discovery (S/F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0187",
-    "name": "TV 2 Direkte HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0016",
-    "name": "BBC News (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0255",
-    "name": "V sport live 1 (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0292",
-    "name": "V sport motor HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#661",
-    "name": "TV4 Sport Live 3 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "no#0121",
-    "name": "SVT1 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0288",
-    "name": "NRK2 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1012",
-    "name": "TLC Norge HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0255",
-    "name": "V sport live 1 (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#643",
-    "name": "HBO Max Extra 7 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#662",
-    "name": "TV4 Sport Live 4 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1001",
-    "name": "SkyShowtime 2 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0209",
-    "name": "TV 2 Echo HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0256",
-    "name": "V sport live 2 (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "no#0357",
-    "name": "Viasat History HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0364",
-    "name": "V sport golf HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#668",
-    "name": "Horse \u0026 Country (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#596",
-    "name": "Sky News (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1008",
-    "name": "Bloomberg (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0148",
-    "name": "SVT1 HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0282",
-    "name": "SVT2 HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0289",
-    "name": "NRK3/ NRK Super HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#570",
-    "name": "Nicktoons (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#1097",
-    "name": "Mezzo Live (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0016",
-    "name": "BBC News (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#0147",
-    "name": "SVT Barn HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#0274",
-    "name": "Viaplay 3 Urheilu HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "dk#0028",
-    "name": "Cartoon Network (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0374",
-    "name": "TV3 MAX HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "no#1089",
-    "name": "Heim HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#972",
-    "name": "SF Kanalen (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1051",
-    "name": "V sport Premier League 4 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0086",
+    "site_id": "no#0086",
     "name": "Nickelodeon (Nordic) (T)",
-    "lang": "se",
-    "region": "SE"
+    "lang": "no",
+    "region": "NO"
   },
   {
-    "site_id": "se#0356",
-    "name": "Viasat Nature HD (T)",
-    "lang": "se",
-    "region": "SE"
+    "site_id": "dk#0258",
+    "name": "V sport live 4 (T)",
+    "lang": "da",
+    "region": "DK"
   },
   {
-    "site_id": "se#570",
-    "name": "Nicktoons (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#570",
-    "name": "Nicktoons (T)",
+    "site_id": "fi#0032",
+    "name": "CNBC (T)",
     "lang": "fi",
     "region": "FI"
+  },
+  {
+    "site_id": "se#0320",
+    "name": "V series HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0362",
+    "name": "V sport 1 HD (S/F) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#657",
+    "name": "TV4 Fotboll HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#722",
+    "name": "Godare (T)",
+    "lang": "se",
+    "region": "SE"
   },
   {
     "site_id": "fi#1097",
     "name": "Mezzo Live (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0320",
-    "name": "V series HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0361",
-    "name": "TV3+ HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#637",
-    "name": "HBO Max Extra 1 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#660",
-    "name": "TV4 Sport Live 2 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "no#0405",
-    "name": "TV 2 Zebra HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#970",
-    "name": "TV4 Stars HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1007",
-    "name": "DW English (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "no#0032",
-    "name": "CNBC (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0316",
-    "name": "National Geographic HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0256",
-    "name": "V sport live 2 (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#596",
-    "name": "Sky News (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "no#0271",
-    "name": "V sport+ HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1001",
-    "name": "SkyShowtime 2 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "fi#0358",
-    "name": "Viasat Explore HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "dk#0016",
-    "name": "BBC News (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0378",
-    "name": "TV 2 Fri HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "se#0227",
-    "name": "TV4 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0367",
-    "name": "Eurosport 2 HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0368",
-    "name": "CANAL9 HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0362",
-    "name": "V sport 1 HD (S/F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#1096",
-    "name": "Moonbug (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0344",
-    "name": "Al Jazeera English (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1050",
-    "name": "V sport Premier League 3 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "dk#0051",
-    "name": "DR2 HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0076",
-    "name": "MTV (Nordic) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0364",
-    "name": "V sport golf HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0308",
-    "name": "V film family (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#535",
-    "name": "VOX HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0257",
-    "name": "V sport live 3 (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#1002",
-    "name": "SkyShowtime 1 HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0028",
-    "name": "Cartoon Network (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#1081",
-    "name": "JIM HD (F) (T)",
     "lang": "fi",
     "region": "FI"
   },
@@ -558,26 +120,296 @@
     "region": "NO"
   },
   {
-    "site_id": "no#1034",
-    "name": "VGTV HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1047",
-    "name": "V sport Premier League HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0088",
-    "name": "Nick Jr. (T)",
+    "site_id": "se#474",
+    "name": "Kanal 9 HD (S) (T)",
     "lang": "se",
     "region": "SE"
   },
   {
-    "site_id": "se#667",
-    "name": "TV10 HD (S) (T)",
+    "site_id": "dk#0086",
+    "name": "Nickelodeon (Nordic) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#718",
+    "name": "TV 2 Sport X HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1094",
+    "name": "Love Nature HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0364",
+    "name": "V sport golf HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "se#660",
+    "name": "TV4 Sport Live 2 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0297",
+    "name": "TV 2 HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#668",
+    "name": "Horse \u0026 Country (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "no#0358",
+    "name": "Viasat Explore HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#527",
+    "name": "V sport premium HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#664",
+    "name": "TV12 HD (S) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#675",
+    "name": "TV4 Tennis HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1023",
+    "name": "Eurosport 1 HD (S) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1094",
+    "name": "Love Nature HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0320",
+    "name": "V series HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1002",
+    "name": "SkyShowtime 1 HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1015",
+    "name": "Sport Live (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "no#0149",
+    "name": "Kunskapskanalen HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0308",
+    "name": "V film family (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0365",
+    "name": "V sport 1 HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#457",
+    "name": "TV 2 Nyheter HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#493",
+    "name": "Discovery Channel HD (S) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "no#0258",
+    "name": "V sport live 4 (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#668",
+    "name": "Horse \u0026 Country (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1039",
+    "name": "ID Investigation Discovery (S/F) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "fi#0308",
+    "name": "V film family (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0277",
+    "name": "TV 2 Livsstil HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0299",
+    "name": "V film action HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1038",
+    "name": "TLC Sverige HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1101",
+    "name": "Dizi",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0148",
+    "name": "SVT1 HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "no#0016",
+    "name": "BBC News (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1002",
+    "name": "SkyShowtime 1 HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0016",
+    "name": "BBC News (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0209",
+    "name": "TV 2 Echo HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1001",
+    "name": "SkyShowtime 2 HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#1016",
+    "name": "BBC Nordic HD (D/F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0321",
+    "name": "V film premiere HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0289",
+    "name": "NRK3/ NRK Super HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0322",
+    "name": "V film hits HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1000",
+    "name": "ATG Live HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#570",
+    "name": "Nicktoons (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0147",
+    "name": "SVT Barn HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#1101",
+    "name": "Dizi",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#570",
+    "name": "Nicktoons (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1091",
+    "name": "Hits HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0246",
+    "name": "MTV 00s (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0255",
+    "name": "V sport live 1 (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#969",
+    "name": "TV4 Hits HD (T)",
     "lang": "se",
     "region": "SE"
   },
@@ -594,56 +426,140 @@
     "region": "DK"
   },
   {
-    "site_id": "fi#1088",
-    "name": "Eurosport 1 HD (F) (T)",
+    "site_id": "no#0090",
+    "name": "NRK1 HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0257",
+    "name": "V sport live 3 (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0259",
+    "name": "V sport live 5 (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1089",
+    "name": "Heim HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0048",
+    "name": "DR Ramasjang (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#658",
+    "name": "TV4 Motor HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "no#1017",
+    "name": "BBC Nordic HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "dk#0308",
+    "name": "V film family (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#0344",
+    "name": "Al Jazeera English (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#568",
+    "name": "6'eren HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0356",
+    "name": "Viasat Nature HD (T)",
     "lang": "fi",
     "region": "FI"
   },
   {
-    "site_id": "no#1094",
-    "name": "Love Nature HD (T)",
-    "lang": "no",
-    "region": "NO"
+    "site_id": "se#1008",
+    "name": "Bloomberg (T)",
+    "lang": "se",
+    "region": "SE"
   },
   {
-    "site_id": "se#0080",
+    "site_id": "se#1016",
+    "name": "BBC Nordic HD (D/F) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0227",
+    "name": "TV4 HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1014",
+    "name": "TLC Danmark (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0080",
     "name": "MTV (Nordic) (T)",
-    "lang": "se",
-    "region": "SE"
+    "lang": "fi",
+    "region": "FI"
   },
   {
-    "site_id": "se#0147",
-    "name": "SVT Barn HD (T)",
-    "lang": "se",
-    "region": "SE"
+    "site_id": "fi#1079",
+    "name": "TV5 HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
   },
   {
-    "site_id": "se#0246",
-    "name": "MTV 00s (T)",
-    "lang": "se",
-    "region": "SE"
+    "site_id": "fi#1085",
+    "name": "MTV Max HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
   },
   {
-    "site_id": "no#0086",
-    "name": "Nickelodeon (Nordic) (T)",
+    "site_id": "fi#1094",
+    "name": "Love Nature HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0320",
+    "name": "V series HD (T)",
     "lang": "no",
     "region": "NO"
   },
   {
-    "site_id": "no#0277",
-    "name": "TV 2 Livsstil HD (N) (T)",
+    "site_id": "no#0364",
+    "name": "V sport golf HD (T)",
     "lang": "no",
     "region": "NO"
   },
   {
-    "site_id": "no#531",
-    "name": "Eurosport 1 HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
+    "site_id": "fi#0299",
+    "name": "V film action HD (T)",
+    "lang": "fi",
+    "region": "FI"
   },
   {
-    "site_id": "no#534",
-    "name": "TVNorge HD (T)",
+    "site_id": "no#532",
+    "name": "Discovery Channel HD (N) (T)",
     "lang": "no",
     "region": "NO"
   },
@@ -654,362 +570,26 @@
     "region": "NO"
   },
   {
-    "site_id": "se#0032",
-    "name": "CNBC (T)",
+    "site_id": "se#0230",
+    "name": "TV4 Guld (T)",
     "lang": "se",
     "region": "SE"
   },
   {
-    "site_id": "se#1023",
-    "name": "Eurosport 1 HD (S) (T)",
+    "site_id": "se#0256",
+    "name": "V sport live 2 (T)",
     "lang": "se",
     "region": "SE"
   },
   {
-    "site_id": "dk#0086",
-    "name": "Nickelodeon (Nordic) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0255",
-    "name": "V sport live 1 (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#454",
-    "name": "TV 2 Sport HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#1007",
-    "name": "DW English (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0259",
-    "name": "V sport live 5 (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#596",
-    "name": "Sky News (T)",
+    "site_id": "no#0256",
+    "name": "V sport live 2 (T)",
     "lang": "no",
     "region": "NO"
   },
   {
-    "site_id": "se#0235",
-    "name": "Kanal 11 HD (S) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#493",
-    "name": "Discovery Channel HD (S) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#488",
-    "name": "Viaplay 2 Urheilu HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0258",
-    "name": "V sport live 4 (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#722",
-    "name": "Godare (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0344",
-    "name": "Al Jazeera English (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "no#0322",
-    "name": "V film hits HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0090",
-    "name": "NRK1 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0099",
-    "name": "MTV 80s (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0279",
-    "name": "Kanal 5 HD (S) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1096",
-    "name": "Moonbug (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#0269",
-    "name": "V sport football HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#1008",
-    "name": "Bloomberg (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#1086",
-    "name": "MTV Urheilu 1 HD (F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#1101",
-    "name": "Dizi",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#659",
-    "name": "TV4 Sport Live 1 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1002",
-    "name": "SkyShowtime 1 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0308",
-    "name": "V film family (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "no#533",
-    "name": "REX HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0290",
-    "name": "TV3 HD (S) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0258",
-    "name": "V sport live 4 (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "se#0229",
-    "name": "TV4 Film (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#1016",
-    "name": "BBC Nordic HD (D/F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "se#0033",
-    "name": "CNN (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0258",
-    "name": "V sport live 4 (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0344",
-    "name": "Al Jazeera English (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#657",
-    "name": "TV4 Fotboll HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#0258",
-    "name": "V sport live 4 (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#1101",
-    "name": "Dizi",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0257",
-    "name": "V sport live 3 (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#570",
-    "name": "Nicktoons (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1049",
-    "name": "V sport Premier League 2 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0269",
-    "name": "V sport football HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1101",
-    "name": "Dizi",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#718",
-    "name": "TV 2 Sport X HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#1016",
-    "name": "BBC Nordic HD (D/F) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "no#0028",
-    "name": "Cartoon Network (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "dk#0200",
-    "name": "TV3 Sport HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "se#0357",
-    "name": "Viasat History HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#568",
-    "name": "6'eren HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0376",
-    "name": "dk4 (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "no#0206",
-    "name": "TV6 (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0358",
-    "name": "Viasat Explore HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#146",
-    "name": "SVT24 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "no#0016",
-    "name": "BBC News (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#452",
-    "name": "DR1 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1007",
-    "name": "DW English (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1008",
-    "name": "Bloomberg (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1097",
-    "name": "Mezzo Live (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0322",
-    "name": "V film hits HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0364",
-    "name": "V sport golf HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#640",
-    "name": "HBO Max Extra 4 HD (T)",
+    "site_id": "se#970",
+    "name": "TV4 Stars HD (T)",
     "lang": "se",
     "region": "SE"
   },
@@ -1020,14 +600,200 @@
     "region": "DK"
   },
   {
-    "site_id": "dk#1008",
-    "name": "Bloomberg (T)",
+    "site_id": "dk#1222",
+    "name": "Viaplay Sport News HD (D) (T)",
     "lang": "da",
     "region": "DK"
   },
   {
-    "site_id": "fi#687",
-    "name": "YLE TV2 HD (F) (T)",
+    "site_id": "no#1047",
+    "name": "V sport Premier League HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#146",
+    "name": "SVT24 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0364",
+    "name": "V sport golf HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0246",
+    "name": "MTV 00s (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#604",
+    "name": "MTV 80s (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "no#0289",
+    "name": "NRK3/ NRK Super HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#531",
+    "name": "Eurosport 1 HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0282",
+    "name": "SVT2 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0032",
+    "name": "CNBC (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1013",
+    "name": "ID Investigation Discovery (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#1096",
+    "name": "Moonbug (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0316",
+    "name": "National Geographic HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0356",
+    "name": "Viasat Nature HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0235",
+    "name": "Kanal 11 HD (S) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#638",
+    "name": "HBO Max Extra 2 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0288",
+    "name": "NRK2 HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#0299",
+    "name": "V film action HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#1081",
+    "name": "JIM HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "se#0080",
+    "name": "MTV (Nordic) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0051",
+    "name": "DR2 HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "no#0206",
+    "name": "TV6 (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0255",
+    "name": "V sport live 1 (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1096",
+    "name": "Moonbug (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#418",
+    "name": "V sport ultra HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#644",
+    "name": "HBO Max Extra 8 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "fi#1008",
+    "name": "Bloomberg (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0344",
+    "name": "Al Jazeera English (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0259",
+    "name": "V sport live 5 (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0321",
+    "name": "V film premiere HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#642",
+    "name": "HBO Max Extra 6 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0378",
+    "name": "TV 2 Fri HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0084",
+    "name": "National Geographic HD (S/F) (T)",
     "lang": "fi",
     "region": "FI"
   },
@@ -1038,56 +804,68 @@
     "region": "FI"
   },
   {
-    "site_id": "no#0406",
-    "name": "TV 2 Sport 2 HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#532",
-    "name": "Discovery Channel HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "fi#0033",
-    "name": "CNN (T)",
+    "site_id": "fi#687",
+    "name": "YLE TV2 HD (F) (T)",
     "lang": "fi",
     "region": "FI"
   },
   {
-    "site_id": "fi#0255",
-    "name": "V sport live 1 (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0365",
-    "name": "V sport 1 HD (N) (T)",
+    "site_id": "no#0299",
+    "name": "V film action HD (T)",
     "lang": "no",
     "region": "NO"
   },
   {
-    "site_id": "se#638",
-    "name": "HBO Max Extra 2 HD (T)",
+    "site_id": "no#1011",
+    "name": "ID Investigation Discovery (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1094",
+    "name": "Love Nature HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0088",
+    "name": "Nick Jr. (T)",
     "lang": "se",
     "region": "SE"
   },
   {
-    "site_id": "dk#0064",
-    "name": "Kanal 4 HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
+    "site_id": "se#0147",
+    "name": "SVT Barn HD (T)",
+    "lang": "se",
+    "region": "SE"
   },
   {
-    "site_id": "fi#1077",
-    "name": "Nelonen HD (F) (T)",
+    "site_id": "fi#527",
+    "name": "V sport premium HD (T)",
     "lang": "fi",
     "region": "FI"
   },
   {
-    "site_id": "se#656",
-    "name": "TV4 Hockey HD (T)",
+    "site_id": "se#0149",
+    "name": "Kunskapskanalen HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "fi#1039",
+    "name": "ID Investigation Discovery (S/F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0405",
+    "name": "TV 2 Zebra HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0356",
+    "name": "Viasat Nature HD (T)",
     "lang": "se",
     "region": "SE"
   },
@@ -1098,32 +876,236 @@
     "region": "DK"
   },
   {
-    "site_id": "dk#1015",
-    "name": "Sport Live (D) (T)",
+    "site_id": "dk#0357",
+    "name": "Viasat History HD (T)",
     "lang": "da",
     "region": "DK"
   },
   {
-    "site_id": "fi#0149",
-    "name": "Kunskapskanalen HD (T)",
+    "site_id": "no#0032",
+    "name": "CNBC (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0292",
+    "name": "V sport motor HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0088",
+    "name": "Nick Jr. (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1075",
+    "name": "Eurosport 1 HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0257",
+    "name": "V sport live 3 (T)",
     "lang": "fi",
     "region": "FI"
   },
   {
-    "site_id": "fi#604",
-    "name": "MTV 80s (T)",
+    "site_id": "fi#1080",
+    "name": "liv HD (F) (T)",
     "lang": "fi",
     "region": "FI"
   },
   {
-    "site_id": "fi#1002",
-    "name": "SkyShowtime 1 HD (T)",
+    "site_id": "no#0322",
+    "name": "V film hits HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1008",
+    "name": "Bloomberg (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0308",
+    "name": "V film family (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0358",
+    "name": "Viasat Explore HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0028",
+    "name": "Cartoon Network (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#0048",
+    "name": "DR Ramasjang (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1007",
+    "name": "DW English (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "se#0363",
+    "name": "V sport vinter HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#637",
+    "name": "HBO Max Extra 1 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#715",
+    "name": "V sport extra HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1007",
+    "name": "DW English (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "fi#0363",
+    "name": "V sport vinter HD (T)",
     "lang": "fi",
     "region": "FI"
   },
   {
-    "site_id": "no#1096",
-    "name": "Moonbug (T)",
+    "site_id": "fi#686",
+    "name": "YLE TV1 HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "dk#0016",
+    "name": "BBC News (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0344",
+    "name": "Al Jazeera English (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#668",
+    "name": "Horse \u0026 Country (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0246",
+    "name": "MTV 00s (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#452",
+    "name": "DR1 HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0227",
+    "name": "TV4 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0297",
+    "name": "TV 2 HD (D) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#641",
+    "name": "HBO Max Extra 5 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1097",
+    "name": "Mezzo Live (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0076",
+    "name": "MTV (Nordic) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0269",
+    "name": "V sport football HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#971",
+    "name": "MTV Viihde HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#1078",
+    "name": "MTV Sub HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#1007",
+    "name": "DW English (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0257",
+    "name": "V sport live 3 (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#1016",
+    "name": "BBC Nordic HD (D/F) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0246",
+    "name": "MTV 00s (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#0259",
+    "name": "V sport live 5 (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0051",
+    "name": "DR2 HD (T)",
     "lang": "no",
     "region": "NO"
   },
@@ -1134,8 +1116,722 @@
     "region": "SE"
   },
   {
+    "site_id": "se#0279",
+    "name": "Kanal 5 HD (S) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "fi#0258",
+    "name": "V sport live 4 (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#1077",
+    "name": "Nelonen HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#1012",
+    "name": "TLC Norge HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0099",
+    "name": "MTV 80s (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0288",
+    "name": "NRK2 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0033",
+    "name": "CNN (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#0065",
+    "name": "Kanal 5 HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#0367",
+    "name": "Eurosport 2 HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#0368",
+    "name": "CANAL9 HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#418",
+    "name": "V sport ultra HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#454",
+    "name": "TV 2 Sport HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1008",
+    "name": "Bloomberg (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#972",
+    "name": "SF Kanalen (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "dk#0282",
+    "name": "SVT2 HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "no#0121",
+    "name": "SVT1 HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0141",
+    "name": "SVT2 HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#533",
+    "name": "REX HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#596",
+    "name": "Sky News (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
     "site_id": "se#0228",
     "name": "TV4 Fakta (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0229",
+    "name": "TV4 Film (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#662",
+    "name": "TV4 Sport Live 4 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#665",
+    "name": "TV3 Puls HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "no#0361",
+    "name": "TV3+ HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#535",
+    "name": "VOX HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1049",
+    "name": "V sport Premier League 2 HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1050",
+    "name": "V sport Premier League 3 HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1090",
+    "name": "Stars HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#596",
+    "name": "Sky News (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#666",
+    "name": "TV8 HD (S) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "fi#570",
+    "name": "Nicktoons (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "se#0084",
+    "name": "National Geographic HD (S/F) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#659",
+    "name": "TV4 Sport Live 1 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0359",
+    "name": "TV3 HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "no#0188",
+    "name": "TV 2 HD (D) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#972",
+    "name": "SF Kanalen (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0032",
+    "name": "CNBC (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0232",
+    "name": "Sjuan HD (S) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0258",
+    "name": "V sport live 4 (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#661",
+    "name": "TV4 Sport Live 3 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1053",
+    "name": "Axess TV HD -IP",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0289",
+    "name": "NRK3/ NRK Super HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0358",
+    "name": "Viasat Explore HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0056",
+    "name": "FEM HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#668",
+    "name": "Horse \u0026 Country (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "dk#1097",
+    "name": "Mezzo Live (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0028",
+    "name": "Cartoon Network (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#968",
+    "name": "MTV Aitio HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0088",
+    "name": "Nick Jr. (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#639",
+    "name": "HBO Max Extra 3 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1001",
+    "name": "SkyShowtime 2 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0256",
+    "name": "V sport live 2 (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0322",
+    "name": "V film hits HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#1002",
+    "name": "SkyShowtime 1 HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#1087",
+    "name": "MTV Urheilu 2 HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0147",
+    "name": "SVT Barn HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#972",
+    "name": "SF Kanalen (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1024",
+    "name": "Eurosport 2 HD (S/F) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0090",
+    "name": "NRK1 HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#0358",
+    "name": "Viasat Explore HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#452",
+    "name": "DR1 HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "no#1048",
+    "name": "V sport Premier League 1 HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "fi#488",
+    "name": "Viaplay 2 Urheilu HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "dk#596",
+    "name": "Sky News (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "no#0187",
+    "name": "TV 2 Direkte HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0357",
+    "name": "Viasat History HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1101",
+    "name": "Dizi",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "fi#0159",
+    "name": "Viaplay 1 Urheilu HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0028",
+    "name": "Cartoon Network (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0033",
+    "name": "CNN (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0298",
+    "name": "TV3 HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0357",
+    "name": "Viasat History HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "no#1051",
+    "name": "V sport Premier League 4 HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#1097",
+    "name": "Mezzo Live (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#609",
+    "name": "V sport 3 HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0033",
+    "name": "CNN (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0090",
+    "name": "NRK1 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0290",
+    "name": "TV3 HD (S) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0259",
+    "name": "V sport live 5 (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1096",
+    "name": "Moonbug (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0016",
+    "name": "BBC News (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#0148",
+    "name": "SVT1 HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0199",
+    "name": "TV 2 Sport 1 HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "fi#418",
+    "name": "V sport ultra HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "se#0148",
+    "name": "SVT1 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#0269",
+    "name": "V sport football HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0255",
+    "name": "V sport live 1 (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0274",
+    "name": "Viaplay 3 Urheilu HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#0198",
+    "name": "TV 2 Sport Premium 2 HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#0271",
+    "name": "V sport+ HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#0360",
+    "name": "TV6 HD (S) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#1002",
+    "name": "SkyShowtime 1 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#1074",
+    "name": "Discovery Channel HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#0088",
+    "name": "Nick Jr. (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#0255",
+    "name": "V sport live 1 (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#530",
+    "name": "Eurosport Norge HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#534",
+    "name": "TVNorge HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "no#608",
+    "name": "V sport 2 HD (N) (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#570",
+    "name": "Nicktoons (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "se#640",
+    "name": "HBO Max Extra 4 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "dk#0374",
+    "name": "TV3 MAX HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#1101",
+    "name": "Dizi",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "se#0325",
+    "name": "TV4 Sportkanalen HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "fi#0362",
+    "name": "V sport 1 HD (S/F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#596",
+    "name": "Sky News (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#1007",
+    "name": "DW English (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#1001",
+    "name": "SkyShowtime 2 HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "se#643",
+    "name": "HBO Max Extra 7 HD (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "fi#604",
+    "name": "MTV 80s (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "se#667",
+    "name": "TV10 HD (S) (T)",
+    "lang": "se",
+    "region": "SE"
+  },
+  {
+    "site_id": "fi#0033",
+    "name": "CNN (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#0086",
+    "name": "Nickelodeon (Nordic) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "no#1034",
+    "name": "VGTV HD (T)",
+    "lang": "no",
+    "region": "NO"
+  },
+  {
+    "site_id": "fi#0321",
+    "name": "V film premiere HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "dk#0190",
+    "name": "TV 2 News HD (D) (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#0321",
+    "name": "V film premiere HD (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "dk#0376",
+    "name": "dk4 (T)",
+    "lang": "da",
+    "region": "DK"
+  },
+  {
+    "site_id": "fi#1001",
+    "name": "SkyShowtime 2 HD (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "fi#1088",
+    "name": "Eurosport 1 HD (F) (T)",
+    "lang": "fi",
+    "region": "FI"
+  },
+  {
+    "site_id": "se#1096",
+    "name": "Moonbug (T)",
     "lang": "se",
     "region": "SE"
   },
@@ -1152,86 +1848,32 @@
     "region": "DK"
   },
   {
-    "site_id": "dk#1074",
-    "name": "Discovery Channel HD (D) (T)",
+    "site_id": "dk#0364",
+    "name": "V sport golf HD (T)",
     "lang": "da",
     "region": "DK"
   },
   {
-    "site_id": "fi#668",
-    "name": "Horse \u0026 Country (T)",
+    "site_id": "fi#1086",
+    "name": "MTV Urheilu 1 HD (F) (T)",
     "lang": "fi",
     "region": "FI"
   },
   {
-    "site_id": "fi#971",
-    "name": "MTV Viihde HD (F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#530",
-    "name": "Eurosport Norge HD (T)",
+    "site_id": "no#0288",
+    "name": "NRK2 HD (T)",
     "lang": "no",
     "region": "NO"
   },
   {
-    "site_id": "se#642",
-    "name": "HBO Max Extra 6 HD (T)",
+    "site_id": "se#656",
+    "name": "TV4 Hockey HD (T)",
     "lang": "se",
     "region": "SE"
   },
   {
-    "site_id": "se#644",
-    "name": "HBO Max Extra 8 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#0080",
-    "name": "MTV (Nordic) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "se#0232",
-    "name": "Sjuan HD (S) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0259",
-    "name": "V sport live 5 (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#452",
-    "name": "DR1 HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "no#1048",
-    "name": "V sport Premier League 1 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "dk#418",
-    "name": "V sport ultra HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#668",
-    "name": "Horse \u0026 Country (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0088",
-    "name": "Nick Jr. (T)",
+    "site_id": "fi#0149",
+    "name": "Kunskapskanalen HD (T)",
     "lang": "fi",
     "region": "FI"
   },
@@ -1242,398 +1884,20 @@
     "region": "FI"
   },
   {
-    "site_id": "fi#686",
-    "name": "YLE TV1 HD (F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#457",
-    "name": "TV 2 Nyheter HD (N) (T)",
+    "site_id": "no#0197",
+    "name": "TV 2 Sport Premium HD (N) (T)",
     "lang": "no",
     "region": "NO"
   },
   {
-    "site_id": "se#0289",
-    "name": "NRK3/ NRK Super HD (T)",
+    "site_id": "se#0344",
+    "name": "Al Jazeera English (T)",
     "lang": "se",
     "region": "SE"
   },
   {
-    "site_id": "fi#0032",
-    "name": "CNBC (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#0322",
-    "name": "V film hits HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#0363",
-    "name": "V sport vinter HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0090",
-    "name": "NRK1 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1090",
-    "name": "Stars HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#639",
-    "name": "HBO Max Extra 3 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1024",
-    "name": "Eurosport 2 HD (S/F) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0357",
-    "name": "Viasat History HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0358",
-    "name": "Viasat Explore HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0086",
-    "name": "Nickelodeon (Nordic) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0088",
-    "name": "Nick Jr. (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0199",
-    "name": "TV 2 Sport 1 HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0246",
-    "name": "MTV 00s (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0308",
-    "name": "V film family (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0321",
-    "name": "V film premiere HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "dk#0033",
-    "name": "CNN (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#1075",
-    "name": "Eurosport 1 HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0084",
-    "name": "National Geographic HD (S/F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "se#0048",
-    "name": "DR Ramasjang (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0358",
-    "name": "Viasat Explore HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#658",
-    "name": "TV4 Motor HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0246",
-    "name": "MTV 00s (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#1222",
-    "name": "Viaplay Sport News HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0356",
-    "name": "Viasat Nature HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0147",
-    "name": "SVT Barn HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0188",
-    "name": "TV 2 HD (D) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0298",
-    "name": "TV3 HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#1011",
-    "name": "ID Investigation Discovery (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0297",
-    "name": "TV 2 HD (D) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#972",
-    "name": "SF Kanalen (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "se#0308",
-    "name": "V film family (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#452",
-    "name": "DR1 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#527",
-    "name": "V sport premium HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1094",
-    "name": "Love Nature HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#1014",
-    "name": "TLC Danmark (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0148",
-    "name": "SVT1 HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#0321",
-    "name": "V film premiere HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#1085",
-    "name": "MTV Max HD (F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "se#664",
-    "name": "TV12 HD (S) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#715",
-    "name": "V sport extra HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#596",
-    "name": "Sky News (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "dk#1101",
-    "name": "Dizi",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "se#1038",
-    "name": "TLC Sverige HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0032",
-    "name": "CNBC (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0190",
-    "name": "TV 2 News HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#1013",
-    "name": "ID Investigation Discovery (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#968",
-    "name": "MTV Aitio HD (F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "se#1097",
-    "name": "Mezzo Live (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "no#0141",
-    "name": "SVT2 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0356",
-    "name": "Viasat Nature HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "fi#1024",
-    "name": "Eurosport 2 HD (S/F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#1002",
-    "name": "SkyShowtime 1 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0362",
-    "name": "V sport 1 HD (S/F) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0297",
-    "name": "TV 2 HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0299",
-    "name": "V film action HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#1017",
-    "name": "BBC Nordic HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#641",
-    "name": "HBO Max Extra 5 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1039",
-    "name": "ID Investigation Discovery (S/F) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#1079",
-    "name": "TV5 HD (F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "se#668",
-    "name": "Horse \u0026 Country (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1000",
-    "name": "ATG Live HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0048",
-    "name": "DR Ramasjang (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0088",
-    "name": "Nick Jr. (T)",
+    "site_id": "dk#0064",
+    "name": "Kanal 4 HD (D) (T)",
     "lang": "da",
     "region": "DK"
   },
@@ -1644,273 +1908,9 @@
     "region": "DK"
   },
   {
-    "site_id": "dk#604",
-    "name": "MTV 80s (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "no#0051",
-    "name": "DR2 HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0056",
-    "name": "FEM HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0259",
-    "name": "V sport live 5 (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#0299",
-    "name": "V film action HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "no#608",
-    "name": "V sport 2 HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#675",
-    "name": "TV4 Tennis HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0299",
-    "name": "V film action HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#1001",
-    "name": "SkyShowtime 2 HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0344",
-    "name": "Al Jazeera English (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0198",
-    "name": "TV 2 Sport Premium 2 HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#0360",
-    "name": "TV6 HD (S) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#1016",
-    "name": "BBC Nordic HD (D/F) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0149",
-    "name": "Kunskapskanalen HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#474",
-    "name": "Kanal 9 HD (S) (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#0065",
-    "name": "Kanal 5 HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0090",
-    "name": "NRK1 HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0359",
-    "name": "TV3 HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0246",
-    "name": "MTV 00s (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
     "site_id": "fi#0282",
     "name": "SVT2 HD (T)",
     "lang": "fi",
     "region": "FI"
-  },
-  {
-    "site_id": "fi#1076",
-    "name": "MTV3 HD (F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#1094",
-    "name": "Love Nature HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "se#0288",
-    "name": "NRK2 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0230",
-    "name": "TV4 Guld (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0299",
-    "name": "V film action HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "se#0363",
-    "name": "V sport vinter HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#1001",
-    "name": "SkyShowtime 2 HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0289",
-    "name": "NRK3/ NRK Super HD (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "fi#689",
-    "name": "YLE Teema \u0026 Fem HD (F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#0197",
-    "name": "TV 2 Sport Premium HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#1053",
-    "name": "Axess TV HD -IP",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "fi#0364",
-    "name": "V sport golf HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#527",
-    "name": "V sport premium HD (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "fi#1083",
-    "name": "Discovery Channel HD (F) (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#1091",
-    "name": "Hits HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "dk#0227",
-    "name": "TV4 HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#0321",
-    "name": "V film premiere HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#1094",
-    "name": "Love Nature HD (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#1007",
-    "name": "DW English (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "se#0051",
-    "name": "DR2 HD (T)",
-    "lang": "se",
-    "region": "SE"
-  },
-  {
-    "site_id": "dk#665",
-    "name": "TV3 Puls HD (D) (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "dk#1096",
-    "name": "Moonbug (T)",
-    "lang": "da",
-    "region": "DK"
-  },
-  {
-    "site_id": "fi#0256",
-    "name": "V sport live 2 (T)",
-    "lang": "fi",
-    "region": "FI"
-  },
-  {
-    "site_id": "no#609",
-    "name": "V sport 3 HD (N) (T)",
-    "lang": "no",
-    "region": "NO"
-  },
-  {
-    "site_id": "se#972",
-    "name": "SF Kanalen (T)",
-    "lang": "se",
-    "region": "SE"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "site_id": "C5",
-    "name": "Canale 5",
-    "lang": "it",
-    "xmltv_id": "Canale5.it@SD"
-  },
-  {
-    "site_id": "FU",
-    "name": "Focus",
-    "lang": "it",
-    "xmltv_id": "Focus.it@SD"
-  },
-  {
     "site_id": "I1",
     "name": "Italia 1",
     "lang": "it",
@@ -22,30 +10,6 @@
     "name": "Italia 2",
     "lang": "it",
     "xmltv_id": "Italia2.it@SD"
-  },
-  {
-    "site_id": "KF",
-    "name": "TGCom 24",
-    "lang": "it",
-    "xmltv_id": "TGCom24.it@SD"
-  },
-  {
-    "site_id": "KQ",
-    "name": "Mediaset Extra",
-    "lang": "it",
-    "xmltv_id": "MediasetExtra.it@SD"
-  },
-  {
-    "site_id": "LB",
-    "name": "20 Mediaset",
-    "lang": "it",
-    "xmltv_id": "20.it@SD"
-  },
-  {
-    "site_id": "KA",
-    "name": "La5",
-    "lang": "it",
-    "xmltv_id": "La5.it@SD"
   },
   {
     "site_id": "KB",
@@ -60,16 +24,52 @@
     "xmltv_id": "Iris.it@SD"
   },
   {
-    "site_id": "LA",
-    "name": "Cartoonito",
+    "site_id": "KQ",
+    "name": "Mediaset Extra",
     "lang": "it",
-    "xmltv_id": "Cartoonito.it@SD"
+    "xmltv_id": "MediasetExtra.it@SD"
   },
   {
     "site_id": "LT",
     "name": "Top Crime",
     "lang": "it",
     "xmltv_id": "TopCrime.it@SD"
+  },
+  {
+    "site_id": "C5",
+    "name": "Canale 5",
+    "lang": "it",
+    "xmltv_id": "Canale5.it@SD"
+  },
+  {
+    "site_id": "FU",
+    "name": "Focus",
+    "lang": "it",
+    "xmltv_id": "Focus.it@SD"
+  },
+  {
+    "site_id": "KA",
+    "name": "La5",
+    "lang": "it",
+    "xmltv_id": "La5.it@SD"
+  },
+  {
+    "site_id": "KF",
+    "name": "TGCom 24",
+    "lang": "it",
+    "xmltv_id": "TGCom24.it@SD"
+  },
+  {
+    "site_id": "LA",
+    "name": "Cartoonito",
+    "lang": "it",
+    "xmltv_id": "Cartoonito.it@SD"
+  },
+  {
+    "site_id": "LB",
+    "name": "20 Mediaset",
+    "lang": "it",
+    "xmltv_id": "20.it@SD"
   },
   {
     "site_id": "R4",

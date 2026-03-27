@@ -1,44 +1,31 @@
 [
   {
-    "site_id": "rai-2",
-    "name": "RAI 2",
+    "site_id": "rai-gulp",
+    "name": "RAI GULP",
     "lang": "it",
-    "xmltv_id": "Rai2.it@SD"
+    "xmltv_id": "RaiGulp.it@SD"
+  },
+  {
+    "site_id": "raiplay",
+    "name": "RAIPLAY",
+    "lang": "it"
+  },
+  {
+    "site_id": "raiplay-2",
+    "name": "RAIPLAY 2",
+    "lang": "it"
+  },
+  {
+    "site_id": "rai-storia",
+    "name": "RAI STORIA",
+    "lang": "it",
+    "xmltv_id": "RaiStoria.it@SD"
   },
   {
     "site_id": "rai-3",
     "name": "RAI 3",
     "lang": "it",
     "xmltv_id": "Rai3.it@HD"
-  },
-  {
-    "site_id": "rai-premium",
-    "name": "RAI PREMIUM",
-    "lang": "it",
-    "xmltv_id": "RaiPremium.it@SD"
-  },
-  {
-    "site_id": "rai-sport",
-    "name": "RAI SPORT",
-    "lang": "it",
-    "xmltv_id": "RaiSport.it@SD"
-  },
-  {
-    "site_id": "rai-yoyo",
-    "name": "RAI YOYO",
-    "lang": "it",
-    "xmltv_id": "RaiYoyo.it@SD"
-  },
-  {
-    "site_id": "raiplay-3",
-    "name": "RAIPLAY 3",
-    "lang": "it"
-  },
-  {
-    "site_id": "rai-4",
-    "name": "RAI 4",
-    "lang": "it",
-    "xmltv_id": "Rai4.it@SD"
   },
   {
     "site_id": "rai-5",
@@ -53,13 +40,14 @@
     "xmltv_id": "RaiNews24.it@SD"
   },
   {
-    "site_id": "raiplay",
-    "name": "RAIPLAY",
-    "lang": "it"
+    "site_id": "rai-premium",
+    "name": "RAI PREMIUM",
+    "lang": "it",
+    "xmltv_id": "RaiPremium.it@SD"
   },
   {
-    "site_id": "raiplay-2",
-    "name": "RAIPLAY 2",
+    "site_id": "raiplay-3",
+    "name": "RAIPLAY 3",
     "lang": "it"
   },
   {
@@ -69,32 +57,44 @@
     "xmltv_id": "Rai1.it@SD"
   },
   {
-    "site_id": "rai-radio-2",
-    "name": "RAI RADIO 2",
-    "lang": "it"
-  },
-  {
     "site_id": "rai-scuola",
     "name": "RAI SCUOLA",
     "lang": "it",
     "xmltv_id": "RaiScuola.it@SD"
   },
   {
-    "site_id": "rai-storia",
-    "name": "RAI STORIA",
+    "site_id": "rai-sport",
+    "name": "RAI SPORT",
     "lang": "it",
-    "xmltv_id": "RaiStoria.it@SD"
+    "xmltv_id": "RaiSport.it@SD"
   },
   {
-    "site_id": "rai-gulp",
-    "name": "RAI GULP",
+    "site_id": "rai-yoyo",
+    "name": "RAI YOYO",
     "lang": "it",
-    "xmltv_id": "RaiGulp.it@SD"
+    "xmltv_id": "RaiYoyo.it@SD"
+  },
+  {
+    "site_id": "rai-2",
+    "name": "RAI 2",
+    "lang": "it",
+    "xmltv_id": "Rai2.it@SD"
+  },
+  {
+    "site_id": "rai-4",
+    "name": "RAI 4",
+    "lang": "it",
+    "xmltv_id": "Rai4.it@SD"
   },
   {
     "site_id": "rai-movie",
     "name": "RAI MOVIE",
     "lang": "it",
     "xmltv_id": "RaiMovie.it@SD"
+  },
+  {
+    "site_id": "rai-radio-2",
+    "name": "RAI RADIO 2",
+    "lang": "it"
   }
 ]

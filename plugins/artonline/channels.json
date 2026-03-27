@@ -1,5 +1,17 @@
 [
   {
+    "site_id": "#Hekayat",
+    "name": "حكايات",
+    "lang": "ar",
+    "xmltv_id": "ARTHekayat.sa@SD"
+  },
+  {
+    "site_id": "#Hekayat2",
+    "name": "حكايات 2",
+    "lang": "ar",
+    "xmltv_id": "ARTHekayat2.sa@SD"
+  },
+  {
     "site_id": "#",
     "name": "افلام 1",
     "lang": "ar",
@@ -16,17 +28,5 @@
     "name": "سينما",
     "lang": "ar",
     "xmltv_id": "ARTCinema.sa@SD"
-  },
-  {
-    "site_id": "#Hekayat",
-    "name": "حكايات",
-    "lang": "ar",
-    "xmltv_id": "ARTHekayat.sa@SD"
-  },
-  {
-    "site_id": "#Hekayat2",
-    "name": "حكايات 2",
-    "lang": "ar",
-    "xmltv_id": "ARTHekayat2.sa@SD"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "site_id": "9",
-    "name": "AFN|pulse",
-    "lang": "en",
-    "xmltv_id": "AFNFamily.us@SD"
-  },
-  {
     "site_id": "10",
     "name": "AFN|movie",
     "lang": "en",
@@ -46,5 +40,11 @@
     "name": "AFN|sports2",
     "lang": "en",
     "xmltv_id": "AFNSports2.us@SD"
+  },
+  {
+    "site_id": "9",
+    "name": "AFN|pulse",
+    "lang": "en",
+    "xmltv_id": "AFNFamily.us@SD"
   }
 ]

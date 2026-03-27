@@ -1,20 +1,32 @@
 [
   {
-    "site_id": "313/programme-television-een",
-    "name": "EEN",
+    "site_id": "279/programme-television-piwi-",
+    "name": "PIWI +",
+    "lang": "fr",
+    "xmltv_id": "PiwiPlus.fr@SD"
+  },
+  {
+    "site_id": "362/programme-television-syfy",
+    "name": "SYFY",
+    "lang": "fr",
+    "xmltv_id": "Syfy.fr@SD"
+  },
+  {
+    "site_id": "419/programme-television-france-24",
+    "name": "FRANCE 24",
+    "lang": "fr",
+    "xmltv_id": "France24.fr@French"
+  },
+  {
+    "site_id": "967/programme-television-rts-un",
+    "name": "RTS UN",
+    "lang": "fr",
+    "xmltv_id": "RTS1.ch@SD"
+  },
+  {
+    "site_id": "1200/programme-television-disney-cinema",
+    "name": "DISNEY CINEMA",
     "lang": "fr"
-  },
-  {
-    "site_id": "414/programme-television-planete-ae",
-    "name": "PLANETE+ AE",
-    "lang": "fr",
-    "xmltv_id": "PlanetePlusAventure.fr@SD"
-  },
-  {
-    "site_id": "1199/programme-television-science-vie-tv",
-    "name": "SCIENCE \u0026 VIE TV",
-    "lang": "fr",
-    "xmltv_id": "ScienceVieTV.fr@SD"
   },
   {
     "site_id": "1873/programme-television-ln24",
@@ -23,9 +35,100 @@
     "xmltv_id": "LN24.be@SD"
   },
   {
-    "site_id": "82/programme-television-seasons-",
-    "name": "SEASONS +",
+    "site_id": "19/programme-television-rtl-tvi",
+    "name": "RTL tvi",
+    "lang": "fr",
+    "xmltv_id": "RTLTVI.be@SD"
+  },
+  {
+    "site_id": "63/programme-television-action",
+    "name": "ACTION",
+    "lang": "fr",
+    "xmltv_id": "Action.fr@SD"
+  },
+  {
+    "site_id": "258/programme-television-playboy-tv",
+    "name": "PLAYBOY TV",
+    "lang": "fr",
+    "xmltv_id": "PlayboyTVEurope.us@SD"
+  },
+  {
+    "site_id": "304/programme-television-e-entertainment",
+    "name": "E! ENTERTAINMENT",
+    "lang": "fr",
+    "xmltv_id": "E.fr@SD"
+  },
+  {
+    "site_id": "313/programme-television-een",
+    "name": "EEN",
     "lang": "fr"
+  },
+  {
+    "site_id": "345/programme-television-ushuaia-tv",
+    "name": "USHUAIA TV",
+    "lang": "fr",
+    "xmltv_id": "UshuaiaTV.fr@SD"
+  },
+  {
+    "site_id": "581/programme-television-canvas",
+    "name": "CANVAS",
+    "lang": "fr"
+  },
+  {
+    "site_id": "1377/programme-television-eleven-sports-1",
+    "name": "ELEVEN SPORTS 1",
+    "lang": "fr"
+  },
+  {
+    "site_id": "140/programme-television-npo2",
+    "name": "NPO2",
+    "lang": "fr",
+    "xmltv_id": "NPO2.nl@SD"
+  },
+  {
+    "site_id": "281/programme-television-rtl-plug",
+    "name": "RTL plug",
+    "lang": "fr"
+  },
+  {
+    "site_id": "300/programme-television-be-cine",
+    "name": "BE CINE",
+    "lang": "fr",
+    "xmltv_id": "BeCine.be@SD"
+  },
+  {
+    "site_id": "312/programme-television-cine-classic-be",
+    "name": "CINE + CLASSIC BE",
+    "lang": "fr"
+  },
+  {
+    "site_id": "446/programme-television-planete-ci",
+    "name": "PLANETE+ CI",
+    "lang": "fr",
+    "xmltv_id": "PlanetePlusCrime.fr@SD"
+  },
+  {
+    "site_id": "618/programme-television-eurosport-nl",
+    "name": "EUROSPORT NL",
+    "lang": "fr",
+    "xmltv_id": "Eurosport1.fr@Netherlands"
+  },
+  {
+    "site_id": "180/programme-television-info-sport",
+    "name": "INFO SPORT",
+    "lang": "fr"
+  },
+  {
+    "site_id": "70/programme-television-tmc",
+    "name": "TMC",
+    "lang": "fr",
+    "xmltv_id": "TMC.fr@SD"
+  },
+  {
+    "site_id": "120/programme-television-rai-1",
+    "name": "RAI 1",
+    "lang": "fr",
+    "xmltv_id": "Rai1.it@SD"
   },
   {
     "site_id": "127/programme-television-chasse-peche",
@@ -34,8 +137,55 @@
     "xmltv_id": "ChassePeche.fr@SD"
   },
   {
-    "site_id": "130/programme-television-bbc2",
-    "name": "BBC2",
+    "site_id": "129/programme-television-bbc1",
+    "name": "BBC1",
+    "lang": "fr"
+  },
+  {
+    "site_id": "1729/programme-television-warner-tv",
+    "name": "Warner TV",
+    "lang": "fr",
+    "xmltv_id": "WarnerTV.fr@SD"
+  },
+  {
+    "site_id": "3/programme-television-france-3",
+    "name": "FRANCE 3",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@SD"
+  },
+  {
+    "site_id": "14/programme-television-arte",
+    "name": "ARTE",
+    "lang": "fr",
+    "xmltv_id": "arte.fr@SD"
+  },
+  {
+    "site_id": "164/programme-television-ketnet",
+    "name": "KETNET",
+    "lang": "fr",
+    "xmltv_id": "Ketnet.be@SD"
+  },
+  {
+    "site_id": "363/programme-television-bfm-tv",
+    "name": "BFM TV",
+    "lang": "fr",
+    "xmltv_id": "BFMTV.fr@SD"
+  },
+  {
+    "site_id": "911/programme-television-nautical-channel",
+    "name": "NAUTICAL CHANNEL",
+    "lang": "fr",
+    "xmltv_id": "NauticalChannel.it@SD"
+  },
+  {
+    "site_id": "1045/programme-television-tf1-series-films",
+    "name": "TF1 Séries Films",
+    "lang": "fr",
+    "xmltv_id": "TF1SeriesFilms.fr@SD"
+  },
+  {
+    "site_id": "71/programme-television-voyage",
+    "name": "VOYAGE",
     "lang": "fr"
   },
   {
@@ -45,56 +195,69 @@
     "xmltv_id": "Gulli.fr@SD"
   },
   {
-    "site_id": "362/programme-television-syfy",
-    "name": "SYFY",
+    "site_id": "717/programme-television-la-trois",
+    "name": "LA TROIS",
     "lang": "fr",
-    "xmltv_id": "Syfy.fr@SD"
+    "xmltv_id": "LaTrois.be@SD"
   },
   {
-    "site_id": "581/programme-television-canvas",
-    "name": "CANVAS",
+    "site_id": "845/programme-television-trace-urban",
+    "name": "TRACE URBAN",
+    "lang": "fr",
+    "xmltv_id": "TraceUrban.fr@SD"
+  },
+  {
+    "site_id": "871/programme-television-disney-junior",
+    "name": "DISNEY JUNIOR",
+    "lang": "fr",
+    "xmltv_id": "DisneyJr.fr@SD"
+  },
+  {
+    "site_id": "1574/programme-television-voo-sport-world-3",
+    "name": "VOO Sport World 3",
+    "lang": "fr",
+    "xmltv_id": "VOOsportWorld3.be@SD"
+  },
+  {
+    "site_id": "64/programme-television-disney-channel",
+    "name": "DISNEY CHANNEL",
+    "lang": "fr",
+    "xmltv_id": "DisneyChannel.fr@SD"
+  },
+  {
+    "site_id": "67/programme-television-rtl-club",
+    "name": "RTL club",
     "lang": "fr"
   },
   {
-    "site_id": "1200/programme-television-disney-cinema",
-    "name": "DISNEY CINEMA",
-    "lang": "fr"
+    "site_id": "83/programme-television-eurosport",
+    "name": "EUROSPORT",
+    "lang": "fr",
+    "xmltv_id": "Eurosport1.fr@France"
   },
   {
-    "site_id": "179/programme-television-cnews",
-    "name": "CNEWS",
+    "site_id": "115/programme-television-m6-music",
+    "name": "M6 MUSIC",
     "lang": "fr",
-    "xmltv_id": "CNews.fr@SD"
+    "xmltv_id": "M6Music.fr@SD"
   },
   {
-    "site_id": "393/programme-television-be-series",
-    "name": "BE SERIES",
+    "site_id": "212/programme-television-tiji",
+    "name": "TIJI",
     "lang": "fr",
-    "xmltv_id": "BeSeries.be@SD"
+    "xmltv_id": "TiJi.fr@SD"
   },
   {
-    "site_id": "419/programme-television-france-24",
-    "name": "FRANCE 24",
+    "site_id": "584/programme-television-rmc-sport-2",
+    "name": "RMC SPORT 2",
     "lang": "fr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "RMCSport2.fr@SD"
   },
   {
-    "site_id": "618/programme-television-eurosport-nl",
-    "name": "EUROSPORT NL",
+    "site_id": "1167/programme-television-njam-",
+    "name": "NJAM !",
     "lang": "fr",
-    "xmltv_id": "Eurosport1.fr@Netherlands"
-  },
-  {
-    "site_id": "688/programme-television-vtm4",
-    "name": "VTM4",
-    "lang": "fr",
-    "xmltv_id": "VTM4.be@SD"
-  },
-  {
-    "site_id": "2/programme-television-france-2",
-    "name": "FRANCE 2",
-    "lang": "fr",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "Njam.be@SD"
   },
   {
     "site_id": "24/programme-television-la-une-rtbf",
@@ -103,26 +266,26 @@
     "xmltv_id": "LaUne.be@SD"
   },
   {
-    "site_id": "155/programme-television-lci",
-    "name": "LCI",
+    "site_id": "27/programme-television-tv5-monde",
+    "name": "TV5 MONDE",
     "lang": "fr",
-    "xmltv_id": "LCI.fr@SD"
+    "xmltv_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD"
   },
   {
-    "site_id": "221/programme-television-kto",
-    "name": "KTO",
+    "site_id": "228/programme-television-national-geographic-channel",
+    "name": "NATIONAL GEOGRAPHIC CHANNEL",
     "lang": "fr",
-    "xmltv_id": "KTO.fr@SD"
+    "xmltv_id": "NationalGeographic.fr@SD"
   },
   {
-    "site_id": "258/programme-television-playboy-tv",
-    "name": "PLAYBOY TV",
+    "site_id": "323/programme-television-eurosport-2",
+    "name": "EUROSPORT 2",
     "lang": "fr",
-    "xmltv_id": "PlayboyTVEurope.us@SD"
+    "xmltv_id": "Eurosport2.fr@France"
   },
   {
-    "site_id": "266/programme-television-cine-frisson-be",
-    "name": "CINE + FRISSON BE",
+    "site_id": "658/programme-television-disney-xd",
+    "name": "DISNEY XD",
     "lang": "fr"
   },
   {
@@ -131,9 +294,94 @@
     "lang": "fr"
   },
   {
-    "site_id": "1377/programme-television-eleven-sports-1",
-    "name": "ELEVEN SPORTS 1",
-    "lang": "fr"
+    "site_id": "1199/programme-television-science-vie-tv",
+    "name": "SCIENCE \u0026 VIE TV",
+    "lang": "fr",
+    "xmltv_id": "ScienceVieTV.fr@SD"
+  },
+  {
+    "site_id": "1/programme-television-tf1",
+    "name": "TF1",
+    "lang": "fr",
+    "xmltv_id": "TF1.fr@SD"
+  },
+  {
+    "site_id": "13/programme-television-m6",
+    "name": "M6",
+    "lang": "fr",
+    "xmltv_id": "M6.fr@HD"
+  },
+  {
+    "site_id": "269/programme-television-boomerang",
+    "name": "BOOMERANG",
+    "lang": "fr",
+    "xmltv_id": "Boomerang.fr@SD"
+  },
+  {
+    "site_id": "377/programme-television-nickelodeon",
+    "name": "NICKELODEON",
+    "lang": "fr",
+    "xmltv_id": "Nickelodeon.fr@SD"
+  },
+  {
+    "site_id": "541/programme-television-vtm3",
+    "name": "VTM3",
+    "lang": "fr",
+    "xmltv_id": "VTM3.be@SD"
+  },
+  {
+    "site_id": "1170/programme-television-vtm-kids",
+    "name": "VTM KIDS",
+    "lang": "fr",
+    "xmltv_id": "VTMKids.be@SD"
+  },
+  {
+    "site_id": "1725/programme-television-abxplore",
+    "name": "ABXPLORE",
+    "lang": "fr",
+    "xmltv_id": "ABXplore.be@SD"
+  },
+  {
+    "site_id": "21/programme-television-planete-",
+    "name": "PLANETE +",
+    "lang": "fr",
+    "xmltv_id": "PlanetePlus.fr@SD"
+  },
+  {
+    "site_id": "148/programme-television-vtm",
+    "name": "VTM",
+    "lang": "fr",
+    "xmltv_id": "VTM.be@SD"
+  },
+  {
+    "site_id": "221/programme-television-kto",
+    "name": "KTO",
+    "lang": "fr",
+    "xmltv_id": "KTO.fr@SD"
+  },
+  {
+    "site_id": "296/programme-television-vijf",
+    "name": "VIJF",
+    "lang": "fr",
+    "xmltv_id": "Play5.be@SD"
+  },
+  {
+    "site_id": "968/programme-television-rts-deux",
+    "name": "RTS DEUX",
+    "lang": "fr",
+    "xmltv_id": "RTS2.ch@SD"
+  },
+  {
+    "site_id": "1723/programme-television-altice-studio",
+    "name": "ALTICE STUDIO",
+    "lang": "fr",
+    "xmltv_id": "AlticeStudio.fr@SD"
+  },
+  {
+    "site_id": "1916/programme-television-tipik",
+    "name": "TIPIK",
+    "lang": "fr",
+    "xmltv_id": "Tipik.be@SD"
   },
   {
     "site_id": "89/programme-television-animaux",
@@ -148,64 +396,21 @@
     "xmltv_id": "CartoonNetworkCEE.uk@France"
   },
   {
-    "site_id": "119/programme-television-bbc-entertainment",
-    "name": "BBC ENTERTAINMENT",
+    "site_id": "138/programme-television-automoto",
+    "name": "AUTOMOTO",
     "lang": "fr",
-    "xmltv_id": "BBCEntertainment.uk@SD"
+    "xmltv_id": "Automotolachaine.fr@SD"
   },
   {
-    "site_id": "148/programme-television-vtm",
-    "name": "VTM",
+    "site_id": "141/programme-television-npo3",
+    "name": "NPO3",
     "lang": "fr",
-    "xmltv_id": "VTM.be@SD"
+    "xmltv_id": "NPO3.nl@SD"
   },
   {
-    "site_id": "304/programme-television-e-entertainment",
-    "name": "E! ENTERTAINMENT",
-    "lang": "fr",
-    "xmltv_id": "E.fr@SD"
-  },
-  {
-    "site_id": "766/programme-television-boing",
-    "name": "BOING",
-    "lang": "fr",
-    "xmltv_id": "Boing.fr@SD"
-  },
-  {
-    "site_id": "1033/programme-television-cstar",
-    "name": "CSTAR",
-    "lang": "fr",
-    "xmltv_id": "CStar.fr@SD"
-  },
-  {
-    "site_id": "1723/programme-television-altice-studio",
-    "name": "ALTICE STUDIO",
-    "lang": "fr",
-    "xmltv_id": "AlticeStudio.fr@SD"
-  },
-  {
-    "site_id": "90/programme-television-teletoon-",
-    "name": "TELETOON +",
-    "lang": "fr",
-    "xmltv_id": "TeletoonPlus.fr@SD"
-  },
-  {
-    "site_id": "139/programme-television-npo1",
-    "name": "NPO1",
-    "lang": "fr",
-    "xmltv_id": "NPO1.nl@SD"
-  },
-  {
-    "site_id": "199/programme-television-tv-breizh",
-    "name": "TV BREIZH",
-    "lang": "fr",
-    "xmltv_id": "TVBreizh.fr@SD"
-  },
-  {
-    "site_id": "296/programme-television-vijf",
-    "name": "VIJF",
-    "lang": "fr",
-    "xmltv_id": "Play5.be@SD"
+    "site_id": "266/programme-television-cine-frisson-be",
+    "name": "CINE + FRISSON BE",
+    "lang": "fr"
   },
   {
     "site_id": "302/programme-television-voo-sport-world-1",
@@ -214,52 +419,10 @@
     "xmltv_id": "VOOsportWorld1.be@SD"
   },
   {
-    "site_id": "911/programme-television-nautical-channel",
-    "name": "NAUTICAL CHANNEL",
+    "site_id": "637/programme-television-national-geographic-wild",
+    "name": "NATIONAL GEOGRAPHIC WILD",
     "lang": "fr",
-    "xmltv_id": "NauticalChannel.it@SD"
-  },
-  {
-    "site_id": "64/programme-television-disney-channel",
-    "name": "DISNEY CHANNEL",
-    "lang": "fr",
-    "xmltv_id": "DisneyChannel.fr@SD"
-  },
-  {
-    "site_id": "87/programme-television-canal-j",
-    "name": "CANAL J",
-    "lang": "fr",
-    "xmltv_id": "CanalJ.fr@SD"
-  },
-  {
-    "site_id": "115/programme-television-m6-music",
-    "name": "M6 MUSIC",
-    "lang": "fr",
-    "xmltv_id": "M6Music.fr@SD"
-  },
-  {
-    "site_id": "172/programme-television-tcm-cinema",
-    "name": "TCM CINEMA",
-    "lang": "fr",
-    "xmltv_id": "TCMCinema.fr@SD"
-  },
-  {
-    "site_id": "292/programme-television-discovery-channel",
-    "name": "DISCOVERY CHANNEL",
-    "lang": "fr",
-    "xmltv_id": "DiscoveryChannel.be@SD"
-  },
-  {
-    "site_id": "303/programme-television-voo-sport-world-2",
-    "name": "VOO Sport World 2",
-    "lang": "fr",
-    "xmltv_id": "VOOsportWorld2.be@SD"
-  },
-  {
-    "site_id": "871/programme-television-disney-junior",
-    "name": "DISNEY JUNIOR",
-    "lang": "fr",
-    "xmltv_id": "DisneyJr.fr@SD"
+    "xmltv_id": "NationalGeographicWild.fr@SD"
   },
   {
     "site_id": "1032/programme-television-c8",
@@ -268,46 +431,10 @@
     "xmltv_id": "C8.fr@SD"
   },
   {
-    "site_id": "138/programme-television-automoto",
-    "name": "AUTOMOTO",
-    "lang": "fr",
-    "xmltv_id": "Automotolachaine.fr@SD"
-  },
-  {
-    "site_id": "150/programme-television-vier",
-    "name": "VIER",
-    "lang": "fr",
-    "xmltv_id": "Play4.be@SD"
-  },
-  {
-    "site_id": "228/programme-television-national-geographic-channel",
-    "name": "NATIONAL GEOGRAPHIC CHANNEL",
-    "lang": "fr",
-    "xmltv_id": "NationalGeographic.fr@SD"
-  },
-  {
     "site_id": "229/programme-television-ab3",
     "name": "AB3",
     "lang": "fr",
     "xmltv_id": "AB3.be@SD"
-  },
-  {
-    "site_id": "279/programme-television-piwi-",
-    "name": "PIWI +",
-    "lang": "fr",
-    "xmltv_id": "PiwiPlus.fr@SD"
-  },
-  {
-    "site_id": "381/programme-television-melody",
-    "name": "MELODY",
-    "lang": "fr",
-    "xmltv_id": "Melody.fr@SD"
-  },
-  {
-    "site_id": "1725/programme-television-abxplore",
-    "name": "ABXPLORE",
-    "lang": "fr",
-    "xmltv_id": "ABXplore.be@SD"
   },
   {
     "site_id": "69/programme-television-france-5",
@@ -316,49 +443,34 @@
     "xmltv_id": "France5.fr@SD"
   },
   {
-    "site_id": "164/programme-television-ketnet",
-    "name": "KETNET",
+    "site_id": "74/programme-television-13eme-rue",
+    "name": "13EME RUE",
     "lang": "fr",
-    "xmltv_id": "Ketnet.be@SD"
+    "xmltv_id": "13emeRue.fr@SD"
   },
   {
-    "site_id": "212/programme-television-tiji",
-    "name": "TIJI",
+    "site_id": "79/programme-television-histoire",
+    "name": "HISTOIRE",
     "lang": "fr",
-    "xmltv_id": "TiJi.fr@SD"
+    "xmltv_id": "HistoireTV.fr@SD"
   },
   {
-    "site_id": "281/programme-television-rtl-plug",
-    "name": "RTL plug",
-    "lang": "fr"
-  },
-  {
-    "site_id": "312/programme-television-cine-classic-be",
-    "name": "CINE + CLASSIC BE",
-    "lang": "fr"
-  },
-  {
-    "site_id": "323/programme-television-eurosport-2",
-    "name": "EUROSPORT 2",
+    "site_id": "88/programme-television-mangas",
+    "name": "MANGAS",
     "lang": "fr",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Mangas.fr@SD"
   },
   {
-    "site_id": "345/programme-television-ushuaia-tv",
-    "name": "USHUAIA TV",
+    "site_id": "139/programme-television-npo1",
+    "name": "NPO1",
     "lang": "fr",
-    "xmltv_id": "UshuaiaTV.fr@SD"
+    "xmltv_id": "NPO1.nl@SD"
   },
   {
-    "site_id": "363/programme-television-bfm-tv",
-    "name": "BFM TV",
+    "site_id": "298/programme-television-be-1",
+    "name": "BE 1",
     "lang": "fr",
-    "xmltv_id": "BFMTV.fr@SD"
-  },
-  {
-    "site_id": "265/programme-television-cine-premier-be",
-    "name": "CINE + PREMIER BE",
-    "lang": "fr"
+    "xmltv_id": "Be1.be@SD"
   },
   {
     "site_id": "344/programme-television-france-o",
@@ -366,10 +478,128 @@
     "lang": "fr"
   },
   {
-    "site_id": "377/programme-television-nickelodeon",
-    "name": "NICKELODEON",
+    "site_id": "96/programme-television-mtv",
+    "name": "MTV",
     "lang": "fr",
-    "xmltv_id": "Nickelodeon.fr@SD"
+    "xmltv_id": "MTV.fr@SD"
+  },
+  {
+    "site_id": "119/programme-television-bbc-entertainment",
+    "name": "BBC ENTERTAINMENT",
+    "lang": "fr",
+    "xmltv_id": "BBCEntertainment.uk@SD"
+  },
+  {
+    "site_id": "130/programme-television-bbc2",
+    "name": "BBC2",
+    "lang": "fr"
+  },
+  {
+    "site_id": "172/programme-television-tcm-cinema",
+    "name": "TCM CINEMA",
+    "lang": "fr",
+    "xmltv_id": "TCMCinema.fr@SD"
+  },
+  {
+    "site_id": "199/programme-television-tv-breizh",
+    "name": "TV BREIZH",
+    "lang": "fr",
+    "xmltv_id": "TVBreizh.fr@SD"
+  },
+  {
+    "site_id": "265/programme-television-cine-premier-be",
+    "name": "CINE + PREMIER BE",
+    "lang": "fr"
+  },
+  {
+    "site_id": "321/programme-television-france-4",
+    "name": "FRANCE 4",
+    "lang": "fr",
+    "xmltv_id": "France4.fr@SD"
+  },
+  {
+    "site_id": "393/programme-television-be-series",
+    "name": "BE SERIES",
+    "lang": "fr",
+    "xmltv_id": "BeSeries.be@SD"
+  },
+  {
+    "site_id": "2/programme-television-france-2",
+    "name": "FRANCE 2",
+    "lang": "fr",
+    "xmltv_id": "France2.fr@SD"
+  },
+  {
+    "site_id": "87/programme-television-canal-j",
+    "name": "CANAL J",
+    "lang": "fr",
+    "xmltv_id": "CanalJ.fr@SD"
+  },
+  {
+    "site_id": "150/programme-television-vier",
+    "name": "VIER",
+    "lang": "fr",
+    "xmltv_id": "Play4.be@SD"
+  },
+  {
+    "site_id": "155/programme-television-lci",
+    "name": "LCI",
+    "lang": "fr",
+    "xmltv_id": "LCI.fr@SD"
+  },
+  {
+    "site_id": "255/programme-television-toute-lhistoire",
+    "name": "TOUTE L'HISTOIRE",
+    "lang": "fr",
+    "xmltv_id": "ToutelHistoire.fr@SD"
+  },
+  {
+    "site_id": "303/programme-television-voo-sport-world-2",
+    "name": "VOO Sport World 2",
+    "lang": "fr",
+    "xmltv_id": "VOOsportWorld2.be@SD"
+  },
+  {
+    "site_id": "414/programme-television-planete-ae",
+    "name": "PLANETE+ AE",
+    "lang": "fr",
+    "xmltv_id": "PlanetePlusAventure.fr@SD"
+  },
+  {
+    "site_id": "1033/programme-television-cstar",
+    "name": "CSTAR",
+    "lang": "fr",
+    "xmltv_id": "CStar.fr@SD"
+  },
+  {
+    "site_id": "73/programme-television-comedie-",
+    "name": "COMEDIE +",
+    "lang": "fr",
+    "xmltv_id": "ComediePlus.fr@SD"
+  },
+  {
+    "site_id": "90/programme-television-teletoon-",
+    "name": "TELETOON +",
+    "lang": "fr",
+    "xmltv_id": "TeletoonPlus.fr@SD"
+  },
+  {
+    "site_id": "178/programme-television-game-one",
+    "name": "GAME ONE",
+    "lang": "fr",
+    "xmltv_id": "GameOne.fr@SD"
+  },
+  {
+    "site_id": "688/programme-television-vtm4",
+    "name": "VTM4",
+    "lang": "fr",
+    "xmltv_id": "VTM4.be@SD"
+  },
+  {
+    "site_id": "766/programme-television-boing",
+    "name": "BOING",
+    "lang": "fr",
+    "xmltv_id": "Boing.fr@SD"
   },
   {
     "site_id": "884/programme-television-equidia",
@@ -384,45 +614,28 @@
     "xmltv_id": "ParamountChannel.fr@SD"
   },
   {
-    "site_id": "1167/programme-television-njam-",
-    "name": "NJAM !",
+    "site_id": "86/programme-television-mezzo",
+    "name": "MEZZO",
     "lang": "fr",
-    "xmltv_id": "Njam.be@SD"
+    "xmltv_id": "Mezzo.fr@SD"
   },
   {
-    "site_id": "63/programme-television-action",
-    "name": "ACTION",
+    "site_id": "179/programme-television-cnews",
+    "name": "CNEWS",
     "lang": "fr",
-    "xmltv_id": "Action.fr@SD"
+    "xmltv_id": "CNews.fr@SD"
   },
   {
-    "site_id": "71/programme-television-voyage",
-    "name": "VOYAGE",
-    "lang": "fr"
+    "site_id": "292/programme-television-discovery-channel",
+    "name": "DISCOVERY CHANNEL",
+    "lang": "fr",
+    "xmltv_id": "DiscoveryChannel.be@SD"
   },
   {
-    "site_id": "79/programme-television-histoire",
-    "name": "HISTOIRE",
+    "site_id": "381/programme-television-melody",
+    "name": "MELODY",
     "lang": "fr",
-    "xmltv_id": "HistoireTV.fr@SD"
-  },
-  {
-    "site_id": "141/programme-television-npo3",
-    "name": "NPO3",
-    "lang": "fr",
-    "xmltv_id": "NPO3.nl@SD"
-  },
-  {
-    "site_id": "178/programme-television-game-one",
-    "name": "GAME ONE",
-    "lang": "fr",
-    "xmltv_id": "GameOne.fr@SD"
-  },
-  {
-    "site_id": "300/programme-television-be-cine",
-    "name": "BE CINE",
-    "lang": "fr",
-    "xmltv_id": "BeCine.be@SD"
+    "xmltv_id": "Melody.fr@SD"
   },
   {
     "site_id": "467/programme-television-vtm2",
@@ -431,221 +644,8 @@
     "xmltv_id": "VTM2.be@SD"
   },
   {
-    "site_id": "541/programme-television-vtm3",
-    "name": "VTM3",
-    "lang": "fr",
-    "xmltv_id": "VTM3.be@SD"
-  },
-  {
-    "site_id": "27/programme-television-tv5-monde",
-    "name": "TV5 MONDE",
-    "lang": "fr",
-    "xmltv_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD"
-  },
-  {
-    "site_id": "67/programme-television-rtl-club",
-    "name": "RTL club",
+    "site_id": "82/programme-television-seasons-",
+    "name": "SEASONS +",
     "lang": "fr"
-  },
-  {
-    "site_id": "70/programme-television-tmc",
-    "name": "TMC",
-    "lang": "fr",
-    "xmltv_id": "TMC.fr@SD"
-  },
-  {
-    "site_id": "140/programme-television-npo2",
-    "name": "NPO2",
-    "lang": "fr",
-    "xmltv_id": "NPO2.nl@SD"
-  },
-  {
-    "site_id": "180/programme-television-info-sport",
-    "name": "INFO SPORT",
-    "lang": "fr"
-  },
-  {
-    "site_id": "584/programme-television-rmc-sport-2",
-    "name": "RMC SPORT 2",
-    "lang": "fr",
-    "xmltv_id": "RMCSport2.fr@SD"
-  },
-  {
-    "site_id": "637/programme-television-national-geographic-wild",
-    "name": "NATIONAL GEOGRAPHIC WILD",
-    "lang": "fr",
-    "xmltv_id": "NationalGeographicWild.fr@SD"
-  },
-  {
-    "site_id": "717/programme-television-la-trois",
-    "name": "LA TROIS",
-    "lang": "fr",
-    "xmltv_id": "LaTrois.be@SD"
-  },
-  {
-    "site_id": "74/programme-television-13eme-rue",
-    "name": "13EME RUE",
-    "lang": "fr",
-    "xmltv_id": "13emeRue.fr@SD"
-  },
-  {
-    "site_id": "96/programme-television-mtv",
-    "name": "MTV",
-    "lang": "fr",
-    "xmltv_id": "MTV.fr@SD"
-  },
-  {
-    "site_id": "129/programme-television-bbc1",
-    "name": "BBC1",
-    "lang": "fr"
-  },
-  {
-    "site_id": "321/programme-television-france-4",
-    "name": "FRANCE 4",
-    "lang": "fr",
-    "xmltv_id": "France4.fr@SD"
-  },
-  {
-    "site_id": "658/programme-television-disney-xd",
-    "name": "DISNEY XD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "967/programme-television-rts-un",
-    "name": "RTS UN",
-    "lang": "fr",
-    "xmltv_id": "RTS1.ch@SD"
-  },
-  {
-    "site_id": "968/programme-television-rts-deux",
-    "name": "RTS DEUX",
-    "lang": "fr",
-    "xmltv_id": "RTS2.ch@SD"
-  },
-  {
-    "site_id": "1574/programme-television-voo-sport-world-3",
-    "name": "VOO Sport World 3",
-    "lang": "fr",
-    "xmltv_id": "VOOsportWorld3.be@SD"
-  },
-  {
-    "site_id": "1/programme-television-tf1",
-    "name": "TF1",
-    "lang": "fr",
-    "xmltv_id": "TF1.fr@SD"
-  },
-  {
-    "site_id": "83/programme-television-eurosport",
-    "name": "EUROSPORT",
-    "lang": "fr",
-    "xmltv_id": "Eurosport1.fr@France"
-  },
-  {
-    "site_id": "88/programme-television-mangas",
-    "name": "MANGAS",
-    "lang": "fr",
-    "xmltv_id": "Mangas.fr@SD"
-  },
-  {
-    "site_id": "269/programme-television-boomerang",
-    "name": "BOOMERANG",
-    "lang": "fr",
-    "xmltv_id": "Boomerang.fr@SD"
-  },
-  {
-    "site_id": "1045/programme-television-tf1-series-films",
-    "name": "TF1 Séries Films",
-    "lang": "fr",
-    "xmltv_id": "TF1SeriesFilms.fr@SD"
-  },
-  {
-    "site_id": "1729/programme-television-warner-tv",
-    "name": "Warner TV",
-    "lang": "fr",
-    "xmltv_id": "WarnerTV.fr@SD"
-  },
-  {
-    "site_id": "1916/programme-television-tipik",
-    "name": "TIPIK",
-    "lang": "fr",
-    "xmltv_id": "Tipik.be@SD"
-  },
-  {
-    "site_id": "13/programme-television-m6",
-    "name": "M6",
-    "lang": "fr",
-    "xmltv_id": "M6.fr@HD"
-  },
-  {
-    "site_id": "86/programme-television-mezzo",
-    "name": "MEZZO",
-    "lang": "fr",
-    "xmltv_id": "Mezzo.fr@SD"
-  },
-  {
-    "site_id": "120/programme-television-rai-1",
-    "name": "RAI 1",
-    "lang": "fr",
-    "xmltv_id": "Rai1.it@SD"
-  },
-  {
-    "site_id": "298/programme-television-be-1",
-    "name": "BE 1",
-    "lang": "fr",
-    "xmltv_id": "Be1.be@SD"
-  },
-  {
-    "site_id": "845/programme-television-trace-urban",
-    "name": "TRACE URBAN",
-    "lang": "fr",
-    "xmltv_id": "TraceUrban.fr@SD"
-  },
-  {
-    "site_id": "1170/programme-television-vtm-kids",
-    "name": "VTM KIDS",
-    "lang": "fr",
-    "xmltv_id": "VTMKids.be@SD"
-  },
-  {
-    "site_id": "3/programme-television-france-3",
-    "name": "FRANCE 3",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@SD"
-  },
-  {
-    "site_id": "21/programme-television-planete-",
-    "name": "PLANETE +",
-    "lang": "fr",
-    "xmltv_id": "PlanetePlus.fr@SD"
-  },
-  {
-    "site_id": "73/programme-television-comedie-",
-    "name": "COMEDIE +",
-    "lang": "fr",
-    "xmltv_id": "ComediePlus.fr@SD"
-  },
-  {
-    "site_id": "446/programme-television-planete-ci",
-    "name": "PLANETE+ CI",
-    "lang": "fr",
-    "xmltv_id": "PlanetePlusCrime.fr@SD"
-  },
-  {
-    "site_id": "14/programme-television-arte",
-    "name": "ARTE",
-    "lang": "fr",
-    "xmltv_id": "arte.fr@SD"
-  },
-  {
-    "site_id": "19/programme-television-rtl-tvi",
-    "name": "RTL tvi",
-    "lang": "fr",
-    "xmltv_id": "RTLTVI.be@SD"
-  },
-  {
-    "site_id": "255/programme-television-toute-lhistoire",
-    "name": "TOUTE L'HISTOIRE",
-    "lang": "fr",
-    "xmltv_id": "ToutelHistoire.fr@SD"
   }
 ]

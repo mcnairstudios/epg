@@ -1,35 +1,157 @@
 [
   {
-    "site_id": "dorcel-xxx-11525",
-    "name": "Dorcel XXX",
+    "site_id": "bein-sports-1-183",
+    "name": "beIN SPORTS 1",
+    "lang": "fr",
+    "xmltv_id": "beINSports1.qa@France"
+  },
+  {
+    "site_id": "bfm-business-232",
+    "name": "BFM Business",
+    "lang": "fr",
+    "xmltv_id": "BFMBusiness.fr@SD"
+  },
+  {
+    "site_id": "histoire-tv-72",
+    "name": "Histoire TV",
+    "lang": "fr",
+    "xmltv_id": "HistoireTV.fr@SD"
+  },
+  {
+    "site_id": "6ter-202",
+    "name": "6ter",
+    "lang": "fr",
+    "xmltv_id": "6ter.fr@SD"
+  },
+  {
+    "site_id": "france-3-aquitaine-277",
+    "name": "France 3 Aquitaine",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Aquitaine"
+  },
+  {
+    "site_id": "canalplus-cinema-35",
+    "name": "Canal+ Cinéma",
     "lang": "fr"
   },
   {
-    "site_id": "nollywood-tv-348",
-    "name": "Nollywood TV",
+    "site_id": "france-3-picardie-295",
+    "name": "France 3 Picardie",
     "lang": "fr",
-    "xmltv_id": "NollywoodTV.fr@SD"
+    "xmltv_id": "France3.fr@Picardie"
   },
   {
-    "site_id": "planeteplus-aventure-experience-105",
-    "name": "Planète+ Aventure Expérience",
+    "site_id": "mosaik-cristal-8501",
+    "name": "Mosaïk Cristal",
     "lang": "fr"
   },
   {
-    "site_id": "canalplus-kids-11505",
-    "name": "Canal+ KIDS",
+    "site_id": "nickelodeon-99",
+    "name": "Nickelodéon",
     "lang": "fr",
-    "xmltv_id": "CanalPlusKids.fr@SD"
+    "xmltv_id": "Nickelodeon.fr@SD"
   },
   {
-    "site_id": "canalplus-series-227",
-    "name": "Canal+ Séries",
+    "site_id": "nickelodeon-junior-199",
+    "name": "Nickelodeon Junior",
     "lang": "fr",
-    "xmltv_id": "CanalPlusSeries.fr@SD"
+    "xmltv_id": "NickelodeonJunior.fr@SD"
   },
   {
-    "site_id": "cartoonito-11510",
-    "name": "Cartoonito",
+    "site_id": "teletoonplus-131",
+    "name": "TéléToon+",
+    "lang": "fr",
+    "xmltv_id": "TeletoonPlus.fr@SD"
+  },
+  {
+    "site_id": "toonami-338",
+    "name": "Toonami",
+    "lang": "fr",
+    "xmltv_id": "Toonami.fr@SD"
+  },
+  {
+    "site_id": "bein-sports-max-7-303",
+    "name": "beIN SPORTS MAX 7",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax7.qa@France"
+  },
+  {
+    "site_id": "das-erste-185",
+    "name": "Das Erste",
+    "lang": "fr",
+    "xmltv_id": "DasErste.de@SD"
+  },
+  {
+    "site_id": "france-3-limousin-289",
+    "name": "France 3 Limousin",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Limousin"
+  },
+  {
+    "site_id": "rmc-sport-3-454",
+    "name": "RMC Sport 3",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rmc-sport-4-335",
+    "name": "RMC Sport 4",
+    "lang": "fr"
+  },
+  {
+    "site_id": "trace-africa-347",
+    "name": "Trace Africa",
+    "lang": "fr",
+    "xmltv_id": "TraceAfrica.fr@SD"
+  },
+  {
+    "site_id": "mcm-top-86",
+    "name": "MCM Top",
+    "lang": "fr",
+    "xmltv_id": "MCMTop.fr@SD"
+  },
+  {
+    "site_id": "oltv-101",
+    "name": "OLTV",
+    "lang": "fr",
+    "xmltv_id": "OLTV.fr@SD"
+  },
+  {
+    "site_id": "tebeo-5504",
+    "name": "Tébéo",
+    "lang": "fr"
+  },
+  {
+    "site_id": "bein-sports-max-10-305",
+    "name": "beIN SPORTS MAX 10",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax10.qa@France"
+  },
+  {
+    "site_id": "france-3-bourgogne-280",
+    "name": "France 3 Bourgogne",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Bourgogne"
+  },
+  {
+    "site_id": "stingray-djazz-361",
+    "name": "Stingray Djazz",
+    "lang": "fr",
+    "xmltv_id": "StingrayDJAZZ.ca@SD"
+  },
+  {
+    "site_id": "canalplus-foot-11508",
+    "name": "Canal+ Foot",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-3-provence-alpes-297",
+    "name": "France 3 Provence-Alpes",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@ProvenceAlpes"
+  },
+  {
+    "site_id": "mtv-rocks-91",
+    "name": "MTV Rocks",
     "lang": "fr"
   },
   {
@@ -39,40 +161,15 @@
     "xmltv_id": "NickelodeonTeen.fr@SD"
   },
   {
-    "site_id": "bbc-2-231",
-    "name": "BBC 2",
-    "lang": "fr",
-    "xmltv_id": "BBCTwo.uk@England"
+    "site_id": "planeteplus-aventure-experience-105",
+    "name": "Planète+ Aventure Expérience",
+    "lang": "fr"
   },
   {
-    "site_id": "rmc-sport-1-452",
-    "name": "RMC Sport 1",
+    "site_id": "al-jazeera-english-196",
+    "name": "Al Jazeera English",
     "lang": "fr",
-    "xmltv_id": "RMCSport1.fr@SD"
-  },
-  {
-    "site_id": "cartoon-network-41",
-    "name": "Cartoon Network",
-    "lang": "fr",
-    "xmltv_id": "CartoonNetworkCEE.uk@France"
-  },
-  {
-    "site_id": "bfm-business-232",
-    "name": "BFM Business",
-    "lang": "fr",
-    "xmltv_id": "BFMBusiness.fr@SD"
-  },
-  {
-    "site_id": "france-3-nord-pas-de-calais-292",
-    "name": "France 3 Nord Pas-de-Calais",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@NordPasdeCalais"
-  },
-  {
-    "site_id": "mangas-82",
-    "name": "Mangas",
-    "lang": "fr",
-    "xmltv_id": "Mangas.fr@SD"
+    "xmltv_id": "AlJazeera.qa@English"
   },
   {
     "site_id": "bein-sports-max-5-301",
@@ -81,202 +178,21 @@
     "xmltv_id": "beINSportsMax5.qa@France"
   },
   {
-    "site_id": "canalplus-foot-11508",
-    "name": "Canal+ Foot",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canalplus-moto-gp-10505",
-    "name": "Canal+ Moto GP",
-    "lang": "fr",
-    "xmltv_id": "CanalPlusMotoGP.fr@SD"
-  },
-  {
-    "site_id": "cineplus-club-43",
-    "name": "Ciné+ Club",
-    "lang": "fr",
-    "xmltv_id": "CinePlusClub.fr@SD"
-  },
-  {
-    "site_id": "rmc-sport-3-454",
-    "name": "RMC Sport 3",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rmc-sport-live-6-465",
-    "name": "RMC Sport Live 6",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tv5monde-128",
-    "name": "TV5MONDE",
-    "lang": "fr",
-    "xmltv_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD"
-  },
-  {
-    "site_id": "bein-sports-2-184",
-    "name": "beIN SPORTS 2",
-    "lang": "fr",
-    "xmltv_id": "beINSports2.qa@France"
-  },
-  {
-    "site_id": "france-3-aquitaine-277",
-    "name": "France 3 Aquitaine",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@Aquitaine"
-  },
-  {
-    "site_id": "lcp-100-377",
-    "name": "LCP 100%",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mens-up-6502",
-    "name": "Men's UP",
-    "lang": "fr"
-  },
-  {
-    "site_id": "euronews-62",
-    "name": "Euronews",
-    "lang": "fr",
-    "xmltv_id": "EuronewsFrench.fr@SD"
-  },
-  {
-    "site_id": "lci-la-chaine-info-78",
-    "name": "LCI - La Chaîne Info",
-    "lang": "fr",
-    "xmltv_id": "LCI.fr@SD"
-  },
-  {
-    "site_id": "nautical-channel-109",
-    "name": "Nautical Channel",
-    "lang": "fr",
-    "xmltv_id": "NauticalChannel.it@SD"
-  },
-  {
-    "site_id": "onzeo-242",
-    "name": "Onzéo",
-    "lang": "fr"
-  },
-  {
-    "site_id": "pink-tv-103",
-    "name": "Pink TV",
-    "lang": "fr",
-    "xmltv_id": "PinkTV.fr@SD"
-  },
-  {
-    "site_id": "be-cine-249",
-    "name": "Be Ciné",
-    "lang": "fr"
-  },
-  {
-    "site_id": "boing-233",
-    "name": "Boing",
-    "lang": "fr",
-    "xmltv_id": "Boing.fr@SD"
-  },
-  {
     "site_id": "canvas-234",
     "name": "Canvas",
     "lang": "fr"
   },
   {
-    "site_id": "rmc-sport-access-3-404",
-    "name": "RMC Sport Access 3",
-    "lang": "fr"
-  },
-  {
-    "site_id": "20-minutes-tv-161",
-    "name": "20 minutes TV",
-    "lang": "fr"
-  },
-  {
-    "site_id": "bbc-entertainment-194",
-    "name": "BBC Entertainment",
+    "site_id": "la-chaine-parlementaire-11",
+    "name": "La Chaîne parlementaire",
     "lang": "fr",
-    "xmltv_id": "BBCEntertainment.uk@SD"
+    "xmltv_id": "LCP.fr@SD"
   },
   {
-    "site_id": "france-3-poitou-charentes-296",
-    "name": "France 3 Poitou-Charentes",
+    "site_id": "mcm-87",
+    "name": "MCM",
     "lang": "fr",
-    "xmltv_id": "France3.fr@PoitouCharentes"
-  },
-  {
-    "site_id": "lm-tv-sarthe-376",
-    "name": "LM TV Sarthe",
-    "lang": "fr"
-  },
-  {
-    "site_id": "melody-179",
-    "name": "Melody",
-    "lang": "fr",
-    "xmltv_id": "Melody.fr@SD"
-  },
-  {
-    "site_id": "trace-africa-347",
-    "name": "Trace Africa",
-    "lang": "fr",
-    "xmltv_id": "TraceAfrica.fr@SD"
-  },
-  {
-    "site_id": "disney-channel-wallonia-271",
-    "name": "Disney Channel Wallonia",
-    "lang": "fr"
-  },
-  {
-    "site_id": "france-3-limousin-289",
-    "name": "France 3 Limousin",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@Limousin"
-  },
-  {
-    "site_id": "skynews-11502",
-    "name": "Skynews",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canalplus-2",
-    "name": "Canal+",
-    "lang": "fr",
-    "xmltv_id": "CanalPlus.fr@SD"
-  },
-  {
-    "site_id": "cineplus-famiz-46",
-    "name": "Ciné+ Famiz",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mirabelle-tv-239",
-    "name": "Mirabelle TV",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rmc-sport-live-12-456",
-    "name": "RMC Sport Live 12",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rmc-sport-live-15-463",
-    "name": "RMC Sport Live 15",
-    "lang": "fr"
-  },
-  {
-    "site_id": "bein-sports-max-9-306",
-    "name": "beIN SPORTS MAX 9",
-    "lang": "fr",
-    "xmltv_id": "beINSportsMax9.qa@France"
-  },
-  {
-    "site_id": "boomerang-34",
-    "name": "Boomerang",
-    "lang": "fr",
-    "xmltv_id": "Boomerang.fr@SD"
-  },
-  {
-    "site_id": "gong-max-350",
-    "name": "Gong Max",
-    "lang": "fr"
+    "xmltv_id": "MCM.fr@SD"
   },
   {
     "site_id": "myzen-tv-381",
@@ -285,412 +201,13 @@
     "xmltv_id": "MyZenTV.fr@SD"
   },
   {
-    "site_id": "cnn-235",
-    "name": "CNN",
-    "lang": "fr",
-    "xmltv_id": "CNNInternational.us@MENA"
-  },
-  {
-    "site_id": "een-264",
-    "name": "één",
+    "site_id": "tvsud-nimes-341",
+    "name": "TVSUD Nîmes",
     "lang": "fr"
   },
   {
-    "site_id": "la-chaine-normande-6509",
-    "name": "La Chaîne normande",
-    "lang": "fr"
-  },
-  {
-    "site_id": "science-vie-tv-58",
-    "name": "Science \u0026 Vie TV",
-    "lang": "fr",
-    "xmltv_id": "ScienceVieTV.fr@SD"
-  },
-  {
-    "site_id": "cineplus-classic-44",
-    "name": "Ciné+ Classic",
-    "lang": "fr",
-    "xmltv_id": "CinePlusClassic.fr@SD"
-  },
-  {
-    "site_id": "disney-channel-57",
-    "name": "Disney Channel",
-    "lang": "fr",
-    "xmltv_id": "DisneyChannel.fr@SD"
-  },
-  {
-    "site_id": "france-3-bourgogne-280",
-    "name": "France 3 Bourgogne",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@Bourgogne"
-  },
-  {
-    "site_id": "france-3-provence-alpes-297",
-    "name": "France 3 Provence-Alpes",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@ProvenceAlpes"
-  },
-  {
-    "site_id": "bein-sports-max-7-303",
-    "name": "beIN SPORTS MAX 7",
-    "lang": "fr",
-    "xmltv_id": "beINSportsMax7.qa@France"
-  },
-  {
-    "site_id": "gulli-29",
-    "name": "Gulli",
-    "lang": "fr",
-    "xmltv_id": "Gulli.fr@SD"
-  },
-  {
-    "site_id": "luxe-tv-6506",
-    "name": "Luxe TV",
-    "lang": "fr"
-  },
-  {
-    "site_id": "weo-394",
-    "name": "Weo",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canalplus-sport-37",
-    "name": "Canal+ Sport",
-    "lang": "fr",
-    "xmltv_id": "CanalPlusSport.fr@SD"
-  },
-  {
-    "site_id": "france-3-rhone-alpes-298",
-    "name": "France 3 Rhône-Alpes",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@RhoneAlpes"
-  },
-  {
-    "site_id": "franceinfo-307",
-    "name": "Franceinfo",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rmc-sport-1-uhd-334",
-    "name": "RMC Sport 1 UHD",
-    "lang": "fr",
-    "xmltv_id": "RMCSport1.fr@UHD"
-  },
-  {
-    "site_id": "6ter-202",
-    "name": "6ter",
-    "lang": "fr",
-    "xmltv_id": "6ter.fr@SD"
-  },
-  {
-    "site_id": "canal-32-390",
-    "name": "Canal 32",
-    "lang": "fr"
-  },
-  {
-    "site_id": "france-3-auvergne-278",
-    "name": "France 3 Auvergne",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@Auvergne"
-  },
-  {
-    "site_id": "rmc-sport-live-16-461",
-    "name": "RMC Sport Live 16",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canalplus-decale-36",
-    "name": "Canal+ Décalé",
-    "lang": "fr",
-    "xmltv_id": "CanalPlusDecale.fr@SD"
-  },
-  {
-    "site_id": "crime-district-363",
-    "name": "Crime District",
-    "lang": "fr",
-    "xmltv_id": "CrimeDistrict.fr@SD"
-  },
-  {
-    "site_id": "france-2-6",
-    "name": "France 2",
-    "lang": "fr",
-    "xmltv_id": "France2.fr@SD"
-  },
-  {
-    "site_id": "rmc-sport-live-11-455",
-    "name": "RMC Sport Live 11",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rtl-television-198",
-    "name": "RTL Télévision",
-    "lang": "de",
-    "xmltv_id": "RTL.de@SD"
-  },
-  {
-    "site_id": "tntv-france-6503",
-    "name": "TNTV France",
-    "lang": "fr"
-  },
-  {
-    "site_id": "vtm-263",
-    "name": "VTM",
-    "lang": "fr",
-    "xmltv_id": "VTM.be@SD"
-  },
-  {
-    "site_id": "bet-299",
-    "name": "BET",
-    "lang": "fr",
-    "xmltv_id": "BET.fr@SD"
-  },
-  {
-    "site_id": "canalplus-cinema-35",
-    "name": "Canal+ Cinéma",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mtv-rocks-91",
-    "name": "MTV Rocks",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tcm-cinema-113",
-    "name": "TCM Cinéma",
-    "lang": "fr",
-    "xmltv_id": "TCMCinema.fr@SD"
-  },
-  {
-    "site_id": "bein-sports-3-265",
-    "name": "beIN SPORTS 3",
-    "lang": "fr",
-    "xmltv_id": "beINSports3.qa@France"
-  },
-  {
-    "site_id": "c8-4",
-    "name": "C8",
-    "lang": "fr",
-    "xmltv_id": "C8.fr@SD"
-  },
-  {
-    "site_id": "mcm-top-86",
-    "name": "MCM Top",
-    "lang": "fr",
-    "xmltv_id": "MCMTop.fr@SD"
-  },
-  {
-    "site_id": "paramount-channel-226",
-    "name": "Paramount Channel",
-    "lang": "fr",
-    "xmltv_id": "ParamountChannel.fr@SD"
-  },
-  {
-    "site_id": "tiji-115",
-    "name": "TIJI",
-    "lang": "fr",
-    "xmltv_id": "TiJi.fr@SD"
-  },
-  {
-    "site_id": "automoto-89",
-    "name": "Automoto",
-    "lang": "fr",
-    "xmltv_id": "Automotolachaine.fr@SD"
-  },
-  {
-    "site_id": "canalplus-ligue-1-10504",
-    "name": "Canal+ Ligue 1",
-    "lang": "fr"
-  },
-  {
-    "site_id": "gong-355",
-    "name": "Gong",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mtv-96",
-    "name": "MTV",
-    "lang": "fr",
-    "xmltv_id": "MTV.fr@SD"
-  },
-  {
-    "site_id": "planeteplus-16",
-    "name": "Planète+",
-    "lang": "fr",
-    "xmltv_id": "PlanetePlus.fr@SD"
-  },
-  {
-    "site_id": "tipik-143",
-    "name": "Tipik",
-    "lang": "fr",
-    "xmltv_id": "Tipik.be@SD"
-  },
-  {
-    "site_id": "comedy-central-472",
-    "name": "Comedy Central",
-    "lang": "fr",
-    "xmltv_id": "ComedyCentral.fr@SD"
-  },
-  {
-    "site_id": "e-141",
-    "name": "E !",
-    "lang": "fr",
-    "xmltv_id": "E.fr@SD"
-  },
-  {
-    "site_id": "be-1-248",
-    "name": "BE 1",
-    "lang": "fr"
-  },
-  {
-    "site_id": "colmax-tv-11523",
-    "name": "Colmax TV",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mezzo-live-hd-311",
-    "name": "Mezzo Live HD",
-    "lang": "fr",
-    "xmltv_id": "MezzoLive.fr@SD"
-  },
-  {
-    "site_id": "tvbreizh-129",
-    "name": "TvBreizh",
-    "lang": "fr",
-    "xmltv_id": "TVBreizh.fr@SD"
-  },
-  {
-    "site_id": "rai-uno-188",
-    "name": "Rai Uno",
-    "lang": "fr",
-    "xmltv_id": "Rai1.it@SD"
-  },
-  {
-    "site_id": "france-3-basse-normandie-279",
-    "name": "France 3 Basse-Normandie",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@BasseNormandie"
-  },
-  {
-    "site_id": "ab-1-31",
-    "name": "AB 1",
-    "lang": "fr",
-    "xmltv_id": "AB1.fr@SD"
-  },
-  {
-    "site_id": "animaux-33",
-    "name": "Animaux",
-    "lang": "fr",
-    "xmltv_id": "Animaux.fr@SD"
-  },
-  {
-    "site_id": "baby-tv-229",
-    "name": "Baby TV",
-    "lang": "fr",
-    "xmltv_id": "BabyTV.uk@UK"
-  },
-  {
-    "site_id": "bein-sports-max-10-305",
-    "name": "beIN SPORTS MAX 10",
-    "lang": "fr",
-    "xmltv_id": "beINSportsMax10.qa@France"
-  },
-  {
-    "site_id": "cherie-25-206",
-    "name": "Chérie 25",
-    "lang": "fr"
-  },
-  {
-    "site_id": "non-stop-people-hd-241",
-    "name": "Non Stop People HD",
-    "lang": "fr",
-    "xmltv_id": "NonStopPeople.fr@SD"
-  },
-  {
-    "site_id": "abxplore-139",
-    "name": "ABXPLORE",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canalplus-box-office-11522",
-    "name": "Canal+ Box Office",
-    "lang": "fr"
-  },
-  {
-    "site_id": "pro7-11501",
-    "name": "Pro7",
-    "lang": "fr"
-  },
-  {
-    "site_id": "trace-sport-stars-197",
-    "name": "TRACE Sport Stars",
-    "lang": "fr",
-    "xmltv_id": "TraceSportStars.fr@HD"
-  },
-  {
-    "site_id": "tvsud-montpellier-344",
-    "name": "TVSUD Montpellier",
-    "lang": "fr"
-  },
-  {
-    "site_id": "be-series-253",
-    "name": "Be Séries",
-    "lang": "fr"
-  },
-  {
-    "site_id": "bein-sports-max-4-300",
-    "name": "beIN SPORTS MAX 4",
-    "lang": "fr",
-    "xmltv_id": "beINSportsMax4.qa@France"
-  },
-  {
-    "site_id": "nrj-hits-167",
-    "name": "NRJ Hits",
-    "lang": "fr",
-    "xmltv_id": "NRJHits.fr@SD"
-  },
-  {
-    "site_id": "rts-un-147",
-    "name": "RTS Un",
-    "lang": "fr",
-    "xmltv_id": "RTS1.ch@SD"
-  },
-  {
-    "site_id": "zdf-193",
-    "name": "ZDF",
-    "lang": "fr",
-    "xmltv_id": "ZDF.de@SD"
-  },
-  {
-    "site_id": "africa-24-6510",
-    "name": "Africa 24",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cnews-30",
-    "name": "CNEWS",
-    "lang": "fr",
-    "xmltv_id": "CNews.fr@SD"
-  },
-  {
-    "site_id": "france-3-7",
-    "name": "France 3",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@SD"
-  },
-  {
-    "site_id": "stingray-i-concerts-392",
-    "name": "Stingray i-Concerts",
-    "lang": "fr",
-    "xmltv_id": "StingrayiConcerts.ca@SD"
-  },
-  {
-    "site_id": "vh1-133",
-    "name": "VH1",
-    "lang": "fr",
-    "xmltv_id": "MTV00s.uk@SD"
-  },
-  {
-    "site_id": "vtm2-244",
-    "name": "VTM2",
+    "site_id": "bblack-359",
+    "name": "BBlack",
     "lang": "fr"
   },
   {
@@ -700,566 +217,22 @@
     "xmltv_id": "CStar.fr@SD"
   },
   {
-    "site_id": "golfplus-189",
-    "name": "Golf+",
-    "lang": "fr",
-    "xmltv_id": "GolfPlus.fr@SD"
-  },
-  {
-    "site_id": "voosport-world-2-252",
-    "name": "VOOsport World 2",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canalplus-top-14-10507",
-    "name": "Canal+ Top 14",
-    "lang": "fr",
-    "xmltv_id": "CanalPlusTop14.fr@SD"
-  },
-  {
-    "site_id": "cineplus-premier-3",
-    "name": "Ciné+ Premier",
-    "lang": "fr",
-    "xmltv_id": "CinePlusPremier.fr@SD"
-  },
-  {
-    "site_id": "france-3-midi-pyrenees-291",
-    "name": "France 3 Midi-Pyrénées",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@MidiPyrenees"
-  },
-  {
-    "site_id": "kto-68",
-    "name": "KTO",
-    "lang": "fr",
-    "xmltv_id": "KTO.fr@SD"
-  },
-  {
-    "site_id": "mosaik-cristal-8501",
-    "name": "Mosaïk Cristal",
-    "lang": "fr"
-  },
-  {
-    "site_id": "club-rtl-140",
-    "name": "Club RTL",
-    "lang": "fr"
-  },
-  {
-    "site_id": "proximus-11-250",
-    "name": "Proximus 11",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rmc-sport-access-2-178",
-    "name": "RMC Sport Access 2",
-    "lang": "fr"
-  },
-  {
-    "site_id": "vosges-television-343",
-    "name": "Vosges Télévision",
-    "lang": "fr"
-  },
-  {
-    "site_id": "warner-tv-403",
-    "name": "Warner TV",
-    "lang": "fr",
-    "xmltv_id": "WarnerTV.fr@SD"
-  },
-  {
-    "site_id": "france-3-paris-ile-de-france-293",
-    "name": "France 3 Paris Ile-de-France",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@ParisIledeFrance"
-  },
-  {
-    "site_id": "histoire-tv-72",
-    "name": "Histoire TV",
-    "lang": "fr",
-    "xmltv_id": "HistoireTV.fr@SD"
-  },
-  {
-    "site_id": "das-erste-185",
-    "name": "Das Erste",
-    "lang": "fr",
-    "xmltv_id": "DasErste.de@SD"
-  },
-  {
-    "site_id": "france-4-8",
-    "name": "France 4",
-    "lang": "fr",
-    "xmltv_id": "France4.fr@SD"
-  },
-  {
-    "site_id": "infosportplus-74",
-    "name": "Infosport+",
-    "lang": "fr",
-    "xmltv_id": "InfosportPlus.fr@SD"
-  },
-  {
-    "site_id": "ocs-pulp-169",
-    "name": "OCS Pulp",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tv7-bordeaux-382",
-    "name": "TV7 Bordeaux",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tvpi-6508",
-    "name": "TVPI",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canalplus-grand-ecran-11504",
-    "name": "Canal+ Grand Ecran",
-    "lang": "fr",
-    "xmltv_id": "CanalPlusGrandEcran.fr@SD"
-  },
-  {
-    "site_id": "chasse-et-peche-42",
-    "name": "Chasse et pêche",
-    "lang": "fr",
-    "xmltv_id": "ChassePeche.fr@SD"
-  },
-  {
-    "site_id": "france-3-cote-dazur-285",
-    "name": "France 3 Côte d'Azur",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@CotedAzur"
-  },
-  {
-    "site_id": "rfm-tv-85",
-    "name": "RFM TV",
-    "lang": "fr",
-    "xmltv_id": "RFMTV.fr@SD"
-  },
-  {
-    "site_id": "canal-j-40",
-    "name": "Canal J",
-    "lang": "fr",
-    "xmltv_id": "CanalJ.fr@SD"
-  },
-  {
-    "site_id": "eurosport-1-5",
-    "name": "Eurosport 1",
-    "lang": "fr",
-    "xmltv_id": "Eurosport1.fr@France"
-  },
-  {
-    "site_id": "eurosport-2-63",
-    "name": "Eurosport 2",
-    "lang": "fr",
-    "xmltv_id": "Eurosport2.fr@France"
-  },
-  {
-    "site_id": "rmc-sport-live-14-462",
-    "name": "RMC Sport Live 14",
-    "lang": "fr"
-  },
-  {
-    "site_id": "stingray-festival-4k-357",
-    "name": "Stingray Festival 4K",
-    "lang": "fr"
-  },
-  {
-    "site_id": "trek-269",
-    "name": "Trek",
-    "lang": "fr",
-    "xmltv_id": "Trek.fr@SD"
-  },
-  {
-    "site_id": "gospel-music-tv-346",
-    "name": "Gospel Music TV",
-    "lang": "fr"
-  },
-  {
-    "site_id": "nat-geo-wild-207",
-    "name": "Nat Geo Wild",
-    "lang": "fr",
-    "xmltv_id": "NationalGeographicWild.fr@SD"
-  },
-  {
-    "site_id": "rmc-sport-4-335",
-    "name": "RMC Sport 4",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tve-186",
-    "name": "TVE",
-    "lang": "fr",
-    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
-  },
-  {
-    "site_id": "ushuaia-tv-132",
-    "name": "Ushuaïa TV",
-    "lang": "fr",
-    "xmltv_id": "UshuaiaTV.fr@SD"
-  },
-  {
-    "site_id": "al-jazeera-english-196",
-    "name": "Al Jazeera English",
-    "lang": "fr",
-    "xmltv_id": "AlJazeera.qa@English"
-  },
-  {
-    "site_id": "nickelodeon-wallonia-272",
-    "name": "Nickelodéon Wallonia",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ocs-max-172",
-    "name": "OCS Max",
-    "lang": "fr",
-    "xmltv_id": "OCSMax.fr@SD"
-  },
-  {
-    "site_id": "plug-rtl-145",
-    "name": "Plug RTL",
-    "lang": "fr"
-  },
-  {
-    "site_id": "polarplus-401",
-    "name": "Polar+",
-    "lang": "fr",
-    "xmltv_id": "PolarPlus.fr@SD"
-  },
-  {
-    "site_id": "rtl-9-17",
-    "name": "RTL 9",
-    "lang": "fr",
-    "xmltv_id": "RTL9.lu@SD"
-  },
-  {
-    "site_id": "serieclub-18",
-    "name": "serieclub",
-    "lang": "fr",
-    "xmltv_id": "SerieClub.fr@SD"
-  },
-  {
-    "site_id": "vh1-classic-356",
-    "name": "VH1 Classic",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rmc-sport-live-5-464",
-    "name": "RMC Sport Live 5",
-    "lang": "fr"
-  },
-  {
-    "site_id": "bbc-1-230",
-    "name": "BBC 1",
-    "lang": "fr",
-    "xmltv_id": "BBCOne.uk@London"
-  },
-  {
-    "site_id": "bein-sports-1-183",
-    "name": "beIN SPORTS 1",
-    "lang": "fr",
-    "xmltv_id": "beINSports1.qa@France"
-  },
-  {
-    "site_id": "bfm-dici-haute-provence-6504",
-    "name": "BFM DICI Haute-Provence",
-    "lang": "fr"
-  },
-  {
-    "site_id": "france-3-alsace-276",
-    "name": "France 3 Alsace",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@Alsace"
-  },
-  {
-    "site_id": "mezzo-88",
-    "name": "Mezzo",
-    "lang": "fr",
-    "xmltv_id": "Mezzo.fr@SD"
-  },
-  {
-    "site_id": "rtl-tvi-146",
-    "name": "RTL TVI",
-    "lang": "fr",
-    "xmltv_id": "RTLTVI.be@SD"
-  },
-  {
-    "site_id": "tvr-rennes-35-bretagne-362",
-    "name": "TVR Rennes 35 Bretagne",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canalplus-formula-1-10503",
-    "name": "Canal+ Formula 1",
-    "lang": "fr",
-    "xmltv_id": "CanalPlusFormula1.fr@SD"
-  },
-  {
-    "site_id": "discovery-science-200",
-    "name": "Discovery Science",
-    "lang": "fr",
-    "xmltv_id": "DiscoveryScienceEurope.uk@France"
-  },
-  {
-    "site_id": "france-3-champagne-ardennes-283",
-    "name": "France 3 Champagne-Ardennes",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@ChampagneArdenne"
-  },
-  {
-    "site_id": "rmc-sport-live-7-457",
-    "name": "RMC Sport Live 7",
-    "lang": "fr"
-  },
-  {
-    "site_id": "bloomberg-10502",
-    "name": "Bloomberg",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canal-z-254",
-    "name": "Canal Z",
-    "lang": "fr"
-  },
-  {
-    "site_id": "france-3-franche-comte-286",
-    "name": "France 3 Franche-Comté",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@FrancheComte"
-  },
-  {
-    "site_id": "j-one-387",
-    "name": "J-One",
-    "lang": "fr",
-    "xmltv_id": "JOne.fr@SD"
-  },
-  {
-    "site_id": "la-chaine-parlementaire-11",
-    "name": "La Chaîne parlementaire",
-    "lang": "fr",
-    "xmltv_id": "LCP.fr@SD"
-  },
-  {
-    "site_id": "ocs-geants-170",
-    "name": "OCS Géants",
-    "lang": "fr",
-    "xmltv_id": "OCSGeants.fr@SD"
-  },
-  {
-    "site_id": "bein-sports-max-6-302",
-    "name": "beIN SPORTS MAX 6",
-    "lang": "fr",
-    "xmltv_id": "beINSportsMax6.qa@France"
-  },
-  {
-    "site_id": "b-one-339",
-    "name": "B.One",
-    "lang": "fr",
-    "xmltv_id": "BOneTV.cd@SD"
-  },
-  {
-    "site_id": "bblack-359",
-    "name": "BBlack",
-    "lang": "fr"
-  },
-  {
-    "site_id": "national-geographic-98",
-    "name": "National Geographic",
-    "lang": "fr",
-    "xmltv_id": "NationalGeographic.fr@SD"
-  },
-  {
-    "site_id": "npo1-266",
-    "name": "NPO1",
-    "lang": "fr",
-    "xmltv_id": "NPO1.nl@SD"
-  },
-  {
-    "site_id": "tf1-series-films-201",
-    "name": "TF1 Séries Films",
-    "lang": "fr",
-    "xmltv_id": "TF1SeriesFilms.fr@SD"
-  },
-  {
-    "site_id": "w9-24",
-    "name": "W9",
-    "lang": "fr",
-    "xmltv_id": "W9.fr@SD"
-  },
-  {
-    "site_id": "xxl-135",
-    "name": "XXL",
-    "lang": "fr",
-    "xmltv_id": "XXL.fr@SD"
-  },
-  {
-    "site_id": "bfmtv-25",
-    "name": "BFMTV",
-    "lang": "fr"
-  },
-  {
-    "site_id": "golf-channel-354",
-    "name": "Golf Channel",
-    "lang": "fr",
-    "xmltv_id": "GolfChannel.fr@SD"
-  },
-  {
-    "site_id": "mcm-87",
-    "name": "MCM",
-    "lang": "fr",
-    "xmltv_id": "MCM.fr@SD"
-  },
-  {
-    "site_id": "npo2-267",
-    "name": "NPO2",
-    "lang": "fr",
-    "xmltv_id": "NPO2.nl@SD"
-  },
-  {
-    "site_id": "tv-tours-393",
-    "name": "TV Tours",
-    "lang": "fr"
-  },
-  {
-    "site_id": "bbc4-247",
-    "name": "BBC4",
-    "lang": "fr",
-    "xmltv_id": "BBCFour.uk@UK"
-  },
-  {
-    "site_id": "france-3-lorraine-290",
-    "name": "France 3 Lorraine",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@Lorraine"
-  },
-  {
-    "site_id": "france-5-9",
-    "name": "France 5",
-    "lang": "fr",
-    "xmltv_id": "France5.fr@SD"
-  },
-  {
-    "site_id": "lequipe-204",
-    "name": "L'Equipe",
-    "lang": "fr",
-    "xmltv_id": "LEquipe.fr@SD"
-  },
-  {
-    "site_id": "public-senat-2424-6511",
-    "name": "Public Sénat 2424",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rtpi-187",
-    "name": "RTPI",
-    "lang": "fr",
-    "xmltv_id": "RTPInternacional.pt@SD"
-  },
-  {
-    "site_id": "voosport-world-1-251",
-    "name": "VOOsport World 1",
-    "lang": "fr"
-  },
-  {
-    "site_id": "13eme-rue-26",
-    "name": "13eme RUE",
-    "lang": "fr",
-    "xmltv_id": "13emeRue.fr@SD"
-  },
-  {
-    "site_id": "canalplus-sport-360-11509",
-    "name": "Canal+ Sport 360",
-    "lang": "fr"
-  },
-  {
-    "site_id": "equidia-59",
-    "name": "Equidia",
-    "lang": "fr",
-    "xmltv_id": "Equidia.fr@SD"
-  },
-  {
-    "site_id": "la-chaine-meteo-77",
-    "name": "La Chaîne Météo",
-    "lang": "fr",
-    "xmltv_id": "LaChaineMeteo.fr@SD"
-  },
-  {
-    "site_id": "rmc-sport-access-1-336",
-    "name": "RMC Sport Access 1",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rmc-sport-live-13-466",
-    "name": "RMC Sport Live 13",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tfx-14",
-    "name": "TFX",
-    "lang": "fr",
-    "xmltv_id": "TFX.fr@SD"
-  },
-  {
-    "site_id": "la-trois-175",
-    "name": "La Trois",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ocs-city-173",
-    "name": "OCS City",
-    "lang": "fr",
-    "xmltv_id": "OCSCity.fr@SD"
-  },
-  {
-    "site_id": "ginx-352",
-    "name": "Ginx",
-    "lang": "fr",
-    "xmltv_id": "GINXTV.uk@SD"
-  },
-  {
-    "site_id": "nickelodeon-99",
-    "name": "Nickelodéon",
-    "lang": "fr",
-    "xmltv_id": "Nickelodeon.fr@SD"
-  },
-  {
-    "site_id": "rmc-sport-2-453",
-    "name": "RMC Sport 2",
-    "lang": "fr",
-    "xmltv_id": "RMCSport2.fr@SD"
-  },
-  {
-    "site_id": "teletoonplus-131",
-    "name": "TéléToon+",
-    "lang": "fr",
-    "xmltv_id": "TeletoonPlus.fr@SD"
-  },
-  {
-    "site_id": "canal-partage-tnt-ile-de-france-163",
-    "name": "Canal partagé TNT Ile-de-France",
-    "lang": "fr"
-  },
-  {
-    "site_id": "france-3-bretagne-281",
-    "name": "France 3 Bretagne",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@Bretagne"
-  },
-  {
     "site_id": "france-3-languedoc-roussillon-288",
     "name": "France 3 Languedoc-Roussillon",
     "lang": "fr",
     "xmltv_id": "France3.fr@LanguedocRoussillon"
   },
   {
-    "site_id": "oltv-101",
-    "name": "OLTV",
+    "site_id": "france-3-rhone-alpes-298",
+    "name": "France 3 Rhône-Alpes",
     "lang": "fr",
-    "xmltv_id": "OLTV.fr@SD"
+    "xmltv_id": "France3.fr@RhoneAlpes"
   },
   {
-    "site_id": "rmc-story-203",
-    "name": "RMC Story",
+    "site_id": "planeteplus-16",
+    "name": "Planète+",
     "lang": "fr",
-    "xmltv_id": "RMCStory.fr@SD"
+    "xmltv_id": "PlanetePlus.fr@SD"
   },
   {
     "site_id": "cineplus-frisson-47",
@@ -1268,323 +241,20 @@
     "xmltv_id": "CinePlusFrisson.fr@SD"
   },
   {
-    "site_id": "france-3-picardie-295",
-    "name": "France 3 Picardie",
+    "site_id": "c8-4",
+    "name": "C8",
     "lang": "fr",
-    "xmltv_id": "France3.fr@Picardie"
+    "xmltv_id": "C8.fr@SD"
   },
   {
-    "site_id": "stingray-djazz-361",
-    "name": "Stingray Djazz",
-    "lang": "fr",
-    "xmltv_id": "StingrayDJAZZ.ca@SD"
-  },
-  {
-    "site_id": "i24news-243",
-    "name": "I24news",
-    "lang": "fr",
-    "xmltv_id": "i24NEWSFrench.il@SD"
-  },
-  {
-    "site_id": "vtm4-245",
-    "name": "VTM4",
+    "site_id": "gong-max-350",
+    "name": "Gong Max",
     "lang": "fr"
   },
   {
-    "site_id": "bfm-lyon-metropole-364",
-    "name": "BFM Lyon Métropole",
-    "lang": "fr",
-    "xmltv_id": "BFMLyon.fr@SD"
-  },
-  {
-    "site_id": "cineplus-emotion-45",
-    "name": "Ciné+ Emotion",
-    "lang": "fr",
-    "xmltv_id": "CinePlusEmotion.fr@SD"
-  },
-  {
-    "site_id": "france-24-142",
-    "name": "France 24",
-    "lang": "fr",
-    "xmltv_id": "France24.fr@French"
-  },
-  {
-    "site_id": "game-one-71",
-    "name": "Game One",
-    "lang": "fr",
-    "xmltv_id": "GameOne.fr@SD"
-  },
-  {
-    "site_id": "maritima-tv-6507",
-    "name": "Maritima TV",
+    "site_id": "luxe-tv-6506",
+    "name": "Luxe TV",
     "lang": "fr"
-  },
-  {
-    "site_id": "mtv-hits-93",
-    "name": "MTV Hits",
-    "lang": "fr",
-    "xmltv_id": "MTVHitsEurope.uk@SD"
-  },
-  {
-    "site_id": "novelas-tv-400",
-    "name": "Novelas TV",
-    "lang": "fr",
-    "xmltv_id": "NovelasTV.fr@SD"
-  },
-  {
-    "site_id": "paramountfr1-8502",
-    "name": "paramountfr1",
-    "lang": "fr"
-  },
-  {
-    "site_id": "3sat-10501",
-    "name": "3Sat",
-    "lang": "fr"
-  },
-  {
-    "site_id": "bfm-paris-379",
-    "name": "BFM Paris",
-    "lang": "fr",
-    "xmltv_id": "BFMParisIledeFrance.fr@SD"
-  },
-  {
-    "site_id": "ketnet-255",
-    "name": "Ketnet",
-    "lang": "fr",
-    "xmltv_id": "Ketnet.be@SD"
-  },
-  {
-    "site_id": "mtv-hits-france-273",
-    "name": "MTV Hits (France)",
-    "lang": "fr",
-    "xmltv_id": "MTVHits.fr@SD"
-  },
-  {
-    "site_id": "play5-261",
-    "name": "Play5",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rts-deux-148",
-    "name": "RTS Deux",
-    "lang": "fr",
-    "xmltv_id": "RTS2.ch@SD"
-  },
-  {
-    "site_id": "syfy-110",
-    "name": "Syfy",
-    "lang": "fr",
-    "xmltv_id": "Syfy.fr@SD"
-  },
-  {
-    "site_id": "tele-grenoble-isere-396",
-    "name": "Télé Grenoble Isère",
-    "lang": "fr"
-  },
-  {
-    "site_id": "aplus-international-france-383",
-    "name": "A+ International France",
-    "lang": "fr",
-    "xmltv_id": "APlus.fr@SD"
-  },
-  {
-    "site_id": "discovery-channel-54",
-    "name": "Discovery Channel",
-    "lang": "fr",
-    "xmltv_id": "DiscoveryChannel.fr@SD"
-  },
-  {
-    "site_id": "france-3-pays-de-la-loire-294",
-    "name": "France 3 Pays de la Loire",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@PaysdelaLoire"
-  },
-  {
-    "site_id": "rmc-decouverte-205",
-    "name": "RMC Découverte",
-    "lang": "fr",
-    "xmltv_id": "RMCDecouverte.fr@SD"
-  },
-  {
-    "site_id": "rmc-sport-live-9-460",
-    "name": "RMC Sport Live 9",
-    "lang": "fr"
-  },
-  {
-    "site_id": "teva-23",
-    "name": "Téva",
-    "lang": "fr",
-    "xmltv_id": "Teva.fr@SD"
-  },
-  {
-    "site_id": "bfm-alsace-366",
-    "name": "BFM Alsace",
-    "lang": "fr"
-  },
-  {
-    "site_id": "bfm-dici-alpes-du-sud-6505",
-    "name": "BFM DICI Alpes du Sud",
-    "lang": "fr"
-  },
-  {
-    "site_id": "france-3-alpes-275",
-    "name": "France 3 Alpes",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@Alpes"
-  },
-  {
-    "site_id": "france-3-centre-val-de-loire-282",
-    "name": "France 3 Centre-Val de Loire",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@CentreValdeLoire"
-  },
-  {
-    "site_id": "tf1-19",
-    "name": "TF1",
-    "lang": "fr",
-    "xmltv_id": "TF1.fr@SD"
-  },
-  {
-    "site_id": "toonami-338",
-    "name": "Toonami",
-    "lang": "fr",
-    "xmltv_id": "Toonami.fr@SD"
-  },
-  {
-    "site_id": "trace-urban-127",
-    "name": "Trace Urban",
-    "lang": "fr",
-    "xmltv_id": "TraceUrban.fr@SD"
-  },
-  {
-    "site_id": "planeteplus-crime-investigation-151",
-    "name": "Planète+ Crime Investigation",
-    "lang": "fr",
-    "xmltv_id": "PlanetePlusCrime.fr@SD"
-  },
-  {
-    "site_id": "disney-junior-166",
-    "name": "Disney Junior",
-    "lang": "fr",
-    "xmltv_id": "DisneyJr.fr@SD"
-  },
-  {
-    "site_id": "action-32",
-    "name": "Action",
-    "lang": "fr",
-    "xmltv_id": "Action.fr@SD"
-  },
-  {
-    "site_id": "bfm-grand-lille-367",
-    "name": "BFM Grand Lille",
-    "lang": "fr"
-  },
-  {
-    "site_id": "france-3-corse-via-stella-284",
-    "name": "France 3 Corse Via Stella",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@CorseViaStella"
-  },
-  {
-    "site_id": "rmc-sport-live-10-459",
-    "name": "RMC Sport Live 10",
-    "lang": "fr"
-  },
-  {
-    "site_id": "swr-208",
-    "name": "SWR",
-    "lang": "fr"
-  },
-  {
-    "site_id": "telenantes-373",
-    "name": "Télénantes",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canalplus-premier-league-10506",
-    "name": "Canal+ Premier League",
-    "lang": "fr",
-    "xmltv_id": "CanalPlusPremierLeague.fr@SD"
-  },
-  {
-    "site_id": "eurochannel-236",
-    "name": "Eurochannel",
-    "lang": "fr",
-    "xmltv_id": "Eurochannel.uk@SD"
-  },
-  {
-    "site_id": "tmc-21",
-    "name": "TMC",
-    "lang": "fr",
-    "xmltv_id": "TMC.fr@SD"
-  },
-  {
-    "site_id": "toute-lhistoire-117",
-    "name": "Toute l'histoire",
-    "lang": "fr",
-    "xmltv_id": "ToutelHistoire.fr@SD"
-  },
-  {
-    "site_id": "dorcel-tv-11524",
-    "name": "Dorcel TV",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ab-3-138",
-    "name": "AB 3",
-    "lang": "fr",
-    "xmltv_id": "AB3.be@SD"
-  },
-  {
-    "site_id": "comedieplus-27",
-    "name": "Comédie+",
-    "lang": "fr",
-    "xmltv_id": "ComediePlus.fr@SD"
-  },
-  {
-    "site_id": "m6-music-80",
-    "name": "M6 Music",
-    "lang": "fr",
-    "xmltv_id": "M6Music.fr@SD"
-  },
-  {
-    "site_id": "paris-premiere-15",
-    "name": "Paris Première",
-    "lang": "fr",
-    "xmltv_id": "ParisPremiere.fr@SD"
-  },
-  {
-    "site_id": "tebeo-5504",
-    "name": "Tébéo",
-    "lang": "fr"
-  },
-  {
-    "site_id": "vtm3-262",
-    "name": "VTM3",
-    "lang": "fr"
-  },
-  {
-    "site_id": "8-mont-blanc-385",
-    "name": "8 Mont-Blanc",
-    "lang": "fr"
-  },
-  {
-    "site_id": "canalplus-docs-9501",
-    "name": "Canal+ Docs",
-    "lang": "fr",
-    "xmltv_id": "CanalPlusDocs.fr@SD"
-  },
-  {
-    "site_id": "france-3-haute-normandie-287",
-    "name": "France 3 Haute-Normandie",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@HauteNormandie"
-  },
-  {
-    "site_id": "nrj-12-13",
-    "name": "NRJ 12",
-    "lang": "fr",
-    "xmltv_id": "NRJ12.fr@SD"
   },
   {
     "site_id": "piwiplus-104",
@@ -1593,53 +263,8 @@
     "xmltv_id": "PiwiPlus.fr@SD"
   },
   {
-    "site_id": "stingray-classica-11503",
-    "name": "Stingray Classica",
-    "lang": "fr"
-  },
-  {
-    "site_id": "arte-337",
-    "name": "Arte",
-    "lang": "fr",
-    "xmltv_id": "arte.fr@SD"
-  },
-  {
-    "site_id": "m6-12",
-    "name": "M6",
-    "lang": "fr",
-    "xmltv_id": "M6.fr@HD"
-  },
-  {
-    "site_id": "m6-boutique-238",
-    "name": "M6 Boutique",
-    "lang": "fr"
-  },
-  {
-    "site_id": "la-une-144",
-    "name": "La Une",
-    "lang": "fr",
-    "xmltv_id": "LaUne.be@SD"
-  },
-  {
-    "site_id": "trace-tropical-395",
-    "name": "Trace Tropical",
-    "lang": "fr"
-  },
-  {
-    "site_id": "fashion-tv-358",
-    "name": "Fashion TV",
-    "lang": "fr",
-    "xmltv_id": "FashionTVEurope.fr@SD"
-  },
-  {
-    "site_id": "nickelodeon-junior-199",
-    "name": "Nickelodeon Junior",
-    "lang": "fr",
-    "xmltv_id": "NickelodeonJunior.fr@SD"
-  },
-  {
-    "site_id": "rmc-sport-live-8-458",
-    "name": "RMC Sport Live 8",
+    "site_id": "public-senat-2424-6511",
+    "name": "Public Sénat 2424",
     "lang": "fr"
   },
   {
@@ -1649,8 +274,994 @@
     "xmltv_id": "Seasons.fr@SD"
   },
   {
-    "site_id": "tvsud-nimes-341",
-    "name": "TVSUD Nîmes",
+    "site_id": "tiji-115",
+    "name": "TIJI",
+    "lang": "fr",
+    "xmltv_id": "TiJi.fr@SD"
+  },
+  {
+    "site_id": "canalplus-top-14-10507",
+    "name": "Canal+ Top 14",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusTop14.fr@SD"
+  },
+  {
+    "site_id": "cineplus-emotion-45",
+    "name": "Ciné+ Emotion",
+    "lang": "fr",
+    "xmltv_id": "CinePlusEmotion.fr@SD"
+  },
+  {
+    "site_id": "nrj-12-13",
+    "name": "NRJ 12",
+    "lang": "fr",
+    "xmltv_id": "NRJ12.fr@SD"
+  },
+  {
+    "site_id": "rmc-sport-access-2-178",
+    "name": "RMC Sport Access 2",
+    "lang": "fr"
+  },
+  {
+    "site_id": "canalplus-formula-1-10503",
+    "name": "Canal+ Formula 1",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusFormula1.fr@SD"
+  },
+  {
+    "site_id": "mangas-82",
+    "name": "Mangas",
+    "lang": "fr",
+    "xmltv_id": "Mangas.fr@SD"
+  },
+  {
+    "site_id": "3sat-10501",
+    "name": "3Sat",
+    "lang": "fr"
+  },
+  {
+    "site_id": "chasse-et-peche-42",
+    "name": "Chasse et pêche",
+    "lang": "fr",
+    "xmltv_id": "ChassePeche.fr@SD"
+  },
+  {
+    "site_id": "comedieplus-27",
+    "name": "Comédie+",
+    "lang": "fr",
+    "xmltv_id": "ComediePlus.fr@SD"
+  },
+  {
+    "site_id": "france-3-champagne-ardennes-283",
+    "name": "France 3 Champagne-Ardennes",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@ChampagneArdenne"
+  },
+  {
+    "site_id": "tvsud-montpellier-344",
+    "name": "TVSUD Montpellier",
+    "lang": "fr"
+  },
+  {
+    "site_id": "voosport-world-1-251",
+    "name": "VOOsport World 1",
+    "lang": "fr"
+  },
+  {
+    "site_id": "bbc-1-230",
+    "name": "BBC 1",
+    "lang": "fr",
+    "xmltv_id": "BBCOne.uk@London"
+  },
+  {
+    "site_id": "france-3-bretagne-281",
+    "name": "France 3 Bretagne",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Bretagne"
+  },
+  {
+    "site_id": "africa-24-6510",
+    "name": "Africa 24",
+    "lang": "fr"
+  },
+  {
+    "site_id": "bein-sports-max-9-306",
+    "name": "beIN SPORTS MAX 9",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax9.qa@France"
+  },
+  {
+    "site_id": "m6-music-80",
+    "name": "M6 Music",
+    "lang": "fr",
+    "xmltv_id": "M6Music.fr@SD"
+  },
+  {
+    "site_id": "planeteplus-crime-investigation-151",
+    "name": "Planète+ Crime Investigation",
+    "lang": "fr",
+    "xmltv_id": "PlanetePlusCrime.fr@SD"
+  },
+  {
+    "site_id": "animaux-33",
+    "name": "Animaux",
+    "lang": "fr",
+    "xmltv_id": "Animaux.fr@SD"
+  },
+  {
+    "site_id": "be-series-253",
+    "name": "Be Séries",
+    "lang": "fr"
+  },
+  {
+    "site_id": "canalplus-kids-11505",
+    "name": "Canal+ KIDS",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusKids.fr@SD"
+  },
+  {
+    "site_id": "france-3-lorraine-290",
+    "name": "France 3 Lorraine",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Lorraine"
+  },
+  {
+    "site_id": "stingray-classica-11503",
+    "name": "Stingray Classica",
+    "lang": "fr"
+  },
+  {
+    "site_id": "toute-lhistoire-117",
+    "name": "Toute l'histoire",
+    "lang": "fr",
+    "xmltv_id": "ToutelHistoire.fr@SD"
+  },
+  {
+    "site_id": "20-minutes-tv-161",
+    "name": "20 minutes TV",
+    "lang": "fr"
+  },
+  {
+    "site_id": "pink-tv-103",
+    "name": "Pink TV",
+    "lang": "fr",
+    "xmltv_id": "PinkTV.fr@SD"
+  },
+  {
+    "site_id": "13eme-rue-26",
+    "name": "13eme RUE",
+    "lang": "fr",
+    "xmltv_id": "13emeRue.fr@SD"
+  },
+  {
+    "site_id": "non-stop-people-hd-241",
+    "name": "Non Stop People HD",
+    "lang": "fr",
+    "xmltv_id": "NonStopPeople.fr@SD"
+  },
+  {
+    "site_id": "npo2-267",
+    "name": "NPO2",
+    "lang": "fr",
+    "xmltv_id": "NPO2.nl@SD"
+  },
+  {
+    "site_id": "rmc-sport-live-6-465",
+    "name": "RMC Sport Live 6",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rmc-sport-live-10-459",
+    "name": "RMC Sport Live 10",
+    "lang": "fr"
+  },
+  {
+    "site_id": "serieclub-18",
+    "name": "serieclub",
+    "lang": "fr",
+    "xmltv_id": "SerieClub.fr@SD"
+  },
+  {
+    "site_id": "vtm4-245",
+    "name": "VTM4",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-3-alpes-275",
+    "name": "France 3 Alpes",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Alpes"
+  },
+  {
+    "site_id": "rmc-sport-access-3-404",
+    "name": "RMC Sport Access 3",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tv7-bordeaux-382",
+    "name": "TV7 Bordeaux",
+    "lang": "fr"
+  },
+  {
+    "site_id": "dorcel-xxx-11525",
+    "name": "Dorcel XXX",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-3-cote-dazur-285",
+    "name": "France 3 Côte d'Azur",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@CotedAzur"
+  },
+  {
+    "site_id": "ketnet-255",
+    "name": "Ketnet",
+    "lang": "fr",
+    "xmltv_id": "Ketnet.be@SD"
+  },
+  {
+    "site_id": "mtv-hits-93",
+    "name": "MTV Hits",
+    "lang": "fr",
+    "xmltv_id": "MTVHitsEurope.uk@SD"
+  },
+  {
+    "site_id": "rmc-sport-1-452",
+    "name": "RMC Sport 1",
+    "lang": "fr",
+    "xmltv_id": "RMCSport1.fr@SD"
+  },
+  {
+    "site_id": "trace-urban-127",
+    "name": "Trace Urban",
+    "lang": "fr",
+    "xmltv_id": "TraceUrban.fr@SD"
+  },
+  {
+    "site_id": "voosport-world-2-252",
+    "name": "VOOsport World 2",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-24-142",
+    "name": "France 24",
+    "lang": "fr",
+    "xmltv_id": "France24.fr@French"
+  },
+  {
+    "site_id": "franceinfo-307",
+    "name": "Franceinfo",
+    "lang": "fr"
+  },
+  {
+    "site_id": "abxplore-139",
+    "name": "ABXPLORE",
+    "lang": "fr"
+  },
+  {
+    "site_id": "canal-32-390",
+    "name": "Canal 32",
+    "lang": "fr"
+  },
+  {
+    "site_id": "demain-tv-53",
+    "name": "Demain TV",
+    "lang": "fr"
+  },
+  {
+    "site_id": "la-trois-175",
+    "name": "La Trois",
+    "lang": "fr"
+  },
+  {
+    "site_id": "national-geographic-98",
+    "name": "National Geographic",
+    "lang": "fr",
+    "xmltv_id": "NationalGeographic.fr@SD"
+  },
+  {
+    "site_id": "ocs-geants-170",
+    "name": "OCS Géants",
+    "lang": "fr",
+    "xmltv_id": "OCSGeants.fr@SD"
+  },
+  {
+    "site_id": "paramountfr1-8502",
+    "name": "paramountfr1",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rmc-decouverte-205",
+    "name": "RMC Découverte",
+    "lang": "fr",
+    "xmltv_id": "RMCDecouverte.fr@SD"
+  },
+  {
+    "site_id": "canal-z-254",
+    "name": "Canal Z",
+    "lang": "fr"
+  },
+  {
+    "site_id": "golfplus-189",
+    "name": "Golf+",
+    "lang": "fr",
+    "xmltv_id": "GolfPlus.fr@SD"
+  },
+  {
+    "site_id": "gulli-29",
+    "name": "Gulli",
+    "lang": "fr",
+    "xmltv_id": "Gulli.fr@SD"
+  },
+  {
+    "site_id": "i24news-243",
+    "name": "I24news",
+    "lang": "fr",
+    "xmltv_id": "i24NEWSFrench.il@SD"
+  },
+  {
+    "site_id": "la-chaine-meteo-77",
+    "name": "La Chaîne Météo",
+    "lang": "fr",
+    "xmltv_id": "LaChaineMeteo.fr@SD"
+  },
+  {
+    "site_id": "la-une-144",
+    "name": "La Une",
+    "lang": "fr",
+    "xmltv_id": "LaUne.be@SD"
+  },
+  {
+    "site_id": "rmc-sport-live-14-462",
+    "name": "RMC Sport Live 14",
+    "lang": "fr"
+  },
+  {
+    "site_id": "teva-23",
+    "name": "Téva",
+    "lang": "fr",
+    "xmltv_id": "Teva.fr@SD"
+  },
+  {
+    "site_id": "canalplus-series-227",
+    "name": "Canal+ Séries",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusSeries.fr@SD"
+  },
+  {
+    "site_id": "lm-tv-sarthe-376",
+    "name": "LM TV Sarthe",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rmc-sport-live-9-460",
+    "name": "RMC Sport Live 9",
+    "lang": "fr"
+  },
+  {
+    "site_id": "bfm-dici-haute-provence-6504",
+    "name": "BFM DICI Haute-Provence",
+    "lang": "fr"
+  },
+  {
+    "site_id": "lequipe-204",
+    "name": "L'Equipe",
+    "lang": "fr",
+    "xmltv_id": "LEquipe.fr@SD"
+  },
+  {
+    "site_id": "paramount-channel-226",
+    "name": "Paramount Channel",
+    "lang": "fr",
+    "xmltv_id": "ParamountChannel.fr@SD"
+  },
+  {
+    "site_id": "play5-261",
+    "name": "Play5",
+    "lang": "fr"
+  },
+  {
+    "site_id": "proximus-11-250",
+    "name": "Proximus 11",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tmc-21",
+    "name": "TMC",
+    "lang": "fr",
+    "xmltv_id": "TMC.fr@SD"
+  },
+  {
+    "site_id": "trace-tropical-395",
+    "name": "Trace Tropical",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tv5monde-128",
+    "name": "TV5MONDE",
+    "lang": "fr",
+    "xmltv_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD"
+  },
+  {
+    "site_id": "canalplus-decale-36",
+    "name": "Canal+ Décalé",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusDecale.fr@SD"
+  },
+  {
+    "site_id": "bein-sports-max-8-304",
+    "name": "beIN SPORTS MAX 8",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax8.qa@France"
+  },
+  {
+    "site_id": "bfm-alsace-366",
+    "name": "BFM Alsace",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-5-9",
+    "name": "France 5",
+    "lang": "fr",
+    "xmltv_id": "France5.fr@SD"
+  },
+  {
+    "site_id": "rmc-sport-live-15-463",
+    "name": "RMC Sport Live 15",
+    "lang": "fr"
+  },
+  {
+    "site_id": "stingray-festival-4k-357",
+    "name": "Stingray Festival 4K",
+    "lang": "fr"
+  },
+  {
+    "site_id": "xxl-135",
+    "name": "XXL",
+    "lang": "fr",
+    "xmltv_id": "XXL.fr@SD"
+  },
+  {
+    "site_id": "canalplus-premier-league-10506",
+    "name": "Canal+ Premier League",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusPremierLeague.fr@SD"
+  },
+  {
+    "site_id": "disney-junior-166",
+    "name": "Disney Junior",
+    "lang": "fr",
+    "xmltv_id": "DisneyJr.fr@SD"
+  },
+  {
+    "site_id": "nollywood-tv-348",
+    "name": "Nollywood TV",
+    "lang": "fr",
+    "xmltv_id": "NollywoodTV.fr@SD"
+  },
+  {
+    "site_id": "ocs-pulp-169",
+    "name": "OCS Pulp",
+    "lang": "fr"
+  },
+  {
+    "site_id": "paris-premiere-15",
+    "name": "Paris Première",
+    "lang": "fr",
+    "xmltv_id": "ParisPremiere.fr@SD"
+  },
+  {
+    "site_id": "syfy-110",
+    "name": "Syfy",
+    "lang": "fr",
+    "xmltv_id": "Syfy.fr@SD"
+  },
+  {
+    "site_id": "tfx-14",
+    "name": "TFX",
+    "lang": "fr",
+    "xmltv_id": "TFX.fr@SD"
+  },
+  {
+    "site_id": "cartoonito-11510",
+    "name": "Cartoonito",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-3-basse-normandie-279",
+    "name": "France 3 Basse-Normandie",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@BasseNormandie"
+  },
+  {
+    "site_id": "ocs-city-173",
+    "name": "OCS City",
+    "lang": "fr",
+    "xmltv_id": "OCSCity.fr@SD"
+  },
+  {
+    "site_id": "rmc-sport-live-5-464",
+    "name": "RMC Sport Live 5",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rmc-sport-live-13-466",
+    "name": "RMC Sport Live 13",
+    "lang": "fr"
+  },
+  {
+    "site_id": "vh1-133",
+    "name": "VH1",
+    "lang": "fr",
+    "xmltv_id": "MTV00s.uk@SD"
+  },
+  {
+    "site_id": "action-32",
+    "name": "Action",
+    "lang": "fr",
+    "xmltv_id": "Action.fr@SD"
+  },
+  {
+    "site_id": "canalplus-docs-9501",
+    "name": "Canal+ Docs",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusDocs.fr@SD"
+  },
+  {
+    "site_id": "rmc-sport-live-7-457",
+    "name": "RMC Sport Live 7",
+    "lang": "fr"
+  },
+  {
+    "site_id": "fashion-tv-358",
+    "name": "Fashion TV",
+    "lang": "fr",
+    "xmltv_id": "FashionTVEurope.fr@SD"
+  },
+  {
+    "site_id": "onzeo-242",
+    "name": "Onzéo",
+    "lang": "fr"
+  },
+  {
+    "site_id": "canalplus-box-office-11522",
+    "name": "Canal+ Box Office",
+    "lang": "fr"
+  },
+  {
+    "site_id": "een-264",
+    "name": "één",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nat-geo-wild-207",
+    "name": "Nat Geo Wild",
+    "lang": "fr",
+    "xmltv_id": "NationalGeographicWild.fr@SD"
+  },
+  {
+    "site_id": "vosges-television-343",
+    "name": "Vosges Télévision",
+    "lang": "fr"
+  },
+  {
+    "site_id": "trace-sport-stars-197",
+    "name": "TRACE Sport Stars",
+    "lang": "fr",
+    "xmltv_id": "TraceSportStars.fr@HD"
+  },
+  {
+    "site_id": "discovery-channel-54",
+    "name": "Discovery Channel",
+    "lang": "fr",
+    "xmltv_id": "DiscoveryChannel.fr@SD"
+  },
+  {
+    "site_id": "pro7-11501",
+    "name": "Pro7",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rts-un-147",
+    "name": "RTS Un",
+    "lang": "fr",
+    "xmltv_id": "RTS1.ch@SD"
+  },
+  {
+    "site_id": "tcm-cinema-113",
+    "name": "TCM Cinéma",
+    "lang": "fr",
+    "xmltv_id": "TCMCinema.fr@SD"
+  },
+  {
+    "site_id": "bein-sports-2-184",
+    "name": "beIN SPORTS 2",
+    "lang": "fr",
+    "xmltv_id": "beINSports2.qa@France"
+  },
+  {
+    "site_id": "e-141",
+    "name": "E !",
+    "lang": "fr",
+    "xmltv_id": "E.fr@SD"
+  },
+  {
+    "site_id": "gong-355",
+    "name": "Gong",
+    "lang": "fr"
+  },
+  {
+    "site_id": "mens-up-6502",
+    "name": "Men's UP",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nautical-channel-109",
+    "name": "Nautical Channel",
+    "lang": "fr",
+    "xmltv_id": "NauticalChannel.it@SD"
+  },
+  {
+    "site_id": "trek-269",
+    "name": "Trek",
+    "lang": "fr",
+    "xmltv_id": "Trek.fr@SD"
+  },
+  {
+    "site_id": "tvpi-6508",
+    "name": "TVPI",
+    "lang": "fr"
+  },
+  {
+    "site_id": "w9-24",
+    "name": "W9",
+    "lang": "fr",
+    "xmltv_id": "W9.fr@SD"
+  },
+  {
+    "site_id": "canal-j-40",
+    "name": "Canal J",
+    "lang": "fr",
+    "xmltv_id": "CanalJ.fr@SD"
+  },
+  {
+    "site_id": "club-rtl-140",
+    "name": "Club RTL",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-4-8",
+    "name": "France 4",
+    "lang": "fr",
+    "xmltv_id": "France4.fr@SD"
+  },
+  {
+    "site_id": "plug-rtl-145",
+    "name": "Plug RTL",
+    "lang": "fr"
+  },
+  {
+    "site_id": "bbc4-247",
+    "name": "BBC4",
+    "lang": "fr",
+    "xmltv_id": "BBCFour.uk@UK"
+  },
+  {
+    "site_id": "rmc-sport-live-16-461",
+    "name": "RMC Sport Live 16",
+    "lang": "fr"
+  },
+  {
+    "site_id": "polarplus-401",
+    "name": "Polar+",
+    "lang": "fr",
+    "xmltv_id": "PolarPlus.fr@SD"
+  },
+  {
+    "site_id": "rtl-tvi-146",
+    "name": "RTL TVI",
+    "lang": "fr",
+    "xmltv_id": "RTLTVI.be@SD"
+  },
+  {
+    "site_id": "aplus-international-france-383",
+    "name": "A+ International France",
+    "lang": "fr",
+    "xmltv_id": "APlus.fr@SD"
+  },
+  {
+    "site_id": "discovery-science-200",
+    "name": "Discovery Science",
+    "lang": "fr",
+    "xmltv_id": "DiscoveryScienceEurope.uk@France"
+  },
+  {
+    "site_id": "eurochannel-236",
+    "name": "Eurochannel",
+    "lang": "fr",
+    "xmltv_id": "Eurochannel.uk@SD"
+  },
+  {
+    "site_id": "france-3-corse-via-stella-284",
+    "name": "France 3 Corse Via Stella",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@CorseViaStella"
+  },
+  {
+    "site_id": "nickelodeon-wallonia-272",
+    "name": "Nickelodéon Wallonia",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tf1-19",
+    "name": "TF1",
+    "lang": "fr",
+    "xmltv_id": "TF1.fr@SD"
+  },
+  {
+    "site_id": "b-one-339",
+    "name": "B.One",
+    "lang": "fr",
+    "xmltv_id": "BOneTV.cd@SD"
+  },
+  {
+    "site_id": "ginx-352",
+    "name": "Ginx",
+    "lang": "fr",
+    "xmltv_id": "GINXTV.uk@SD"
+  },
+  {
+    "site_id": "equidia-59",
+    "name": "Equidia",
+    "lang": "fr",
+    "xmltv_id": "Equidia.fr@SD"
+  },
+  {
+    "site_id": "france-2-6",
+    "name": "France 2",
+    "lang": "fr",
+    "xmltv_id": "France2.fr@SD"
+  },
+  {
+    "site_id": "kto-68",
+    "name": "KTO",
+    "lang": "fr",
+    "xmltv_id": "KTO.fr@SD"
+  },
+  {
+    "site_id": "rmc-sport-live-8-458",
+    "name": "RMC Sport Live 8",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-3-7",
+    "name": "France 3",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@SD"
+  },
+  {
+    "site_id": "skynews-11502",
+    "name": "Skynews",
+    "lang": "fr"
+  },
+  {
+    "site_id": "vtm2-244",
+    "name": "VTM2",
+    "lang": "fr"
+  },
+  {
+    "site_id": "gospel-music-tv-346",
+    "name": "Gospel Music TV",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tipik-143",
+    "name": "Tipik",
+    "lang": "fr",
+    "xmltv_id": "Tipik.be@SD"
+  },
+  {
+    "site_id": "8-mont-blanc-385",
+    "name": "8 Mont-Blanc",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ab-3-138",
+    "name": "AB 3",
+    "lang": "fr",
+    "xmltv_id": "AB3.be@SD"
+  },
+  {
+    "site_id": "bbc-entertainment-194",
+    "name": "BBC Entertainment",
+    "lang": "fr",
+    "xmltv_id": "BBCEntertainment.uk@SD"
+  },
+  {
+    "site_id": "bfm-paris-379",
+    "name": "BFM Paris",
+    "lang": "fr",
+    "xmltv_id": "BFMParisIledeFrance.fr@SD"
+  },
+  {
+    "site_id": "france-3-nord-pas-de-calais-292",
+    "name": "France 3 Nord Pas-de-Calais",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@NordPasdeCalais"
+  },
+  {
+    "site_id": "mtv-hits-france-273",
+    "name": "MTV Hits (France)",
+    "lang": "fr",
+    "xmltv_id": "MTVHits.fr@SD"
+  },
+  {
+    "site_id": "rtl-television-198",
+    "name": "RTL Télévision",
+    "lang": "de",
+    "xmltv_id": "RTL.de@SD"
+  },
+  {
+    "site_id": "ab-1-31",
+    "name": "AB 1",
+    "lang": "fr",
+    "xmltv_id": "AB1.fr@SD"
+  },
+  {
+    "site_id": "science-vie-tv-58",
+    "name": "Science \u0026 Vie TV",
+    "lang": "fr",
+    "xmltv_id": "ScienceVieTV.fr@SD"
+  },
+  {
+    "site_id": "cineplus-premier-3",
+    "name": "Ciné+ Premier",
+    "lang": "fr",
+    "xmltv_id": "CinePlusPremier.fr@SD"
+  },
+  {
+    "site_id": "euronews-62",
+    "name": "Euronews",
+    "lang": "fr",
+    "xmltv_id": "EuronewsFrench.fr@SD"
+  },
+  {
+    "site_id": "game-one-71",
+    "name": "Game One",
+    "lang": "fr",
+    "xmltv_id": "GameOne.fr@SD"
+  },
+  {
+    "site_id": "lci-la-chaine-info-78",
+    "name": "LCI - La Chaîne Info",
+    "lang": "fr",
+    "xmltv_id": "LCI.fr@SD"
+  },
+  {
+    "site_id": "ocs-max-172",
+    "name": "OCS Max",
+    "lang": "fr",
+    "xmltv_id": "OCSMax.fr@SD"
+  },
+  {
+    "site_id": "rtpi-187",
+    "name": "RTPI",
+    "lang": "fr",
+    "xmltv_id": "RTPInternacional.pt@SD"
+  },
+  {
+    "site_id": "colmax-tv-11523",
+    "name": "Colmax TV",
+    "lang": "fr"
+  },
+  {
+    "site_id": "la-chaine-normande-6509",
+    "name": "La Chaîne normande",
+    "lang": "fr"
+  },
+  {
+    "site_id": "mezzo-live-hd-311",
+    "name": "Mezzo Live HD",
+    "lang": "fr",
+    "xmltv_id": "MezzoLive.fr@SD"
+  },
+  {
+    "site_id": "npo1-266",
+    "name": "NPO1",
+    "lang": "fr",
+    "xmltv_id": "NPO1.nl@SD"
+  },
+  {
+    "site_id": "tv-tours-393",
+    "name": "TV Tours",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ushuaia-tv-132",
+    "name": "Ushuaïa TV",
+    "lang": "fr",
+    "xmltv_id": "UshuaiaTV.fr@SD"
+  },
+  {
+    "site_id": "boomerang-34",
+    "name": "Boomerang",
+    "lang": "fr",
+    "xmltv_id": "Boomerang.fr@SD"
+  },
+  {
+    "site_id": "canalplus-moto-gp-10505",
+    "name": "Canal+ Moto GP",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusMotoGP.fr@SD"
+  },
+  {
+    "site_id": "france-3-franche-comte-286",
+    "name": "France 3 Franche-Comté",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@FrancheComte"
+  },
+  {
+    "site_id": "stingray-i-concerts-392",
+    "name": "Stingray i-Concerts",
+    "lang": "fr",
+    "xmltv_id": "StingrayiConcerts.ca@SD"
+  },
+  {
+    "site_id": "tf1-series-films-201",
+    "name": "TF1 Séries Films",
+    "lang": "fr",
+    "xmltv_id": "TF1SeriesFilms.fr@SD"
+  },
+  {
+    "site_id": "tve-186",
+    "name": "TVE",
+    "lang": "fr",
+    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
+  },
+  {
+    "site_id": "weo-394",
+    "name": "Weo",
+    "lang": "fr"
+  },
+  {
+    "site_id": "infosportplus-74",
+    "name": "Infosport+",
+    "lang": "fr",
+    "xmltv_id": "InfosportPlus.fr@SD"
+  },
+  {
+    "site_id": "bbc-2-231",
+    "name": "BBC 2",
+    "lang": "fr",
+    "xmltv_id": "BBCTwo.uk@England"
+  },
+  {
+    "site_id": "bein-sports-max-4-300",
+    "name": "beIN SPORTS MAX 4",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax4.qa@France"
+  },
+  {
+    "site_id": "crime-district-363",
+    "name": "Crime District",
+    "lang": "fr",
+    "xmltv_id": "CrimeDistrict.fr@SD"
+  },
+  {
+    "site_id": "j-one-387",
+    "name": "J-One",
+    "lang": "fr",
+    "xmltv_id": "JOne.fr@SD"
+  },
+  {
+    "site_id": "mtv-96",
+    "name": "MTV",
+    "lang": "fr",
+    "xmltv_id": "MTV.fr@SD"
+  },
+  {
+    "site_id": "vh1-classic-356",
+    "name": "VH1 Classic",
     "lang": "fr"
   },
   {
@@ -1660,14 +1271,403 @@
     "xmltv_id": "Play4.be@SD"
   },
   {
-    "site_id": "bein-sports-max-8-304",
-    "name": "beIN SPORTS MAX 8",
-    "lang": "fr",
-    "xmltv_id": "beINSportsMax8.qa@France"
+    "site_id": "be-cine-249",
+    "name": "Be Ciné",
+    "lang": "fr"
   },
   {
-    "site_id": "demain-tv-53",
-    "name": "Demain TV",
+    "site_id": "bfm-lyon-metropole-364",
+    "name": "BFM Lyon Métropole",
+    "lang": "fr",
+    "xmltv_id": "BFMLyon.fr@SD"
+  },
+  {
+    "site_id": "bloomberg-10502",
+    "name": "Bloomberg",
     "lang": "fr"
+  },
+  {
+    "site_id": "dorcel-tv-11524",
+    "name": "Dorcel TV",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-3-pays-de-la-loire-294",
+    "name": "France 3 Pays de la Loire",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@PaysdelaLoire"
+  },
+  {
+    "site_id": "mirabelle-tv-239",
+    "name": "Mirabelle TV",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rmc-sport-1-uhd-334",
+    "name": "RMC Sport 1 UHD",
+    "lang": "fr",
+    "xmltv_id": "RMCSport1.fr@UHD"
+  },
+  {
+    "site_id": "rmc-sport-live-12-456",
+    "name": "RMC Sport Live 12",
+    "lang": "fr"
+  },
+  {
+    "site_id": "canalplus-sport-360-11509",
+    "name": "Canal+ Sport 360",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cineplus-classic-44",
+    "name": "Ciné+ Classic",
+    "lang": "fr",
+    "xmltv_id": "CinePlusClassic.fr@SD"
+  },
+  {
+    "site_id": "melody-179",
+    "name": "Melody",
+    "lang": "fr",
+    "xmltv_id": "Melody.fr@SD"
+  },
+  {
+    "site_id": "rts-deux-148",
+    "name": "RTS Deux",
+    "lang": "fr",
+    "xmltv_id": "RTS2.ch@SD"
+  },
+  {
+    "site_id": "vtm3-262",
+    "name": "VTM3",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-3-centre-val-de-loire-282",
+    "name": "France 3 Centre-Val de Loire",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@CentreValdeLoire"
+  },
+  {
+    "site_id": "france-3-midi-pyrenees-291",
+    "name": "France 3 Midi-Pyrénées",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@MidiPyrenees"
+  },
+  {
+    "site_id": "rmc-sport-live-11-455",
+    "name": "RMC Sport Live 11",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tvr-rennes-35-bretagne-362",
+    "name": "TVR Rennes 35 Bretagne",
+    "lang": "fr"
+  },
+  {
+    "site_id": "automoto-89",
+    "name": "Automoto",
+    "lang": "fr",
+    "xmltv_id": "Automotolachaine.fr@SD"
+  },
+  {
+    "site_id": "bfm-dici-alpes-du-sud-6505",
+    "name": "BFM DICI Alpes du Sud",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cherie-25-206",
+    "name": "Chérie 25",
+    "lang": "fr"
+  },
+  {
+    "site_id": "m6-12",
+    "name": "M6",
+    "lang": "fr",
+    "xmltv_id": "M6.fr@HD"
+  },
+  {
+    "site_id": "bfm-grand-lille-367",
+    "name": "BFM Grand Lille",
+    "lang": "fr"
+  },
+  {
+    "site_id": "canalplus-ligue-1-10504",
+    "name": "Canal+ Ligue 1",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cineplus-club-43",
+    "name": "Ciné+ Club",
+    "lang": "fr",
+    "xmltv_id": "CinePlusClub.fr@SD"
+  },
+  {
+    "site_id": "eurosport-2-63",
+    "name": "Eurosport 2",
+    "lang": "fr",
+    "xmltv_id": "Eurosport2.fr@France"
+  },
+  {
+    "site_id": "france-3-paris-ile-de-france-293",
+    "name": "France 3 Paris Ile-de-France",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@ParisIledeFrance"
+  },
+  {
+    "site_id": "rai-uno-188",
+    "name": "Rai Uno",
+    "lang": "fr",
+    "xmltv_id": "Rai1.it@SD"
+  },
+  {
+    "site_id": "rmc-sport-access-1-336",
+    "name": "RMC Sport Access 1",
+    "lang": "fr"
+  },
+  {
+    "site_id": "arte-337",
+    "name": "Arte",
+    "lang": "fr",
+    "xmltv_id": "arte.fr@SD"
+  },
+  {
+    "site_id": "eurosport-1-5",
+    "name": "Eurosport 1",
+    "lang": "fr",
+    "xmltv_id": "Eurosport1.fr@France"
+  },
+  {
+    "site_id": "france-3-haute-normandie-287",
+    "name": "France 3 Haute-Normandie",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@HauteNormandie"
+  },
+  {
+    "site_id": "m6-boutique-238",
+    "name": "M6 Boutique",
+    "lang": "fr"
+  },
+  {
+    "site_id": "maritima-tv-6507",
+    "name": "Maritima TV",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nrj-hits-167",
+    "name": "NRJ Hits",
+    "lang": "fr",
+    "xmltv_id": "NRJHits.fr@SD"
+  },
+  {
+    "site_id": "rtl-9-17",
+    "name": "RTL 9",
+    "lang": "fr",
+    "xmltv_id": "RTL9.lu@SD"
+  },
+  {
+    "site_id": "disney-channel-wallonia-271",
+    "name": "Disney Channel Wallonia",
+    "lang": "fr"
+  },
+  {
+    "site_id": "canalplus-2",
+    "name": "Canal+",
+    "lang": "fr",
+    "xmltv_id": "CanalPlus.fr@SD"
+  },
+  {
+    "site_id": "bein-sports-3-265",
+    "name": "beIN SPORTS 3",
+    "lang": "fr",
+    "xmltv_id": "beINSports3.qa@France"
+  },
+  {
+    "site_id": "canalplus-sport-37",
+    "name": "Canal+ Sport",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusSport.fr@SD"
+  },
+  {
+    "site_id": "cartoon-network-41",
+    "name": "Cartoon Network",
+    "lang": "fr",
+    "xmltv_id": "CartoonNetworkCEE.uk@France"
+  },
+  {
+    "site_id": "france-3-poitou-charentes-296",
+    "name": "France 3 Poitou-Charentes",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@PoitouCharentes"
+  },
+  {
+    "site_id": "tele-grenoble-isere-396",
+    "name": "Télé Grenoble Isère",
+    "lang": "fr"
+  },
+  {
+    "site_id": "vtm-263",
+    "name": "VTM",
+    "lang": "fr",
+    "xmltv_id": "VTM.be@SD"
+  },
+  {
+    "site_id": "cnews-30",
+    "name": "CNEWS",
+    "lang": "fr",
+    "xmltv_id": "CNews.fr@SD"
+  },
+  {
+    "site_id": "lcp-100-377",
+    "name": "LCP 100%",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tvbreizh-129",
+    "name": "TvBreizh",
+    "lang": "fr",
+    "xmltv_id": "TVBreizh.fr@SD"
+  },
+  {
+    "site_id": "canal-partage-tnt-ile-de-france-163",
+    "name": "Canal partagé TNT Ile-de-France",
+    "lang": "fr"
+  },
+  {
+    "site_id": "comedy-central-472",
+    "name": "Comedy Central",
+    "lang": "fr",
+    "xmltv_id": "ComedyCentral.fr@SD"
+  },
+  {
+    "site_id": "rmc-story-203",
+    "name": "RMC Story",
+    "lang": "fr",
+    "xmltv_id": "RMCStory.fr@SD"
+  },
+  {
+    "site_id": "tntv-france-6503",
+    "name": "TNTV France",
+    "lang": "fr"
+  },
+  {
+    "site_id": "warner-tv-403",
+    "name": "Warner TV",
+    "lang": "fr",
+    "xmltv_id": "WarnerTV.fr@SD"
+  },
+  {
+    "site_id": "zdf-193",
+    "name": "ZDF",
+    "lang": "fr",
+    "xmltv_id": "ZDF.de@SD"
+  },
+  {
+    "site_id": "baby-tv-229",
+    "name": "Baby TV",
+    "lang": "fr",
+    "xmltv_id": "BabyTV.uk@UK"
+  },
+  {
+    "site_id": "bein-sports-max-6-302",
+    "name": "beIN SPORTS MAX 6",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax6.qa@France"
+  },
+  {
+    "site_id": "bet-299",
+    "name": "BET",
+    "lang": "fr",
+    "xmltv_id": "BET.fr@SD"
+  },
+  {
+    "site_id": "canalplus-grand-ecran-11504",
+    "name": "Canal+ Grand Ecran",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusGrandEcran.fr@SD"
+  },
+  {
+    "site_id": "cineplus-famiz-46",
+    "name": "Ciné+ Famiz",
+    "lang": "fr"
+  },
+  {
+    "site_id": "france-3-auvergne-278",
+    "name": "France 3 Auvergne",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Auvergne"
+  },
+  {
+    "site_id": "novelas-tv-400",
+    "name": "Novelas TV",
+    "lang": "fr",
+    "xmltv_id": "NovelasTV.fr@SD"
+  },
+  {
+    "site_id": "rmc-sport-2-453",
+    "name": "RMC Sport 2",
+    "lang": "fr",
+    "xmltv_id": "RMCSport2.fr@SD"
+  },
+  {
+    "site_id": "golf-channel-354",
+    "name": "Golf Channel",
+    "lang": "fr",
+    "xmltv_id": "GolfChannel.fr@SD"
+  },
+  {
+    "site_id": "mezzo-88",
+    "name": "Mezzo",
+    "lang": "fr",
+    "xmltv_id": "Mezzo.fr@SD"
+  },
+  {
+    "site_id": "telenantes-373",
+    "name": "Télénantes",
+    "lang": "fr"
+  },
+  {
+    "site_id": "bfmtv-25",
+    "name": "BFMTV",
+    "lang": "fr"
+  },
+  {
+    "site_id": "disney-channel-57",
+    "name": "Disney Channel",
+    "lang": "fr",
+    "xmltv_id": "DisneyChannel.fr@SD"
+  },
+  {
+    "site_id": "rfm-tv-85",
+    "name": "RFM TV",
+    "lang": "fr",
+    "xmltv_id": "RFMTV.fr@SD"
+  },
+  {
+    "site_id": "swr-208",
+    "name": "SWR",
+    "lang": "fr"
+  },
+  {
+    "site_id": "be-1-248",
+    "name": "BE 1",
+    "lang": "fr"
+  },
+  {
+    "site_id": "boing-233",
+    "name": "Boing",
+    "lang": "fr",
+    "xmltv_id": "Boing.fr@SD"
+  },
+  {
+    "site_id": "cnn-235",
+    "name": "CNN",
+    "lang": "fr",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "france-3-alsace-276",
+    "name": "France 3 Alsace",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Alsace"
   }
 ]
