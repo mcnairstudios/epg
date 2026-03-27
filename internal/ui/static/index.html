@@ -74,7 +74,10 @@
     </div>
 
     <div class="panel active" id="sources">
-      <h2 style="margin-bottom:16px;">Plugin Sources</h2>
+      <div style="margin-bottom:16px;display:flex;justify-content:space-between;align-items:center;">
+        <h2>Plugin Sources</h2>
+        <button class="btn btn-success" onclick="grabAll()">Grab All Sources</button>
+      </div>
       <div class="grid" id="plugin-sources"></div>
 
       <h2 style="margin:24px 0 16px;">External XMLTV Sources</h2>
@@ -234,6 +237,15 @@
       } catch(e) { showStatus(e.message, 'error'); }
     }
 
+    async function grabAll() {
+      try {
+        showStatus('Grabbing all sources...', 'info');
+        const res = await apiFetch('/grab-all', {method:'POST'});
+        showStatus(`Grabbed ${res.total} programs from ${(res.sources||[]).length} sources (${res.errors} errors)`, 'success');
+        refreshAll();
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
     async function grabSource(name) {
       try {
         showStatus('Grabbing ' + name + '...', 'info');
@@ -308,10 +320,25 @@
       } catch(e) { showStatus(e.message, 'error'); }
     }
 
-    function loadXmltvUrls() {
+    async function loadXmltvUrls() {
       const base = window.location.origin;
       const tokenParam = token ? '?token=' + token : '';
       document.getElementById('xmltv-full-url').textContent = base + '/epg.xml' + tokenParam;
+
+      try {
+        const sources = await apiFetch('/sources');
+        const ext = await apiFetch('/external-sources').catch(() => []);
+        const all = [...(sources||[]).map(s => s.name), ...(ext||[]).map(s => s.name)];
+        document.getElementById('xmltv-source-urls').innerHTML = all.map(name => `
+          <div class="card">
+            <h3>${name}</h3>
+            <p class="xmltv-url" id="xmltv-${name}">${base}/epg/${name}.xml${tokenParam}</p>
+            <div style="margin-top:8px;">
+              <button class="btn btn-primary" onclick="copyXmltvUrl('xmltv-${name}')">Copy URL</button>
+            </div>
+          </div>
+        `).join('');
+      } catch(e) { console.error(e); }
     }
 
     function copyXmltvUrl(id) {
