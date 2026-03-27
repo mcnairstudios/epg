@@ -43,13 +43,15 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		"https://programacao.claro.com.br/gatekeeper/exibicao/select?q=id_revel:(%s)+AND+id_cidade:1&wt=json&rows=100000&start=0&sort=id_canal+asc,dh_inicio+asc&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal+id_cidade&fq=dh_inicio:[%s+TO+%s]",
 		channel.SiteID,
 		date.Format("2006-1-2T15:04:05Z"),
-		date.AddDate(0, 0, 1).Format("2006-1-2T15:04:05Z"),
+		date.AddDate(0, 0, 1).Add(-1*time.Minute).Format("2006-1-2T15:04:05Z"),
 	)
 
 	req, err := http.NewRequest(http.MethodGet, url, nil)
 	if err != nil {
 		return nil, err
 	}
+	req.Header.Set("Accept", "application/json, text/plain, */*")
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36")
 
 	resp, err := p.client.Do(req)
 	if err != nil {

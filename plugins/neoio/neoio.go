@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"strings"
 	"time"
 
 	_ "embed"
@@ -44,12 +45,13 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 
 	body := fmt.Sprintf(`{"ch_ext_id":%q,"from":%d,"to":%d}`, channel.SiteID, start.Unix(), end.Unix())
 
-	req, err := http.NewRequest(http.MethodPost, url, nil)
+	req, err := http.NewRequest(http.MethodPost, url, strings.NewReader(body))
 	if err != nil {
 		return nil, err
 	}
 	req.Header.Set("Content-Type", "application/json")
-	_ = body
+	req.Header.Set("Origin", "https://neo.io")
+	req.Header.Set("x-language", "sl")
 
 	resp, err := p.client.Do(req)
 	if err != nil {

@@ -39,12 +39,18 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	url := "https://www.walesi.com.fj/wp-admin/admin-ajax.php"
+	apiURL := "https://www.walesi.com.fj/wp-admin/admin-ajax.php"
 
-	req, err := http.NewRequest(http.MethodPost, url, nil)
+	params := fmt.Sprintf("chanel=%s&date=%d&action=extvs_get_schedule_simple",
+		channel.SiteID, date.Unix())
+
+	req, err := http.NewRequest(http.MethodPost, apiURL, strings.NewReader(params))
 	if err != nil {
 		return nil, err
 	}
+	req.Header.Set("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8")
+	req.Header.Set("Accept", "application/json, text/plain, */*")
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36")
 
 	resp, err := p.client.Do(req)
 	if err != nil {

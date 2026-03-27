@@ -44,6 +44,8 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	if err != nil {
 		return nil, err
 	}
+	req.Header.Set("Accept", "application/json, text/plain, */*")
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36")
 
 	resp, err := p.client.Do(req)
 	if err != nil {

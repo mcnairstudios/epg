@@ -53,6 +53,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	if err != nil {
 		return nil, err
 	}
+	req.Header.Set("Referer", fmt.Sprintf("https://www.osn.com/%s-ae/watch/tv-schedule", channel.Lang))
 
 	resp, err := p.client.Do(req)
 	if err != nil {

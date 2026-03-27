@@ -52,6 +52,8 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	req.Header.Set("x-apikey", apiKey)
+	req.Header.Set("Origin", "https://nostv.pt")
+	req.Header.Set("Referer", "https://nostv.pt/")
 
 	resp, err := p.client.Do(req)
 	if err != nil {

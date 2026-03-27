@@ -85,25 +85,29 @@
 
     <div id="sources">
       <div id="sources-list-view">
-      <div style="margin-bottom:16px;display:flex;justify-content:space-between;align-items:center;">
+      <div style="margin-bottom:16px;display:flex;justify-content:space-between;align-items:center;gap:8px;">
         <h2>Sources</h2>
-        <button class="btn btn-success" onclick="grabAll()">Grab All Sources</button>
-      </div>
-      <div id="plugin-sources"></div>
-
-      <h2 style="margin:24px 0 16px;">External XMLTV Sources</h2>
-      <div class="form-row">
-        <div class="form-group">
-          <label>Name</label>
-          <input type="text" id="ext-name" placeholder="e.g. uk-epg">
+        <div style="display:flex;gap:6px;">
+          <button class="btn btn-primary" onclick="showAddExternal()">+ Add External Source</button>
+          <button class="btn btn-success" onclick="grabAll()">Grab All</button>
         </div>
-        <div class="form-group">
-          <label>URL</label>
-          <input type="text" id="ext-url" placeholder="https://example.com/epg.xml">
-        </div>
-        <button class="btn btn-primary" onclick="addExternalSource()">Add</button>
       </div>
-      <div class="grid" id="external-sources"></div>
+      <div id="add-external-form" style="display:none;margin-bottom:16px;" class="card">
+        <h3 style="margin-bottom:8px;">Add External XMLTV Source</h3>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Name</label>
+            <input type="text" id="ext-name" placeholder="e.g. uk-epg">
+          </div>
+          <div class="form-group">
+            <label>URL</label>
+            <input type="text" id="ext-url" placeholder="https://example.com/epg.xml or .xml.gz">
+          </div>
+          <button class="btn btn-primary" onclick="addExternalSource()">Add</button>
+          <button class="btn" style="background:#374151;color:#9ca3af;" onclick="hideAddExternal()">Cancel</button>
+        </div>
+      </div>
+      <div id="all-sources"></div>
     </div></div>
 
     <div id="guide-overlay" style="display:none;">
@@ -187,6 +191,14 @@
       return h;
     }
 
+    function showAddExternal() {
+      document.getElementById('add-external-form').style.display = 'block';
+    }
+
+    function hideAddExternal() {
+      document.getElementById('add-external-form').style.display = 'none';
+    }
+
     function copySourceXmltvUrl(name) {
       const base = window.location.origin;
       const tokenParam = token ? '?token=' + token : '';
@@ -247,12 +259,22 @@
 
     async function loadSources() {
       try {
-        const sources = (await apiFetch('/sources')).sort((a,b) => a.name.localeCompare(b.name));
+        const plugins = (await apiFetch('/sources')) || [];
+        const ext = await apiFetch('/external-sources').catch(() => []);
         const grabStats = await apiFetch('/grab-stats').catch(() => []);
         const statsMap = {};
         (grabStats||[]).forEach(s => statsMap[s.source] = s);
 
-        function renderSourceCard(s, gs, isGrabbing) {
+        const all = [
+          ...plugins.map(s => ({...s, _type: 'plugin', _grabFn: 'grabSource'})),
+          ...(ext||[]).map(s => ({...s, _type: 'external', _grabFn: 'grabExternal'}))
+        ].sort((a,b) => a.name.localeCompare(b.name));
+
+        function renderCard(s) {
+          const gs = statsMap[s.name];
+          const isGrabbing = grabbingSet.has(s._type === 'external' ? 'ext:' + s.name : s.name);
+          const isExternal = s._type === 'external';
+          const typeBadge = isExternal ? '<span class="badge" style="background:#7c3aed;color:white;font-size:10px;">external</span> ' : '';
           const statusBadge = isGrabbing
             ? '<span class="badge" style="background:#d97706;color:white;">grabbing...</span>'
             : gs
@@ -260,68 +282,44 @@
                 ? `<span class="badge" style="background:#059669;color:white;">${gs.programs} progs / ${gs.channels} ch</span>`
                 : `<span class="badge" style="background:#dc2626;color:white;">0 programs</span>`)
               : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
+          const subtitle = isExternal
+            ? `<p style="word-break:break-all;font-size:11px;color:#8b98a5;">${s.url}</p>`
+            : (s.description ? `<p style="font-size:12px;color:#8b98a5;">${s.description}</p>` : '');
           const lastGrab = gs ? `<span style="font-size:11px;color:#8b98a5;">Last: ${new Date(gs.last_grab).toLocaleString()} (${gs.duration})</span>` : '';
           const errorInfo = gs && gs.errors > 0 ? `<span style="font-size:11px;color:#fca5a5;"> ${gs.errors} errors</span>` : '';
           const grabBtn = isGrabbing
             ? '<button class="btn" style="background:#d97706;color:white;" disabled>Grabbing...</button>'
-            : `<button class="btn btn-success" onclick="grabSource('${s.name}')">Grab</button>`;
+            : `<button class="btn btn-success" onclick="${s._grabFn}('${s.name}')">Grab</button>`;
+          const removeBtn = isExternal ? `<button class="btn btn-danger" onclick="removeExternal('${s.name}')">Remove</button>` : '';
+
           return `
             <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}">
-              <h3>${s.name} ${statusBadge}</h3>
-              <p>${s.description || ''}</p>
+              <h3>${typeBadge}${s.name} ${statusBadge}</h3>
+              ${subtitle}
               <div style="margin-top:2px;">${lastGrab}${errorInfo}</div>
               <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
                 ${grabBtn}
                 ${gs && gs.programs > 0 ? `<button class="btn btn-primary" onclick="openGuide('${s.name}')">Guide</button>` : ''}
                 <button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${s.name}')">Copy XMLTV URL</button>
+                ${removeBtn}
               </div>
             </div>
           `;
         }
 
-        const active = (sources||[]).filter(s => statsMap[s.name] && statsMap[s.name].programs > 0);
-        const inactive = (sources||[]).filter(s => !statsMap[s.name] || statsMap[s.name].programs === 0);
+        const active = all.filter(s => statsMap[s.name] && statsMap[s.name].programs > 0);
+        const inactive = all.filter(s => !statsMap[s.name] || statsMap[s.name].programs === 0);
 
         let html = '';
         if (active.length > 0) {
           html += `<h3 style="margin-bottom:12px;color:#8b98a5;">Active (${active.length})</h3>`;
-          html += '<div class="grid">' + active.map(s => renderSourceCard(s, statsMap[s.name], grabbingSet.has(s.name))).join('') + '</div>';
+          html += '<div class="grid">' + active.map(renderCard).join('') + '</div>';
         }
         if (inactive.length > 0) {
           html += `<h3 style="margin:24px 0 12px;color:#8b98a5;">Inactive (${inactive.length})</h3>`;
-          html += '<div class="grid">' + inactive.map(s => renderSourceCard(s, statsMap[s.name], grabbingSet.has(s.name))).join('') + '</div>';
+          html += '<div class="grid">' + inactive.map(renderCard).join('') + '</div>';
         }
-        document.getElementById('plugin-sources').innerHTML = html;
-
-        const ext = await apiFetch('/external-sources').catch(() => []);
-        document.getElementById('external-sources').innerHTML = (ext||[]).map(s => {
-          const gs = statsMap[s.name];
-          const isGrabbing = grabbingSet.has('ext:' + s.name);
-          const statusBadge = isGrabbing
-            ? '<span class="badge" style="background:#d97706;color:white;">grabbing...</span>'
-            : gs
-              ? (gs.programs > 0
-                ? `<span class="badge" style="background:#059669;color:white;">${gs.programs} progs / ${gs.channels} ch</span>`
-                : `<span class="badge" style="background:#dc2626;color:white;">0 programs</span>`)
-              : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
-          const lastGrab = gs ? `<span style="font-size:11px;color:#8b98a5;">Last: ${new Date(gs.last_grab).toLocaleString()} (${gs.duration})</span>` : '';
-          const grabBtn = isGrabbing
-            ? '<button class="btn" style="background:#d97706;color:white;" disabled>Grabbing...</button>'
-            : `<button class="btn btn-success" onclick="grabExternal('${s.name}')">Grab</button>`;
-          return `
-            <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}">
-              <h3>${s.name} ${statusBadge}</h3>
-              <p style="word-break:break-all;font-size:11px;color:#8b98a5;">${s.url}</p>
-              <div style="margin-top:2px;">${lastGrab}</div>
-              <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
-                ${grabBtn}
-                ${gs && gs.programs > 0 ? `<button class="btn btn-primary" onclick="openGuide('${s.name}')">Guide</button>` : ''}
-                <button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${s.name}')">Copy XMLTV URL</button>
-                <button class="btn btn-danger" onclick="removeExternal('${s.name}')">Remove</button>
-              </div>
-            </div>
-          `;
-        }).join('');
+        document.getElementById('all-sources').innerHTML = html;
       } catch(e) { showStatus(e.message, 'error'); }
     }
 
@@ -369,6 +367,7 @@
         showStatus('Added external source: ' + name, 'success');
         document.getElementById('ext-name').value = '';
         document.getElementById('ext-url').value = '';
+        hideAddExternal();
         loadSources();
       } catch(e) { showStatus(e.message, 'error'); }
     }

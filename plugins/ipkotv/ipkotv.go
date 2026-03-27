@@ -53,6 +53,8 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	req.Header.Set("Content-Type", "application/json")
+	req.Header.Set("Origin", "https://ipko.tv")
+	req.Header.Set("x-language", "sq")
 
 	resp, err := p.client.Do(req)
 	if err != nil {

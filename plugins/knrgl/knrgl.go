@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"strings"
 	"time"
 
@@ -39,12 +40,18 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	url := "https://knr.gl/kl/tv/aallakaatitassat?ajax_form=1"
+	u := "https://knr.gl/kl/tv/aallakaatitassat?ajax_form=1"
 
-	req, err := http.NewRequest(http.MethodPost, url, nil)
+	formData := url.Values{}
+	formData.Set("list_date", date.Format("2006-01-02"))
+	formData.Set("form_id", "knr_radio_tv_program_overview_form")
+	formData.Set("_triggering_element_name", "list_date")
+
+	req, err := http.NewRequest(http.MethodPost, u, strings.NewReader(formData.Encode()))
 	if err != nil {
 		return nil, err
 	}
+	req.Header.Set("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8")
 
 	resp, err := p.client.Do(req)
 	if err != nil {

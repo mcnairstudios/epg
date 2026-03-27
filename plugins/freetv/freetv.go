@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"time"
 
 	_ "embed"
@@ -42,12 +43,12 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	since := localDate.Truncate(24 * time.Hour).Format("2006-01-02T15:04-0700")
 	till := localDate.Truncate(24*time.Hour).Add(24*time.Hour).Format("2006-01-02T15:04-0700")
 
-	url := fmt.Sprintf(
+	u := fmt.Sprintf(
 		"https://web.freetv.tv/api/products/lives/programmes?liveId[]=%s&since=%s&till=%s&lang=HEB&platform=BROWSER",
-		channel.SiteID, since, till,
+		channel.SiteID, url.QueryEscape(since), url.QueryEscape(till),
 	)
 
-	req, err := http.NewRequest(http.MethodGet, url, nil)
+	req, err := http.NewRequest(http.MethodGet, u, nil)
 	if err != nil {
 		return nil, err
 	}

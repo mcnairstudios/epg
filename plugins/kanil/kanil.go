@@ -14,7 +14,15 @@ import (
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
-var jerusalemTZ = time.FixedZone("Asia/Jerusalem", 2*60*60)
+var jerusalemTZ *time.Location
+
+func init() {
+	var err error
+	jerusalemTZ, err = time.LoadLocation("Asia/Jerusalem")
+	if err != nil {
+		jerusalemTZ = time.FixedZone("Asia/Jerusalem", 2*60*60)
+	}
+}
 
 //go:embed channels.json
 var channelsData []byte
@@ -52,6 +60,8 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	if err != nil {
 		return nil, err
 	}
+	req.Header.Set("Accept", "application/json, text/plain, */*")
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36")
 
 	resp, err := p.client.Do(req)
 	if err != nil {
