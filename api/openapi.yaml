@@ -1,0 +1,374 @@
+openapi: 3.0.3
+info:
+  title: EPG Service API
+  version: 1.0.0
+  description: Electronic Program Guide service with plugin-based source adapters
+
+servers:
+  - url: /api/v1
+
+security:
+  - bearerAuth: []
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+    tokenQuery:
+      type: apiKey
+      in: query
+      name: token
+
+  schemas:
+    Source:
+      type: object
+      properties:
+        name:
+          type: string
+        description:
+          type: string
+        url:
+          type: string
+        type:
+          type: string
+          enum: [plugin, xmltv, xmltv-gz]
+
+    Channel:
+      type: object
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        source:
+          type: string
+        site_id:
+          type: string
+        lang:
+          type: string
+        logo:
+          type: string
+        genre:
+          type: string
+        quality:
+          type: string
+        xmltv_id:
+          type: string
+
+    Program:
+      type: object
+      properties:
+        channel:
+          type: string
+        source:
+          type: string
+        title:
+          type: string
+        sub_title:
+          type: string
+        description:
+          type: string
+        category:
+          type: string
+        season:
+          type: integer
+        episode:
+          type: integer
+        image:
+          type: string
+        lang:
+          type: string
+        start:
+          type: string
+          format: date-time
+        stop:
+          type: string
+          format: date-time
+
+    User:
+      type: object
+      properties:
+        id:
+          type: string
+        username:
+          type: string
+        token:
+          type: string
+        role:
+          type: string
+          enum: [admin, viewer]
+        created_at:
+          type: string
+          format: date-time
+
+    ExternalSource:
+      type: object
+      properties:
+        name:
+          type: string
+        url:
+          type: string
+        type:
+          type: string
+
+    GrabRequest:
+      type: object
+      required: [source]
+      properties:
+        source:
+          type: string
+
+    GrabResponse:
+      type: object
+      properties:
+        source:
+          type: string
+        results:
+          type: integer
+        errors:
+          type: integer
+
+paths:
+  /sources:
+    get:
+      summary: List plugin sources
+      operationId: listSources
+      responses:
+        '200':
+          description: List of registered plugin sources
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Source'
+
+  /channels:
+    get:
+      summary: List channels
+      operationId: listChannels
+      parameters:
+        - name: source
+          in: query
+          schema:
+            type: string
+        - name: genre
+          in: query
+          schema:
+            type: string
+        - name: quality
+          in: query
+          schema:
+            type: string
+        - name: lang
+          in: query
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Filtered list of channels
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Channel'
+
+  /channels/{id}:
+    get:
+      summary: Get channel by ID
+      operationId: getChannel
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Channel details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Channel'
+        '404':
+          description: Channel not found
+
+  /programs:
+    get:
+      summary: List programs
+      operationId: listPrograms
+      parameters:
+        - name: channel
+          in: query
+          schema:
+            type: string
+        - name: source
+          in: query
+          schema:
+            type: string
+        - name: date
+          in: query
+          schema:
+            type: string
+            format: date
+        - name: genre
+          in: query
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Filtered list of programs
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Program'
+
+  /grab:
+    post:
+      summary: Trigger EPG grab for a source
+      operationId: triggerGrab
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/GrabRequest'
+      responses:
+        '200':
+          description: Grab results
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GrabResponse'
+        '400':
+          description: Invalid source
+
+  /external-sources:
+    get:
+      summary: List external XMLTV sources
+      operationId: listExternalSources
+      responses:
+        '200':
+          description: List of external sources
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ExternalSource'
+    post:
+      summary: Add external XMLTV source
+      operationId: addExternalSource
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [name, url]
+              properties:
+                name:
+                  type: string
+                url:
+                  type: string
+      responses:
+        '201':
+          description: Source added
+        '409':
+          description: Source already exists
+
+  /external-sources/{name}:
+    delete:
+      summary: Remove external source
+      operationId: removeExternalSource
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Source removed
+        '404':
+          description: Source not found
+
+  /external-sources/{name}/grab:
+    post:
+      summary: Grab from external source
+      operationId: grabExternalSource
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Grab results
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  source:
+                    type: string
+                  channels:
+                    type: integer
+                  programs:
+                    type: integer
+
+  /users:
+    get:
+      summary: List users
+      operationId: listUsers
+      responses:
+        '200':
+          description: List of users
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/User'
+    post:
+      summary: Create user
+      operationId: createUser
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [username]
+              properties:
+                username:
+                  type: string
+                role:
+                  type: string
+                  enum: [admin, viewer]
+      responses:
+        '201':
+          description: User created
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+
+  /users/{id}:
+    delete:
+      summary: Delete user
+      operationId: deleteUser
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: User deleted

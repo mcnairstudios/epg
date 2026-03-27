@@ -15,12 +15,20 @@ import (
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
 
+	_ "github.com/gavinmcnair/epg/plugins/directvar"
+	_ "github.com/gavinmcnair/epg/plugins/distrotv"
+	_ "github.com/gavinmcnair/epg/plugins/dstv"
 	_ "github.com/gavinmcnair/epg/plugins/foxsportsau"
 	_ "github.com/gavinmcnair/epg/plugins/imjhnz"
 	_ "github.com/gavinmcnair/epg/plugins/magticom"
+	_ "github.com/gavinmcnair/epg/plugins/mitv"
+	_ "github.com/gavinmcnair/epg/plugins/plextv"
 	_ "github.com/gavinmcnair/epg/plugins/plutotv"
 	_ "github.com/gavinmcnair/epg/plugins/singtel"
 	_ "github.com/gavinmcnair/epg/plugins/skyuk"
+	_ "github.com/gavinmcnair/epg/plugins/starhub"
+	_ "github.com/gavinmcnair/epg/plugins/tvguide"
+	_ "github.com/gavinmcnair/epg/plugins/vrtbe"
 )
 
 func main() {

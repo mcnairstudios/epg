@@ -5,24 +5,25 @@
 - [x] Plugin interface + registry (blank import pattern)
 - [x] In-memory store with gob persistence
 - [x] Store filtering (source, channel, genre, quality, lang, date)
-- [x] XMLTV serializer
-- [x] Pluto.tv plugin with tests
+- [x] XMLTV serializer + parser
 - [x] Grabber with concurrency control
-
-## In Progress
-- [ ] REST API (Chi router)
-- [ ] XMLTV legacy endpoints
-- [ ] OpenAPI spec
+- [x] REST API (Chi router) with full CRUD
+- [x] XMLTV legacy endpoints (/epg.xml, /epg/{source}.xml)
+- [x] OpenAPI 3.0 spec
+- [x] External XMLTV source import (add URLs via UI, gzip support)
+- [x] User management + token-based authentication
+- [x] Embedded web UI (sources, channels, programs, XMLTV, users)
+- [x] 14 plugins: pluto.tv, sky.com, foxsports.com.au, singtel, magticom.ge, i.mjh.nz, directv.com.ar, mi.tv, starhubtvplus, plex.tv, distro.tv, vrt.be, dstv.com, tvguide.com
+- [x] Full test coverage for all packages and plugins
 
 ## Planned
-- [ ] External XMLTV source import (add URLs via UI as first-class sources)
-- [ ] User management + authentication
-- [ ] Embedded web UI (channel browser, grab trigger, status dashboard)
 - [ ] tvg-id metadata standardization
-- [ ] More plugins (arirang, movistarplus, directv, etc.)
+- [ ] More plugins from iptv-org/epg (~226 remaining)
+- [ ] WebGrab+Plus source research and plugin conversion
+- [ ] Scheduled grabbing (built-in cron)
+- [ ] Dockerfile
 
 ## Feature Ideas / Competitor Inspiration
-- [ ] Scheduled grabbing (built-in cron)
 - [ ] WebGrab+Plus: SiteIni configuration files (declarative scraping)
 - [ ] WebGrab+Plus: TimeShift support for timezone handling
 - [ ] WebGrab+Plus: Show detail enrichment (sub-page fetching)
@@ -37,7 +38,6 @@
 - [ ] Rate limiting per source
 - [ ] Retry logic with exponential backoff
 - [ ] Proxy support (SOCKS5, HTTP)
-- [ ] Docker image
 - [ ] Prometheus metrics
 - [ ] Channel logo proxy/cache
 - [ ] Programme image proxy/cache
