@@ -1,6 +1,7 @@
 package api
 
 import (
+	"compress/gzip"
 	"net/http"
 	"strings"
 
@@ -18,7 +19,7 @@ func (s *Server) getXMLTV(w http.ResponseWriter, r *http.Request) {
 		Quality: r.URL.Query().Get("quality"),
 	}
 
-	s.writeXMLTV(w, f)
+	s.writeXMLTV(w, r, f)
 }
 
 func (s *Server) getSourceXMLTV(w http.ResponseWriter, r *http.Request) {
@@ -32,10 +33,10 @@ func (s *Server) getSourceXMLTV(w http.ResponseWriter, r *http.Request) {
 		Quality: r.URL.Query().Get("quality"),
 	}
 
-	s.writeXMLTV(w, f)
+	s.writeXMLTV(w, r, f)
 }
 
-func (s *Server) writeXMLTV(w http.ResponseWriter, f store.Filter) {
+func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filter) {
 	channels := s.store.GetChannels(f)
 
 	programFilter := store.Filter{
@@ -54,5 +55,14 @@ func (s *Server) writeXMLTV(w http.ResponseWriter, f store.Filter) {
 	}
 
 	w.Header().Set("Content-Type", "application/xml")
+
+	if strings.Contains(r.Header.Get("Accept-Encoding"), "gzip") {
+		w.Header().Set("Content-Encoding", "gzip")
+		gz := gzip.NewWriter(w)
+		defer gz.Close()
+		gz.Write(data)
+		return
+	}
+
 	w.Write(data)
 }
