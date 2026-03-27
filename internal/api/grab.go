@@ -49,3 +49,37 @@ func (s *Server) triggerGrab(w http.ResponseWriter, r *http.Request) {
 	w.WriteHeader(http.StatusOK)
 	json.NewEncoder(w).Encode(resp)
 }
+
+type grabAllResponse struct {
+	Sources []grabResponse `json:"sources"`
+	Total   int            `json:"total"`
+	Errors  int            `json:"errors"`
+}
+
+func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
+	results := s.grabber.GrabAll()
+
+	sourceResults := make(map[string]*grabResponse)
+	for _, result := range results {
+		sr, ok := sourceResults[result.Source]
+		if !ok {
+			sr = &grabResponse{Source: result.Source}
+			sourceResults[result.Source] = sr
+		}
+		sr.Results += result.Count
+		if result.Err != nil {
+			sr.Errors++
+		}
+	}
+
+	resp := grabAllResponse{}
+	for _, sr := range sourceResults {
+		resp.Sources = append(resp.Sources, *sr)
+		resp.Total += sr.Results
+		resp.Errors += sr.Errors
+	}
+
+	s.store.Save()
+
+	json.NewEncoder(w).Encode(resp)
+}

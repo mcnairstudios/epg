@@ -4,6 +4,7 @@ import (
 	"encoding/gob"
 	"os"
 	"path/filepath"
+	"sort"
 	"sync"
 	"time"
 
@@ -79,7 +80,31 @@ func (s *Store) GetPrograms(filters ...Filter) []domain.Program {
 			}
 		}
 	}
+
+	sort.Slice(result, func(i, j int) bool {
+		if result[i].Channel != result[j].Channel {
+			return result[i].Channel < result[j].Channel
+		}
+		return result[i].Start.Before(result[j].Start)
+	})
+
 	return result
+}
+
+func (s *Store) ChannelCount() int {
+	s.mu.RLock()
+	defer s.mu.RUnlock()
+	return len(s.channels)
+}
+
+func (s *Store) ProgramCount() int {
+	s.mu.RLock()
+	defer s.mu.RUnlock()
+	count := 0
+	for _, progs := range s.programs {
+		count += len(progs)
+	}
+	return count
 }
 
 func (s *Store) Save() error {
