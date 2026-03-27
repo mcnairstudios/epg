@@ -350,7 +350,7 @@
 
         const awake = all.filter(s => !sleepingMap[s.name]);
         const active = awake.filter(s => statsMap[s.name] && statsMap[s.name].programs > 0);
-        const inactive = awake.filter(s => !statsMap[s.name] || statsMap[s.name].programs === 0);
+        const inactive = awake.filter(s => statsMap[s.name] && statsMap[s.name].programs === 0);
 
         let html = '';
         if (active.length > 0) {
