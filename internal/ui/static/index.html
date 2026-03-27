@@ -45,6 +45,23 @@
     .stat-label { font-size: 12px; color: #8b98a5; margin-top: 4px; }
     .program-time { font-size: 12px; color: #8b98a5; }
     .program-meta { font-size: 12px; color: #1d9bf0; }
+    .epg-container { border: 1px solid #2f3336; border-radius: 8px; overflow: auto; max-height: calc(100vh - 200px); position: relative; }
+    .epg-header { display: flex; position: sticky; top: 0; z-index: 2; background: #0f1419; border-bottom: 1px solid #2f3336; }
+    .epg-header-corner { min-width: 180px; max-width: 180px; padding: 8px 12px; font-size: 12px; color: #8b98a5; font-weight: 600; border-right: 1px solid #2f3336; position: sticky; left: 0; background: #0f1419; z-index: 3; }
+    .epg-header-time { min-width: 240px; padding: 8px 12px; font-size: 12px; color: #8b98a5; border-right: 1px solid #2f3336; }
+    .epg-row { display: flex; border-bottom: 1px solid #1a2332; min-height: 48px; }
+    .epg-channel { min-width: 180px; max-width: 180px; padding: 8px 12px; font-size: 13px; font-weight: 600; border-right: 1px solid #2f3336; position: sticky; left: 0; background: #16202a; z-index: 1; display: flex; align-items: center; cursor: default; }
+    .epg-channel:hover { background: #1c2b3a; }
+    .epg-channel-tooltip { display: none; position: absolute; left: 100%; top: 50%; transform: translateY(-50%); background: #1a2332; border: 1px solid #2f3336; border-radius: 6px; padding: 8px 12px; font-size: 11px; color: #8b98a5; white-space: nowrap; z-index: 10; margin-left: 4px; }
+    .epg-channel:hover .epg-channel-tooltip { display: block; }
+    .epg-programs { display: flex; position: relative; flex: 1; min-width: 0; }
+    .epg-program { position: absolute; top: 2px; bottom: 2px; background: #1c2b3a; border: 1px solid #2f3336; border-radius: 4px; padding: 4px 8px; overflow: hidden; cursor: default; font-size: 12px; }
+    .epg-program:hover { background: #243447; border-color: #1d9bf0; z-index: 1; }
+    .epg-program-title { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .epg-program-time { font-size: 10px; color: #8b98a5; white-space: nowrap; }
+    .epg-program.live { background: rgba(59, 130, 246, 0.15); border-color: #3b82f6; }
+    .epg-program.past { opacity: 0.5; }
+    .epg-now-line { position: absolute; top: 0; bottom: 0; width: 2px; background: #dc2626; z-index: 5; pointer-events: none; }
     .filter-bar { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
     .filter-bar input, .filter-bar select { width: auto; min-width: 150px; }
     .xmltv-url { font-family: monospace; font-size: 13px; padding: 8px; background: #0f1419; border: 1px solid #2f3336; border-radius: 4px; word-break: break-all; }
@@ -89,26 +106,15 @@
       <div class="grid" id="external-sources"></div>
     </div></div>
 
-    <div id="source-detail-overlay" style="display:none;" class="panel active">
+    <div id="guide-overlay" style="display:none;">
       <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
-        <button class="btn btn-primary" onclick="closeSourceDetail()">&larr; Back to Sources</button>
-        <h2 id="source-detail-name"></h2>
+        <button class="btn btn-primary" onclick="closeGuide()">&larr; Back</button>
+        <h2 id="guide-title"></h2>
+        <span id="guide-stats" style="font-size:13px;color:#8b98a5;"></span>
       </div>
-      <div class="tabs" style="margin-bottom:16px;">
-        <button class="tab active" onclick="showDetailTab(this,'detail-channels')">Channels</button>
-        <button class="tab" onclick="showDetailTab(this,'detail-programs')">Programs</button>
-      </div>
-      <div id="detail-channels">
-        <table>
-          <thead><tr><th>Name</th><th>XMLTV ID</th><th>Lang</th></tr></thead>
-          <tbody id="channels-table"></tbody>
-        </table>
-      </div>
-      <div id="detail-programs" style="display:none;">
-        <table>
-          <thead><tr><th>Time</th><th>Title</th><th>Channel</th><th>Category</th></tr></thead>
-          <tbody id="programs-table"></tbody>
-        </table>
+      <div class="epg-container" id="epg-container">
+        <div class="epg-header" id="epg-header"></div>
+        <div class="epg-body" id="epg-body"></div>
       </div>
     </div>
 
@@ -244,8 +250,7 @@
               <div style="margin-top:2px;">${lastGrab}${errorInfo}</div>
               <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
                 ${grabBtn}
-                <button class="btn btn-primary" onclick="openSourceDetail('${s.name}','channels')">Channels</button>
-                ${gs && gs.programs > 0 ? `<button class="btn btn-primary" onclick="openSourceDetail('${s.name}','programs')">Programs</button>` : ''}
+                ${gs && gs.programs > 0 ? `<button class="btn btn-primary" onclick="openGuide('${s.name}')">Guide</button>` : ''}
                 <button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${s.name}')">Copy XMLTV URL</button>
               </div>
             </div>
@@ -331,51 +336,108 @@
       } catch(e) { showStatus(e.message, 'error'); }
     }
 
-    async function openSourceDetail(source, tab) {
-      document.getElementById('sources-list-view').style.display = 'none';
-      document.getElementById('source-detail-overlay').style.display = 'block';
-      document.getElementById('source-detail-name').textContent = source;
+    const PX_PER_MIN = 4;
+    const HOURS_SHOWN = 6;
+    const TOTAL_WIDTH = HOURS_SHOWN * 60 * PX_PER_MIN;
 
-      try {
-        const channels = await apiFetch('/channels?source=' + source);
-        document.getElementById('channels-table').innerHTML = (channels||[]).sort((a,b) => a.name.localeCompare(b.name)).map(c => `
-          <tr><td>${c.name}</td><td><code>${c.xmltv_id}</code></td><td>${c.lang}</td></tr>
-        `).join('');
-      } catch(e) {}
+    async function openGuide(source) {
+      document.getElementById('sources').style.display = 'none';
+      document.getElementById('guide-overlay').style.display = 'block';
+      document.getElementById('guide-title').textContent = source;
 
-      try {
-        const programs = await apiFetch('/programs?source=' + source);
-        document.getElementById('programs-table').innerHTML = (programs||[]).slice(0, 500).map(p => `
-          <tr>
-            <td class="program-time">${new Date(p.start).toLocaleString([], {month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'})} - ${new Date(p.stop).toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})}</td>
-            <td>${p.title}${p.sub_title ? '<br><span class="program-meta">' + p.sub_title + '</span>':''}</td>
-            <td><code>${p.channel}</code></td>
-            <td>${p.category||''}</td>
-          </tr>
-        `).join('');
-      } catch(e) {}
+      const [channels, programs] = await Promise.all([
+        apiFetch('/channels?source=' + source),
+        apiFetch('/programs?source=' + source)
+      ]);
 
-      if (tab === 'programs') {
-        document.getElementById('detail-channels').style.display = 'none';
-        document.getElementById('detail-programs').style.display = 'block';
-        document.querySelectorAll('#source-detail-overlay .tab').forEach((t,i) => t.classList.toggle('active', i===1));
-      } else {
-        document.getElementById('detail-channels').style.display = 'block';
-        document.getElementById('detail-programs').style.display = 'none';
-        document.querySelectorAll('#source-detail-overlay .tab').forEach((t,i) => t.classList.toggle('active', i===0));
+      const progsByChannel = {};
+      (programs||[]).forEach(p => {
+        if (!progsByChannel[p.channel]) progsByChannel[p.channel] = [];
+        progsByChannel[p.channel].push(p);
+      });
+
+      const now = new Date();
+      const windowStart = new Date(now);
+      windowStart.setMinutes(0, 0, 0);
+
+      document.getElementById('guide-stats').textContent =
+        `${(channels||[]).length} channels, ${(programs||[]).length} programs`;
+
+      let headerHtml = '<div class="epg-header-corner">Channel</div>';
+      for (let h = 0; h < HOURS_SHOWN; h++) {
+        const t = new Date(windowStart.getTime() + h * 3600000);
+        headerHtml += `<div class="epg-header-time">${t.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})}</div>`;
       }
+      document.getElementById('epg-header').innerHTML = headerHtml;
+
+      const windowStartMs = windowStart.getTime();
+      const windowEndMs = windowStartMs + HOURS_SHOWN * 3600000;
+      const nowMs = now.getTime();
+
+      let bodyHtml = '';
+      const sortedChannels = (channels||[]).sort((a,b) => a.name.localeCompare(b.name));
+
+      for (const ch of sortedChannels) {
+        const chProgs = (progsByChannel[ch.xmltv_id] || [])
+          .filter(p => new Date(p.stop).getTime() > windowStartMs && new Date(p.start).getTime() < windowEndMs)
+          .sort((a,b) => new Date(a.start) - new Date(b.start));
+
+        let progsHtml = '';
+        for (const p of chProgs) {
+          const startMs = Math.max(new Date(p.start).getTime(), windowStartMs);
+          const stopMs = Math.min(new Date(p.stop).getTime(), windowEndMs);
+          const leftMin = (startMs - windowStartMs) / 60000;
+          const widthMin = (stopMs - startMs) / 60000;
+          const leftPx = leftMin * PX_PER_MIN;
+          const widthPx = Math.max(widthMin * PX_PER_MIN - 2, 20);
+
+          const isLive = nowMs >= new Date(p.start).getTime() && nowMs < new Date(p.stop).getTime();
+          const isPast = new Date(p.stop).getTime() < nowMs;
+          const cls = 'epg-program' + (isLive ? ' live' : '') + (isPast ? ' past' : '');
+
+          const startStr = new Date(p.start).toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
+          const stopStr = new Date(p.stop).toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
+          const titleEsc = (p.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+          const descEsc = (p.description||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+
+          progsHtml += `<div class="${cls}" style="left:${leftPx}px;width:${widthPx}px;" title="${titleEsc}\n${startStr}-${stopStr}\n${descEsc}">
+            <div class="epg-program-title">${titleEsc}</div>
+            <div class="epg-program-time">${startStr} - ${stopStr}</div>
+          </div>`;
+        }
+
+        const nameEsc = (ch.name||'').replace(/</g,'&lt;');
+        bodyHtml += `<div class="epg-row">
+          <div class="epg-channel">
+            ${nameEsc}
+            <div class="epg-channel-tooltip">
+              <div><b>${nameEsc}</b></div>
+              <div>XMLTV: ${ch.xmltv_id}</div>
+              <div>Lang: ${ch.lang}</div>
+              <div>Site ID: ${ch.site_id}</div>
+            </div>
+          </div>
+          <div class="epg-programs" style="width:${TOTAL_WIDTH}px;min-width:${TOTAL_WIDTH}px;">
+            ${progsHtml}
+          </div>
+        </div>`;
+      }
+
+      const nowPx = ((nowMs - windowStartMs) / 60000) * PX_PER_MIN;
+      if (nowPx > 0 && nowPx < TOTAL_WIDTH) {
+        bodyHtml += `<div class="epg-now-line" style="left:${180 + nowPx}px;"></div>`;
+      }
+
+      document.getElementById('epg-body').innerHTML = bodyHtml;
+
+      const container = document.getElementById('epg-container');
+      const scrollTarget = nowPx - container.clientWidth / 2 + 180;
+      if (scrollTarget > 0) container.scrollLeft = scrollTarget;
     }
 
-    function closeSourceDetail() {
-      document.getElementById('source-detail-overlay').style.display = 'none';
-      document.getElementById('sources-list-view').style.display = 'block';
-    }
-
-    function showDetailTab(btn, tabId) {
-      document.querySelectorAll('#source-detail-overlay .tab').forEach(t => t.classList.remove('active'));
-      btn.classList.add('active');
-      document.getElementById('detail-channels').style.display = tabId === 'detail-channels' ? 'block' : 'none';
-      document.getElementById('detail-programs').style.display = tabId === 'detail-programs' ? 'block' : 'none';
+    function closeGuide() {
+      document.getElementById('guide-overlay').style.display = 'none';
+      document.getElementById('sources').style.display = 'block';
     }
 
     async function loadChannels() {
