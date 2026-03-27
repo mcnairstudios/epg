@@ -299,6 +299,7 @@
 
         function renderCard(s) {
           const gs = statsMap[s.name];
+          const safeNameAttr = (s.name||'').replace(/'/g, "\\'").replace(/"/g, '&quot;');
           const isGrabbing = grabbingSet.has(s._type === 'external' ? 'ext:' + s.name : s.name);
           const isExternal = s._type === 'external';
           const typeBadge = isExternal ? '<span class="badge" style="background:#7c3aed;color:white;font-size:10px;">external</span> ' : '';
@@ -317,7 +318,6 @@
           const grabBtn = isGrabbing
             ? '<button class="btn" style="background:#d97706;color:white;" disabled>Grabbing...</button>'
             : `<button class="btn btn-success" onclick="${s._grabFn}('${safeNameAttr}')">Grab</button>`;
-          const safeNameAttr = (s.name||'').replace(/'/g, "\\'").replace(/"/g, '&quot;');
           const removeBtn = isExternal ? `<button class="btn btn-danger" onclick="removeExternal('${safeNameAttr}')">Remove</button>` : '';
           const sleepBtn = `<button class="btn" style="background:#374151;color:#9ca3af;font-size:11px;padding:2px 8px;" onclick="event.stopPropagation();toggleSleep('${safeNameAttr}')" title="Put to sleep">zzz</button>`;
 
