@@ -68,7 +68,14 @@ func (s *Store) SetPrograms(channelID string, programs []domain.Program) {
 	s.mu.Lock()
 	defer s.mu.Unlock()
 
-	s.programs[channelID] = programs
+	s.programs[channelID] = append(s.programs[channelID], programs...)
+}
+
+func (s *Store) ClearPrograms(channelID string) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+
+	delete(s.programs, channelID)
 }
 
 func (s *Store) GetPrograms(filters ...Filter) []domain.Program {

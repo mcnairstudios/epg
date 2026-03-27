@@ -84,6 +84,7 @@ func (g *Grabber) grabChannels(p plugin.Provider, channels []domain.Channel) []R
 	var jobs []job
 	now := time.Now().UTC().Truncate(24 * time.Hour)
 	for _, ch := range channels {
+		g.store.ClearPrograms(ch.ID)
 		for d := 0; d < g.days; d++ {
 			jobs = append(jobs, job{channel: ch, date: now.Add(time.Duration(d) * 24 * time.Hour)})
 		}
