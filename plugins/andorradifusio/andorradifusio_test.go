@@ -18,7 +18,7 @@ func testdataPath(name string) string {
 
 var channel = domain.Channel{
 	ID:      "andorradifusio.ad-atv",
-	XmltvID: "AndorraTV.ad",
+	XmltvID: "AndorraTV.ad@SD",
 	SiteID:  "atv",
 	Lang:    "ca",
 }
@@ -29,14 +29,14 @@ func TestParseContent(t *testing.T) {
 		t.Fatalf("failed to read test data: %v", err)
 	}
 
-	date := time.Date(2023, 6, 7, 0, 0, 0, 0, time.UTC)
+	date := time.Date(2026, 4, 1, 0, 0, 0, 0, time.UTC)
 	programs, err := andorradifusio.Parse(data, channel, date)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
 
-	if len(programs) == 0 {
-		t.Fatal("expected at least one program")
+	if len(programs) != 5 {
+		t.Fatalf("expected 5 programs, got %d", len(programs))
 	}
 
 	p := programs[0]
@@ -44,46 +44,91 @@ func TestParseContent(t *testing.T) {
 		t.Fatalf("expected title 'Club Piolet', got %q", p.Title)
 	}
 
-	expectedStart := time.Date(2023, 6, 7, 5, 0, 0, 0, time.UTC)
+	expectedStart := time.Date(2026, 4, 1, 7, 0, 0, 0, time.UTC)
 	if !p.Start.Equal(expectedStart) {
 		t.Fatalf("expected start %v, got %v", expectedStart, p.Start)
 	}
 
-	expectedStop := time.Date(2023, 6, 7, 6, 0, 0, 0, time.UTC)
+	expectedStop := time.Date(2026, 4, 1, 7, 30, 0, 0, time.UTC)
 	if !p.Stop.Equal(expectedStop) {
 		t.Fatalf("expected stop %v, got %v", expectedStop, p.Stop)
 	}
 
-	if len(programs) < 21 {
-		t.Fatalf("expected at least 21 programs, got %d", len(programs))
-	}
-
-	p20 := programs[20]
-	if p20.Title != "\u00c0rea Andorra Difusi\u00f3" {
-		t.Fatalf("expected title 'Area Andorra Difusio', got %q", p20.Title)
-	}
-
-	expectedStart20 := time.Date(2023, 6, 7, 23, 0, 0, 0, time.UTC)
-	if !p20.Start.Equal(expectedStart20) {
-		t.Fatalf("expected start %v, got %v", expectedStart20, p20.Start)
-	}
-
-	expectedStop20 := time.Date(2023, 6, 8, 0, 0, 0, 0, time.UTC)
-	if !p20.Stop.Equal(expectedStop20) {
-		t.Fatalf("expected stop %v, got %v", expectedStop20, p20.Stop)
-	}
-
-	if p.Channel != "AndorraTV.ad" {
-		t.Fatalf("expected channel 'AndorraTV.ad', got %q", p.Channel)
+	if p.Channel != "AndorraTV.ad@SD" {
+		t.Fatalf("expected channel 'AndorraTV.ad@SD', got %q", p.Channel)
 	}
 
 	if p.Source != "andorradifusio.ad" {
 		t.Fatalf("expected source 'andorradifusio.ad', got %q", p.Source)
 	}
+
+	if p.Lang != "ca" {
+		t.Fatalf("expected lang 'ca', got %q", p.Lang)
+	}
+
+	last := programs[4]
+	if last.Title != "Àrea Andorra" {
+		t.Fatalf("expected last title 'Àrea Andorra', got %q", last.Title)
+	}
+
+	expectedLastStart := time.Date(2026, 4, 1, 21, 0, 0, 0, time.UTC)
+	if !last.Start.Equal(expectedLastStart) {
+		t.Fatalf("expected last start %v, got %v", expectedLastStart, last.Start)
+	}
+}
+
+func TestParseFiltersOutOtherChannels(t *testing.T) {
+	data, err := os.ReadFile(testdataPath("content.html"))
+	if err != nil {
+		t.Fatalf("failed to read test data: %v", err)
+	}
+
+	date := time.Date(2026, 4, 1, 0, 0, 0, 0, time.UTC)
+	programs, err := andorradifusio.Parse(data, channel, date)
+	if err != nil {
+		t.Fatalf("parse failed: %v", err)
+	}
+
+	for _, p := range programs {
+		if p.Channel != "AndorraTV.ad@SD" {
+			t.Fatalf("found program for wrong channel: %q", p.Channel)
+		}
+	}
+}
+
+func TestParseFiltersOutOtherDates(t *testing.T) {
+	data, err := os.ReadFile(testdataPath("content.html"))
+	if err != nil {
+		t.Fatalf("failed to read test data: %v", err)
+	}
+
+	date := time.Date(2026, 3, 31, 0, 0, 0, 0, time.UTC)
+	programs, err := andorradifusio.Parse(data, channel, date)
+	if err != nil {
+		t.Fatalf("parse failed: %v", err)
+	}
+
+	if len(programs) != 1 {
+		t.Fatalf("expected 1 program for March 31, got %d", len(programs))
+	}
+
+	if programs[0].Title != "Yesterday Show" {
+		t.Fatalf("expected title 'Yesterday Show', got %q", programs[0].Title)
+	}
 }
 
 func TestParseEmptyContent(t *testing.T) {
-	programs, err := andorradifusio.Parse([]byte("<!DOCTYPE html><html><head></head><body></body></html>"), channel, time.Date(2023, 6, 7, 0, 0, 0, 0, time.UTC))
+	programs, err := andorradifusio.Parse([]byte("<!DOCTYPE html><html><head></head><body></body></html>"), channel, time.Date(2026, 4, 1, 0, 0, 0, 0, time.UTC))
+	if err != nil {
+		t.Fatalf("parse failed: %v", err)
+	}
+	if len(programs) != 0 {
+		t.Fatalf("expected 0 programs, got %d", len(programs))
+	}
+}
+
+func TestParseEmptyData(t *testing.T) {
+	programs, err := andorradifusio.Parse([]byte(""), channel, time.Date(2026, 4, 1, 0, 0, 0, 0, time.UTC))
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
