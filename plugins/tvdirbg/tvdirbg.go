@@ -3,6 +3,7 @@ package tvdirbg
 import (
 	"bytes"
 	"encoding/json"
+	"fmt"
 	"io"
 	"net/http"
 	"regexp"
@@ -44,9 +45,51 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	req, err := http.NewRequest(http.MethodPost, "https://tv.dir.bg/load/programs", nil)
+	// Step 1: Get session and CSRF token from /init
+	initReq, err := http.NewRequest(http.MethodGet, "https://tv.dir.bg/init", nil)
 	if err != nil {
 		return nil, err
+	}
+
+	initResp, err := p.client.Do(initReq)
+	if err != nil {
+		return nil, err
+	}
+	defer initResp.Body.Close()
+
+	initBody, err := io.ReadAll(initResp.Body)
+	if err != nil {
+		return nil, err
+	}
+
+	var initData struct {
+		CSRFToken string `json:"csrfToken"`
+	}
+	if err := json.Unmarshal(initBody, &initData); err != nil {
+		return nil, fmt.Errorf("failed to parse init response: %w", err)
+	}
+
+	// Extract cookies from init response
+	var cookieString string
+	for _, cookie := range initResp.Cookies() {
+		if cookieString != "" {
+			cookieString += "; "
+		}
+		cookieString += cookie.Name + "=" + cookie.Value
+	}
+
+	// Step 2: POST to load/programs with CSRF token and form data
+	dateStr := date.Format("2006-01-02")
+	formData := fmt.Sprintf("_token=%s&channel=%s&day=%s", initData.CSRFToken, channel.SiteID, dateStr)
+
+	req, err := http.NewRequest(http.MethodPost, "https://tv.dir.bg/load/programs", strings.NewReader(formData))
+	if err != nil {
+		return nil, err
+	}
+	req.Header.Set("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8")
+	req.Header.Set("X-Requested-With", "XMLHttpRequest")
+	if cookieString != "" {
+		req.Header.Set("Cookie", cookieString)
 	}
 
 	resp, err := p.client.Do(req)

@@ -12,6 +12,15 @@ import (
 	"github.com/gavinmcnair/epg/internal/domain"
 )
 
+type GrabStats struct {
+	Source   string    `json:"source"`
+	Channels int       `json:"channels"`
+	Programs int       `json:"programs"`
+	Errors   int       `json:"errors"`
+	LastGrab time.Time `json:"last_grab"`
+	Duration string    `json:"duration"`
+}
+
 type Store struct {
 	mu        sync.RWMutex
 	channels  map[string]domain.Channel

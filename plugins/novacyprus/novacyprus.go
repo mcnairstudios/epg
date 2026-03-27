@@ -72,7 +72,7 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 
 	programs := make([]domain.Program, 0)
 	for _, item := range response.Nodes {
-		if item.CID != channel.SiteID {
+		if item.ChannelID != channel.SiteID {
 			continue
 		}
 
@@ -84,7 +84,7 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 			Lang:        channel.Lang,
 		}
 
-		if t, err := time.Parse("2006-01-02 15:04:05", item.DateTime); err == nil {
+		if t, err := time.ParseInLocation("2006-01-02 15:04:05", item.DateTime, nicosiaLocation); err == nil {
 			p.Start = t.UTC()
 			dur, _ := strconv.Atoi(item.SlotDuration)
 			p.Stop = t.Add(time.Duration(dur) * time.Minute).UTC()
@@ -96,6 +96,8 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	return programs, nil
 }
 
+var nicosiaLocation, _ = time.LoadLocation("Asia/Nicosia")
+
 type apiResponse struct {
 	Nodes []node `json:"nodes"`
 }
@@ -103,6 +105,7 @@ type apiResponse struct {
 type node struct {
 	DateTime     string `json:"datetime"`
 	CID          string `json:"cid"`
+	ChannelID    string `json:"ChannelId"`
 	Title        string `json:"title"`
 	Description  string `json:"description"`
 	SlotDuration string `json:"slotDuration"`

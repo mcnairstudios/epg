@@ -24,7 +24,7 @@ func TestParseContent(t *testing.T) {
 	channel := domain.Channel{
 		ID:      "novacyprus-1",
 		XmltvID: "NovaCinema1.cy",
-		SiteID:  "42",
+		SiteID:  "614",
 		Lang:    "el",
 	}
 

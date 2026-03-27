@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"strings"
 	"time"
 
 	_ "embed"
@@ -39,7 +40,10 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	req, err := http.NewRequest(http.MethodPost, "https://tvmusor.borsonline.hu/a/get-events/", nil)
+	dateStr := date.Format("2006-01-02")
+	formData := fmt.Sprintf(`data={"blocks":["%s|%s"]}`, channel.SiteID, dateStr)
+
+	req, err := http.NewRequest(http.MethodPost, "https://tvmusor.borsonline.hu/a/get-events/", strings.NewReader(formData))
 	if err != nil {
 		return nil, err
 	}

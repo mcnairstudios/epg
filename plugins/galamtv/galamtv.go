@@ -53,6 +53,8 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	req.Header.Set("Referer", "https://galamtv.kz/")
 	req.Header.Set("Origin", "https://galamtv.kz")
+	req.Header.Set("Accept", "*/*")
+	req.Header.Set("Accept-Encoding", "gzip, deflate, br, zstd")
 
 	resp, err := p.client.Do(req)
 	if err != nil {
