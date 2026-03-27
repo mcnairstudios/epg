@@ -15,12 +15,15 @@ import (
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
 
+	_ "github.com/gavinmcnair/epg/plugins/canalplus"
+	_ "github.com/gavinmcnair/epg/plugins/digiturk"
 	_ "github.com/gavinmcnair/epg/plugins/directvar"
 	_ "github.com/gavinmcnair/epg/plugins/distrotv"
 	_ "github.com/gavinmcnair/epg/plugins/dstv"
 	_ "github.com/gavinmcnair/epg/plugins/foxsportsau"
 	_ "github.com/gavinmcnair/epg/plugins/imjhnz"
 	_ "github.com/gavinmcnair/epg/plugins/magticom"
+	_ "github.com/gavinmcnair/epg/plugins/meopt"
 	_ "github.com/gavinmcnair/epg/plugins/mitv"
 	_ "github.com/gavinmcnair/epg/plugins/ontvtonight"
 	_ "github.com/gavinmcnair/epg/plugins/plextv"
@@ -29,6 +32,8 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/skyuk"
 	_ "github.com/gavinmcnair/epg/plugins/starhub"
 	_ "github.com/gavinmcnair/epg/plugins/tvguide"
+	_ "github.com/gavinmcnair/epg/plugins/tvpassport"
+	_ "github.com/gavinmcnair/epg/plugins/vidio"
 	_ "github.com/gavinmcnair/epg/plugins/vrtbe"
 )
 
