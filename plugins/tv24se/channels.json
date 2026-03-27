@@ -1,101 +1,90 @@
 [
   {
-    "site_id": "kanal-9-hd-text",
-    "name": "Kanal 9 HD - Text",
+    "site_id": "viasat-hockey-1",
+    "name": "Viasat Hockey Finland",
     "lang": "sv"
   },
   {
-    "site_id": "kanal-11-hd-text",
-    "name": "Kanal 11 HD - Text",
+    "site_id": "discovery-science",
+    "name": "Discovery Science",
     "lang": "sv"
   },
   {
-    "site_id": "nrk2-hd",
-    "name": "NRK2 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "skyshowtime-2",
-    "name": "SkyShowtime 2",
+    "site_id": "disney-channel",
+    "name": "Disney Channel",
     "lang": "sv",
-    "xmltv_id": "SkyShowtime2.se@SD"
+    "xmltv_id": "DisneyChannelScandinavia.uk@SD"
   },
   {
-    "site_id": "v-film-premiere-hd",
-    "name": "V Film Premiere HD",
+    "site_id": "fuel-tv",
+    "name": "Fuel TV",
     "lang": "sv",
-    "xmltv_id": "VFilmPremiere.se@SD"
+    "xmltv_id": "FUELTV.at@SD"
   },
   {
-    "site_id": "v-sport-ultra-hd",
-    "name": "V Sport Ultra HD",
-    "lang": "sv",
-    "xmltv_id": "VSportUltraHD.se@SD"
-  },
-  {
-    "site_id": "kunskapskanalen-hd-text",
-    "name": "Kunskapskanalen HD - Text",
+    "site_id": "nrk1-hd",
+    "name": "NRK1 HD",
     "lang": "sv"
   },
   {
-    "site_id": "tv4",
-    "name": "TV4",
-    "lang": "sv",
-    "xmltv_id": "TV4.se@SD"
+    "site_id": "rtp-internacional-europe",
+    "name": "RTP Internacional Europe",
+    "lang": "pt",
+    "xmltv_id": "RTPInternacional.pt@SD"
   },
   {
-    "site_id": "yle-tv2-hd",
-    "name": "Yle TV2 HD",
+    "site_id": "tv-2-zebra",
+    "name": "TV 2 Zebra",
+    "lang": "no",
+    "xmltv_id": "TV2Zebra.no@SD"
+  },
+  {
+    "site_id": "viasat-film-family-hd",
+    "name": "Viasat Film Family HD",
     "lang": "sv"
   },
   {
-    "site_id": "bbc-earth",
-    "name": "BBC Earth",
+    "site_id": "viasat-film-premiere",
+    "name": "Viasat Film Premiere",
+    "lang": "sv"
+  },
+  {
+    "site_id": "cnbc",
+    "name": "CNBC",
     "lang": "en",
-    "xmltv_id": "BBCEarth.uk@Nordic"
+    "xmltv_id": "CNBCEurope.uk@SD"
   },
   {
-    "site_id": "channel-one-russia",
-    "name": "Channel One Russia",
+    "site_id": "disney-channel-hd",
+    "name": "Disney Channel HD",
     "lang": "sv"
   },
   {
-    "site_id": "mtv-viihde-hd",
-    "name": "MTV Viihde HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-stars-hd",
-    "name": "TV4 Stars HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "kanal-10",
-    "name": "Kanal 10",
+    "site_id": "kanal-9",
+    "name": "Kanal 9",
     "lang": "sv",
-    "xmltv_id": "Kanal10.se@SD"
+    "xmltv_id": "Kanal9.se@SD"
   },
   {
-    "site_id": "svt24",
-    "name": "SVT24",
-    "lang": "sv",
-    "xmltv_id": "SVT24.se@SD"
-  },
-  {
-    "site_id": "tv-2-direkte-hd",
-    "name": "TV2 Norge HD",
+    "site_id": "tv2-hd",
+    "name": "TV2 Danmark HD",
     "lang": "sv"
   },
   {
-    "site_id": "bbc-news-europe-hd",
-    "name": "BBC News Europe HD",
+    "site_id": "tv4-sport-live-3",
+    "name": "TV4 Sport Live 3",
     "lang": "sv"
   },
   {
-    "site_id": "axess-tv",
-    "name": "Axess TV",
-    "lang": "sv",
-    "xmltv_id": "AxessTV.se@SD"
+    "site_id": "yle-tv2",
+    "name": "Yle TV2",
+    "lang": "fi",
+    "xmltv_id": "YleTV2.fi@SD"
+  },
+  {
+    "site_id": "mbc-1",
+    "name": "MBC",
+    "lang": "sv"
   },
   {
     "site_id": "sky-news",
@@ -104,15 +93,59 @@
     "xmltv_id": "SkyNews.uk@SD"
   },
   {
-    "site_id": "sonlife-broadcasting-network",
-    "name": "SonLife Broadcasting Network",
+    "site_id": "tv4-sport-live-2",
+    "name": "TV4 Sport Live 2",
     "lang": "sv"
   },
   {
-    "site_id": "tv2",
-    "name": "TV2 Danmark",
-    "lang": "da",
-    "xmltv_id": "TV2.dk@SD"
+    "site_id": "tvp-polonia",
+    "name": "TVP Polonia",
+    "lang": "pl",
+    "xmltv_id": "TVPPolonia.pl@SD"
+  },
+  {
+    "site_id": "yle-teema-fem",
+    "name": "Yle Teema \u0026 Fem",
+    "lang": "sv"
+  },
+  {
+    "site_id": "cnbc-hd",
+    "name": "CNBC HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "ftv-hd",
+    "name": "FTV HD",
+    "lang": "en",
+    "xmltv_id": "FashionTVEurope.fr@SD"
+  },
+  {
+    "site_id": "nautical-channel",
+    "name": "Nautical Channel",
+    "lang": "en",
+    "xmltv_id": "NauticalChannel.it@SD"
+  },
+  {
+    "site_id": "tv-2-nyheter-norway",
+    "name": "TV 2 Nyheter (NORWAY)",
+    "lang": "sv",
+    "xmltv_id": "TV2Nyhetskanalen.no@SD"
+  },
+  {
+    "site_id": "zdf",
+    "name": "ZDF",
+    "lang": "de",
+    "xmltv_id": "ZDF.de@SD"
+  },
+  {
+    "site_id": "bbc-news-europe-hd",
+    "name": "BBC News Europe HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "bbc-nordic-hd-1",
+    "name": "BBC Earth HD",
+    "lang": "sv"
   },
   {
     "site_id": "classica-hd",
@@ -121,21 +154,96 @@
     "xmltv_id": "Classica.it@HD"
   },
   {
-    "site_id": "duna-tv",
-    "name": "Duna TV",
-    "lang": "hu",
-    "xmltv_id": "Duna.hu@SD"
-  },
-  {
-    "site_id": "motorvision-tv-hd",
-    "name": "Motorvision TV HD",
+    "site_id": "tv8-hd",
+    "name": "TV8 HD",
     "lang": "sv"
   },
   {
-    "site_id": "trace-urban-hd",
-    "name": "Trace Urban HD",
+    "site_id": "tv-2-direkte-hd",
+    "name": "TV2 Norge HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "national-geographic-hd-1",
+    "name": "National Geographic HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-hits",
+    "name": "TV4 Hits",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-hockey",
+    "name": "TV4 Hockey",
+    "lang": "sv"
+  },
+  {
+    "site_id": "viasat-explore",
+    "name": "Viasat Explore",
     "lang": "sv",
-    "xmltv_id": "TraceUrban.fr@SD"
+    "xmltv_id": "ViasatExplore.se@SD"
+  },
+  {
+    "site_id": "viasat-history",
+    "name": "Viasat History",
+    "lang": "sv",
+    "xmltv_id": "ViasatHistory.se@SD"
+  },
+  {
+    "site_id": "visjon-norge-hd",
+    "name": "Visjon Norge HD",
+    "lang": "sv",
+    "xmltv_id": "TVVisjonNorway.no@SD"
+  },
+  {
+    "site_id": "axess-tv",
+    "name": "Axess TV",
+    "lang": "sv",
+    "xmltv_id": "AxessTV.se@SD"
+  },
+  {
+    "site_id": "history-channel",
+    "name": "History Channel",
+    "lang": "sv"
+  },
+  {
+    "site_id": "mtv-aitio-hd",
+    "name": "MTV Aitio HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "nrk3",
+    "name": "NRK3",
+    "lang": "no",
+    "xmltv_id": "NRK3.no@SD"
+  },
+  {
+    "site_id": "tlc-hd-1",
+    "name": "TLC HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "trt-turk",
+    "name": "TRT Turk",
+    "lang": "tr",
+    "xmltv_id": "TRTTurk.tr@SD"
+  },
+  {
+    "site_id": "canal-24-horas",
+    "name": "Canal 24 Horas",
+    "lang": "sv"
+  },
+  {
+    "site_id": "eurosport-1-hd",
+    "name": "Eurosport 1 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "nicktoons",
+    "name": "Nicktoons",
+    "lang": "sv",
+    "xmltv_id": "NicktoonsScandinavia.nl@SD"
   },
   {
     "site_id": "tv4-hd-text",
@@ -149,163 +257,26 @@
     "xmltv_id": "VOX.at@SD"
   },
   {
-    "site_id": "bbc-nordic-hd-1",
-    "name": "BBC Earth HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "outtv",
-    "name": "OUTtv",
+    "site_id": "bbc-earth",
+    "name": "BBC Earth",
     "lang": "en",
-    "xmltv_id": "OUTtv.nl@SD"
+    "xmltv_id": "BBCEarth.uk@Nordic"
   },
   {
-    "site_id": "svt-barnsvt24",
-    "name": "SVT Barn/SVT24",
-    "lang": "sv",
-    "xmltv_id": "SVTBarnSVT24.se@SD"
-  },
-  {
-    "site_id": "yle-teema-fem",
-    "name": "Yle Teema \u0026 Fem",
+    "site_id": "dr-ultra",
+    "name": "DR Ultra",
     "lang": "sv"
   },
   {
-    "site_id": "discovery-science-1",
-    "name": "Discovery Science",
-    "lang": "en",
-    "xmltv_id": "DiscoveryScienceEurope.uk@Sweden"
-  },
-  {
-    "site_id": "eurosport-1",
-    "name": "Eurosport 1",
+    "site_id": "nick-jr",
+    "name": "Nick JR",
     "lang": "sv",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "NickJrScandinavia.nl@SD"
   },
   {
-    "site_id": "travel-channel",
-    "name": "Travel Channel",
-    "lang": "en",
-    "xmltv_id": "TravelChannelEMEA.uk@SD"
-  },
-  {
-    "site_id": "tv2-news",
-    "name": "TV2 News",
-    "lang": "da",
-    "xmltv_id": "TV2News.dk@SD"
-  },
-  {
-    "site_id": "tv8-hd",
-    "name": "TV8 HD",
+    "site_id": "oppna-kanalen-vaxjo",
+    "name": "Öppna Kanalen Växjö",
     "lang": "sv"
-  },
-  {
-    "site_id": "v-sport-1-hd",
-    "name": "V Sport 1 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "v-sport-vinter",
-    "name": "V Sport Vinter",
-    "lang": "sv",
-    "xmltv_id": "VSportVinter.se@SD"
-  },
-  {
-    "site_id": "zdf",
-    "name": "ZDF",
-    "lang": "de",
-    "xmltv_id": "ZDF.de@SD"
-  },
-  {
-    "site_id": "bbc-news",
-    "name": "BBC News",
-    "lang": "sv"
-  },
-  {
-    "site_id": "dr3-hd",
-    "name": "DR3 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-explore",
-    "name": "Viasat Explore",
-    "lang": "sv",
-    "xmltv_id": "ViasatExplore.se@SD"
-  },
-  {
-    "site_id": "vision-sverige",
-    "name": "Vision Sverige",
-    "lang": "sv"
-  },
-  {
-    "site_id": "godare",
-    "name": "Godare",
-    "lang": "sv",
-    "xmltv_id": "Godare.se@SD"
-  },
-  {
-    "site_id": "v-film-hits-hd",
-    "name": "V Film Hits HD",
-    "lang": "sv",
-    "xmltv_id": "VFilmHits.se@SD"
-  },
-  {
-    "site_id": "visjon-norge-hd",
-    "name": "Visjon Norge HD",
-    "lang": "sv",
-    "xmltv_id": "TVVisjonNorway.no@SD"
-  },
-  {
-    "site_id": "animal-planet",
-    "name": "Animal Planet",
-    "lang": "sv",
-    "xmltv_id": "AnimalPlanetNordic.uk@SD"
-  },
-  {
-    "site_id": "djazz-hd",
-    "name": "Djazz HD",
-    "lang": "en",
-    "xmltv_id": "StingrayDJAZZ.ca@SD"
-  },
-  {
-    "site_id": "h2",
-    "name": "H2",
-    "lang": "sv",
-    "xmltv_id": "History2Nordic.us@SD"
-  },
-  {
-    "site_id": "national-geographic-wild",
-    "name": "National Geographic Wild",
-    "lang": "sv",
-    "xmltv_id": "NationalGeographicWild.se@SD"
-  },
-  {
-    "site_id": "nhk-world-tv",
-    "name": "NHK World TV",
-    "lang": "sv",
-    "xmltv_id": "NHKWorldJapan.jp@SD"
-  },
-  {
-    "site_id": "das-erste",
-    "name": "Das Erste",
-    "lang": "de",
-    "xmltv_id": "DasErste.de@SD"
-  },
-  {
-    "site_id": "tv12-hd-text",
-    "name": "TV12 HD - Text",
-    "lang": "sv"
-  },
-  {
-    "site_id": "nick-jr-hd",
-    "name": "Nick Jr. HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "rai-1",
-    "name": "Rai 1",
-    "lang": "it",
-    "xmltv_id": "Rai1.it@SD"
   },
   {
     "site_id": "svt2-hd",
@@ -318,757 +289,14 @@
     "lang": "sv"
   },
   {
-    "site_id": "tv3-1",
-    "name": "TV3 Danmark",
-    "lang": "da",
-    "xmltv_id": "TV3.dk@SD"
-  },
-  {
-    "site_id": "c-more-fotbollhockeystars-hd",
-    "name": "C More Fotboll/Hockey/Stars HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "dw-en-aleman",
-    "name": "Deutsche Welle",
-    "lang": "sv"
-  },
-  {
-    "site_id": "france-24-english-hd",
-    "name": "France 24 English HD",
-    "lang": "fr",
-    "xmltv_id": "France24.fr@English"
-  },
-  {
-    "site_id": "kanal-4",
-    "name": "Kanal 4",
-    "lang": "da",
-    "xmltv_id": "Kanal4.dk@SD"
-  },
-  {
-    "site_id": "national-geographic",
-    "name": "National Geographic",
+    "site_id": "tv6",
+    "name": "TV6",
     "lang": "sv",
-    "xmltv_id": "NationalGeographic.se@SD"
+    "xmltv_id": "TV6.se@SD"
   },
   {
-    "site_id": "v-sport-extra-hd",
-    "name": "V Sport Extra HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-motor",
-    "name": "Viasat Motor",
-    "lang": "sv"
-  },
-  {
-    "site_id": "3sat",
-    "name": "3sat",
-    "lang": "de",
-    "xmltv_id": "3sat.de@SD"
-  },
-  {
-    "site_id": "canal-24h",
-    "name": "Canal 24H",
-    "lang": "es",
-    "xmltv_id": "24Horas.es@SD"
-  },
-  {
-    "site_id": "cctv4-china-central-tv",
-    "name": "CCTV-4",
-    "lang": "sv",
-    "xmltv_id": "CCTV4Europe.cn@SD"
-  },
-  {
-    "site_id": "eurosport-2",
-    "name": "Eurosport 2",
-    "lang": "sv",
-    "xmltv_id": "Eurosport2.fr@France"
-  },
-  {
-    "site_id": "nickelodeon",
-    "name": "Nickelodeon",
-    "lang": "sv",
-    "xmltv_id": "Nickelodeon.se@SD"
-  },
-  {
-    "site_id": "oppna-kanalen-vs",
-    "name": "Öppna kanalen VS",
-    "lang": "sv"
-  },
-  {
-    "site_id": "rt",
-    "name": "RT",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-sport-live-2",
-    "name": "TV4 Sport Live 2",
-    "lang": "sv"
-  },
-  {
-    "site_id": "cnn-international-hd",
-    "name": "CNN International HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "nickelodeon-hd",
-    "name": "Nickelodeon HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "super-rtl",
-    "name": "Super RTL",
-    "lang": "de",
-    "xmltv_id": "RTLSuper.de@SD"
-  },
-  {
-    "site_id": "tv4-sport-live-1",
-    "name": "TV4 Sport Live 1",
-    "lang": "sv"
-  },
-  {
-    "site_id": "yle-tv1",
-    "name": "Yle TV1",
-    "lang": "fi",
-    "xmltv_id": "YleTV1.fi@SD"
-  },
-  {
-    "site_id": "canal-24-horas",
-    "name": "Canal 24 Horas",
-    "lang": "sv"
-  },
-  {
-    "site_id": "di-tv-hd",
-    "name": "Di TV HD",
-    "lang": "sv",
-    "xmltv_id": "DiTV.se@SD"
-  },
-  {
-    "site_id": "mtv-hd",
-    "name": "MTV HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "nrk3",
-    "name": "NRK3",
-    "lang": "no",
-    "xmltv_id": "NRK3.no@SD"
-  },
-  {
-    "site_id": "pink-extra",
-    "name": "Pink Extra",
-    "lang": "sv",
-    "xmltv_id": "PinkExtra.rs@SD"
-  },
-  {
-    "site_id": "tv4-fotboll",
-    "name": "TV4 Fotboll",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-hockey",
-    "name": "TV4 Hockey",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv6-hd",
-    "name": "TV6 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "manchester-united-television-hd",
-    "name": "Manchester United Television HD",
-    "lang": "sv",
-    "xmltv_id": "MUTV.uk@SD"
-  },
-  {
-    "site_id": "tv4-fotboll-hd",
-    "name": "TV4 Fotboll HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "v-film-action-hd",
-    "name": "V Film Action HD",
-    "lang": "sv",
-    "xmltv_id": "VFilmAction.se@SD"
-  },
-  {
-    "site_id": "c-more-live-ppv",
-    "name": "C More Live (PPV)",
-    "lang": "sv"
-  },
-  {
-    "site_id": "dr-k",
-    "name": "DR K",
-    "lang": "sv"
-  },
-  {
-    "site_id": "eurosport-1-hd",
-    "name": "Eurosport 1 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "playboy-tv",
-    "name": "Playboy TV",
-    "lang": "sv",
-    "xmltv_id": "PlayboyTVEurope.us@SD"
-  },
-  {
-    "site_id": "v-sport-extra",
-    "name": "V Sport Extra",
-    "lang": "sv",
-    "xmltv_id": "VSportExtra.se@SD"
-  },
-  {
-    "site_id": "god",
-    "name": "God",
-    "lang": "en",
-    "xmltv_id": "GODTV.uk@SD"
-  },
-  {
-    "site_id": "kanal-11",
-    "name": "Kanal 11",
-    "lang": "sv",
-    "xmltv_id": "Kanal11.se@SD"
-  },
-  {
-    "site_id": "tv2-charlie",
-    "name": "TV2 Charlie",
-    "lang": "da",
-    "xmltv_id": "TV2Charlie.dk@SD"
-  },
-  {
-    "site_id": "esportstv-hd",
-    "name": "eSportsTV HD",
-    "lang": "sv",
-    "xmltv_id": "ESTV.us@SD"
-  },
-  {
-    "site_id": "eurosport-2-hd",
-    "name": "Eurosport 2 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "discovery-science",
-    "name": "Discovery Science",
-    "lang": "sv"
-  },
-  {
-    "site_id": "mezzo",
-    "name": "Mezzo",
-    "lang": "en",
-    "xmltv_id": "Mezzo.fr@SD"
-  },
-  {
-    "site_id": "rai-3",
-    "name": "Rai 3",
-    "lang": "it",
-    "xmltv_id": "Rai3.it@HD"
-  },
-  {
-    "site_id": "rtl",
-    "name": "RTL",
-    "lang": "de",
-    "xmltv_id": "RTL.de@SD"
-  },
-  {
-    "site_id": "trt-1",
-    "name": "TRT 1",
-    "lang": "sv",
-    "xmltv_id": "TRT1.tr@SD"
-  },
-  {
-    "site_id": "ginx-esports-tv",
-    "name": "GINX eSports TV",
-    "lang": "en",
-    "xmltv_id": "GINXTV.uk@SD"
-  },
-  {
-    "site_id": "prosieben",
-    "name": "ProSieben",
-    "lang": "de",
-    "xmltv_id": "ProSieben.de@SD"
-  },
-  {
-    "site_id": "svt-barn",
-    "name": "SVT Barn",
-    "lang": "sv",
-    "xmltv_id": "SVTBarn.se@SD"
-  },
-  {
-    "site_id": "c-more-live-3-ppv",
-    "name": "C More Live 3 (PPV)",
-    "lang": "sv"
-  },
-  {
-    "site_id": "cgtn",
-    "name": "CGTN",
-    "lang": "en"
-  },
-  {
-    "site_id": "id",
-    "name": "ID",
-    "lang": "sv",
-    "xmltv_id": "InvestigationDiscovery.se@SD"
-  },
-  {
-    "site_id": "national-geographic-wild-hd",
-    "name": "National Geographic Wild HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "sjuan-hd",
-    "name": "Sjuan HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "svt1-sodertalje",
-    "name": "SVT1 Södertälje",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tbn-europe",
-    "name": "TBN Europe",
-    "lang": "sv",
-    "xmltv_id": "TBNEurope.us@SD"
-  },
-  {
-    "site_id": "tv3-plus",
-    "name": "TV3 Plus",
-    "lang": "da",
-    "xmltv_id": "TV3Plus.dk@SD"
-  },
-  {
-    "site_id": "c-more-sport-sf-kanalen",
-    "name": "C More Sport SF-Kanalen",
-    "lang": "sv",
-    "xmltv_id": "CMoreSportSFKanalen.se@SD"
-  },
-  {
-    "site_id": "mtv-80s",
-    "name": "MTV 80s",
-    "lang": "en",
-    "xmltv_id": "MTV80s.uk@SD"
-  },
-  {
-    "site_id": "nrk-super",
-    "name": "NRK Super",
-    "lang": "no",
-    "xmltv_id": "NRKSuper.no@SD"
-  },
-  {
-    "site_id": "sf-kanalen",
-    "name": "SF Kanalen",
-    "lang": "sv",
-    "xmltv_id": "SFkanalen.se@SD"
-  },
-  {
-    "site_id": "tv4-hits",
-    "name": "TV4 Hits",
-    "lang": "sv"
-  },
-  {
-    "site_id": "yle-tv2",
-    "name": "Yle TV2",
-    "lang": "fi",
-    "xmltv_id": "YleTV2.fi@SD"
-  },
-  {
-    "site_id": "svt2",
-    "name": "SVT2",
-    "lang": "sv",
-    "xmltv_id": "SVT2.se@SD"
-  },
-  {
-    "site_id": "tv2-echo",
-    "name": "TV2 Echo",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv5-monde-europe",
-    "name": "TV5 Monde Europe",
-    "lang": "fr",
-    "xmltv_id": "TV5MondeEurope.fr@SD"
-  },
-  {
-    "site_id": "yle-teema-fem-hd",
-    "name": "Yle Teema \u0026 Fem HD",
-    "lang": "fi",
-    "xmltv_id": "YleTeemaFem.fi@SD"
-  },
-  {
-    "site_id": "cartoonito",
-    "name": "Cartoonito",
-    "lang": "sv"
-  },
-  {
-    "site_id": "fuel-tv",
-    "name": "Fuel TV",
-    "lang": "sv",
-    "xmltv_id": "FUELTV.at@SD"
-  },
-  {
-    "site_id": "nautical-channel-hd",
-    "name": "Nautical Channel HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-sport-live-1-hd",
-    "name": "TV4 Sport Live 1 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "al-arabiya",
-    "name": "Al Arabiya",
-    "lang": "sv",
-    "xmltv_id": "Alarabiya.ae@SD"
-  },
-  {
-    "site_id": "euronews",
-    "name": "euronews",
-    "lang": "sv"
-  },
-  {
-    "site_id": "mtv-hits-international",
-    "name": "MTV Hits International",
-    "lang": "en",
-    "xmltv_id": "MTVHitsEurope.uk@SD"
-  },
-  {
-    "site_id": "oppna-kanalen-stockholm",
-    "name": "Öppna Kanalen Stockholm",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tvp-polonia",
-    "name": "TVP Polonia",
-    "lang": "pl",
-    "xmltv_id": "TVPPolonia.pl@SD"
-  },
-  {
-    "site_id": "c-more-live-2-ppv",
-    "name": "C More Live 2 (PPV)",
-    "lang": "sv"
-  },
-  {
-    "site_id": "france-2",
-    "name": "France 2",
-    "lang": "sv",
-    "xmltv_id": "France2.fr@SD"
-  },
-  {
-    "site_id": "ftv-hd-1",
-    "name": "FTV HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "nick-jr",
-    "name": "Nick JR",
-    "lang": "sv",
-    "xmltv_id": "NickJrScandinavia.nl@SD"
-  },
-  {
-    "site_id": "travel-channel-hd",
-    "name": "Travel Channel HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv3-hd-text",
-    "name": "TV3 HD - Text",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-sport-live-4",
-    "name": "TV4 Sport Live 4",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-film-premiere",
-    "name": "Viasat Film Premiere",
-    "lang": "sv"
-  },
-  {
-    "site_id": "al-jazeera-english",
-    "name": "Al Jazeera English",
-    "lang": "sv"
-  },
-  {
-    "site_id": "rtr-planeta",
-    "name": "RTR Planeta",
-    "lang": "sv",
-    "xmltv_id": "RTRPlaneta.ru@SD"
-  },
-  {
-    "site_id": "v-sport-fotboll-hd",
-    "name": "V Sport Fotboll HD",
-    "lang": "sv",
-    "xmltv_id": "VSportFootball.se@SD"
-  },
-  {
-    "site_id": "viasat-history-hd",
-    "name": "Viasat History HD Finland",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-nature-hd",
-    "name": "Viasat Nature HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-sport",
-    "name": "Viasat Sport",
-    "lang": "sv",
-    "xmltv_id": "vijuPlusSport.ru@SD"
-  },
-  {
-    "site_id": "kunskapskanalen",
-    "name": "Kunskapskanalen",
-    "lang": "sv",
-    "xmltv_id": "Kunskapskanalen.se@SD"
-  },
-  {
-    "site_id": "obn",
-    "name": "OBN",
-    "lang": "sv",
-    "xmltv_id": "OBN.ba@SD"
-  },
-  {
-    "site_id": "v-sport-vinter-hd",
-    "name": "V Sport Vinter HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "arte",
-    "name": "ARTE",
-    "lang": "sv"
-  },
-  {
-    "site_id": "blue-hustler",
-    "name": "Blue Hustler",
-    "lang": "en",
-    "xmltv_id": "BlueHustler.nl@SD"
-  },
-  {
-    "site_id": "discovery-channel",
-    "name": "Discovery Channel",
-    "lang": "sv",
-    "xmltv_id": "DiscoveryChannel.se@SD"
-  },
-  {
-    "site_id": "dr2",
-    "name": "DR2",
-    "lang": "da",
-    "xmltv_id": "DR2.dk@SD"
-  },
-  {
-    "site_id": "bbc-nordic-hd-2",
-    "name": "BBC Nordic HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "kunskapskanalen-hd",
-    "name": "Kunskapskanalen HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "nautical-channel",
-    "name": "Nautical Channel",
-    "lang": "en",
-    "xmltv_id": "NauticalChannel.it@SD"
-  },
-  {
-    "site_id": "travel-channel-hd-1",
-    "name": "Travel Channel HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-tennis",
-    "name": "TV4 Tennis",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-series",
-    "name": "Viasat Series",
-    "lang": "sv",
-    "xmltv_id": "VSeries.se@SD"
-  },
-  {
-    "site_id": "discovery-hd-showcase",
-    "name": "Discovery HD Showcase",
-    "lang": "sv"
-  },
-  {
-    "site_id": "fight-sports-hd",
-    "name": "Fight Sports HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "kanal-9",
-    "name": "Kanal 9",
-    "lang": "sv",
-    "xmltv_id": "Kanal9.se@SD"
-  },
-  {
-    "site_id": "magnolia-network-hd",
-    "name": "Magnolia Network HD",
-    "lang": "en",
-    "xmltv_id": "MagnoliaNetwork.us@East"
-  },
-  {
-    "site_id": "mbc",
-    "name": "MBC",
-    "lang": "sv",
-    "xmltv_id": "MBC1.ae@SD"
-  },
-  {
-    "site_id": "tv4-fakta",
-    "name": "TV4 Fakta",
-    "lang": "sv",
-    "xmltv_id": "TV4Fakta.se@SD"
-  },
-  {
-    "site_id": "tvcg-sat",
-    "name": "TVCG Sat",
-    "lang": "sv",
-    "xmltv_id": "TVCGMNE.me@SD"
-  },
-  {
-    "site_id": "dr1",
-    "name": "DR1",
-    "lang": "da",
-    "xmltv_id": "DR1.dk@SD"
-  },
-  {
-    "site_id": "hrt1",
-    "name": "HRT1",
-    "lang": "sv",
-    "xmltv_id": "HRT1.hr@SD"
-  },
-  {
-    "site_id": "mbc-1",
-    "name": "MBC",
-    "lang": "sv"
-  },
-  {
-    "site_id": "mtv3",
-    "name": "MTV3",
-    "lang": "fi",
-    "xmltv_id": "MTV3.fi@SD"
-  },
-  {
-    "site_id": "nrk2",
-    "name": "NRK2 Norge",
-    "lang": "no",
-    "xmltv_id": "NRK2.no@SD"
-  },
-  {
-    "site_id": "travel-channel-1",
-    "name": "Travel Channel",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-hockey-hd",
-    "name": "TV4 Hockey HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-sportkanalen",
-    "name": "TV4 Sportkanalen",
-    "lang": "sv"
-  },
-  {
-    "site_id": "freedom",
-    "name": "FREEDOM",
-    "lang": "sv"
-  },
-  {
-    "site_id": "sky-cinema-premiere-1",
-    "name": "Sky Cinema Premiere +1",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaPremiere.uk@Plus1"
-  },
-  {
-    "site_id": "tv10",
-    "name": "TV10",
-    "lang": "sv",
-    "xmltv_id": "TV10.se@SD"
-  },
-  {
-    "site_id": "v-sport-motor-hd",
-    "name": "V Sport Motor HD",
-    "lang": "sv",
-    "xmltv_id": "VSportMotor.se@SD"
-  },
-  {
-    "site_id": "bloomberg-tv-hd-uk",
-    "name": "Bloomberg TV HD (UK)",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-stars",
-    "name": "TV4 Stars",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv-finland",
-    "name": "TV Finland",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-explore-hd",
-    "name": "Viasat Explore HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-hockey-1",
-    "name": "Viasat Hockey Finland",
-    "lang": "sv"
-  },
-  {
-    "site_id": "discovery-channel-hd",
-    "name": "Discovery Channel HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "discovery-hd-text",
-    "name": "Discovery HD - Text",
-    "lang": "sv"
-  },
-  {
-    "site_id": "duna-tv-hd",
-    "name": "Duna TV HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "ftv-hd",
-    "name": "FTV HD",
-    "lang": "en",
-    "xmltv_id": "FashionTVEurope.fr@SD"
-  },
-  {
-    "site_id": "mtv",
-    "name": "MTV",
-    "lang": "sv"
-  },
-  {
-    "site_id": "svtbsvt24-hd-text",
-    "name": "SVTB/SVT24 HD - Text",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-motorsf-kanalen",
-    "name": "TV4 Motor/SF-kanalen",
-    "lang": "sv"
-  },
-  {
-    "site_id": "dr2-hd",
-    "name": "DR2 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "oppna-kanalen-vaxjo",
-    "name": "Öppna Kanalen Växjö",
+    "site_id": "viasat-golf",
+    "name": "Viasat Golf",
     "lang": "sv"
   },
   {
@@ -1078,40 +306,96 @@
     "xmltv_id": "ATGLive.se@SD"
   },
   {
-    "site_id": "history-channel",
-    "name": "History Channel",
+    "site_id": "c-more-live-2-ppv",
+    "name": "C More Live 2 (PPV)",
     "lang": "sv"
   },
   {
-    "site_id": "rai-2",
-    "name": "Rai 2",
-    "lang": "it",
-    "xmltv_id": "Rai2.it@SD"
+    "site_id": "duna-tv",
+    "name": "Duna TV",
+    "lang": "hu",
+    "xmltv_id": "Duna.hu@SD"
   },
   {
-    "site_id": "sat1",
-    "name": "Sat.1",
+    "site_id": "mtv-viihde",
+    "name": "MTV Viihde",
     "lang": "sv"
   },
   {
-    "site_id": "tv4-hd",
-    "name": "TV4 HD",
+    "site_id": "playboy-tv",
+    "name": "Playboy TV",
+    "lang": "sv",
+    "xmltv_id": "PlayboyTVEurope.us@SD"
+  },
+  {
+    "site_id": "skyshowtime-1",
+    "name": "SkyShowtime 1",
+    "lang": "sv",
+    "xmltv_id": "SkyShowtime1.se@SD"
+  },
+  {
+    "site_id": "svt24",
+    "name": "SVT24",
+    "lang": "sv",
+    "xmltv_id": "SVT24.se@SD"
+  },
+  {
+    "site_id": "tv4-motor-hd",
+    "name": "TV4 Motor HD",
     "lang": "sv"
   },
   {
-    "site_id": "bbc-nordic-hd",
-    "name": "BBC Nordic HD",
+    "site_id": "euronews-hd",
+    "name": "Euronews HD",
     "lang": "sv"
   },
   {
-    "site_id": "fight-sports",
-    "name": "Fight Sports",
-    "lang": "en",
-    "xmltv_id": "FightSports.us@SD"
+    "site_id": "hayat-plus",
+    "name": "Hayat Plus",
+    "lang": "sv",
+    "xmltv_id": "HayatPlus.ba@SD"
   },
   {
-    "site_id": "fight-sports-1",
-    "name": "Fight Sports",
+    "site_id": "horse-country-tv",
+    "name": "Horse \u0026 Country TV",
+    "lang": "sv"
+  },
+  {
+    "site_id": "nrk-super",
+    "name": "NRK Super",
+    "lang": "no",
+    "xmltv_id": "NRKSuper.no@SD"
+  },
+  {
+    "site_id": "true-crime",
+    "name": "True Crime",
+    "lang": "sv"
+  },
+  {
+    "site_id": "hrt1",
+    "name": "HRT1",
+    "lang": "sv",
+    "xmltv_id": "HRT1.hr@SD"
+  },
+  {
+    "site_id": "di-tv-hd",
+    "name": "Di TV HD",
+    "lang": "sv",
+    "xmltv_id": "DiTV.se@SD"
+  },
+  {
+    "site_id": "viasat-sport-premium",
+    "name": "Viasat Sport Premium",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv2-echo",
+    "name": "TV2 Echo",
+    "lang": "sv"
+  },
+  {
+    "site_id": "ftv-hd-1",
+    "name": "FTV HD",
     "lang": "sv"
   },
   {
@@ -1121,252 +405,16 @@
     "xmltv_id": "History.se@SD"
   },
   {
-    "site_id": "sjuan-hd-text",
-    "name": "Sjuan HD - Text",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-sportkanalen-1",
-    "name": "TV4 Sportkanalen",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv6",
-    "name": "TV6",
+    "site_id": "v-sport-ultra-hd",
+    "name": "V Sport Ultra HD",
     "lang": "sv",
-    "xmltv_id": "TV6.se@SD"
+    "xmltv_id": "VSportUltraHD.se@SD"
   },
   {
-    "site_id": "v-sport-premium-hd",
-    "name": "V Sport Premium HD",
-    "lang": "sv",
-    "xmltv_id": "VSportPremium.se@SD"
-  },
-  {
-    "site_id": "france-2-hd",
-    "name": "France 2 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "national-geographic-hd",
-    "name": "National Geographic HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv-chile",
-    "name": "TV Chile",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-sport-premium",
-    "name": "Viasat Sport Premium",
-    "lang": "sv"
-  },
-  {
-    "site_id": "fox",
-    "name": "FOX",
-    "lang": "sv"
-  },
-  {
-    "site_id": "mezzo-live",
-    "name": "Mezzo Live",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-fakta-text",
-    "name": "TV4 Fakta - Text",
-    "lang": "sv"
-  },
-  {
-    "site_id": "bloomberg-hd",
-    "name": "Bloomberg HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "c-more-live-4-ppv",
-    "name": "C More Live 4 (PPV)",
-    "lang": "sv"
-  },
-  {
-    "site_id": "pink-plus",
-    "name": "Pink Plus",
-    "lang": "sv",
-    "xmltv_id": "PinkPlus.rs@SD"
-  },
-  {
-    "site_id": "pro-tv-int",
-    "name": "Pro TV int",
-    "lang": "ro",
-    "xmltv_id": "PROTVInternational.ro@SD"
-  },
-  {
-    "site_id": "rtp-internacional-europe",
-    "name": "RTP Internacional Europe",
-    "lang": "pt",
-    "xmltv_id": "RTPInternacional.pt@SD"
-  },
-  {
-    "site_id": "tv2-hd",
-    "name": "TV2 Danmark HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-nature",
-    "name": "Viasat Nature",
-    "lang": "sv",
-    "xmltv_id": "ViasatNature.se@SD"
-  },
-  {
-    "site_id": "euronews-hd",
-    "name": "Euronews HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-sportkanalen-hd",
-    "name": "TV4 Sportkanalen HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-fotboll",
-    "name": "Viasat Fotboll",
-    "lang": "sv"
-  },
-  {
-    "site_id": "skyshowtime-1",
-    "name": "SkyShowtime 1",
-    "lang": "sv",
-    "xmltv_id": "SkyShowtime1.se@SD"
-  },
-  {
-    "site_id": "tlc",
-    "name": "TLC",
-    "lang": "sv",
-    "xmltv_id": "TLC.se@SD"
-  },
-  {
-    "site_id": "tv3",
-    "name": "TV3",
-    "lang": "sv",
-    "xmltv_id": "TV3.se@SD"
-  },
-  {
-    "site_id": "viasat-film-action",
-    "name": "Viasat Film Action",
-    "lang": "sv"
-  },
-  {
-    "site_id": "canal-de-las-estrellas",
-    "name": "Las Estrellas",
-    "lang": "es",
-    "xmltv_id": "LasEstrellasEuropa.mx@SD"
-  },
-  {
-    "site_id": "sjuan",
-    "name": "Sjuan",
-    "lang": "sv",
-    "xmltv_id": "Sjuan.se@SD"
-  },
-  {
-    "site_id": "tv12",
-    "name": "TV12",
-    "lang": "sv",
-    "xmltv_id": "TV12.se@SD"
-  },
-  {
-    "site_id": "tv-2-zebra",
-    "name": "TV 2 Zebra",
-    "lang": "no",
-    "xmltv_id": "TV2Zebra.no@SD"
-  },
-  {
-    "site_id": "v-series-hd",
-    "name": "V Series HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-history",
-    "name": "Viasat History",
-    "lang": "sv",
-    "xmltv_id": "ViasatHistory.se@SD"
-  },
-  {
-    "site_id": "animal-planet-hd",
-    "name": "Animal Planet HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "svt1-hd",
-    "name": "SVT1 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "svtbsvt24-hd",
-    "name": "SVTB/SVT24 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv3-hd",
-    "name": "TV3 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-sport-live-3",
-    "name": "TV4 Sport Live 3",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-tennis-hd",
-    "name": "TV4 Tennis HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-film-family-hd",
-    "name": "Viasat Film Family HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "cnbc",
-    "name": "CNBC",
-    "lang": "en",
-    "xmltv_id": "CNBCEurope.uk@SD"
-  },
-  {
-    "site_id": "kanal-11-hd",
-    "name": "Kanal 11 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-motor",
-    "name": "TV4 Motor",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv-2-direkte",
-    "name": "TV2 Norge",
-    "lang": "sv",
-    "xmltv_id": "TV2Direkte.no@SD"
-  },
-  {
-    "site_id": "dr-ultra",
-    "name": "DR Ultra",
-    "lang": "sv"
-  },
-  {
-    "site_id": "kanal-5-hd-text",
-    "name": "Kanal 5 HD - Text",
-    "lang": "sv"
-  },
-  {
-    "site_id": "v-sport-golf-hd",
-    "name": "V Sport Golf HD",
-    "lang": "sv",
-    "xmltv_id": "VSportGolf.se@SD"
-  },
-  {
-    "site_id": "hayat-plus",
-    "name": "Hayat Plus",
-    "lang": "sv",
-    "xmltv_id": "HayatPlus.ba@SD"
+    "site_id": "dr2",
+    "name": "DR2",
+    "lang": "da",
+    "xmltv_id": "DR2.dk@SD"
   },
   {
     "site_id": "motorvision-tv-hd-1",
@@ -1374,394 +422,10 @@
     "lang": "sv"
   },
   {
-    "site_id": "mtv-90s",
-    "name": "MTV 90s",
-    "lang": "en",
-    "xmltv_id": "MTV90s.uk@SD"
-  },
-  {
-    "site_id": "mtv-aitio-hd",
-    "name": "MTV Aitio HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "nrk1-hd",
-    "name": "NRK1 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tlc-hd-1",
-    "name": "TLC HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-sport-live-4-hd",
-    "name": "TV4 Sport Live 4 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "history-hd",
-    "name": "History HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "kanal-9-hd",
-    "name": "Kanal 9 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "mtv-viihde",
-    "name": "MTV Viihde",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-film",
-    "name": "TV4 Film",
+    "site_id": "nickelodeon",
+    "name": "Nickelodeon",
     "lang": "sv",
-    "xmltv_id": "TV4Film.se@SD"
-  },
-  {
-    "site_id": "tv4-motor-hd",
-    "name": "TV4 Motor HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv12-hd",
-    "name": "TV12 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "horse-country",
-    "name": "Horse \u0026 Country (UK)",
-    "lang": "en",
-    "xmltv_id": "HorseCountryTV.uk@SD"
-  },
-  {
-    "site_id": "al-jazeera",
-    "name": "Al Jazeera (English)",
-    "lang": "en",
-    "xmltv_id": "AlJazeera.qa@English"
-  },
-  {
-    "site_id": "al-jazeera-hd",
-    "name": "Al Jazeera HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "cnbc-hd",
-    "name": "CNBC HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "dr1-hd",
-    "name": "DR1 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "trt-1-hd",
-    "name": "TRT 1 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-sport-live-3-hd",
-    "name": "TV4 Sport Live 3 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv-2-nyheter-norway",
-    "name": "TV 2 Nyheter (NORWAY)",
-    "lang": "sv",
-    "xmltv_id": "TV2Nyhetskanalen.no@SD"
-  },
-  {
-    "site_id": "cnn-international",
-    "name": "CNN International",
-    "lang": "en",
-    "xmltv_id": "CNNInternational.us@MENA"
-  },
-  {
-    "site_id": "extreme-sports-channel",
-    "name": "Extreme Sports Channel",
-    "lang": "en",
-    "xmltv_id": "ExtremeSportsChannel.nl@SD"
-  },
-  {
-    "site_id": "fox-hd",
-    "name": "FOX HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "france-24",
-    "name": "France 24",
-    "lang": "fr",
-    "xmltv_id": "France24.fr@French"
-  },
-  {
-    "site_id": "high-tv-3d",
-    "name": "High TV 3D",
-    "lang": "sv"
-  },
-  {
-    "site_id": "nicktoons",
-    "name": "Nicktoons",
-    "lang": "sv",
-    "xmltv_id": "NicktoonsScandinavia.nl@SD"
-  },
-  {
-    "site_id": "tv4-guld",
-    "name": "TV4 Guld",
-    "lang": "sv",
-    "xmltv_id": "TV4Guld.se@SD"
-  },
-  {
-    "site_id": "rtlzwei",
-    "name": "RTLZWEI",
-    "lang": "de",
-    "xmltv_id": "RTLZwei.de@SD"
-  },
-  {
-    "site_id": "the-adult-channel",
-    "name": "The Adult Channel",
-    "lang": "en",
-    "xmltv_id": "AdultChannel.uk@SD"
-  },
-  {
-    "site_id": "tv3-sport",
-    "name": "TV3 Sport",
-    "lang": "sv",
-    "xmltv_id": "Go3Sport1.ee@SD"
-  },
-  {
-    "site_id": "tv8",
-    "name": "TV8",
-    "lang": "sv",
-    "xmltv_id": "TV8.se@SD"
-  },
-  {
-    "site_id": "disney-channel-hd",
-    "name": "Disney Channel HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "disney-xd",
-    "name": "Disney XD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "national-geographic-hd-1",
-    "name": "National Geographic HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "nrk-super-nrk3-hd",
-    "name": "NRK Super / NRK3 HD",
-    "lang": "no",
-    "xmltv_id": "NRKSuperNRK3.no@HD"
-  },
-  {
-    "site_id": "rts-sat",
-    "name": "RTS Sat",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-golf",
-    "name": "Viasat Golf",
-    "lang": "sv"
-  },
-  {
-    "site_id": "al-jazeera-arabic",
-    "name": "Al Jazeera (Arabic)",
-    "lang": "en",
-    "xmltv_id": "AlJazeera.qa@Arabic"
-  },
-  {
-    "site_id": "bbc-nordic",
-    "name": "BBC Nordic",
-    "lang": "sv"
-  },
-  {
-    "site_id": "esportsone",
-    "name": "eSportsone",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-sport-live-2-hd",
-    "name": "TV4 Sport Live 2 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "food-network",
-    "name": "Food Network",
-    "lang": "en",
-    "xmltv_id": "FoodNetworkEMEA.us@SD"
-  },
-  {
-    "site_id": "h2-hd",
-    "name": "H2 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "mtv-00s-europe",
-    "name": "MTV 00s Europe",
-    "lang": "en",
-    "xmltv_id": "MTV00s.uk@SD"
-  },
-  {
-    "site_id": "sky-history-2-hd",
-    "name": "Sky History 2 HD",
-    "lang": "en",
-    "xmltv_id": "SkyHistory2.uk@SD"
-  },
-  {
-    "site_id": "trt-turk",
-    "name": "TRT Turk",
-    "lang": "tr",
-    "xmltv_id": "TRTTurk.tr@SD"
-  },
-  {
-    "site_id": "tv3-2",
-    "name": "TV3+",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-film-text",
-    "name": "TV4 Film - Text",
-    "lang": "sv"
-  },
-  {
-    "site_id": "v-film-family",
-    "name": "V Film Family",
-    "lang": "sv",
-    "xmltv_id": "VFilmFamily.se@SD"
-  },
-  {
-    "site_id": "viasat-history-hd-1",
-    "name": "Viasat History HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "disney-channel",
-    "name": "Disney Channel",
-    "lang": "sv",
-    "xmltv_id": "DisneyChannelScandinavia.uk@SD"
-  },
-  {
-    "site_id": "kanal-5",
-    "name": "Kanal 5",
-    "lang": "sv",
-    "xmltv_id": "Kanal5.se@SD"
-  },
-  {
-    "site_id": "mtv-live-hd",
-    "name": "MTV Live HD",
-    "lang": "en",
-    "xmltv_id": "MTVLive.uk@SD"
-  },
-  {
-    "site_id": "svt24-hd",
-    "name": "SVT24 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tlc-hd",
-    "name": "TLC HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "true-crime",
-    "name": "True Crime",
-    "lang": "sv"
-  },
-  {
-    "site_id": "discovery-science-2",
-    "name": "Discovery Science",
-    "lang": "sv"
-  },
-  {
-    "site_id": "bbc-nordic-1",
-    "name": "BBC Nordic",
-    "lang": "sv"
-  },
-  {
-    "site_id": "hustler-tv",
-    "name": "Hustler TV",
-    "lang": "sv",
-    "xmltv_id": "HustlerTVEurope.nl@SD"
-  },
-  {
-    "site_id": "kanal-5-hd",
-    "name": "Kanal 5 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "motorvision-tv",
-    "name": "Motorvision TV",
-    "lang": "de",
-    "xmltv_id": "Motorvision.de@SD"
-  },
-  {
-    "site_id": "tvnorge",
-    "name": "TVNorge",
-    "lang": "no",
-    "xmltv_id": "TVNorge.no@SD"
-  },
-  {
-    "site_id": "yle-tv1-hd",
-    "name": "Yle TV1 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "fuel-tv-hd",
-    "name": "Fuel TV HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "mtv-aitio",
-    "name": "MTV Aitio",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv10-hd",
-    "name": "TV10 HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tve-internacional",
-    "name": "TVE Internacional",
-    "lang": "es",
-    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
-  },
-  {
-    "site_id": "cartoon-network",
-    "name": "Cartoon Network",
-    "lang": "sv",
-    "xmltv_id": "CartoonNetworkWesternEurope.uk@Sweden"
-  },
-  {
-    "site_id": "dr3",
-    "name": "DR3",
-    "lang": "sv"
-  },
-  {
-    "site_id": "m2-magyar-hd",
-    "name": "M2 Magyar HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "tv4-hits-hd",
-    "name": "TV4 Hits HD",
-    "lang": "sv"
-  },
-  {
-    "site_id": "viasat-film-hits",
-    "name": "Viasat Film Hits",
-    "lang": "sv"
-  },
-  {
-    "site_id": "disney-junior",
-    "name": "Disney Junior",
-    "lang": "sv",
-    "xmltv_id": "DisneyJuniorScandinavia.uk@SD"
+    "xmltv_id": "Nickelodeon.se@SD"
   },
   {
     "site_id": "nrk1",
@@ -1776,14 +440,1350 @@
     "xmltv_id": "SVT1.se@SD"
   },
   {
+    "site_id": "svtbsvt24-hd-text",
+    "name": "SVTB/SVT24 HD - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "al-jazeera",
+    "name": "Al Jazeera (English)",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@English"
+  },
+  {
+    "site_id": "al-jazeera-hd",
+    "name": "Al Jazeera HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "france-24",
+    "name": "France 24",
+    "lang": "fr",
+    "xmltv_id": "France24.fr@French"
+  },
+  {
+    "site_id": "rt",
+    "name": "RT",
+    "lang": "sv"
+  },
+  {
+    "site_id": "svt-barnsvt24",
+    "name": "SVT Barn/SVT24",
+    "lang": "sv",
+    "xmltv_id": "SVTBarnSVT24.se@SD"
+  },
+  {
+    "site_id": "tv3",
+    "name": "TV3",
+    "lang": "sv",
+    "xmltv_id": "TV3.se@SD"
+  },
+  {
+    "site_id": "tv3-hd-text",
+    "name": "TV3 HD - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-sport-live-3-hd",
+    "name": "TV4 Sport Live 3 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv2-charlie",
+    "name": "TV2 Charlie",
+    "lang": "da",
+    "xmltv_id": "TV2Charlie.dk@SD"
+  },
+  {
+    "site_id": "discovery-hd-showcase",
+    "name": "Discovery HD Showcase",
+    "lang": "sv"
+  },
+  {
+    "site_id": "france-2-hd",
+    "name": "France 2 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "kunskapskanalen-hd",
+    "name": "Kunskapskanalen HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "mezzo-live",
+    "name": "Mezzo Live",
+    "lang": "sv"
+  },
+  {
+    "site_id": "sky-cinema-premiere-1",
+    "name": "Sky Cinema Premiere +1",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaPremiere.uk@Plus1"
+  },
+  {
+    "site_id": "viasat-nature-hd",
+    "name": "Viasat Nature HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "discovery-science-2",
+    "name": "Discovery Science",
+    "lang": "sv"
+  },
+  {
+    "site_id": "magnolia-network-hd",
+    "name": "Magnolia Network HD",
+    "lang": "en",
+    "xmltv_id": "MagnoliaNetwork.us@East"
+  },
+  {
+    "site_id": "mtv-live-hd",
+    "name": "MTV Live HD",
+    "lang": "en",
+    "xmltv_id": "MTVLive.uk@SD"
+  },
+  {
+    "site_id": "tv4-sportkanalen-1",
+    "name": "TV4 Sportkanalen",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-stars",
+    "name": "TV4 Stars",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-tennis-hd",
+    "name": "TV4 Tennis HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tvcg-sat",
+    "name": "TVCG Sat",
+    "lang": "sv",
+    "xmltv_id": "TVCGMNE.me@SD"
+  },
+  {
+    "site_id": "viasat-explore-hd",
+    "name": "Viasat Explore HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "national-geographic",
+    "name": "National Geographic",
+    "lang": "sv",
+    "xmltv_id": "NationalGeographic.se@SD"
+  },
+  {
+    "site_id": "oppna-kanalen-stockholm",
+    "name": "Öppna Kanalen Stockholm",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv-2-direkte",
+    "name": "TV2 Norge",
+    "lang": "sv",
+    "xmltv_id": "TV2Direkte.no@SD"
+  },
+  {
+    "site_id": "dr1",
+    "name": "DR1",
+    "lang": "da",
+    "xmltv_id": "DR1.dk@SD"
+  },
+  {
+    "site_id": "food-network",
+    "name": "Food Network",
+    "lang": "en",
+    "xmltv_id": "FoodNetworkEMEA.us@SD"
+  },
+  {
+    "site_id": "sat1",
+    "name": "Sat.1",
+    "lang": "sv"
+  },
+  {
+    "site_id": "sky-history-2-hd",
+    "name": "Sky History 2 HD",
+    "lang": "en",
+    "xmltv_id": "SkyHistory2.uk@SD"
+  },
+  {
+    "site_id": "v-sport-fotboll-hd",
+    "name": "V Sport Fotboll HD",
+    "lang": "sv",
+    "xmltv_id": "VSportFootball.se@SD"
+  },
+  {
+    "site_id": "motorvision-tv",
+    "name": "Motorvision TV",
+    "lang": "de",
+    "xmltv_id": "Motorvision.de@SD"
+  },
+  {
+    "site_id": "national-geographic-hd",
+    "name": "National Geographic HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "rts-sat",
+    "name": "RTS Sat",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-sport-live-1",
+    "name": "TV4 Sport Live 1",
+    "lang": "sv"
+  },
+  {
+    "site_id": "yle-tv2-hd",
+    "name": "Yle TV2 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "cnn-international-hd",
+    "name": "CNN International HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "kanal-11-hd",
+    "name": "Kanal 11 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "skyshowtime-2",
+    "name": "SkyShowtime 2",
+    "lang": "sv",
+    "xmltv_id": "SkyShowtime2.se@SD"
+  },
+  {
+    "site_id": "canal-24h",
+    "name": "Canal 24H",
+    "lang": "es",
+    "xmltv_id": "24Horas.es@SD"
+  },
+  {
+    "site_id": "eurosport-2",
+    "name": "Eurosport 2",
+    "lang": "sv",
+    "xmltv_id": "Eurosport2.fr@France"
+  },
+  {
+    "site_id": "kanal-9-hd-text",
+    "name": "Kanal 9 HD - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "kanal-11",
+    "name": "Kanal 11",
+    "lang": "sv",
+    "xmltv_id": "Kanal11.se@SD"
+  },
+  {
+    "site_id": "nrk2-hd",
+    "name": "NRK2 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "sf-kanalen",
+    "name": "SF Kanalen",
+    "lang": "sv",
+    "xmltv_id": "SFkanalen.se@SD"
+  },
+  {
+    "site_id": "super-rtl",
+    "name": "Super RTL",
+    "lang": "de",
+    "xmltv_id": "RTLSuper.de@SD"
+  },
+  {
+    "site_id": "tlc-hd",
+    "name": "TLC HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "animal-planet",
+    "name": "Animal Planet",
+    "lang": "sv",
+    "xmltv_id": "AnimalPlanetNordic.uk@SD"
+  },
+  {
+    "site_id": "nrk-super-nrk3-hd",
+    "name": "NRK Super / NRK3 HD",
+    "lang": "no",
+    "xmltv_id": "NRKSuperNRK3.no@HD"
+  },
+  {
+    "site_id": "obn",
+    "name": "OBN",
+    "lang": "sv",
+    "xmltv_id": "OBN.ba@SD"
+  },
+  {
+    "site_id": "svt1-hd",
+    "name": "SVT1 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-motor",
+    "name": "TV4 Motor",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv-chile",
+    "name": "TV Chile",
+    "lang": "sv"
+  },
+  {
+    "site_id": "v-film-family",
+    "name": "V Film Family",
+    "lang": "sv",
+    "xmltv_id": "VFilmFamily.se@SD"
+  },
+  {
+    "site_id": "viasat-film-action",
+    "name": "Viasat Film Action",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-fakta",
+    "name": "TV4 Fakta",
+    "lang": "sv",
+    "xmltv_id": "TV4Fakta.se@SD"
+  },
+  {
+    "site_id": "tv4-sport-live-4-hd",
+    "name": "TV4 Sport Live 4 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "viasat-nature",
+    "name": "Viasat Nature",
+    "lang": "sv",
+    "xmltv_id": "ViasatNature.se@SD"
+  },
+  {
+    "site_id": "3sat",
+    "name": "3sat",
+    "lang": "de",
+    "xmltv_id": "3sat.de@SD"
+  },
+  {
+    "site_id": "tv12",
+    "name": "TV12",
+    "lang": "sv",
+    "xmltv_id": "TV12.se@SD"
+  },
+  {
+    "site_id": "tv-finland",
+    "name": "TV Finland",
+    "lang": "sv"
+  },
+  {
+    "site_id": "das-erste",
+    "name": "Das Erste",
+    "lang": "de",
+    "xmltv_id": "DasErste.de@SD"
+  },
+  {
+    "site_id": "kunskapskanalen",
+    "name": "Kunskapskanalen",
+    "lang": "sv",
+    "xmltv_id": "Kunskapskanalen.se@SD"
+  },
+  {
+    "site_id": "the-adult-channel",
+    "name": "The Adult Channel",
+    "lang": "en",
+    "xmltv_id": "AdultChannel.uk@SD"
+  },
+  {
+    "site_id": "trt-1",
+    "name": "TRT 1",
+    "lang": "sv",
+    "xmltv_id": "TRT1.tr@SD"
+  },
+  {
+    "site_id": "tv4-sportkanalen",
+    "name": "TV4 Sportkanalen",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-tennis",
+    "name": "TV4 Tennis",
+    "lang": "sv"
+  },
+  {
+    "site_id": "viasat-film-hits",
+    "name": "Viasat Film Hits",
+    "lang": "sv"
+  },
+  {
+    "site_id": "viasat-sport",
+    "name": "Viasat Sport",
+    "lang": "sv",
+    "xmltv_id": "vijuPlusSport.ru@SD"
+  },
+  {
+    "site_id": "kanal-5-hd-text",
+    "name": "Kanal 5 HD - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "bbc-nordic",
+    "name": "BBC Nordic",
+    "lang": "sv"
+  },
+  {
+    "site_id": "kanal-10",
+    "name": "Kanal 10",
+    "lang": "sv",
+    "xmltv_id": "Kanal10.se@SD"
+  },
+  {
+    "site_id": "rtr-planeta",
+    "name": "RTR Planeta",
+    "lang": "sv",
+    "xmltv_id": "RTRPlaneta.ru@SD"
+  },
+  {
+    "site_id": "tv4-film",
+    "name": "TV4 Film",
+    "lang": "sv",
+    "xmltv_id": "TV4Film.se@SD"
+  },
+  {
+    "site_id": "bloomberg-hd",
+    "name": "Bloomberg HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "channel-one-russia",
+    "name": "Channel One Russia",
+    "lang": "sv"
+  },
+  {
+    "site_id": "fuel-tv-hd",
+    "name": "Fuel TV HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "m2-magyar-hd",
+    "name": "M2 Magyar HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "nrk2",
+    "name": "NRK2 Norge",
+    "lang": "no",
+    "xmltv_id": "NRK2.no@SD"
+  },
+  {
+    "site_id": "rai-1",
+    "name": "Rai 1",
+    "lang": "it",
+    "xmltv_id": "Rai1.it@SD"
+  },
+  {
+    "site_id": "v-film-action-hd",
+    "name": "V Film Action HD",
+    "lang": "sv",
+    "xmltv_id": "VFilmAction.se@SD"
+  },
+  {
+    "site_id": "freedom",
+    "name": "FREEDOM",
+    "lang": "sv"
+  },
+  {
+    "site_id": "mtv-80s",
+    "name": "MTV 80s",
+    "lang": "en",
+    "xmltv_id": "MTV80s.uk@SD"
+  },
+  {
+    "site_id": "sjuan-hd",
+    "name": "Sjuan HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "trace-urban-hd",
+    "name": "Trace Urban HD",
+    "lang": "sv",
+    "xmltv_id": "TraceUrban.fr@SD"
+  },
+  {
+    "site_id": "tv3-2",
+    "name": "TV3+",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv5-monde-europe",
+    "name": "TV5 Monde Europe",
+    "lang": "fr",
+    "xmltv_id": "TV5MondeEurope.fr@SD"
+  },
+  {
+    "site_id": "bbc-nordic-hd-2",
+    "name": "BBC Nordic HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "c-more-live-3-ppv",
+    "name": "C More Live 3 (PPV)",
+    "lang": "sv"
+  },
+  {
+    "site_id": "canal-de-las-estrellas",
+    "name": "Las Estrellas",
+    "lang": "es",
+    "xmltv_id": "LasEstrellasEuropa.mx@SD"
+  },
+  {
+    "site_id": "god",
+    "name": "God",
+    "lang": "en",
+    "xmltv_id": "GODTV.uk@SD"
+  },
+  {
+    "site_id": "nhk-world-tv",
+    "name": "NHK World TV",
+    "lang": "sv",
+    "xmltv_id": "NHKWorldJapan.jp@SD"
+  },
+  {
+    "site_id": "nick-jr-hd",
+    "name": "Nick Jr. HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "svt-barn",
+    "name": "SVT Barn",
+    "lang": "sv",
+    "xmltv_id": "SVTBarn.se@SD"
+  },
+  {
+    "site_id": "bbc-nordic-hd",
+    "name": "BBC Nordic HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "c-more-live-ppv",
+    "name": "C More Live (PPV)",
+    "lang": "sv"
+  },
+  {
+    "site_id": "manchester-united-television-hd",
+    "name": "Manchester United Television HD",
+    "lang": "sv",
+    "xmltv_id": "MUTV.uk@SD"
+  },
+  {
+    "site_id": "mtv-90s",
+    "name": "MTV 90s",
+    "lang": "en",
+    "xmltv_id": "MTV90s.uk@SD"
+  },
+  {
+    "site_id": "nautical-channel-hd",
+    "name": "Nautical Channel HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "eurosport-1",
+    "name": "Eurosport 1",
+    "lang": "sv",
+    "xmltv_id": "Eurosport1.fr@France"
+  },
+  {
+    "site_id": "sjuan-hd-text",
+    "name": "Sjuan HD - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv12-hd",
+    "name": "TV12 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "v-sport-1-hd",
+    "name": "V Sport 1 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "v-sport-vinter",
+    "name": "V Sport Vinter",
+    "lang": "sv",
+    "xmltv_id": "VSportVinter.se@SD"
+  },
+  {
+    "site_id": "discovery-channel",
+    "name": "Discovery Channel",
+    "lang": "sv",
+    "xmltv_id": "DiscoveryChannel.se@SD"
+  },
+  {
+    "site_id": "ginx-esports-tv",
+    "name": "GINX eSports TV",
+    "lang": "en",
+    "xmltv_id": "GINXTV.uk@SD"
+  },
+  {
+    "site_id": "mtv-hd",
+    "name": "MTV HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv3-1",
+    "name": "TV3 Danmark",
+    "lang": "da",
+    "xmltv_id": "TV3.dk@SD"
+  },
+  {
+    "site_id": "tv3-hd",
+    "name": "TV3 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-hits-hd",
+    "name": "TV4 Hits HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "v-film-premiere-hd",
+    "name": "V Film Premiere HD",
+    "lang": "sv",
+    "xmltv_id": "VFilmPremiere.se@SD"
+  },
+  {
+    "site_id": "viasat-motor",
+    "name": "Viasat Motor",
+    "lang": "sv"
+  },
+  {
+    "site_id": "al-jazeera-english",
+    "name": "Al Jazeera English",
+    "lang": "sv"
+  },
+  {
+    "site_id": "c-more-live-4-ppv",
+    "name": "C More Live 4 (PPV)",
+    "lang": "sv"
+  },
+  {
+    "site_id": "dr1-hd",
+    "name": "DR1 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "mezzo",
+    "name": "Mezzo",
+    "lang": "en",
+    "xmltv_id": "Mezzo.fr@SD"
+  },
+  {
+    "site_id": "outtv",
+    "name": "OUTtv",
+    "lang": "en",
+    "xmltv_id": "OUTtv.nl@SD"
+  },
+  {
+    "site_id": "tv4-fakta-text",
+    "name": "TV4 Fakta - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "kanal-9-hd",
+    "name": "Kanal 9 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv3-plus",
+    "name": "TV3 Plus",
+    "lang": "da",
+    "xmltv_id": "TV3Plus.dk@SD"
+  },
+  {
+    "site_id": "tv4-guld",
+    "name": "TV4 Guld",
+    "lang": "sv",
+    "xmltv_id": "TV4Guld.se@SD"
+  },
+  {
+    "site_id": "travel-channel",
+    "name": "Travel Channel",
+    "lang": "en",
+    "xmltv_id": "TravelChannelEMEA.uk@SD"
+  },
+  {
+    "site_id": "fight-sports",
+    "name": "Fight Sports",
+    "lang": "en",
+    "xmltv_id": "FightSports.us@SD"
+  },
+  {
+    "site_id": "v-sport-golf-hd",
+    "name": "V Sport Golf HD",
+    "lang": "sv",
+    "xmltv_id": "VSportGolf.se@SD"
+  },
+  {
+    "site_id": "cctv4-china-central-tv",
+    "name": "CCTV-4",
+    "lang": "sv",
+    "xmltv_id": "CCTV4Europe.cn@SD"
+  },
+  {
+    "site_id": "tv2-news",
+    "name": "TV2 News",
+    "lang": "da",
+    "xmltv_id": "TV2News.dk@SD"
+  },
+  {
+    "site_id": "tv4-sport-live-1-hd",
+    "name": "TV4 Sport Live 1 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "yle-tv1",
+    "name": "Yle TV1",
+    "lang": "fi",
+    "xmltv_id": "YleTV1.fi@SD"
+  },
+  {
+    "site_id": "bbc-news",
+    "name": "BBC News",
+    "lang": "sv"
+  },
+  {
+    "site_id": "dr3",
+    "name": "DR3",
+    "lang": "sv"
+  },
+  {
+    "site_id": "duna-tv-hd",
+    "name": "Duna TV HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "fight-sports-1",
+    "name": "Fight Sports",
+    "lang": "sv"
+  },
+  {
+    "site_id": "mtv3",
+    "name": "MTV3",
+    "lang": "fi",
+    "xmltv_id": "MTV3.fi@SD"
+  },
+  {
+    "site_id": "sjuan",
+    "name": "Sjuan",
+    "lang": "sv",
+    "xmltv_id": "Sjuan.se@SD"
+  },
+  {
+    "site_id": "viasat-history-hd",
+    "name": "Viasat History HD Finland",
+    "lang": "sv"
+  },
+  {
+    "site_id": "mbc",
+    "name": "MBC",
+    "lang": "sv",
+    "xmltv_id": "MBC1.ae@SD"
+  },
+  {
+    "site_id": "prosieben",
+    "name": "ProSieben",
+    "lang": "de",
+    "xmltv_id": "ProSieben.de@SD"
+  },
+  {
+    "site_id": "svt24-hd",
+    "name": "SVT24 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv10",
+    "name": "TV10",
+    "lang": "sv",
+    "xmltv_id": "TV10.se@SD"
+  },
+  {
+    "site_id": "tv12-hd-text",
+    "name": "TV12 HD - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "v-series-hd",
+    "name": "V Series HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "trt-1-hd",
+    "name": "TRT 1 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "djazz-hd",
+    "name": "Djazz HD",
+    "lang": "en",
+    "xmltv_id": "StingrayDJAZZ.ca@SD"
+  },
+  {
+    "site_id": "euronews",
+    "name": "euronews",
+    "lang": "sv"
+  },
+  {
+    "site_id": "fox",
+    "name": "FOX",
+    "lang": "sv"
+  },
+  {
+    "site_id": "kunskapskanalen-hd-text",
+    "name": "Kunskapskanalen HD - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "svtbsvt24-hd",
+    "name": "SVTB/SVT24 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-sport-live-4",
+    "name": "TV4 Sport Live 4",
+    "lang": "sv"
+  },
+  {
+    "site_id": "mtv-hits-international",
+    "name": "MTV Hits International",
+    "lang": "en",
+    "xmltv_id": "MTVHitsEurope.uk@SD"
+  },
+  {
+    "site_id": "oppna-kanalen-vs",
+    "name": "Öppna kanalen VS",
+    "lang": "sv"
+  },
+  {
+    "site_id": "rai-3",
+    "name": "Rai 3",
+    "lang": "it",
+    "xmltv_id": "Rai3.it@HD"
+  },
+  {
+    "site_id": "v-sport-premium-hd",
+    "name": "V Sport Premium HD",
+    "lang": "sv",
+    "xmltv_id": "VSportPremium.se@SD"
+  },
+  {
+    "site_id": "high-tv-3d",
+    "name": "High TV 3D",
+    "lang": "sv"
+  },
+  {
+    "site_id": "bloomberg-tv-hd-uk",
+    "name": "Bloomberg TV HD (UK)",
+    "lang": "sv"
+  },
+  {
+    "site_id": "cnn-international",
+    "name": "CNN International",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "tbn-europe",
+    "name": "TBN Europe",
+    "lang": "sv",
+    "xmltv_id": "TBNEurope.us@SD"
+  },
+  {
+    "site_id": "tv4-sportkanalen-hd",
+    "name": "TV4 Sportkanalen HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "discovery-science-1",
+    "name": "Discovery Science",
+    "lang": "en",
+    "xmltv_id": "DiscoveryScienceEurope.uk@Sweden"
+  },
+  {
     "site_id": "dr-ramasjang",
     "name": "DR Ramasjang",
     "lang": "sv",
     "xmltv_id": "DRRamasjang.dk@SD"
   },
   {
-    "site_id": "horse-country-tv",
-    "name": "Horse \u0026 Country TV",
+    "site_id": "rai-2",
+    "name": "Rai 2",
+    "lang": "it",
+    "xmltv_id": "Rai2.it@SD"
+  },
+  {
+    "site_id": "viasat-series",
+    "name": "Viasat Series",
+    "lang": "sv",
+    "xmltv_id": "VSeries.se@SD"
+  },
+  {
+    "site_id": "esportstv-hd",
+    "name": "eSportsTV HD",
+    "lang": "sv",
+    "xmltv_id": "ESTV.us@SD"
+  },
+  {
+    "site_id": "motorvision-tv-hd",
+    "name": "Motorvision TV HD",
     "lang": "sv"
+  },
+  {
+    "site_id": "travel-channel-hd-1",
+    "name": "Travel Channel HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-hd",
+    "name": "TV4 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "history-hd",
+    "name": "History HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "arte",
+    "name": "ARTE",
+    "lang": "sv"
+  },
+  {
+    "site_id": "dw-en-aleman",
+    "name": "Deutsche Welle",
+    "lang": "sv"
+  },
+  {
+    "site_id": "blue-hustler",
+    "name": "Blue Hustler",
+    "lang": "en",
+    "xmltv_id": "BlueHustler.nl@SD"
+  },
+  {
+    "site_id": "kanal-4",
+    "name": "Kanal 4",
+    "lang": "da",
+    "xmltv_id": "Kanal4.dk@SD"
+  },
+  {
+    "site_id": "rtl",
+    "name": "RTL",
+    "lang": "de",
+    "xmltv_id": "RTL.de@SD"
+  },
+  {
+    "site_id": "travel-channel-hd",
+    "name": "Travel Channel HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tvnorge",
+    "name": "TVNorge",
+    "lang": "no",
+    "xmltv_id": "TVNorge.no@SD"
+  },
+  {
+    "site_id": "yle-tv1-hd",
+    "name": "Yle TV1 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "fox-hd",
+    "name": "FOX HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "travel-channel-1",
+    "name": "Travel Channel",
+    "lang": "sv"
+  },
+  {
+    "site_id": "v-sport-extra-hd",
+    "name": "V Sport Extra HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "al-arabiya",
+    "name": "Al Arabiya",
+    "lang": "sv",
+    "xmltv_id": "Alarabiya.ae@SD"
+  },
+  {
+    "site_id": "hustler-tv",
+    "name": "Hustler TV",
+    "lang": "sv",
+    "xmltv_id": "HustlerTVEurope.nl@SD"
+  },
+  {
+    "site_id": "national-geographic-wild",
+    "name": "National Geographic Wild",
+    "lang": "sv",
+    "xmltv_id": "NationalGeographicWild.se@SD"
+  },
+  {
+    "site_id": "pink-extra",
+    "name": "Pink Extra",
+    "lang": "sv",
+    "xmltv_id": "PinkExtra.rs@SD"
+  },
+  {
+    "site_id": "pro-tv-int",
+    "name": "Pro TV int",
+    "lang": "ro",
+    "xmltv_id": "PROTVInternational.ro@SD"
+  },
+  {
+    "site_id": "sonlife-broadcasting-network",
+    "name": "SonLife Broadcasting Network",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv8",
+    "name": "TV8",
+    "lang": "sv",
+    "xmltv_id": "TV8.se@SD"
+  },
+  {
+    "site_id": "v-sport-motor-hd",
+    "name": "V Sport Motor HD",
+    "lang": "sv",
+    "xmltv_id": "VSportMotor.se@SD"
+  },
+  {
+    "site_id": "disney-xd",
+    "name": "Disney XD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "kanal-11-hd-text",
+    "name": "Kanal 11 HD - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "mtv-00s-europe",
+    "name": "MTV 00s Europe",
+    "lang": "en",
+    "xmltv_id": "MTV00s.uk@SD"
+  },
+  {
+    "site_id": "mtv-aitio",
+    "name": "MTV Aitio",
+    "lang": "sv"
+  },
+  {
+    "site_id": "bbc-nordic-1",
+    "name": "BBC Nordic",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tve-internacional",
+    "name": "TVE Internacional",
+    "lang": "es",
+    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
+  },
+  {
+    "site_id": "esportsone",
+    "name": "eSportsone",
+    "lang": "sv"
+  },
+  {
+    "site_id": "eurosport-2-hd",
+    "name": "Eurosport 2 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "svt1-sodertalje",
+    "name": "SVT1 Södertälje",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tlc",
+    "name": "TLC",
+    "lang": "sv",
+    "xmltv_id": "TLC.se@SD"
+  },
+  {
+    "site_id": "viasat-history-hd-1",
+    "name": "Viasat History HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "horse-country",
+    "name": "Horse \u0026 Country (UK)",
+    "lang": "en",
+    "xmltv_id": "HorseCountryTV.uk@SD"
+  },
+  {
+    "site_id": "c-more-sport-sf-kanalen",
+    "name": "C More Sport SF-Kanalen",
+    "lang": "sv",
+    "xmltv_id": "CMoreSportSFKanalen.se@SD"
+  },
+  {
+    "site_id": "al-jazeera-arabic",
+    "name": "Al Jazeera (Arabic)",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@Arabic"
+  },
+  {
+    "site_id": "v-sport-extra",
+    "name": "V Sport Extra",
+    "lang": "sv",
+    "xmltv_id": "VSportExtra.se@SD"
+  },
+  {
+    "site_id": "france-24-english-hd",
+    "name": "France 24 English HD",
+    "lang": "fr",
+    "xmltv_id": "France24.fr@English"
+  },
+  {
+    "site_id": "mtv",
+    "name": "MTV",
+    "lang": "sv"
+  },
+  {
+    "site_id": "pink-plus",
+    "name": "Pink Plus",
+    "lang": "sv",
+    "xmltv_id": "PinkPlus.rs@SD"
+  },
+  {
+    "site_id": "tv3-sport",
+    "name": "TV3 Sport",
+    "lang": "sv",
+    "xmltv_id": "Go3Sport1.ee@SD"
+  },
+  {
+    "site_id": "tv4-stars-hd",
+    "name": "TV4 Stars HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "vision-sverige",
+    "name": "Vision Sverige",
+    "lang": "sv"
+  },
+  {
+    "site_id": "c-more-fotbollhockeystars-hd",
+    "name": "C More Fotboll/Hockey/Stars HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "dr2-hd",
+    "name": "DR2 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "france-2",
+    "name": "France 2",
+    "lang": "sv",
+    "xmltv_id": "France2.fr@SD"
+  },
+  {
+    "site_id": "kanal-5-hd",
+    "name": "Kanal 5 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "rtlzwei",
+    "name": "RTLZWEI",
+    "lang": "de",
+    "xmltv_id": "RTLZwei.de@SD"
+  },
+  {
+    "site_id": "tv4-film-text",
+    "name": "TV4 Film - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv6-hd",
+    "name": "TV6 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "extreme-sports-channel",
+    "name": "Extreme Sports Channel",
+    "lang": "en",
+    "xmltv_id": "ExtremeSportsChannel.nl@SD"
+  },
+  {
+    "site_id": "nickelodeon-hd",
+    "name": "Nickelodeon HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "svt2",
+    "name": "SVT2",
+    "lang": "sv",
+    "xmltv_id": "SVT2.se@SD"
+  },
+  {
+    "site_id": "tv2",
+    "name": "TV2 Danmark",
+    "lang": "da",
+    "xmltv_id": "TV2.dk@SD"
+  },
+  {
+    "site_id": "id",
+    "name": "ID",
+    "lang": "sv",
+    "xmltv_id": "InvestigationDiscovery.se@SD"
+  },
+  {
+    "site_id": "cartoonito",
+    "name": "Cartoonito",
+    "lang": "sv"
+  },
+  {
+    "site_id": "cgtn",
+    "name": "CGTN",
+    "lang": "en"
+  },
+  {
+    "site_id": "h2",
+    "name": "H2",
+    "lang": "sv",
+    "xmltv_id": "History2Nordic.us@SD"
+  },
+  {
+    "site_id": "cartoon-network",
+    "name": "Cartoon Network",
+    "lang": "sv",
+    "xmltv_id": "CartoonNetworkWesternEurope.uk@Sweden"
+  },
+  {
+    "site_id": "discovery-channel-hd",
+    "name": "Discovery Channel HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "fight-sports-hd",
+    "name": "Fight Sports HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "godare",
+    "name": "Godare",
+    "lang": "sv",
+    "xmltv_id": "Godare.se@SD"
+  },
+  {
+    "site_id": "tv4",
+    "name": "TV4",
+    "lang": "sv",
+    "xmltv_id": "TV4.se@SD"
+  },
+  {
+    "site_id": "tv4-fotboll",
+    "name": "TV4 Fotboll",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-sport-live-2-hd",
+    "name": "TV4 Sport Live 2 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "v-sport-vinter-hd",
+    "name": "V Sport Vinter HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "discovery-hd-text",
+    "name": "Discovery HD - Text",
+    "lang": "sv"
+  },
+  {
+    "site_id": "dr3-hd",
+    "name": "DR3 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "kanal-5",
+    "name": "Kanal 5",
+    "lang": "sv",
+    "xmltv_id": "Kanal5.se@SD"
+  },
+  {
+    "site_id": "national-geographic-wild-hd",
+    "name": "National Geographic Wild HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-fotboll-hd",
+    "name": "TV4 Fotboll HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-motorsf-kanalen",
+    "name": "TV4 Motor/SF-kanalen",
+    "lang": "sv"
+  },
+  {
+    "site_id": "viasat-fotboll",
+    "name": "Viasat Fotboll",
+    "lang": "sv"
+  },
+  {
+    "site_id": "yle-teema-fem-hd",
+    "name": "Yle Teema \u0026 Fem HD",
+    "lang": "fi",
+    "xmltv_id": "YleTeemaFem.fi@SD"
+  },
+  {
+    "site_id": "animal-planet-hd",
+    "name": "Animal Planet HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "h2-hd",
+    "name": "H2 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "mtv-viihde-hd",
+    "name": "MTV Viihde HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv4-hockey-hd",
+    "name": "TV4 Hockey HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "disney-junior",
+    "name": "Disney Junior",
+    "lang": "sv",
+    "xmltv_id": "DisneyJuniorScandinavia.uk@SD"
+  },
+  {
+    "site_id": "dr-k",
+    "name": "DR K",
+    "lang": "sv"
+  },
+  {
+    "site_id": "tv10-hd",
+    "name": "TV10 HD",
+    "lang": "sv"
+  },
+  {
+    "site_id": "v-film-hits-hd",
+    "name": "V Film Hits HD",
+    "lang": "sv",
+    "xmltv_id": "VFilmHits.se@SD"
   }
 ]

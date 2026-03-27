@@ -1,425 +1,79 @@
 [
   {
-    "site_id": "america_television_peru",
-    "name": "América Televisión Perú",
+    "site_id": "gamavision",
+    "name": "Gamavisión",
     "lang": "es",
-    "xmltv_id": "AmericaTelevision.pe@SD"
+    "xmltv_id": "Gamavision.ec@SD"
   },
   {
-    "site_id": "espn_sur",
-    "name": "ESPN Sur",
+    "site_id": "la_1",
+    "name": "La 1",
+    "lang": "es",
+    "xmltv_id": "La1.es@SD"
+  },
+  {
+    "site_id": "zoom_colombia",
+    "name": "ZOOM Colombia",
+    "lang": "es",
+    "xmltv_id": "Zoom.co@SD"
+  },
+  {
+    "site_id": "aprende",
+    "name": "Aprende",
+    "lang": "es",
+    "xmltv_id": "AprendeTV.mx@SD"
+  },
+  {
+    "site_id": "hollywood_espana",
+    "name": "Hollywood España",
     "lang": "es"
   },
   {
-    "site_id": "film_and_arts",
-    "name": "Film \u0026 Arts",
+    "site_id": "ultra_tainment",
+    "name": "Ultra Tainment",
     "lang": "es"
   },
   {
-    "site_id": "htv",
-    "name": "HTV",
+    "site_id": "studio_universal_panregional",
+    "name": "Studio Universal Panregional",
     "lang": "es",
-    "xmltv_id": "HTV.us@SD"
+    "xmltv_id": "StudioUniversalLatinAmerica.us@Panregional"
   },
   {
-    "site_id": "cinemax_chile",
-    "name": "Cinemax Chile",
-    "lang": "es",
-    "xmltv_id": "CinemaxLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "espn_4_norte",
-    "name": "ESPN 4 Norte",
-    "lang": "es",
-    "xmltv_id": "ESPN4LatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "a_and_e_panregional",
-    "name": "A\u0026E PAN",
-    "lang": "es",
-    "xmltv_id": "AELatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "cinecanal_sur",
-    "name": "Cinecanal Sur",
-    "lang": "es",
-    "xmltv_id": "Cinecanal.us@South"
-  },
-  {
-    "site_id": "history_chile",
-    "name": "History Chile",
-    "lang": "es",
-    "xmltv_id": "History.cl@SD"
-  },
-  {
-    "site_id": "noticias_py",
-    "name": "Noticias PY",
-    "lang": "es",
-    "xmltv_id": "NPY.py@SD"
-  },
-  {
-    "site_id": "tvc_deportes",
-    "name": "TVC Deportes",
-    "lang": "es",
-    "xmltv_id": "TVCDeportes.mx@SD"
-  },
-  {
-    "site_id": "history_en_espanol",
-    "name": "History en Español",
-    "lang": "es",
-    "xmltv_id": "HistoryenEspanol.us@SD"
-  },
-  {
-    "site_id": "mtv_mexico",
-    "name": "MTV México",
+    "site_id": "tr3s",
+    "name": "Tr3s",
     "lang": "es"
   },
   {
-    "site_id": "telefe_internacional",
-    "name": "Telefe Internacional",
-    "lang": "es",
-    "xmltv_id": "TelefeInternacional.ar@SD"
-  },
-  {
-    "site_id": "telepacifico",
-    "name": "Telepacífico",
-    "lang": "es",
-    "xmltv_id": "Telepacifico.co@SD"
-  },
-  {
-    "site_id": "unicable",
-    "name": "Unicable MX",
-    "lang": "es",
-    "xmltv_id": "Unicable.mx@SD"
-  },
-  {
-    "site_id": "congreso_colombia",
-    "name": "Canal Congreso Colombia",
-    "lang": "es",
-    "xmltv_id": "CanalCongreso.co@SD"
-  },
-  {
-    "site_id": "fox_sports_cono_norte",
-    "name": "Fox Sports Cono Norte",
+    "site_id": "9_de_honduras_vica",
+    "name": "9 de Honduras",
     "lang": "es"
   },
   {
-    "site_id": "ultra_film",
-    "name": "Ultra Film",
+    "site_id": "decasa",
+    "name": "Decasa",
+    "lang": "es",
+    "xmltv_id": "Decasa.es@SD"
+  },
+  {
+    "site_id": "tv_agro_centroamerica",
+    "name": "TV Agro C. A.",
     "lang": "es"
   },
   {
-    "site_id": "wapa_tv",
-    "name": "WAPA-TV",
+    "site_id": "2_de_republica_dominicana_teleantillas",
+    "name": "2 de República Dominicana",
     "lang": "es",
-    "xmltv_id": "WAPADT1.pr@SD"
+    "xmltv_id": "TeleAntillas.do@SD"
   },
   {
-    "site_id": "espn_2_norte",
-    "name": "ESPN 2 Norte",
-    "lang": "es",
-    "xmltv_id": "ESPN2LatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "hbo_latino_este",
-    "name": "HBO Latino Este",
-    "lang": "es",
-    "xmltv_id": "HBOLatino.us@East"
-  },
-  {
-    "site_id": "neox",
-    "name": "Neox",
-    "lang": "es",
-    "xmltv_id": "Neox.es@SD"
-  },
-  {
-    "site_id": "nhk_world",
-    "name": "NHK World",
-    "lang": "es",
-    "xmltv_id": "NHKWorldJapan.jp@SD"
-  },
-  {
-    "site_id": "atreseries_espana",
-    "name": "Atreseries España",
-    "lang": "es",
-    "xmltv_id": "Atreseries.es@SD"
-  },
-  {
-    "site_id": "golden_premier_2",
-    "name": "Golden Premier 2",
-    "lang": "es",
-    "xmltv_id": "GoldenPremier2.mx@SD"
-  },
-  {
-    "site_id": "universal_cinema",
-    "name": "Universal Cinema",
-    "lang": "es",
-    "xmltv_id": "UniversalCinema.us@SD"
-  },
-  {
-    "site_id": "amc_mexico",
-    "name": "AMC México",
+    "site_id": "comedy_central_centro",
+    "name": "Comedy Central Centro",
     "lang": "es"
   },
   {
-    "site_id": "mas_chic_latinoamerica",
-    "name": "Más Chic Lat.",
-    "lang": "es"
-  },
-  {
-    "site_id": "paramount_channel_mexico",
-    "name": "Paramount Channel México",
-    "lang": "es"
-  },
-  {
-    "site_id": "cablenoticias",
-    "name": "Cablenoticias",
-    "lang": "es",
-    "xmltv_id": "Cablenoticias.co@SD"
-  },
-  {
-    "site_id": "cinemax_mexico",
-    "name": "Cinemax México",
-    "lang": "es",
-    "xmltv_id": "CinemaxLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "guatevision",
-    "name": "Guatevisión",
-    "lang": "es",
-    "xmltv_id": "Guatevision.gt@SD"
-  },
-  {
-    "site_id": "nickelodeon_centro",
-    "name": "Nickelodeon Centro",
-    "lang": "es"
-  },
-  {
-    "site_id": "11_de_guatemala",
-    "name": "11 de Guatemala",
-    "lang": "es",
-    "xmltv_id": "TeleOnce.gt@SD"
-  },
-  {
-    "site_id": "chilevision",
-    "name": "Chilevisión (CHV)",
-    "lang": "es",
-    "xmltv_id": "ChileVision.cl@SD"
-  },
-  {
-    "site_id": "espn_colombia",
-    "name": "ESPN Colombia",
-    "lang": "es",
-    "xmltv_id": "ESPNLatinAmerica.us@Colombia"
-  },
-  {
-    "site_id": "nfl_network",
-    "name": "NFL Network",
-    "lang": "es",
-    "xmltv_id": "NFLNetwork.us@SD"
-  },
-  {
-    "site_id": "paraguay_tv",
-    "name": "Paraguay TV",
-    "lang": "es",
-    "xmltv_id": "ParaguayTV.py@SD"
-  },
-  {
-    "site_id": "37_republica_dominicana",
-    "name": "37 de República Dominicana",
-    "lang": "es",
-    "xmltv_id": "CDN.do@SD"
-  },
-  {
-    "site_id": "divinity",
-    "name": "Divinity",
-    "lang": "es",
-    "xmltv_id": "Divinity.es@SD"
-  },
-  {
-    "site_id": "la_tele_paraguay",
-    "name": "La Tele Paraguay",
-    "lang": "es",
-    "xmltv_id": "Latele.py@SD"
-  },
-  {
-    "site_id": "space_sur",
-    "name": "Space Sur",
-    "lang": "es",
-    "xmltv_id": "Space.ar@South"
-  },
-  {
-    "site_id": "teleunion_republica_dominicana",
-    "name": "Teleunion",
-    "lang": "es",
-    "xmltv_id": "Teleunion.do@SD"
-  },
-  {
-    "site_id": "tvn_chile",
-    "name": "TVN Chile",
-    "lang": "es",
-    "xmltv_id": "TVN.cl@SD"
-  },
-  {
-    "site_id": "vtv_honduras_vica_tv",
-    "name": "VTV Honduras",
-    "lang": "es",
-    "xmltv_id": "VTV.hn@SD"
-  },
-  {
-    "site_id": "warner_tv_sur",
-    "name": "Warner TV Sur",
-    "lang": "es"
-  },
-  {
-    "site_id": "fx_chile",
-    "name": "FX Chile",
-    "lang": "es",
-    "xmltv_id": "FX.cl@SD"
-  },
-  {
-    "site_id": "azteca_uno_2h",
-    "name": "Azteca Uno -2 h",
-    "lang": "es"
-  },
-  {
-    "site_id": "golden_plus",
-    "name": "Golden Plus",
-    "lang": "es",
-    "xmltv_id": "GoldenPlus.mx@SD"
-  },
-  {
-    "site_id": "investigation_discovery_mexico",
-    "name": "ID México",
-    "lang": "es",
-    "xmltv_id": "InvestigationDiscoveryLatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "fox_sports_2_cono_norte",
-    "name": "Fox Sports 2 Cono Norte",
-    "lang": "es"
-  },
-  {
-    "site_id": "29_republica_dominicana",
-    "name": "29 de República Dominicana",
-    "lang": "es",
-    "xmltv_id": "Teleuniverso.do@SD"
-  },
-  {
-    "site_id": "la_red_tv_guatemala",
-    "name": "La Red TV Guatemala",
-    "lang": "es",
-    "xmltv_id": "LaRedTV.gt@SD"
-  },
-  {
-    "site_id": "space_panregional",
-    "name": "Space Panregional",
-    "lang": "es",
-    "xmltv_id": "Space.ar@Panregional"
-  },
-  {
-    "site_id": "universal_tv_mexico",
-    "name": "Universal TV México",
-    "lang": "es",
-    "xmltv_id": "UniversalTVLatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "deutsche_welle",
-    "name": "DW",
-    "lang": "es"
-  },
-  {
-    "site_id": "mtv_espana",
-    "name": "MTV España",
-    "lang": "es",
-    "xmltv_id": "MTV.es@SD"
-  },
-  {
-    "site_id": "telehit_musica",
-    "name": "Telehit Música",
-    "lang": "es",
-    "xmltv_id": "TelehitMusica.mx@SD"
-  },
-  {
-    "site_id": "telemadrid",
-    "name": "TeleMadrid",
-    "lang": "es",
-    "xmltv_id": "Telemadrid.es@SD"
-  },
-  {
-    "site_id": "hbo_family_latinoamerica",
-    "name": "HBO Family LATAM",
-    "lang": "es",
-    "xmltv_id": "HBOFamilyLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "cinema_platino",
-    "name": "Cinema Platino",
-    "lang": "es",
-    "xmltv_id": "CinemaPlatino.mx@SD"
-  },
-  {
-    "site_id": "discovery_en_espanol",
-    "name": "Discovery en Español",
-    "lang": "es",
-    "xmltv_id": "DiscoveryenEspanol.us@SD"
-  },
-  {
-    "site_id": "euronews",
-    "name": "Euronews",
-    "lang": "es"
-  },
-  {
-    "site_id": "hbo_pop",
-    "name": "HBO Pop",
-    "lang": "es",
-    "xmltv_id": "HBOPopLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "antigua",
-    "name": "Canal Antigua",
-    "lang": "es",
-    "xmltv_id": "CanalAntigua.gt@SD"
-  },
-  {
-    "site_id": "ecuavisa_internacional",
-    "name": "Ecuavisa Internacional",
-    "lang": "es",
-    "xmltv_id": "EcuavisaInternacional.ec@SD"
-  },
-  {
-    "site_id": "star_channel_mexico",
-    "name": "Star Channel México",
-    "lang": "es",
-    "xmltv_id": "StarChannel.mx@SD"
-  },
-  {
-    "site_id": "tv_globo_internacional",
-    "name": "TV Globo Internacional",
-    "lang": "es",
-    "xmltv_id": "TVGloboInternacionalAmericas.br@SD"
-  },
-  {
-    "site_id": "1_colombia",
-    "name": "1 Colombia",
-    "lang": "es",
-    "xmltv_id": "Canal1.co@SD"
-  },
-  {
-    "site_id": "4_de_monterrey",
-    "name": "4 de Monterrey",
-    "lang": "es",
-    "xmltv_id": "XEFBTDT.mx@SD"
-  },
-  {
-    "site_id": "7_de_costa_rica_teletica",
-    "name": "7 de Costa Rica",
-    "lang": "es",
-    "xmltv_id": "Teletica7.cr@SD"
-  },
-  {
-    "site_id": "golden_mpx",
-    "name": "Golden MPX",
+    "site_id": "discovery_turbo_latinoamerica",
+    "name": "Discovery Turbo LATAM.",
     "lang": "es"
   },
   {
@@ -429,75 +83,62 @@
     "xmltv_id": "GolTVLatinAmerica.us@SD"
   },
   {
-    "site_id": "history_2_mexico",
-    "name": "History 2 México",
+    "site_id": "hbo_xtreme",
+    "name": "HBO Xtreme",
     "lang": "es",
-    "xmltv_id": "History2LatinAmerica.us@Mexico"
+    "xmltv_id": "HBOXtremeLatinAmerica.us@SD"
   },
   {
-    "site_id": "mtv_sur",
-    "name": "MTV Sur",
+    "site_id": "multimedios_costa_rica",
+    "name": "Multimedios Costa Rica",
     "lang": "es",
-    "xmltv_id": "MTVLatinAmerica.us@Panregional"
+    "xmltv_id": "Canal8.cr@SD"
   },
   {
-    "site_id": "tve",
-    "name": "TVE Internacional",
-    "lang": "es",
-    "xmltv_id": "TVEInternacionalAmerica.es@SD"
-  },
-  {
-    "site_id": "ultra_tainment",
-    "name": "Ultra Tainment",
+    "site_id": "cartoonito_sur",
+    "name": "Cartoonito Sur",
     "lang": "es"
   },
   {
-    "site_id": "america_teve",
-    "name": "América TeVé",
+    "site_id": "golden_plus",
+    "name": "Golden Plus",
     "lang": "es",
-    "xmltv_id": "AmericaTeVe.pr@SD"
+    "xmltv_id": "GoldenPlus.mx@SD"
   },
   {
-    "site_id": "disney_junior_sur",
-    "name": "Disney Junior Sur",
+    "site_id": "maria_vision",
+    "name": "María Visión",
     "lang": "es",
-    "xmltv_id": "DisneyJrLatinAmerica.ar@South"
+    "xmltv_id": "MariaVision.mx@SD"
   },
   {
-    "site_id": "punto_2_puerto_rico",
-    "name": "Punto 2",
-    "lang": "es",
-    "xmltv_id": "WKAQDT2.pr@SD"
+    "site_id": "mtv_centro",
+    "name": "MTV Centro",
+    "lang": "es"
   },
   {
-    "site_id": "telefe_argentina",
-    "name": "Telefé (Argentina)",
+    "site_id": "tudn_mexico",
+    "name": "TUDN México",
     "lang": "es",
-    "xmltv_id": "Telefe.ar@SD"
+    "xmltv_id": "TUDN.mx@SD"
   },
   {
-    "site_id": "_vamos",
-    "name": "M+ #Vamos",
+    "site_id": "video_rola",
+    "name": "Video Rola",
     "lang": "es",
-    "xmltv_id": "VamosporMovistarPlusPlus.es@SD"
+    "xmltv_id": "VideoRola.mx@SD"
   },
   {
-    "site_id": "cinecanal_pacifico",
-    "name": "Cinecanal Pacífico",
+    "site_id": "disney_channel_mexico",
+    "name": "Disney Channel México",
     "lang": "es",
-    "xmltv_id": "Cinecanal.us@Pacific"
+    "xmltv_id": "DisneyChannelLatinAmerica.ar@North"
   },
   {
-    "site_id": "discovery_channel_chile",
-    "name": "Discovery Channel Chile",
+    "site_id": "golden_panregional",
+    "name": "Golden Panregional",
     "lang": "es",
-    "xmltv_id": "DiscoveryChannelLatinAmerica.us@Chile"
-  },
-  {
-    "site_id": "panamericana_television",
-    "name": "Panamericana Televisión",
-    "lang": "es",
-    "xmltv_id": "PanamericanaTV.pe@SD"
+    "xmltv_id": "Golden.mx@Panregional"
   },
   {
     "site_id": "television_canaria",
@@ -506,25 +147,130 @@
     "xmltv_id": "TelevisionCanaria.es@SD"
   },
   {
-    "site_id": "de_pelicula",
-    "name": "De Película",
+    "site_id": "13_de_panama",
+    "name": "Telemetro",
     "lang": "es",
-    "xmltv_id": "DePeliculaLatinAmerica.mx@SD"
+    "xmltv_id": "Telemetro.pa@SD"
   },
   {
-    "site_id": "glitz",
-    "name": "Glitz",
+    "site_id": "13_de_paraguay",
+    "name": "13 de Paraguay",
+    "lang": "es",
+    "xmltv_id": "Trece.py@SD"
+  },
+  {
+    "site_id": "cartoonito_mexico",
+    "name": "Cartoonito México",
+    "lang": "es",
+    "xmltv_id": "CartoonitoLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "discovery_en_espanol",
+    "name": "Discovery en Español",
+    "lang": "es",
+    "xmltv_id": "DiscoveryenEspanol.us@SD"
+  },
+  {
+    "site_id": "ecuavisa_ecuador",
+    "name": "Ecuavisa Ecuador",
+    "lang": "es",
+    "xmltv_id": "Ecuavisa.ec@SD"
+  },
+  {
+    "site_id": "sky_sports_24",
+    "name": "Sky Sports 24",
+    "lang": "es",
+    "xmltv_id": "SkySports24.mx@SD"
+  },
+  {
+    "site_id": "snt",
+    "name": "SNT",
+    "lang": "es",
+    "xmltv_id": "SNT.py@SD"
+  },
+  {
+    "site_id": "ultra_docu",
+    "name": "Ultra Docu",
     "lang": "es"
   },
   {
-    "site_id": "13_de_argentina",
-    "name": "13 de Argentina",
-    "lang": "es",
-    "xmltv_id": "ElTrece.ar@SD"
+    "site_id": "clic",
+    "name": "Clic",
+    "lang": "es"
   },
   {
-    "site_id": "axn_venezuela",
-    "name": "AXN Venezuela",
+    "site_id": "axn_mexico",
+    "name": "AXN México",
+    "lang": "es",
+    "xmltv_id": "AXNLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "comedy_central_espana",
+    "name": "Comedy Central España",
+    "lang": "es",
+    "xmltv_id": "ComedyCentral.es@SD"
+  },
+  {
+    "site_id": "el_heraldo_tv_mexico",
+    "name": "El Heraldo TV",
+    "lang": "es"
+  },
+  {
+    "site_id": "ingenio_tv_mexico",
+    "name": "Ingenio TV México",
+    "lang": "es",
+    "xmltv_id": "IngenioTV.mx@SD"
+  },
+  {
+    "site_id": "estrella_tv",
+    "name": "Estrella TV",
+    "lang": "es",
+    "xmltv_id": "EstrellaTV.us@SD"
+  },
+  {
+    "site_id": "europa_europa",
+    "name": "Europa Europa",
+    "lang": "es",
+    "xmltv_id": "EuropaEuropa.ar@SD"
+  },
+  {
+    "site_id": "eurosport_2_espana",
+    "name": "Eurosport 2 España",
+    "lang": "es",
+    "xmltv_id": "Eurosport2.fr@Spain"
+  },
+  {
+    "site_id": "fox_news",
+    "name": "Fox News",
+    "lang": "es",
+    "xmltv_id": "FoxNewsChannel.us@SD"
+  },
+  {
+    "site_id": "movistar_laliga",
+    "name": "M+ LaLiga",
+    "lang": "es",
+    "xmltv_id": "LaLigaTVporMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "sky_one_mexico",
+    "name": "Sky One México",
+    "lang": "es",
+    "xmltv_id": "SkyOne.mx@SD"
+  },
+  {
+    "site_id": "space_chile",
+    "name": "Space Chile",
+    "lang": "es"
+  },
+  {
+    "site_id": "sur",
+    "name": "Sur",
+    "lang": "es",
+    "xmltv_id": "CanalSUR.us@SD"
+  },
+  {
+    "site_id": "animal_planet_panregional",
+    "name": "Animal Planet Panregional",
     "lang": "es"
   },
   {
@@ -532,6 +278,847 @@
     "name": "CineClick",
     "lang": "es",
     "xmltv_id": "CineClick.us@SD"
+  },
+  {
+    "site_id": "sur_andalucia",
+    "name": "Sur Andalucía",
+    "lang": "es",
+    "xmltv_id": "CanalSurAndalucia.es@SD"
+  },
+  {
+    "site_id": "teleamazonas",
+    "name": "Teleamazonas",
+    "lang": "es",
+    "xmltv_id": "Teleamazonas.ec@SD"
+  },
+  {
+    "site_id": "13_de_republica_dominicana_telecentro",
+    "name": "13 de República Dominicana",
+    "lang": "es",
+    "xmltv_id": "Telecentro.do@SD"
+  },
+  {
+    "site_id": "antena_3_espana",
+    "name": "Antena 3 de España",
+    "lang": "es",
+    "xmltv_id": "Antena3.es@National"
+  },
+  {
+    "site_id": "bbc_world_news",
+    "name": "BBC World News",
+    "lang": "es",
+    "xmltv_id": "BBCNews.uk@LatinAmerica"
+  },
+  {
+    "site_id": "cinema_mas",
+    "name": "Cinema +",
+    "lang": "es",
+    "xmltv_id": "CinemaPlus.co@SD"
+  },
+  {
+    "site_id": "pasiones_estados_unidos",
+    "name": "Pasiones Estados Unidos",
+    "lang": "es",
+    "xmltv_id": "Pasiones.us@SD"
+  },
+  {
+    "site_id": "pasiones_latinoamerica",
+    "name": "Pasiones Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "PasionesLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "telefuturo",
+    "name": "Telefuturo",
+    "lang": "es",
+    "xmltv_id": "Telefuturo.py@SD"
+  },
+  {
+    "site_id": "dhe",
+    "name": "DHE",
+    "lang": "es",
+    "xmltv_id": "DHE.us@SD"
+  },
+  {
+    "site_id": "disney_channel_centro",
+    "name": "Disney Channel Centro",
+    "lang": "es",
+    "xmltv_id": "DisneyChannelLatinAmerica.ar@Center"
+  },
+  {
+    "site_id": "azteca_7",
+    "name": "Azteca 7",
+    "lang": "es",
+    "xmltv_id": "Azteca7.mx@SD"
+  },
+  {
+    "site_id": "boing_espana",
+    "name": "Boing España",
+    "lang": "es",
+    "xmltv_id": "Boing.es@SD"
+  },
+  {
+    "site_id": "elgourmet",
+    "name": "Elgourmet",
+    "lang": "es"
+  },
+  {
+    "site_id": "hbo_chile",
+    "name": "HBO Chile",
+    "lang": "es"
+  },
+  {
+    "site_id": "tv_azteca_mundo",
+    "name": "TV Azteca Mundo",
+    "lang": "es",
+    "xmltv_id": "AzMundo.mx@SD"
+  },
+  {
+    "site_id": "nfl_network",
+    "name": "NFL Network",
+    "lang": "es",
+    "xmltv_id": "NFLNetwork.us@SD"
+  },
+  {
+    "site_id": "peru_magico",
+    "name": "Perú Mágico",
+    "lang": "es",
+    "xmltv_id": "PeruMagico.pe@SD"
+  },
+  {
+    "site_id": "13_de_costa_rica",
+    "name": "13 de Costa Rica",
+    "lang": "es"
+  },
+  {
+    "site_id": "calle_13",
+    "name": "Calle 13",
+    "lang": "es",
+    "xmltv_id": "Calle13Universal.es@SD"
+  },
+  {
+    "site_id": "etb_2",
+    "name": "ETB 2",
+    "lang": "es",
+    "xmltv_id": "ETB2.es@SD"
+  },
+  {
+    "site_id": "nick_junior_espana",
+    "name": "Nick Jr. España",
+    "lang": "es",
+    "xmltv_id": "NickJr.es@SD"
+  },
+  {
+    "site_id": "7_de_guatemala",
+    "name": "7 de Guatemala",
+    "lang": "es",
+    "xmltv_id": "Televisiete.gt@SD"
+  },
+  {
+    "site_id": "37_republica_dominicana",
+    "name": "37 de República Dominicana",
+    "lang": "es",
+    "xmltv_id": "CDN.do@SD"
+  },
+  {
+    "site_id": "classica",
+    "name": "Classica",
+    "lang": "es",
+    "xmltv_id": "Classica.us@SD"
+  },
+  {
+    "site_id": "espn_2_sur",
+    "name": "ESPN 2 Sur",
+    "lang": "es"
+  },
+  {
+    "site_id": "amc_break",
+    "name": "AMC Break",
+    "lang": "es",
+    "xmltv_id": "AMCBreak.es@SD"
+  },
+  {
+    "site_id": "antigua",
+    "name": "Canal Antigua",
+    "lang": "es",
+    "xmltv_id": "CanalAntigua.gt@SD"
+  },
+  {
+    "site_id": "azteca_uno",
+    "name": "Azteca Uno",
+    "lang": "es",
+    "xmltv_id": "AztecaUno.mx@SD"
+  },
+  {
+    "site_id": "cinemax_mexico",
+    "name": "Cinemax México",
+    "lang": "es",
+    "xmltv_id": "CinemaxLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "24_horas_chile",
+    "name": "24 Horas Chile",
+    "lang": "es",
+    "xmltv_id": "24Horas.cl@SD"
+  },
+  {
+    "site_id": "i.sat",
+    "name": "I.Sat",
+    "lang": "es"
+  },
+  {
+    "site_id": "tcm_espana",
+    "name": "TCM España",
+    "lang": "es",
+    "xmltv_id": "TCM.es@SD"
+  },
+  {
+    "site_id": "tvc_deportes",
+    "name": "TVC Deportes",
+    "lang": "es",
+    "xmltv_id": "TVCDeportes.mx@SD"
+  },
+  {
+    "site_id": "espn_chile",
+    "name": "ESPN Chile",
+    "lang": "es",
+    "xmltv_id": "ESPNLatinAmerica.us@Chile"
+  },
+  {
+    "site_id": "hbo_plus",
+    "name": "HBO Plus",
+    "lang": "es",
+    "xmltv_id": "HBOPlusLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "atv",
+    "name": "ATV",
+    "lang": "es",
+    "xmltv_id": "ATV.pe@SD"
+  },
+  {
+    "site_id": "cartoonito_panregional",
+    "name": "Cartoonito Panregional",
+    "lang": "es"
+  },
+  {
+    "site_id": "espn_3_norte",
+    "name": "ESPN 3 Norte",
+    "lang": "es"
+  },
+  {
+    "site_id": "film_and_arts",
+    "name": "Film \u0026 Arts",
+    "lang": "es"
+  },
+  {
+    "site_id": "mega_espana",
+    "name": "Mega España",
+    "lang": "es",
+    "xmltv_id": "Mega.es@SD"
+  },
+  {
+    "site_id": "nova",
+    "name": "Nova",
+    "lang": "es",
+    "xmltv_id": "Nova.es@SD"
+  },
+  {
+    "site_id": "5_el_lider_honduras",
+    "name": "5 de Honduras",
+    "lang": "es",
+    "xmltv_id": "Canal5ElLider.hn@SD"
+  },
+  {
+    "site_id": "caracol_internacional",
+    "name": "Caracol Internacional",
+    "lang": "es",
+    "xmltv_id": "CaracolInternacional.co@SD"
+  },
+  {
+    "site_id": "ewtn_en_espanol",
+    "name": "EWTN en Español",
+    "lang": "es"
+  },
+  {
+    "site_id": "history_panregional",
+    "name": "History Panregional",
+    "lang": "es",
+    "xmltv_id": "HistoryLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "rcn_colombia",
+    "name": "RCN Colombia",
+    "lang": "es"
+  },
+  {
+    "site_id": "via_x",
+    "name": "Vía X",
+    "lang": "es",
+    "xmltv_id": "ViaX.cl@SD"
+  },
+  {
+    "site_id": "atreseries_espana",
+    "name": "Atreseries España",
+    "lang": "es",
+    "xmltv_id": "Atreseries.es@SD"
+  },
+  {
+    "site_id": "fox_sports_2_cono_norte",
+    "name": "Fox Sports 2 Cono Norte",
+    "lang": "es"
+  },
+  {
+    "site_id": "golden_edge",
+    "name": "Golden Edge",
+    "lang": "es"
+  },
+  {
+    "site_id": "la_sexta",
+    "name": "La Sexta",
+    "lang": "es",
+    "xmltv_id": "LaSexta.es@SD"
+  },
+  {
+    "site_id": "nickelodeon_centro",
+    "name": "Nickelodeon Centro",
+    "lang": "es"
+  },
+  {
+    "site_id": "5_mexico",
+    "name": "5 de México",
+    "lang": "es"
+  },
+  {
+    "site_id": "amc_mexico",
+    "name": "AMC México",
+    "lang": "es"
+  },
+  {
+    "site_id": "panico",
+    "name": "Pánico",
+    "lang": "es",
+    "xmltv_id": "Panico.mx@SD"
+  },
+  {
+    "site_id": "13_de_puerto_rico",
+    "name": "13 de Puerto Rico",
+    "lang": "es",
+    "xmltv_id": "WORODT1.pr@SD"
+  },
+  {
+    "site_id": "a_y_e_chile",
+    "name": "A\u0026E Chile",
+    "lang": "es",
+    "xmltv_id": "AELatinAmerica.us@Chile"
+  },
+  {
+    "site_id": "discovery_kids_mexico",
+    "name": "Discovery Kids MX",
+    "lang": "es",
+    "xmltv_id": "DiscoveryKidsLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "disney_channel_espana",
+    "name": "Disney Channel España",
+    "lang": "es",
+    "xmltv_id": "DisneyChannel.es@SD"
+  },
+  {
+    "site_id": "tve",
+    "name": "TVE Internacional",
+    "lang": "es",
+    "xmltv_id": "TVEInternacionalAmerica.es@SD"
+  },
+  {
+    "site_id": "distrito_comedia",
+    "name": "Distrito Comedia",
+    "lang": "es",
+    "xmltv_id": "DistritoComedia.mx@SD"
+  },
+  {
+    "site_id": "11_de_guatemala",
+    "name": "11 de Guatemala",
+    "lang": "es",
+    "xmltv_id": "TeleOnce.gt@SD"
+  },
+  {
+    "site_id": "telemundo_puerto_rico",
+    "name": "Telemundo Puerto Rico",
+    "lang": "es"
+  },
+  {
+    "site_id": "ultra_fiesta",
+    "name": "Ultra Fiesta",
+    "lang": "es"
+  },
+  {
+    "site_id": "comedy_central_mexico",
+    "name": "Comedy Central México",
+    "lang": "es"
+  },
+  {
+    "site_id": "teennick",
+    "name": "TeenNick",
+    "lang": "es",
+    "xmltv_id": "TeenNickLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "29_republica_dominicana",
+    "name": "29 de República Dominicana",
+    "lang": "es",
+    "xmltv_id": "Teleuniverso.do@SD"
+  },
+  {
+    "site_id": "las_estrellas_latinoamerica",
+    "name": "Las Estrellas LATAM",
+    "lang": "es",
+    "xmltv_id": "LasEstrellasLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "sundance_tv_espana",
+    "name": "Sundance TV España",
+    "lang": "es",
+    "xmltv_id": "SundanceTV.es@SD"
+  },
+  {
+    "site_id": "cine_sony",
+    "name": "Cine Sony",
+    "lang": "es",
+    "xmltv_id": "CineSony.us@SD"
+  },
+  {
+    "site_id": "tnt_novelas_latinoamerica",
+    "name": "TNT Novelas LATAM",
+    "lang": "es"
+  },
+  {
+    "site_id": "cartoon_network_atlantico_sur",
+    "name": "Cartoon Network Atlántico Sur",
+    "lang": "es",
+    "xmltv_id": "CartoonNetworkLatinAmerica.us@SouthAtlantic"
+  },
+  {
+    "site_id": "claro_tv",
+    "name": "Claro TV",
+    "lang": "es"
+  },
+  {
+    "site_id": "discovery_home_and_health_mexico",
+    "name": "Discovery H\u0026H MX",
+    "lang": "es",
+    "xmltv_id": "DiscoveryHomeHealthLatinAmerica.mx@Mexico"
+  },
+  {
+    "site_id": "mtv_espana",
+    "name": "MTV España",
+    "lang": "es",
+    "xmltv_id": "MTV.es@SD"
+  },
+  {
+    "site_id": "5_de_republica_dominicana_telemicro",
+    "name": "Telemicro",
+    "lang": "es",
+    "xmltv_id": "Telemicro.do@SD"
+  },
+  {
+    "site_id": "7_republica_dominicana",
+    "name": "7 de República Dominicana",
+    "lang": "es",
+    "xmltv_id": "Antena7.do@SD"
+  },
+  {
+    "site_id": "cinema_platino",
+    "name": "Cinema Platino",
+    "lang": "es",
+    "xmltv_id": "CinemaPlatino.mx@SD"
+  },
+  {
+    "site_id": "neox",
+    "name": "Neox",
+    "lang": "es",
+    "xmltv_id": "Neox.es@SD"
+  },
+  {
+    "site_id": "paraguay_tv",
+    "name": "Paraguay TV",
+    "lang": "es",
+    "xmltv_id": "ParaguayTV.py@SD"
+  },
+  {
+    "site_id": "cdn_deportes",
+    "name": "CDN Deportes",
+    "lang": "es",
+    "xmltv_id": "CDNDeportes.do@SD"
+  },
+  {
+    "site_id": "rts",
+    "name": "RTS",
+    "lang": "es",
+    "xmltv_id": "RTS.ec@SD"
+  },
+  {
+    "site_id": "tn23",
+    "name": "TN23",
+    "lang": "es"
+  },
+  {
+    "site_id": "canal_cocina",
+    "name": "Cocina",
+    "lang": "es",
+    "xmltv_id": "CanalCocina.es@SD"
+  },
+  {
+    "site_id": "cinemax_chile",
+    "name": "Cinemax Chile",
+    "lang": "es",
+    "xmltv_id": "CinemaxLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "telepacifico",
+    "name": "Telepacífico",
+    "lang": "es",
+    "xmltv_id": "Telepacifico.co@SD"
+  },
+  {
+    "site_id": "atreseries_internacional",
+    "name": "Atreseries Internacional",
+    "lang": "es",
+    "xmltv_id": "AtreseriesInternacional.es@SD"
+  },
+  {
+    "site_id": "star_channel_mexico",
+    "name": "Star Channel México",
+    "lang": "es",
+    "xmltv_id": "StarChannel.mx@SD"
+  },
+  {
+    "site_id": "cine_estelar",
+    "name": "Cine Estelar",
+    "lang": "es",
+    "xmltv_id": "CineEstelar.us@SD"
+  },
+  {
+    "site_id": "history_en_espanol",
+    "name": "History en Español",
+    "lang": "es",
+    "xmltv_id": "HistoryenEspanol.us@SD"
+  },
+  {
+    "site_id": "gol_play_espana",
+    "name": "Gol Play España",
+    "lang": "es"
+  },
+  {
+    "site_id": "history_chile",
+    "name": "History Chile",
+    "lang": "es",
+    "xmltv_id": "History.cl@SD"
+  },
+  {
+    "site_id": "tnt_sports_2_chile",
+    "name": "TNT Sports 2 Chile",
+    "lang": "es",
+    "xmltv_id": "TNTSports2.cl@SD"
+  },
+  {
+    "site_id": "extra_tv_42_de_costa_rica",
+    "name": "42 de Costa Rica",
+    "lang": "es",
+    "xmltv_id": "ExtraTV42.cr@SD"
+  },
+  {
+    "site_id": "hln",
+    "name": "HLN",
+    "lang": "es",
+    "xmltv_id": "HLN.us@SD"
+  },
+  {
+    "site_id": "milenio_tv",
+    "name": "Milenio",
+    "lang": "es",
+    "xmltv_id": "MilenioTelevision.mx@SD"
+  },
+  {
+    "site_id": "telemundo_panregional",
+    "name": "Telemundo PAN",
+    "lang": "es"
+  },
+  {
+    "site_id": "frecuencia_latina",
+    "name": "Frecuencia Latina",
+    "lang": "es",
+    "xmltv_id": "Latina.pe@SD"
+  },
+  {
+    "site_id": "tcm_panregional",
+    "name": "TCM Panregional",
+    "lang": "es",
+    "xmltv_id": "TCMLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "universal_tv_panregional",
+    "name": "Universal TV Panregional",
+    "lang": "es",
+    "xmltv_id": "UniversalTVLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "de_pelicula",
+    "name": "De Película",
+    "lang": "es",
+    "xmltv_id": "DePeliculaLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "universo",
+    "name": "Universo",
+    "lang": "es",
+    "xmltv_id": "NBCUniverso.us@East"
+  },
+  {
+    "site_id": "wapa_tv",
+    "name": "WAPA-TV",
+    "lang": "es",
+    "xmltv_id": "WAPADT1.pr@SD"
+  },
+  {
+    "site_id": "zoomoo_latinoamerica",
+    "name": "ZooMoo Latinoamérica",
+    "lang": "es"
+  },
+  {
+    "site_id": "4_de_costa_rica",
+    "name": "4 de Costa Rica",
+    "lang": "es",
+    "xmltv_id": "Canal4.cr@SD"
+  },
+  {
+    "site_id": "hbo_2_latinoamerica",
+    "name": "HBO 2 LATAM",
+    "lang": "es",
+    "xmltv_id": "HBO2LatinAmerica.us@SD"
+  },
+  {
+    "site_id": "mtv_hits",
+    "name": "MTV Hits",
+    "lang": "es"
+  },
+  {
+    "site_id": "pakapaka",
+    "name": "Pakapaka",
+    "lang": "es",
+    "xmltv_id": "Pakapaka.ar@SD"
+  },
+  {
+    "site_id": "senal_colombia",
+    "name": "Señal Colombia",
+    "lang": "es",
+    "xmltv_id": "SenalColombia.co@SD"
+  },
+  {
+    "site_id": "teleantioquia",
+    "name": "Teleantioquia",
+    "lang": "es",
+    "xmltv_id": "Teleantioquia.co@SD"
+  },
+  {
+    "site_id": "discovery_kids_chile",
+    "name": "Discovery Kids Chile",
+    "lang": "es",
+    "xmltv_id": "DiscoveryKidsLatinAmerica.us@Chile"
+  },
+  {
+    "site_id": "disney_junior_sur",
+    "name": "Disney Junior Sur",
+    "lang": "es",
+    "xmltv_id": "DisneyJrLatinAmerica.ar@South"
+  },
+  {
+    "site_id": "space_mexico",
+    "name": "Space México",
+    "lang": "es",
+    "xmltv_id": "Space.ar@Mexico"
+  },
+  {
+    "site_id": "tc_television",
+    "name": "TC Televisión",
+    "lang": "es"
+  },
+  {
+    "site_id": "cine_nostalgia",
+    "name": "Cine Nostalgia",
+    "lang": "es",
+    "xmltv_id": "CineNostalgia.us@SD"
+  },
+  {
+    "site_id": "hbo_family_latinoamerica",
+    "name": "HBO Family LATAM",
+    "lang": "es",
+    "xmltv_id": "HBOFamilyLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "investigation_discovery_mexico",
+    "name": "ID México",
+    "lang": "es",
+    "xmltv_id": "InvestigationDiscoveryLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "laotra",
+    "name": "laOtra",
+    "lang": "es",
+    "xmltv_id": "LaOtra.es@SD"
+  },
+  {
+    "site_id": "meganoticias_mx",
+    "name": "Meganoticias MX",
+    "lang": "es",
+    "xmltv_id": "MeganoticiasMX.mx@SD"
+  },
+  {
+    "site_id": "nickelodeon_espana",
+    "name": "Nickelodeon España",
+    "lang": "es",
+    "xmltv_id": "Nickelodeon.es@SD"
+  },
+  {
+    "site_id": "tv_chile",
+    "name": "TV Chile",
+    "lang": "es",
+    "xmltv_id": "TVChile.cl@SD"
+  },
+  {
+    "site_id": "discovery_theater_latinoamerica",
+    "name": "Discovery Theater LATAM.",
+    "lang": "es",
+    "xmltv_id": "DiscoveryTheaterLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "11_de_costa_rica",
+    "name": "11 de Costa Rica",
+    "lang": "es",
+    "xmltv_id": "Canal11.cr@SD"
+  },
+  {
+    "site_id": "de_pelicula_m",
+    "name": "De Película MPX",
+    "lang": "es"
+  },
+  {
+    "site_id": "espn_mexico",
+    "name": "ESPN México",
+    "lang": "es",
+    "xmltv_id": "ESPNLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "htv",
+    "name": "HTV",
+    "lang": "es",
+    "xmltv_id": "HTV.us@SD"
+  },
+  {
+    "site_id": "justicia_tv_mexico",
+    "name": "Justicia TV",
+    "lang": "es",
+    "xmltv_id": "JusticiaTV.mx@SD"
+  },
+  {
+    "site_id": "lifetime_mexico",
+    "name": "Lifetime México",
+    "lang": "es",
+    "xmltv_id": "LifetimeLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "universal_reality",
+    "name": "Universal Reality",
+    "lang": "es",
+    "xmltv_id": "UniversalReality.us@SD"
+  },
+  {
+    "site_id": "warner_tv_panregional",
+    "name": "Warner TV Panregional",
+    "lang": "es",
+    "xmltv_id": "WarnerChannel.us@Panregional"
+  },
+  {
+    "site_id": "bein_sport_en_espanol",
+    "name": "beIN Sports en Español",
+    "lang": "es",
+    "xmltv_id": "beINSportsenEspanol.qa@SD"
+  },
+  {
+    "site_id": "cinecanal_sur",
+    "name": "Cinecanal Sur",
+    "lang": "es",
+    "xmltv_id": "Cinecanal.us@South"
+  },
+  {
+    "site_id": "cinema",
+    "name": "Cinema",
+    "lang": "es"
+  },
+  {
+    "site_id": "star_channel_centro",
+    "name": "Star Channel Centro",
+    "lang": "es"
+  },
+  {
+    "site_id": "fox_sports_3_cono_sur",
+    "name": "Fox Sports 3 Cono Sur",
+    "lang": "es"
+  },
+  {
+    "site_id": "7_de_puerto_rico_teleisla",
+    "name": "Tele Isla",
+    "lang": "es",
+    "xmltv_id": "Teleislas.co@SD"
+  },
+  {
+    "site_id": "azteca_uno_2h",
+    "name": "Azteca Uno -2 h",
+    "lang": "es"
+  },
+  {
+    "site_id": "cinelatino",
+    "name": "Cinelatino",
+    "lang": "es",
+    "xmltv_id": "CineLatino.mx@SD"
+  },
+  {
+    "site_id": "cinelatino_u_s_a",
+    "name": "Cinelatino USA",
+    "lang": "es"
+  },
+  {
+    "site_id": "sony_centro",
+    "name": "Sony Centro",
+    "lang": "es"
+  },
+  {
+    "site_id": "tlnovelas_latinoamerica",
+    "name": "TLNovelas LATAM",
+    "lang": "es",
+    "xmltv_id": "TlnovelasLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "de_las_estrellas_-1h_mexico",
+    "name": "las Estrellas - 1 Hora",
+    "lang": "es"
+  },
+  {
+    "site_id": "hola_tv",
+    "name": "¡Hola! TV",
+    "lang": "es",
+    "xmltv_id": "HolaTV.us@SD"
+  },
+  {
+    "site_id": "investigation_discovery_panregional",
+    "name": "ID Panregional",
+    "lang": "es",
+    "xmltv_id": "InvestigationDiscoveryLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "la_red_chile",
+    "name": "La Red Chile",
+    "lang": "es"
   },
   {
     "site_id": "tnt_mexico",
@@ -546,783 +1133,10 @@
     "xmltv_id": "TelevisionDominicana.us@SD"
   },
   {
-    "site_id": "wapa_2_deportes",
-    "name": "WAPA 2 Deportes",
-    "lang": "es",
-    "xmltv_id": "WAPADT2.pr@SD"
-  },
-  {
-    "site_id": "bloomberg",
-    "name": "Bloomberg",
-    "lang": "es"
-  },
-  {
-    "site_id": "tv5monde",
-    "name": "TV5Monde",
-    "lang": "es",
-    "xmltv_id": "TV5MondeLatinAmerica.fr@SD"
-  },
-  {
-    "site_id": "14_de_mexico",
-    "name": "14 de México",
-    "lang": "es"
-  },
-  {
-    "site_id": "sorpresa",
-    "name": "Sorpresa",
-    "lang": "es",
-    "xmltv_id": "Sorpresa.us@SD"
-  },
-  {
-    "site_id": "mtv_centro",
-    "name": "MTV Centro",
-    "lang": "es"
-  },
-  {
-    "site_id": "azteca_uno",
-    "name": "Azteca Uno",
-    "lang": "es",
-    "xmltv_id": "AztecaUno.mx@SD"
-  },
-  {
-    "site_id": "espn_4_chile",
-    "name": "ESPN 4 Chile",
-    "lang": "es",
-    "xmltv_id": "ESPN4LatinAmerica.us@South"
-  },
-  {
-    "site_id": "history_2_panregional",
-    "name": "History 2 Panregional",
-    "lang": "es",
-    "xmltv_id": "History2LatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "cinemax_panregional",
-    "name": "Cinemax Panregional",
-    "lang": "es",
-    "xmltv_id": "CinemaxLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "tcm_espana",
-    "name": "TCM España",
-    "lang": "es",
-    "xmltv_id": "TCM.es@SD"
-  },
-  {
-    "site_id": "tigo_sports_el_salvador",
-    "name": "Tigo Sports El Salvador",
-    "lang": "es",
-    "xmltv_id": "TigoSports.sv@SD"
-  },
-  {
-    "site_id": "tv_chile",
-    "name": "TV Chile",
-    "lang": "es",
-    "xmltv_id": "TVChile.cl@SD"
-  },
-  {
-    "site_id": "warner_tv_chile",
-    "name": "Warner TV Chile",
-    "lang": "es"
-  },
-  {
-    "site_id": "azteca_uno_1h",
-    "name": "Azteca Uno -1 h",
-    "lang": "es"
-  },
-  {
-    "site_id": "bein_sport_en_espanol",
-    "name": "beIN Sports en Español",
-    "lang": "es",
-    "xmltv_id": "beINSportsenEspanol.qa@SD"
-  },
-  {
-    "site_id": "tudn_estados_unidos",
-    "name": "TUDN USA",
-    "lang": "es",
-    "xmltv_id": "TUDN.us@SD"
-  },
-  {
-    "site_id": "11_de_costa_rica",
-    "name": "11 de Costa Rica",
-    "lang": "es",
-    "xmltv_id": "Canal11.cr@SD"
-  },
-  {
-    "site_id": "espn_extra_latinoamerica",
-    "name": "ESPN Extra Latinoamérica",
-    "lang": "es"
-  },
-  {
-    "site_id": "la_1",
-    "name": "La 1",
-    "lang": "es",
-    "xmltv_id": "La1.es@SD"
-  },
-  {
-    "site_id": "mtv_00s",
-    "name": "MTV 00s",
-    "lang": "es",
-    "xmltv_id": "MTV00s.uk@SD"
-  },
-  {
-    "site_id": "rcn_novelas",
-    "name": "RCN Novelas",
-    "lang": "es",
-    "xmltv_id": "RCNNovelas.co@SD"
-  },
-  {
-    "site_id": "universal_crime",
-    "name": "Universal Crime",
-    "lang": "es",
-    "xmltv_id": "UniversalCrime.us@East"
-  },
-  {
-    "site_id": "fx_centro",
-    "name": "FX Centro",
-    "lang": "es"
-  },
-  {
-    "site_id": "zoomoo_latinoamerica",
-    "name": "ZooMoo Latinoamérica",
-    "lang": "es"
-  },
-  {
     "site_id": "a_mas",
     "name": "a+",
     "lang": "es",
     "xmltv_id": "APlus.mx@SD"
-  },
-  {
-    "site_id": "el_heraldo_tv_mexico",
-    "name": "El Heraldo TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "teleislas",
-    "name": "Teleislas",
-    "lang": "es",
-    "xmltv_id": "Teleislas.co@SD"
-  },
-  {
-    "site_id": "4_guadalajara",
-    "name": "4 de Guadalajara",
-    "lang": "es",
-    "xmltv_id": "TelevisaGuadalajara.mx@SD"
-  },
-  {
-    "site_id": "animal_planet_panregional",
-    "name": "Animal Planet Panregional",
-    "lang": "es"
-  },
-  {
-    "site_id": "discovery_channel_mexico",
-    "name": "Discovery Channel México",
-    "lang": "es",
-    "xmltv_id": "DiscoveryChannelLatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "history_mexico",
-    "name": "History MX",
-    "lang": "es",
-    "xmltv_id": "History.mx@SD"
-  },
-  {
-    "site_id": "hitn",
-    "name": "HITN",
-    "lang": "es",
-    "xmltv_id": "HITN.us@SD"
-  },
-  {
-    "site_id": "13_de_guatemala",
-    "name": "13 de Guatemala",
-    "lang": "es"
-  },
-  {
-    "site_id": "studio_universal_panregional",
-    "name": "Studio Universal Panregional",
-    "lang": "es",
-    "xmltv_id": "StudioUniversalLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "tnt_sports_3_chile",
-    "name": "TNT Sports 3 Chile",
-    "lang": "es",
-    "xmltv_id": "TNTSports3.cl@SD"
-  },
-  {
-    "site_id": "movistar_laliga",
-    "name": "M+ LaLiga",
-    "lang": "es",
-    "xmltv_id": "LaLigaTVporMovistarPlusPlus.es@SD"
-  },
-  {
-    "site_id": "region_mas",
-    "name": "Región+",
-    "lang": "es"
-  },
-  {
-    "site_id": "syfy_espana",
-    "name": "Syfy España",
-    "lang": "es",
-    "xmltv_id": "Syfy.es@SD"
-  },
-  {
-    "site_id": "teleformula",
-    "name": "Telefórmula",
-    "lang": "es",
-    "xmltv_id": "TeleFormula.mx@SD"
-  },
-  {
-    "site_id": "tigo_sports_costa_rica",
-    "name": "Tigo Sports Costa Rica",
-    "lang": "es",
-    "xmltv_id": "TigoSports.cr@SD"
-  },
-  {
-    "site_id": "amc_break",
-    "name": "AMC Break",
-    "lang": "es",
-    "xmltv_id": "AMCBreak.es@SD"
-  },
-  {
-    "site_id": "la_2",
-    "name": "La 2",
-    "lang": "es",
-    "xmltv_id": "La2.es@SD"
-  },
-  {
-    "site_id": "sundance_tv_espana",
-    "name": "Sundance TV España",
-    "lang": "es",
-    "xmltv_id": "SundanceTV.es@SD"
-  },
-  {
-    "site_id": "zona_latina",
-    "name": "Zona Latina",
-    "lang": "es",
-    "xmltv_id": "ZonaLatina.cl@SD"
-  },
-  {
-    "site_id": "unicanal",
-    "name": "Unicanal",
-    "lang": "es",
-    "xmltv_id": "Unicanal.py@SD"
-  },
-  {
-    "site_id": "baby_tv_latinoamerica",
-    "name": "Baby TV Latam.",
-    "lang": "es"
-  },
-  {
-    "site_id": "telenostalgia",
-    "name": "Telenostalgia",
-    "lang": "es",
-    "xmltv_id": "TeleNostalgia.co@SD"
-  },
-  {
-    "site_id": "tv_agro_centroamerica",
-    "name": "TV Agro C. A.",
-    "lang": "es"
-  },
-  {
-    "site_id": "ve_plus_latinoamerica",
-    "name": "Ve Plus LATAM",
-    "lang": "es"
-  },
-  {
-    "site_id": "7_de_puerto_rico_teleisla",
-    "name": "Tele Isla",
-    "lang": "es",
-    "xmltv_id": "Teleislas.co@SD"
-  },
-  {
-    "site_id": "disney_junior_espana",
-    "name": "Disney Junior España",
-    "lang": "es",
-    "xmltv_id": "DisneyJunior.es@SD"
-  },
-  {
-    "site_id": "pasiones_estados_unidos",
-    "name": "Pasiones Estados Unidos",
-    "lang": "es",
-    "xmltv_id": "Pasiones.us@SD"
-  },
-  {
-    "site_id": "rcn_nuestra_tele_internacional",
-    "name": "RCN Internacional",
-    "lang": "es"
-  },
-  {
-    "site_id": "cartoonito_sur",
-    "name": "Cartoonito Sur",
-    "lang": "es"
-  },
-  {
-    "site_id": "meganoticias_mx",
-    "name": "Meganoticias MX",
-    "lang": "es",
-    "xmltv_id": "MeganoticiasMX.mx@SD"
-  },
-  {
-    "site_id": "cartoonito_mexico",
-    "name": "Cartoonito México",
-    "lang": "es",
-    "xmltv_id": "CartoonitoLatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "castilla-la_mancha",
-    "name": "Castilla-La Mancha Media",
-    "lang": "es",
-    "xmltv_id": "CMMTV.es@SD"
-  },
-  {
-    "site_id": "espn_2_colombia",
-    "name": "ESPN 2 Colombia",
-    "lang": "es",
-    "xmltv_id": "ESPN2LatinAmerica.us@Colombia"
-  },
-  {
-    "site_id": "pasiones_latinoamerica",
-    "name": "Pasiones Latinoamérica",
-    "lang": "es",
-    "xmltv_id": "PasionesLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "tv_azteca_corazon",
-    "name": "TV Azteca Corazón",
-    "lang": "es",
-    "xmltv_id": "AzCorazon.mx@SD"
-  },
-  {
-    "site_id": "comedy_central_centro",
-    "name": "Comedy Central Centro",
-    "lang": "es"
-  },
-  {
-    "site_id": "cosmopolitan_espana",
-    "name": "Cosmopolitan España",
-    "lang": "es",
-    "xmltv_id": "COSMO.es@SD"
-  },
-  {
-    "site_id": "ecuador_tv",
-    "name": "Ecuador TV",
-    "lang": "es",
-    "xmltv_id": "EcuadorTV.ec@SD"
-  },
-  {
-    "site_id": "fox_espana",
-    "name": "Fox España",
-    "lang": "es"
-  },
-  {
-    "site_id": "mega_chile",
-    "name": "Mega Chile",
-    "lang": "es",
-    "xmltv_id": "Mega.cl@SD"
-  },
-  {
-    "site_id": "enlace",
-    "name": "TBN",
-    "lang": "es"
-  },
-  {
-    "site_id": "espn_chile",
-    "name": "ESPN Chile",
-    "lang": "es",
-    "xmltv_id": "ESPNLatinAmerica.us@Chile"
-  },
-  {
-    "site_id": "rai_international",
-    "name": "RAI International",
-    "lang": "es"
-  },
-  {
-    "site_id": "sur",
-    "name": "Sur",
-    "lang": "es",
-    "xmltv_id": "CanalSUR.us@SD"
-  },
-  {
-    "site_id": "telesistema_11",
-    "name": "11 de República Dominicana",
-    "lang": "es",
-    "xmltv_id": "Telesistema11.do@SD"
-  },
-  {
-    "site_id": "decasa",
-    "name": "Decasa",
-    "lang": "es",
-    "xmltv_id": "Decasa.es@SD"
-  },
-  {
-    "site_id": "disney_junior_norte",
-    "name": "Disney Junior Norte",
-    "lang": "es",
-    "xmltv_id": "DisneyJrLatinAmerica.ar@North"
-  },
-  {
-    "site_id": "warner_tv_panregional",
-    "name": "Warner TV Panregional",
-    "lang": "es",
-    "xmltv_id": "WarnerChannel.us@Panregional"
-  },
-  {
-    "site_id": "7_republica_dominicana",
-    "name": "7 de República Dominicana",
-    "lang": "es",
-    "xmltv_id": "Antena7.do@SD"
-  },
-  {
-    "site_id": "axn_andes",
-    "name": "AXN Andes",
-    "lang": "es",
-    "xmltv_id": "AXNLatinAmerica.us@Andes"
-  },
-  {
-    "site_id": "cine_sony",
-    "name": "Cine Sony",
-    "lang": "es",
-    "xmltv_id": "CineSony.us@SD"
-  },
-  {
-    "site_id": "nickelodeon_mexico",
-    "name": "Nickelodeon México",
-    "lang": "es"
-  },
-  {
-    "site_id": "telemundo_puerto_rico",
-    "name": "Telemundo Puerto Rico",
-    "lang": "es"
-  },
-  {
-    "site_id": "aym_sports",
-    "name": "AYM Sports",
-    "lang": "es",
-    "xmltv_id": "AyMSports.mx@SD"
-  },
-  {
-    "site_id": "e_entertainment_television_chile",
-    "name": "E! Entertainment Television Chile",
-    "lang": "es"
-  },
-  {
-    "site_id": "i.sat",
-    "name": "I.Sat",
-    "lang": "es"
-  },
-  {
-    "site_id": "senal_colombia",
-    "name": "Señal Colombia",
-    "lang": "es",
-    "xmltv_id": "SenalColombia.co@SD"
-  },
-  {
-    "site_id": "sony_chile",
-    "name": "Sony Chile",
-    "lang": "es"
-  },
-  {
-    "site_id": "willax_tv",
-    "name": "Willax TV",
-    "lang": "es",
-    "xmltv_id": "WillaxTV.pe@SD"
-  },
-  {
-    "site_id": "bbc_world_news",
-    "name": "BBC World News",
-    "lang": "es",
-    "xmltv_id": "BBCNews.uk@LatinAmerica"
-  },
-  {
-    "site_id": "espn_3_sur",
-    "name": "ESPN 3 Sur",
-    "lang": "es",
-    "xmltv_id": "ESPN3LatinAmerica.us@South"
-  },
-  {
-    "site_id": "iberalia_tv",
-    "name": "Iberalia TV",
-    "lang": "es",
-    "xmltv_id": "IberaliaTV.es@SD"
-  },
-  {
-    "site_id": "etb_1",
-    "name": "ETB 1",
-    "lang": "es",
-    "xmltv_id": "ETB1.es@SD"
-  },
-  {
-    "site_id": "eurochannel",
-    "name": "Eurochannel",
-    "lang": "es",
-    "xmltv_id": "Eurochannel.uk@SD"
-  },
-  {
-    "site_id": "europa_europa",
-    "name": "Europa Europa",
-    "lang": "es",
-    "xmltv_id": "EuropaEuropa.ar@SD"
-  },
-  {
-    "site_id": "multimedios_plus",
-    "name": "Multimedios Plus",
-    "lang": "es",
-    "xmltv_id": "MultimediosPlus.mx@SD"
-  },
-  {
-    "site_id": "teleantioquia",
-    "name": "Teleantioquia",
-    "lang": "es",
-    "xmltv_id": "Teleantioquia.co@SD"
-  },
-  {
-    "site_id": "disney_channel_centro",
-    "name": "Disney Channel Centro",
-    "lang": "es",
-    "xmltv_id": "DisneyChannelLatinAmerica.ar@Center"
-  },
-  {
-    "site_id": "fox_news",
-    "name": "Fox News",
-    "lang": "es",
-    "xmltv_id": "FoxNewsChannel.us@SD"
-  },
-  {
-    "site_id": "sky_sports_16",
-    "name": "Sky Sports 16",
-    "lang": "es",
-    "xmltv_id": "SkySports16.mx@SD"
-  },
-  {
-    "site_id": "tnt_sports",
-    "name": "TNT Sports",
-    "lang": "es"
-  },
-  {
-    "site_id": "axn_mexico",
-    "name": "AXN México",
-    "lang": "es",
-    "xmltv_id": "AXNLatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "elgourmet",
-    "name": "Elgourmet",
-    "lang": "es"
-  },
-  {
-    "site_id": "hbo_latinoamerica",
-    "name": "HBO Latinoamérica",
-    "lang": "es",
-    "xmltv_id": "HBOLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "telehit_musica_plus",
-    "name": "Telehit Música Plus",
-    "lang": "es"
-  },
-  {
-    "site_id": "3_de_guatemala",
-    "name": "3 de Guatemala",
-    "lang": "es",
-    "xmltv_id": "Canal3.gt@SD"
-  },
-  {
-    "site_id": "espn_2_venezuela",
-    "name": "ESPN 2 Venezuela",
-    "lang": "es"
-  },
-  {
-    "site_id": "ingenio_tv_mexico",
-    "name": "Ingenio TV México",
-    "lang": "es",
-    "xmltv_id": "IngenioTV.mx@SD"
-  },
-  {
-    "site_id": "a_y_e_mexico",
-    "name": "A\u0026E México",
-    "lang": "es",
-    "xmltv_id": "AELatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "mtv_hits",
-    "name": "MTV Hits",
-    "lang": "es"
-  },
-  {
-    "site_id": "national_geographic_centro",
-    "name": "National Geographic Centro",
-    "lang": "es"
-  },
-  {
-    "site_id": "semillitas",
-    "name": "Semillitas",
-    "lang": "es",
-    "xmltv_id": "SemillitasTV.us@SD"
-  },
-  {
-    "site_id": "discovery_turbo_latinoamerica",
-    "name": "Discovery Turbo LATAM.",
-    "lang": "es"
-  },
-  {
-    "site_id": "maria_vision",
-    "name": "María Visión",
-    "lang": "es",
-    "xmltv_id": "MariaVision.mx@SD"
-  },
-  {
-    "site_id": "milenio_tv",
-    "name": "Milenio",
-    "lang": "es",
-    "xmltv_id": "MilenioTelevision.mx@SD"
-  },
-  {
-    "site_id": "star_channel_argentina",
-    "name": "Star Channel Argentina",
-    "lang": "es"
-  },
-  {
-    "site_id": "studio_universal_mexico",
-    "name": "Studio Universal México",
-    "lang": "es",
-    "xmltv_id": "StudioUniversalLatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "fox_sports_3_cono_norte",
-    "name": "Fox Sports 3 Cono Norte",
-    "lang": "es"
-  },
-  {
-    "site_id": "2_de_nicaragua_televicentro",
-    "name": "2 de Nicaragua",
-    "lang": "es",
-    "xmltv_id": "Canal2.ni@SD"
-  },
-  {
-    "site_id": "cartoon_network_pacifico",
-    "name": "Cartoon Network Pacífico",
-    "lang": "es",
-    "xmltv_id": "CartoonNetwork.us@West"
-  },
-  {
-    "site_id": "cinema",
-    "name": "Cinema",
-    "lang": "es"
-  },
-  {
-    "site_id": "lifetime_panregional",
-    "name": "Lifetime PAN",
-    "lang": "es",
-    "xmltv_id": "LifetimeLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "m_accion",
-    "name": "M+ Acción",
-    "lang": "es",
-    "xmltv_id": "AccionporMovistarPlusPlus.es@SD"
-  },
-  {
-    "site_id": "cnn_chile",
-    "name": "CNN Chile",
-    "lang": "es",
-    "xmltv_id": "CNNChile.cl@SD"
-  },
-  {
-    "site_id": "hbo_2_latinoamerica",
-    "name": "HBO 2 LATAM",
-    "lang": "es",
-    "xmltv_id": "HBO2LatinAmerica.us@SD"
-  },
-  {
-    "site_id": "tnt_pacifico",
-    "name": "TNT Pacífico",
-    "lang": "es",
-    "xmltv_id": "TNT.us@West"
-  },
-  {
-    "site_id": "ultra_docu",
-    "name": "Ultra Docu",
-    "lang": "es"
-  },
-  {
-    "site_id": "cinema_mas",
-    "name": "Cinema +",
-    "lang": "es",
-    "xmltv_id": "CinemaPlus.co@SD"
-  },
-  {
-    "site_id": "much_music",
-    "name": "Much Music",
-    "lang": "es"
-  },
-  {
-    "site_id": "multimedios_costa_rica",
-    "name": "Multimedios Costa Rica",
-    "lang": "es",
-    "xmltv_id": "Canal8.cr@SD"
-  },
-  {
-    "site_id": "sony_mexico",
-    "name": "Sony México",
-    "lang": "es",
-    "xmltv_id": "SonyChannel.mx@SD"
-  },
-  {
-    "site_id": "amc_colombia",
-    "name": "AMC Colombia",
-    "lang": "es"
-  },
-  {
-    "site_id": "claro_tv",
-    "name": "Claro TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "frecuencia_latina",
-    "name": "Frecuencia Latina",
-    "lang": "es",
-    "xmltv_id": "Latina.pe@SD"
-  },
-  {
-    "site_id": "golden_edge",
-    "name": "Golden Edge",
-    "lang": "es"
-  },
-  {
-    "site_id": "justicia_tv_mexico",
-    "name": "Justicia TV",
-    "lang": "es",
-    "xmltv_id": "JusticiaTV.mx@SD"
-  },
-  {
-    "site_id": "caracol_colombia",
-    "name": "Caracol Colombia",
-    "lang": "es",
-    "xmltv_id": "CaracolTV.co@SD"
-  },
-  {
-    "site_id": "disney_channel_sur",
-    "name": "Disney Channel Sur",
-    "lang": "es",
-    "xmltv_id": "DisneyChannelLatinAmerica.ar@South"
-  },
-  {
-    "site_id": "fox_sports_2_cono_sur",
-    "name": "Fox Sports 2 Cono Sur",
-    "lang": "es"
-  },
-  {
-    "site_id": "4_de_costa_rica",
-    "name": "4 de Costa Rica",
-    "lang": "es",
-    "xmltv_id": "Canal4.cr@SD"
-  },
-  {
-    "site_id": "9_de_honduras_vica",
-    "name": "9 de Honduras",
-    "lang": "es"
   },
   {
     "site_id": "eurosport_1_espana",
@@ -1331,861 +1145,14 @@
     "xmltv_id": "Eurosport1.fr@Spain"
   },
   {
-    "site_id": "sky_sports_24",
-    "name": "Sky Sports 24",
-    "lang": "es",
-    "xmltv_id": "SkySports24.mx@SD"
-  },
-  {
-    "site_id": "telemundo_panregional",
-    "name": "Telemundo PAN",
-    "lang": "es"
-  },
-  {
-    "site_id": "tnt_novelas_guatemala",
-    "name": "TNT Novelas GT",
-    "lang": "es"
-  },
-  {
-    "site_id": "6_de_costa_rica",
-    "name": "6 de Costa Rica",
-    "lang": "es",
-    "xmltv_id": "Canal6.cr@SD"
-  },
-  {
-    "site_id": "amc_espana",
-    "name": "AMC España",
-    "lang": "es",
-    "xmltv_id": "AMCEurope.uk@Spain"
-  },
-  {
-    "site_id": "espn_mexico",
-    "name": "ESPN México",
-    "lang": "es",
-    "xmltv_id": "ESPNLatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "peru_magico",
-    "name": "Perú Mágico",
-    "lang": "es",
-    "xmltv_id": "PeruMagico.pe@SD"
-  },
-  {
-    "site_id": "efekto_tv",
-    "name": "Efekto TV",
-    "lang": "es",
-    "xmltv_id": "EfektoTV.mx@SD"
-  },
-  {
-    "site_id": "investigation_discovery_panregional",
-    "name": "ID Panregional",
-    "lang": "es",
-    "xmltv_id": "InvestigationDiscoveryLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "ecuavisa_ecuador",
-    "name": "Ecuavisa Ecuador",
-    "lang": "es",
-    "xmltv_id": "Ecuavisa.ec@SD"
-  },
-  {
-    "site_id": "univision_latinoamerica",
-    "name": "Univision Latinoamérica",
-    "lang": "es"
-  },
-  {
-    "site_id": "13_de_nicaragua",
-    "name": "13 de Nicaragua",
-    "lang": "es",
-    "xmltv_id": "VivaNicaraguaCanal13.ni@SD"
-  },
-  {
-    "site_id": "capital_colombia",
-    "name": "Capital Colombia",
-    "lang": "es"
-  },
-  {
-    "site_id": "comedy_central_espana",
-    "name": "Comedy Central España",
-    "lang": "es",
-    "xmltv_id": "ComedyCentral.es@SD"
-  },
-  {
-    "site_id": "sur_andalucia",
-    "name": "Sur Andalucía",
-    "lang": "es",
-    "xmltv_id": "CanalSurAndalucia.es@SD"
-  },
-  {
-    "site_id": "tvmax",
-    "name": "9 de Panamá",
-    "lang": "es",
-    "xmltv_id": "TVMax.pa@SD"
-  },
-  {
-    "site_id": "tvunam",
-    "name": "TVUNAM",
-    "lang": "es",
-    "xmltv_id": "TVUNAM.mx@SD"
-  },
-  {
-    "site_id": "ultra_cine",
-    "name": "Ultra Cine",
-    "lang": "es"
-  },
-  {
-    "site_id": "viendomovies",
-    "name": "ViendoMovies",
-    "lang": "es",
-    "xmltv_id": "ViendoMovies.us@SD"
-  },
-  {
-    "site_id": "be_mad",
-    "name": "Be Mad",
-    "lang": "es",
-    "xmltv_id": "BeMad.es@SD"
-  },
-  {
-    "site_id": "gamavision",
-    "name": "Gamavisión",
-    "lang": "es",
-    "xmltv_id": "Gamavision.ec@SD"
-  },
-  {
-    "site_id": "sony_centro",
-    "name": "Sony Centro",
-    "lang": "es"
-  },
-  {
-    "site_id": "13_de_costa_rica",
-    "name": "13 de Costa Rica",
-    "lang": "es"
-  },
-  {
-    "site_id": "atreseries_internacional",
-    "name": "Atreseries Internacional",
-    "lang": "es",
-    "xmltv_id": "AtreseriesInternacional.es@SD"
-  },
-  {
-    "site_id": "mc",
-    "name": "MC",
-    "lang": "es",
-    "xmltv_id": "MC.mx@SD"
-  },
-  {
-    "site_id": "snt",
-    "name": "SNT",
-    "lang": "es",
-    "xmltv_id": "SNT.py@SD"
-  },
-  {
-    "site_id": "tc_television",
-    "name": "TC Televisión",
-    "lang": "es"
-  },
-  {
-    "site_id": "7_de_guatemala",
-    "name": "7 de Guatemala",
-    "lang": "es",
-    "xmltv_id": "Televisiete.gt@SD"
-  },
-  {
-    "site_id": "discovery_world_latinoamerica",
-    "name": "Discovery World Lat.",
-    "lang": "es",
-    "xmltv_id": "DiscoveryWorld.us@LatinAmerica"
-  },
-  {
-    "site_id": "distrito_comedia",
-    "name": "Distrito Comedia",
-    "lang": "es",
-    "xmltv_id": "DistritoComedia.mx@SD"
-  },
-  {
-    "site_id": "cartoonito_panregional",
-    "name": "Cartoonito Panregional",
-    "lang": "es"
-  },
-  {
-    "site_id": "babyfirst_tv",
-    "name": "BabyFirst TV",
-    "lang": "es",
-    "xmltv_id": "BabyFirst.us@US"
-  },
-  {
-    "site_id": "inti_network",
-    "name": "Inti Network",
-    "lang": "es",
-    "xmltv_id": "IntiTV.ec@SD"
-  },
-  {
-    "site_id": "boing_espana",
-    "name": "Boing España",
-    "lang": "es",
-    "xmltv_id": "Boing.es@SD"
-  },
-  {
-    "site_id": "de_pelicula_m",
-    "name": "De Película MPX",
-    "lang": "es"
-  },
-  {
-    "site_id": "13_de_paraguay",
-    "name": "13 de Paraguay",
-    "lang": "es",
-    "xmltv_id": "Trece.py@SD"
-  },
-  {
-    "site_id": "cinecanal_mexico",
-    "name": "Cinecanal México",
-    "lang": "es",
-    "xmltv_id": "Cinecanal.us@Mexico"
-  },
-  {
-    "site_id": "espn_2_mexico",
-    "name": "ESPN 2 México",
-    "lang": "es",
-    "xmltv_id": "ESPN2LatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "hln",
-    "name": "HLN",
-    "lang": "es",
-    "xmltv_id": "HLN.us@SD"
-  },
-  {
-    "site_id": "mtv_live_hd",
-    "name": "MTV Live HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "ve_plus_estados_unidos",
-    "name": "Ve Plus Estados Unidos",
-    "lang": "es",
-    "xmltv_id": "VePlus.ve@US"
-  },
-  {
-    "site_id": "15_republica_dominicana",
-    "name": "15 de República Dominicana",
-    "lang": "es",
-    "xmltv_id": "Digital15.do@SD"
-  },
-  {
-    "site_id": "hbo_plus",
-    "name": "HBO Plus",
-    "lang": "es",
-    "xmltv_id": "HBOPlusLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "el_financiero_tv",
-    "name": "El Financiero TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "rcn_colombia",
-    "name": "RCN Colombia",
-    "lang": "es"
-  },
-  {
-    "site_id": "a_y_e_chile",
-    "name": "A\u0026E Chile",
-    "lang": "es",
-    "xmltv_id": "AELatinAmerica.us@Chile"
-  },
-  {
-    "site_id": "axn_sur",
-    "name": "AXN Sur",
-    "lang": "es",
-    "xmltv_id": "AXNLatinAmerica.us@South"
-  },
-  {
-    "site_id": "telecafe",
-    "name": "Telecafé",
-    "lang": "es",
-    "xmltv_id": "Telecafe.co@SD"
-  },
-  {
-    "site_id": "tnt_sur",
-    "name": "TNT Sur",
-    "lang": "es",
-    "xmltv_id": "TNTLatinAmerica.us@South"
-  },
-  {
-    "site_id": "zoom_colombia",
-    "name": "ZOOM Colombia",
-    "lang": "es",
-    "xmltv_id": "Zoom.co@SD"
-  },
-  {
-    "site_id": "cdn_deportes",
-    "name": "CDN Deportes",
-    "lang": "es",
-    "xmltv_id": "CDNDeportes.do@SD"
-  },
-  {
-    "site_id": "nick_junior_latinoamerica",
-    "name": "Nick Jr. Latinoamérica",
-    "lang": "es"
-  },
-  {
-    "site_id": "teleamazonas",
-    "name": "Teleamazonas",
-    "lang": "es",
-    "xmltv_id": "Teleamazonas.ec@SD"
-  },
-  {
-    "site_id": "tlnovelas_latinoamerica",
-    "name": "TLNovelas LATAM",
-    "lang": "es",
-    "xmltv_id": "TlnovelasLatinAmerica.mx@SD"
-  },
-  {
-    "site_id": "tlnovelas_mexico",
-    "name": "TLNovelas México",
-    "lang": "es",
-    "xmltv_id": "TlnovelasMexico.mx@SD"
-  },
-  {
-    "site_id": "12_de_el_salvador",
-    "name": "12 de El Salvador",
-    "lang": "es",
-    "xmltv_id": "Canal12.sv@SD"
-  },
-  {
-    "site_id": "disney_channel_espana",
-    "name": "Disney Channel España",
-    "lang": "es",
-    "xmltv_id": "DisneyChannel.es@SD"
-  },
-  {
-    "site_id": "estrella_tv",
-    "name": "Estrella TV",
-    "lang": "es",
-    "xmltv_id": "EstrellaTV.us@SD"
-  },
-  {
-    "site_id": "fx_mexico",
-    "name": "FX México",
-    "lang": "es",
-    "xmltv_id": "FX.mx@SD"
-  },
-  {
-    "site_id": "real_madrid_tv",
-    "name": "Real Madrid TV",
-    "lang": "es",
-    "xmltv_id": "RealMadridTV.es@SD"
-  },
-  {
-    "site_id": "2_de_republica_dominicana_teleantillas",
-    "name": "2 de República Dominicana",
-    "lang": "es",
-    "xmltv_id": "TeleAntillas.do@SD"
-  },
-  {
-    "site_id": "fox_deportes",
-    "name": "Fox Deportes",
-    "lang": "es",
-    "xmltv_id": "FoxDeportes.us@SD"
-  },
-  {
-    "site_id": "history_panregional",
-    "name": "History Panregional",
-    "lang": "es",
-    "xmltv_id": "HistoryLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "ewtn_en_espanol",
-    "name": "EWTN en Español",
-    "lang": "es"
-  },
-  {
-    "site_id": "4_de_panama",
-    "name": "4 de Panamá",
-    "lang": "es",
-    "xmltv_id": "RPCTV.pa@SD"
-  },
-  {
-    "site_id": "universo",
-    "name": "Universo",
-    "lang": "es",
-    "xmltv_id": "NBCUniverso.us@East"
-  },
-  {
-    "site_id": "animal_planet_sur",
-    "name": "Animal Planet Sur",
-    "lang": "es"
-  },
-  {
-    "site_id": "excelsior_tv",
-    "name": "Excelsior TV",
-    "lang": "es",
-    "xmltv_id": "ExcelsiorTV.mx@SD"
-  },
-  {
-    "site_id": "star_tve",
-    "name": "Star TVE",
-    "lang": "es"
-  },
-  {
-    "site_id": "tru_tv",
-    "name": "truTV Lat.",
-    "lang": "es",
-    "xmltv_id": "truTVLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "afizzionados",
-    "name": "Afizzionados",
-    "lang": "es",
-    "xmltv_id": "Afizzionados.mx@SD"
-  },
-  {
-    "site_id": "futv",
-    "name": "FUTV",
-    "lang": "es",
-    "xmltv_id": "FUTV.cr@SD"
-  },
-  {
-    "site_id": "ntn24_nuestra_tele_noticias",
-    "name": "NTN24",
-    "lang": "es",
-    "xmltv_id": "NTN24.co@SD"
-  },
-  {
-    "site_id": "paramount_channel_espana",
-    "name": "Paramount Channel ES",
-    "lang": "es",
-    "xmltv_id": "ParamountNetwork.es@SD"
-  },
-  {
-    "site_id": "tnt_series",
-    "name": "TNT Series Lat.",
-    "lang": "es"
-  },
-  {
-    "site_id": "5_de_republica_dominicana_telemicro",
-    "name": "Telemicro",
-    "lang": "es",
-    "xmltv_id": "Telemicro.do@SD"
-  },
-  {
-    "site_id": "national_geographic_mexico",
-    "name": "National Geographic México",
-    "lang": "es",
-    "xmltv_id": "NationalGeographic.mx@SD"
-  },
-  {
-    "site_id": "nickmusic",
-    "name": "NickMusic",
-    "lang": "es",
-    "xmltv_id": "NickMusic.us@SD"
-  },
-  {
-    "site_id": "tcm_panregional",
-    "name": "TCM Panregional",
-    "lang": "es",
-    "xmltv_id": "TCMLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "tnt_novelas_latinoamerica",
-    "name": "TNT Novelas LATAM",
-    "lang": "es"
-  },
-  {
-    "site_id": "de_las_estrellas_mexico",
-    "name": "2 de México",
-    "lang": "es",
-    "xmltv_id": "LasEstrellas.mx@SD"
-  },
-  {
-    "site_id": "la_red_chile",
-    "name": "La Red Chile",
-    "lang": "es"
-  },
-  {
-    "site_id": "via_x",
-    "name": "Vía X",
-    "lang": "es",
-    "xmltv_id": "ViaX.cl@SD"
-  },
-  {
-    "site_id": "cine_estelar",
-    "name": "Cine Estelar",
-    "lang": "es",
-    "xmltv_id": "CineEstelar.us@SD"
-  },
-  {
-    "site_id": "espn_3_norte",
-    "name": "ESPN 3 Norte",
-    "lang": "es"
-  },
-  {
-    "site_id": "gol_play_espana",
-    "name": "Gol Play España",
-    "lang": "es"
-  },
-  {
-    "site_id": "golden_panregional",
-    "name": "Golden Panregional",
-    "lang": "es",
-    "xmltv_id": "Golden.mx@Panregional"
-  },
-  {
-    "site_id": "vh1",
-    "name": "VH1 Lat.",
-    "lang": "es"
-  },
-  {
-    "site_id": "azteca_7",
-    "name": "Azteca 7",
-    "lang": "es",
-    "xmltv_id": "Azteca7.mx@SD"
-  },
-  {
-    "site_id": "lifetime_mexico",
-    "name": "Lifetime México",
-    "lang": "es",
-    "xmltv_id": "LifetimeLatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "mexiquense_tv",
-    "name": "Mexiquense TV",
-    "lang": "es",
-    "xmltv_id": "MexiquenseTV.mx@SD"
-  },
-  {
-    "site_id": "11_de_mexico",
-    "name": "11 de México",
-    "lang": "es",
-    "xmltv_id": "XEIPNTDT.mx@SD"
-  },
-  {
-    "site_id": "canal_9_noticias_paraguay",
-    "name": "9 Noticias Paraguay",
-    "lang": "es",
-    "xmltv_id": "C9N.py@SD"
-  },
-  {
-    "site_id": "eurosport_2_espana",
-    "name": "Eurosport 2 España",
-    "lang": "es",
-    "xmltv_id": "Eurosport2.fr@Spain"
-  },
-  {
-    "site_id": "telefuturo",
-    "name": "Telefuturo",
-    "lang": "es",
-    "xmltv_id": "Telefuturo.py@SD"
-  },
-  {
-    "site_id": "bet_jams",
-    "name": "BET Jams",
-    "lang": "es",
-    "xmltv_id": "BETJams.us@SD"
-  },
-  {
-    "site_id": "cinelatino",
-    "name": "Cinelatino",
-    "lang": "es",
-    "xmltv_id": "CineLatino.mx@SD"
-  },
-  {
-    "site_id": "city_tv",
-    "name": "City TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "clic",
-    "name": "Clic",
-    "lang": "es"
-  },
-  {
-    "site_id": "discovery_kids_chile",
-    "name": "Discovery Kids Chile",
-    "lang": "es",
-    "xmltv_id": "DiscoveryKidsLatinAmerica.us@Chile"
-  },
-  {
-    "site_id": "star_channel_centro",
-    "name": "Star Channel Centro",
-    "lang": "es"
-  },
-  {
-    "site_id": "adrenalina_sports_network",
-    "name": "Adrenalina Sports Network",
-    "lang": "es",
-    "xmltv_id": "AdrenalinaSportsNetwork.us@SD"
-  },
-  {
-    "site_id": "espn_2_sur",
-    "name": "ESPN 2 Sur",
-    "lang": "es"
-  },
-  {
     "site_id": "sur_tv_itapua_paraguay",
     "name": "Sur TV Itapúa Paraguay",
     "lang": "es",
     "xmltv_id": "SURTVItapua.py@SD"
   },
   {
-    "site_id": "universal_premiere",
-    "name": "Universal Premiere",
-    "lang": "es",
-    "xmltv_id": "UniversalPremiere.us@East"
-  },
-  {
-    "site_id": "video_rola",
-    "name": "Video Rola",
-    "lang": "es",
-    "xmltv_id": "VideoRola.mx@SD"
-  },
-  {
-    "site_id": "cnn_en_espanol",
-    "name": "CNN en Español",
-    "lang": "es",
-    "xmltv_id": "CNNenEspanol.us@SD"
-  },
-  {
-    "site_id": "telecentro_tv",
-    "name": "Telecentro TV",
-    "lang": "es",
-    "xmltv_id": "TeleCentro.us@SD"
-  },
-  {
-    "site_id": "teledeporte",
-    "name": "Teledeporte",
-    "lang": "es",
-    "xmltv_id": "Teledeporte.es@SD"
-  },
-  {
-    "site_id": "agrotendencia_tv",
-    "name": "Agrotendencia TV",
-    "lang": "es",
-    "xmltv_id": "AgrotendenciaTV.cr@SD"
-  },
-  {
-    "site_id": "cuatro_de_espana",
-    "name": "Cuatro de España",
-    "lang": "es",
-    "xmltv_id": "Cuatro.es@SD"
-  },
-  {
-    "site_id": "las_estrellas_latinoamerica",
-    "name": "Las Estrellas LATAM",
-    "lang": "es",
-    "xmltv_id": "LasEstrellasLatinAmerica.mx@SD"
-  },
-  {
-    "site_id": "6_de_puerto_rico",
-    "name": "WIPR",
-    "lang": "es",
-    "xmltv_id": "WIPRDT1.pr@SD"
-  },
-  {
-    "site_id": "dhe",
-    "name": "DHE",
-    "lang": "es",
-    "xmltv_id": "DHE.us@SD"
-  },
-  {
-    "site_id": "esne_tv",
-    "name": "ESNE TV",
-    "lang": "es",
-    "xmltv_id": "ESNETV.us@SD"
-  },
-  {
-    "site_id": "golf_channel_latinoamerica",
-    "name": "Golf Channel Latinoamérica",
-    "lang": "es",
-    "xmltv_id": "GolfChannelLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "nick_junior_espana",
-    "name": "Nick Jr. España",
-    "lang": "es",
-    "xmltv_id": "NickJr.es@SD"
-  },
-  {
-    "site_id": "px_sports",
-    "name": "PX Sports",
-    "lang": "es",
-    "xmltv_id": "PXSports.mx@SD"
-  },
-  {
-    "site_id": "tro",
-    "name": "Tro",
-    "lang": "es",
-    "xmltv_id": "CanalTRO.co@SD"
-  },
-  {
-    "site_id": "america_tv_argentina",
-    "name": "America TV Argentina",
-    "lang": "es",
-    "xmltv_id": "AmericaTV.ar@SD"
-  },
-  {
-    "site_id": "cine_nostalgia",
-    "name": "Cine Nostalgia",
-    "lang": "es",
-    "xmltv_id": "CineNostalgia.us@SD"
-  },
-  {
-    "site_id": "golden_premier",
-    "name": "Golden Premier",
-    "lang": "es",
-    "xmltv_id": "GoldenPremier.mx@SD"
-  },
-  {
-    "site_id": "ultra_kidz",
-    "name": "Ultra Kidz",
-    "lang": "es"
-  },
-  {
-    "site_id": "discovery_science_latinoamerica",
-    "name": "Discovery Science LATAM",
-    "lang": "es",
-    "xmltv_id": "DiscoveryScienceLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "discovery_familia",
-    "name": "Discovery Familia",
-    "lang": "es",
-    "xmltv_id": "DiscoveryFamilia.us@SD"
-  },
-  {
-    "site_id": "nova",
-    "name": "Nova",
-    "lang": "es",
-    "xmltv_id": "Nova.es@SD"
-  },
-  {
-    "site_id": "13_de_republica_dominicana_telecentro",
-    "name": "13 de República Dominicana",
-    "lang": "es",
-    "xmltv_id": "Telecentro.do@SD"
-  },
-  {
-    "site_id": "comedy_central_mexico",
-    "name": "Comedy Central México",
-    "lang": "es"
-  },
-  {
-    "site_id": "discovery_kids_latinoamerica",
-    "name": "Discovery Kids LATAM",
-    "lang": "es"
-  },
-  {
-    "site_id": "concert_channel",
-    "name": "Concert Channel",
-    "lang": "es",
-    "xmltv_id": "ConcertChannel.us@SD"
-  },
-  {
-    "site_id": "disney_channel_mexico",
-    "name": "Disney Channel México",
-    "lang": "es",
-    "xmltv_id": "DisneyChannelLatinAmerica.ar@North"
-  },
-  {
-    "site_id": "13_de_colombia",
-    "name": "13 de Colombia",
-    "lang": "es",
-    "xmltv_id": "Trece.co@SD"
-  },
-  {
-    "site_id": "energy",
-    "name": "Energy",
-    "lang": "es",
-    "xmltv_id": "Energy.es@SD"
-  },
-  {
-    "site_id": "tudn_centroamerica",
-    "name": "TUDN Centroamérica",
-    "lang": "es"
-  },
-  {
-    "site_id": "universal_tv_panregional",
-    "name": "Universal TV Panregional",
-    "lang": "es",
-    "xmltv_id": "UniversalTVLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "warner_tv_mexico",
-    "name": "Warner TV México",
-    "lang": "es"
-  },
-  {
-    "site_id": "hollywood_espana",
-    "name": "Hollywood España",
-    "lang": "es"
-  },
-  {
-    "site_id": "pakapaka",
-    "name": "Pakapaka",
-    "lang": "es",
-    "xmltv_id": "Pakapaka.ar@SD"
-  },
-  {
-    "site_id": "paramount_channel_latinoamerica",
-    "name": "Paramount Channel Lat.",
-    "lang": "es"
-  },
-  {
-    "site_id": "21_el_salvador",
-    "name": "12 de El Salvador",
-    "lang": "es",
-    "xmltv_id": "MegavisionCanal21.sv@SD"
-  },
-  {
-    "site_id": "gol_tv_estados_unidos",
-    "name": "Gol TV USA",
-    "lang": "es",
-    "xmltv_id": "GolTVUSA.us@SD"
-  },
-  {
-    "site_id": "golden_mexico",
-    "name": "Golden México",
-    "lang": "es"
-  },
-  {
-    "site_id": "tigo_sports_guatemala",
-    "name": "Tigo Sports Guatemala",
-    "lang": "es",
-    "xmltv_id": "TigoSports.gt@SD"
-  },
-  {
-    "site_id": "cnn_internacional",
-    "name": "CNN Internacional",
-    "lang": "es",
-    "xmltv_id": "CNNInternational.us@LatinAmerica"
-  },
-  {
-    "site_id": "de_pelicula_clasico",
-    "name": "De Película Clásico",
-    "lang": "es",
-    "xmltv_id": "DePeliculaClasico.mx@SD"
-  },
-  {
-    "site_id": "laotra",
-    "name": "laOtra",
-    "lang": "es",
-    "xmltv_id": "LaOtra.es@SD"
-  },
-  {
-    "site_id": "odisea",
-    "name": "Odisea",
-    "lang": "es",
-    "xmltv_id": "Odisea.es@SD"
-  },
-  {
-    "site_id": "calle_13",
-    "name": "Calle 13",
-    "lang": "es",
-    "xmltv_id": "Calle13Universal.es@SD"
-  },
-  {
-    "site_id": "cinelatino_u_s_a",
-    "name": "Cinelatino USA",
+    "site_id": "baby_tv_latinoamerica",
+    "name": "Baby TV Latam.",
     "lang": "es"
   },
   {
@@ -2195,72 +1162,170 @@
     "xmltv_id": "ESPNLatinAmerica.us@Mexico"
   },
   {
-    "site_id": "hbo_xtreme",
-    "name": "HBO Xtreme",
+    "site_id": "mtv_sur",
+    "name": "MTV Sur",
     "lang": "es",
-    "xmltv_id": "HBOXtremeLatinAmerica.us@SD"
+    "xmltv_id": "MTVLatinAmerica.us@Panregional"
   },
   {
-    "site_id": "tlc_panregional",
-    "name": "TLC Panregional",
+    "site_id": "nhk_world",
+    "name": "NHK World",
     "lang": "es",
-    "xmltv_id": "TLCLatinAmerica.us@Panregional"
+    "xmltv_id": "NHKWorldJapan.jp@SD"
   },
   {
-    "site_id": "tn23",
-    "name": "TN23",
+    "site_id": "paramount_channel_mexico",
+    "name": "Paramount Channel México",
     "lang": "es"
   },
   {
-    "site_id": "5_mexico",
-    "name": "5 de México",
+    "site_id": "13_de_guatemala",
+    "name": "13 de Guatemala",
     "lang": "es"
   },
   {
-    "site_id": "6_de_el_salvador",
-    "name": "6 de El Salvador",
+    "site_id": "a_y_e_mexico",
+    "name": "A\u0026E México",
     "lang": "es",
-    "xmltv_id": "Canal6.sv@SD"
+    "xmltv_id": "AELatinAmerica.us@Mexico"
   },
   {
-    "site_id": "amc_crime",
-    "name": "AMC Crime",
+    "site_id": "sorpresa",
+    "name": "Sorpresa",
     "lang": "es",
-    "xmltv_id": "AMCCrime.es@SD"
+    "xmltv_id": "Sorpresa.us@SD"
   },
   {
-    "site_id": "cartoon_network_mexico",
-    "name": "Cartoon Network México",
+    "site_id": "syfy_espana",
+    "name": "Syfy España",
     "lang": "es",
-    "xmltv_id": "CartoonNetworkLatinAmerica.us@Mexico"
+    "xmltv_id": "Syfy.es@SD"
   },
   {
-    "site_id": "galicia_tv",
-    "name": "Galicia TV",
+    "site_id": "tro",
+    "name": "Tro",
+    "lang": "es",
+    "xmltv_id": "CanalTRO.co@SD"
+  },
+  {
+    "site_id": "castilla-la_mancha",
+    "name": "Castilla-La Mancha Media",
+    "lang": "es",
+    "xmltv_id": "CMMTV.es@SD"
+  },
+  {
+    "site_id": "esne_tv",
+    "name": "ESNE TV",
+    "lang": "es",
+    "xmltv_id": "ESNETV.us@SD"
+  },
+  {
+    "site_id": "nickelodeon_mexico",
+    "name": "Nickelodeon México",
     "lang": "es"
   },
   {
-    "site_id": "tnt_sports_2_chile",
-    "name": "TNT Sports 2 Chile",
+    "site_id": "unicanal",
+    "name": "Unicanal",
     "lang": "es",
-    "xmltv_id": "TNTSports2.cl@SD"
+    "xmltv_id": "Unicanal.py@SD"
   },
   {
-    "site_id": "atv",
-    "name": "ATV",
+    "site_id": "adn_40",
+    "name": "ADN 40",
     "lang": "es",
-    "xmltv_id": "ATV.pe@SD"
+    "xmltv_id": "ADN40.mx@SD"
   },
   {
-    "site_id": "clan_tve",
-    "name": "Clan TVE",
+    "site_id": "concert_channel",
+    "name": "Concert Channel",
     "lang": "es",
-    "xmltv_id": "Clan.es@SD"
+    "xmltv_id": "ConcertChannel.us@SD"
   },
   {
-    "site_id": "de_las_estrellas_-2h_mexico",
-    "name": "las Estrellas -2 Horas",
+    "site_id": "starz_encore_espanol",
+    "name": "Starz Encore Español",
     "lang": "es"
+  },
+  {
+    "site_id": "tvmax",
+    "name": "9 de Panamá",
+    "lang": "es",
+    "xmltv_id": "TVMax.pa@SD"
+  },
+  {
+    "site_id": "discovery_home_and_health_colombia",
+    "name": "Discovery Home \u0026 Health Colombia",
+    "lang": "es"
+  },
+  {
+    "site_id": "espn_colombia",
+    "name": "ESPN Colombia",
+    "lang": "es",
+    "xmltv_id": "ESPNLatinAmerica.us@Colombia"
+  },
+  {
+    "site_id": "univision_latinoamerica",
+    "name": "Univision Latinoamérica",
+    "lang": "es"
+  },
+  {
+    "site_id": "america_tv_argentina",
+    "name": "America TV Argentina",
+    "lang": "es",
+    "xmltv_id": "AmericaTV.ar@SD"
+  },
+  {
+    "site_id": "axn_espana",
+    "name": "AXN ES",
+    "lang": "es",
+    "xmltv_id": "AXN.es@SD"
+  },
+  {
+    "site_id": "tigo_sports_costa_rica",
+    "name": "Tigo Sports Costa Rica",
+    "lang": "es",
+    "xmltv_id": "TigoSports.cr@SD"
+  },
+  {
+    "site_id": "1_colombia",
+    "name": "1 Colombia",
+    "lang": "es",
+    "xmltv_id": "Canal1.co@SD"
+  },
+  {
+    "site_id": "de_las_estrellas_mexico",
+    "name": "2 de México",
+    "lang": "es",
+    "xmltv_id": "LasEstrellas.mx@SD"
+  },
+  {
+    "site_id": "much_music",
+    "name": "Much Music",
+    "lang": "es"
+  },
+  {
+    "site_id": "agrotendencia_tv",
+    "name": "Agrotendencia TV",
+    "lang": "es",
+    "xmltv_id": "AgrotendenciaTV.cr@SD"
+  },
+  {
+    "site_id": "telecafe",
+    "name": "Telecafé",
+    "lang": "es",
+    "xmltv_id": "Telecafe.co@SD"
+  },
+  {
+    "site_id": "ve_plus_latinoamerica",
+    "name": "Ve Plus LATAM",
+    "lang": "es"
+  },
+  {
+    "site_id": "axn_sur",
+    "name": "AXN Sur",
+    "lang": "es",
+    "xmltv_id": "AXNLatinAmerica.us@South"
   },
   {
     "site_id": "discovery_channel_espana",
@@ -2274,78 +1339,16 @@
     "lang": "es"
   },
   {
-    "site_id": "adn_40",
-    "name": "ADN 40",
+    "site_id": "21_el_salvador",
+    "name": "12 de El Salvador",
     "lang": "es",
-    "xmltv_id": "ADN40.mx@SD"
+    "xmltv_id": "MegavisionCanal21.sv@SD"
   },
   {
-    "site_id": "canal_cocina",
-    "name": "Cocina",
+    "site_id": "adrenalina_sports_network",
+    "name": "Adrenalina Sports Network",
     "lang": "es",
-    "xmltv_id": "CanalCocina.es@SD"
-  },
-  {
-    "site_id": "la_sexta",
-    "name": "La Sexta",
-    "lang": "es",
-    "xmltv_id": "LaSexta.es@SD"
-  },
-  {
-    "site_id": "9_republica_dominicana",
-    "name": "9 de República Dominicana",
-    "lang": "es",
-    "xmltv_id": "ColorVision.do@SD"
-  },
-  {
-    "site_id": "foro_tv",
-    "name": "Foro TV",
-    "lang": "es",
-    "xmltv_id": "Foro.mx@SD"
-  },
-  {
-    "site_id": "hbo_mundi",
-    "name": "HBO Mundi",
-    "lang": "es",
-    "xmltv_id": "HBOMundiLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "starz_encore_espanol",
-    "name": "Starz Encore Español",
-    "lang": "es"
-  },
-  {
-    "site_id": "discovery_home_and_health_colombia",
-    "name": "Discovery Home \u0026 Health Colombia",
-    "lang": "es"
-  },
-  {
-    "site_id": "historia_espana",
-    "name": "Historia España",
-    "lang": "es",
-    "xmltv_id": "Historia.es@SD"
-  },
-  {
-    "site_id": "fox_sports_3_cono_sur",
-    "name": "Fox Sports 3 Cono Sur",
-    "lang": "es"
-  },
-  {
-    "site_id": "13_de_panama",
-    "name": "Telemetro",
-    "lang": "es",
-    "xmltv_id": "Telemetro.pa@SD"
-  },
-  {
-    "site_id": "animal_planet_mexico",
-    "name": "Animal Planet México",
-    "lang": "es"
-  },
-  {
-    "site_id": "bandamax",
-    "name": "Bandamax",
-    "lang": "es",
-    "xmltv_id": "Bandamax.mx@SD"
+    "xmltv_id": "AdrenalinaSportsNetwork.us@SD"
   },
   {
     "site_id": "hbo_signature_latinoamerica",
@@ -2354,33 +1357,16 @@
     "xmltv_id": "HBOSignatureLatinAmerica.us@SD"
   },
   {
-    "site_id": "space_mexico",
-    "name": "Space México",
+    "site_id": "mega_chile",
+    "name": "Mega Chile",
     "lang": "es",
-    "xmltv_id": "Space.ar@Mexico"
+    "xmltv_id": "Mega.cl@SD"
   },
   {
-    "site_id": "tooncast",
-    "name": "Tooncast",
+    "site_id": "sony_mexico",
+    "name": "Sony México",
     "lang": "es",
-    "xmltv_id": "Tooncast.us@SD"
-  },
-  {
-    "site_id": "4_de_el_salvador",
-    "name": "4 de El Salvador",
-    "lang": "es",
-    "xmltv_id": "Canal4.sv@SD"
-  },
-  {
-    "site_id": "9_de_mexico",
-    "name": "9 de México",
-    "lang": "es"
-  },
-  {
-    "site_id": "13_de_chile",
-    "name": "13 de Chile",
-    "lang": "es",
-    "xmltv_id": "Canal13.cl@SD"
+    "xmltv_id": "SonyChannel.mx@SD"
   },
   {
     "site_id": "22_mexico",
@@ -2389,191 +1375,154 @@
     "xmltv_id": "XEIMTTDT2.mx@SD"
   },
   {
-    "site_id": "azteca_guatemala",
-    "name": "Azteca Guate",
+    "site_id": "energy",
+    "name": "Energy",
     "lang": "es",
-    "xmltv_id": "AztecaGuatemala.gt@SD"
+    "xmltv_id": "Energy.es@SD"
   },
   {
-    "site_id": "panico",
-    "name": "Pánico",
+    "site_id": "la_2",
+    "name": "La 2",
     "lang": "es",
-    "xmltv_id": "Panico.mx@SD"
+    "xmltv_id": "La2.es@SD"
   },
   {
-    "site_id": "space_chile",
-    "name": "Space Chile",
+    "site_id": "teledeporte",
+    "name": "Teledeporte",
+    "lang": "es",
+    "xmltv_id": "Teledeporte.es@SD"
+  },
+  {
+    "site_id": "telefe_internacional",
+    "name": "Telefe Internacional",
+    "lang": "es",
+    "xmltv_id": "TelefeInternacional.ar@SD"
+  },
+  {
+    "site_id": "tudn_centroamerica",
+    "name": "TUDN Centroamérica",
     "lang": "es"
   },
   {
-    "site_id": "telecaribe",
-    "name": "Telecaribe",
+    "site_id": "4_guadalajara",
+    "name": "4 de Guadalajara",
     "lang": "es",
-    "xmltv_id": "Telecaribe.co@SD"
+    "xmltv_id": "TelevisaGuadalajara.mx@SD"
   },
   {
-    "site_id": "sky_sports_1_mexico",
-    "name": "Sky Sports 1 México",
+    "site_id": "fx_chile",
+    "name": "FX Chile",
     "lang": "es",
-    "xmltv_id": "SkySports1.mx@SD"
+    "xmltv_id": "FX.cl@SD"
   },
   {
-    "site_id": "tudn_mexico",
-    "name": "TUDN México",
+    "site_id": "ntn24_nuestra_tele_noticias",
+    "name": "NTN24",
     "lang": "es",
-    "xmltv_id": "TUDN.mx@SD"
+    "xmltv_id": "NTN24.co@SD"
   },
   {
-    "site_id": "universal_comedy",
-    "name": "Universal Comedy",
-    "lang": "es",
-    "xmltv_id": "UniversalComedy.us@SD"
-  },
-  {
-    "site_id": "24_horas_tve",
-    "name": "24 Horas",
-    "lang": "es",
-    "xmltv_id": "24Horas.es@SD"
-  },
-  {
-    "site_id": "bitme",
-    "name": "BitMe",
-    "lang": "es",
-    "xmltv_id": "bitMe.mx@SD"
-  },
-  {
-    "site_id": "paravision",
-    "name": "Paravisión",
-    "lang": "es",
-    "xmltv_id": "Paravision.py@SD"
-  },
-  {
-    "site_id": "sky_one_mexico",
-    "name": "Sky One México",
-    "lang": "es",
-    "xmltv_id": "SkyOne.mx@SD"
-  },
-  {
-    "site_id": "13_de_puerto_rico",
-    "name": "13 de Puerto Rico",
-    "lang": "es",
-    "xmltv_id": "WORODT1.pr@SD"
-  },
-  {
-    "site_id": "aprende",
-    "name": "Aprende",
-    "lang": "es",
-    "xmltv_id": "AprendeTV.mx@SD"
-  },
-  {
-    "site_id": "axn_espana",
-    "name": "AXN ES",
-    "lang": "es",
-    "xmltv_id": "AXN.es@SD"
-  },
-  {
-    "site_id": "5_el_lider_honduras",
-    "name": "5 de Honduras",
-    "lang": "es",
-    "xmltv_id": "Canal5ElLider.hn@SD"
-  },
-  {
-    "site_id": "antena_3",
-    "name": "Antena 3 Internacional",
-    "lang": "es",
-    "xmltv_id": "Antena3Internacional.es@SD"
-  },
-  {
-    "site_id": "discovery_kids_mexico",
-    "name": "Discovery Kids MX",
-    "lang": "es",
-    "xmltv_id": "DiscoveryKidsLatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "hbo_chile",
-    "name": "HBO Chile",
+    "site_id": "ultra_kidz",
+    "name": "Ultra Kidz",
     "lang": "es"
   },
   {
-    "site_id": "tsi_honduras",
-    "name": "Telesistema Informativo (TSI)",
+    "site_id": "12_de_el_salvador",
+    "name": "12 de El Salvador",
     "lang": "es",
-    "xmltv_id": "TSi.hn@SD"
+    "xmltv_id": "Canal12.sv@SD"
   },
   {
-    "site_id": "tyc_sports",
-    "name": "TyC Sports",
+    "site_id": "cnn_chile",
+    "name": "CNN Chile",
     "lang": "es",
-    "xmltv_id": "TyCSports.ar@SD"
+    "xmltv_id": "CNNChile.cl@SD"
   },
   {
-    "site_id": "ultra_fiesta",
-    "name": "Ultra Fiesta",
+    "site_id": "fx_centro",
+    "name": "FX Centro",
     "lang": "es"
   },
   {
-    "site_id": "24_horas_chile",
-    "name": "24 Horas Chile",
-    "lang": "es",
-    "xmltv_id": "24Horas.cl@SD"
-  },
-  {
-    "site_id": "cartoon_network_atlantico_sur",
-    "name": "Cartoon Network Atlántico Sur",
-    "lang": "es",
-    "xmltv_id": "CartoonNetworkLatinAmerica.us@SouthAtlantic"
-  },
-  {
-    "site_id": "mega_espana",
-    "name": "Mega España",
-    "lang": "es",
-    "xmltv_id": "Mega.es@SD"
-  },
-  {
-    "site_id": "2_de_panama",
-    "name": "2 de Panamá",
-    "lang": "es",
-    "xmltv_id": "TVN.pa@SD"
-  },
-  {
-    "site_id": "de_las_estrellas_-1h_mexico",
-    "name": "las Estrellas - 1 Hora",
+    "site_id": "mas_chic_latinoamerica",
+    "name": "Más Chic Lat.",
     "lang": "es"
   },
   {
-    "site_id": "discovery_theater_latinoamerica",
-    "name": "Discovery Theater LATAM.",
+    "site_id": "tlc_panregional",
+    "name": "TLC Panregional",
     "lang": "es",
-    "xmltv_id": "DiscoveryTheaterLatinAmerica.us@SD"
+    "xmltv_id": "TLCLatinAmerica.us@Panregional"
   },
   {
-    "site_id": "extra_tv_42_de_costa_rica",
-    "name": "42 de Costa Rica",
+    "site_id": "tnt_pacifico",
+    "name": "TNT Pacífico",
     "lang": "es",
-    "xmltv_id": "ExtraTV42.cr@SD"
+    "xmltv_id": "TNT.us@West"
   },
   {
-    "site_id": "tr3s",
-    "name": "Tr3s",
+    "site_id": "babyfirst_tv",
+    "name": "BabyFirst TV",
+    "lang": "es",
+    "xmltv_id": "BabyFirst.us@US"
+  },
+  {
+    "site_id": "discovery_world_latinoamerica",
+    "name": "Discovery World Lat.",
+    "lang": "es",
+    "xmltv_id": "DiscoveryWorld.us@LatinAmerica"
+  },
+  {
+    "site_id": "tnt_novelas_guatemala",
+    "name": "TNT Novelas GT",
     "lang": "es"
   },
   {
-    "site_id": "univision_tlnovelas",
-    "name": "Univision TLNovelas",
+    "site_id": "3_de_guatemala",
+    "name": "3 de Guatemala",
     "lang": "es",
-    "xmltv_id": "UnivisionTlnovelas.us@SD"
+    "xmltv_id": "Canal3.gt@SD"
   },
   {
-    "site_id": "etb_2",
-    "name": "ETB 2",
-    "lang": "es",
-    "xmltv_id": "ETB2.es@SD"
+    "site_id": "animal_planet_sur",
+    "name": "Animal Planet Sur",
+    "lang": "es"
   },
   {
-    "site_id": "rts",
-    "name": "RTS",
+    "site_id": "foro_tv",
+    "name": "Foro TV",
     "lang": "es",
-    "xmltv_id": "RTS.ec@SD"
+    "xmltv_id": "Foro.mx@SD"
+  },
+  {
+    "site_id": "hbo_latinoamerica",
+    "name": "HBO Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "HBOLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "nickmusic",
+    "name": "NickMusic",
+    "lang": "es",
+    "xmltv_id": "NickMusic.us@SD"
+  },
+  {
+    "site_id": "tru_tv",
+    "name": "truTV Lat.",
+    "lang": "es",
+    "xmltv_id": "truTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "espn_2_colombia",
+    "name": "ESPN 2 Colombia",
+    "lang": "es",
+    "xmltv_id": "ESPN2LatinAmerica.us@Colombia"
+  },
+  {
+    "site_id": "sky_sports_16",
+    "name": "Sky Sports 16",
+    "lang": "es",
+    "xmltv_id": "SkySports16.mx@SD"
   },
   {
     "site_id": "television_publica",
@@ -2582,57 +1531,61 @@
     "xmltv_id": "TVPublica.ar@SD"
   },
   {
-    "site_id": "tlc_mexico",
-    "name": "TLC MX",
-    "lang": "es",
-    "xmltv_id": "TLCLatinAmerica.us@Mexico"
-  },
-  {
-    "site_id": "cartoon_network_atlantico_norte",
-    "name": "Cartoon Network Atlántico Norte",
-    "lang": "es",
-    "xmltv_id": "CartoonNetworkLatinAmerica.us@NorthAtlantic"
-  },
-  {
-    "site_id": "telemundo_mexico",
-    "name": "Telemundo México",
-    "lang": "es",
-    "xmltv_id": "TelemundoInternacional.us@South"
-  },
-  {
-    "site_id": "universal_reality",
-    "name": "Universal Reality",
-    "lang": "es",
-    "xmltv_id": "UniversalReality.us@SD"
-  },
-  {
-    "site_id": "dw_latinoamerica",
-    "name": "DW Latam.",
+    "site_id": "euronews",
+    "name": "Euronews",
     "lang": "es"
   },
   {
-    "site_id": "hola_tv",
-    "name": "¡Hola! TV",
+    "site_id": "sky_sports_1_mexico",
+    "name": "Sky Sports 1 México",
     "lang": "es",
-    "xmltv_id": "HolaTV.us@SD"
+    "xmltv_id": "SkySports1.mx@SD"
   },
   {
-    "site_id": "institucional_colombia",
-    "name": "Institucional Colombia",
+    "site_id": "unicable",
+    "name": "Unicable MX",
     "lang": "es",
-    "xmltv_id": "CanalInstitucional.co@SD"
+    "xmltv_id": "Unicable.mx@SD"
   },
   {
-    "site_id": "movistar_comedia",
-    "name": "M+ Comedia",
+    "site_id": "univision_tlnovelas",
+    "name": "Univision TLNovelas",
     "lang": "es",
-    "xmltv_id": "ComediaporMovistarPlusPlus.es@SD"
+    "xmltv_id": "UnivisionTlnovelas.us@SD"
   },
   {
-    "site_id": "tv_azteca_mundo",
-    "name": "TV Azteca Mundo",
+    "site_id": "cinemax_panregional",
+    "name": "Cinemax Panregional",
     "lang": "es",
-    "xmltv_id": "AzMundo.mx@SD"
+    "xmltv_id": "CinemaxLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "discovery_familia",
+    "name": "Discovery Familia",
+    "lang": "es",
+    "xmltv_id": "DiscoveryFamilia.us@SD"
+  },
+  {
+    "site_id": "m_accion",
+    "name": "M+ Acción",
+    "lang": "es",
+    "xmltv_id": "AccionporMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "iberalia_tv",
+    "name": "Iberalia TV",
+    "lang": "es",
+    "xmltv_id": "IberaliaTV.es@SD"
+  },
+  {
+    "site_id": "mtv_mexico",
+    "name": "MTV México",
+    "lang": "es"
+  },
+  {
+    "site_id": "tnt_sports",
+    "name": "TNT Sports",
+    "lang": "es"
   },
   {
     "site_id": "vibra_tv",
@@ -2641,10 +1594,1128 @@
     "xmltv_id": "VibraTV.mx@SD"
   },
   {
+    "site_id": "14_de_mexico",
+    "name": "14 de México",
+    "lang": "es"
+  },
+  {
+    "site_id": "aym_sports",
+    "name": "AYM Sports",
+    "lang": "es",
+    "xmltv_id": "AyMSports.mx@SD"
+  },
+  {
+    "site_id": "cosmopolitan_espana",
+    "name": "Cosmopolitan España",
+    "lang": "es",
+    "xmltv_id": "COSMO.es@SD"
+  },
+  {
+    "site_id": "efekto_tv",
+    "name": "Efekto TV",
+    "lang": "es",
+    "xmltv_id": "EfektoTV.mx@SD"
+  },
+  {
+    "site_id": "fox_sports_2_cono_sur",
+    "name": "Fox Sports 2 Cono Sur",
+    "lang": "es"
+  },
+  {
+    "site_id": "tlnovelas_mexico",
+    "name": "TLNovelas México",
+    "lang": "es",
+    "xmltv_id": "TlnovelasMexico.mx@SD"
+  },
+  {
+    "site_id": "golf_channel_latinoamerica",
+    "name": "Golf Channel Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "GolfChannelLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "guatevision",
+    "name": "Guatevisión",
+    "lang": "es",
+    "xmltv_id": "Guatevision.gt@SD"
+  },
+  {
+    "site_id": "congreso_colombia",
+    "name": "Canal Congreso Colombia",
+    "lang": "es",
+    "xmltv_id": "CanalCongreso.co@SD"
+  },
+  {
+    "site_id": "tyc_sports",
+    "name": "TyC Sports",
+    "lang": "es",
+    "xmltv_id": "TyCSports.ar@SD"
+  },
+  {
+    "site_id": "vh1",
+    "name": "VH1 Lat.",
+    "lang": "es"
+  },
+  {
+    "site_id": "a_and_e_panregional",
+    "name": "A\u0026E PAN",
+    "lang": "es",
+    "xmltv_id": "AELatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "canal_9_noticias_paraguay",
+    "name": "9 Noticias Paraguay",
+    "lang": "es",
+    "xmltv_id": "C9N.py@SD"
+  },
+  {
+    "site_id": "space_panregional",
+    "name": "Space Panregional",
+    "lang": "es",
+    "xmltv_id": "Space.ar@Panregional"
+  },
+  {
+    "site_id": "history_2_mexico",
+    "name": "History 2 México",
+    "lang": "es",
+    "xmltv_id": "History2LatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "tv5monde",
+    "name": "TV5Monde",
+    "lang": "es",
+    "xmltv_id": "TV5MondeLatinAmerica.fr@SD"
+  },
+  {
+    "site_id": "tvunam",
+    "name": "TVUNAM",
+    "lang": "es",
+    "xmltv_id": "TVUNAM.mx@SD"
+  },
+  {
+    "site_id": "noticias_py",
+    "name": "Noticias PY",
+    "lang": "es",
+    "xmltv_id": "NPY.py@SD"
+  },
+  {
+    "site_id": "telehit_musica",
+    "name": "Telehit Música",
+    "lang": "es",
+    "xmltv_id": "TelehitMusica.mx@SD"
+  },
+  {
+    "site_id": "universal_cinema",
+    "name": "Universal Cinema",
+    "lang": "es",
+    "xmltv_id": "UniversalCinema.us@SD"
+  },
+  {
+    "site_id": "america_teve",
+    "name": "América TeVé",
+    "lang": "es",
+    "xmltv_id": "AmericaTeVe.pr@SD"
+  },
+  {
+    "site_id": "caracol_colombia",
+    "name": "Caracol Colombia",
+    "lang": "es",
+    "xmltv_id": "CaracolTV.co@SD"
+  },
+  {
+    "site_id": "hitn",
+    "name": "HITN",
+    "lang": "es",
+    "xmltv_id": "HITN.us@SD"
+  },
+  {
+    "site_id": "mtv_00s",
+    "name": "MTV 00s",
+    "lang": "es",
+    "xmltv_id": "MTV00s.uk@SD"
+  },
+  {
+    "site_id": "tlc_mexico",
+    "name": "TLC MX",
+    "lang": "es",
+    "xmltv_id": "TLCLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "hbo_latino_este",
+    "name": "HBO Latino Este",
+    "lang": "es",
+    "xmltv_id": "HBOLatino.us@East"
+  },
+  {
+    "site_id": "telecinco",
+    "name": "Telecinco",
+    "lang": "es",
+    "xmltv_id": "Telecinco.es@SD"
+  },
+  {
+    "site_id": "fox_deportes",
+    "name": "Fox Deportes",
+    "lang": "es",
+    "xmltv_id": "FoxDeportes.us@SD"
+  },
+  {
+    "site_id": "rcn_nuestra_tele_internacional",
+    "name": "RCN Internacional",
+    "lang": "es"
+  },
+  {
+    "site_id": "13_de_nicaragua",
+    "name": "13 de Nicaragua",
+    "lang": "es",
+    "xmltv_id": "VivaNicaraguaCanal13.ni@SD"
+  },
+  {
+    "site_id": "mexiquense_tv",
+    "name": "Mexiquense TV",
+    "lang": "es",
+    "xmltv_id": "MexiquenseTV.mx@SD"
+  },
+  {
+    "site_id": "mtv_80s",
+    "name": "MTV 80S",
+    "lang": "es",
+    "xmltv_id": "MTV80s.uk@SD"
+  },
+  {
+    "site_id": "ultra_film",
+    "name": "Ultra Film",
+    "lang": "es"
+  },
+  {
+    "site_id": "warner_tv_chile",
+    "name": "Warner TV Chile",
+    "lang": "es"
+  },
+  {
+    "site_id": "divinity",
+    "name": "Divinity",
+    "lang": "es",
+    "xmltv_id": "Divinity.es@SD"
+  },
+  {
     "site_id": "wobi",
     "name": "WOBI",
     "lang": "es",
     "xmltv_id": "WOBI.ar@SD"
+  },
+  {
+    "site_id": "11_de_mexico",
+    "name": "11 de México",
+    "lang": "es",
+    "xmltv_id": "XEIPNTDT.mx@SD"
+  },
+  {
+    "site_id": "antena_3",
+    "name": "Antena 3 Internacional",
+    "lang": "es",
+    "xmltv_id": "Antena3Internacional.es@SD"
+  },
+  {
+    "site_id": "cartoon_network_pacifico",
+    "name": "Cartoon Network Pacífico",
+    "lang": "es",
+    "xmltv_id": "CartoonNetwork.us@West"
+  },
+  {
+    "site_id": "discovery_kids_latinoamerica",
+    "name": "Discovery Kids LATAM",
+    "lang": "es"
+  },
+  {
+    "site_id": "dw_latinoamerica",
+    "name": "DW Latam.",
+    "lang": "es"
+  },
+  {
+    "site_id": "telesistema_11",
+    "name": "11 de República Dominicana",
+    "lang": "es",
+    "xmltv_id": "Telesistema11.do@SD"
+  },
+  {
+    "site_id": "tigo_sports_guatemala",
+    "name": "Tigo Sports Guatemala",
+    "lang": "es",
+    "xmltv_id": "TigoSports.gt@SD"
+  },
+  {
+    "site_id": "warner_tv_sur",
+    "name": "Warner TV Sur",
+    "lang": "es"
+  },
+  {
+    "site_id": "4_de_el_salvador",
+    "name": "4 de El Salvador",
+    "lang": "es",
+    "xmltv_id": "Canal4.sv@SD"
+  },
+  {
+    "site_id": "discovery_science_latinoamerica",
+    "name": "Discovery Science LATAM",
+    "lang": "es",
+    "xmltv_id": "DiscoveryScienceLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "espn_sur",
+    "name": "ESPN Sur",
+    "lang": "es"
+  },
+  {
+    "site_id": "galicia_tv",
+    "name": "Galicia TV",
+    "lang": "es"
+  },
+  {
+    "site_id": "paramount_channel_espana",
+    "name": "Paramount Channel ES",
+    "lang": "es",
+    "xmltv_id": "ParamountNetwork.es@SD"
+  },
+  {
+    "site_id": "paravision",
+    "name": "Paravisión",
+    "lang": "es",
+    "xmltv_id": "Paravision.py@SD"
+  },
+  {
+    "site_id": "telenostalgia",
+    "name": "Telenostalgia",
+    "lang": "es",
+    "xmltv_id": "TeleNostalgia.co@SD"
+  },
+  {
+    "site_id": "_vamos",
+    "name": "M+ #Vamos",
+    "lang": "es",
+    "xmltv_id": "VamosporMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "animal_planet_mexico",
+    "name": "Animal Planet México",
+    "lang": "es"
+  },
+  {
+    "site_id": "tooncast",
+    "name": "Tooncast",
+    "lang": "es",
+    "xmltv_id": "Tooncast.us@SD"
+  },
+  {
+    "site_id": "4_de_monterrey",
+    "name": "4 de Monterrey",
+    "lang": "es",
+    "xmltv_id": "XEFBTDT.mx@SD"
+  },
+  {
+    "site_id": "amc_espana",
+    "name": "AMC España",
+    "lang": "es",
+    "xmltv_id": "AMCEurope.uk@Spain"
+  },
+  {
+    "site_id": "etb_1",
+    "name": "ETB 1",
+    "lang": "es",
+    "xmltv_id": "ETB1.es@SD"
+  },
+  {
+    "site_id": "cinecanal_pacifico",
+    "name": "Cinecanal Pacífico",
+    "lang": "es",
+    "xmltv_id": "Cinecanal.us@Pacific"
+  },
+  {
+    "site_id": "espn_4_norte",
+    "name": "ESPN 4 Norte",
+    "lang": "es",
+    "xmltv_id": "ESPN4LatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "2_de_panama",
+    "name": "2 de Panamá",
+    "lang": "es",
+    "xmltv_id": "TVN.pa@SD"
+  },
+  {
+    "site_id": "13_de_argentina",
+    "name": "13 de Argentina",
+    "lang": "es",
+    "xmltv_id": "ElTrece.ar@SD"
+  },
+  {
+    "site_id": "be_mad",
+    "name": "Be Mad",
+    "lang": "es",
+    "xmltv_id": "BeMad.es@SD"
+  },
+  {
+    "site_id": "espn_4_chile",
+    "name": "ESPN 4 Chile",
+    "lang": "es",
+    "xmltv_id": "ESPN4LatinAmerica.us@South"
+  },
+  {
+    "site_id": "golden_premier_2",
+    "name": "Golden Premier 2",
+    "lang": "es",
+    "xmltv_id": "GoldenPremier2.mx@SD"
+  },
+  {
+    "site_id": "paramount_channel_latinoamerica",
+    "name": "Paramount Channel Lat.",
+    "lang": "es"
+  },
+  {
+    "site_id": "teleislas",
+    "name": "Teleislas",
+    "lang": "es",
+    "xmltv_id": "Teleislas.co@SD"
+  },
+  {
+    "site_id": "tnt_sports_3_chile",
+    "name": "TNT Sports 3 Chile",
+    "lang": "es",
+    "xmltv_id": "TNTSports3.cl@SD"
+  },
+  {
+    "site_id": "azteca_uno_1h",
+    "name": "Azteca Uno -1 h",
+    "lang": "es"
+  },
+  {
+    "site_id": "institucional_colombia",
+    "name": "Institucional Colombia",
+    "lang": "es",
+    "xmltv_id": "CanalInstitucional.co@SD"
+  },
+  {
+    "site_id": "odisea",
+    "name": "Odisea",
+    "lang": "es",
+    "xmltv_id": "Odisea.es@SD"
+  },
+  {
+    "site_id": "star_channel_argentina",
+    "name": "Star Channel Argentina",
+    "lang": "es"
+  },
+  {
+    "site_id": "tv_globo_internacional",
+    "name": "TV Globo Internacional",
+    "lang": "es",
+    "xmltv_id": "TVGloboInternacionalAmericas.br@SD"
+  },
+  {
+    "site_id": "ultra_cine",
+    "name": "Ultra Cine",
+    "lang": "es"
+  },
+  {
+    "site_id": "universal_tv_mexico",
+    "name": "Universal TV México",
+    "lang": "es",
+    "xmltv_id": "UniversalTVLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "zona_latina",
+    "name": "Zona Latina",
+    "lang": "es",
+    "xmltv_id": "ZonaLatina.cl@SD"
+  },
+  {
+    "site_id": "amc_colombia",
+    "name": "AMC Colombia",
+    "lang": "es"
+  },
+  {
+    "site_id": "espn_3_sur",
+    "name": "ESPN 3 Sur",
+    "lang": "es",
+    "xmltv_id": "ESPN3LatinAmerica.us@South"
+  },
+  {
+    "site_id": "tvn_chile",
+    "name": "TVN Chile",
+    "lang": "es",
+    "xmltv_id": "TVN.cl@SD"
+  },
+  {
+    "site_id": "azteca_guatemala",
+    "name": "Azteca Guate",
+    "lang": "es",
+    "xmltv_id": "AztecaGuatemala.gt@SD"
+  },
+  {
+    "site_id": "city_tv",
+    "name": "City TV",
+    "lang": "es"
+  },
+  {
+    "site_id": "bitme",
+    "name": "BitMe",
+    "lang": "es",
+    "xmltv_id": "bitMe.mx@SD"
+  },
+  {
+    "site_id": "discovery_channel_mexico",
+    "name": "Discovery Channel México",
+    "lang": "es",
+    "xmltv_id": "DiscoveryChannelLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "hbo_mundi",
+    "name": "HBO Mundi",
+    "lang": "es",
+    "xmltv_id": "HBOMundiLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "mtv_live_hd",
+    "name": "MTV Live HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "national_geographic_mexico",
+    "name": "National Geographic México",
+    "lang": "es",
+    "xmltv_id": "NationalGeographic.mx@SD"
+  },
+  {
+    "site_id": "nick_junior_latinoamerica",
+    "name": "Nick Jr. Latinoamérica",
+    "lang": "es"
+  },
+  {
+    "site_id": "fox_sports_cono_norte",
+    "name": "Fox Sports Cono Norte",
+    "lang": "es"
+  },
+  {
+    "site_id": "fx_mexico",
+    "name": "FX México",
+    "lang": "es",
+    "xmltv_id": "FX.mx@SD"
+  },
+  {
+    "site_id": "telefe_argentina",
+    "name": "Telefé (Argentina)",
+    "lang": "es",
+    "xmltv_id": "Telefe.ar@SD"
+  },
+  {
+    "site_id": "tsi_honduras",
+    "name": "Telesistema Informativo (TSI)",
+    "lang": "es",
+    "xmltv_id": "TSi.hn@SD"
+  },
+  {
+    "site_id": "cartoon_network_atlantico_norte",
+    "name": "Cartoon Network Atlántico Norte",
+    "lang": "es",
+    "xmltv_id": "CartoonNetworkLatinAmerica.us@NorthAtlantic"
+  },
+  {
+    "site_id": "e_entertainment_television_chile",
+    "name": "E! Entertainment Television Chile",
+    "lang": "es"
+  },
+  {
+    "site_id": "excelsior_tv",
+    "name": "Excelsior TV",
+    "lang": "es",
+    "xmltv_id": "ExcelsiorTV.mx@SD"
+  },
+  {
+    "site_id": "bloomberg",
+    "name": "Bloomberg",
+    "lang": "es"
+  },
+  {
+    "site_id": "cnn_internacional",
+    "name": "CNN Internacional",
+    "lang": "es",
+    "xmltv_id": "CNNInternational.us@LatinAmerica"
+  },
+  {
+    "site_id": "hbo_pop",
+    "name": "HBO Pop",
+    "lang": "es",
+    "xmltv_id": "HBOPopLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "telecentro_tv",
+    "name": "Telecentro TV",
+    "lang": "es",
+    "xmltv_id": "TeleCentro.us@SD"
+  },
+  {
+    "site_id": "tv_azteca_corazon",
+    "name": "TV Azteca Corazón",
+    "lang": "es",
+    "xmltv_id": "AzCorazon.mx@SD"
+  },
+  {
+    "site_id": "capital_colombia",
+    "name": "Capital Colombia",
+    "lang": "es"
+  },
+  {
+    "site_id": "star_tve",
+    "name": "Star TVE",
+    "lang": "es"
+  },
+  {
+    "site_id": "tigo_sports_el_salvador",
+    "name": "Tigo Sports El Salvador",
+    "lang": "es",
+    "xmltv_id": "TigoSports.sv@SD"
+  },
+  {
+    "site_id": "tudn_estados_unidos",
+    "name": "TUDN USA",
+    "lang": "es",
+    "xmltv_id": "TUDN.us@SD"
+  },
+  {
+    "site_id": "disney_junior_norte",
+    "name": "Disney Junior Norte",
+    "lang": "es",
+    "xmltv_id": "DisneyJrLatinAmerica.ar@North"
+  },
+  {
+    "site_id": "la_tele_paraguay",
+    "name": "La Tele Paraguay",
+    "lang": "es",
+    "xmltv_id": "Latele.py@SD"
+  },
+  {
+    "site_id": "region_mas",
+    "name": "Región+",
+    "lang": "es"
+  },
+  {
+    "site_id": "space_sur",
+    "name": "Space Sur",
+    "lang": "es",
+    "xmltv_id": "Space.ar@South"
+  },
+  {
+    "site_id": "teleformula",
+    "name": "Telefórmula",
+    "lang": "es",
+    "xmltv_id": "TeleFormula.mx@SD"
+  },
+  {
+    "site_id": "9_republica_dominicana",
+    "name": "9 de República Dominicana",
+    "lang": "es",
+    "xmltv_id": "ColorVision.do@SD"
+  },
+  {
+    "site_id": "cuatro_de_espana",
+    "name": "Cuatro de España",
+    "lang": "es",
+    "xmltv_id": "Cuatro.es@SD"
+  },
+  {
+    "site_id": "de_las_estrellas_-2h_mexico",
+    "name": "las Estrellas -2 Horas",
+    "lang": "es"
+  },
+  {
+    "site_id": "wapa_2_deportes",
+    "name": "WAPA 2 Deportes",
+    "lang": "es",
+    "xmltv_id": "WAPADT2.pr@SD"
+  },
+  {
+    "site_id": "px_sports",
+    "name": "PX Sports",
+    "lang": "es",
+    "xmltv_id": "PXSports.mx@SD"
+  },
+  {
+    "site_id": "13_de_colombia",
+    "name": "13 de Colombia",
+    "lang": "es",
+    "xmltv_id": "Trece.co@SD"
+  },
+  {
+    "site_id": "fox_espana",
+    "name": "Fox España",
+    "lang": "es"
+  },
+  {
+    "site_id": "golden_mpx",
+    "name": "Golden MPX",
+    "lang": "es"
+  },
+  {
+    "site_id": "inti_network",
+    "name": "Inti Network",
+    "lang": "es",
+    "xmltv_id": "IntiTV.ec@SD"
+  },
+  {
+    "site_id": "universal_premiere",
+    "name": "Universal Premiere",
+    "lang": "es",
+    "xmltv_id": "UniversalPremiere.us@East"
+  },
+  {
+    "site_id": "2_de_nicaragua_televicentro",
+    "name": "2 de Nicaragua",
+    "lang": "es",
+    "xmltv_id": "Canal2.ni@SD"
+  },
+  {
+    "site_id": "9_de_mexico",
+    "name": "9 de México",
+    "lang": "es"
+  },
+  {
+    "site_id": "history_2_panregional",
+    "name": "History 2 Panregional",
+    "lang": "es",
+    "xmltv_id": "History2LatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "24_horas_tve",
+    "name": "24 Horas",
+    "lang": "es",
+    "xmltv_id": "24Horas.es@SD"
+  },
+  {
+    "site_id": "discovery_channel_chile",
+    "name": "Discovery Channel Chile",
+    "lang": "es",
+    "xmltv_id": "DiscoveryChannelLatinAmerica.us@Chile"
+  },
+  {
+    "site_id": "real_madrid_tv",
+    "name": "Real Madrid TV",
+    "lang": "es",
+    "xmltv_id": "RealMadridTV.es@SD"
+  },
+  {
+    "site_id": "universal_crime",
+    "name": "Universal Crime",
+    "lang": "es",
+    "xmltv_id": "UniversalCrime.us@East"
+  },
+  {
+    "site_id": "axn_andes",
+    "name": "AXN Andes",
+    "lang": "es",
+    "xmltv_id": "AXNLatinAmerica.us@Andes"
+  },
+  {
+    "site_id": "deutsche_welle",
+    "name": "DW",
+    "lang": "es"
+  },
+  {
+    "site_id": "enlace",
+    "name": "TBN",
+    "lang": "es"
+  },
+  {
+    "site_id": "espn_2_mexico",
+    "name": "ESPN 2 México",
+    "lang": "es",
+    "xmltv_id": "ESPN2LatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "golden_premier",
+    "name": "Golden Premier",
+    "lang": "es",
+    "xmltv_id": "GoldenPremier.mx@SD"
+  },
+  {
+    "site_id": "lifetime_panregional",
+    "name": "Lifetime PAN",
+    "lang": "es",
+    "xmltv_id": "LifetimeLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "ve_plus_estados_unidos",
+    "name": "Ve Plus Estados Unidos",
+    "lang": "es",
+    "xmltv_id": "VePlus.ve@US"
+  },
+  {
+    "site_id": "disney_junior_espana",
+    "name": "Disney Junior España",
+    "lang": "es",
+    "xmltv_id": "DisneyJunior.es@SD"
+  },
+  {
+    "site_id": "ecuavisa_internacional",
+    "name": "Ecuavisa Internacional",
+    "lang": "es",
+    "xmltv_id": "EcuavisaInternacional.ec@SD"
+  },
+  {
+    "site_id": "eurochannel",
+    "name": "Eurochannel",
+    "lang": "es",
+    "xmltv_id": "Eurochannel.uk@SD"
+  },
+  {
+    "site_id": "futv",
+    "name": "FUTV",
+    "lang": "es",
+    "xmltv_id": "FUTV.cr@SD"
+  },
+  {
+    "site_id": "universal_comedy",
+    "name": "Universal Comedy",
+    "lang": "es",
+    "xmltv_id": "UniversalComedy.us@SD"
+  },
+  {
+    "site_id": "tnt_sur",
+    "name": "TNT Sur",
+    "lang": "es",
+    "xmltv_id": "TNTLatinAmerica.us@South"
+  },
+  {
+    "site_id": "2_de_el_salvador",
+    "name": "2 de El Salvador",
+    "lang": "es",
+    "xmltv_id": "Canal2.sv@SD"
+  },
+  {
+    "site_id": "afizzionados",
+    "name": "Afizzionados",
+    "lang": "es",
+    "xmltv_id": "Afizzionados.mx@SD"
+  },
+  {
+    "site_id": "history_mexico",
+    "name": "History MX",
+    "lang": "es",
+    "xmltv_id": "History.mx@SD"
+  },
+  {
+    "site_id": "la_red_tv_guatemala",
+    "name": "La Red TV Guatemala",
+    "lang": "es",
+    "xmltv_id": "LaRedTV.gt@SD"
+  },
+  {
+    "site_id": "movistar_comedia",
+    "name": "M+ Comedia",
+    "lang": "es",
+    "xmltv_id": "ComediaporMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "telehit",
+    "name": "Telehit",
+    "lang": "es",
+    "xmltv_id": "TeleHit.mx@SD"
+  },
+  {
+    "site_id": "america_television_peru",
+    "name": "América Televisión Perú",
+    "lang": "es",
+    "xmltv_id": "AmericaTelevision.pe@SD"
+  },
+  {
+    "site_id": "semillitas",
+    "name": "Semillitas",
+    "lang": "es",
+    "xmltv_id": "SemillitasTV.us@SD"
+  },
+  {
+    "site_id": "telecaribe",
+    "name": "Telecaribe",
+    "lang": "es",
+    "xmltv_id": "Telecaribe.co@SD"
+  },
+  {
+    "site_id": "6_de_costa_rica",
+    "name": "6 de Costa Rica",
+    "lang": "es",
+    "xmltv_id": "Canal6.cr@SD"
+  },
+  {
+    "site_id": "6_de_puerto_rico",
+    "name": "WIPR",
+    "lang": "es",
+    "xmltv_id": "WIPRDT1.pr@SD"
+  },
+  {
+    "site_id": "13_de_chile",
+    "name": "13 de Chile",
+    "lang": "es",
+    "xmltv_id": "Canal13.cl@SD"
+  },
+  {
+    "site_id": "espn_extra_latinoamerica",
+    "name": "ESPN Extra Latinoamérica",
+    "lang": "es"
+  },
+  {
+    "site_id": "golden_mexico",
+    "name": "Golden México",
+    "lang": "es"
+  },
+  {
+    "site_id": "cartoon_network_mexico",
+    "name": "Cartoon Network México",
+    "lang": "es",
+    "xmltv_id": "CartoonNetworkLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "7_de_costa_rica_teletica",
+    "name": "7 de Costa Rica",
+    "lang": "es",
+    "xmltv_id": "Teletica7.cr@SD"
+  },
+  {
+    "site_id": "espn_2_norte",
+    "name": "ESPN 2 Norte",
+    "lang": "es",
+    "xmltv_id": "ESPN2LatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "fox_sports_3_cono_norte",
+    "name": "Fox Sports 3 Cono Norte",
+    "lang": "es"
+  },
+  {
+    "site_id": "telemundo_mexico",
+    "name": "Telemundo México",
+    "lang": "es",
+    "xmltv_id": "TelemundoInternacional.us@South"
+  },
+  {
+    "site_id": "tnt_centroamerica_y_caribe",
+    "name": "TNT Centroamérica y Caribe",
+    "lang": "es"
+  },
+  {
+    "site_id": "amc_crime",
+    "name": "AMC Crime",
+    "lang": "es",
+    "xmltv_id": "AMCCrime.es@SD"
+  },
+  {
+    "site_id": "national_geographic_centro",
+    "name": "National Geographic Centro",
+    "lang": "es"
+  },
+  {
+    "site_id": "rcn_novelas",
+    "name": "RCN Novelas",
+    "lang": "es",
+    "xmltv_id": "RCNNovelas.co@SD"
+  },
+  {
+    "site_id": "telehit_musica_plus",
+    "name": "Telehit Música Plus",
+    "lang": "es"
+  },
+  {
+    "site_id": "chilevision",
+    "name": "Chilevisión (CHV)",
+    "lang": "es",
+    "xmltv_id": "ChileVision.cl@SD"
+  },
+  {
+    "site_id": "ecuador_tv",
+    "name": "Ecuador TV",
+    "lang": "es",
+    "xmltv_id": "EcuadorTV.ec@SD"
+  },
+  {
+    "site_id": "historia_espana",
+    "name": "Historia España",
+    "lang": "es",
+    "xmltv_id": "Historia.es@SD"
+  },
+  {
+    "site_id": "multimedios_plus",
+    "name": "Multimedios Plus",
+    "lang": "es",
+    "xmltv_id": "MultimediosPlus.mx@SD"
+  },
+  {
+    "site_id": "panamericana_television",
+    "name": "Panamericana Televisión",
+    "lang": "es",
+    "xmltv_id": "PanamericanaTV.pe@SD"
+  },
+  {
+    "site_id": "rai_international",
+    "name": "RAI International",
+    "lang": "es"
+  },
+  {
+    "site_id": "sony_chile",
+    "name": "Sony Chile",
+    "lang": "es"
+  },
+  {
+    "site_id": "telemadrid",
+    "name": "TeleMadrid",
+    "lang": "es",
+    "xmltv_id": "Telemadrid.es@SD"
+  },
+  {
+    "site_id": "axn_venezuela",
+    "name": "AXN Venezuela",
+    "lang": "es"
+  },
+  {
+    "site_id": "de_pelicula_clasico",
+    "name": "De Película Clásico",
+    "lang": "es",
+    "xmltv_id": "DePeliculaClasico.mx@SD"
+  },
+  {
+    "site_id": "teleunion_republica_dominicana",
+    "name": "Teleunion",
+    "lang": "es",
+    "xmltv_id": "Teleunion.do@SD"
+  },
+  {
+    "site_id": "15_republica_dominicana",
+    "name": "15 de República Dominicana",
+    "lang": "es",
+    "xmltv_id": "Digital15.do@SD"
+  },
+  {
+    "site_id": "bandamax",
+    "name": "Bandamax",
+    "lang": "es",
+    "xmltv_id": "Bandamax.mx@SD"
+  },
+  {
+    "site_id": "tnt_series",
+    "name": "TNT Series Lat.",
+    "lang": "es"
+  },
+  {
+    "site_id": "warner_tv_mexico",
+    "name": "Warner TV México",
+    "lang": "es"
+  },
+  {
+    "site_id": "glitz",
+    "name": "Glitz",
+    "lang": "es"
+  },
+  {
+    "site_id": "mc",
+    "name": "MC",
+    "lang": "es",
+    "xmltv_id": "MC.mx@SD"
+  },
+  {
+    "site_id": "viendomovies",
+    "name": "ViendoMovies",
+    "lang": "es",
+    "xmltv_id": "ViendoMovies.us@SD"
+  },
+  {
+    "site_id": "willax_tv",
+    "name": "Willax TV",
+    "lang": "es",
+    "xmltv_id": "WillaxTV.pe@SD"
+  },
+  {
+    "site_id": "cinecanal_mexico",
+    "name": "Cinecanal México",
+    "lang": "es",
+    "xmltv_id": "Cinecanal.us@Mexico"
+  },
+  {
+    "site_id": "clan_tve",
+    "name": "Clan TVE",
+    "lang": "es",
+    "xmltv_id": "Clan.es@SD"
+  },
+  {
+    "site_id": "disney_channel_sur",
+    "name": "Disney Channel Sur",
+    "lang": "es",
+    "xmltv_id": "DisneyChannelLatinAmerica.ar@South"
+  },
+  {
+    "site_id": "el_financiero_tv",
+    "name": "El Financiero TV",
+    "lang": "es"
+  },
+  {
+    "site_id": "punto_2_puerto_rico",
+    "name": "Punto 2",
+    "lang": "es",
+    "xmltv_id": "WKAQDT2.pr@SD"
+  },
+  {
+    "site_id": "studio_universal_mexico",
+    "name": "Studio Universal México",
+    "lang": "es",
+    "xmltv_id": "StudioUniversalLatinAmerica.us@Mexico"
+  },
+  {
+    "site_id": "6_de_el_salvador",
+    "name": "6 de El Salvador",
+    "lang": "es",
+    "xmltv_id": "Canal6.sv@SD"
+  },
+  {
+    "site_id": "cnn_en_espanol",
+    "name": "CNN en Español",
+    "lang": "es",
+    "xmltv_id": "CNNenEspanol.us@SD"
+  },
+  {
+    "site_id": "gol_tv_estados_unidos",
+    "name": "Gol TV USA",
+    "lang": "es",
+    "xmltv_id": "GolTVUSA.us@SD"
+  },
+  {
+    "site_id": "vtv_honduras_vica_tv",
+    "name": "VTV Honduras",
+    "lang": "es",
+    "xmltv_id": "VTV.hn@SD"
+  },
+  {
+    "site_id": "4_de_panama",
+    "name": "4 de Panamá",
+    "lang": "es",
+    "xmltv_id": "RPCTV.pa@SD"
+  },
+  {
+    "site_id": "bet_jams",
+    "name": "BET Jams",
+    "lang": "es",
+    "xmltv_id": "BETJams.us@SD"
+  },
+  {
+    "site_id": "cablenoticias",
+    "name": "Cablenoticias",
+    "lang": "es",
+    "xmltv_id": "Cablenoticias.co@SD"
+  },
+  {
+    "site_id": "cine_mexicano",
+    "name": "Cine Mexicano",
+    "lang": "es",
+    "xmltv_id": "CineMexicano.mx@SD"
+  },
+  {
+    "site_id": "e_entertainment_television_panregional",
+    "name": "E! Entertainment Television Panregional",
+    "lang": "es"
   },
   {
     "site_id": "espn_deportes",
@@ -2659,79 +2730,8 @@
     "xmltv_id": "NationalGeographic.es@SD"
   },
   {
-    "site_id": "cine_mexicano",
-    "name": "Cine Mexicano",
-    "lang": "es",
-    "xmltv_id": "CineMexicano.mx@SD"
-  },
-  {
-    "site_id": "teennick",
-    "name": "TeenNick",
-    "lang": "es",
-    "xmltv_id": "TeenNickLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "2_de_el_salvador",
-    "name": "2 de El Salvador",
-    "lang": "es",
-    "xmltv_id": "Canal2.sv@SD"
-  },
-  {
-    "site_id": "caracol_internacional",
-    "name": "Caracol Internacional",
-    "lang": "es",
-    "xmltv_id": "CaracolInternacional.co@SD"
-  },
-  {
-    "site_id": "classica",
-    "name": "Classica",
-    "lang": "es",
-    "xmltv_id": "Classica.us@SD"
-  },
-  {
-    "site_id": "telecinco",
-    "name": "Telecinco",
-    "lang": "es",
-    "xmltv_id": "Telecinco.es@SD"
-  },
-  {
-    "site_id": "discovery_home_and_health_mexico",
-    "name": "Discovery H\u0026H MX",
-    "lang": "es",
-    "xmltv_id": "DiscoveryHomeHealthLatinAmerica.mx@Mexico"
-  },
-  {
-    "site_id": "e_entertainment_television_panregional",
-    "name": "E! Entertainment Television Panregional",
+    "site_id": "espn_2_venezuela",
+    "name": "ESPN 2 Venezuela",
     "lang": "es"
-  },
-  {
-    "site_id": "mtv_80s",
-    "name": "MTV 80S",
-    "lang": "es",
-    "xmltv_id": "MTV80s.uk@SD"
-  },
-  {
-    "site_id": "antena_3_espana",
-    "name": "Antena 3 de España",
-    "lang": "es",
-    "xmltv_id": "Antena3.es@National"
-  },
-  {
-    "site_id": "nickelodeon_espana",
-    "name": "Nickelodeon España",
-    "lang": "es",
-    "xmltv_id": "Nickelodeon.es@SD"
-  },
-  {
-    "site_id": "tnt_centroamerica_y_caribe",
-    "name": "TNT Centroamérica y Caribe",
-    "lang": "es"
-  },
-  {
-    "site_id": "telehit",
-    "name": "Telehit",
-    "lang": "es",
-    "xmltv_id": "TeleHit.mx@SD"
   }
 ]

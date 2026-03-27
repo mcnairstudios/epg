@@ -6,18 +6,6 @@
     "xmltv_id": "RTP1.pt@SD"
   },
   {
-    "site_id": "lis#8",
-    "name": "RTP2",
-    "lang": "pt",
-    "xmltv_id": "RTP2.pt@SD"
-  },
-  {
-    "site_id": "lis#3",
-    "name": "RTP Açores",
-    "lang": "pt",
-    "xmltv_id": "RTPAcores.pt@SD"
-  },
-  {
     "site_id": "lis#6",
     "name": "RTP África",
     "lang": "pt",
@@ -58,5 +46,17 @@
     "name": "RTP Noticias",
     "lang": "pt",
     "xmltv_id": "RTPNoticias.pt@HD"
+  },
+  {
+    "site_id": "lis#8",
+    "name": "RTP2",
+    "lang": "pt",
+    "xmltv_id": "RTP2.pt@SD"
+  },
+  {
+    "site_id": "lis#3",
+    "name": "RTP Açores",
+    "lang": "pt",
+    "xmltv_id": "RTPAcores.pt@SD"
   }
 ]

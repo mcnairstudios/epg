@@ -1,131 +1,48 @@
 [
   {
-    "site_id": "euronews-albania",
-    "name": "Euronews Albania",
-    "lang": "sq",
-    "xmltv_id": "EuronewsAlbania.al@SD"
+    "site_id": "a-news",
+    "name": "A News",
+    "lang": "en",
+    "xmltv_id": "ANews.tr@SD"
   },
   {
-    "site_id": "top-news",
-    "name": "Top News",
-    "lang": "sq",
-    "xmltv_id": "TopNews.al@SD"
-  },
-  {
-    "site_id": "bubble",
-    "name": "Bubble",
-    "lang": "sq",
-    "xmltv_id": "BubbleTV.al@SD"
-  },
-  {
-    "site_id": "eurofilm",
-    "name": "EuroFilm",
+    "site_id": "alb-uk-tv",
+    "name": "ALB UK TV",
     "lang": "sq"
   },
   {
-    "site_id": "premiere-3",
-    "name": "Premiere 3",
-    "lang": "sq"
-  },
-  {
-    "site_id": "travelingo",
-    "name": "Travelingo",
-    "lang": "sq",
-    "xmltv_id": "TravelingoTV.xk@SD"
-  },
-  {
-    "site_id": "3-plus",
-    "name": "3 Plus",
-    "lang": "sq",
-    "xmltv_id": "3Plus.al@SD"
-  },
-  {
-    "site_id": "exp-shkence",
-    "name": "Explorer Shkencë",
-    "lang": "sq",
-    "xmltv_id": "ExplorerShkence.al@SD"
-  },
-  {
-    "site_id": "film-aksion",
-    "name": "Film Aksion",
-    "lang": "sq",
-    "xmltv_id": "FilmAksion.al@SD"
-  },
-  {
-    "site_id": "smile",
-    "name": "Smile",
-    "lang": "sq",
-    "xmltv_id": "Smile.al@SD"
-  },
-  {
-    "site_id": "supersport-4",
-    "name": "SuperSport 4",
-    "lang": "sq",
-    "xmltv_id": "SuperSport4.al@SD"
-  },
-  {
-    "site_id": "tgrt-belgesel",
-    "name": "TGRT Belgesel",
+    "site_id": "sky-360",
+    "name": "360",
     "lang": "tr",
-    "xmltv_id": "TGRTBelgesel.tr@SD"
+    "xmltv_id": "360.tr@SD"
   },
   {
-    "site_id": "cufo",
-    "name": "Çufo",
-    "lang": "sq",
-    "xmltv_id": "Cufo.al@SD"
-  },
-  {
-    "site_id": "elrodi",
-    "name": "Elrodi",
-    "lang": "sq",
-    "xmltv_id": "ElrodiTV.al@SD"
-  },
-  {
-    "site_id": "film-thriller",
-    "name": "Film Thriller",
-    "lang": "sq",
-    "xmltv_id": "FilmThriller.al@SD"
-  },
-  {
-    "site_id": "kino-2",
-    "name": "Kino 2",
-    "lang": "sq",
-    "xmltv_id": "Kino2.xk@SD"
-  },
-  {
-    "site_id": "premiere-1",
-    "name": "Premiere 1",
+    "site_id": "star",
+    "name": "Star Channel",
     "lang": "sq"
   },
   {
-    "site_id": "a2-cnn",
-    "name": "A2 CNN",
+    "site_id": "klan-plus",
+    "name": "Klan Plus",
     "lang": "sq",
-    "xmltv_id": "A2CNN.al@SD"
+    "xmltv_id": "KlanPlus.al@SD"
   },
   {
-    "site_id": "k-sport-3",
-    "name": "K-Sport 3",
-    "lang": "sq",
-    "xmltv_id": "KSport3.xk@SD"
+    "site_id": "living-hd",
+    "name": "Living HD",
+    "lang": "sq"
   },
   {
-    "site_id": "klan-news",
-    "name": "Klan News",
-    "lang": "sq",
-    "xmltv_id": "KlanNews.al@SD"
+    "site_id": "trt-belgesel",
+    "name": "TRT Belgesel",
+    "lang": "tr",
+    "xmltv_id": "TRTBelgesel.tr@SD"
   },
   {
-    "site_id": "kino-1",
-    "name": "Kino 1",
-    "lang": "sq",
-    "xmltv_id": "Kino1.xk@SD"
-  },
-  {
-    "site_id": "power-turk",
-    "name": "Power Türk",
-    "lang": "tr"
+    "site_id": "trt-turk",
+    "name": "TRT Türk",
+    "lang": "tr",
+    "xmltv_id": "TRTTurk.tr@SD"
   },
   {
     "site_id": "tv-opinioni",
@@ -134,42 +51,14 @@
     "xmltv_id": "TVOpinion.xk@SD"
   },
   {
-    "site_id": "tv-tema",
-    "name": "TV Tema",
+    "site_id": "cufo",
+    "name": "Çufo",
     "lang": "sq",
-    "xmltv_id": "TemaTV.xk@SD"
+    "xmltv_id": "Cufo.al@SD"
   },
   {
-    "site_id": "alsat-m",
-    "name": "Alsat M",
-    "lang": "mk"
-  },
-  {
-    "site_id": "dream-turk",
-    "name": "Dream Türk",
-    "lang": "tr",
-    "xmltv_id": "DreamTurk.tr@SD"
-  },
-  {
-    "site_id": "dtv",
-    "name": "DTV",
-    "lang": "sq",
-    "xmltv_id": "DTV.xk@SD"
-  },
-  {
-    "site_id": "film-drame",
-    "name": "Film Dramë",
-    "lang": "sq",
-    "xmltv_id": "FilmDrame.al@SD"
-  },
-  {
-    "site_id": "gurmania",
-    "name": "Gurmania",
-    "lang": "sq"
-  },
-  {
-    "site_id": "premium-channel",
-    "name": "Premium Channel",
+    "site_id": "premiere-1",
+    "name": "Premiere 1",
     "lang": "sq"
   },
   {
@@ -179,427 +68,10 @@
     "xmltv_id": "RTK1.xk@SD"
   },
   {
-    "site_id": "rtv-21",
-    "name": "RTV 21",
+    "site_id": "rtsh-24",
+    "name": "RTSH 24",
     "lang": "sq",
-    "xmltv_id": "RTV21.xk@SD"
-  },
-  {
-    "site_id": "alb-uk-tv",
-    "name": "ALB UK TV",
-    "lang": "sq"
-  },
-  {
-    "site_id": "klan",
-    "name": "Klan",
-    "lang": "sq",
-    "xmltv_id": "TVKlan.al@SD"
-  },
-  {
-    "site_id": "ktv",
-    "name": "KTV",
-    "lang": "sq",
-    "xmltv_id": "Kohavision.xk@SD"
-  },
-  {
-    "site_id": "living-hd",
-    "name": "Living HD",
-    "lang": "sq"
-  },
-  {
-    "site_id": "sport-2",
-    "name": "Sport 2",
-    "lang": "sq",
-    "xmltv_id": "Sport2.xk@SD"
-  },
-  {
-    "site_id": "star",
-    "name": "Star Channel",
-    "lang": "sq"
-  },
-  {
-    "site_id": "star-life",
-    "name": "Star Life",
-    "lang": "sq"
-  },
-  {
-    "site_id": "tgrt-eu",
-    "name": "TGRT EU",
-    "lang": "tr",
-    "xmltv_id": "TGRTEurope.tr@SD"
-  },
-  {
-    "site_id": "folk-+",
-    "name": "Folk+",
-    "lang": "sq",
-    "xmltv_id": "FolkPlus.al@SD"
-  },
-  {
-    "site_id": "max-hd",
-    "name": "Film Max",
-    "lang": "sq"
-  },
-  {
-    "site_id": "positive-gold",
-    "name": "Positive Gold",
-    "lang": "sq"
-  },
-  {
-    "site_id": "prince-kids",
-    "name": "Prince Kids",
-    "lang": "sq"
-  },
-  {
-    "site_id": "tring-action-hd",
-    "name": "Tring Action",
-    "lang": "sq",
-    "xmltv_id": "TringAction.al@SD"
-  },
-  {
-    "site_id": "tring-history",
-    "name": "Tring History",
-    "lang": "sq",
-    "xmltv_id": "TringHistory.al@SD"
-  },
-  {
-    "site_id": "tring-orignals",
-    "name": "Tring Originals",
-    "lang": "sq"
-  },
-  {
-    "site_id": "zico-tv",
-    "name": "Zico TV",
-    "lang": "sr"
-  },
-  {
-    "site_id": "atd-tv",
-    "name": "ATD TV",
-    "lang": "sq"
-  },
-  {
-    "site_id": "rti",
-    "name": "RTI",
-    "lang": "sq",
-    "xmltv_id": "RTVIliria.xk@SD"
-  },
-  {
-    "site_id": "rtsh-shqip",
-    "name": "RTSH Shqip",
-    "lang": "sq",
-    "xmltv_id": "RTSHShqip.al@SD"
-  },
-  {
-    "site_id": "stinet",
-    "name": "Stinët",
-    "lang": "sq",
-    "xmltv_id": "Stinet.al@SD"
-  },
-  {
-    "site_id": "supersport-7",
-    "name": "SuperSport 7",
-    "lang": "sq",
-    "xmltv_id": "SuperSport7.al@SD"
-  },
-  {
-    "site_id": "tring-collection",
-    "name": "Tring Collection",
-    "lang": "sq",
-    "xmltv_id": "TringCollection.al@SD"
-  },
-  {
-    "site_id": "tring-super-hd",
-    "name": "Tring Super",
-    "lang": "sq",
-    "xmltv_id": "TringSuper.al@SD"
-  },
-  {
-    "site_id": "trt-belgesel",
-    "name": "TRT Belgesel",
-    "lang": "tr",
-    "xmltv_id": "TRTBelgesel.tr@SD"
-  },
-  {
-    "site_id": "ipko-promo",
-    "name": "IPKO Promo",
-    "lang": "sq"
-  },
-  {
-    "site_id": "k-sport-1",
-    "name": "K-Sport 1",
-    "lang": "sq",
-    "xmltv_id": "KSport1.xk@SD"
-  },
-  {
-    "site_id": "k-sport-2",
-    "name": "K-Sport 2",
-    "lang": "sq",
-    "xmltv_id": "KSport2.xk@SD"
-  },
-  {
-    "site_id": "sport-4",
-    "name": "Sport 4",
-    "lang": "sq",
-    "xmltv_id": "Sport4.xk@SD"
-  },
-  {
-    "site_id": "sport-5",
-    "name": "Sport 5",
-    "lang": "sq",
-    "xmltv_id": "Sport5.xk@SD"
-  },
-  {
-    "site_id": "tring-planet",
-    "name": "Tring Planet",
-    "lang": "sq",
-    "xmltv_id": "TringPlanet.al@SD"
-  },
-  {
-    "site_id": "turkish-stories",
-    "name": "Tring Turkish Stories",
-    "lang": "sq"
-  },
-  {
-    "site_id": "tv-4",
-    "name": "TV 4",
-    "lang": "tr",
-    "xmltv_id": "TV4.tr@SD"
-  },
-  {
-    "site_id": "film-komedi",
-    "name": "Film Komedi",
-    "lang": "sq",
-    "xmltv_id": "FilmKomedi.al@SD"
-  },
-  {
-    "site_id": "rtk-2",
-    "name": "RTK 2",
-    "lang": "sq",
-    "xmltv_id": "RTK2.xk@SD"
-  },
-  {
-    "site_id": "supersport-2",
-    "name": "SuperSport 2",
-    "lang": "sq",
-    "xmltv_id": "SuperSport2.al@SD"
-  },
-  {
-    "site_id": "tao-tao",
-    "name": "Tao Tao",
-    "lang": "sq"
-  },
-  {
-    "site_id": "trt-muzik",
-    "name": "TRT Müzik",
-    "lang": "tr",
-    "xmltv_id": "TRTMuzik.tr@SD"
-  },
-  {
-    "site_id": "trt-world",
-    "name": "TRT World",
-    "lang": "en",
-    "xmltv_id": "TRTWorld.tr@SD"
-  },
-  {
-    "site_id": "e--tv",
-    "name": "E-TV",
-    "lang": "sq"
-  },
-  {
-    "site_id": "t-hd",
-    "name": "T",
-    "lang": "sq",
-    "xmltv_id": "T.al@SD"
-  },
-  {
-    "site_id": "tring-series",
-    "name": "Tring Series",
-    "lang": "sq"
-  },
-  {
-    "site_id": "trt-turk",
-    "name": "TRT Türk",
-    "lang": "tr",
-    "xmltv_id": "TRTTurk.tr@SD"
-  },
-  {
-    "site_id": "tv-arta",
-    "name": "TV Arta",
-    "lang": "sq",
-    "xmltv_id": "TVArta.xk@SD"
-  },
-  {
-    "site_id": "first-channel",
-    "name": "First Channel",
-    "lang": "sq",
-    "xmltv_id": "FirstChannel.xk@SD"
-  },
-  {
-    "site_id": "klan-kosova",
-    "name": "Klan Kosova",
-    "lang": "sq",
-    "xmltv_id": "KlanKosova.xk@SD"
-  },
-  {
-    "site_id": "klan-mk",
-    "name": "Klan Macedonia",
-    "lang": "sq",
-    "xmltv_id": "KlanMacedonia.mk@SD"
-  },
-  {
-    "site_id": "terra-hd",
-    "name": "Terra",
-    "lang": "sq"
-  },
-  {
-    "site_id": "teve-1",
-    "name": "tëvë 1",
-    "lang": "sq",
-    "xmltv_id": "Teve1.xk@SD"
-  },
-  {
-    "site_id": "france-24",
-    "name": "France 24",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rtk-4",
-    "name": "RTK 4",
-    "lang": "sq",
-    "xmltv_id": "RTK4.xk@SD"
-  },
-  {
-    "site_id": "rtv-mir",
-    "name": "RTV Mir",
-    "lang": "sq",
-    "xmltv_id": "RTVMir.xk@SD"
-  },
-  {
-    "site_id": "tip-tv",
-    "name": "Tip TV",
-    "lang": "sq",
-    "xmltv_id": "TipTV.al@SD"
-  },
-  {
-    "site_id": "trt-cocuk",
-    "name": "TRT Çocuk",
-    "lang": "tr",
-    "xmltv_id": "TRTCocuk.tr@SD"
-  },
-  {
-    "site_id": "trt-haber",
-    "name": "TRT Haber",
-    "lang": "tr",
-    "xmltv_id": "TRTHaber.tr@SD"
-  },
-  {
-    "site_id": "tv-besa",
-    "name": "TV Besa",
-    "lang": "sq",
-    "xmltv_id": "RTVBesa.xk@SD"
-  },
-  {
-    "site_id": "vizion-+-hd",
-    "name": "Vizion+",
-    "lang": "sq",
-    "xmltv_id": "VizionPlus.al@SD"
-  },
-  {
-    "site_id": "junior-tv",
-    "name": "Junior TV",
-    "lang": "sq",
-    "xmltv_id": "JuniorTV.al@SD"
-  },
-  {
-    "site_id": "kanal-7",
-    "name": "Kanal 7",
-    "lang": "tr",
-    "xmltv_id": "Kanal7.tr@SD"
-  },
-  {
-    "site_id": "klan-plus",
-    "name": "Klan Plus",
-    "lang": "sq",
-    "xmltv_id": "KlanPlus.al@SD"
-  },
-  {
-    "site_id": "supersport-3",
-    "name": "SuperSport 3",
-    "lang": "sq",
-    "xmltv_id": "SuperSport3.al@SD"
-  },
-  {
-    "site_id": "supersport-5",
-    "name": "SuperSport 5",
-    "lang": "sq",
-    "xmltv_id": "SuperSport5.al@SD"
-  },
-  {
-    "site_id": "tv8-int",
-    "name": "TV8 Int'l",
-    "lang": "tr",
-    "xmltv_id": "TV8int.tr@SD"
-  },
-  {
-    "site_id": "atv",
-    "name": "ATV",
-    "lang": "sq",
-    "xmltv_id": "ATV.xk@SD"
-  },
-  {
-    "site_id": "premiere-4",
-    "name": "Premiere 4",
-    "lang": "sq"
-  },
-  {
-    "site_id": "top-channel",
-    "name": "Top Channel",
-    "lang": "sq",
-    "xmltv_id": "TopChannel.al@SD"
-  },
-  {
-    "site_id": "tring-family",
-    "name": "Tring Family",
-    "lang": "sq",
-    "xmltv_id": "TringFamily.al@SD"
-  },
-  {
-    "site_id": "a2",
-    "name": "A2",
-    "lang": "tr",
-    "xmltv_id": "A2TV.tr@SD"
-  },
-  {
-    "site_id": "atv-(turkey)",
-    "name": "ATV (Turkey)",
-    "lang": "tr",
-    "xmltv_id": "ATV.tr@SD"
-  },
-  {
-    "site_id": "kino-3",
-    "name": "Kino 3",
-    "lang": "sq"
-  },
-  {
-    "site_id": "tv-liria",
-    "name": "TV Liria",
-    "lang": "sq"
-  },
-  {
-    "site_id": "click-tv",
-    "name": "Click TV",
-    "lang": "sq",
-    "xmltv_id": "Click.al@SD"
-  },
-  {
-    "site_id": "ntv",
-    "name": "ntv",
-    "lang": "sq",
-    "xmltv_id": "ntv.al@SD"
-  },
-  {
-    "site_id": "pro1",
-    "name": "PRO1",
-    "lang": "sq"
+    "xmltv_id": "RTSH24.al@SD"
   },
   {
     "site_id": "supersport-1",
@@ -608,130 +80,52 @@
     "xmltv_id": "SuperSport1.al@SD"
   },
   {
-    "site_id": "supersonic-tv",
-    "name": "Supersonic TV",
+    "site_id": "tgrt-eu",
+    "name": "TGRT EU",
+    "lang": "tr",
+    "xmltv_id": "TGRTEurope.tr@SD"
+  },
+  {
+    "site_id": "a2",
+    "name": "A2",
+    "lang": "tr",
+    "xmltv_id": "A2TV.tr@SD"
+  },
+  {
+    "site_id": "tring-kids",
+    "name": "Tring Kids",
     "lang": "sq",
-    "xmltv_id": "SuperSonicTV.al@SD"
+    "xmltv_id": "TringKids.al@SD"
   },
   {
-    "site_id": "tv-most",
-    "name": "TV Most",
-    "lang": "sq"
+    "site_id": "tv8-int",
+    "name": "TV8 Int'l",
+    "lang": "tr",
+    "xmltv_id": "TV8int.tr@SD"
   },
   {
-    "site_id": "haber-turk",
-    "name": "Haber Türk",
-    "lang": "tr"
-  },
-  {
-    "site_id": "21-popullore",
-    "name": "21 Popullore",
-    "lang": "sq",
-    "xmltv_id": "21Popullore.xk@SD"
-  },
-  {
-    "site_id": "bang-bang",
-    "name": "Bang Bang",
-    "lang": "sq",
-    "xmltv_id": "BangBang.al@SD"
-  },
-  {
-    "site_id": "dorcelxxx",
-    "name": "Dorcel XXX",
+    "site_id": "tv-5-monde",
+    "name": "TV5Monde Europe",
     "lang": "fr",
-    "xmltv_id": "DorcelXXX.nl@SD"
+    "xmltv_id": "TV5MondeEurope.fr@SD"
   },
   {
-    "site_id": "episode",
-    "name": "Episode",
+    "site_id": "club-tv",
+    "name": "Club TV",
     "lang": "sq",
-    "xmltv_id": "Episode.xk@SD"
+    "xmltv_id": "ClubTV.al@SD"
   },
   {
-    "site_id": "kids",
-    "name": "Kids",
-    "lang": "sq"
-  },
-  {
-    "site_id": "tv-festina",
-    "name": "TV Festina",
+    "site_id": "elrodi",
+    "name": "Elrodi",
     "lang": "sq",
-    "xmltv_id": "TVFestina.xk@SD"
+    "xmltv_id": "ElrodiTV.al@SD"
   },
   {
-    "site_id": "rtsh-3",
-    "name": "RTSH 3",
+    "site_id": "klan-news",
+    "name": "Klan News",
     "lang": "sq",
-    "xmltv_id": "RTSH3.al@SD"
-  },
-  {
-    "site_id": "beat-tv",
-    "name": "Beat TV",
-    "lang": "sq"
-  },
-  {
-    "site_id": "al-jazeera-balkans",
-    "name": "Al Jazeera Balkans",
-    "lang": "bs",
-    "xmltv_id": "AlJazeeraBalkans.ba@SD"
-  },
-  {
-    "site_id": "family-hd",
-    "name": "Film Family",
-    "lang": "sq"
-  },
-  {
-    "site_id": "film-autor",
-    "name": "Film Autor",
-    "lang": "sq",
-    "xmltv_id": "FilmAutor.al@SD"
-  },
-  {
-    "site_id": "kanali-7",
-    "name": "Kanali 7",
-    "lang": "sq",
-    "xmltv_id": "Kanali7.al@SD"
-  },
-  {
-    "site_id": "sport-6",
-    "name": "Sport 6",
-    "lang": "sq",
-    "xmltv_id": "Sport6.xk@SD"
-  },
-  {
-    "site_id": "star-plus-tv",
-    "name": "Star Plus",
-    "lang": "sq",
-    "xmltv_id": "StarPlus.al@SD"
-  },
-  {
-    "site_id": "eroxxx",
-    "name": "EroXXX",
-    "lang": "sq",
-    "xmltv_id": "EroXXX.nl@SD"
-  },
-  {
-    "site_id": "euro-d",
-    "name": "Euro D",
-    "lang": "tr",
-    "xmltv_id": "EuroD.tr@SD"
-  },
-  {
-    "site_id": "gold-hd",
-    "name": "Film Gold",
-    "lang": "sq"
-  },
-  {
-    "site_id": "show-maxx",
-    "name": "Show Max",
-    "lang": "tr",
-    "xmltv_id": "ShowMax.tr@SD"
-  },
-  {
-    "site_id": "sport-3",
-    "name": "Sport 3",
-    "lang": "sq",
-    "xmltv_id": "Sport3.xk@SD"
+    "xmltv_id": "KlanNews.al@SD"
   },
   {
     "site_id": "suite",
@@ -745,105 +139,32 @@
     "xmltv_id": "TGRTHaber.tr@SD"
   },
   {
-    "site_id": "tring-fantasy",
-    "name": "Tring Fantasy",
-    "lang": "sq",
-    "xmltv_id": "TringFantasy.al@SD"
-  },
-  {
-    "site_id": "life-hd",
-    "name": "Life HD",
+    "site_id": "tring-orignals",
+    "name": "Tring Originals",
     "lang": "sq"
   },
   {
-    "site_id": "muse",
-    "name": "Muse",
+    "site_id": "tv-festina",
+    "name": "TV Festina",
     "lang": "sq",
-    "xmltv_id": "Muse.al@SD"
+    "xmltv_id": "TVFestina.xk@SD"
   },
   {
-    "site_id": "prime-tv",
-    "name": "Prime TV",
+    "site_id": "21-mix",
+    "name": "21 Mix",
     "lang": "sq",
-    "xmltv_id": "PrimeTV.xk@SD"
+    "xmltv_id": "21Mix.xk@SD"
   },
   {
-    "site_id": "t7",
-    "name": "T7",
+    "site_id": "novelas",
+    "name": "Tring Novelas",
     "lang": "sq",
-    "xmltv_id": "T7.xk@SD"
+    "xmltv_id": "TringNovelas.al@SD"
   },
   {
-    "site_id": "tring-kids",
-    "name": "Tring Kids",
-    "lang": "sq",
-    "xmltv_id": "TringKids.al@SD"
-  },
-  {
-    "site_id": "trt-1",
-    "name": "TRT 1",
-    "lang": "tr",
-    "xmltv_id": "TRT1.tr@SD"
-  },
-  {
-    "site_id": "tv-5-monde",
-    "name": "TV5Monde Europe",
-    "lang": "fr",
-    "xmltv_id": "TV5MondeEurope.fr@SD"
-  },
-  {
-    "site_id": "tv-mitrovica",
-    "name": "TV Mitrovica",
-    "lang": "sq",
-    "xmltv_id": "TVMitrovica.xk@SD"
-  },
-  {
-    "site_id": "klan-music",
-    "name": "Klan Music",
-    "lang": "sq",
-    "xmltv_id": "KlanMusic.al@SD"
-  },
-  {
-    "site_id": "tring-comedy",
-    "name": "Tring Comedy",
-    "lang": "sq",
-    "xmltv_id": "TringComedy.al@SD"
-  },
-  {
-    "site_id": "tring-tring",
-    "name": "Tring Tring",
-    "lang": "sq",
-    "xmltv_id": "TringTring.al@SD"
-  },
-  {
-    "site_id": "tring-world",
-    "name": "Tring World",
-    "lang": "sq",
-    "xmltv_id": "TringWorld.al@SD"
-  },
-  {
-    "site_id": "trt-spor",
-    "name": "TRT Spor",
-    "lang": "tr",
-    "xmltv_id": "TRTSpor.tr@SD"
-  },
-  {
-    "site_id": "tv-dukagjini",
-    "name": "TV Dukagjini",
-    "lang": "sq",
-    "xmltv_id": "RTVDukagjini.xk@SD"
-  },
-  {
-    "site_id": "club-tv",
-    "name": "Club TV",
-    "lang": "sq",
-    "xmltv_id": "ClubTV.al@SD"
-  },
-  {
-    "site_id": "21-junior",
-    "name": "21 Junior",
-    "lang": "sq",
-    "xmltv_id": "21Junior.xk@SD"
+    "site_id": "premiere-2",
+    "name": "Premiere 2",
+    "lang": "sq"
   },
   {
     "site_id": "sport-1",
@@ -852,15 +173,81 @@
     "xmltv_id": "Sport1.xk@SD"
   },
   {
-    "site_id": "star-movies",
-    "name": "Star Movies",
+    "site_id": "trt-muzik",
+    "name": "TRT Müzik",
+    "lang": "tr",
+    "xmltv_id": "TRTMuzik.tr@SD"
+  },
+  {
+    "site_id": "vizion-+-hd",
+    "name": "Vizion+",
+    "lang": "sq",
+    "xmltv_id": "VizionPlus.al@SD"
+  },
+  {
+    "site_id": "exp-shkence",
+    "name": "Explorer Shkencë",
+    "lang": "sq",
+    "xmltv_id": "ExplorerShkence.al@SD"
+  },
+  {
+    "site_id": "film-autor",
+    "name": "Film Autor",
+    "lang": "sq",
+    "xmltv_id": "FilmAutor.al@SD"
+  },
+  {
+    "site_id": "klan-mk",
+    "name": "Klan Macedonia",
+    "lang": "sq",
+    "xmltv_id": "KlanMacedonia.mk@SD"
+  },
+  {
+    "site_id": "klan-music",
+    "name": "Klan Music",
+    "lang": "sq",
+    "xmltv_id": "KlanMusic.al@SD"
+  },
+  {
+    "site_id": "max-hd",
+    "name": "Film Max",
     "lang": "sq"
   },
   {
-    "site_id": "tring-shqip",
-    "name": "Tring Shqip",
+    "site_id": "rtsh-3",
+    "name": "RTSH 3",
     "lang": "sq",
-    "xmltv_id": "TringShqip.al@SD"
+    "xmltv_id": "RTSH3.al@SD"
+  },
+  {
+    "site_id": "rtv-21",
+    "name": "RTV 21",
+    "lang": "sq",
+    "xmltv_id": "RTV21.xk@SD"
+  },
+  {
+    "site_id": "star-plus-tv",
+    "name": "Star Plus",
+    "lang": "sq",
+    "xmltv_id": "StarPlus.al@SD"
+  },
+  {
+    "site_id": "halk-tv",
+    "name": "Halk TV",
+    "lang": "tr",
+    "xmltv_id": "HalkTV.tr@SD"
+  },
+  {
+    "site_id": "tring-action-hd",
+    "name": "Tring Action",
+    "lang": "sq",
+    "xmltv_id": "TringAction.al@SD"
+  },
+  {
+    "site_id": "tring-super-hd",
+    "name": "Tring Super",
+    "lang": "sq",
+    "xmltv_id": "TringSuper.al@SD"
   },
   {
     "site_id": "tv-slon",
@@ -869,10 +256,124 @@
     "xmltv_id": "TVSlonExtra.ba@SD"
   },
   {
-    "site_id": "doku-1",
-    "name": "Doku 1",
+    "site_id": "show-maxx",
+    "name": "Show Max",
+    "lang": "tr",
+    "xmltv_id": "ShowMax.tr@SD"
+  },
+  {
+    "site_id": "24-tv",
+    "name": "24 TV",
+    "lang": "tr",
+    "xmltv_id": "24TV.tr@SD"
+  },
+  {
+    "site_id": "e--tv",
+    "name": "E-TV",
+    "lang": "sq"
+  },
+  {
+    "site_id": "ipko-promo",
+    "name": "IPKO Promo",
+    "lang": "sq"
+  },
+  {
+    "site_id": "k-sport-2",
+    "name": "K-Sport 2",
     "lang": "sq",
-    "xmltv_id": "Doku1.xk@SD"
+    "xmltv_id": "KSport2.xk@SD"
+  },
+  {
+    "site_id": "ktv",
+    "name": "KTV",
+    "lang": "sq",
+    "xmltv_id": "Kohavision.xk@SD"
+  },
+  {
+    "site_id": "sport-5",
+    "name": "Sport 5",
+    "lang": "sq",
+    "xmltv_id": "Sport5.xk@SD"
+  },
+  {
+    "site_id": "star-movies",
+    "name": "Star Movies",
+    "lang": "sq"
+  },
+  {
+    "site_id": "euro-d",
+    "name": "Euro D",
+    "lang": "tr",
+    "xmltv_id": "EuroD.tr@SD"
+  },
+  {
+    "site_id": "eurofilm",
+    "name": "EuroFilm",
+    "lang": "sq"
+  },
+  {
+    "site_id": "kino-1",
+    "name": "Kino 1",
+    "lang": "sq",
+    "xmltv_id": "Kino1.xk@SD"
+  },
+  {
+    "site_id": "supersport-7",
+    "name": "SuperSport 7",
+    "lang": "sq",
+    "xmltv_id": "SuperSport7.al@SD"
+  },
+  {
+    "site_id": "top-news",
+    "name": "Top News",
+    "lang": "sq",
+    "xmltv_id": "TopNews.al@SD"
+  },
+  {
+    "site_id": "tring-shqip",
+    "name": "Tring Shqip",
+    "lang": "sq",
+    "xmltv_id": "TringShqip.al@SD"
+  },
+  {
+    "site_id": "turkish-stories",
+    "name": "Tring Turkish Stories",
+    "lang": "sq"
+  },
+  {
+    "site_id": "tv-arta",
+    "name": "TV Arta",
+    "lang": "sq",
+    "xmltv_id": "TVArta.xk@SD"
+  },
+  {
+    "site_id": "3-plus",
+    "name": "3 Plus",
+    "lang": "sq",
+    "xmltv_id": "3Plus.al@SD"
+  },
+  {
+    "site_id": "21-plus",
+    "name": "21 Plus",
+    "lang": "sq",
+    "xmltv_id": "21Plus.xk@SD"
+  },
+  {
+    "site_id": "21-popullore",
+    "name": "21 Popullore",
+    "lang": "sq",
+    "xmltv_id": "21Popullore.xk@SD"
+  },
+  {
+    "site_id": "alsat-m",
+    "name": "Alsat M",
+    "lang": "mk"
+  },
+  {
+    "site_id": "bang-bang",
+    "name": "Bang Bang",
+    "lang": "sq",
+    "xmltv_id": "BangBang.al@SD"
   },
   {
     "site_id": "euro-star",
@@ -881,46 +382,9 @@
     "xmltv_id": "EuroStar.tr@SD"
   },
   {
-    "site_id": "k-sport-4",
-    "name": "K-Sport 4",
-    "lang": "sq",
-    "xmltv_id": "KSport4.xk@SD"
-  },
-  {
-    "site_id": "sky-360",
-    "name": "360",
-    "lang": "tr",
-    "xmltv_id": "360.tr@SD"
-  },
-  {
-    "site_id": "tv-llapi",
-    "name": "TV Llapi",
-    "lang": "sq",
-    "xmltv_id": "TVLlapi.xk@SD"
-  },
-  {
-    "site_id": "a-haber",
-    "name": "A Haber",
-    "lang": "tr",
-    "xmltv_id": "AHaber.tr@SD"
-  },
-  {
-    "site_id": "a-news",
-    "name": "A News",
-    "lang": "en",
-    "xmltv_id": "ANews.tr@SD"
-  },
-  {
-    "site_id": "a-para",
-    "name": "A Para",
-    "lang": "tr",
-    "xmltv_id": "APara.tr@SD"
-  },
-  {
-    "site_id": "bbf",
-    "name": "BBF",
-    "lang": "sq",
-    "xmltv_id": "BBFMusicTV.al@SD"
+    "site_id": "france-24",
+    "name": "France 24",
+    "lang": "fr"
   },
   {
     "site_id": "kanal-10",
@@ -929,14 +393,31 @@
     "xmltv_id": "Kanal10.xk@SD"
   },
   {
-    "site_id": "kanald-drama",
-    "name": "Kanal D Drama",
-    "lang": "tr",
-    "xmltv_id": "KanalDDrama.tr@SD"
+    "site_id": "k-sport-4",
+    "name": "K-Sport 4",
+    "lang": "sq",
+    "xmltv_id": "KSport4.xk@SD"
   },
   {
-    "site_id": "premiere-2",
-    "name": "Premiere 2",
+    "site_id": "kanal-7",
+    "name": "Kanal 7",
+    "lang": "tr",
+    "xmltv_id": "Kanal7.tr@SD"
+  },
+  {
+    "site_id": "ntv",
+    "name": "ntv",
+    "lang": "sq",
+    "xmltv_id": "ntv.al@SD"
+  },
+  {
+    "site_id": "positive-gold",
+    "name": "Positive Gold",
+    "lang": "sq"
+  },
+  {
+    "site_id": "premium-channel",
+    "name": "Premium Channel",
     "lang": "sq"
   },
   {
@@ -946,99 +427,16 @@
     "xmltv_id": "RTSH1.al@SD"
   },
   {
-    "site_id": "film-hits-hd",
-    "name": "Film Hits",
+    "site_id": "sport-3",
+    "name": "Sport 3",
     "lang": "sq",
-    "xmltv_id": "FilmHits.al@SD"
+    "xmltv_id": "Sport3.xk@SD"
   },
   {
-    "site_id": "exp-histori",
-    "name": "Explorer Histori",
+    "site_id": "tip-tv",
+    "name": "Tip TV",
     "lang": "sq",
-    "xmltv_id": "ExplorerHistori.al@SD"
-  },
-  {
-    "site_id": "fax-news",
-    "name": "Fax News",
-    "lang": "sq",
-    "xmltv_id": "FaxNews.al@SD"
-  },
-  {
-    "site_id": "halk-tv",
-    "name": "Halk TV",
-    "lang": "tr",
-    "xmltv_id": "HalkTV.tr@SD"
-  },
-  {
-    "site_id": "rtk-3",
-    "name": "RTK 3",
-    "lang": "sq",
-    "xmltv_id": "RTK3.xk@SD"
-  },
-  {
-    "site_id": "rtsh-24",
-    "name": "RTSH 24",
-    "lang": "sq",
-    "xmltv_id": "RTSH24.al@SD"
-  },
-  {
-    "site_id": "rtv-21-mk",
-    "name": "RTV 21 MK",
-    "lang": "mk"
-  },
-  {
-    "site_id": "rtsh-plus",
-    "name": "RTSH Plus",
-    "lang": "sq",
-    "xmltv_id": "RTSHPlus.al@SD"
-  },
-  {
-    "site_id": "doku-2",
-    "name": "Doku 2",
-    "lang": "sq",
-    "xmltv_id": "Doku2.xk@SD"
-  },
-  {
-    "site_id": "al-jazeera",
-    "name": "Al Jazeera",
-    "lang": "en",
-    "xmltv_id": "AlJazeera.qa@English"
-  },
-  {
-    "site_id": "21-mix",
-    "name": "21 Mix",
-    "lang": "sq",
-    "xmltv_id": "21Mix.xk@SD"
-  },
-  {
-    "site_id": "24-tv",
-    "name": "24 TV",
-    "lang": "tr",
-    "xmltv_id": "24TV.tr@SD"
-  },
-  {
-    "site_id": "rtsh-muzike",
-    "name": "RTSH Muzikë",
-    "lang": "sq",
-    "xmltv_id": "RTSHMuzike.al@SD"
-  },
-  {
-    "site_id": "stv-folk",
-    "name": "STV Folk",
-    "lang": "sq",
-    "xmltv_id": "STVFolk.al@SD"
-  },
-  {
-    "site_id": "supersport-6",
-    "name": "SuperSport 6",
-    "lang": "sq",
-    "xmltv_id": "SuperSport6.al@SD"
-  },
-  {
-    "site_id": "ulke-tv",
-    "name": "Ülke TV",
-    "lang": "tr",
-    "xmltv_id": "UlkeTV.tr@SD"
+    "xmltv_id": "TipTV.al@SD"
   },
   {
     "site_id": "dream-porn",
@@ -1047,15 +445,186 @@
     "xmltv_id": "DreamPornTV.ba@SD"
   },
   {
+    "site_id": "life-hd",
+    "name": "Life HD",
+    "lang": "sq"
+  },
+  {
+    "site_id": "rtk-4",
+    "name": "RTK 4",
+    "lang": "sq",
+    "xmltv_id": "RTK4.xk@SD"
+  },
+  {
+    "site_id": "tring-series",
+    "name": "Tring Series",
+    "lang": "sq"
+  },
+  {
+    "site_id": "trt-cocuk",
+    "name": "TRT Çocuk",
+    "lang": "tr",
+    "xmltv_id": "TRTCocuk.tr@SD"
+  },
+  {
+    "site_id": "zico-tv",
+    "name": "Zico TV",
+    "lang": "sr"
+  },
+  {
+    "site_id": "a-para",
+    "name": "A Para",
+    "lang": "tr",
+    "xmltv_id": "APara.tr@SD"
+  },
+  {
+    "site_id": "al-jazeera-balkans",
+    "name": "Al Jazeera Balkans",
+    "lang": "bs",
+    "xmltv_id": "AlJazeeraBalkans.ba@SD"
+  },
+  {
+    "site_id": "film-hits-hd",
+    "name": "Film Hits",
+    "lang": "sq",
+    "xmltv_id": "FilmHits.al@SD"
+  },
+  {
+    "site_id": "folk-+",
+    "name": "Folk+",
+    "lang": "sq",
+    "xmltv_id": "FolkPlus.al@SD"
+  },
+  {
+    "site_id": "k-sport-1",
+    "name": "K-Sport 1",
+    "lang": "sq",
+    "xmltv_id": "KSport1.xk@SD"
+  },
+  {
+    "site_id": "kino-3",
+    "name": "Kino 3",
+    "lang": "sq"
+  },
+  {
+    "site_id": "rtv-21-mk",
+    "name": "RTV 21 MK",
+    "lang": "mk"
+  },
+  {
     "site_id": "sofia",
     "name": "Sofia",
     "lang": "sq"
   },
   {
-    "site_id": "syri-tv",
-    "name": "Syri TV",
+    "site_id": "gold-hd",
+    "name": "Film Gold",
+    "lang": "sq"
+  },
+  {
+    "site_id": "kb-peja",
+    "name": "KB Peja",
+    "lang": "sq"
+  },
+  {
+    "site_id": "sport-2",
+    "name": "Sport 2",
     "lang": "sq",
-    "xmltv_id": "Syri.al@SD"
+    "xmltv_id": "Sport2.xk@SD"
+  },
+  {
+    "site_id": "stinet",
+    "name": "Stinët",
+    "lang": "sq",
+    "xmltv_id": "Stinet.al@SD"
+  },
+  {
+    "site_id": "supersport-2",
+    "name": "SuperSport 2",
+    "lang": "sq",
+    "xmltv_id": "SuperSport2.al@SD"
+  },
+  {
+    "site_id": "supersport-3",
+    "name": "SuperSport 3",
+    "lang": "sq",
+    "xmltv_id": "SuperSport3.al@SD"
+  },
+  {
+    "site_id": "t-hd",
+    "name": "T",
+    "lang": "sq",
+    "xmltv_id": "T.al@SD"
+  },
+  {
+    "site_id": "tgrt-belgesel",
+    "name": "TGRT Belgesel",
+    "lang": "tr",
+    "xmltv_id": "TGRTBelgesel.tr@SD"
+  },
+  {
+    "site_id": "doku-2",
+    "name": "Doku 2",
+    "lang": "sq",
+    "xmltv_id": "Doku2.xk@SD"
+  },
+  {
+    "site_id": "dream-turk",
+    "name": "Dream Türk",
+    "lang": "tr",
+    "xmltv_id": "DreamTurk.tr@SD"
+  },
+  {
+    "site_id": "premiere-4",
+    "name": "Premiere 4",
+    "lang": "sq"
+  },
+  {
+    "site_id": "supersport-4",
+    "name": "SuperSport 4",
+    "lang": "sq",
+    "xmltv_id": "SuperSport4.al@SD"
+  },
+  {
+    "site_id": "film-komedi",
+    "name": "Film Komedi",
+    "lang": "sq",
+    "xmltv_id": "FilmKomedi.al@SD"
+  },
+  {
+    "site_id": "atv-(turkey)",
+    "name": "ATV (Turkey)",
+    "lang": "tr",
+    "xmltv_id": "ATV.tr@SD"
+  },
+  {
+    "site_id": "eroxxx",
+    "name": "EroXXX",
+    "lang": "sq",
+    "xmltv_id": "EroXXX.nl@SD"
+  },
+  {
+    "site_id": "fax-news",
+    "name": "Fax News",
+    "lang": "sq",
+    "xmltv_id": "FaxNews.al@SD"
+  },
+  {
+    "site_id": "kids",
+    "name": "Kids",
+    "lang": "sq"
+  },
+  {
+    "site_id": "teve-1",
+    "name": "tëvë 1",
+    "lang": "sq",
+    "xmltv_id": "Teve1.xk@SD"
+  },
+  {
+    "site_id": "top-channel",
+    "name": "Top Channel",
+    "lang": "sq",
+    "xmltv_id": "TopChannel.al@SD"
   },
   {
     "site_id": "tring-life",
@@ -1064,32 +633,61 @@
     "xmltv_id": "TringLife.al@SD"
   },
   {
-    "site_id": "tv-puls",
-    "name": "TV Puls",
+    "site_id": "atd-tv",
+    "name": "ATD TV",
     "lang": "sq"
   },
   {
-    "site_id": "tv-syri-vision",
-    "name": "Syri Vision",
+    "site_id": "exp-histori",
+    "name": "Explorer Histori",
     "lang": "sq",
-    "xmltv_id": "SyriVision.xk@SD"
+    "xmltv_id": "ExplorerHistori.al@SD"
   },
   {
-    "site_id": "a-spor",
-    "name": "A Spor",
-    "lang": "tr",
-    "xmltv_id": "ASpor.tr@SD"
-  },
-  {
-    "site_id": "21-plus",
-    "name": "21 Plus",
+    "site_id": "film-thriller",
+    "name": "Film Thriller",
     "lang": "sq",
-    "xmltv_id": "21Plus.xk@SD"
+    "xmltv_id": "FilmThriller.al@SD"
   },
   {
-    "site_id": "kb-peja",
-    "name": "KB Peja",
-    "lang": "sq"
+    "site_id": "haber-turk",
+    "name": "Haber Türk",
+    "lang": "tr"
+  },
+  {
+    "site_id": "muse",
+    "name": "Muse",
+    "lang": "sq",
+    "xmltv_id": "Muse.al@SD"
+  },
+  {
+    "site_id": "power-turk",
+    "name": "Power Türk",
+    "lang": "tr"
+  },
+  {
+    "site_id": "tring-family",
+    "name": "Tring Family",
+    "lang": "sq",
+    "xmltv_id": "TringFamily.al@SD"
+  },
+  {
+    "site_id": "tring-history",
+    "name": "Tring History",
+    "lang": "sq",
+    "xmltv_id": "TringHistory.al@SD"
+  },
+  {
+    "site_id": "atv",
+    "name": "ATV",
+    "lang": "sq",
+    "xmltv_id": "ATV.xk@SD"
+  },
+  {
+    "site_id": "dorcelxxx",
+    "name": "Dorcel XXX",
+    "lang": "fr",
+    "xmltv_id": "DorcelXXX.nl@SD"
   },
   {
     "site_id": "my-music",
@@ -1098,15 +696,359 @@
     "xmltv_id": "MyMusic.al@SD"
   },
   {
-    "site_id": "novelas",
-    "name": "Tring Novelas",
+    "site_id": "a-spor",
+    "name": "A Spor",
+    "lang": "tr",
+    "xmltv_id": "ASpor.tr@SD"
+  },
+  {
+    "site_id": "bbf",
+    "name": "BBF",
     "lang": "sq",
-    "xmltv_id": "TringNovelas.al@SD"
+    "xmltv_id": "BBFMusicTV.al@SD"
+  },
+  {
+    "site_id": "first-channel",
+    "name": "First Channel",
+    "lang": "sq",
+    "xmltv_id": "FirstChannel.xk@SD"
+  },
+  {
+    "site_id": "junior-tv",
+    "name": "Junior TV",
+    "lang": "sq",
+    "xmltv_id": "JuniorTV.al@SD"
+  },
+  {
+    "site_id": "stv-folk",
+    "name": "STV Folk",
+    "lang": "sq",
+    "xmltv_id": "STVFolk.al@SD"
+  },
+  {
+    "site_id": "syri-tv",
+    "name": "Syri TV",
+    "lang": "sq",
+    "xmltv_id": "Syri.al@SD"
+  },
+  {
+    "site_id": "tring-planet",
+    "name": "Tring Planet",
+    "lang": "sq",
+    "xmltv_id": "TringPlanet.al@SD"
+  },
+  {
+    "site_id": "tring-world",
+    "name": "Tring World",
+    "lang": "sq",
+    "xmltv_id": "TringWorld.al@SD"
+  },
+  {
+    "site_id": "bubble",
+    "name": "Bubble",
+    "lang": "sq",
+    "xmltv_id": "BubbleTV.al@SD"
+  },
+  {
+    "site_id": "k-sport-3",
+    "name": "K-Sport 3",
+    "lang": "sq",
+    "xmltv_id": "KSport3.xk@SD"
+  },
+  {
+    "site_id": "premiere-3",
+    "name": "Premiere 3",
+    "lang": "sq"
+  },
+  {
+    "site_id": "prince-kids",
+    "name": "Prince Kids",
+    "lang": "sq"
+  },
+  {
+    "site_id": "rti",
+    "name": "RTI",
+    "lang": "sq",
+    "xmltv_id": "RTVIliria.xk@SD"
+  },
+  {
+    "site_id": "sport-6",
+    "name": "Sport 6",
+    "lang": "sq",
+    "xmltv_id": "Sport6.xk@SD"
+  },
+  {
+    "site_id": "tao-tao",
+    "name": "Tao Tao",
+    "lang": "sq"
+  },
+  {
+    "site_id": "tring-tring",
+    "name": "Tring Tring",
+    "lang": "sq",
+    "xmltv_id": "TringTring.al@SD"
   },
   {
     "site_id": "peace-tv",
     "name": "Peace TV",
     "lang": "sq"
+  },
+  {
+    "site_id": "supersport-6",
+    "name": "SuperSport 6",
+    "lang": "sq",
+    "xmltv_id": "SuperSport6.al@SD"
+  },
+  {
+    "site_id": "terra-hd",
+    "name": "Terra",
+    "lang": "sq"
+  },
+  {
+    "site_id": "trt-1",
+    "name": "TRT 1",
+    "lang": "tr",
+    "xmltv_id": "TRT1.tr@SD"
+  },
+  {
+    "site_id": "tv-4",
+    "name": "TV 4",
+    "lang": "tr",
+    "xmltv_id": "TV4.tr@SD"
+  },
+  {
+    "site_id": "tv-llapi",
+    "name": "TV Llapi",
+    "lang": "sq",
+    "xmltv_id": "TVLlapi.xk@SD"
+  },
+  {
+    "site_id": "21-junior",
+    "name": "21 Junior",
+    "lang": "sq",
+    "xmltv_id": "21Junior.xk@SD"
+  },
+  {
+    "site_id": "film-aksion",
+    "name": "Film Aksion",
+    "lang": "sq",
+    "xmltv_id": "FilmAksion.al@SD"
+  },
+  {
+    "site_id": "rtv-mir",
+    "name": "RTV Mir",
+    "lang": "sq",
+    "xmltv_id": "RTVMir.xk@SD"
+  },
+  {
+    "site_id": "supersport-5",
+    "name": "SuperSport 5",
+    "lang": "sq",
+    "xmltv_id": "SuperSport5.al@SD"
+  },
+  {
+    "site_id": "tring-classics",
+    "name": "Tring Classic",
+    "lang": "sq",
+    "xmltv_id": "TringClassic.al@SD"
+  },
+  {
+    "site_id": "tring-fantasy",
+    "name": "Tring Fantasy",
+    "lang": "sq",
+    "xmltv_id": "TringFantasy.al@SD"
+  },
+  {
+    "site_id": "trt-haber",
+    "name": "TRT Haber",
+    "lang": "tr",
+    "xmltv_id": "TRTHaber.tr@SD"
+  },
+  {
+    "site_id": "tv-liria",
+    "name": "TV Liria",
+    "lang": "sq"
+  },
+  {
+    "site_id": "rtsh-plus",
+    "name": "RTSH Plus",
+    "lang": "sq",
+    "xmltv_id": "RTSHPlus.al@SD"
+  },
+  {
+    "site_id": "ulke-tv",
+    "name": "Ülke TV",
+    "lang": "tr",
+    "xmltv_id": "UlkeTV.tr@SD"
+  },
+  {
+    "site_id": "rtsh-shqip",
+    "name": "RTSH Shqip",
+    "lang": "sq",
+    "xmltv_id": "RTSHShqip.al@SD"
+  },
+  {
+    "site_id": "film-drame",
+    "name": "Film Dramë",
+    "lang": "sq",
+    "xmltv_id": "FilmDrame.al@SD"
+  },
+  {
+    "site_id": "al-jazeera",
+    "name": "Al Jazeera",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@English"
+  },
+  {
+    "site_id": "klan",
+    "name": "Klan",
+    "lang": "sq",
+    "xmltv_id": "TVKlan.al@SD"
+  },
+  {
+    "site_id": "tv-most",
+    "name": "TV Most",
+    "lang": "sq"
+  },
+  {
+    "site_id": "tv-tema",
+    "name": "TV Tema",
+    "lang": "sq",
+    "xmltv_id": "TemaTV.xk@SD"
+  },
+  {
+    "site_id": "euronews-albania",
+    "name": "Euronews Albania",
+    "lang": "sq",
+    "xmltv_id": "EuronewsAlbania.al@SD"
+  },
+  {
+    "site_id": "kanali-7",
+    "name": "Kanali 7",
+    "lang": "sq",
+    "xmltv_id": "Kanali7.al@SD"
+  },
+  {
+    "site_id": "pro1",
+    "name": "PRO1",
+    "lang": "sq"
+  },
+  {
+    "site_id": "rtsh-muzike",
+    "name": "RTSH Muzikë",
+    "lang": "sq",
+    "xmltv_id": "RTSHMuzike.al@SD"
+  },
+  {
+    "site_id": "star-life",
+    "name": "Star Life",
+    "lang": "sq"
+  },
+  {
+    "site_id": "trt-spor",
+    "name": "TRT Spor",
+    "lang": "tr",
+    "xmltv_id": "TRTSpor.tr@SD"
+  },
+  {
+    "site_id": "tv-besa",
+    "name": "TV Besa",
+    "lang": "sq",
+    "xmltv_id": "RTVBesa.xk@SD"
+  },
+  {
+    "site_id": "tv-mitrovica",
+    "name": "TV Mitrovica",
+    "lang": "sq",
+    "xmltv_id": "TVMitrovica.xk@SD"
+  },
+  {
+    "site_id": "episode",
+    "name": "Episode",
+    "lang": "sq",
+    "xmltv_id": "Episode.xk@SD"
+  },
+  {
+    "site_id": "klan-kosova",
+    "name": "Klan Kosova",
+    "lang": "sq",
+    "xmltv_id": "KlanKosova.xk@SD"
+  },
+  {
+    "site_id": "tring-comedy",
+    "name": "Tring Comedy",
+    "lang": "sq",
+    "xmltv_id": "TringComedy.al@SD"
+  },
+  {
+    "site_id": "tv-dukagjini",
+    "name": "TV Dukagjini",
+    "lang": "sq",
+    "xmltv_id": "RTVDukagjini.xk@SD"
+  },
+  {
+    "site_id": "a-haber",
+    "name": "A Haber",
+    "lang": "tr",
+    "xmltv_id": "AHaber.tr@SD"
+  },
+  {
+    "site_id": "gurmania",
+    "name": "Gurmania",
+    "lang": "sq"
+  },
+  {
+    "site_id": "prime-tv",
+    "name": "Prime TV",
+    "lang": "sq",
+    "xmltv_id": "PrimeTV.xk@SD"
+  },
+  {
+    "site_id": "doku-1",
+    "name": "Doku 1",
+    "lang": "sq",
+    "xmltv_id": "Doku1.xk@SD"
+  },
+  {
+    "site_id": "a2-cnn",
+    "name": "A2 CNN",
+    "lang": "sq",
+    "xmltv_id": "A2CNN.al@SD"
+  },
+  {
+    "site_id": "click-tv",
+    "name": "Click TV",
+    "lang": "sq",
+    "xmltv_id": "Click.al@SD"
+  },
+  {
+    "site_id": "kanald-drama",
+    "name": "Kanal D Drama",
+    "lang": "tr",
+    "xmltv_id": "KanalDDrama.tr@SD"
+  },
+  {
+    "site_id": "smile",
+    "name": "Smile",
+    "lang": "sq",
+    "xmltv_id": "Smile.al@SD"
+  },
+  {
+    "site_id": "tv-puls",
+    "name": "TV Puls",
+    "lang": "sq"
+  },
+  {
+    "site_id": "rtk-2",
+    "name": "RTK 2",
+    "lang": "sq",
+    "xmltv_id": "RTK2.xk@SD"
+  },
+  {
+    "site_id": "rtk-3",
+    "name": "RTK 3",
+    "lang": "sq",
+    "xmltv_id": "RTK3.xk@SD"
   },
   {
     "site_id": "show-turk",
@@ -1115,9 +1057,67 @@
     "xmltv_id": "ShowTurk.tr@SD"
   },
   {
-    "site_id": "tring-classics",
-    "name": "Tring Classic",
+    "site_id": "supersonic-tv",
+    "name": "Supersonic TV",
     "lang": "sq",
-    "xmltv_id": "TringClassic.al@SD"
+    "xmltv_id": "SuperSonicTV.al@SD"
+  },
+  {
+    "site_id": "dtv",
+    "name": "DTV",
+    "lang": "sq",
+    "xmltv_id": "DTV.xk@SD"
+  },
+  {
+    "site_id": "family-hd",
+    "name": "Film Family",
+    "lang": "sq"
+  },
+  {
+    "site_id": "kino-2",
+    "name": "Kino 2",
+    "lang": "sq",
+    "xmltv_id": "Kino2.xk@SD"
+  },
+  {
+    "site_id": "sport-4",
+    "name": "Sport 4",
+    "lang": "sq",
+    "xmltv_id": "Sport4.xk@SD"
+  },
+  {
+    "site_id": "travelingo",
+    "name": "Travelingo",
+    "lang": "sq",
+    "xmltv_id": "TravelingoTV.xk@SD"
+  },
+  {
+    "site_id": "tring-collection",
+    "name": "Tring Collection",
+    "lang": "sq",
+    "xmltv_id": "TringCollection.al@SD"
+  },
+  {
+    "site_id": "trt-world",
+    "name": "TRT World",
+    "lang": "en",
+    "xmltv_id": "TRTWorld.tr@SD"
+  },
+  {
+    "site_id": "beat-tv",
+    "name": "Beat TV",
+    "lang": "sq"
+  },
+  {
+    "site_id": "t7",
+    "name": "T7",
+    "lang": "sq",
+    "xmltv_id": "T7.xk@SD"
+  },
+  {
+    "site_id": "tv-syri-vision",
+    "name": "Syri Vision",
+    "lang": "sq",
+    "xmltv_id": "SyriVision.xk@SD"
   }
 ]
