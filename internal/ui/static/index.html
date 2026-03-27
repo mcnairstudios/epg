@@ -730,9 +730,12 @@
           <tr>
             <td>${u.username}</td>
             <td>${u.role}</td>
-            <td><code style="font-size:11px;">${u.token}</code></td>
+            <td><code style="font-size:11px;cursor:pointer;" onclick="navigator.clipboard.writeText('${u.token}');showStatus('Token copied','success')" title="Click to copy">${u.token.substring(0,16)}...</code></td>
             <td>${new Date(u.created_at).toLocaleDateString()}</td>
-            <td><button class="btn btn-danger" onclick="deleteUser('${u.id}')">Delete</button></td>
+            <td>
+              <button class="btn" style="background:#374151;color:#9ca3af;font-size:11px;padding:2px 8px;" onclick="navigator.clipboard.writeText('${u.token}');showStatus('Token copied','success')">Copy</button>
+              <button class="btn btn-danger" style="font-size:11px;padding:2px 8px;" onclick="deleteUser('${u.id}')">Delete</button>
+            </td>
           </tr>
         `).join('');
       } catch(e) { console.error(e); }
@@ -743,10 +746,14 @@
       const role = document.getElementById('user-role').value;
       try {
         const user = await apiFetch('/users', {method:'POST', body: JSON.stringify({username, role})});
-        token = user.token;
-        localStorage.setItem('epg-token', token);
-        document.getElementById('token-input').value = token;
-        showStatus(`User created: ${user.username} — token saved to browser`, 'success');
+        if (!token) {
+          token = user.token;
+          localStorage.setItem('epg-token', token);
+          document.getElementById('token-input').value = token;
+          showStatus(`User created: ${user.username} — token auto-saved (first user)`, 'success');
+        } else {
+          showStatus(`User created: ${user.username}`, 'success');
+        }
         document.getElementById('user-username').value = '';
         loadUsers();
       } catch(e) { showStatus(e.message, 'error'); }
