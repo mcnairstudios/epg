@@ -348,23 +348,28 @@
           : (s.description ? `<p style="font-size:12px;color:#8b98a5;">${s.description}</p>` : '');
       const lastGrab = gs ? `<span style="font-size:11px;color:#8b98a5;">Last: ${new Date(gs.last_grab).toLocaleString()} (${gs.duration})</span>` : '';
       const errorInfo = gs && gs.errors > 0 ? `<span style="font-size:11px;color:#fca5a5;"> ${gs.errors} errors</span>` : '';
+      const isSleepingOrErrored = context === 'sleeping' || context === 'errored';
       const grabFnName = context === 'active'
         ? (s._grabFn || 'grabSource')
-        : context === 'sleeping' ? 'grabSleepingSource' : 'grabSettingsSource';
+        : isSleepingOrErrored ? 'grabSleepingSource' : 'grabSettingsSource';
       const grabBtn = isGrabbing
         ? '<button class="btn" style="background:#d97706;color:white;" disabled>Grabbing...</button>'
         : `<button class="btn btn-success" onclick="${grabFnName}('${safeNameAttr}')">Grab</button>`;
       const removeBtn = isExternal ? `<button class="btn btn-danger" onclick="removeExternal('${safeNameAttr}')">Remove</button>` : '';
+      const guideBtn = !isSleepingOrErrored && gs && gs.programs > 0
+        ? `<button class="btn btn-primary" onclick="openGuide('${safeNameAttr}')">Guide</button>` : '';
+      const copyBtn = !isSleepingOrErrored
+        ? `<button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${safeNameAttr}')">Copy XMLTV URL</button>` : '';
 
       return `
-        <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}">
+        <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}${context === 'errored' ? 'border-color:#dc2626;' : ''}">
           <h3>${typeBadge}${s.name} ${statusBadge}</h3>
           ${subtitle}
           <div style="margin-top:2px;">${lastGrab}${errorInfo}</div>
           <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
             ${grabBtn}
-            ${gs && gs.programs > 0 ? `<button class="btn btn-primary" onclick="openGuide('${safeNameAttr}')">Guide</button>` : ''}
-            <button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${safeNameAttr}')">Copy XMLTV URL</button>
+            ${guideBtn}
+            ${copyBtn}
             ${removeBtn}
           </div>
         </div>

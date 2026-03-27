@@ -2,7 +2,6 @@ package directvuy
 
 import (
 	"bytes"
-	"crypto/tls"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -14,6 +13,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -28,12 +28,7 @@ func init() {
 	if err != nil {
 		panic(err)
 	}
-	tlsClient := &http.Client{
-		Transport: &http.Transport{
-			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
-		},
-	}
-	plugin.Register(&provider{client: tlsClient})
+	plugin.Register(&provider{client: httpclient.InsecureBrowser()})
 }
 
 type provider struct {
@@ -81,15 +76,31 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 
+	req.Header.Set("Accept", "*/*")
+	req.Header.Set("Accept-Language", "es-419,es;q=0.9")
+	req.Header.Set("Connection", "keep-alive")
 	req.Header.Set("Content-Type", "application/json; charset=UTF-8")
 	req.Header.Set("Cookie", "PGCSS=16384; PGLang=S; PGCulture=es-UY;")
+	req.Header.Set("Origin", "https://www.directv.com.uy")
+	req.Header.Set("Referer", fmt.Sprintf("https://www.directv.com.uy/guia/ChannelDetail.aspx?id=%s&name=%s", channelNum, channelName))
+	req.Header.Set("Sec-Fetch-Dest", "empty")
+	req.Header.Set("Sec-Fetch-Mode", "cors")
+	req.Header.Set("Sec-Fetch-Site", "same-origin")
+	req.Header.Set("X-Requested-With", "XMLHttpRequest")
 	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36")
+	req.Header.Set("sec-ch-ua", `"Not;A=Brand";v="99", "Brave";v="139", "Chromium";v="139"`)
+	req.Header.Set("sec-ch-ua-mobile", "?0")
+	req.Header.Set("sec-ch-ua-platform", `"Windows"`)
 
 	resp, err := p.client.Do(req)
 	if err != nil {
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from directv.com.uy", resp.StatusCode)
+	}
 
 	data, err := io.ReadAll(resp.Body)
 	if err != nil {

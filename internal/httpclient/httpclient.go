@@ -11,8 +11,10 @@ import (
 )
 
 var (
-	once     sync.Once
-	instance *http.Client
+	once         sync.Once
+	instance     *http.Client
+	insecureOnce sync.Once
+	insecureInst *http.Client
 )
 
 func Browser() *http.Client {
@@ -24,7 +26,18 @@ func Browser() *http.Client {
 	return instance
 }
 
-type browserTransport struct{}
+func InsecureBrowser() *http.Client {
+	insecureOnce.Do(func() {
+		insecureInst = &http.Client{
+			Transport: &browserTransport{insecureSkipVerify: true},
+		}
+	})
+	return insecureInst
+}
+
+type browserTransport struct {
+	insecureSkipVerify bool
+}
 
 func (t *browserTransport) RoundTrip(req *http.Request) (*http.Response, error) {
 	port := req.URL.Port()
@@ -37,7 +50,10 @@ func (t *browserTransport) RoundTrip(req *http.Request) (*http.Response, error) 
 		return nil, err
 	}
 
-	tlsConn := utls.UClient(conn, &utls.Config{ServerName: req.URL.Hostname()}, utls.HelloChrome_Auto)
+	tlsConn := utls.UClient(conn, &utls.Config{
+		ServerName:         req.URL.Hostname(),
+		InsecureSkipVerify: t.insecureSkipVerify,
+	}, utls.HelloChrome_Auto)
 	if err := tlsConn.HandshakeContext(req.Context()); err != nil {
 		conn.Close()
 		return nil, err
