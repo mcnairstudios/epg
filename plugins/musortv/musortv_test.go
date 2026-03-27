@@ -7,6 +7,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/plugins/musortv"
 )
 
@@ -21,7 +22,14 @@ func TestParseContent(t *testing.T) {
 		t.Fatalf("failed to read test data: %v", err)
 	}
 
-	programs, err := musortv.Parse(data)
+	channel := domain.Channel{
+		ID:      "musor.tv-ID",
+		XmltvID: "InvestigationDiscovery.hu@SD",
+		SiteID:  "ID",
+		Lang:    "hu",
+	}
+
+	programs, err := musortv.Parse(data, channel)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -45,6 +53,14 @@ func TestParseContent(t *testing.T) {
 		t.Fatalf("expected source 'musor.tv', got %q", p.Source)
 	}
 
+	if p.Channel != "InvestigationDiscovery.hu@SD" {
+		t.Fatalf("expected channel 'InvestigationDiscovery.hu@SD', got %q", p.Channel)
+	}
+
+	if p.Lang != "hu" {
+		t.Fatalf("expected lang 'hu', got %q", p.Lang)
+	}
+
 	if p.Title == "" {
 		t.Fatal("expected title to be set")
 	}
@@ -61,7 +77,14 @@ func TestParseNewTimeFormat(t *testing.T) {
 </div></div></div>
 </body></html>`
 
-	programs, err := musortv.Parse([]byte(html))
+	ch := domain.Channel{
+		ID:      "musor.tv-RTL",
+		XmltvID: "RTL.hu@SD",
+		SiteID:  "RTL",
+		Lang:    "hu",
+	}
+
+	programs, err := musortv.Parse([]byte(html), ch)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -83,11 +106,20 @@ func TestParseNewTimeFormat(t *testing.T) {
 	if programs[0].Title != "Test Program" {
 		t.Fatalf("expected title 'Test Program', got %q", programs[0].Title)
 	}
+
+	if programs[0].Channel != "RTL.hu@SD" {
+		t.Fatalf("expected channel 'RTL.hu@SD', got %q", programs[0].Channel)
+	}
+
+	if programs[0].Lang != "hu" {
+		t.Fatalf("expected lang 'hu', got %q", programs[0].Lang)
+	}
 }
 
 func TestParseEmptyContent(t *testing.T) {
 	programs, err := musortv.Parse(
 		[]byte("<!DOCTYPE html><html><head></head><body></body></html>"),
+		domain.Channel{SiteID: "ID", Lang: "hu"},
 	)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)

@@ -66,10 +66,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 
-	return Parse(body)
+	return Parse(body, channel)
 }
 
-func Parse(data []byte) ([]domain.Program, error) {
+func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	doc, err := html.Parse(bytes.NewReader(data))
 	if err != nil {
 		return []domain.Program{}, nil
@@ -101,10 +101,12 @@ func Parse(data []byte) ([]domain.Program, error) {
 		stop := start.Add(30 * time.Minute)
 
 		p := domain.Program{
+			Channel:     channel.XmltvID,
 			Source:      "musor.tv",
 			Title:       title,
 			Description: extractDescription(item),
 			Image:       extractImage(item),
+			Lang:        channel.Lang,
 			Start:       start,
 			Stop:        stop,
 		}

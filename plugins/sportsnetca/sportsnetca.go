@@ -40,7 +40,7 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	url := fmt.Sprintf(
-		"https://production-cdn.sportsnet.ca/api/schedules?channels=%s&date=%s&duration=24&hour=0",
+		"https://production-cdn.d3-rgr-diva.com/api/schedules?channels=%s&date=%s&duration=24&hour=0",
 		channel.SiteID, date.Format("2006-01-02"),
 	)
 

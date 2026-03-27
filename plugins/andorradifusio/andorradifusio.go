@@ -1,10 +1,10 @@
 package andorradifusio
 
 import (
+	"encoding/json"
 	"fmt"
 	"io"
 	"net/http"
-	"strconv"
 	"strings"
 	"time"
 
@@ -19,14 +19,7 @@ import (
 //go:embed channels.json
 var channelsData []byte
 
-var madrid *time.Location
-
 func init() {
-	var err error
-	madrid, err = time.LoadLocation("Europe/Madrid")
-	if err != nil {
-		madrid = time.FixedZone("CET", 1*60*60)
-	}
 	plugin.Register(&provider{
 		client: http.DefaultClient,
 	})
@@ -41,7 +34,7 @@ type httpClient interface {
 }
 
 func (p *provider) Name() string        { return "andorradifusio.ad" }
-func (p *provider) Description() string { return "Andorra Difusio TV guide" }
+func (p *provider) Description() string { return "Andorra Difusio TV guide (RTVA)" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
 	return channels.Load(channelsData, "andorradifusio.ad")
@@ -69,188 +62,128 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	return Parse(body, channel, date)
 }
 
-type schedItem struct {
-	Time  string
-	Title string
-}
-
 func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	if len(data) == 0 {
 		return []domain.Program{}, nil
 	}
 
-	doc, err := html.Parse(strings.NewReader(string(data)))
-	if err != nil {
+	jsonData := extractNextData(data)
+	if jsonData == "" {
 		return []domain.Program{}, nil
 	}
 
-	dayStr := formatCatalanDay(date)
-	items := extractSchedule(doc, dayStr)
-	if len(items) == 0 {
+	var page nextDataWrapper
+	if err := json.Unmarshal([]byte(jsonData), &page); err != nil {
 		return []domain.Program{}, nil
 	}
+
+	shortTitle := strings.ToUpper(channel.SiteID)
+
+	dayStart := time.Date(date.Year(), date.Month(), date.Day(), 0, 0, 0, 0, time.UTC)
+	dayEnd := dayStart.AddDate(0, 0, 1)
 
 	var programs []domain.Program
-	for i, item := range items {
-		start := parseTime(item.Time, date)
-		if start.IsZero() {
+	for _, body := range page.Props.PageProps.Page.Body {
+		if body.Name != "ShowScheduleRepresentation" {
 			continue
 		}
-
-		if len(programs) > 0 {
-			prev := &programs[len(programs)-1]
-			if start.Before(prev.Start) {
-				date = date.AddDate(0, 0, 1)
-				start = parseTime(item.Time, date)
+		for _, item := range body.Body {
+			if item.ContentShortTitle != shortTitle {
+				continue
 			}
-			prev.Stop = start
+			start := parseDateTime(item.StartDateTime)
+			stop := parseDateTime(item.EndDateTime)
+			if start.IsZero() || stop.IsZero() {
+				continue
+			}
+			if start.Before(dayStart) || !start.Before(dayEnd) {
+				continue
+			}
+			title := strings.TrimSpace(item.Title)
+			if title == "" {
+				continue
+			}
+			programs = append(programs, domain.Program{
+				Channel: channel.XmltvID,
+				Source:  "andorradifusio.ad",
+				Title:   title,
+				Image:   item.MainImage,
+				Lang:    channel.Lang,
+				Start:   start,
+				Stop:    stop,
+			})
 		}
-
-		stop := start.Add(1 * time.Hour)
-		_ = i
-
-		programs = append(programs, domain.Program{
-			Channel: channel.XmltvID,
-			Source:  "andorradifusio.ad",
-			Title:   item.Title,
-			Lang:    channel.Lang,
-			Start:   start,
-			Stop:    stop,
-		})
 	}
 
+	if programs == nil {
+		return []domain.Program{}, nil
+	}
 	return programs, nil
 }
 
-func parseTime(timeStr string, date time.Time) time.Time {
-	parts := strings.Split(strings.TrimSpace(timeStr), ":")
-	if len(parts) != 2 {
+func parseDateTime(s string) time.Time {
+	s = strings.TrimSpace(s)
+	if s == "" {
 		return time.Time{}
 	}
-	hour, err := strconv.Atoi(strings.TrimSpace(parts[0]))
+	s = strings.TrimSuffix(s, " UTC")
+	t, err := time.Parse("2006-01-02 15:04:05 -0700", s)
 	if err != nil {
 		return time.Time{}
 	}
-	minute, err := strconv.Atoi(strings.TrimSpace(parts[1]))
-	if err != nil {
-		return time.Time{}
-	}
-
-	t := time.Date(date.Year(), date.Month(), date.Day(), hour, minute, 0, 0, madrid)
 	return t.UTC()
 }
 
-var catalanMonths = []string{
-	"gener", "febrer", "març", "abril", "maig", "juny",
-	"juliol", "agost", "setembre", "octubre", "novembre", "desembre",
-}
-
-func formatCatalanDay(date time.Time) string {
-	day := date.Day()
-	month := catalanMonths[date.Month()-1]
-	return fmt.Sprintf("%02d %s", day, month[:3])
-}
-
-func extractSchedule(doc *html.Node, dayPrefix string) []schedItem {
-	columns := findAllByClass(doc, "programacio-dia")
-	for _, col := range columns {
-		span := findByClass(col, "dia")
-		if span == nil {
-			continue
-		}
-		text := strings.TrimSpace(extractText(span))
-		if text == dayPrefix+"." {
-			return extractItems(col)
-		}
-	}
-	return nil
-}
-
-func extractItems(col *html.Node) []schedItem {
-	var h4s []*html.Node
-	var ps []*html.Node
-	collectH4P(col, &h4s, &ps)
-
-	var items []schedItem
-	for i := 0; i < len(h4s) && i < len(ps); i++ {
-		items = append(items, schedItem{
-			Time:  strings.TrimSpace(extractText(h4s[i])),
-			Title: strings.TrimSpace(extractText(ps[i])),
-		})
-	}
-	return items
-}
-
-func collectH4P(n *html.Node, h4s, ps *[]*html.Node) {
-	if n.Type == html.ElementNode {
-		if n.Data == "h4" {
-			*h4s = append(*h4s, n)
-			return
-		}
-		if n.Data == "p" {
-			*ps = append(*ps, n)
-			return
-		}
-	}
-	for c := n.FirstChild; c != nil; c = c.NextSibling {
-		collectH4P(c, h4s, ps)
-	}
-}
-
-func findAllByClass(n *html.Node, class string) []*html.Node {
-	var result []*html.Node
-	if n.Type == html.ElementNode {
-		for _, a := range n.Attr {
-			if a.Key == "class" && classMatches(a.Val, class) {
-				result = append(result, n)
-			}
-		}
-	}
-	for c := n.FirstChild; c != nil; c = c.NextSibling {
-		result = append(result, findAllByClass(c, class)...)
-	}
-	return result
-}
-
-func findByClass(n *html.Node, class string) *html.Node {
-	if n.Type == html.ElementNode {
-		for _, a := range n.Attr {
-			if a.Key == "class" && classMatches(a.Val, class) {
-				return n
-			}
-		}
-	}
-	for c := n.FirstChild; c != nil; c = c.NextSibling {
-		if found := findByClass(c, class); found != nil {
-			return found
-		}
-	}
-	return nil
-}
-
-func classMatches(attrVal, class string) bool {
-	for _, c := range strings.Fields(attrVal) {
-		if c == class {
-			return true
-		}
-	}
-	return false
-}
-
-func extractText(n *html.Node) string {
-	if n == nil {
+func extractNextData(data []byte) string {
+	doc, err := html.Parse(strings.NewReader(string(data)))
+	if err != nil {
 		return ""
 	}
-	var sb strings.Builder
+
+	var result string
 	var walk func(*html.Node)
-	walk = func(node *html.Node) {
-		if node.Type == html.TextNode {
-			sb.WriteString(node.Data)
+	walk = func(n *html.Node) {
+		if result != "" {
+			return
 		}
-		for c := node.FirstChild; c != nil; c = c.NextSibling {
+		if n.Type == html.ElementNode && n.Data == "script" {
+			for _, a := range n.Attr {
+				if a.Key == "id" && a.Val == "__NEXT_DATA__" {
+					if n.FirstChild != nil && n.FirstChild.Type == html.TextNode {
+						result = n.FirstChild.Data
+					}
+					return
+				}
+			}
+		}
+		for c := n.FirstChild; c != nil; c = c.NextSibling {
 			walk(c)
 		}
 	}
-	walk(n)
-	return sb.String()
+	walk(doc)
+	return result
+}
+
+type nextDataWrapper struct {
+	Props struct {
+		PageProps struct {
+			Page struct {
+				Body []pageBody `json:"body"`
+			} `json:"page"`
+		} `json:"pageProps"`
+	} `json:"props"`
+}
+
+type pageBody struct {
+	Name string         `json:"name"`
+	Body []scheduleItem `json:"body"`
+}
+
+type scheduleItem struct {
+	ContentShortTitle string `json:"content_shorttitle"`
+	StartDateTime     string `json:"start_date_time"`
+	EndDateTime       string `json:"end_date_time"`
+	Title             string `json:"title"`
+	SubTitle          string `json:"subtitle"`
+	MainImage         string `json:"main_image"`
 }
