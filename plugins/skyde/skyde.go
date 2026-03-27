@@ -41,7 +41,7 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	url := "https://www.sky.de/sgtvg/service/getBroadcastsForGrid"
 
-	body := fmt.Sprintf(`{"cil":[%s],"d":%d}`, channel.SiteID, date.UnixMilli())
+	body := fmt.Sprintf(`{"cil":["%s"],"d":%d}`, channel.SiteID, date.UnixMilli())
 
 	req, err := http.NewRequest(http.MethodPost, url, strings.NewReader(body))
 	if err != nil {
@@ -50,7 +50,6 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("Accept", "application/json")
 	req.Header.Set("Accept-Language", "en-GB")
-	req.Header.Set("Accept-Encoding", "gzip, deflate, br")
 
 	resp, err := p.client.Do(req)
 	if err != nil {
