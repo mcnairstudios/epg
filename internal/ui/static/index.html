@@ -316,9 +316,10 @@
           const errorInfo = gs && gs.errors > 0 ? `<span style="font-size:11px;color:#fca5a5;"> ${gs.errors} errors</span>` : '';
           const grabBtn = isGrabbing
             ? '<button class="btn" style="background:#d97706;color:white;" disabled>Grabbing...</button>'
-            : `<button class="btn btn-success" onclick="${s._grabFn}('${s.name}')">Grab</button>`;
-          const removeBtn = isExternal ? `<button class="btn btn-danger" onclick="removeExternal('${s.name}')">Remove</button>` : '';
-          const sleepBtn = `<button class="btn" style="background:#374151;color:#9ca3af;font-size:11px;padding:2px 8px;" onclick="event.stopPropagation();toggleSleep('${s.name}')" title="Put to sleep">zzz</button>`;
+            : `<button class="btn btn-success" onclick="${s._grabFn}('${safeNameAttr}')">Grab</button>`;
+          const safeNameAttr = (s.name||'').replace(/'/g, "\\'").replace(/"/g, '&quot;');
+          const removeBtn = isExternal ? `<button class="btn btn-danger" onclick="removeExternal('${safeNameAttr}')">Remove</button>` : '';
+          const sleepBtn = `<button class="btn" style="background:#374151;color:#9ca3af;font-size:11px;padding:2px 8px;" onclick="event.stopPropagation();toggleSleep('${safeNameAttr}')" title="Put to sleep">zzz</button>`;
 
           return `
             <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}position:relative;">
@@ -328,8 +329,8 @@
               <div style="margin-top:2px;">${lastGrab}${errorInfo}</div>
               <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
                 ${grabBtn}
-                ${gs && gs.programs > 0 ? `<button class="btn btn-primary" onclick="openGuide('${s.name}')">Guide</button>` : ''}
-                <button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${s.name}')">Copy XMLTV URL</button>
+                ${gs && gs.programs > 0 ? `<button class="btn btn-primary" onclick="openGuide('${safeNameAttr}')">Guide</button>` : ''}
+                <button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${safeNameAttr}')">Copy XMLTV URL</button>
                 ${removeBtn}
               </div>
             </div>
@@ -409,7 +410,7 @@
 
     async function removeExternal(name) {
       try {
-        await apiFetch('/external-sources/' + name, {method:'DELETE'});
+        await apiFetch('/external-sources/' + encodeURIComponent(name), {method:'DELETE'});
         showStatus('Removed: ' + name, 'success');
         loadSources();
       } catch(e) { showStatus(e.message, 'error'); }
@@ -420,7 +421,7 @@
         grabbingSet.add('ext:' + name);
         loadSources();
         showStatus('Grabbing external source: ' + name + '...', 'info');
-        const res = await apiFetch('/external-sources/' + name + '/grab', {method:'POST'});
+        const res = await apiFetch('/external-sources/' + encodeURIComponent(name) + '/grab', {method:'POST'});
         grabbingSet.delete('ext:' + name);
         showStatus(`Imported ${res.channels} channels, ${res.programs} programs from ${name}`, 'success');
         refreshAll();
