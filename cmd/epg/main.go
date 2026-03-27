@@ -15,6 +15,7 @@ import (
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
 
+	_ "github.com/gavinmcnair/epg/plugins/allente"
 	_ "github.com/gavinmcnair/epg/plugins/beinsports"
 	_ "github.com/gavinmcnair/epg/plugins/canalplus"
 	_ "github.com/gavinmcnair/epg/plugins/cubmu"
@@ -55,6 +56,7 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/vidio"
 	_ "github.com/gavinmcnair/epg/plugins/virginmedia"
 	_ "github.com/gavinmcnair/epg/plugins/vrtbe"
+	_ "github.com/gavinmcnair/epg/plugins/wavve"
 	_ "github.com/gavinmcnair/epg/plugins/xumotv"
 )
 
