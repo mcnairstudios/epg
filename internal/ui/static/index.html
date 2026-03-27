@@ -501,6 +501,7 @@
       const windowStart = new Date(now.getTime() + guideOffset * 3600000);
       windowStart.setMinutes(0, 0, 0);
       const windowStartMs = windowStart.getTime();
+      const activeChannels = guideChannels.filter(ch => (guideProgsByChannel[ch.xmltv_id] || []).length > 0);
       const windowEndMs = windowStartMs + HOURS_SHOWN * 3600000;
       const nowMs = now.getTime();
 
@@ -517,7 +518,7 @@
       document.getElementById('epg-header').innerHTML = headerHtml;
 
       let bodyHtml = '';
-      for (const ch of guideChannels) {
+      for (const ch of activeChannels) {
         const chProgs = (guideProgsByChannel[ch.xmltv_id] || [])
           .filter(p => new Date(p.stop).getTime() > windowStartMs && new Date(p.start).getTime() < windowEndMs)
           .sort((a,b) => new Date(a.start) - new Date(b.start));
