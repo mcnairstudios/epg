@@ -5,6 +5,7 @@ import (
 	"os"
 	"path/filepath"
 	"sort"
+	"strings"
 	"sync"
 	"time"
 
@@ -16,21 +17,20 @@ type Store struct {
 	channels  map[string]domain.Channel
 	programs  map[string][]domain.Program
 	grabStats map[string]GrabStats
-	path      string
+	dir       string
 }
 
-type snapshot struct {
-	Channels  map[string]domain.Channel
+type sourceSnapshot struct {
 	Programs  map[string][]domain.Program
-	GrabStats map[string]GrabStats
+	GrabStats GrabStats
 }
 
-func New(path string) *Store {
+func New(dir string) *Store {
 	return &Store{
 		channels:  make(map[string]domain.Channel),
 		programs:  make(map[string][]domain.Program),
 		grabStats: make(map[string]GrabStats),
-		path:      path,
+		dir:       dir,
 	}
 }
 
@@ -140,98 +140,107 @@ func (s *Store) GetGrabStats() []GrabStats {
 	return result
 }
 
-func (s *Store) Save() error {
+func (s *Store) SaveSource(source string) error {
 	s.mu.RLock()
 	defer s.mu.RUnlock()
 
-	if s.path == "" {
+	if s.dir == "" {
 		return nil
 	}
 
-	if err := os.MkdirAll(filepath.Dir(s.path), 0755); err != nil {
+	if err := os.MkdirAll(s.dir, 0755); err != nil {
 		return err
 	}
 
-	f, err := os.Create(s.path)
+	progs := make(map[string][]domain.Program)
+	for chID, p := range s.programs {
+		if len(p) > 0 && p[0].Source == source {
+			progs[chID] = p
+		}
+	}
+
+	snap := sourceSnapshot{
+		Programs:  progs,
+		GrabStats: s.grabStats[source],
+	}
+
+	safeName := strings.ReplaceAll(source, "/", "_")
+	target := filepath.Join(s.dir, safeName+".gob")
+
+	tmp, err := os.CreateTemp(s.dir, "."+safeName+"-*.gob.tmp")
 	if err != nil {
 		return err
 	}
-	defer f.Close()
+	tmpPath := tmp.Name()
 
-	return gob.NewEncoder(f).Encode(snapshot{
-		Channels:  s.channels,
-		Programs:  s.programs,
-		GrabStats: s.grabStats,
-	})
+	if err := gob.NewEncoder(tmp).Encode(snap); err != nil {
+		tmp.Close()
+		os.Remove(tmpPath)
+		return err
+	}
+
+	if err := tmp.Sync(); err != nil {
+		tmp.Close()
+		os.Remove(tmpPath)
+		return err
+	}
+	tmp.Close()
+
+	return os.Rename(tmpPath, target)
+}
+
+func (s *Store) Save() error {
+	s.mu.RLock()
+	sources := make(map[string]bool)
+	for _, gs := range s.grabStats {
+		sources[gs.Source] = true
+	}
+	s.mu.RUnlock()
+
+	for source := range sources {
+		if err := s.SaveSource(source); err != nil {
+			return err
+		}
+	}
+	return nil
 }
 
 func (s *Store) Load() error {
 	s.mu.Lock()
 	defer s.mu.Unlock()
 
-	if s.path == "" {
+	if s.dir == "" {
 		return nil
 	}
 
-	f, err := os.Open(s.path)
+	files, err := filepath.Glob(filepath.Join(s.dir, "*.gob"))
 	if err != nil {
-		if os.IsNotExist(err) {
-			return nil
+		return err
+	}
+
+	for _, file := range files {
+		f, err := os.Open(file)
+		if err != nil {
+			continue
 		}
-		return err
-	}
-	defer f.Close()
 
-	var snap snapshot
-	if err := gob.NewDecoder(f).Decode(&snap); err != nil {
-		return err
+		var snap sourceSnapshot
+		if err := gob.NewDecoder(f).Decode(&snap); err != nil {
+			f.Close()
+			continue
+		}
+		f.Close()
+
+		for chID, progs := range snap.Programs {
+			s.programs[chID] = progs
+		}
+
+		if snap.GrabStats.Source != "" {
+			s.grabStats[snap.GrabStats.Source] = snap.GrabStats
+		}
 	}
 
-	s.channels = snap.Channels
-	s.programs = snap.Programs
-	if snap.GrabStats != nil {
-		s.grabStats = snap.GrabStats
-	} else {
-		s.grabStats = s.deriveGrabStats()
-	}
 	return nil
-}
-
-func (s *Store) deriveGrabStats() map[string]GrabStats {
-	stats := make(map[string]GrabStats)
-
-	sourceChannels := make(map[string]int)
-	sourcePrograms := make(map[string]int)
-
-	for _, ch := range s.channels {
-		sourceChannels[ch.Source]++
-	}
-
-	for _, progs := range s.programs {
-		for _, p := range progs {
-			sourcePrograms[p.Source]++
-		}
-	}
-
-	sources := make(map[string]bool)
-	for src := range sourceChannels {
-		sources[src] = true
-	}
-	for src := range sourcePrograms {
-		sources[src] = true
-	}
-
-	for src := range sources {
-		stats[src] = GrabStats{
-			Source:   src,
-			Channels: sourceChannels[src],
-			Programs: sourcePrograms[src],
-			LastGrab: time.Now().UTC(),
-			Duration: "restored",
-		}
-	}
-
-	return stats
 }
 
 type Filter struct {

@@ -142,7 +142,7 @@ func main() {
 	schedule := flag.String("schedule", "", "cron schedule for automatic grabbing (e.g. '0 0 * * *' for daily)")
 	flag.Parse()
 
-	s := store.New(filepath.Join(*dataDir, "epg.gob"))
+	s := store.New(filepath.Join(*dataDir, "providers"))
 	if err := s.Load(); err != nil {
 		log.Printf("warning: failed to load data: %v", err)
 	}

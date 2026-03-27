@@ -1,8 +1,6 @@
 package store_test
 
 import (
-	"os"
-	"path/filepath"
 	"testing"
 	"time"
 
@@ -104,60 +102,79 @@ func TestGetProgramsWithFilter(t *testing.T) {
 	}
 }
 
-func TestSaveAndLoad(t *testing.T) {
+func TestSaveAndLoadPerSource(t *testing.T) {
 	dir := t.TempDir()
-	path := filepath.Join(dir, "epg.gob")
 
-	s := store.New(path)
-	s.SetChannels([]domain.Channel{
-		{ID: "ch1", Name: "Channel 1", Source: "test"},
-	})
+	s := store.New(dir)
 	now := time.Date(2026, 3, 27, 10, 0, 0, 0, time.UTC)
-	s.SetPrograms("ch1", []domain.Program{
-		{Channel: "ch1", Title: "Test Show", Start: now, Stop: now.Add(time.Hour)},
-	})
 
-	if err := s.Save(); err != nil {
+	s.SetPrograms("ch1", []domain.Program{
+		{Channel: "ch1", Source: "test-source", Title: "Test Show", Start: now, Stop: now.Add(time.Hour)},
+	})
+	s.RecordGrabStats("test-source", 1, 1, 0, time.Second)
+
+	if err := s.SaveSource("test-source"); err != nil {
 		t.Fatalf("save failed: %v", err)
 	}
 
-	s2 := store.New(path)
+	s2 := store.New(dir)
 	if err := s2.Load(); err != nil {
 		t.Fatalf("load failed: %v", err)
-	}
-
-	channels := s2.GetChannels()
-	if len(channels) != 1 {
-		t.Fatalf("expected 1 channel after load, got %d", len(channels))
 	}
 
 	programs := s2.GetPrograms()
 	if len(programs) != 1 {
 		t.Fatalf("expected 1 program after load, got %d", len(programs))
 	}
-}
 
-func TestLoadNonexistentFile(t *testing.T) {
-	s := store.New("/tmp/nonexistent_epg_test.gob")
-	if err := s.Load(); err != nil {
-		t.Fatalf("load of nonexistent file should not error, got: %v", err)
+	stats := s2.GetGrabStats()
+	if len(stats) != 1 {
+		t.Fatalf("expected 1 grab stat after load, got %d", len(stats))
 	}
 }
 
-func TestSaveEmptyPath(t *testing.T) {
+func TestLoadNonexistentDir(t *testing.T) {
+	s := store.New("/tmp/nonexistent_epg_test_dir")
+	if err := s.Load(); err != nil {
+		t.Fatalf("load of nonexistent dir should not error, got: %v", err)
+	}
+}
+
+func TestSaveEmptyDir(t *testing.T) {
 	s := store.New("")
 	if err := s.Save(); err != nil {
-		t.Fatalf("save with empty path should not error, got: %v", err)
+		t.Fatalf("save with empty dir should not error, got: %v", err)
 	}
 }
 
-func TestLoadEmptyPath(t *testing.T) {
-	s := store.New("")
-	if err := s.Load(); err != nil {
-		t.Fatalf("load with empty path should not error, got: %v", err)
-	}
-}
+func TestMultipleSourcesSaveLoad(t *testing.T) {
+	dir := t.TempDir()
 
-func TestCleanup(t *testing.T) {
-	os.Remove("/tmp/nonexistent_epg_test.gob")
+	s := store.New(dir)
+	now := time.Date(2026, 3, 27, 10, 0, 0, 0, time.UTC)
+
+	s.SetPrograms("ch1", []domain.Program{
+		{Channel: "ch1", Source: "src1", Title: "Show A", Start: now, Stop: now.Add(time.Hour)},
+	})
+	s.SetPrograms("ch2", []domain.Program{
+		{Channel: "ch2", Source: "src2", Title: "Show B", Start: now, Stop: now.Add(time.Hour)},
+	})
+	s.RecordGrabStats("src1", 1, 1, 0, time.Second)
+	s.RecordGrabStats("src2", 1, 1, 0, time.Second)
+
+	if err := s.Save(); err != nil {
+		t.Fatalf("save failed: %v", err)
+	}
+
+	s2 := store.New(dir)
+	if err := s2.Load(); err != nil {
+		t.Fatalf("load failed: %v", err)
+	}
+
+	if len(s2.GetPrograms()) != 2 {
+		t.Fatalf("expected 2 programs, got %d", len(s2.GetPrograms()))
+	}
+	if len(s2.GetGrabStats()) != 2 {
+		t.Fatalf("expected 2 stats, got %d", len(s2.GetGrabStats()))
+	}
 }

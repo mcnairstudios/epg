@@ -51,7 +51,7 @@ func (s *Server) triggerGrab(w http.ResponseWriter, r *http.Request) {
 
 	s.store.RecordGrabStats(req.Source, len(channelSet), resp.Results, resp.Errors, duration)
 
-	if err := s.store.Save(); err != nil {
+	if err := s.store.SaveSource(req.Source); err != nil {
 		http.Error(w, `{"error":"failed to persist data"}`, http.StatusInternalServerError)
 		return
 	}

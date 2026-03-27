@@ -134,17 +134,31 @@ func (s *UserStore) Save() error {
 		return nil
 	}
 
-	if err := os.MkdirAll(filepath.Dir(s.path), 0755); err != nil {
+	dir := filepath.Dir(s.path)
+	if err := os.MkdirAll(dir, 0755); err != nil {
 		return err
 	}
 
-	f, err := os.Create(s.path)
+	tmp, err := os.CreateTemp(dir, ".users-*.gob.tmp")
 	if err != nil {
 		return err
 	}
-	defer f.Close()
+	tmpPath := tmp.Name()
 
-	return gob.NewEncoder(f).Encode(userSnapshot{Users: s.users})
+	if err := gob.NewEncoder(tmp).Encode(userSnapshot{Users: s.users}); err != nil {
+		tmp.Close()
+		os.Remove(tmpPath)
+		return err
+	}
+
+	if err := tmp.Sync(); err != nil {
+		tmp.Close()
+		os.Remove(tmpPath)
+		return err
+	}
+	tmp.Close()
+
+	return os.Rename(tmpPath, s.path)
 }
 
 func (s *UserStore) Load() error {

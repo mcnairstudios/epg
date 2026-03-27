@@ -138,17 +138,31 @@ func (m *ExternalSourceManager) Save() error {
 		return nil
 	}
 
-	if err := os.MkdirAll(filepath.Dir(m.path), 0755); err != nil {
+	dir := filepath.Dir(m.path)
+	if err := os.MkdirAll(dir, 0755); err != nil {
 		return err
 	}
 
-	f, err := os.Create(m.path)
+	tmp, err := os.CreateTemp(dir, ".sources-*.gob.tmp")
 	if err != nil {
 		return err
 	}
-	defer f.Close()
+	tmpPath := tmp.Name()
 
-	return gob.NewEncoder(f).Encode(externalSnapshot{Sources: m.sources})
+	if err := gob.NewEncoder(tmp).Encode(externalSnapshot{Sources: m.sources}); err != nil {
+		tmp.Close()
+		os.Remove(tmpPath)
+		return err
+	}
+
+	if err := tmp.Sync(); err != nil {
+		tmp.Close()
+		os.Remove(tmpPath)
+		return err
+	}
+	tmp.Close()
+
+	return os.Rename(tmpPath, m.path)
 }
 
 func (m *ExternalSourceManager) Load() error {
