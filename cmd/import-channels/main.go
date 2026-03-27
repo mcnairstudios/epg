@@ -36,6 +36,7 @@ type channelEntry struct {
 var siteToPlugin = map[string]string{
 	"abc.net.au":                   "abcau",
 	"tv.blue.ch":                   "bluech",
+	"tv.sfr.fr":                    "sfrfr",
 	"allente.no":                   "allente",
 	"content.astro.com.my":         "astro",
 	"beinsports.com":               "beinsports",

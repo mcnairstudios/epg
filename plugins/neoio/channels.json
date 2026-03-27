@@ -1,9 +1,154 @@
 [
   {
+    "site_id": "cmc",
+    "name": "CMC",
+    "lang": "hr",
+    "xmltv_id": "CMCTV.hr@SD"
+  },
+  {
+    "site_id": "trace-urban",
+    "name": "Trace Urban",
+    "lang": "en",
+    "xmltv_id": "TraceUrban.fr@SD"
+  },
+  {
+    "site_id": "tv-jadran",
+    "name": "TV Jadran",
+    "lang": "hr",
+    "xmltv_id": "TVJadran.hr@SD"
+  },
+  {
     "site_id": "tv-slo-1",
     "name": "TV SLO 1",
     "lang": "sl",
     "xmltv_id": "TVSLO1.si@SD"
+  },
+  {
+    "site_id": "3sat",
+    "name": "3sat",
+    "lang": "de",
+    "xmltv_id": "3sat.de@SD"
+  },
+  {
+    "site_id": "bloomberg-adria",
+    "name": "Bloomberg Adria",
+    "lang": "sr",
+    "xmltv_id": "BloombergAdria.rs@SD"
+  },
+  {
+    "site_id": "etv-hd",
+    "name": "ETV",
+    "lang": "sl",
+    "xmltv_id": "ETV.si@SD"
+  },
+  {
+    "site_id": "mtv-80s",
+    "name": "MTV 80s",
+    "lang": "en",
+    "xmltv_id": "MTV80s.uk@SD"
+  },
+  {
+    "site_id": "rtl-2-hrvaska",
+    "name": "RTL 2 Hrvaška",
+    "lang": "hr",
+    "xmltv_id": "RTL2.hr@SD"
+  },
+  {
+    "site_id": "slon-tv-extra",
+    "name": "SLON TV extra",
+    "lang": "ba",
+    "xmltv_id": "TVSlonExtra.ba@SD"
+  },
+  {
+    "site_id": "nova-24-tv",
+    "name": "Nova 24 TV",
+    "lang": "sl",
+    "xmltv_id": "Nova24TV.si@SD"
+  },
+  {
+    "site_id": "star-life",
+    "name": "Star Life",
+    "lang": "sl",
+    "xmltv_id": "StarLife.si@SD"
+  },
+  {
+    "site_id": "arena-sport-1",
+    "name": "Arena Sport 1",
+    "lang": "sl",
+    "xmltv_id": "ArenaSport1.si@SD"
+  },
+  {
+    "site_id": "e!",
+    "name": "E!",
+    "lang": "sl"
+  },
+  {
+    "site_id": "focus",
+    "name": "Focus",
+    "lang": "it",
+    "xmltv_id": "Focus.it@SD"
+  },
+  {
+    "site_id": "centoxcento",
+    "name": "CentoXCento",
+    "lang": "it",
+    "xmltv_id": "CentoXCentoTV.it@SD"
+  },
+  {
+    "site_id": "n-tv",
+    "name": "n-tv",
+    "lang": "de",
+    "xmltv_id": "ntv.de@SD"
+  },
+  {
+    "site_id": "rts-1",
+    "name": "РТС 1",
+    "lang": "sr",
+    "xmltv_id": "RTS1.rs@SD"
+  },
+  {
+    "site_id": "balkan-erotic",
+    "name": "Balkan Erotic",
+    "lang": "sl"
+  },
+  {
+    "site_id": "super-rtl",
+    "name": "Super RTL",
+    "lang": "de"
+  },
+  {
+    "site_id": "tv-sarajevo",
+    "name": "TV Sarajevo",
+    "lang": "ba",
+    "xmltv_id": "TVSA.ba@SD"
+  },
+  {
+    "site_id": "dizi",
+    "name": "Dizi",
+    "lang": "sr"
+  },
+  {
+    "site_id": "exodus-tv",
+    "name": "Exodus TV",
+    "lang": "sl",
+    "xmltv_id": "ExodusTV.si@SD"
+  },
+  {
+    "site_id": "ictbusiness-tv",
+    "name": "ICTbusiness TV",
+    "lang": "hr",
+    "xmltv_id": "ICTBusiness.hr@SD"
+  },
+  {
+    "site_id": "mtv-00s",
+    "name": "MTV 00s",
+    "lang": "en",
+    "xmltv_id": "MTV00s.uk@SD"
+  },
+  {
+    "site_id": "televizija-24",
+    "name": "Televizija 24",
+    "lang": "sl"
   },
   {
     "site_id": "epic-drama",
@@ -11,10 +156,9 @@
     "lang": "sl"
   },
   {
-    "site_id": "extreme-tv",
-    "name": "Extreme Sports Channel",
-    "lang": "en",
-    "xmltv_id": "ExtremeSportsChannel.nl@SD"
+    "site_id": "extrem",
+    "name": "Extreme",
+    "lang": "de"
   },
   {
     "site_id": "hustler-tv-hd",
@@ -23,78 +167,66 @@
     "xmltv_id": "HustlerHD.nl@SD"
   },
   {
-    "site_id": "mediaset-italia",
-    "name": "Mediaset Italia",
-    "lang": "it",
-    "xmltv_id": "MediasetItalia.it@SD"
-  },
-  {
-    "site_id": "rai-sport",
-    "name": "Rai Sport",
-    "lang": "it",
-    "xmltv_id": "RaiSport.it@SD"
-  },
-  {
-    "site_id": "sonce-tv",
-    "name": "Sonce TV",
-    "lang": "mk",
-    "xmltv_id": "TVSonce.mk@SD"
-  },
-  {
-    "site_id": "trace-sport",
-    "name": "Trace Sport Stars",
+    "site_id": "mtv-hits",
+    "name": "MTV Hits",
     "lang": "en",
-    "xmltv_id": "TraceSportStars.fr@HD"
+    "xmltv_id": "MTVHitsEurope.uk@SD"
   },
   {
-    "site_id": "vas-kanal",
-    "name": "Vaš kanal",
-    "lang": "sl",
-    "xmltv_id": "Vaskanal.si@SD"
-  },
-  {
-    "site_id": "arena-fight",
-    "name": "Arena Fight",
+    "site_id": "scifi",
+    "name": "SciFi",
     "lang": "sl"
   },
   {
-    "site_id": "mezzo-live-hd",
-    "name": "Mezzo Live HD",
-    "lang": "fr",
-    "xmltv_id": "MezzoLive.fr@SD"
+    "site_id": "eroxxx",
+    "name": "EroXXX",
+    "lang": "en",
+    "xmltv_id": "EroXXX.nl@SD"
   },
   {
-    "site_id": "nasa-tv",
-    "name": "Наша ТВ",
-    "lang": "mk",
-    "xmltv_id": "NasaTV.mk@SD"
-  },
-  {
-    "site_id": "PRVAFILES",
-    "name": "TV Prva Files",
-    "lang": "sr"
-  },
-  {
-    "site_id": "super-rtl",
-    "name": "Super RTL",
-    "lang": "de"
-  },
-  {
-    "site_id": "trzic-tv",
-    "name": "Tržič TV",
+    "site_id": "oto",
+    "name": "OTO",
     "lang": "sl",
-    "xmltv_id": "TrzicTV.si@SD"
+    "xmltv_id": "OTO.si@SD"
   },
   {
-    "site_id": "tv-as",
-    "name": "TV As",
+    "site_id": "tv-8",
+    "name": "TV 8",
+    "lang": "sl",
+    "xmltv_id": "TV8.it@SD"
+  },
+  {
+    "site_id": "tv-nakupi-hd",
+    "name": "TV nakupi HD",
+    "lang": "sl",
+    "xmltv_id": "TVnakupi.si@SD"
+  },
+  {
+    "site_id": "24kitchen",
+    "name": "24Kitchen",
+    "lang": "sl",
+    "xmltv_id": "24Kitchen.us@Slovenia"
+  },
+  {
+    "site_id": "hgtv",
+    "name": "HGTV",
     "lang": "sl"
   },
   {
-    "site_id": "bn-tv-2",
-    "name": "BN TV 2",
-    "lang": "ba",
-    "xmltv_id": "BNTV.ba@SD"
+    "site_id": "m1-hd",
+    "name": "M1",
+    "lang": "hu",
+    "xmltv_id": "M1.hu@SD"
+  },
+  {
+    "site_id": "tv-ri",
+    "name": "TV RI",
+    "lang": "sl"
+  },
+  {
+    "site_id": "cinemax",
+    "name": "Cinemax",
+    "lang": "sl"
   },
   {
     "site_id": "cinestar-tv-premiere-1",
@@ -103,15 +235,164 @@
     "xmltv_id": "CineStarTVPremiere1.si@SD"
   },
   {
-    "site_id": "da-vinci-learning",
-    "name": "Da Vinci",
-    "lang": "sl",
-    "xmltv_id": "DaVinci.si@SD"
+    "site_id": "dom-kino",
+    "name": "Дом кино",
+    "lang": "ru"
   },
   {
-    "site_id": "mixxx-hd",
-    "name": "MIxxx HD",
+    "site_id": "hot-pleasure",
+    "name": "Hot Pleasure",
+    "lang": "sl",
+    "xmltv_id": "HotPleasure.si@SD"
+  },
+  {
+    "site_id": "filmbox-extra",
+    "name": "FilmBox Extra",
     "lang": "sl"
+  },
+  {
+    "site_id": "obn",
+    "name": "OBN",
+    "lang": "ba",
+    "xmltv_id": "OBN.ba@SD"
+  },
+  {
+    "site_id": "pink-serije",
+    "name": "Pink Serije",
+    "lang": "sr",
+    "xmltv_id": "PinkSerije.rs@SD"
+  },
+  {
+    "site_id": "PRVASRB",
+    "name": "PRVA Srbska TV",
+    "lang": "sr"
+  },
+  {
+    "site_id": "travelxp-4k",
+    "name": "Travelxp 4K",
+    "lang": "sl"
+  },
+  {
+    "site_id": "tv-celje",
+    "name": "TV Celje",
+    "lang": "sl",
+    "xmltv_id": "TVCelje.si@SD"
+  },
+  {
+    "site_id": "vox",
+    "name": "VOX",
+    "lang": "de",
+    "xmltv_id": "VOX.de@SD"
+  },
+  {
+    "site_id": "vtv",
+    "name": "VTV",
+    "lang": "sl",
+    "xmltv_id": "VTV.si@SD"
+  },
+  {
+    "site_id": "IDEATV",
+    "name": "Kanal 10 / Idea TV",
+    "lang": "sl"
+  },
+  {
+    "site_id": "viasat-true-crime",
+    "name": "Viasat True Crime",
+    "lang": "sl"
+  },
+  {
+    "site_id": "zdf",
+    "name": "ZDF",
+    "lang": "de",
+    "xmltv_id": "ZDF.de@SD"
+  },
+  {
+    "site_id": "aktual-tv",
+    "name": "Aktual TV",
+    "lang": "sl",
+    "xmltv_id": "RadioAktual.si@SD"
+  },
+  {
+    "site_id": "animal-planet",
+    "name": "Animal Planet",
+    "lang": "sl"
+  },
+  {
+    "site_id": "foxy-dolls-hd",
+    "name": "Foxy Dolls HD",
+    "lang": "sl"
+  },
+  {
+    "site_id": "pink-extra",
+    "name": "Pink Extra",
+    "lang": "sr",
+    "xmltv_id": "PinkExtra.rs@SD"
+  },
+  {
+    "site_id": "prva-tv",
+    "name": "Prva TV",
+    "lang": "sr"
+  },
+  {
+    "site_id": "museum-hd",
+    "name": "Museum",
+    "lang": "fr"
+  },
+  {
+    "site_id": "super-one-hd",
+    "name": "Super One HD",
+    "lang": "sl"
+  },
+  {
+    "site_id": "vas-kanal",
+    "name": "Vaš kanal",
+    "lang": "sl",
+    "xmltv_id": "Vaskanal.si@SD"
+  },
+  {
+    "site_id": "cartoon",
+    "name": "Cartoon Network",
+    "lang": "sl"
+  },
+  {
+    "site_id": "elta-tv",
+    "name": "ELTA TV",
+    "lang": "sl"
+  },
+  {
+    "site_id": "hit-tv",
+    "name": "Hit TV",
+    "lang": "sl"
+  },
+  {
+    "site_id": "kic-tv",
+    "name": "KIC TV",
+    "lang": "sl",
+    "xmltv_id": "KICTV.si@SD"
+  },
+  {
+    "site_id": "moonbug",
+    "name": "Moonbug",
+    "lang": "sl",
+    "xmltv_id": "MoonbugKids.uk@SD"
+  },
+  {
+    "site_id": "pink-show",
+    "name": "Pink Show",
+    "lang": "sr",
+    "xmltv_id": "PinkShow.rs@SD"
+  },
+  {
+    "site_id": "arena-tv",
+    "name": "Arena TV",
+    "lang": "sl",
+    "xmltv_id": "TVArena.si@SD"
+  },
+  {
+    "site_id": "brazzers-tv-europe",
+    "name": "Brazzers TV Europe",
+    "lang": "en",
+    "xmltv_id": "BrazzersTVEurope.us@SD"
   },
   {
     "site_id": "planet-2",
@@ -126,84 +407,34 @@
     "xmltv_id": "SIPTV.si@SD"
   },
   {
-    "site_id": "history-channel",
-    "name": "History",
-    "lang": "sl"
-  },
-  {
-    "site_id": "minimax",
-    "name": "Minimax",
+    "site_id": "bk-tv",
+    "name": "BK TV",
     "lang": "sl",
-    "xmltv_id": "Minimax.si@SD"
+    "xmltv_id": "BKTV.si@SD"
   },
   {
-    "site_id": "oto",
-    "name": "OTO",
+    "site_id": "cinestar-tv-action-\u0026-thriller",
+    "name": "CineStar TV Action \u0026 Thriller",
     "lang": "sl",
-    "xmltv_id": "OTO.si@SD"
+    "xmltv_id": "CineStarTVAction.si@SD"
   },
   {
-    "site_id": "arena-sport-4",
-    "name": "Arena Sport 4",
-    "lang": "sl",
-    "xmltv_id": "ArenaSport4.si@SD"
-  },
-  {
-    "site_id": "discovery-tlc",
-    "name": "TLC",
-    "lang": "sl",
-    "xmltv_id": "TLC.si@SD"
-  },
-  {
-    "site_id": "diva",
-    "name": "Diva",
-    "lang": "sl"
-  },
-  {
-    "site_id": "fashiontv-4k",
-    "name": "Fashion TV 4K",
-    "lang": "en",
-    "xmltv_id": "FashionTVEurope.fr@SD"
-  },
-  {
-    "site_id": "kabel-1",
-    "name": "kabel eins",
-    "lang": "de",
-    "xmltv_id": "kabeleins.de@SD"
-  },
-  {
-    "site_id": "ljubljana-tv-hd",
-    "name": "Ljubljana TV",
-    "lang": "sl",
-    "xmltv_id": "LjubljanaTV.si@SD"
-  },
-  {
-    "site_id": "national-geographic",
-    "name": "National Geographic",
-    "lang": "sl",
-    "xmltv_id": "NationalGeographic.si@SD"
-  },
-  {
-    "site_id": "pickbox-tv",
-    "name": "Pickbox TV",
+    "site_id": "hrt-2",
+    "name": "HRT 2",
     "lang": "hr",
-    "xmltv_id": "PickboxTV.hr@SD"
+    "xmltv_id": "HRT2.hr@SD"
   },
   {
-    "site_id": "pink-si",
-    "name": "Pink SI",
-    "lang": "sl"
+    "site_id": "rai-1",
+    "name": "Rai 1",
+    "lang": "it",
+    "xmltv_id": "Rai1.it@SD"
   },
   {
-    "site_id": "PRVALIFE",
-    "name": "TV Prva Life",
-    "lang": "sr"
-  },
-  {
-    "site_id": "reality-kings-tv",
-    "name": "Reality Kings TV",
-    "lang": "en",
-    "xmltv_id": "RealityKingsTV.us@SD"
+    "site_id": "rai-sport",
+    "name": "Rai Sport",
+    "lang": "it",
+    "xmltv_id": "RaiSport.it@SD"
   },
   {
     "site_id": "rete-4",
@@ -212,31 +443,269 @@
     "xmltv_id": "Rete4.it@SD"
   },
   {
-    "site_id": "rtl",
-    "name": "RTL",
-    "lang": "de",
-    "xmltv_id": "RTL.de@SD"
-  },
-  {
-    "site_id": "star-crime",
-    "name": "Star Crime",
-    "lang": "sl",
-    "xmltv_id": "StarCrime.si@SD"
-  },
-  {
-    "site_id": "top-tv",
-    "name": "Top TV",
-    "lang": "sl",
-    "xmltv_id": "TopTV.si@SD"
-  },
-  {
-    "site_id": "travelxp-hd",
-    "name": "Travelxp",
+    "site_id": "viasat-history",
+    "name": "Viasat History",
     "lang": "sl"
   },
   {
-    "site_id": "cinemax",
-    "name": "Cinemax",
+    "site_id": "planet",
+    "name": "Planet",
+    "lang": "sl",
+    "xmltv_id": "PlanetTV.si@SD"
+  },
+  {
+    "site_id": "ard",
+    "name": "Das Erste",
+    "lang": "de",
+    "xmltv_id": "DasErste.de@SD"
+  },
+  {
+    "site_id": "cartoonito-italija",
+    "name": "Cartoonito",
+    "lang": "it",
+    "xmltv_id": "Cartoonito.it@SD"
+  },
+  {
+    "site_id": "diva",
+    "name": "Diva",
+    "lang": "sl"
+  },
+  {
+    "site_id": "gold-tv",
+    "name": "Gold TV",
+    "lang": "sl"
+  },
+  {
+    "site_id": "hbo",
+    "name": "HBO",
+    "lang": "sl"
+  },
+  {
+    "site_id": "narodna-tv",
+    "name": "Narodna TV",
+    "lang": "sr",
+    "xmltv_id": "NarodnaTV.rs@SD"
+  },
+  {
+    "site_id": "orf-2",
+    "name": "ORF 2",
+    "lang": "de",
+    "xmltv_id": "ORF2.at@SD"
+  },
+  {
+    "site_id": "atm-tv-kranjska-gora-hd",
+    "name": "ATM TV",
+    "lang": "sl",
+    "xmltv_id": "ATMTV.si@SD"
+  },
+  {
+    "site_id": "fashiontv-4k",
+    "name": "Fashion TV 4K",
+    "lang": "en",
+    "xmltv_id": "FashionTVEurope.fr@SD"
+  },
+  {
+    "site_id": "HAPPYREALITY1",
+    "name": "Happy Reality 1",
+    "lang": "sr",
+    "xmltv_id": "HappyReality1.rs@SD"
+  },
+  {
+    "site_id": "rai-movie",
+    "name": "Rai Movie",
+    "lang": "it",
+    "xmltv_id": "RaiMovie.it@SD"
+  },
+  {
+    "site_id": "tv-ormoz-hd",
+    "name": "TV Ormož",
+    "lang": "sl",
+    "xmltv_id": "KTVOrmoz.si@SD"
+  },
+  {
+    "site_id": "vremya",
+    "name": "Время",
+    "lang": "ru",
+    "xmltv_id": "Vremya.ru@SD"
+  },
+  {
+    "site_id": "hrt-1",
+    "name": "HRT 1",
+    "lang": "hr",
+    "xmltv_id": "HRT1.hr@SD"
+  },
+  {
+    "site_id": "living-hd",
+    "name": "Living HD",
+    "lang": "sq"
+  },
+  {
+    "site_id": "ntv-ic-kakanj",
+    "name": "NTV IC Kakanj",
+    "lang": "ba",
+    "xmltv_id": "NTVICKakanj.ba@SD"
+  },
+  {
+    "site_id": "cnn",
+    "name": "CNN",
+    "lang": "en"
+  },
+  {
+    "site_id": "hustler-tv",
+    "name": "Hustler TV",
+    "lang": "en",
+    "xmltv_id": "HustlerTVEurope.nl@SD"
+  },
+  {
+    "site_id": "klasik",
+    "name": "Klasik",
+    "lang": "hr",
+    "xmltv_id": "Klasik.hr@SD"
+  },
+  {
+    "site_id": "muzika-pervogo",
+    "name": "Музыка Первого",
+    "lang": "ru",
+    "xmltv_id": "MuzykaPervogo.ru@SD"
+  },
+  {
+    "site_id": "nova-24-tv-2",
+    "name": "Nova 24 TV 2",
+    "lang": "sl",
+    "xmltv_id": "Nova24TV2.si@SD"
+  },
+  {
+    "site_id": "tv-1000",
+    "name": "TV 1000",
+    "lang": "sl",
+    "xmltv_id": "TV1000.si@SD"
+  },
+  {
+    "site_id": "eurosport-2",
+    "name": "Eurosport 2",
+    "lang": "sl"
+  },
+  {
+    "site_id": "fashion-hd",
+    "name": "Fashion HD",
+    "lang": "sl"
+  },
+  {
+    "site_id": "rai-3-bis",
+    "name": "Rai 3 BIS",
+    "lang": "it",
+    "xmltv_id": "Rai3.it@BISFJK"
+  },
+  {
+    "site_id": "tv-slo-3",
+    "name": "TV SLO 3",
+    "lang": "sl",
+    "xmltv_id": "TVSLO3.si@SD"
+  },
+  {
+    "site_id": "cinestar-tv-premiere-2",
+    "name": "CineStar TV Premiere 2",
+    "lang": "sl",
+    "xmltv_id": "CineStarTVPremiere2.si@SD"
+  },
+  {
+    "site_id": "nicktoons",
+    "name": "NickToons",
+    "lang": "sl"
+  },
+  {
+    "site_id": "vivid-red-hd",
+    "name": "Vivid Red",
+    "lang": "en"
+  },
+  {
+    "site_id": "brio",
+    "name": "BRIO",
+    "lang": "sl",
+    "xmltv_id": "BRIO.si@SD"
+  },
+  {
+    "site_id": "devils-home-hd",
+    "name": "Devils Home HD",
+    "lang": "sl"
+  },
+  {
+    "site_id": "fashionbox",
+    "name": "FashionBox",
+    "lang": "en",
+    "xmltv_id": "FashionBox.nl@SD"
+  },
+  {
+    "site_id": "HAPPYREALITY2",
+    "name": "Happy Reality 2",
+    "lang": "sr",
+    "xmltv_id": "HappyReality2.rs@SD"
+  },
+  {
+    "site_id": "national-geographic",
+    "name": "National Geographic",
+    "lang": "sl",
+    "xmltv_id": "NationalGeographic.si@SD"
+  },
+  {
+    "site_id": "tv8",
+    "name": "Tv8",
+    "lang": "sl"
+  },
+  {
+    "site_id": "viasat-explore",
+    "name": "Viasat Explore",
+    "lang": "sl"
+  },
+  {
+    "site_id": "b92",
+    "name": "B92",
+    "lang": "sr",
+    "xmltv_id": "B92.rs@SD"
+  },
+  {
+    "site_id": "kino",
+    "name": "KINO",
+    "lang": "sl",
+    "xmltv_id": "KINO.si@SD"
+  },
+  {
+    "site_id": "mtv-3",
+    "name": "MTV 3",
+    "lang": "mk",
+    "xmltv_id": "MRT3.mk@SD"
+  },
+  {
+    "site_id": "net-tv",
+    "name": "Net TV",
+    "lang": "sl",
+    "xmltv_id": "NetTV.si@SD"
+  },
+  {
+    "site_id": "glam-hd",
+    "name": "Glam HD",
+    "lang": "sl"
+  },
+  {
+    "site_id": "PRVAFILES",
+    "name": "TV Prva Files",
+    "lang": "sr"
+  },
+  {
+    "site_id": "rai-2",
+    "name": "Rai 2",
+    "lang": "it",
+    "xmltv_id": "Rai2.it@SD"
+  },
+  {
+    "site_id": "tv-koper-capodistria",
+    "name": "TV Koper Capodistria",
+    "lang": "sl",
+    "xmltv_id": "TVKoperCapodistria.si@SD"
+  },
+  {
+    "site_id": "arena-fight",
+    "name": "Arena Fight",
     "lang": "sl"
   },
   {
@@ -246,57 +715,21 @@
     "xmltv_id": "CineStarTV1.si@SD"
   },
   {
-    "site_id": "docubox",
-    "name": "DocuBox",
-    "lang": "en",
-    "xmltv_id": "DocuBox.nl@SD"
-  },
-  {
-    "site_id": "erox",
-    "name": "EroX",
-    "lang": "en",
-    "xmltv_id": "EroX.nl@SD"
-  },
-  {
-    "site_id": "hrt-1",
-    "name": "HRT 1",
-    "lang": "hr",
-    "xmltv_id": "HRT1.hr@SD"
-  },
-  {
-    "site_id": "kcn-2-(music)",
-    "name": "KCN 2 (music)",
-    "lang": "sr",
-    "xmltv_id": "TVKCN2.rs@SD"
-  },
-  {
-    "site_id": "m4-sport-hd",
-    "name": "M4 Sport",
-    "lang": "hu",
-    "xmltv_id": "M4Sport.hu@SD"
-  },
-  {
-    "site_id": "pink-serije",
-    "name": "Pink Serije",
-    "lang": "sr",
-    "xmltv_id": "PinkSerije.rs@SD"
-  },
-  {
-    "site_id": "best-tv",
-    "name": "Best TV",
+    "site_id": "hbo-3",
+    "name": "HBO 3",
     "lang": "sl"
   },
   {
-    "site_id": "hrt-2",
-    "name": "HRT 2",
-    "lang": "hr",
-    "xmltv_id": "HRT2.hr@SD"
+    "site_id": "mediaset-italia",
+    "name": "Mediaset Italia",
+    "lang": "it",
+    "xmltv_id": "MediasetItalia.it@SD"
   },
   {
-    "site_id": "nova-24-tv-2",
-    "name": "Nova 24 TV 2",
+    "site_id": "pop-tv",
+    "name": "POP TV",
     "lang": "sl",
-    "xmltv_id": "Nova24TV2.si@SD"
+    "xmltv_id": "POPTV.si@SD"
   },
   {
     "site_id": "sat-1",
@@ -305,102 +738,22 @@
     "xmltv_id": "SAT1.de@SD"
   },
   {
-    "site_id": "tring-7",
-    "name": "Tring 7",
-    "lang": "sq",
-    "xmltv_id": "Kanali7.al@SD"
-  },
-  {
-    "site_id": "tv-beltinci",
-    "name": "TV Beltinci",
-    "lang": "sl",
-    "xmltv_id": "KanalK3Beltinci.si@SD"
-  },
-  {
-    "site_id": "tv-sarajevo",
-    "name": "TV Sarajevo",
-    "lang": "ba",
-    "xmltv_id": "TVSA.ba@SD"
-  },
-  {
-    "site_id": "eposavje-tv-hd",
-    "name": "ePosavje TV",
-    "lang": "sl",
-    "xmltv_id": "ePosavjeTV.si@SD"
-  },
-  {
-    "site_id": "hema",
-    "name": "Hema",
-    "lang": "ba",
-    "xmltv_id": "HemaTV.ba@SD"
-  },
-  {
-    "site_id": "super-one-hd",
-    "name": "Super One HD",
-    "lang": "sl"
-  },
-  {
-    "site_id": "tv-1000",
-    "name": "TV 1000",
-    "lang": "sl",
-    "xmltv_id": "TV1000.si@SD"
-  },
-  {
-    "site_id": "tv-vijesti",
-    "name": "TV Vijesti",
-    "lang": "sr",
-    "xmltv_id": "TVVijesti.me@SD"
-  },
-  {
-    "site_id": "filmbox-arthouse",
-    "name": "FilmBox Arthouse",
-    "lang": "sl"
-  },
-  {
-    "site_id": "motorvision+",
-    "name": "Motorvision+",
-    "lang": "de",
-    "xmltv_id": "MotorvisionPlus.de@SD"
-  },
-  {
-    "site_id": "cmc",
-    "name": "CMC",
-    "lang": "hr",
-    "xmltv_id": "CMCTV.hr@SD"
-  },
-  {
-    "site_id": "rtrs",
-    "name": "RTRS",
-    "lang": "ba",
-    "xmltv_id": "RTRSTV.ba@SD"
-  },
-  {
-    "site_id": "3sat",
-    "name": "3sat",
-    "lang": "de",
-    "xmltv_id": "3sat.de@SD"
-  },
-  {
-    "site_id": "alsat-macedonia",
-    "name": "Алсат-М",
-    "lang": "mk",
-    "xmltv_id": "Alsat.mk@SD"
-  },
-  {
-    "site_id": "cinemax-2",
-    "name": "Cinemax 2",
-    "lang": "sl"
-  },
-  {
-    "site_id": "italia-1",
-    "name": "Italia 1",
+    "site_id": "canale-5",
+    "name": "Canale 5",
     "lang": "it",
-    "xmltv_id": "Italia1.it@SD"
+    "xmltv_id": "Canale5.it@SD"
   },
   {
-    "site_id": "mreza-tv",
-    "name": "Mreža TV",
-    "lang": "ba"
+    "site_id": "cinestar-tv-2",
+    "name": "Cinestar TV 2",
+    "lang": "sl",
+    "xmltv_id": "CineStarTV2.si@SD"
+  },
+  {
+    "site_id": "dusk-tv",
+    "name": "Dusk TV",
+    "lang": "en",
+    "xmltv_id": "DuskTV.nl@SD"
   },
   {
     "site_id": "nick-jr.",
@@ -409,61 +762,21 @@
     "xmltv_id": "NickJr.si@SD"
   },
   {
-    "site_id": "ntv-ic-kakanj",
-    "name": "NTV IC Kakanj",
-    "lang": "ba",
-    "xmltv_id": "NTVICKakanj.ba@SD"
+    "site_id": "pickbox-tv",
+    "name": "Pickbox TV",
+    "lang": "hr",
+    "xmltv_id": "PickboxTV.hr@SD"
   },
   {
-    "site_id": "travel-channel",
-    "name": "Travel Channel",
+    "site_id": "top-tv",
+    "name": "Top TV",
+    "lang": "sl",
+    "xmltv_id": "TopTV.si@SD"
+  },
+  {
+    "site_id": "tropski-podvodni-svet",
+    "name": "Tropski podvodni svet",
     "lang": "sl"
-  },
-  {
-    "site_id": "canale-5",
-    "name": "Canale 5",
-    "lang": "it",
-    "xmltv_id": "Canale5.it@SD"
-  },
-  {
-    "site_id": "dorcel-xxx-hd",
-    "name": "Dorcel XXX",
-    "lang": "fr",
-    "xmltv_id": "DorcelXXX.nl@SD"
-  },
-  {
-    "site_id": "fox-news",
-    "name": "FOX News",
-    "lang": "en"
-  },
-  {
-    "site_id": "h2",
-    "name": "History 2",
-    "lang": "sl"
-  },
-  {
-    "site_id": "star-movies",
-    "name": "Star Movies",
-    "lang": "sl",
-    "xmltv_id": "StarMovies.si@SD"
-  },
-  {
-    "site_id": "tv-slo-3",
-    "name": "TV SLO 3",
-    "lang": "sl",
-    "xmltv_id": "TVSLO3.si@SD"
-  },
-  {
-    "site_id": "vivid-touch",
-    "name": "Vivid Touch",
-    "lang": "en",
-    "xmltv_id": "VividTouch.uk@SD"
-  },
-  {
-    "site_id": "arena-sport-2",
-    "name": "Arena Sport 2",
-    "lang": "sl",
-    "xmltv_id": "ArenaSport2.si@SD"
   },
   {
     "site_id": "discovery-channel",
@@ -477,300 +790,78 @@
     "lang": "sl"
   },
   {
-    "site_id": "klape-i-tambure-tv",
-    "name": "Klape i tambure TV",
-    "lang": "hr",
-    "xmltv_id": "KlapeiTambureTV.hr@SD"
-  },
-  {
-    "site_id": "oron-tv",
-    "name": "Oron TV",
-    "lang": "sl",
-    "xmltv_id": "OronTV.si@SD"
-  },
-  {
-    "site_id": "z1-televizija",
-    "name": "Z1 Televizija",
-    "lang": "hr",
-    "xmltv_id": "Z1.hr@SD"
-  },
-  {
-    "site_id": "museum-hd",
-    "name": "Museum",
-    "lang": "fr"
-  },
-  {
-    "site_id": "otv-music",
-    "name": "OTV Music",
-    "lang": "sl"
-  },
-  {
-    "site_id": "baby-tv",
-    "name": "Baby TV",
-    "lang": "sl"
-  },
-  {
-    "site_id": "rai-yoyo",
-    "name": "Rai YoYo",
-    "lang": "it"
-  },
-  {
-    "site_id": "travelxp-4k",
-    "name": "Travelxp 4K",
-    "lang": "sl"
-  },
-  {
-    "site_id": "discovery-id-xtra",
-    "name": "Investigation Discovery",
-    "lang": "sl"
-  },
-  {
-    "site_id": "jimjam",
-    "name": "JimJam",
-    "lang": "sl"
-  },
-  {
-    "site_id": "zdrava-televizija",
-    "name": "Zdrava Televizija",
-    "lang": "sl"
-  },
-  {
-    "site_id": "fast-and-funbox",
-    "name": "Fast and FunBox",
+    "site_id": "extreme-tv",
+    "name": "Extreme Sports Channel",
     "lang": "en",
-    "xmltv_id": "FastFunBox.nl@SD"
+    "xmltv_id": "ExtremeSportsChannel.nl@SD"
   },
   {
-    "site_id": "hayat",
-    "name": "Hayat",
+    "site_id": "mezzo-live-hd",
+    "name": "Mezzo Live HD",
+    "lang": "fr",
+    "xmltv_id": "MezzoLive.fr@SD"
+  },
+  {
+    "site_id": "o-kanal",
+    "name": "O Kanal",
     "lang": "ba",
-    "xmltv_id": "Hayat.ba@SD"
+    "xmltv_id": "OKanal.ba@SD"
   },
   {
-    "site_id": "hgtv",
-    "name": "HGTV",
+    "site_id": "pink-reality",
+    "name": "Pink Reality",
+    "lang": "sr",
+    "xmltv_id": "PinkReality.rs@SD"
+  },
+  {
+    "site_id": "ptujska-tv",
+    "name": "Ptujska TV",
     "lang": "sl"
   },
   {
-    "site_id": "kitchen-tv",
-    "name": "Kitchen TV",
-    "lang": "sr",
-    "xmltv_id": "KitchenTV.rs@SD"
+    "site_id": "purple-pills-hd",
+    "name": "Purple Pills",
+    "lang": "sl"
   },
   {
-    "site_id": "pink-zabava",
-    "name": "Pink Zabava",
-    "lang": "sr",
-    "xmltv_id": "PinkZabava.rs@SD"
-  },
-  {
-    "site_id": "PRVASRB",
-    "name": "PRVA Srbska TV",
-    "lang": "sr"
-  },
-  {
-    "site_id": "rai-3-bis",
-    "name": "Rai 3 BIS",
-    "lang": "it",
-    "xmltv_id": "Rai3.it@BISFJK"
-  },
-  {
-    "site_id": "sky-news",
-    "name": "Sky News",
+    "site_id": "bbc-first",
+    "name": "BBC First",
     "lang": "en",
-    "xmltv_id": "SkyNews.uk@SD"
+    "xmltv_id": "BBCFirst.uk@Benelux"
   },
   {
-    "site_id": "balkan-erotic",
-    "name": "Balkan Erotic",
+    "site_id": "gasscore-hd",
+    "name": "Gasscore HD",
     "lang": "sl"
   },
   {
-    "site_id": "cnn",
-    "name": "CNN",
+    "site_id": "lh-tv-hd",
+    "name": "LH TV",
+    "lang": "sr",
+    "xmltv_id": "LHTV.me@SD"
+  },
+  {
+    "site_id": "mtv-hd",
+    "name": "MTV",
     "lang": "en"
   },
   {
-    "site_id": "fashion-tv",
-    "name": "Fashion TV",
-    "lang": "en",
-    "xmltv_id": "FashionTVEurope.fr@SD"
-  },
-  {
-    "site_id": "RKANALP",
-    "name": "R Kanal+",
+    "site_id": "national-geographic-wild",
+    "name": "National Geographic Wild",
     "lang": "sl",
-    "xmltv_id": "RkanalPlus.si@SD"
+    "xmltv_id": "NationalGeographicWild.si@SD"
   },
   {
-    "site_id": "rt-srbija-hd",
-    "name": "RT Srbija",
-    "lang": "sr"
-  },
-  {
-    "site_id": "trace-urban",
-    "name": "Trace Urban",
-    "lang": "en",
-    "xmltv_id": "TraceUrban.fr@SD"
-  },
-  {
-    "site_id": "tv-radgona",
-    "name": "TV Radgona",
+    "site_id": "sport-tv-2",
+    "name": "Šport TV 2",
     "lang": "sl",
-    "xmltv_id": "TVSRK11.si@SD"
+    "xmltv_id": "SportTV2.si@SD"
   },
   {
-    "site_id": "cinestar-tv-action-\u0026-thriller",
-    "name": "CineStar TV Action \u0026 Thriller",
+    "site_id": "bbc-earth",
+    "name": "BBC Earth",
     "lang": "sl",
-    "xmltv_id": "CineStarTVAction.si@SD"
-  },
-  {
-    "site_id": "tele-maribor",
-    "name": "Tele Maribor",
-    "lang": "sl",
-    "xmltv_id": "TVMaribor.si@SD"
-  },
-  {
-    "site_id": "telecafe",
-    "name": "Телекафе",
-    "lang": "ru",
-    "xmltv_id": "Telecafe.ru@SD"
-  },
-  {
-    "site_id": "tv-ormoz-hd",
-    "name": "TV Ormož",
-    "lang": "sl",
-    "xmltv_id": "KTVOrmoz.si@SD"
-  },
-  {
-    "site_id": "360-tunebox",
-    "name": "360 TuneBox",
-    "lang": "en",
-    "xmltv_id": "360TuneBox.nl@SD"
-  },
-  {
-    "site_id": "boob-hd",
-    "name": "BooB HD",
-    "lang": "sl"
-  },
-  {
-    "site_id": "dorcel-tv-hd",
-    "name": "Dorcel TV",
-    "lang": "fr",
-    "xmltv_id": "DorcelTV.nl@SD"
-  },
-  {
-    "site_id": "france-24",
-    "name": "France 24",
-    "lang": "fr"
-  },
-  {
-    "site_id": "hustler-tv",
-    "name": "Hustler TV",
-    "lang": "en",
-    "xmltv_id": "HustlerTVEurope.nl@SD"
-  },
-  {
-    "site_id": "passion-xxx-hd",
-    "name": "Passion XXX",
-    "lang": "en",
-    "xmltv_id": "PassionXXX.nl@SD"
-  },
-  {
-    "site_id": "private-tv",
-    "name": "Private TV",
-    "lang": "sl"
-  },
-  {
-    "site_id": "viasat-history",
-    "name": "Viasat History",
-    "lang": "sl"
-  },
-  {
-    "site_id": "DUGANS",
-    "name": "TV Duga Novi sad",
-    "lang": "sl"
-  },
-  {
-    "site_id": "filmbox-extra",
-    "name": "FilmBox Extra",
-    "lang": "sl"
-  },
-  {
-    "site_id": "nova-24-tv",
-    "name": "Nova 24 TV",
-    "lang": "sl",
-    "xmltv_id": "Nova24TV.si@SD"
-  },
-  {
-    "site_id": "PRVAKICK",
-    "name": "TV Prva Kick",
-    "lang": "sr",
-    "xmltv_id": "PrvaKick.rs@SD"
-  },
-  {
-    "site_id": "sport-tv-3",
-    "name": "Šport TV 3",
-    "lang": "sl",
-    "xmltv_id": "SportTV3.si@SD"
-  },
-  {
-    "site_id": "tv-nakupi-hd",
-    "name": "TV nakupi HD",
-    "lang": "sl",
-    "xmltv_id": "TVnakupi.si@SD"
-  },
-  {
-    "site_id": "tv-vascom",
-    "name": "TV Vascom",
-    "lang": "sl",
-    "xmltv_id": "VascomTV.si@SD"
-  },
-  {
-    "site_id": "veseljak-golica",
-    "name": "Veseljak Golica",
-    "lang": "sl"
-  },
-  {
-    "site_id": "devils-home-hd",
-    "name": "Devils Home HD",
-    "lang": "sl"
-  },
-  {
-    "site_id": "ewtn",
-    "name": "EWTN",
-    "lang": "de",
-    "xmltv_id": "EWTN.de@SD"
-  },
-  {
-    "site_id": "rai-2",
-    "name": "Rai 2",
-    "lang": "it",
-    "xmltv_id": "Rai2.it@SD"
-  },
-  {
-    "site_id": "living-hd",
-    "name": "Living HD",
-    "lang": "sq"
-  },
-  {
-    "site_id": "pink-show",
-    "name": "Pink Show",
-    "lang": "sr",
-    "xmltv_id": "PinkShow.rs@SD"
-  },
-  {
-    "site_id": "arena-sport-3",
-    "name": "Arena Sport 3",
-    "lang": "sl",
-    "xmltv_id": "ArenaSport3.si@SD"
-  },
-  {
-    "site_id": "b92",
-    "name": "B92",
-    "lang": "sr",
-    "xmltv_id": "B92.rs@SD"
+    "xmltv_id": "BBCEarth.uk@Slovenia"
   },
   {
     "site_id": "dm-sat",
@@ -779,19 +870,165 @@
     "xmltv_id": "DMSat.rs@SD"
   },
   {
-    "site_id": "jabuka-(otv)",
-    "name": "Jabuka (OTV)",
+    "site_id": "trzic-tv",
+    "name": "Tržič TV",
+    "lang": "sl",
+    "xmltv_id": "TrzicTV.si@SD"
+  },
+  {
+    "site_id": "bbc-news",
+    "name": "BBC News",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@Africa"
+  },
+  {
+    "site_id": "capable-hole-hd",
+    "name": "Capable Hole HD",
     "lang": "sl"
   },
   {
-    "site_id": "star-life",
-    "name": "Star Life",
-    "lang": "sl",
-    "xmltv_id": "StarLife.si@SD"
+    "site_id": "h2",
+    "name": "History 2",
+    "lang": "sl"
   },
   {
-    "site_id": "tropski-podvodni-svet",
-    "name": "Tropski podvodni svet",
+    "site_id": "hot-xxl",
+    "name": "Hot XXL",
+    "lang": "sl"
+  },
+  {
+    "site_id": "mtv-2",
+    "name": "MTV 2",
+    "lang": "mk",
+    "xmltv_id": "MRT2.mk@SD"
+  },
+  {
+    "site_id": "arte",
+    "name": "Arte",
+    "lang": "de"
+  },
+  {
+    "site_id": "pink-folk-2",
+    "name": "Pink Folk 2",
+    "lang": "sr"
+  },
+  {
+    "site_id": "pink-music",
+    "name": "Pink Music",
+    "lang": "sr",
+    "xmltv_id": "PinkMusic.rs@SD"
+  },
+  {
+    "site_id": "redlight-hd",
+    "name": "Redlight HD",
+    "lang": "en",
+    "xmltv_id": "RedlightHD.nl@SD"
+  },
+  {
+    "site_id": "rtl-ii",
+    "name": "RTL II",
+    "lang": "de",
+    "xmltv_id": "RTLZwei.de@SD"
+  },
+  {
+    "site_id": "hbo-2",
+    "name": "HBO 2",
+    "lang": "sl"
+  },
+  {
+    "site_id": "pink-plus",
+    "name": "Pink Plus",
+    "lang": "sr",
+    "xmltv_id": "PinkPlus.rs@SD"
+  },
+  {
+    "site_id": "rtk",
+    "name": "RTK",
+    "lang": "sq",
+    "xmltv_id": "RTK1.xk@SD"
+  },
+  {
+    "site_id": "sky-news",
+    "name": "Sky News",
+    "lang": "en",
+    "xmltv_id": "SkyNews.uk@SD"
+  },
+  {
+    "site_id": "tring-max",
+    "name": "Tring Max",
+    "lang": "sq"
+  },
+  {
+    "site_id": "tve",
+    "name": "TVE Internacional",
+    "lang": "es",
+    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
+  },
+  {
+    "site_id": "viasat-nature",
+    "name": "Viasat Nature",
+    "lang": "sl"
+  },
+  {
+    "site_id": "vitel",
+    "name": "Vitel",
+    "lang": "sl",
+    "xmltv_id": "Vitel.si@SD"
+  },
+  {
+    "site_id": "dorcel-xxx-hd",
+    "name": "Dorcel XXX",
+    "lang": "fr",
+    "xmltv_id": "DorcelXXX.nl@SD"
+  },
+  {
+    "site_id": "hayat",
+    "name": "Hayat",
+    "lang": "ba",
+    "xmltv_id": "Hayat.ba@SD"
+  },
+  {
+    "site_id": "jimjam",
+    "name": "JimJam",
+    "lang": "sl"
+  },
+  {
+    "site_id": "m4-sport-hd",
+    "name": "M4 Sport",
+    "lang": "hu",
+    "xmltv_id": "M4Sport.hu@SD"
+  },
+  {
+    "site_id": "mezzo",
+    "name": "Mezzo",
+    "lang": "fr",
+    "xmltv_id": "Mezzo.fr@SD"
+  },
+  {
+    "site_id": "pink-folk",
+    "name": "Pink Folk",
+    "lang": "sr"
+  },
+  {
+    "site_id": "telecafe",
+    "name": "Телекафе",
+    "lang": "ru",
+    "xmltv_id": "Telecafe.ru@SD"
+  },
+  {
+    "site_id": "tring-7",
+    "name": "Tring 7",
+    "lang": "sq",
+    "xmltv_id": "Kanali7.al@SD"
+  },
+  {
+    "site_id": "elta-hd",
+    "name": "ELTA HD",
+    "lang": "ba"
+  },
+  {
+    "site_id": "filmbox-arthouse",
+    "name": "FilmBox Arthouse",
     "lang": "sl"
   },
   {
@@ -801,81 +1038,319 @@
     "xmltv_id": "FolxMusicTelevision.de@SD"
   },
   {
-    "site_id": "pink-folk-2",
-    "name": "Pink Folk 2",
+    "site_id": "sexation",
+    "name": "Sexation",
+    "lang": "sl"
+  },
+  {
+    "site_id": "tv-sitel",
+    "name": "Sitel",
+    "lang": "ml",
+    "xmltv_id": "Sitel.mk@SD"
+  },
+  {
+    "site_id": "tv-vascom",
+    "name": "TV Vascom",
+    "lang": "sl",
+    "xmltv_id": "VascomTV.si@SD"
+  },
+  {
+    "site_id": "tv-vijesti",
+    "name": "TV Vijesti",
+    "lang": "sr",
+    "xmltv_id": "TVVijesti.me@SD"
+  },
+  {
+    "site_id": "history-channel",
+    "name": "History",
+    "lang": "sl"
+  },
+  {
+    "site_id": "kcn-1",
+    "name": "KCN 1",
+    "lang": "sr",
+    "xmltv_id": "TVKCN1.rs@SD"
+  },
+  {
+    "site_id": "mixxx-hd",
+    "name": "MIxxx HD",
+    "lang": "sl"
+  },
+  {
+    "site_id": "sport-tv-3",
+    "name": "Šport TV 3",
+    "lang": "sl",
+    "xmltv_id": "SportTV3.si@SD"
+  },
+  {
+    "site_id": "star-crime",
+    "name": "Star Crime",
+    "lang": "sl",
+    "xmltv_id": "StarCrime.si@SD"
+  },
+  {
+    "site_id": "tv-beltinci",
+    "name": "TV Beltinci",
+    "lang": "sl",
+    "xmltv_id": "KanalK3Beltinci.si@SD"
+  },
+  {
+    "site_id": "balkan-trip",
+    "name": "Balkan Trip",
+    "lang": "sr",
+    "xmltv_id": "BalkanTripTV.rs@SD"
+  },
+  {
+    "site_id": "arena-sport-3",
+    "name": "Arena Sport 3",
+    "lang": "sl",
+    "xmltv_id": "ArenaSport3.si@SD"
+  },
+  {
+    "site_id": "gea-tv",
+    "name": "Gea TV",
+    "lang": "sl",
+    "xmltv_id": "GeaTV.si@SD"
+  },
+  {
+    "site_id": "hrt-3",
+    "name": "HRT 3",
+    "lang": "hr",
+    "xmltv_id": "HRT3.hr@SD"
+  },
+  {
+    "site_id": "pro7",
+    "name": "ProSieben",
+    "lang": "de",
+    "xmltv_id": "ProSieben.de@SD"
+  },
+  {
+    "site_id": "RKANALP",
+    "name": "R Kanal+",
+    "lang": "sl",
+    "xmltv_id": "RkanalPlus.si@SD"
+  },
+  {
+    "site_id": "duna-hd",
+    "name": "Duna HD",
+    "lang": "hu",
+    "xmltv_id": "Duna.hu@SD"
+  },
+  {
+    "site_id": "fightbox",
+    "name": "FightBox",
+    "lang": "en",
+    "xmltv_id": "FightBox.nl@SD"
+  },
+  {
+    "site_id": "fox-news",
+    "name": "FOX News",
+    "lang": "en"
+  },
+  {
+    "site_id": "france-24",
+    "name": "France 24",
+    "lang": "fr"
+  },
+  {
+    "site_id": "mreza-tv",
+    "name": "Mreža TV",
+    "lang": "ba"
+  },
+  {
+    "site_id": "passion-xxx-hd",
+    "name": "Passion XXX",
+    "lang": "en",
+    "xmltv_id": "PassionXXX.nl@SD"
+  },
+  {
+    "site_id": "pink-si",
+    "name": "Pink SI",
+    "lang": "sl"
+  },
+  {
+    "site_id": "star-channel",
+    "name": "Star Channel",
+    "lang": "sl",
+    "xmltv_id": "StarChannel.si@SD"
+  },
+  {
+    "site_id": "cinemax-2",
+    "name": "Cinemax 2",
+    "lang": "sl"
+  },
+  {
+    "site_id": "fashion-tv",
+    "name": "Fashion TV",
+    "lang": "en",
+    "xmltv_id": "FashionTVEurope.fr@SD"
+  },
+  {
+    "site_id": "filmbox-premium",
+    "name": "FilmBox Premium",
+    "lang": "sl"
+  },
+  {
+    "site_id": "ftv",
+    "name": "FTV",
+    "lang": "ba",
+    "xmltv_id": "Federalnatelevizija.ba@SD"
+  },
+  {
+    "site_id": "kanal-a",
+    "name": "Kanal A",
+    "lang": "sl",
+    "xmltv_id": "KanalA.si@SD"
+  },
+  {
+    "site_id": "PRVAWORLD",
+    "name": "Prva World",
+    "lang": "sr",
+    "xmltv_id": "PrvaWorld.rs@SD"
+  },
+  {
+    "site_id": "ZDRAVATV",
+    "name": "Zdrava TV",
+    "lang": "sl",
+    "xmltv_id": "ZdravaTV.si@SD"
+  },
+  {
+    "site_id": "boob-hd",
+    "name": "BooB HD",
+    "lang": "sl"
+  },
+  {
+    "site_id": "PRVALIFE",
+    "name": "TV Prva Life",
     "lang": "sr"
   },
   {
-    "site_id": "vitel",
-    "name": "Vitel",
-    "lang": "sl",
-    "xmltv_id": "Vitel.si@SD"
-  },
-  {
-    "site_id": "alfa-tv",
-    "name": "Alfa TV",
-    "lang": "ba",
-    "xmltv_id": "AlfaTV.ba@SD"
-  },
-  {
-    "site_id": "dusk-tv",
-    "name": "Dusk TV",
-    "lang": "en",
-    "xmltv_id": "DuskTV.nl@SD"
-  },
-  {
-    "site_id": "e!",
-    "name": "E!",
+    "site_id": "filmbox-stars",
+    "name": "FilmBox Stars",
     "lang": "sl"
   },
   {
-    "site_id": "glam-hd",
-    "name": "Glam HD",
+    "site_id": "jabuka-(otv)",
+    "name": "Jabuka (OTV)",
     "lang": "sl"
   },
   {
-    "site_id": "jugoton",
-    "name": "Jugoton",
-    "lang": "hr"
-  },
-  {
-    "site_id": "otv-valentino",
-    "name": "OTV Valentino",
-    "lang": "ba",
-    "xmltv_id": "OTVValentino.ba@SD"
-  },
-  {
-    "site_id": "kino",
-    "name": "KINO",
-    "lang": "sl",
-    "xmltv_id": "KINO.si@SD"
-  },
-  {
-    "site_id": "lh-tv-hd",
-    "name": "LH TV",
+    "site_id": "kcn-2-(music)",
+    "name": "KCN 2 (music)",
     "lang": "sr",
-    "xmltv_id": "LHTV.me@SD"
+    "xmltv_id": "TVKCN2.rs@SD"
   },
   {
-    "site_id": "muzika-pervogo",
-    "name": "Музыка Первого",
-    "lang": "ru",
-    "xmltv_id": "MuzykaPervogo.ru@SD"
-  },
-  {
-    "site_id": "n-tv",
-    "name": "n-tv",
-    "lang": "de",
-    "xmltv_id": "ntv.de@SD"
-  },
-  {
-    "site_id": "veseli-december",
-    "name": "Veseli december",
+    "site_id": "otv-music",
+    "name": "OTV Music",
     "lang": "sl"
+  },
+  {
+    "site_id": "rt-srbija-hd",
+    "name": "RT Srbija",
+    "lang": "sr"
+  },
+  {
+    "site_id": "discovery-id-xtra",
+    "name": "Investigation Discovery",
+    "lang": "sl"
+  },
+  {
+    "site_id": "nasa-tv",
+    "name": "Наша ТВ",
+    "lang": "mk",
+    "xmltv_id": "NasaTV.mk@SD"
+  },
+  {
+    "site_id": "private-tv",
+    "name": "Private TV",
+    "lang": "sl"
+  },
+  {
+    "site_id": "tv-slo-2",
+    "name": "TV SLO 2",
+    "lang": "sl",
+    "xmltv_id": "TVSLO2.si@SD"
+  },
+  {
+    "site_id": "vivid-touch",
+    "name": "Vivid Touch",
+    "lang": "en",
+    "xmltv_id": "VividTouch.uk@SD"
+  },
+  {
+    "site_id": "z1-televizija",
+    "name": "Z1 Televizija",
+    "lang": "hr",
+    "xmltv_id": "Z1.hr@SD"
+  },
+  {
+    "site_id": "eposavje-tv-hd",
+    "name": "ePosavje TV",
+    "lang": "sl",
+    "xmltv_id": "ePosavjeTV.si@SD"
+  },
+  {
+    "site_id": "rtl-kockica",
+    "name": "RTL Kockica",
+    "lang": "hr",
+    "xmltv_id": "RTLKockica.hr@SD"
+  },
+  {
+    "site_id": "tring-tring",
+    "name": "Tring Tring",
+    "lang": "sq",
+    "xmltv_id": "TringTring.al@SD"
+  },
+  {
+    "site_id": "arena-sport-1-premium",
+    "name": "Arena Sport 1 Premium",
+    "lang": "sl",
+    "xmltv_id": "ArenaSport1Premium.si@SD"
+  },
+  {
+    "site_id": "dorcel-tv-hd",
+    "name": "Dorcel TV",
+    "lang": "fr",
+    "xmltv_id": "DorcelTV.nl@SD"
+  },
+  {
+    "site_id": "erox",
+    "name": "EroX",
+    "lang": "en",
+    "xmltv_id": "EroX.nl@SD"
+  },
+  {
+    "site_id": "orf-1",
+    "name": "ORF 1",
+    "lang": "de",
+    "xmltv_id": "ORF1.at@SD"
   },
   {
     "site_id": "angels-hd",
     "name": "Angels HD",
+    "lang": "sl"
+  },
+  {
+    "site_id": "cartoonito",
+    "name": "Cartoonito",
+    "lang": "sl"
+  },
+  {
+    "site_id": "nautical-channel",
+    "name": "Nautical Channel",
+    "lang": "en",
+    "xmltv_id": "NauticalChannel.it@SD"
+  },
+  {
+    "site_id": "tv5monde",
+    "name": "TV5Monde Europe",
+    "lang": "fr",
+    "xmltv_id": "TV5MondeEurope.fr@SD"
+  },
+  {
+    "site_id": "zdrava-televizija",
+    "name": "Zdrava Televizija",
     "lang": "sl"
   },
   {
@@ -885,743 +1360,61 @@
     "xmltv_id": "ClubMTVEurope.uk@SD"
   },
   {
-    "site_id": "fashionbox",
-    "name": "FashionBox",
+    "site_id": "discovery-tlc",
+    "name": "TLC",
+    "lang": "sl",
+    "xmltv_id": "TLC.si@SD"
+  },
+  {
+    "site_id": "fast-and-funbox",
+    "name": "Fast and FunBox",
     "lang": "en",
-    "xmltv_id": "FashionBox.nl@SD"
+    "xmltv_id": "FastFunBox.nl@SD"
   },
   {
-    "site_id": "playboy-tv",
-    "name": "Playboy TV",
-    "lang": "sl"
-  },
-  {
-    "site_id": "bir",
-    "name": "BIR TV",
-    "lang": "ba",
-    "xmltv_id": "BIRTV.ba@SD"
-  },
-  {
-    "site_id": "prva-tv",
-    "name": "Prva TV",
-    "lang": "sr"
-  },
-  {
-    "site_id": "rts-maribor",
-    "name": "RTS Maribor",
-    "lang": "sl",
-    "xmltv_id": "RTSMaribor.si@SD"
-  },
-  {
-    "site_id": "aktual-tv",
-    "name": "Aktual TV",
-    "lang": "sl",
-    "xmltv_id": "RadioAktual.si@SD"
-  },
-  {
-    "site_id": "arena-esport",
-    "name": "Arena eSport",
-    "lang": "sl"
-  },
-  {
-    "site_id": "bbc-earth",
-    "name": "BBC Earth",
-    "lang": "sl",
-    "xmltv_id": "BBCEarth.uk@Slovenia"
-  },
-  {
-    "site_id": "capable-hole-hd",
-    "name": "Capable Hole HD",
-    "lang": "sl"
-  },
-  {
-    "site_id": "mne",
-    "name": "MNE",
-    "lang": "sr"
-  },
-  {
-    "site_id": "tv-galeja-hd",
-    "name": "TV Galeja",
-    "lang": "sl",
-    "xmltv_id": "TVGaleja.si@SD"
-  },
-  {
-    "site_id": "cartoonito",
-    "name": "Cartoonito",
-    "lang": "sl"
-  },
-  {
-    "site_id": "tv-celje",
-    "name": "TV Celje",
-    "lang": "sl",
-    "xmltv_id": "TVCelje.si@SD"
-  },
-  {
-    "site_id": "24kitchen",
-    "name": "24Kitchen",
-    "lang": "sl",
-    "xmltv_id": "24Kitchen.us@Slovenia"
-  },
-  {
-    "site_id": "fashion-hd",
-    "name": "Fashion HD",
-    "lang": "sl"
-  },
-  {
-    "site_id": "rai-3",
-    "name": "Rai 3",
-    "lang": "it",
-    "xmltv_id": "Rai3.it@HD"
-  },
-  {
-    "site_id": "rtl-kockica",
-    "name": "RTL Kockica",
-    "lang": "hr",
-    "xmltv_id": "RTLKockica.hr@SD"
-  },
-  {
-    "site_id": "sport-tv-1",
-    "name": "Šport TV 1",
-    "lang": "sl",
-    "xmltv_id": "SportTV1.si@SD"
-  },
-  {
-    "site_id": "vikom",
-    "name": "Vikom",
-    "lang": "ba",
-    "xmltv_id": "RTVVikom.ba@SD"
-  },
-  {
-    "site_id": "20-mediaset",
-    "name": "20 Mediaset",
-    "lang": "it"
-  },
-  {
-    "site_id": "cinestar-fantasy",
-    "name": "Cinestar Fantasy",
-    "lang": "sl",
-    "xmltv_id": "CineStarTVFantasy.si@SD"
-  },
-  {
-    "site_id": "dizi",
-    "name": "Dizi",
-    "lang": "sr"
-  },
-  {
-    "site_id": "national-geographic-wild",
-    "name": "National Geographic Wild",
-    "lang": "sl",
-    "xmltv_id": "NationalGeographicWild.si@SD"
-  },
-  {
-    "site_id": "orf-1",
-    "name": "ORF 1",
-    "lang": "de",
-    "xmltv_id": "ORF1.at@SD"
-  },
-  {
-    "site_id": "rtcg-2",
-    "name": "RTCG 2",
-    "lang": "sr"
-  },
-  {
-    "site_id": "planet-eva",
-    "name": "Planet Eva",
-    "lang": "sl",
-    "xmltv_id": "PlanetEva.si@SD"
-  },
-  {
-    "site_id": "cinestar-tv-premiere-2",
-    "name": "CineStar TV Premiere 2",
-    "lang": "sl",
-    "xmltv_id": "CineStarTVPremiere2.si@SD"
-  },
-  {
-    "site_id": "1+1-international",
-    "name": "1+1 International",
-    "lang": "uk",
-    "xmltv_id": "1Plus1International.ua@SD"
-  },
-  {
-    "site_id": "disney-junior",
-    "name": "Disney Junior",
-    "lang": "sl"
-  },
-  {
-    "site_id": "funbox",
-    "name": "FunBox 4K",
-    "lang": "en",
-    "xmltv_id": "FunBoxUHD.nl@SD"
-  },
-  {
-    "site_id": "HAPPY",
-    "name": "Happy TV",
-    "lang": "sr",
-    "xmltv_id": "Happy.rs@SD"
-  },
-  {
-    "site_id": "kamin",
-    "name": "Kamin",
-    "lang": "sl"
-  },
-  {
-    "site_id": "mtv-00s",
-    "name": "MTV 00s",
-    "lang": "en",
-    "xmltv_id": "MTV00s.uk@SD"
-  },
-  {
-    "site_id": "hbo-3",
-    "name": "HBO 3",
-    "lang": "sl"
-  },
-  {
-    "site_id": "net-tv",
-    "name": "Net TV",
-    "lang": "sl",
-    "xmltv_id": "NetTV.si@SD"
-  },
-  {
-    "site_id": "rtl-hrvaska",
-    "name": "RTL Hrvaška",
-    "lang": "hr",
-    "xmltv_id": "RTL.hr@SD"
-  },
-  {
-    "site_id": "viasat-nature",
-    "name": "Viasat Nature",
-    "lang": "sl"
-  },
-  {
-    "site_id": "vox",
-    "name": "VOX",
-    "lang": "de",
-    "xmltv_id": "VOX.de@SD"
-  },
-  {
-    "site_id": "adria",
-    "name": "Adria",
-    "lang": "sl",
-    "xmltv_id": "AdriaMusicTelevision.de@SD"
-  },
-  {
-    "site_id": "duna-hd",
-    "name": "Duna HD",
-    "lang": "hu",
-    "xmltv_id": "Duna.hu@SD"
-  },
-  {
-    "site_id": "HAPPYREALITY1",
-    "name": "Happy Reality 1",
-    "lang": "sr",
-    "xmltv_id": "HappyReality1.rs@SD"
-  },
-  {
-    "site_id": "koroska-tv",
-    "name": "Koroška TV",
-    "lang": "sl",
-    "xmltv_id": "KoroskaTV.si@SD"
-  },
-  {
-    "site_id": "pinko-club",
-    "name": "Pinko Club",
-    "lang": "sl"
-  },
-  {
-    "site_id": "xxxtazy-hd",
-    "name": "XXXTazy HD",
-    "lang": "sl"
-  },
-  {
-    "site_id": "ZDRAVATV",
-    "name": "Zdrava TV",
-    "lang": "sl",
-    "xmltv_id": "ZdravaTV.si@SD"
-  },
-  {
-    "site_id": "planet",
-    "name": "Planet",
-    "lang": "sl",
-    "xmltv_id": "PlanetTV.si@SD"
-  },
-  {
-    "site_id": "elta-tv",
-    "name": "ELTA TV",
-    "lang": "sl"
-  },
-  {
-    "site_id": "filmbox-stars",
-    "name": "FilmBox Stars",
-    "lang": "sl"
-  },
-  {
-    "site_id": "kanal-a",
-    "name": "Kanal A",
-    "lang": "sl",
-    "xmltv_id": "KanalA.si@SD"
-  },
-  {
-    "site_id": "mtv-1",
-    "name": "MTV 1",
+    "site_id": "sonce-tv",
+    "name": "Sonce TV",
     "lang": "mk",
-    "xmltv_id": "MRT1.mk@SD"
+    "xmltv_id": "TVSonce.mk@SD"
   },
   {
-    "site_id": "tring-tring",
-    "name": "Tring Tring",
-    "lang": "sq",
-    "xmltv_id": "TringTring.al@SD"
-  },
-  {
-    "site_id": "pop-tv",
-    "name": "POP TV",
+    "site_id": "star-movies",
+    "name": "Star Movies",
     "lang": "sl",
-    "xmltv_id": "POPTV.si@SD"
+    "xmltv_id": "StarMovies.si@SD"
   },
   {
-    "site_id": "balkan-trip",
-    "name": "Balkan Trip",
-    "lang": "sr",
-    "xmltv_id": "BalkanTripTV.rs@SD"
-  },
-  {
-    "site_id": "atm-tv-kranjska-gora-hd",
-    "name": "ATM TV",
-    "lang": "sl",
-    "xmltv_id": "ATMTV.si@SD"
-  },
-  {
-    "site_id": "kcn-3-(svet+)",
-    "name": "KCN 3 (svet+)",
-    "lang": "sr",
-    "xmltv_id": "TVKCN3.rs@SD"
-  },
-  {
-    "site_id": "mtv-3",
-    "name": "MTV 3",
-    "lang": "mk",
-    "xmltv_id": "MRT3.mk@SD"
-  },
-  {
-    "site_id": "sexation",
-    "name": "Sexation",
-    "lang": "sl"
-  },
-  {
-    "site_id": "tring-vizion+",
-    "name": "Vizion+",
-    "lang": "sq",
-    "xmltv_id": "VizionPlus.al@SD"
-  },
-  {
-    "site_id": "bloomberg-adria",
-    "name": "Bloomberg Adria",
-    "lang": "sr",
-    "xmltv_id": "BloombergAdria.rs@SD"
-  },
-  {
-    "site_id": "filmbox-premium",
-    "name": "FilmBox Premium",
-    "lang": "sl"
-  },
-  {
-    "site_id": "purple-pills-hd",
-    "name": "Purple Pills",
-    "lang": "sl"
-  },
-  {
-    "site_id": "televizija-24",
-    "name": "Televizija 24",
-    "lang": "sl"
-  },
-  {
-    "site_id": "bbc-news",
-    "name": "BBC News",
-    "lang": "en",
-    "xmltv_id": "BBCNews.uk@Africa"
-  },
-  {
-    "site_id": "megafon-tv-hd",
-    "name": "Megafon TV",
-    "lang": "sl",
-    "xmltv_id": "MegafonTV.si@SD"
-  },
-  {
-    "site_id": "nicktoons",
-    "name": "NickToons",
-    "lang": "sl"
-  },
-  {
-    "site_id": "redlight-hd",
-    "name": "Redlight HD",
-    "lang": "en",
-    "xmltv_id": "RedlightHD.nl@SD"
-  },
-  {
-    "site_id": "rtl-2-hrvaska",
-    "name": "RTL 2 Hrvaška",
-    "lang": "hr",
-    "xmltv_id": "RTL2.hr@SD"
-  },
-  {
-    "site_id": "arena-sport-1",
-    "name": "Arena Sport 1",
-    "lang": "sl",
-    "xmltv_id": "ArenaSport1.si@SD"
-  },
-  {
-    "site_id": "arte",
-    "name": "Arte",
-    "lang": "de"
-  },
-  {
-    "site_id": "curiosity-channel",
-    "name": "Curiosity Channel",
-    "lang": "de",
-    "xmltv_id": "CuriosityChannel.de@SD"
-  },
-  {
-    "site_id": "moonbug",
-    "name": "Moonbug",
-    "lang": "sl",
-    "xmltv_id": "MoonbugKids.uk@SD"
-  },
-  {
-    "site_id": "orf-2",
-    "name": "ORF 2",
-    "lang": "de",
-    "xmltv_id": "ORF2.at@SD"
-  },
-  {
-    "site_id": "pink-film",
-    "name": "Pink Film",
-    "lang": "sr",
-    "xmltv_id": "PinkFilm.rs@SD"
-  },
-  {
-    "site_id": "rtl-ii",
-    "name": "RTL II",
-    "lang": "de",
-    "xmltv_id": "RTLZwei.de@SD"
-  },
-  {
-    "site_id": "obn",
-    "name": "OBN",
+    "site_id": "bht1",
+    "name": "BHT1",
     "lang": "ba",
-    "xmltv_id": "OBN.ba@SD"
+    "xmltv_id": "BHT1.ba@SD"
   },
   {
-    "site_id": "mtv-80s",
-    "name": "MTV 80s",
-    "lang": "en",
-    "xmltv_id": "MTV80s.uk@SD"
-  },
-  {
-    "site_id": "bk-tv",
-    "name": "BK TV",
-    "lang": "sl",
-    "xmltv_id": "BKTV.si@SD"
-  },
-  {
-    "site_id": "fightbox",
-    "name": "FightBox",
-    "lang": "en",
-    "xmltv_id": "FightBox.nl@SD"
-  },
-  {
-    "site_id": "mtv-hits",
-    "name": "MTV Hits",
-    "lang": "en",
-    "xmltv_id": "MTVHitsEurope.uk@SD"
-  },
-  {
-    "site_id": "tv5monde",
-    "name": "TV5Monde Europe",
-    "lang": "fr",
-    "xmltv_id": "TV5MondeEurope.fr@SD"
-  },
-  {
-    "site_id": "viasat-explore",
-    "name": "Viasat Explore",
+    "site_id": "DUGANS",
+    "name": "TV Duga Novi sad",
     "lang": "sl"
   },
   {
-    "site_id": "HAPPYREALITY2",
-    "name": "Happy Reality 2",
-    "lang": "sr",
-    "xmltv_id": "HappyReality2.rs@SD"
-  },
-  {
-    "site_id": "hrt-3",
-    "name": "HRT 3",
-    "lang": "hr",
-    "xmltv_id": "HRT3.hr@SD"
-  },
-  {
-    "site_id": "tv-koper-capodistria",
-    "name": "TV Koper Capodistria",
+    "site_id": "minimax",
+    "name": "Minimax",
     "lang": "sl",
-    "xmltv_id": "TVKoperCapodistria.si@SD"
+    "xmltv_id": "Minimax.si@SD"
   },
   {
-    "site_id": "zdf",
-    "name": "ZDF",
+    "site_id": "morska-obala",
+    "name": "Morska obala",
+    "lang": "sl"
+  },
+  {
+    "site_id": "PRVAMAX",
+    "name": "TV Prva Max",
+    "lang": "sr"
+  },
+  {
+    "site_id": "rtl",
+    "name": "RTL",
     "lang": "de",
-    "xmltv_id": "ZDF.de@SD"
-  },
-  {
-    "site_id": "animal-planet",
-    "name": "Animal Planet",
-    "lang": "sl"
-  },
-  {
-    "site_id": "duna-world",
-    "name": "Duna World",
-    "lang": "hu",
-    "xmltv_id": "DunaWorld.hu@SD"
-  },
-  {
-    "site_id": "ftv",
-    "name": "FTV",
-    "lang": "ba",
-    "xmltv_id": "Federalnatelevizija.ba@SD"
-  },
-  {
-    "site_id": "rtl-living",
-    "name": "RTL Living",
-    "lang": "hr",
-    "xmltv_id": "RTLLiving.hr@SD"
-  },
-  {
-    "site_id": "vtv",
-    "name": "VTV",
-    "lang": "sl",
-    "xmltv_id": "VTV.si@SD"
-  },
-  {
-    "site_id": "eroxxx",
-    "name": "EroXXX",
-    "lang": "en",
-    "xmltv_id": "EroXXX.nl@SD"
-  },
-  {
-    "site_id": "gasscore-hd",
-    "name": "Gasscore HD",
-    "lang": "sl"
-  },
-  {
-    "site_id": "ard",
-    "name": "Das Erste",
-    "lang": "de",
-    "xmltv_id": "DasErste.de@SD"
-  },
-  {
-    "site_id": "cartoon",
-    "name": "Cartoon Network",
-    "lang": "sl"
-  },
-  {
-    "site_id": "etv-hd",
-    "name": "ETV",
-    "lang": "sl",
-    "xmltv_id": "ETV.si@SD"
-  },
-  {
-    "site_id": "mtv-2",
-    "name": "MTV 2",
-    "lang": "mk",
-    "xmltv_id": "MRT2.mk@SD"
-  },
-  {
-    "site_id": "one-adria",
-    "name": "One Adria",
-    "lang": "sl",
-    "xmltv_id": "OneAdria.de@SD"
-  },
-  {
-    "site_id": "pink-extra",
-    "name": "Pink Extra",
-    "lang": "sr",
-    "xmltv_id": "PinkExtra.rs@SD"
-  },
-  {
-    "site_id": "pink-music",
-    "name": "Pink Music",
-    "lang": "sr",
-    "xmltv_id": "PinkMusic.rs@SD"
-  },
-  {
-    "site_id": "vremya",
-    "name": "Время",
-    "lang": "ru",
-    "xmltv_id": "Vremya.ru@SD"
-  },
-  {
-    "site_id": "karousel",
-    "name": "Карусель",
-    "lang": "ru"
-  },
-  {
-    "site_id": "kcn-1",
-    "name": "KCN 1",
-    "lang": "sr",
-    "xmltv_id": "TVKCN1.rs@SD"
-  },
-  {
-    "site_id": "scifi",
-    "name": "SciFi",
-    "lang": "sl"
-  },
-  {
-    "site_id": "tnt-music",
-    "name": "ТНТ Music",
-    "lang": "ru",
-    "xmltv_id": "TNTMusic.ru@SD"
-  },
-  {
-    "site_id": "arena-tv",
-    "name": "Arena TV",
-    "lang": "sl",
-    "xmltv_id": "TVArena.si@SD"
-  },
-  {
-    "site_id": "dom-kino",
-    "name": "Дом кино",
-    "lang": "ru"
-  },
-  {
-    "site_id": "hbo-2",
-    "name": "HBO 2",
-    "lang": "sl"
-  },
-  {
-    "site_id": "m1-hd",
-    "name": "M1",
-    "lang": "hu",
-    "xmltv_id": "M1.hu@SD"
-  },
-  {
-    "site_id": "tv-jadran",
-    "name": "TV Jadran",
-    "lang": "hr",
-    "xmltv_id": "TVJadran.hr@SD"
-  },
-  {
-    "site_id": "tv-sitel",
-    "name": "Sitel",
-    "lang": "ml",
-    "xmltv_id": "Sitel.mk@SD"
-  },
-  {
-    "site_id": "centoxcento",
-    "name": "CentoXCento",
-    "lang": "it",
-    "xmltv_id": "CentoXCentoTV.it@SD"
-  },
-  {
-    "site_id": "gea-tv",
-    "name": "Gea TV",
-    "lang": "sl",
-    "xmltv_id": "GeaTV.si@SD"
-  },
-  {
-    "site_id": "hot-pleasure",
-    "name": "Hot Pleasure",
-    "lang": "sl",
-    "xmltv_id": "HotPleasure.si@SD"
-  },
-  {
-    "site_id": "pink-reality",
-    "name": "Pink Reality",
-    "lang": "sr",
-    "xmltv_id": "PinkReality.rs@SD"
-  },
-  {
-    "site_id": "rtk",
-    "name": "RTK",
-    "lang": "sq",
-    "xmltv_id": "RTK1.xk@SD"
-  },
-  {
-    "site_id": "tv-ri",
-    "name": "TV RI",
-    "lang": "sl"
-  },
-  {
-    "site_id": "amc",
-    "name": "AMC",
-    "lang": "sl"
-  },
-  {
-    "site_id": "folk-plus",
-    "name": "Folk Plus",
-    "lang": "sq",
-    "xmltv_id": "FolkPlus.al@SD"
-  },
-  {
-    "site_id": "mezzo",
-    "name": "Mezzo",
-    "lang": "fr",
-    "xmltv_id": "Mezzo.fr@SD"
-  },
-  {
-    "site_id": "pink-koncert",
-    "name": "Pink Koncert",
-    "lang": "sr",
-    "xmltv_id": "PinkKoncert.rs@SD"
-  },
-  {
-    "site_id": "PRVAPLUS",
-    "name": "Prva Plus",
-    "lang": "sr",
-    "xmltv_id": "PrvaPlus.rs@SD"
-  },
-  {
-    "site_id": "PRVAWORLD",
-    "name": "Prva World",
-    "lang": "sr",
-    "xmltv_id": "PrvaWorld.rs@SD"
-  },
-  {
-    "site_id": "slon-tv-extra",
-    "name": "SLON TV extra",
-    "lang": "ba",
-    "xmltv_id": "TVSlonExtra.ba@SD"
-  },
-  {
-    "site_id": "viasat-true-crime",
-    "name": "Viasat True Crime",
-    "lang": "sl"
-  },
-  {
-    "site_id": "arena-sport-1-premium",
-    "name": "Arena Sport 1 Premium",
-    "lang": "sl",
-    "xmltv_id": "ArenaSport1Premium.si@SD"
-  },
-  {
-    "site_id": "focus",
-    "name": "Focus",
-    "lang": "it",
-    "xmltv_id": "Focus.it@SD"
-  },
-  {
-    "site_id": "mtv-90s",
-    "name": "MTV 90s",
-    "lang": "en",
-    "xmltv_id": "MTV90s.uk@SD"
-  },
-  {
-    "site_id": "savinjska-tv",
-    "name": "Savinjska TV",
-    "lang": "sl",
-    "xmltv_id": "SavinjskaTV.si@SD"
-  },
-  {
-    "site_id": "tring-shqip",
-    "name": "Tring Shqip",
-    "lang": "sq",
-    "xmltv_id": "TringShqip.al@SD"
+    "xmltv_id": "RTL.de@SD"
   },
   {
     "site_id": "tv-zlati-zvoki",
@@ -1630,56 +1423,81 @@
     "xmltv_id": "TVZlatiZvoki.si@SD"
   },
   {
-    "site_id": "bbc-first",
-    "name": "BBC First",
-    "lang": "en",
-    "xmltv_id": "BBCFirst.uk@Benelux"
-  },
-  {
-    "site_id": "cinestar-tv-2",
-    "name": "Cinestar TV 2",
-    "lang": "sl",
-    "xmltv_id": "CineStarTV2.si@SD"
-  },
-  {
-    "site_id": "rts-1",
-    "name": "РТС 1",
+    "site_id": "HAPPY",
+    "name": "Happy TV",
     "lang": "sr",
-    "xmltv_id": "RTS1.rs@SD"
+    "xmltv_id": "Happy.rs@SD"
   },
   {
-    "site_id": "brazzers-tv-europe",
-    "name": "Brazzers TV Europe",
-    "lang": "en",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "site_id": "playboy-tv",
+    "name": "Playboy TV",
+    "lang": "sl"
   },
   {
-    "site_id": "narodna-tv",
-    "name": "Narodna TV",
-    "lang": "sr",
-    "xmltv_id": "NarodnaTV.rs@SD"
-  },
-  {
-    "site_id": "pink-plus",
-    "name": "Pink Plus",
-    "lang": "sr",
-    "xmltv_id": "PinkPlus.rs@SD"
-  },
-  {
-    "site_id": "pro7",
-    "name": "ProSieben",
-    "lang": "de",
-    "xmltv_id": "ProSieben.de@SD"
-  },
-  {
-    "site_id": "dox-tv",
-    "name": "Dox TV",
+    "site_id": "rtl-living",
+    "name": "RTL Living",
     "lang": "hr",
-    "xmltv_id": "DoxTV.hr@SD"
+    "xmltv_id": "RTLLiving.hr@SD"
   },
   {
-    "site_id": "morska-obala",
-    "name": "Morska obala",
+    "site_id": "tring-vizion+",
+    "name": "Vizion+",
+    "lang": "sq",
+    "xmltv_id": "VizionPlus.al@SD"
+  },
+  {
+    "site_id": "docubox",
+    "name": "DocuBox",
+    "lang": "en",
+    "xmltv_id": "DocuBox.nl@SD"
+  },
+  {
+    "site_id": "hema",
+    "name": "Hema",
+    "lang": "ba",
+    "xmltv_id": "HemaTV.ba@SD"
+  },
+  {
+    "site_id": "kamin",
+    "name": "Kamin",
+    "lang": "sl"
+  },
+  {
+    "site_id": "pink-koncert",
+    "name": "Pink Koncert",
+    "lang": "sr",
+    "xmltv_id": "PinkKoncert.rs@SD"
+  },
+  {
+    "site_id": "travelxp-hd",
+    "name": "Travelxp",
+    "lang": "sl"
+  },
+  {
+    "site_id": "xxxtazy-hd",
+    "name": "XXXTazy HD",
+    "lang": "sl"
+  },
+  {
+    "site_id": "20-mediaset",
+    "name": "20 Mediaset",
+    "lang": "it"
+  },
+  {
+    "site_id": "al-jazeera-balkans",
+    "name": "Al Jazeera Balkans",
+    "lang": "ba",
+    "xmltv_id": "AlJazeeraBalkans.ba@SD"
+  },
+  {
+    "site_id": "alsat-macedonia",
+    "name": "Алсат-М",
+    "lang": "mk",
+    "xmltv_id": "Alsat.mk@SD"
+  },
+  {
+    "site_id": "baby-tv",
+    "name": "Baby TV",
     "lang": "sl"
   },
   {
@@ -1689,159 +1507,16 @@
     "xmltv_id": "Nickelodeon.si@SD"
   },
   {
-    "site_id": "sport-tv-2",
-    "name": "Šport TV 2",
+    "site_id": "oron-tv",
+    "name": "Oron TV",
     "lang": "sl",
-    "xmltv_id": "SportTV2.si@SD"
+    "xmltv_id": "OronTV.si@SD"
   },
   {
-    "site_id": "tv-miklavz-hd",
-    "name": "TV Miklavž HD",
-    "lang": "sl",
-    "xmltv_id": "TVMiklavz.si@SD"
-  },
-  {
-    "site_id": "al-jazeera-balkans",
-    "name": "Al Jazeera Balkans",
-    "lang": "ba",
-    "xmltv_id": "AlJazeeraBalkans.ba@SD"
-  },
-  {
-    "site_id": "non-stop",
-    "name": "NON Stop",
-    "lang": "sl"
-  },
-  {
-    "site_id": "o-kanal",
-    "name": "O Kanal",
-    "lang": "ba",
-    "xmltv_id": "OKanal.ba@SD"
-  },
-  {
-    "site_id": "rai-1",
-    "name": "Rai 1",
-    "lang": "it",
-    "xmltv_id": "Rai1.it@SD"
-  },
-  {
-    "site_id": "star-channel",
-    "name": "Star Channel",
-    "lang": "sl",
-    "xmltv_id": "StarChannel.si@SD"
-  },
-  {
-    "site_id": "tv3",
-    "name": "TV3",
-    "lang": "sl",
-    "xmltv_id": "TV3.si@SD"
-  },
-  {
-    "site_id": "tv-slo-2",
-    "name": "TV SLO 2",
-    "lang": "sl",
-    "xmltv_id": "TVSLO2.si@SD"
-  },
-  {
-    "site_id": "elta-2",
-    "name": "Elta 2",
-    "lang": "ba"
-  },
-  {
-    "site_id": "eurosport-1",
-    "name": "Eurosport 1",
-    "lang": "sl"
-  },
-  {
-    "site_id": "hbo",
-    "name": "HBO",
-    "lang": "sl"
-  },
-  {
-    "site_id": "mtv-hd",
-    "name": "MTV",
-    "lang": "en"
-  },
-  {
-    "site_id": "vivid-red-hd",
-    "name": "Vivid Red",
-    "lang": "en"
-  },
-  {
-    "site_id": "bht1",
-    "name": "BHT1",
-    "lang": "ba",
-    "xmltv_id": "BHT1.ba@SD"
-  },
-  {
-    "site_id": "gametoon",
-    "name": "Gametoon",
-    "lang": "en",
-    "xmltv_id": "Gametoon.nl@SD"
-  },
-  {
-    "site_id": "ictbusiness-tv",
-    "name": "ICTbusiness TV",
-    "lang": "hr",
-    "xmltv_id": "ICTBusiness.hr@SD"
-  },
-  {
-    "site_id": "pink-folk",
-    "name": "Pink Folk",
-    "lang": "sr"
-  },
-  {
-    "site_id": "tv8",
-    "name": "Tv8",
-    "lang": "sl"
-  },
-  {
-    "site_id": "tve",
-    "name": "TVE Internacional",
-    "lang": "es",
-    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
-  },
-  {
-    "site_id": "PINKNROLL",
-    "name": "Pink'n'Roll",
-    "lang": "sr"
-  },
-  {
-    "site_id": "tring-max",
-    "name": "Tring Max",
-    "lang": "sq"
-  },
-  {
-    "site_id": "cartoonito-italija",
-    "name": "Cartoonito",
-    "lang": "it",
-    "xmltv_id": "Cartoonito.it@SD"
-  },
-  {
-    "site_id": "elta-hd",
-    "name": "ELTA HD",
-    "lang": "ba"
-  },
-  {
-    "site_id": "foxy-dolls-hd",
-    "name": "Foxy Dolls HD",
-    "lang": "sl"
-  },
-  {
-    "site_id": "hot-xxl",
-    "name": "Hot XXL",
-    "lang": "sl"
-  },
-  {
-    "site_id": "kic-tv",
-    "name": "KIC TV",
-    "lang": "sl",
-    "xmltv_id": "KICTV.si@SD"
-  },
-  {
-    "site_id": "nautical-channel",
-    "name": "Nautical Channel",
-    "lang": "en",
-    "xmltv_id": "NauticalChannel.it@SD"
+    "site_id": "PRVAKICK",
+    "name": "TV Prva Kick",
+    "lang": "sr",
+    "xmltv_id": "PrvaKick.rs@SD"
   },
   {
     "site_id": "rts-2",
@@ -1850,68 +1525,393 @@
     "xmltv_id": "RTS2.rs@SD"
   },
   {
-    "site_id": "tv-8",
-    "name": "TV 8",
+    "site_id": "bir",
+    "name": "BIR TV",
+    "lang": "ba",
+    "xmltv_id": "BIRTV.ba@SD"
+  },
+  {
+    "site_id": "da-vinci-learning",
+    "name": "Da Vinci",
     "lang": "sl",
-    "xmltv_id": "TV8.it@SD"
+    "xmltv_id": "DaVinci.si@SD"
   },
   {
-    "site_id": "extrem",
-    "name": "Extreme",
-    "lang": "de"
+    "site_id": "kcn-3-(svet+)",
+    "name": "KCN 3 (svet+)",
+    "lang": "sr",
+    "xmltv_id": "TVKCN3.rs@SD"
   },
   {
-    "site_id": "PRVAMAX",
-    "name": "TV Prva Max",
+    "site_id": "rtcg-2",
+    "name": "RTCG 2",
     "lang": "sr"
   },
   {
-    "site_id": "ptujska-tv",
-    "name": "Ptujska TV",
-    "lang": "sl"
-  },
-  {
-    "site_id": "rai-movie",
-    "name": "Rai Movie",
-    "lang": "it",
-    "xmltv_id": "RaiMovie.it@SD"
-  },
-  {
-    "site_id": "brio",
-    "name": "BRIO",
+    "site_id": "tv3",
+    "name": "TV3",
     "lang": "sl",
-    "xmltv_id": "BRIO.si@SD"
+    "xmltv_id": "TV3.si@SD"
   },
   {
-    "site_id": "eurosport-2",
-    "name": "Eurosport 2",
-    "lang": "sl"
-  },
-  {
-    "site_id": "exodus-tv",
-    "name": "Exodus TV",
+    "site_id": "tv-radgona",
+    "name": "TV Radgona",
     "lang": "sl",
-    "xmltv_id": "ExodusTV.si@SD"
+    "xmltv_id": "TVSRK11.si@SD"
   },
   {
-    "site_id": "gold-tv",
-    "name": "Gold TV",
+    "site_id": "veseli-december",
+    "name": "Veseli december",
     "lang": "sl"
   },
   {
-    "site_id": "hit-tv",
-    "name": "Hit TV",
+    "site_id": "360-tunebox",
+    "name": "360 TuneBox",
+    "lang": "en",
+    "xmltv_id": "360TuneBox.nl@SD"
+  },
+  {
+    "site_id": "best-tv",
+    "name": "Best TV",
     "lang": "sl"
   },
   {
-    "site_id": "IDEATV",
-    "name": "Kanal 10 / Idea TV",
+    "site_id": "funbox",
+    "name": "FunBox 4K",
+    "lang": "en",
+    "xmltv_id": "FunBoxUHD.nl@SD"
+  },
+  {
+    "site_id": "rtrs",
+    "name": "RTRS",
+    "lang": "ba",
+    "xmltv_id": "RTRSTV.ba@SD"
+  },
+  {
+    "site_id": "amc",
+    "name": "AMC",
     "lang": "sl"
   },
   {
-    "site_id": "klasik",
-    "name": "Klasik",
+    "site_id": "mtv-1",
+    "name": "MTV 1",
+    "lang": "mk",
+    "xmltv_id": "MRT1.mk@SD"
+  },
+  {
+    "site_id": "otv-valentino",
+    "name": "OTV Valentino",
+    "lang": "ba",
+    "xmltv_id": "OTVValentino.ba@SD"
+  },
+  {
+    "site_id": "PINKNROLL",
+    "name": "Pink'n'Roll",
+    "lang": "sr"
+  },
+  {
+    "site_id": "tv-galeja-hd",
+    "name": "TV Galeja",
+    "lang": "sl",
+    "xmltv_id": "TVGaleja.si@SD"
+  },
+  {
+    "site_id": "alfa-tv",
+    "name": "Alfa TV",
+    "lang": "ba",
+    "xmltv_id": "AlfaTV.ba@SD"
+  },
+  {
+    "site_id": "arena-sport-4",
+    "name": "Arena Sport 4",
+    "lang": "sl",
+    "xmltv_id": "ArenaSport4.si@SD"
+  },
+  {
+    "site_id": "curiosity-channel",
+    "name": "Curiosity Channel",
+    "lang": "de",
+    "xmltv_id": "CuriosityChannel.de@SD"
+  },
+  {
+    "site_id": "klape-i-tambure-tv",
+    "name": "Klape i tambure TV",
     "lang": "hr",
-    "xmltv_id": "Klasik.hr@SD"
+    "xmltv_id": "KlapeiTambureTV.hr@SD"
+  },
+  {
+    "site_id": "non-stop",
+    "name": "NON Stop",
+    "lang": "sl"
+  },
+  {
+    "site_id": "PRVAPLUS",
+    "name": "Prva Plus",
+    "lang": "sr",
+    "xmltv_id": "PrvaPlus.rs@SD"
+  },
+  {
+    "site_id": "travel-channel",
+    "name": "Travel Channel",
+    "lang": "sl"
+  },
+  {
+    "site_id": "vikom",
+    "name": "Vikom",
+    "lang": "ba",
+    "xmltv_id": "RTVVikom.ba@SD"
+  },
+  {
+    "site_id": "karousel",
+    "name": "Карусель",
+    "lang": "ru"
+  },
+  {
+    "site_id": "pink-film",
+    "name": "Pink Film",
+    "lang": "sr",
+    "xmltv_id": "PinkFilm.rs@SD"
+  },
+  {
+    "site_id": "pinko-club",
+    "name": "Pinko Club",
+    "lang": "sl"
+  },
+  {
+    "site_id": "rts-maribor",
+    "name": "RTS Maribor",
+    "lang": "sl",
+    "xmltv_id": "RTSMaribor.si@SD"
+  },
+  {
+    "site_id": "savinjska-tv",
+    "name": "Savinjska TV",
+    "lang": "sl",
+    "xmltv_id": "SavinjskaTV.si@SD"
+  },
+  {
+    "site_id": "veseljak-golica",
+    "name": "Veseljak Golica",
+    "lang": "sl"
+  },
+  {
+    "site_id": "arena-esport",
+    "name": "Arena eSport",
+    "lang": "sl"
+  },
+  {
+    "site_id": "disney-junior",
+    "name": "Disney Junior",
+    "lang": "sl"
+  },
+  {
+    "site_id": "dox-tv",
+    "name": "Dox TV",
+    "lang": "hr",
+    "xmltv_id": "DoxTV.hr@SD"
+  },
+  {
+    "site_id": "eurosport-1",
+    "name": "Eurosport 1",
+    "lang": "sl"
+  },
+  {
+    "site_id": "italia-1",
+    "name": "Italia 1",
+    "lang": "it",
+    "xmltv_id": "Italia1.it@SD"
+  },
+  {
+    "site_id": "jugoton",
+    "name": "Jugoton",
+    "lang": "hr"
+  },
+  {
+    "site_id": "ljubljana-tv-hd",
+    "name": "Ljubljana TV",
+    "lang": "sl",
+    "xmltv_id": "LjubljanaTV.si@SD"
+  },
+  {
+    "site_id": "motorvision+",
+    "name": "Motorvision+",
+    "lang": "de",
+    "xmltv_id": "MotorvisionPlus.de@SD"
+  },
+  {
+    "site_id": "1+1-international",
+    "name": "1+1 International",
+    "lang": "uk",
+    "xmltv_id": "1Plus1International.ua@SD"
+  },
+  {
+    "site_id": "mtv-90s",
+    "name": "MTV 90s",
+    "lang": "en",
+    "xmltv_id": "MTV90s.uk@SD"
+  },
+  {
+    "site_id": "one-adria",
+    "name": "One Adria",
+    "lang": "sl",
+    "xmltv_id": "OneAdria.de@SD"
+  },
+  {
+    "site_id": "planet-eva",
+    "name": "Planet Eva",
+    "lang": "sl",
+    "xmltv_id": "PlanetEva.si@SD"
+  },
+  {
+    "site_id": "rai-yoyo",
+    "name": "Rai YoYo",
+    "lang": "it"
+  },
+  {
+    "site_id": "reality-kings-tv",
+    "name": "Reality Kings TV",
+    "lang": "en",
+    "xmltv_id": "RealityKingsTV.us@SD"
+  },
+  {
+    "site_id": "rtl-hrvaska",
+    "name": "RTL Hrvaška",
+    "lang": "hr",
+    "xmltv_id": "RTL.hr@SD"
+  },
+  {
+    "site_id": "tele-maribor",
+    "name": "Tele Maribor",
+    "lang": "sl",
+    "xmltv_id": "TVMaribor.si@SD"
+  },
+  {
+    "site_id": "bn-tv-2",
+    "name": "BN TV 2",
+    "lang": "ba",
+    "xmltv_id": "BNTV.ba@SD"
+  },
+  {
+    "site_id": "ewtn",
+    "name": "EWTN",
+    "lang": "de",
+    "xmltv_id": "EWTN.de@SD"
+  },
+  {
+    "site_id": "sport-tv-1",
+    "name": "Šport TV 1",
+    "lang": "sl",
+    "xmltv_id": "SportTV1.si@SD"
+  },
+  {
+    "site_id": "elta-2",
+    "name": "Elta 2",
+    "lang": "ba"
+  },
+  {
+    "site_id": "folk-plus",
+    "name": "Folk Plus",
+    "lang": "sq",
+    "xmltv_id": "FolkPlus.al@SD"
+  },
+  {
+    "site_id": "kitchen-tv",
+    "name": "Kitchen TV",
+    "lang": "sr",
+    "xmltv_id": "KitchenTV.rs@SD"
+  },
+  {
+    "site_id": "megafon-tv-hd",
+    "name": "Megafon TV",
+    "lang": "sl",
+    "xmltv_id": "MegafonTV.si@SD"
+  },
+  {
+    "site_id": "rai-3",
+    "name": "Rai 3",
+    "lang": "it",
+    "xmltv_id": "Rai3.it@HD"
+  },
+  {
+    "site_id": "trace-sport",
+    "name": "Trace Sport Stars",
+    "lang": "en",
+    "xmltv_id": "TraceSportStars.fr@HD"
+  },
+  {
+    "site_id": "tring-shqip",
+    "name": "Tring Shqip",
+    "lang": "sq",
+    "xmltv_id": "TringShqip.al@SD"
+  },
+  {
+    "site_id": "cinestar-fantasy",
+    "name": "Cinestar Fantasy",
+    "lang": "sl",
+    "xmltv_id": "CineStarTVFantasy.si@SD"
+  },
+  {
+    "site_id": "mne",
+    "name": "MNE",
+    "lang": "sr"
+  },
+  {
+    "site_id": "tnt-music",
+    "name": "ТНТ Music",
+    "lang": "ru",
+    "xmltv_id": "TNTMusic.ru@SD"
+  },
+  {
+    "site_id": "adria",
+    "name": "Adria",
+    "lang": "sl",
+    "xmltv_id": "AdriaMusicTelevision.de@SD"
+  },
+  {
+    "site_id": "arena-sport-2",
+    "name": "Arena Sport 2",
+    "lang": "sl",
+    "xmltv_id": "ArenaSport2.si@SD"
+  },
+  {
+    "site_id": "gametoon",
+    "name": "Gametoon",
+    "lang": "en",
+    "xmltv_id": "Gametoon.nl@SD"
+  },
+  {
+    "site_id": "koroska-tv",
+    "name": "Koroška TV",
+    "lang": "sl",
+    "xmltv_id": "KoroskaTV.si@SD"
+  },
+  {
+    "site_id": "pink-zabava",
+    "name": "Pink Zabava",
+    "lang": "sr",
+    "xmltv_id": "PinkZabava.rs@SD"
+  },
+  {
+    "site_id": "tv-miklavz-hd",
+    "name": "TV Miklavž HD",
+    "lang": "sl",
+    "xmltv_id": "TVMiklavz.si@SD"
+  },
+  {
+    "site_id": "duna-world",
+    "name": "Duna World",
+    "lang": "hu",
+    "xmltv_id": "DunaWorld.hu@SD"
+  },
+  {
+    "site_id": "kabel-1",
+    "name": "kabel eins",
+    "lang": "de",
+    "xmltv_id": "kabeleins.de@SD"
+  },
+  {
+    "site_id": "tv-as",
+    "name": "TV As",
+    "lang": "sl"
   }
 ]

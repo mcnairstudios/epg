@@ -1,511 +1,13 @@
 [
   {
-    "site_id": "viasat-golf",
-    "name": "Viasat Golf",
-    "lang": "lv"
-  },
-  {
-    "site_id": "viasat-sport-east",
-    "name": "VIASAT Sport East",
-    "lang": "lv"
-  },
-  {
-    "site_id": "zdf",
-    "name": "ZDF",
+    "site_id": "animal-planet-eu",
+    "name": "Animal Planet EU",
     "lang": "lv",
-    "xmltv_id": "ZDF.de@SD"
+    "xmltv_id": "AnimalPlanetEurope.uk@SD"
   },
   {
-    "site_id": "bloomberg",
-    "name": "Bloomberg",
-    "lang": "lv",
-    "xmltv_id": "BloombergTV.us@Europe"
-  },
-  {
-    "site_id": "mtv-music",
-    "name": "MTV Music",
-    "lang": "lv"
-  },
-  {
-    "site_id": "riga-tv24",
-    "name": "Riga TV24",
-    "lang": "lv"
-  },
-  {
-    "site_id": "mvk",
-    "name": "MVK",
-    "lang": "lv"
-  },
-  {
-    "site_id": "tve",
-    "name": "TVE",
-    "lang": "lv"
-  },
-  {
-    "site_id": "3sat",
-    "name": "3SAT",
-    "lang": "lv",
-    "xmltv_id": "3sat.de@SD"
-  },
-  {
-    "site_id": "arena-hd-baltic",
-    "name": "Arena HD Baltic",
-    "lang": "lv",
-    "xmltv_id": "ArenaHDBaltic.lt@SD"
-  },
-  {
-    "site_id": "duo-6-lv",
-    "name": "Duo 6 LV",
-    "lang": "lv",
-    "xmltv_id": "Duo6.lv@SD"
-  },
-  {
-    "site_id": "tv-21",
-    "name": "TV-21",
-    "lang": "lv"
-  },
-  {
-    "site_id": "tv-kurzeme",
-    "name": "TV Kurzeme",
-    "lang": "lv"
-  },
-  {
-    "site_id": "food-network-hd-emea",
-    "name": "Food Network HD (EMEA)",
-    "lang": "lv"
-  },
-  {
-    "site_id": "fox-life",
-    "name": "Fox Life",
-    "lang": "lv"
-  },
-  {
-    "site_id": "motorsport-tv",
-    "name": "Motorsport TV",
-    "lang": "lv"
-  },
-  {
-    "site_id": "n-tv",
-    "name": "N-TV",
-    "lang": "lv"
-  },
-  {
-    "site_id": "pro-7",
-    "name": "PRO 7",
-    "lang": "lv"
-  },
-  {
-    "site_id": "smartzone-baltic-lithuania",
-    "name": "Smartzone Baltic Lithuania",
-    "lang": "lv"
-  },
-  {
-    "site_id": "viasat-nature-cee",
-    "name": "VIASAT Nature CEE",
-    "lang": "en",
-    "xmltv_id": "ViasatNature.se@SD"
-  },
-  {
-    "site_id": "ard",
-    "name": "ARD",
-    "lang": "lv",
-    "xmltv_id": "ARDalpha.de@SD"
-  },
-  {
-    "site_id": "gulli",
-    "name": "Gulli",
-    "lang": "lv"
-  },
-  {
-    "site_id": "tv3-mini",
-    "name": "TV3 Mini",
-    "lang": "lv",
-    "xmltv_id": "TV3Mini.lv@SD"
-  },
-  {
-    "site_id": "viasat-history-cee",
-    "name": "Viasat History CEE",
-    "lang": "en",
-    "xmltv_id": "ViasatHistory.se@SD"
-  },
-  {
-    "site_id": "viasat-kino-action",
-    "name": "Viasat Kino Action",
-    "lang": "lv"
-  },
-  {
-    "site_id": "kidzonetv-latvija",
-    "name": "KidzoneTV Latvija",
-    "lang": "lv"
-  },
-  {
-    "site_id": "sportacentrs",
-    "name": "Sportacentrs",
-    "lang": "lv"
-  },
-  {
-    "site_id": "vh1-euro-imm",
-    "name": "VH1 Euro IMM",
-    "lang": "lv"
-  },
-  {
-    "site_id": "eurosport-2",
-    "name": "Eurosport 2",
-    "lang": "lv",
-    "xmltv_id": "Eurosport2.fr@France"
-  },
-  {
-    "site_id": "mtv-live-hd",
-    "name": "MTV Live HD",
-    "lang": "lv"
-  },
-  {
-    "site_id": "tv6-1",
-    "name": "TV6",
-    "lang": "lv",
-    "xmltv_id": "TV6.lv@SD"
-  },
-  {
-    "site_id": "duo-3-baltic",
-    "name": "Duo 3 Baltic",
-    "lang": "lv"
-  },
-  {
-    "site_id": "luxetv-hd",
-    "name": "Luxe.TV HD",
-    "lang": "lv"
-  },
-  {
-    "site_id": "360",
-    "name": "360",
-    "lang": "lv",
-    "xmltv_id": "360TV.lv@SD"
-  },
-  {
-    "site_id": "filmzone-lv",
-    "name": "Filmzone LV",
-    "lang": "lv"
-  },
-  {
-    "site_id": "retv",
-    "name": "ReTV",
-    "lang": "lv",
-    "xmltv_id": "ReTV.lv@SD"
-  },
-  {
-    "site_id": "travel-channel-hd",
-    "name": "Travel Channel HD",
-    "lang": "lv"
-  },
-  {
-    "site_id": "sport-1",
-    "name": "Sport 1",
-    "lang": "lv"
-  },
-  {
-    "site_id": "cnn",
-    "name": "CNN",
-    "lang": "lv",
-    "xmltv_id": "CNNInternational.us@MENA"
-  },
-  {
-    "site_id": "e-entertainment",
-    "name": "E! Entertainment",
-    "lang": "lv"
-  },
-  {
-    "site_id": "go3-sport-2",
-    "name": "GO3 Sport 2",
-    "lang": "lv",
-    "xmltv_id": "Go3Sport2.ee@SD"
-  },
-  {
-    "site_id": "sat-1",
-    "name": "SAT 1",
-    "lang": "lv"
-  },
-  {
-    "site_id": "cnbc-europe",
-    "name": "CNBC Europe",
-    "lang": "lv",
-    "xmltv_id": "CNBCEurope.uk@SD"
-  },
-  {
-    "site_id": "disney-channel",
-    "name": "Disney Channel",
-    "lang": "lv"
-  },
-  {
-    "site_id": "futbol",
-    "name": "Футбол",
-    "lang": "lv"
-  },
-  {
-    "site_id": "go3-films",
-    "name": "GO3 Films",
-    "lang": "lv",
-    "xmltv_id": "Go3Films.ee@SD"
-  },
-  {
-    "site_id": "lolo-tv-lv",
-    "name": "Lolo TV (LV)",
-    "lang": "lv"
-  },
-  {
-    "site_id": "nat-geo-wild-europe",
-    "name": "Nat Geo Wild Europe",
-    "lang": "lv"
-  },
-  {
-    "site_id": "extreme-sports",
-    "name": "Extreme Sports",
-    "lang": "lv"
-  },
-  {
-    "site_id": "mtv-sport-2",
-    "name": "MTV sport 2",
-    "lang": "lv"
-  },
-  {
-    "site_id": "viasat-sport",
-    "name": "Viasat Sport",
-    "lang": "lv"
-  },
-  {
-    "site_id": "discovery-world-eu",
-    "name": "Discovery World EU",
-    "lang": "lv"
-  },
-  {
-    "site_id": "sport1",
-    "name": "Sport1",
-    "lang": "lv"
-  },
-  {
-    "site_id": "vox",
-    "name": "VOX",
-    "lang": "lv"
-  },
-  {
-    "site_id": "discovery-channel-ce",
-    "name": "Discovery Channel CE",
-    "lang": "lv"
-  },
-  {
-    "site_id": "discovery-science-eu",
-    "name": "Discovery Science EU",
-    "lang": "lv"
-  },
-  {
-    "site_id": "3",
-    "name": "3+",
-    "lang": "ru",
-    "xmltv_id": "TV3Plus.lv@SD"
-  },
-  {
-    "site_id": "8tv",
-    "name": "8TV",
-    "lang": "lv",
-    "xmltv_id": "8TV.lv@SD"
-  },
-  {
-    "site_id": "eurosport-1",
-    "name": "Eurosport 1",
-    "lang": "lv",
-    "xmltv_id": "Eurosport1.fr@France"
-  },
-  {
-    "site_id": "go3-sport-3",
-    "name": "GO3 Sport 3",
-    "lang": "lv",
-    "xmltv_id": "Go3Sport3.ee@SD"
-  },
-  {
-    "site_id": "kika",
-    "name": "KIKA",
-    "lang": "lv",
-    "xmltv_id": "KiKA.de@SD"
-  },
-  {
-    "site_id": "vh1-classic-europe",
-    "name": "VH1 Classic Europe",
-    "lang": "lv",
-    "xmltv_id": "VH1ClassicEurope.uk@SD"
-  },
-  {
-    "site_id": "mtv-rocks",
-    "name": "MTV Rocks",
-    "lang": "lv"
-  },
-  {
-    "site_id": "bbc-entertainment",
-    "name": "BBC Entertainment",
-    "lang": "lv",
-    "xmltv_id": "BBCEntertainment.uk@SD"
-  },
-  {
-    "site_id": "fight-sports-tv",
-    "name": "Fight Sports TV",
-    "lang": "lv"
-  },
-  {
-    "site_id": "mtv-sport-1",
-    "name": "MTV Sport 1",
-    "lang": "lv"
-  },
-  {
-    "site_id": "rtl",
-    "name": "RTL",
-    "lang": "lv"
-  },
-  {
-    "site_id": "tiji",
-    "name": "TiJi",
-    "lang": "lv"
-  },
-  {
-    "site_id": "tv3-1",
-    "name": "TV3",
-    "lang": "lv",
-    "xmltv_id": "TV3.lv@SD"
-  },
-  {
-    "site_id": "animal-planet-hd",
-    "name": "Animal Planet HD",
-    "lang": "lv",
-    "xmltv_id": "AnimalPlanetEurope.uk@HD"
-  },
-  {
-    "site_id": "detskii-klub-100",
-    "name": "Детский - Клуб 100",
-    "lang": "lv"
-  },
-  {
-    "site_id": "mtv-dance",
-    "name": "MTV Dance",
-    "lang": "lv"
-  },
-  {
-    "site_id": "mtv-europe",
-    "name": "MTV Europe",
-    "lang": "lv"
-  },
-  {
-    "site_id": "travel-channel",
-    "name": "Travel Channel",
-    "lang": "lv"
-  },
-  {
-    "site_id": "cartoon-network-rse",
-    "name": "Cartoon Network RSE",
-    "lang": "lv"
-  },
-  {
-    "site_id": "disney-junior",
-    "name": "Disney Junior",
-    "lang": "lv"
-  },
-  {
-    "site_id": "disney-xd",
-    "name": "Disney XD",
-    "lang": "lv"
-  },
-  {
-    "site_id": "kanal-7-lv",
-    "name": "Kanal 7 LV",
-    "lang": "lv"
-  },
-  {
-    "site_id": "ltv1",
-    "name": "LTV1",
-    "lang": "lv",
-    "xmltv_id": "LTV1.lv@SD"
-  },
-  {
-    "site_id": "rtl-2",
-    "name": "RTL 2",
-    "lang": "lv"
-  },
-  {
-    "site_id": "trace-urban",
-    "name": "Trace Urban",
-    "lang": "lv",
-    "xmltv_id": "TraceUrban.fr@SD"
-  },
-  {
-    "site_id": "arirang-tv",
-    "name": "Arirang TV",
-    "lang": "lv",
-    "xmltv_id": "ArirangTV.kr@SD"
-  },
-  {
-    "site_id": "deutche-welle",
-    "name": "Deutche Welle",
-    "lang": "lv"
-  },
-  {
-    "site_id": "esportstv",
-    "name": "eSportsTV",
-    "lang": "lv"
-  },
-  {
-    "site_id": "nickelodeon-euro",
-    "name": "Nickelodeon EURO",
-    "lang": "lv"
-  },
-  {
-    "site_id": "sat1-gold",
-    "name": "SAT.1 Gold",
-    "lang": "lv",
-    "xmltv_id": "SAT1Gold.de@SD"
-  },
-  {
-    "site_id": "viasat-kino",
-    "name": "Viasat Kino",
-    "lang": "lv"
-  },
-  {
-    "site_id": "viasat-explore-nordic",
-    "name": "Viasat Explore Nordic",
-    "lang": "en",
-    "xmltv_id": "ViasatExplore.se@SD"
-  },
-  {
-    "site_id": "c-music-tv",
-    "name": "C Music TV",
-    "lang": "lv",
-    "xmltv_id": "StingrayCMusic.ca@SD"
-  },
-  {
-    "site_id": "fox",
-    "name": "Fox",
-    "lang": "lv"
-  },
-  {
-    "site_id": "mcm-top",
-    "name": "MCM TOP",
-    "lang": "lv"
-  },
-  {
-    "site_id": "nautical-channel",
-    "name": "Nautical Channel",
-    "lang": "lv"
-  },
-  {
-    "site_id": "orf1",
-    "name": "ORF1",
-    "lang": "lv",
-    "xmltv_id": "ORF1.at@SD"
-  },
-  {
-    "site_id": "rtl-nitro",
-    "name": "RTL Nitro",
-    "lang": "lv",
-    "xmltv_id": "Nitro.de@SD"
-  },
-  {
-    "site_id": "viasat-kino-world",
-    "name": "Viasat Kino World",
+    "site_id": "national-geographic-channel-hd",
+    "name": "National Geographic Channel HD",
     "lang": "lv"
   },
   {
@@ -515,14 +17,90 @@
     "xmltv_id": "RealityXtra.uk@SD"
   },
   {
-    "site_id": "duo-3-blt",
-    "name": "Duo 3 BLT",
+    "site_id": "discovery-channel-ce",
+    "name": "Discovery Channel CE",
     "lang": "lv"
   },
   {
-    "site_id": "euronews",
-    "name": "Euronews",
+    "site_id": "go3-sport-2",
+    "name": "GO3 Sport 2",
+    "lang": "lv",
+    "xmltv_id": "Go3Sport2.ee@SD"
+  },
+  {
+    "site_id": "lolo-tv-lv",
+    "name": "Lolo TV (LV)",
     "lang": "lv"
+  },
+  {
+    "site_id": "mcm-top",
+    "name": "MCM TOP",
+    "lang": "lv"
+  },
+  {
+    "site_id": "duo-3-baltic",
+    "name": "Duo 3 Baltic",
+    "lang": "lv"
+  },
+  {
+    "site_id": "mtv-dance",
+    "name": "MTV Dance",
+    "lang": "lv"
+  },
+  {
+    "site_id": "mtv-hits",
+    "name": "MTV Hits",
+    "lang": "lv"
+  },
+  {
+    "site_id": "retv",
+    "name": "ReTV",
+    "lang": "lv",
+    "xmltv_id": "ReTV.lv@SD"
+  },
+  {
+    "site_id": "vox",
+    "name": "VOX",
+    "lang": "lv"
+  },
+  {
+    "site_id": "zdf",
+    "name": "ZDF",
+    "lang": "lv",
+    "xmltv_id": "ZDF.de@SD"
+  },
+  {
+    "site_id": "3",
+    "name": "3+",
+    "lang": "ru",
+    "xmltv_id": "TV3Plus.lv@SD"
+  },
+  {
+    "site_id": "discovery-science-eu",
+    "name": "Discovery Science EU",
+    "lang": "lv"
+  },
+  {
+    "site_id": "discovery-world-eu",
+    "name": "Discovery World EU",
+    "lang": "lv"
+  },
+  {
+    "site_id": "c-music-tv",
+    "name": "C Music TV",
+    "lang": "lv",
+    "xmltv_id": "StingrayCMusic.ca@SD"
+  },
+  {
+    "site_id": "eurosport-2-bundesliga",
+    "name": "Eurosport 2 (Bundesliga)",
+    "lang": "lv"
+  },
+  {
+    "site_id": "viasat-nature-cee",
+    "name": "VIASAT Nature CEE",
+    "lang": "en",
+    "xmltv_id": "ViasatNature.se@SD"
   },
   {
     "site_id": "eurosport-deutchland",
@@ -530,30 +108,8 @@
     "lang": "lv"
   },
   {
-    "site_id": "fashion-one",
-    "name": "Fashion One",
-    "lang": "lv"
-  },
-  {
-    "site_id": "history-europe",
-    "name": "History Europe",
-    "lang": "lv"
-  },
-  {
-    "site_id": "n24-doku",
-    "name": "N24 Doku",
-    "lang": "lv",
-    "xmltv_id": "N24Doku.de@SD"
-  },
-  {
-    "site_id": "tv3-life",
-    "name": "TV3 Life",
-    "lang": "lv",
-    "xmltv_id": "TV3Life.lv@SD"
-  },
-  {
-    "site_id": "arte",
-    "name": "Arte",
+    "site_id": "discovery-id-xtra",
+    "name": "Discovery ID XTRA",
     "lang": "lv"
   },
   {
@@ -563,126 +119,39 @@
     "xmltv_id": "AlJazeera.qa@English"
   },
   {
-    "site_id": "boomerang-baltic-cee",
-    "name": "Boomerang Baltic (CEE)",
+    "site_id": "cartoon-network-rse",
+    "name": "Cartoon Network RSE",
     "lang": "lv"
   },
   {
-    "site_id": "cbs-reality",
-    "name": "CBS Reality",
+    "site_id": "duo-6-lv",
+    "name": "Duo 6 LV",
     "lang": "lv",
-    "xmltv_id": "CBSReality.uk@SD"
+    "xmltv_id": "Duo6.lv@SD"
   },
   {
-    "site_id": "filmzone",
-    "name": "Filmzone +",
-    "lang": "lv",
-    "xmltv_id": "FilmzonePlus.ee@SD"
-  },
-  {
-    "site_id": "super-rtl",
-    "name": "Super RTL",
-    "lang": "lv",
-    "xmltv_id": "RTLSuper.de@SD"
-  },
-  {
-    "site_id": "discovery-life",
-    "name": "Discovery Life",
+    "site_id": "e-entertainment",
+    "name": "E! Entertainment",
     "lang": "lv"
   },
   {
-    "site_id": "viasat-naturehistory-hd",
-    "name": "Viasat Nature/History HD",
+    "site_id": "mvk",
+    "name": "MVK",
     "lang": "lv"
   },
   {
-    "site_id": "fashion-tv-europe",
-    "name": "Fashion TV Europe",
-    "lang": "lv",
-    "xmltv_id": "FashionTVEurope.fr@SD"
-  },
-  {
-    "site_id": "mtv-hits",
-    "name": "MTV Hits",
+    "site_id": "nautical-channel",
+    "name": "Nautical Channel",
     "lang": "lv"
   },
   {
-    "site_id": "nick-jr",
-    "name": "Nick Jr.",
+    "site_id": "disney-xd",
+    "name": "Disney XD",
     "lang": "lv"
   },
   {
-    "site_id": "nickelodeon-latvia",
-    "name": "Nickelodeon Latvia",
-    "lang": "lv"
-  },
-  {
-    "site_id": "discovery-id-xtra",
-    "name": "Discovery ID XTRA",
-    "lang": "lv"
-  },
-  {
-    "site_id": "national-geographic-channel-hd",
-    "name": "National Geographic Channel HD",
-    "lang": "lv"
-  },
-  {
-    "site_id": "sixx",
-    "name": "SIXX",
-    "lang": "lv",
-    "xmltv_id": "sixx.de@SD"
-  },
-  {
-    "site_id": "trace-sports",
-    "name": "Trace Sports",
-    "lang": "lv"
-  },
-  {
-    "site_id": "bbc-world",
-    "name": "BBC World",
-    "lang": "lv"
-  },
-  {
-    "site_id": "discovery-hd-showcase",
-    "name": "Discovery HD Showcase",
-    "lang": "lv"
-  },
-  {
-    "site_id": "eurosport-2-bundesliga",
-    "name": "Eurosport 2 (Bundesliga)",
-    "lang": "lv"
-  },
-  {
-    "site_id": "go3-sport-4",
-    "name": "GO3 Sport 4",
-    "lang": "lv",
-    "xmltv_id": "Go3Sport4.ee@SD"
-  },
-  {
-    "site_id": "ltv7",
-    "name": "LTV7",
-    "lang": "lv",
-    "xmltv_id": "LTV7.lv@SD"
-  },
-  {
-    "site_id": "national-geographic-baltic",
-    "name": "National Geographic Baltic",
-    "lang": "lv"
-  },
-  {
-    "site_id": "orf2",
-    "name": "ORF2",
-    "lang": "lv",
-    "xmltv_id": "ORF2.at@SD"
-  },
-  {
-    "site_id": "stv-latvija",
-    "name": "STV Latvija",
-    "lang": "lv"
-  },
-  {
-    "site_id": "france-24-uk",
-    "name": "France 24 UK",
+    "site_id": "euronews",
+    "name": "Euronews",
     "lang": "lv"
   },
   {
@@ -697,19 +166,145 @@
     "lang": "lv"
   },
   {
+    "site_id": "mtv-europe",
+    "name": "MTV Europe",
+    "lang": "lv"
+  },
+  {
+    "site_id": "nick-jr",
+    "name": "Nick Jr.",
+    "lang": "lv"
+  },
+  {
+    "site_id": "nickelodeon-latvia",
+    "name": "Nickelodeon Latvia",
+    "lang": "lv"
+  },
+  {
+    "site_id": "trace-sports",
+    "name": "Trace Sports",
+    "lang": "lv"
+  },
+  {
+    "site_id": "fashion-one",
+    "name": "Fashion One",
+    "lang": "lv"
+  },
+  {
+    "site_id": "filmzone",
+    "name": "Filmzone +",
+    "lang": "lv",
+    "xmltv_id": "FilmzonePlus.ee@SD"
+  },
+  {
+    "site_id": "8tv",
+    "name": "8TV",
+    "lang": "lv",
+    "xmltv_id": "8TV.lv@SD"
+  },
+  {
+    "site_id": "animal-planet-hd",
+    "name": "Animal Planet HD",
+    "lang": "lv",
+    "xmltv_id": "AnimalPlanetEurope.uk@HD"
+  },
+  {
+    "site_id": "food-network-hd-emea",
+    "name": "Food Network HD (EMEA)",
+    "lang": "lv"
+  },
+  {
+    "site_id": "fox-life",
+    "name": "Fox Life",
+    "lang": "lv"
+  },
+  {
+    "site_id": "pro-7",
+    "name": "PRO 7",
+    "lang": "lv"
+  },
+  {
+    "site_id": "travel-channel",
+    "name": "Travel Channel",
+    "lang": "lv"
+  },
+  {
+    "site_id": "vh1-euro-imm",
+    "name": "VH1 Euro IMM",
+    "lang": "lv"
+  },
+  {
+    "site_id": "viasat-sport",
+    "name": "Viasat Sport",
+    "lang": "lv"
+  },
+  {
+    "site_id": "cnn",
+    "name": "CNN",
+    "lang": "lv",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "rtl-2",
+    "name": "RTL 2",
+    "lang": "lv"
+  },
+  {
+    "site_id": "bbc-world",
+    "name": "BBC World",
+    "lang": "lv"
+  },
+  {
+    "site_id": "duo-3-blt",
+    "name": "Duo 3 BLT",
+    "lang": "lv"
+  },
+  {
+    "site_id": "go3-sport-4",
+    "name": "GO3 Sport 4",
+    "lang": "lv",
+    "xmltv_id": "Go3Sport4.ee@SD"
+  },
+  {
+    "site_id": "ltv1",
+    "name": "LTV1",
+    "lang": "lv",
+    "xmltv_id": "LTV1.lv@SD"
+  },
+  {
+    "site_id": "sport-1",
+    "name": "Sport 1",
+    "lang": "lv"
+  },
+  {
     "site_id": "tlc-germany",
     "name": "TLC Germany",
     "lang": "lv"
   },
   {
-    "site_id": "animal-planet-eu",
-    "name": "Animal Planet EU",
+    "site_id": "bbc-entertainment",
+    "name": "BBC Entertainment",
     "lang": "lv",
-    "xmltv_id": "AnimalPlanetEurope.uk@SD"
+    "xmltv_id": "BBCEntertainment.uk@SD"
   },
   {
-    "site_id": "djazztv",
-    "name": "DJAZZ.tv",
+    "site_id": "discovery-life",
+    "name": "Discovery Life",
+    "lang": "lv"
+  },
+  {
+    "site_id": "stv-latvija",
+    "name": "STV Latvija",
+    "lang": "lv"
+  },
+  {
+    "site_id": "travel-channel-hd",
+    "name": "Travel Channel HD",
+    "lang": "lv"
+  },
+  {
+    "site_id": "tv-21",
+    "name": "TV-21",
     "lang": "lv"
   },
   {
@@ -718,8 +313,104 @@
     "lang": "lv"
   },
   {
-    "site_id": "viasat-kino-comedy",
-    "name": "Viasat Kino Comedy",
+    "site_id": "viasat-naturehistory-hd",
+    "name": "Viasat Nature/History HD",
+    "lang": "lv"
+  },
+  {
+    "site_id": "fox",
+    "name": "Fox",
+    "lang": "lv"
+  },
+  {
+    "site_id": "arte",
+    "name": "Arte",
+    "lang": "lv"
+  },
+  {
+    "site_id": "motorsport-tv",
+    "name": "Motorsport TV",
+    "lang": "lv"
+  },
+  {
+    "site_id": "mtv-sport-2",
+    "name": "MTV sport 2",
+    "lang": "lv"
+  },
+  {
+    "site_id": "sat-1",
+    "name": "SAT 1",
+    "lang": "lv"
+  },
+  {
+    "site_id": "sixx",
+    "name": "SIXX",
+    "lang": "lv",
+    "xmltv_id": "sixx.de@SD"
+  },
+  {
+    "site_id": "tv3-life",
+    "name": "TV3 Life",
+    "lang": "lv",
+    "xmltv_id": "TV3Life.lv@SD"
+  },
+  {
+    "site_id": "viasat-golf",
+    "name": "Viasat Golf",
+    "lang": "lv"
+  },
+  {
+    "site_id": "bloomberg",
+    "name": "Bloomberg",
+    "lang": "lv",
+    "xmltv_id": "BloombergTV.us@Europe"
+  },
+  {
+    "site_id": "kidzone-mini-baltic",
+    "name": "Kidzone Mini Baltic",
+    "lang": "lv"
+  },
+  {
+    "site_id": "riga-tv24",
+    "name": "Riga TV24",
+    "lang": "lv"
+  },
+  {
+    "site_id": "tv6-1",
+    "name": "TV6",
+    "lang": "lv",
+    "xmltv_id": "TV6.lv@SD"
+  },
+  {
+    "site_id": "mtv-rocks",
+    "name": "MTV Rocks",
+    "lang": "lv"
+  },
+  {
+    "site_id": "arena-hd-baltic",
+    "name": "Arena HD Baltic",
+    "lang": "lv",
+    "xmltv_id": "ArenaHDBaltic.lt@SD"
+  },
+  {
+    "site_id": "cnbc-europe",
+    "name": "CNBC Europe",
+    "lang": "lv",
+    "xmltv_id": "CNBCEurope.uk@SD"
+  },
+  {
+    "site_id": "mtv-live-hd",
+    "name": "MTV Live HD",
+    "lang": "lv"
+  },
+  {
+    "site_id": "nat-geo-wild-europe",
+    "name": "Nat Geo Wild Europe",
+    "lang": "lv"
+  },
+  {
+    "site_id": "viasat-kino-action",
+    "name": "Viasat Kino Action",
     "lang": "lv"
   },
   {
@@ -729,8 +420,317 @@
     "xmltv_id": "EpicDrama.uk@Sweden"
   },
   {
-    "site_id": "kidzone-mini-baltic",
-    "name": "Kidzone Mini Baltic",
+    "site_id": "kanal-7-lv",
+    "name": "Kanal 7 LV",
     "lang": "lv"
+  },
+  {
+    "site_id": "kidzonetv-latvija",
+    "name": "KidzoneTV Latvija",
+    "lang": "lv"
+  },
+  {
+    "site_id": "nickelodeon-euro",
+    "name": "Nickelodeon EURO",
+    "lang": "lv"
+  },
+  {
+    "site_id": "orf1",
+    "name": "ORF1",
+    "lang": "lv",
+    "xmltv_id": "ORF1.at@SD"
+  },
+  {
+    "site_id": "sport1",
+    "name": "Sport1",
+    "lang": "lv"
+  },
+  {
+    "site_id": "viasat-sport-east",
+    "name": "VIASAT Sport East",
+    "lang": "lv"
+  },
+  {
+    "site_id": "ard",
+    "name": "ARD",
+    "lang": "lv",
+    "xmltv_id": "ARDalpha.de@SD"
+  },
+  {
+    "site_id": "esportstv",
+    "name": "eSportsTV",
+    "lang": "lv"
+  },
+  {
+    "site_id": "eurosport-1",
+    "name": "Eurosport 1",
+    "lang": "lv",
+    "xmltv_id": "Eurosport1.fr@France"
+  },
+  {
+    "site_id": "gulli",
+    "name": "Gulli",
+    "lang": "lv"
+  },
+  {
+    "site_id": "national-geographic-baltic",
+    "name": "National Geographic Baltic",
+    "lang": "lv"
+  },
+  {
+    "site_id": "sat1-gold",
+    "name": "SAT.1 Gold",
+    "lang": "lv",
+    "xmltv_id": "SAT1Gold.de@SD"
+  },
+  {
+    "site_id": "tv-kurzeme",
+    "name": "TV Kurzeme",
+    "lang": "lv"
+  },
+  {
+    "site_id": "go3-films",
+    "name": "GO3 Films",
+    "lang": "lv",
+    "xmltv_id": "Go3Films.ee@SD"
+  },
+  {
+    "site_id": "arirang-tv",
+    "name": "Arirang TV",
+    "lang": "lv",
+    "xmltv_id": "ArirangTV.kr@SD"
+  },
+  {
+    "site_id": "boomerang-baltic-cee",
+    "name": "Boomerang Baltic (CEE)",
+    "lang": "lv"
+  },
+  {
+    "site_id": "cbs-reality",
+    "name": "CBS Reality",
+    "lang": "lv",
+    "xmltv_id": "CBSReality.uk@SD"
+  },
+  {
+    "site_id": "detskii-klub-100",
+    "name": "Детский - Клуб 100",
+    "lang": "lv"
+  },
+  {
+    "site_id": "super-rtl",
+    "name": "Super RTL",
+    "lang": "lv",
+    "xmltv_id": "RTLSuper.de@SD"
+  },
+  {
+    "site_id": "vh1-classic-europe",
+    "name": "VH1 Classic Europe",
+    "lang": "lv",
+    "xmltv_id": "VH1ClassicEurope.uk@SD"
+  },
+  {
+    "site_id": "viasat-kino-comedy",
+    "name": "Viasat Kino Comedy",
+    "lang": "lv"
+  },
+  {
+    "site_id": "disney-junior",
+    "name": "Disney Junior",
+    "lang": "lv"
+  },
+  {
+    "site_id": "djazztv",
+    "name": "DJAZZ.tv",
+    "lang": "lv"
+  },
+  {
+    "site_id": "filmzone-lv",
+    "name": "Filmzone LV",
+    "lang": "lv"
+  },
+  {
+    "site_id": "rtl-nitro",
+    "name": "RTL Nitro",
+    "lang": "lv",
+    "xmltv_id": "Nitro.de@SD"
+  },
+  {
+    "site_id": "tv3-mini",
+    "name": "TV3 Mini",
+    "lang": "lv",
+    "xmltv_id": "TV3Mini.lv@SD"
+  },
+  {
+    "site_id": "go3-sport-3",
+    "name": "GO3 Sport 3",
+    "lang": "lv",
+    "xmltv_id": "Go3Sport3.ee@SD"
+  },
+  {
+    "site_id": "orf2",
+    "name": "ORF2",
+    "lang": "lv",
+    "xmltv_id": "ORF2.at@SD"
+  },
+  {
+    "site_id": "tve",
+    "name": "TVE",
+    "lang": "lv"
+  },
+  {
+    "site_id": "3sat",
+    "name": "3SAT",
+    "lang": "lv",
+    "xmltv_id": "3sat.de@SD"
+  },
+  {
+    "site_id": "deutche-welle",
+    "name": "Deutche Welle",
+    "lang": "lv"
+  },
+  {
+    "site_id": "france-24-uk",
+    "name": "France 24 UK",
+    "lang": "lv"
+  },
+  {
+    "site_id": "mtv-music",
+    "name": "MTV Music",
+    "lang": "lv"
+  },
+  {
+    "site_id": "360",
+    "name": "360",
+    "lang": "lv",
+    "xmltv_id": "360TV.lv@SD"
+  },
+  {
+    "site_id": "futbol",
+    "name": "Футбол",
+    "lang": "lv"
+  },
+  {
+    "site_id": "sportacentrs",
+    "name": "Sportacentrs",
+    "lang": "lv"
+  },
+  {
+    "site_id": "tiji",
+    "name": "TiJi",
+    "lang": "lv"
+  },
+  {
+    "site_id": "trace-urban",
+    "name": "Trace Urban",
+    "lang": "lv",
+    "xmltv_id": "TraceUrban.fr@SD"
+  },
+  {
+    "site_id": "fight-sports-tv",
+    "name": "Fight Sports TV",
+    "lang": "lv"
+  },
+  {
+    "site_id": "viasat-history-cee",
+    "name": "Viasat History CEE",
+    "lang": "en",
+    "xmltv_id": "ViasatHistory.se@SD"
+  },
+  {
+    "site_id": "extreme-sports",
+    "name": "Extreme Sports",
+    "lang": "lv"
+  },
+  {
+    "site_id": "luxetv-hd",
+    "name": "Luxe.TV HD",
+    "lang": "lv"
+  },
+  {
+    "site_id": "rtl",
+    "name": "RTL",
+    "lang": "lv"
+  },
+  {
+    "site_id": "discovery-hd-showcase",
+    "name": "Discovery HD Showcase",
+    "lang": "lv"
+  },
+  {
+    "site_id": "disney-channel",
+    "name": "Disney Channel",
+    "lang": "lv"
+  },
+  {
+    "site_id": "eurosport-2",
+    "name": "Eurosport 2",
+    "lang": "lv",
+    "xmltv_id": "Eurosport2.fr@France"
+  },
+  {
+    "site_id": "history-europe",
+    "name": "History Europe",
+    "lang": "lv"
+  },
+  {
+    "site_id": "ltv7",
+    "name": "LTV7",
+    "lang": "lv",
+    "xmltv_id": "LTV7.lv@SD"
+  },
+  {
+    "site_id": "n-tv",
+    "name": "N-TV",
+    "lang": "lv"
+  },
+  {
+    "site_id": "viasat-kino",
+    "name": "Viasat Kino",
+    "lang": "lv"
+  },
+  {
+    "site_id": "viasat-kino-world",
+    "name": "Viasat Kino World",
+    "lang": "lv"
+  },
+  {
+    "site_id": "fashion-tv-europe",
+    "name": "Fashion TV Europe",
+    "lang": "lv",
+    "xmltv_id": "FashionTVEurope.fr@SD"
+  },
+  {
+    "site_id": "n24-doku",
+    "name": "N24 Doku",
+    "lang": "lv",
+    "xmltv_id": "N24Doku.de@SD"
+  },
+  {
+    "site_id": "tv3-1",
+    "name": "TV3",
+    "lang": "lv",
+    "xmltv_id": "TV3.lv@SD"
+  },
+  {
+    "site_id": "kika",
+    "name": "KIKA",
+    "lang": "lv",
+    "xmltv_id": "KiKA.de@SD"
+  },
+  {
+    "site_id": "mtv-sport-1",
+    "name": "MTV Sport 1",
+    "lang": "lv"
+  },
+  {
+    "site_id": "smartzone-baltic-lithuania",
+    "name": "Smartzone Baltic Lithuania",
+    "lang": "lv"
+  },
+  {
+    "site_id": "viasat-explore-nordic",
+    "name": "Viasat Explore Nordic",
+    "lang": "en",
+    "xmltv_id": "ViasatExplore.se@SD"
   }
 ]

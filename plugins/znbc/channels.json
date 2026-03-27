@@ -1,17 +1,5 @@
 [
   {
-    "site_id": "tv3",
-    "name": "TV3",
-    "lang": "en",
-    "xmltv_id": "ZNBCTV3.zm@SD"
-  },
-  {
-    "site_id": "tv4",
-    "name": "TV4",
-    "lang": "en",
-    "xmltv_id": "ZNBCTV4.zm@SD"
-  },
-  {
     "site_id": "tv1",
     "name": "TV1",
     "lang": "en",
@@ -22,5 +10,17 @@
     "name": "TV2",
     "lang": "en",
     "xmltv_id": "ZNBCTV2.zm@SD"
+  },
+  {
+    "site_id": "tv3",
+    "name": "TV3",
+    "lang": "en",
+    "xmltv_id": "ZNBCTV3.zm@SD"
+  },
+  {
+    "site_id": "tv4",
+    "name": "TV4",
+    "lang": "en",
+    "xmltv_id": "ZNBCTV4.zm@SD"
   }
 ]

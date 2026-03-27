@@ -96,6 +96,7 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/rtppt"
 	_ "github.com/gavinmcnair/epg/plugins/ruvis"
 	_ "github.com/gavinmcnair/epg/plugins/sattv"
+	_ "github.com/gavinmcnair/epg/plugins/sfrfr"
 	_ "github.com/gavinmcnair/epg/plugins/shahid"
 	_ "github.com/gavinmcnair/epg/plugins/singtel"
 	_ "github.com/gavinmcnair/epg/plugins/skyde"
