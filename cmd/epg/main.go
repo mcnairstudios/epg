@@ -30,16 +30,19 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/clarotvmais"
 	_ "github.com/gavinmcnair/epg/plugins/cosmote"
 	_ "github.com/gavinmcnair/epg/plugins/cubmu"
+	_ "github.com/gavinmcnair/epg/plugins/deltanl"
 	_ "github.com/gavinmcnair/epg/plugins/denstv"
 	_ "github.com/gavinmcnair/epg/plugins/derana"
 	_ "github.com/gavinmcnair/epg/plugins/digiturk"
 	_ "github.com/gavinmcnair/epg/plugins/directvar"
 	_ "github.com/gavinmcnair/epg/plugins/directvus"
+	_ "github.com/gavinmcnair/epg/plugins/dishtvIn2"
 	_ "github.com/gavinmcnair/epg/plugins/distrotv"
 	_ "github.com/gavinmcnair/epg/plugins/dnafi"
 	_ "github.com/gavinmcnair/epg/plugins/dsmart"
 	_ "github.com/gavinmcnair/epg/plugins/dstv"
 	_ "github.com/gavinmcnair/epg/plugins/elcinema"
+	_ "github.com/gavinmcnair/epg/plugins/elpais"
 	_ "github.com/gavinmcnair/epg/plugins/epg112114"
 	_ "github.com/gavinmcnair/epg/plugins/firstmedia"
 	_ "github.com/gavinmcnair/epg/plugins/foxsportsau"
@@ -112,6 +115,7 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/singtel"
 	_ "github.com/gavinmcnair/epg/plugins/skyde"
 	_ "github.com/gavinmcnair/epg/plugins/skynz"
+	_ "github.com/gavinmcnair/epg/plugins/skyit"
 	_ "github.com/gavinmcnair/epg/plugins/skyuk"
 	_ "github.com/gavinmcnair/epg/plugins/starhub"
 	_ "github.com/gavinmcnair/epg/plugins/stod2"
@@ -120,6 +124,7 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/taiwanplus"
 	_ "github.com/gavinmcnair/epg/plugins/tapdmv"
 	_ "github.com/gavinmcnair/epg/plugins/tataplay"
+	_ "github.com/gavinmcnair/epg/plugins/telecablesat"
 	_ "github.com/gavinmcnair/epg/plugins/teleboy"
 	_ "github.com/gavinmcnair/epg/plugins/telemach"
 	_ "github.com/gavinmcnair/epg/plugins/teliatv"
@@ -154,6 +159,7 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/winplay"
 	_ "github.com/gavinmcnair/epg/plugins/xumotv"
 	_ "github.com/gavinmcnair/epg/plugins/zap2it"
+	_ "github.com/gavinmcnair/epg/plugins/ziggogo"
 	_ "github.com/gavinmcnair/epg/plugins/znbc"
 )
 
@@ -163,6 +169,8 @@ func main() {
 	days := flag.Int("days", 3, "number of days to grab")
 	maxConn := flag.Int("max-connections", 3, "max concurrent connections per grab")
 	schedule := flag.String("schedule", "", "cron schedule for automatic grabbing (e.g. '0 0 * * *' for daily)")
+	rolling := flag.Bool("rolling", false, "enable rolling grabber (grabs each source at midnight in its timezone)")
+	rollingParallel := flag.Int("rolling-parallel", 2, "max parallel grabs for rolling grabber")
 	flag.Parse()
 
 	s := store.New(filepath.Join(*dataDir, "providers"))
@@ -208,6 +216,12 @@ func main() {
 			log.Fatalf("failed to start scheduler: %v", err)
 		}
 		defer sched.Stop()
+	}
+
+	if *rolling {
+		rg := scheduler.NewRollingGrabber(g, s, *rollingParallel)
+		rg.Start()
+		defer rg.Stop()
 	}
 
 	go func() {

@@ -1,11 +1,5 @@
 [
   {
-    "site_id": "1",
-    "name": "כאן 11",
-    "lang": "he",
-    "xmltv_id": "Kan11.il@SD"
-  },
-  {
     "site_id": "2",
     "name": "مكان",
     "lang": "ar",
@@ -16,5 +10,11 @@
     "name": "חינוכית",
     "lang": "he",
     "xmltv_id": "KanEducational.il@SD"
+  },
+  {
+    "site_id": "1",
+    "name": "כאן 11",
+    "lang": "he",
+    "xmltv_id": "Kan11.il@SD"
   }
 ]

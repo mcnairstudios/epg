@@ -1,11 +1,5 @@
 [
   {
-    "site_id": "tv1",
-    "name": "TV1",
-    "lang": "en",
-    "xmltv_id": "ZNBCTV1.zm@SD"
-  },
-  {
     "site_id": "tv2",
     "name": "TV2",
     "lang": "en",
@@ -22,5 +16,11 @@
     "name": "TV4",
     "lang": "en",
     "xmltv_id": "ZNBCTV4.zm@SD"
+  },
+  {
+    "site_id": "tv1",
+    "name": "TV1",
+    "lang": "en",
+    "xmltv_id": "ZNBCTV1.zm@SD"
   }
 ]

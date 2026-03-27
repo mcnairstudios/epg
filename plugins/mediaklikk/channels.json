@@ -1,5 +1,23 @@
 [
   {
+    "site_id": "2",
+    "name": "M2",
+    "lang": "hu",
+    "xmltv_id": "M2.hu@SD"
+  },
+  {
+    "site_id": "3",
+    "name": "Duna",
+    "lang": "hu",
+    "xmltv_id": "Duna.hu@SD"
+  },
+  {
+    "site_id": "4",
+    "name": "Duna World",
+    "lang": "hu",
+    "xmltv_id": "DunaWorld.hu@SD"
+  },
+  {
     "site_id": "26",
     "name": "M3",
     "lang": "hu",
@@ -28,23 +46,5 @@
     "name": "M1",
     "lang": "hu",
     "xmltv_id": "M1.hu@SD"
-  },
-  {
-    "site_id": "2",
-    "name": "M2",
-    "lang": "hu",
-    "xmltv_id": "M2.hu@SD"
-  },
-  {
-    "site_id": "3",
-    "name": "Duna",
-    "lang": "hu",
-    "xmltv_id": "Duna.hu@SD"
-  },
-  {
-    "site_id": "4",
-    "name": "Duna World",
-    "lang": "hu",
-    "xmltv_id": "DunaWorld.hu@SD"
   }
 ]

@@ -1,74 +1,164 @@
 [
   {
+    "site_id": "blueantextreme",
+    "name": "Rock Action",
+    "lang": "id",
+    "xmltv_id": "ROCKExtreme.sg@SD"
+  },
+  {
+    "site_id": "kix",
+    "name": "Kix",
+    "lang": "id",
+    "xmltv_id": "KIX.hk@SD"
+  },
+  {
+    "site_id": "metrotv",
+    "name": "Metro TV",
+    "lang": "id",
+    "xmltv_id": "MetroTV.id@SD"
+  },
+  {
+    "site_id": "ochannel",
+    "name": "MOJI",
+    "lang": "id",
+    "xmltv_id": "Moji.id@SD"
+  },
+  {
+    "site_id": "atv",
+    "name": "ATV",
+    "lang": "id",
+    "xmltv_id": "ATV.id@SD"
+  },
+  {
+    "site_id": "cctv4",
+    "name": "CCTV4",
+    "lang": "id",
+    "xmltv_id": "CCTV4Asia.cn@SD"
+  },
+  {
+    "site_id": "crimeinvestigation",
+    "name": "Crime Investigation",
+    "lang": "id",
+    "xmltv_id": "CrimePlusInvestigationAsia.sg@SD"
+  },
+  {
+    "site_id": "jtv",
+    "name": "JTV",
+    "lang": "id",
+    "xmltv_id": "JTV.id@SD"
+  },
+  {
+    "site_id": "nhkworld",
+    "name": "nhk world Japan",
+    "lang": "id",
+    "xmltv_id": "NHKWorldJapan.jp@SD"
+  },
+  {
+    "site_id": "animax",
+    "name": "Animax",
+    "lang": "id",
+    "xmltv_id": "AnimaxAsia.sg@SD"
+  },
+  {
+    "site_id": "cnbcasia",
+    "name": "CNBC Asia",
+    "lang": "id",
+    "xmltv_id": "CNBCAsia.sg@SD"
+  },
+  {
+    "site_id": "kplus",
+    "name": "Kplus",
+    "lang": "id",
+    "xmltv_id": "KPlus.sg@SD"
+  },
+  {
+    "site_id": "nusantaratv",
+    "name": "Nusantara TV",
+    "lang": "id",
+    "xmltv_id": "NusantaraTV.id@SD"
+  },
+  {
+    "site_id": "phoenixinfonews",
+    "name": "Phoenix InfoNews",
+    "lang": "id",
+    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD"
+  },
+  {
+    "site_id": "useeprime",
+    "name": "AllPlay Ent",
+    "lang": "id",
+    "xmltv_id": "AllPlayEnt.id@SD"
+  },
+  {
     "site_id": "abcaustralia",
     "name": "ABC Australia",
     "lang": "id",
     "xmltv_id": "ABCAustralia.au@SD"
   },
   {
-    "site_id": "discoveryasia",
-    "name": "Discovery Asia",
+    "site_id": "arirang",
+    "name": "Arirang",
     "lang": "id",
-    "xmltv_id": "DiscoveryAsia.sg@SD"
+    "xmltv_id": "ArirangTV.kr@SD"
   },
   {
-    "site_id": "studiouniversal",
-    "name": "Studio Universal",
-    "lang": "id",
-    "xmltv_id": "StudioUniversalLatinAmerica.us@Brazil"
+    "site_id": "newtvcomprehensive",
+    "name": "New Tv Comprehensive",
+    "lang": "id"
   },
   {
-    "site_id": "cartoonnetwork",
-    "name": "Cartoon Network",
+    "site_id": "idx",
+    "name": "IDX",
     "lang": "id",
-    "xmltv_id": "CartoonNetworkAsia.sg@SD"
+    "xmltv_id": "IDXChannel.id@SD"
   },
   {
-    "site_id": "cnninternational",
-    "name": "CNN International",
+    "site_id": "lifetime",
+    "name": "Lifetime",
     "lang": "id",
-    "xmltv_id": "CNNInternational.us@AsiaPacific"
+    "xmltv_id": "LifetimeAsia.us@SD"
   },
   {
-    "site_id": "bein2",
-    "name": "SPOTV 2",
+    "site_id": "mtatv",
+    "name": "MTATV",
     "lang": "id",
-    "xmltv_id": "SPOTV2.id@SD"
+    "xmltv_id": "MTATV.id@SD"
   },
   {
-    "site_id": "kompastv",
-    "name": "Kompas TV",
+    "site_id": "nba",
+    "name": "NBA",
     "lang": "id",
-    "xmltv_id": "KompasTV.id@SD"
+    "xmltv_id": "NBATV.us@SD"
+  },
+  {
+    "site_id": "rusiatv",
+    "name": "RT",
+    "lang": "id",
+    "xmltv_id": "RT.ru@SD"
+  },
+  {
+    "site_id": "cbeebies",
+    "name": "CBeebies",
+    "lang": "id",
+    "xmltv_id": "CBeebiesAsia.uk@SD"
+  },
+  {
+    "site_id": "celestialmovie",
+    "name": "Celestial Movie",
+    "lang": "id",
+    "xmltv_id": "CelestialMoviesIndonesia.id@SD"
+  },
+  {
+    "site_id": "dwtv",
+    "name": "DW (English)",
+    "lang": "id",
+    "xmltv_id": "DW.de@English"
   },
   {
     "site_id": "nickelodeon",
     "name": "Nickelodeon",
     "lang": "id",
     "xmltv_id": "NickelodeonAsia.sg@SD"
-  },
-  {
-    "site_id": "sone",
-    "name": "SONE",
-    "lang": "id",
-    "xmltv_id": "ONE.sg@SD"
-  },
-  {
-    "site_id": "mnctv",
-    "name": "MNCTV",
-    "lang": "id",
-    "xmltv_id": "MNCTV.id@SD"
-  },
-  {
-    "site_id": "daaitv",
-    "name": "Daai TV",
-    "lang": "id",
-    "xmltv_id": "DAAITV.id@SD"
-  },
-  {
-    "site_id": "newtvvariety",
-    "name": "New Tv Variety",
-    "lang": "id"
   },
   {
     "site_id": "tlc",
@@ -83,309 +173,10 @@
     "xmltv_id": "ZeeBioskop.id@SD"
   },
   {
-    "site_id": "boomerang",
-    "name": "Cartoonito",
-    "lang": "id",
-    "xmltv_id": "Cartoonito.uk@SD"
-  },
-  {
-    "site_id": "dunialain",
-    "name": "Dunia Lain",
-    "lang": "id",
-    "xmltv_id": "DuniaLain.id@SD"
-  },
-  {
-    "site_id": "thrill",
-    "name": "Thrill",
-    "lang": "id",
-    "xmltv_id": "Thrill.hk@SD"
-  },
-  {
-    "site_id": "afc",
-    "name": "Asian Food Network",
-    "lang": "id",
-    "xmltv_id": "AsianFoodNetwork.sg@SD"
-  },
-  {
-    "site_id": "alquran",
-    "name": "AlQuran Kareem",
-    "lang": "id",
-    "xmltv_id": "QuranTV.sa@SD"
-  },
-  {
-    "site_id": "chinesedrama",
-    "name": "Chinese Drama",
-    "lang": "id",
-    "xmltv_id": "ChineseDrama.hk@SD"
-  },
-  {
-    "site_id": "cnnindonesia",
-    "name": "CNN Indonesia",
-    "lang": "id",
-    "xmltv_id": "CNNIndonesia.id@SD"
-  },
-  {
-    "site_id": "davinci",
-    "name": "Da Vinci Learning",
-    "lang": "id",
-    "xmltv_id": "DaVinciAsia.de@SD"
-  },
-  {
-    "site_id": "euronews",
-    "name": "Euronews",
-    "lang": "id",
-    "xmltv_id": "EuronewsEnglish.fr@SD"
-  },
-  {
-    "site_id": "flik",
-    "name": "Flik",
-    "lang": "id",
-    "xmltv_id": "Flik.id@SD"
-  },
-  {
-    "site_id": "jaktv",
-    "name": "JakTV",
-    "lang": "id",
-    "xmltv_id": "JakTV.id@SD"
-  },
-  {
-    "site_id": "indikids",
-    "name": "FunPlanet",
-    "lang": "id",
-    "xmltv_id": "FunPlanet.id@SD"
-  },
-  {
-    "site_id": "mentaritv",
-    "name": "Mentari TV",
-    "lang": "id",
-    "xmltv_id": "MentariTV.id@SD"
-  },
-  {
-    "site_id": "newsasia",
-    "name": "News Asia",
-    "lang": "id",
-    "xmltv_id": "CNA.sg@SD"
-  },
-  {
-    "site_id": "transtv",
-    "name": "TransTV",
-    "lang": "id",
-    "xmltv_id": "TransTV.id@SD"
-  },
-  {
-    "site_id": "animalplanet",
-    "name": "Animal Planet",
-    "lang": "id",
-    "xmltv_id": "AnimalPlanetSoutheastAsia.sg@SD"
-  },
-  {
-    "site_id": "kbsworld",
-    "name": "KBS World",
-    "lang": "id",
-    "xmltv_id": "KBSWorld.kr@SD"
-  },
-  {
-    "site_id": "lovenature",
-    "name": "Love Nature",
-    "lang": "id",
-    "xmltv_id": "LoveNature.ca@SD"
-  },
-  {
-    "site_id": "newtvfinance",
-    "name": "New Tv Finance",
-    "lang": "id"
-  },
-  {
-    "site_id": "nickjr",
-    "name": "Nick Junior",
-    "lang": "id",
-    "xmltv_id": "NickJrAsia.sg@SD"
-  },
-  {
-    "site_id": "tvri",
-    "name": "TVRI Nasional",
-    "lang": "id",
-    "xmltv_id": "TVRI.id@SD"
-  },
-  {
-    "site_id": "mtvlive",
-    "name": "MTV Live",
-    "lang": "id",
-    "xmltv_id": "MTVLive.uk@SD"
-  },
-  {
-    "site_id": "rtv",
-    "name": "Rajawali TV",
-    "lang": "id",
-    "xmltv_id": "RajawaliTV.id@SD"
-  },
-  {
-    "site_id": "tv9",
-    "name": "TV9 NU",
-    "lang": "id",
-    "xmltv_id": "TV9Nusantara.id@SD"
-  },
-  {
-    "site_id": "cbeebies",
-    "name": "CBeebies",
-    "lang": "id",
-    "xmltv_id": "CBeebiesAsia.uk@SD"
-  },
-  {
-    "site_id": "arirang",
-    "name": "Arirang",
-    "lang": "id",
-    "xmltv_id": "ArirangTV.kr@SD"
-  },
-  {
-    "site_id": "idx",
-    "name": "IDX",
-    "lang": "id",
-    "xmltv_id": "IDXChannel.id@SD"
-  },
-  {
-    "site_id": "mqtv",
-    "name": "MQTV",
-    "lang": "id",
-    "xmltv_id": "MQTV.id@SD"
-  },
-  {
-    "site_id": "tawaftv",
-    "name": "Tawaf TV",
-    "lang": "id",
-    "xmltv_id": "TawafTV.id@SD"
-  },
-  {
-    "site_id": "useeprime",
-    "name": "AllPlay Ent",
-    "lang": "id",
-    "xmltv_id": "AllPlayEnt.id@SD"
-  },
-  {
-    "site_id": "phoenixchinese",
-    "name": "Phoenix Chinese",
-    "lang": "id",
-    "xmltv_id": "PhoenixChineseChannel.hk@SD"
-  },
-  {
-    "site_id": "globaltv",
-    "name": "GTV",
-    "lang": "id",
-    "xmltv_id": "GTV.id@SD"
-  },
-  {
-    "site_id": "rusiatv",
-    "name": "RT",
-    "lang": "id",
-    "xmltv_id": "RT.ru@SD"
-  },
-  {
-    "site_id": "atv",
-    "name": "ATV",
-    "lang": "id",
-    "xmltv_id": "ATV.id@SD"
-  },
-  {
-    "site_id": "blueant",
-    "name": "Rock Entertainment",
-    "lang": "id",
-    "xmltv_id": "ROCKEntertainment.sg@SD"
-  },
-  {
-    "site_id": "duniaanak",
-    "name": "Dunia anak",
-    "lang": "id",
-    "xmltv_id": "DuniaAnak.id@SD"
-  },
-  {
-    "site_id": "kplus",
-    "name": "Kplus",
-    "lang": "id",
-    "xmltv_id": "KPlus.sg@SD"
-  },
-  {
-    "site_id": "maxstream",
-    "name": "Maxstream",
-    "lang": "id",
-    "xmltv_id": "MAXStream.id@SD"
-  },
-  {
-    "site_id": "bloomberg",
-    "name": "Bloomberg",
-    "lang": "id",
-    "xmltv_id": "BloombergTV.us@Asia"
-  },
-  {
-    "site_id": "nusantaratv",
-    "name": "Nusantara TV",
-    "lang": "id",
-    "xmltv_id": "NusantaraTV.id@SD"
-  },
-  {
-    "site_id": "trans7",
-    "name": "Trans7",
-    "lang": "id",
-    "xmltv_id": "Trans7.id@SD"
-  },
-  {
-    "site_id": "balitv",
-    "name": "Bali TV",
-    "lang": "id",
-    "xmltv_id": "BaliTV.id@SD"
-  },
-  {
-    "site_id": "antv",
-    "name": "ANTV",
-    "lang": "id",
-    "xmltv_id": "ANTV.id@SD"
-  },
-  {
-    "site_id": "curiosity",
-    "name": "Curiosity",
-    "lang": "id",
-    "xmltv_id": "CuriosityChannel.us@SD"
-  },
-  {
-    "site_id": "horee",
-    "name": "Horee",
-    "lang": "id",
-    "xmltv_id": "Horee.id@SD"
-  },
-  {
-    "site_id": "tvone",
-    "name": "TV One",
-    "lang": "id",
-    "xmltv_id": "tvOne.id@SD"
-  },
-  {
     "site_id": "rcti",
     "name": "RCTI",
     "lang": "id",
     "xmltv_id": "RCTI.id@SD"
-  },
-  {
-    "site_id": "cctv4",
-    "name": "CCTV4",
-    "lang": "id",
-    "xmltv_id": "CCTV4Asia.cn@SD"
-  },
-  {
-    "site_id": "dwtv",
-    "name": "DW (English)",
-    "lang": "id",
-    "xmltv_id": "DW.de@English"
-  },
-  {
-    "site_id": "imc",
-    "name": "IMC",
-    "lang": "id",
-    "xmltv_id": "IMC.id@SD"
-  },
-  {
-    "site_id": "mtatv",
-    "name": "MTATV",
-    "lang": "id",
-    "xmltv_id": "MTATV.id@SD"
   },
   {
     "site_id": "bbcnews",
@@ -394,57 +185,16 @@
     "xmltv_id": "BBCNews.uk@AsiaPacific"
   },
   {
-    "site_id": "blueantextreme",
-    "name": "Rock Action",
+    "site_id": "afc",
+    "name": "Asian Food Network",
     "lang": "id",
-    "xmltv_id": "ROCKExtreme.sg@SD"
+    "xmltv_id": "AsianFoodNetwork.sg@SD"
   },
   {
-    "site_id": "cnbcasia",
-    "name": "CNBC Asia",
+    "site_id": "davinci",
+    "name": "Da Vinci Learning",
     "lang": "id",
-    "xmltv_id": "CNBCAsia.sg@SD"
-  },
-  {
-    "site_id": "mncnews",
-    "name": "SINDO News TV",
-    "lang": "id",
-    "xmltv_id": "SindoNewsTV.id@SD"
-  },
-  {
-    "site_id": "phoenixinfonews",
-    "name": "Phoenix InfoNews",
-    "lang": "id",
-    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD"
-  },
-  {
-    "site_id": "pramborstv",
-    "name": "Prambors",
-    "lang": "id"
-  },
-  {
-    "site_id": "beritasatu",
-    "name": "BTV",
-    "lang": "id",
-    "xmltv_id": "BTV.id@SD"
-  },
-  {
-    "site_id": "france24",
-    "name": "France 24",
-    "lang": "id",
-    "xmltv_id": "France24.fr@English"
-  },
-  {
-    "site_id": "hgtv",
-    "name": "HGTV",
-    "lang": "id",
-    "xmltv_id": "HGTVAsia.us@SD"
-  },
-  {
-    "site_id": "lifetime",
-    "name": "Lifetime",
-    "lang": "id",
-    "xmltv_id": "LifetimeAsia.us@SD"
+    "xmltv_id": "DaVinciAsia.de@SD"
   },
   {
     "site_id": "tvnmovies",
@@ -453,64 +203,10 @@
     "xmltv_id": "tvNMoviesAsia.hk@SD"
   },
   {
-    "site_id": "antara",
-    "name": "Antara",
+    "site_id": "globaltv",
+    "name": "GTV",
     "lang": "id",
-    "xmltv_id": "AntaraTV.id@SD"
-  },
-  {
-    "site_id": "cgtndocumentary",
-    "name": "CGTN Documentary",
-    "lang": "id",
-    "xmltv_id": "CGTNDocumentary.cn@SD"
-  },
-  {
-    "site_id": "net",
-    "name": "MDTV",
-    "lang": "id",
-    "xmltv_id": "NET.id@SD"
-  },
-  {
-    "site_id": "tvn",
-    "name": "TVN",
-    "lang": "id",
-    "xmltv_id": "tvNAsia.hk@SD"
-  },
-  {
-    "site_id": "animax",
-    "name": "Animax",
-    "lang": "id",
-    "xmltv_id": "AnimaxAsia.sg@SD"
-  },
-  {
-    "site_id": "crimeinvestigation",
-    "name": "Crime Investigation",
-    "lang": "id",
-    "xmltv_id": "CrimePlusInvestigationAsia.sg@SD"
-  },
-  {
-    "site_id": "shenzen",
-    "name": "Shenzen",
-    "lang": "id",
-    "xmltv_id": "ShenzhenTV.cn@SD"
-  },
-  {
-    "site_id": "uchannel",
-    "name": "UChannel",
-    "lang": "id",
-    "xmltv_id": "UChannel.id@SD"
-  },
-  {
-    "site_id": "warner",
-    "name": "Warner",
-    "lang": "id",
-    "xmltv_id": "WarnerTVAsia.us@SD"
-  },
-  {
-    "site_id": "aljazeera",
-    "name": "Aljazeera",
-    "lang": "id",
-    "xmltv_id": "AlJazeera.qa@Arabic"
+    "xmltv_id": "GTV.id@SD"
   },
   {
     "site_id": "aniplus",
@@ -519,205 +215,10 @@
     "xmltv_id": "AniplusAsia.sg@SD"
   },
   {
-    "site_id": "cinemaworld",
-    "name": "Cinema World",
+    "site_id": "bloomberg",
+    "name": "Bloomberg",
     "lang": "id",
-    "xmltv_id": "CinemaWorld.my@SD"
-  },
-  {
-    "site_id": "disco",
-    "name": "Discovery Channel",
-    "lang": "id",
-    "xmltv_id": "DiscoveryChannel.id@SD"
-  },
-  {
-    "site_id": "fashiontv",
-    "name": "FashionTV",
-    "lang": "id",
-    "xmltv_id": "FashionTVAsia.fr@SD"
-  },
-  {
-    "site_id": "horizonsport",
-    "name": "Horizon Sports",
-    "lang": "id",
-    "xmltv_id": "HorizonSports.us@SD"
-  },
-  {
-    "site_id": "kix",
-    "name": "Kix",
-    "lang": "id",
-    "xmltv_id": "KIX.hk@SD"
-  },
-  {
-    "site_id": "ochannel",
-    "name": "MOJI",
-    "lang": "id",
-    "xmltv_id": "Moji.id@SD"
-  },
-  {
-    "site_id": "hitsmovie",
-    "name": "HIts Movie",
-    "lang": "id",
-    "xmltv_id": "HITSMovies.sg@SD"
-  },
-  {
-    "site_id": "idtv",
-    "name": "Berita Satu",
-    "lang": "id",
-    "xmltv_id": "BeritaSatu.id@SD"
-  },
-  {
-    "site_id": "indosiar",
-    "name": "Indosiar",
-    "lang": "id",
-    "xmltv_id": "Indosiar.id@SD"
-  },
-  {
-    "site_id": "tvbs",
-    "name": "TVBS News",
-    "lang": "id",
-    "xmltv_id": "TVBSNews.tw@SD"
-  },
-  {
-    "site_id": "tvriworld",
-    "name": "TVRI World",
-    "lang": "id",
-    "xmltv_id": "TVRIWorld.id@SD"
-  },
-  {
-    "site_id": "galaxy",
-    "name": "Galaxy",
-    "lang": "id",
-    "xmltv_id": "Galaxy.id@SD"
-  },
-  {
-    "site_id": "metrotv",
-    "name": "Metro TV",
-    "lang": "id",
-    "xmltv_id": "MetroTV.id@SD"
-  },
-  {
-    "site_id": "rodjatv",
-    "name": "Rodja TV",
-    "lang": "id",
-    "xmltv_id": "RodjaTV.id@SD"
-  },
-  {
-    "site_id": "axn",
-    "name": "AXN",
-    "lang": "id",
-    "xmltv_id": "AXNAsia.sg@Indonesia"
-  },
-  {
-    "site_id": "cnbcindonesia",
-    "name": "CNBC Indonesia",
-    "lang": "id",
-    "xmltv_id": "CNBCIndonesia.id@SD"
-  },
-  {
-    "site_id": "dreamworks",
-    "name": "Dreamworks",
-    "lang": "id",
-    "xmltv_id": "DreamWorksChannelAsia.us@SD"
-  },
-  {
-    "site_id": "hitsnow",
-    "name": "HITS Now",
-    "lang": "id"
-  },
-  {
-    "site_id": "mykids",
-    "name": "MyKidz",
-    "lang": "id",
-    "xmltv_id": "MyKidz.id@SD"
-  },
-  {
-    "site_id": "fightsport",
-    "name": "Fight Sport",
-    "lang": "id",
-    "xmltv_id": "FightSports.us@SD"
-  },
-  {
-    "site_id": "nba",
-    "name": "NBA",
-    "lang": "id",
-    "xmltv_id": "NBATV.us@SD"
-  },
-  {
-    "site_id": "jawapos",
-    "name": "Jawa Pos TV",
-    "lang": "id",
-    "xmltv_id": "JawaPosTV.id@SD"
-  },
-  {
-    "site_id": "bein1",
-    "name": "SPOTV",
-    "lang": "id",
-    "xmltv_id": "SPOTV.id@SD"
-  },
-  {
-    "site_id": "bioskopindonesia",
-    "name": "Bioskop Indonesia",
-    "lang": "id",
-    "xmltv_id": "BioskopIndonesia.id@SD"
-  },
-  {
-    "site_id": "muitv",
-    "name": "MUI TV",
-    "lang": "id",
-    "xmltv_id": "TVMUI.id@SD"
-  },
-  {
-    "site_id": "musikindo",
-    "name": "Musik Indonesia",
-    "lang": "id",
-    "xmltv_id": "MusikIndonesia.id@SD"
-  },
-  {
-    "site_id": "nhkworld",
-    "name": "nhk world Japan",
-    "lang": "id",
-    "xmltv_id": "NHKWorldJapan.jp@SD"
-  },
-  {
-    "site_id": "tv5monde",
-    "name": "TV5Monde",
-    "lang": "id",
-    "xmltv_id": "TV5MondeAsia.fr@SD"
-  },
-  {
-    "site_id": "inews",
-    "name": "iNews",
-    "lang": "id",
-    "xmltv_id": "iNews.id@SD"
-  },
-  {
-    "site_id": "muhammadiyahtv",
-    "name": "Muhammadiyah TV",
-    "lang": "id",
-    "xmltv_id": "TVMu.id@SD"
-  },
-  {
-    "site_id": "cdrama",
-    "name": "Citra Drama",
-    "lang": "id",
-    "xmltv_id": "CitraDrama.id@SD"
-  },
-  {
-    "site_id": "moonbug",
-    "name": "Moonbug",
-    "lang": "id"
-  },
-  {
-    "site_id": "newtvcomprehensive",
-    "name": "New Tv Comprehensive",
-    "lang": "id"
-  },
-  {
-    "site_id": "celestialmovie",
-    "name": "Celestial Movie",
-    "lang": "id",
-    "xmltv_id": "CelestialMoviesIndonesia.id@SD"
+    "xmltv_id": "BloombergTV.us@Asia"
   },
   {
     "site_id": "galaxypremium",
@@ -726,16 +227,479 @@
     "xmltv_id": "GalaxyPremium.id@SD"
   },
   {
+    "site_id": "mykids",
+    "name": "MyKidz",
+    "lang": "id",
+    "xmltv_id": "MyKidz.id@SD"
+  },
+  {
+    "site_id": "flik",
+    "name": "Flik",
+    "lang": "id",
+    "xmltv_id": "Flik.id@SD"
+  },
+  {
+    "site_id": "kompastv",
+    "name": "Kompas TV",
+    "lang": "id",
+    "xmltv_id": "KompasTV.id@SD"
+  },
+  {
+    "site_id": "horee",
+    "name": "Horee",
+    "lang": "id",
+    "xmltv_id": "Horee.id@SD"
+  },
+  {
+    "site_id": "phoenixchinese",
+    "name": "Phoenix Chinese",
+    "lang": "id",
+    "xmltv_id": "PhoenixChineseChannel.hk@SD"
+  },
+  {
+    "site_id": "rodjatv",
+    "name": "Rodja TV",
+    "lang": "id",
+    "xmltv_id": "RodjaTV.id@SD"
+  },
+  {
+    "site_id": "jawapos",
+    "name": "Jawa Pos TV",
+    "lang": "id",
+    "xmltv_id": "JawaPosTV.id@SD"
+  },
+  {
+    "site_id": "mnctv",
+    "name": "MNCTV",
+    "lang": "id",
+    "xmltv_id": "MNCTV.id@SD"
+  },
+  {
+    "site_id": "antara",
+    "name": "Antara",
+    "lang": "id",
+    "xmltv_id": "AntaraTV.id@SD"
+  },
+  {
+    "site_id": "blueant",
+    "name": "Rock Entertainment",
+    "lang": "id",
+    "xmltv_id": "ROCKEntertainment.sg@SD"
+  },
+  {
+    "site_id": "kbsworld",
+    "name": "KBS World",
+    "lang": "id",
+    "xmltv_id": "KBSWorld.kr@SD"
+  },
+  {
+    "site_id": "shenzen",
+    "name": "Shenzen",
+    "lang": "id",
+    "xmltv_id": "ShenzhenTV.cn@SD"
+  },
+  {
+    "site_id": "daaitv",
+    "name": "Daai TV",
+    "lang": "id",
+    "xmltv_id": "DAAITV.id@SD"
+  },
+  {
+    "site_id": "disco",
+    "name": "Discovery Channel",
+    "lang": "id",
+    "xmltv_id": "DiscoveryChannel.id@SD"
+  },
+  {
+    "site_id": "duniaanak",
+    "name": "Dunia anak",
+    "lang": "id",
+    "xmltv_id": "DuniaAnak.id@SD"
+  },
+  {
+    "site_id": "studiouniversal",
+    "name": "Studio Universal",
+    "lang": "id",
+    "xmltv_id": "StudioUniversalLatinAmerica.us@Brazil"
+  },
+  {
+    "site_id": "tv5monde",
+    "name": "TV5Monde",
+    "lang": "id",
+    "xmltv_id": "TV5MondeAsia.fr@SD"
+  },
+  {
+    "site_id": "hitsnow",
+    "name": "HITS Now",
+    "lang": "id"
+  },
+  {
+    "site_id": "fashiontv",
+    "name": "FashionTV",
+    "lang": "id",
+    "xmltv_id": "FashionTVAsia.fr@SD"
+  },
+  {
+    "site_id": "transtv",
+    "name": "TransTV",
+    "lang": "id",
+    "xmltv_id": "TransTV.id@SD"
+  },
+  {
+    "site_id": "zhejiang",
+    "name": "Zhejiang",
+    "lang": "id",
+    "xmltv_id": "ZhejiangSatelliteTV.cn@SD"
+  },
+  {
+    "site_id": "aljazeera",
+    "name": "Aljazeera",
+    "lang": "id",
+    "xmltv_id": "AlJazeera.qa@Arabic"
+  },
+  {
+    "site_id": "animalplanet",
+    "name": "Animal Planet",
+    "lang": "id",
+    "xmltv_id": "AnimalPlanetSoutheastAsia.sg@SD"
+  },
+  {
+    "site_id": "discoveryasia",
+    "name": "Discovery Asia",
+    "lang": "id",
+    "xmltv_id": "DiscoveryAsia.sg@SD"
+  },
+  {
+    "site_id": "alquran",
+    "name": "AlQuran Kareem",
+    "lang": "id",
+    "xmltv_id": "QuranTV.sa@SD"
+  },
+  {
+    "site_id": "dunialain",
+    "name": "Dunia Lain",
+    "lang": "id",
+    "xmltv_id": "DuniaLain.id@SD"
+  },
+  {
+    "site_id": "fightsport",
+    "name": "Fight Sport",
+    "lang": "id",
+    "xmltv_id": "FightSports.us@SD"
+  },
+  {
+    "site_id": "muhammadiyahtv",
+    "name": "Muhammadiyah TV",
+    "lang": "id",
+    "xmltv_id": "TVMu.id@SD"
+  },
+  {
+    "site_id": "idtv",
+    "name": "Berita Satu",
+    "lang": "id",
+    "xmltv_id": "BeritaSatu.id@SD"
+  },
+  {
+    "site_id": "moonbug",
+    "name": "Moonbug",
+    "lang": "id"
+  },
+  {
+    "site_id": "mqtv",
+    "name": "MQTV",
+    "lang": "id",
+    "xmltv_id": "MQTV.id@SD"
+  },
+  {
+    "site_id": "tvn",
+    "name": "TVN",
+    "lang": "id",
+    "xmltv_id": "tvNAsia.hk@SD"
+  },
+  {
+    "site_id": "balitv",
+    "name": "Bali TV",
+    "lang": "id",
+    "xmltv_id": "BaliTV.id@SD"
+  },
+  {
     "site_id": "hits",
     "name": "Hits",
     "lang": "id",
     "xmltv_id": "HITS.sg@SD"
   },
   {
-    "site_id": "jtv",
-    "name": "JTV",
+    "site_id": "mentaritv",
+    "name": "Mentari TV",
     "lang": "id",
-    "xmltv_id": "JTV.id@SD"
+    "xmltv_id": "MentariTV.id@SD"
+  },
+  {
+    "site_id": "sone",
+    "name": "SONE",
+    "lang": "id",
+    "xmltv_id": "ONE.sg@SD"
+  },
+  {
+    "site_id": "indikids",
+    "name": "FunPlanet",
+    "lang": "id",
+    "xmltv_id": "FunPlanet.id@SD"
+  },
+  {
+    "site_id": "tvriworld",
+    "name": "TVRI World",
+    "lang": "id",
+    "xmltv_id": "TVRIWorld.id@SD"
+  },
+  {
+    "site_id": "cdrama",
+    "name": "Citra Drama",
+    "lang": "id",
+    "xmltv_id": "CitraDrama.id@SD"
+  },
+  {
+    "site_id": "france24",
+    "name": "France 24",
+    "lang": "id",
+    "xmltv_id": "France24.fr@English"
+  },
+  {
+    "site_id": "mtvlive",
+    "name": "MTV Live",
+    "lang": "id",
+    "xmltv_id": "MTVLive.uk@SD"
+  },
+  {
+    "site_id": "newtvfinance",
+    "name": "New Tv Finance",
+    "lang": "id"
+  },
+  {
+    "site_id": "maxstream",
+    "name": "Maxstream",
+    "lang": "id",
+    "xmltv_id": "MAXStream.id@SD"
+  },
+  {
+    "site_id": "muitv",
+    "name": "MUI TV",
+    "lang": "id",
+    "xmltv_id": "TVMUI.id@SD"
+  },
+  {
+    "site_id": "newtvvariety",
+    "name": "New Tv Variety",
+    "lang": "id"
+  },
+  {
+    "site_id": "pramborstv",
+    "name": "Prambors",
+    "lang": "id"
+  },
+  {
+    "site_id": "trans7",
+    "name": "Trans7",
+    "lang": "id",
+    "xmltv_id": "Trans7.id@SD"
+  },
+  {
+    "site_id": "tvbs",
+    "name": "TVBS News",
+    "lang": "id",
+    "xmltv_id": "TVBSNews.tw@SD"
+  },
+  {
+    "site_id": "antv",
+    "name": "ANTV",
+    "lang": "id",
+    "xmltv_id": "ANTV.id@SD"
+  },
+  {
+    "site_id": "cartoonnetwork",
+    "name": "Cartoon Network",
+    "lang": "id",
+    "xmltv_id": "CartoonNetworkAsia.sg@SD"
+  },
+  {
+    "site_id": "cnnindonesia",
+    "name": "CNN Indonesia",
+    "lang": "id",
+    "xmltv_id": "CNNIndonesia.id@SD"
+  },
+  {
+    "site_id": "dreamworks",
+    "name": "Dreamworks",
+    "lang": "id",
+    "xmltv_id": "DreamWorksChannelAsia.us@SD"
+  },
+  {
+    "site_id": "mncnews",
+    "name": "SINDO News TV",
+    "lang": "id",
+    "xmltv_id": "SindoNewsTV.id@SD"
+  },
+  {
+    "site_id": "nickjr",
+    "name": "Nick Junior",
+    "lang": "id",
+    "xmltv_id": "NickJrAsia.sg@SD"
+  },
+  {
+    "site_id": "tv9",
+    "name": "TV9 NU",
+    "lang": "id",
+    "xmltv_id": "TV9Nusantara.id@SD"
+  },
+  {
+    "site_id": "beritasatu",
+    "name": "BTV",
+    "lang": "id",
+    "xmltv_id": "BTV.id@SD"
+  },
+  {
+    "site_id": "cgtndocumentary",
+    "name": "CGTN Documentary",
+    "lang": "id",
+    "xmltv_id": "CGTNDocumentary.cn@SD"
+  },
+  {
+    "site_id": "cinemaworld",
+    "name": "Cinema World",
+    "lang": "id",
+    "xmltv_id": "CinemaWorld.my@SD"
+  },
+  {
+    "site_id": "net",
+    "name": "MDTV",
+    "lang": "id",
+    "xmltv_id": "NET.id@SD"
+  },
+  {
+    "site_id": "thrill",
+    "name": "Thrill",
+    "lang": "id",
+    "xmltv_id": "Thrill.hk@SD"
+  },
+  {
+    "site_id": "tvone",
+    "name": "TV One",
+    "lang": "id",
+    "xmltv_id": "tvOne.id@SD"
+  },
+  {
+    "site_id": "warner",
+    "name": "Warner",
+    "lang": "id",
+    "xmltv_id": "WarnerTVAsia.us@SD"
+  },
+  {
+    "site_id": "cnninternational",
+    "name": "CNN International",
+    "lang": "id",
+    "xmltv_id": "CNNInternational.us@AsiaPacific"
+  },
+  {
+    "site_id": "tawaftv",
+    "name": "Tawaf TV",
+    "lang": "id",
+    "xmltv_id": "TawafTV.id@SD"
+  },
+  {
+    "site_id": "tvri",
+    "name": "TVRI Nasional",
+    "lang": "id",
+    "xmltv_id": "TVRI.id@SD"
+  },
+  {
+    "site_id": "bioskopindonesia",
+    "name": "Bioskop Indonesia",
+    "lang": "id",
+    "xmltv_id": "BioskopIndonesia.id@SD"
+  },
+  {
+    "site_id": "boomerang",
+    "name": "Cartoonito",
+    "lang": "id",
+    "xmltv_id": "Cartoonito.uk@SD"
+  },
+  {
+    "site_id": "hitsmovie",
+    "name": "HIts Movie",
+    "lang": "id",
+    "xmltv_id": "HITSMovies.sg@SD"
+  },
+  {
+    "site_id": "imc",
+    "name": "IMC",
+    "lang": "id",
+    "xmltv_id": "IMC.id@SD"
+  },
+  {
+    "site_id": "indosiar",
+    "name": "Indosiar",
+    "lang": "id",
+    "xmltv_id": "Indosiar.id@SD"
+  },
+  {
+    "site_id": "inews",
+    "name": "iNews",
+    "lang": "id",
+    "xmltv_id": "iNews.id@SD"
+  },
+  {
+    "site_id": "lovenature",
+    "name": "Love Nature",
+    "lang": "id",
+    "xmltv_id": "LoveNature.ca@SD"
+  },
+  {
+    "site_id": "newsasia",
+    "name": "News Asia",
+    "lang": "id",
+    "xmltv_id": "CNA.sg@SD"
+  },
+  {
+    "site_id": "bein1",
+    "name": "SPOTV",
+    "lang": "id",
+    "xmltv_id": "SPOTV.id@SD"
+  },
+  {
+    "site_id": "bein2",
+    "name": "SPOTV 2",
+    "lang": "id",
+    "xmltv_id": "SPOTV2.id@SD"
+  },
+  {
+    "site_id": "galaxy",
+    "name": "Galaxy",
+    "lang": "id",
+    "xmltv_id": "Galaxy.id@SD"
+  },
+  {
+    "site_id": "horizonsport",
+    "name": "Horizon Sports",
+    "lang": "id",
+    "xmltv_id": "HorizonSports.us@SD"
+  },
+  {
+    "site_id": "rtv",
+    "name": "Rajawali TV",
+    "lang": "id",
+    "xmltv_id": "RajawaliTV.id@SD"
+  },
+  {
+    "site_id": "axn",
+    "name": "AXN",
+    "lang": "id",
+    "xmltv_id": "AXNAsia.sg@Indonesia"
+  },
+  {
+    "site_id": "musikindo",
+    "name": "Musik Indonesia",
+    "lang": "id",
+    "xmltv_id": "MusikIndonesia.id@SD"
   },
   {
     "site_id": "sctv",
@@ -750,15 +714,51 @@
     "xmltv_id": "CitraDangdut.id@SD"
   },
   {
+    "site_id": "cnbcindonesia",
+    "name": "CNBC Indonesia",
+    "lang": "id",
+    "xmltv_id": "CNBCIndonesia.id@SD"
+  },
+  {
+    "site_id": "curiosity",
+    "name": "Curiosity",
+    "lang": "id",
+    "xmltv_id": "CuriosityChannel.us@SD"
+  },
+  {
     "site_id": "history",
     "name": "History",
     "lang": "id",
     "xmltv_id": "HistoryAsia.us@SD"
   },
   {
-    "site_id": "zhejiang",
-    "name": "Zhejiang",
+    "site_id": "jaktv",
+    "name": "JakTV",
     "lang": "id",
-    "xmltv_id": "ZhejiangSatelliteTV.cn@SD"
+    "xmltv_id": "JakTV.id@SD"
+  },
+  {
+    "site_id": "uchannel",
+    "name": "UChannel",
+    "lang": "id",
+    "xmltv_id": "UChannel.id@SD"
+  },
+  {
+    "site_id": "chinesedrama",
+    "name": "Chinese Drama",
+    "lang": "id",
+    "xmltv_id": "ChineseDrama.hk@SD"
+  },
+  {
+    "site_id": "euronews",
+    "name": "Euronews",
+    "lang": "id",
+    "xmltv_id": "EuronewsEnglish.fr@SD"
+  },
+  {
+    "site_id": "hgtv",
+    "name": "HGTV",
+    "lang": "id",
+    "xmltv_id": "HGTVAsia.us@SD"
   }
 ]

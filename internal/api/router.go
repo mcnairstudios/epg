@@ -40,6 +40,8 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		w.Write([]byte(`{"status":"ok"}`))
 	})
 
+	srv.router.Get("/api/openapi.yaml", serveOpenAPI)
+
 	srv.router.Route("/api/v1", func(r chi.Router) {
 		r.Use(users.Middleware)
 		r.Use(middleware.SetHeader("Content-Type", "application/json"))
