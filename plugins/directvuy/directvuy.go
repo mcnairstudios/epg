@@ -54,7 +54,7 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	channelNum, channelName := parseSiteID(channel.SiteID)
 
-	d := date.UTC()
+	d := date.In(montevideo)
 	body := requestBody{
 		FilterParameters: filterParameters{
 			Day:                  d.Day(),

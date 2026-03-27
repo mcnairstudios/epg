@@ -107,3 +107,30 @@ func TestParseInvalidJSON(t *testing.T) {
 		t.Fatalf("expected 0 programs, got %d", len(programs))
 	}
 }
+
+func TestParseBuildID(t *testing.T) {
+	html := []byte(`<html><head></head><body><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/","buildId":"abc123def456"}</script></body></html>`)
+	buildID, err := trueid.ParseBuildID(html)
+	if err != nil {
+		t.Fatalf("parse build ID failed: %v", err)
+	}
+	if buildID != "abc123def456" {
+		t.Fatalf("expected build ID 'abc123def456', got %q", buildID)
+	}
+}
+
+func TestParseBuildIDMissing(t *testing.T) {
+	html := []byte(`<html><head></head><body>no next data here</body></html>`)
+	_, err := trueid.ParseBuildID(html)
+	if err == nil {
+		t.Fatal("expected error for missing __NEXT_DATA__")
+	}
+}
+
+func TestParseBuildIDNoScriptEnd(t *testing.T) {
+	html := []byte(`<html><body>{"props":{"pageProps":{}},"buildId":"abc123"}`)
+	_, err := trueid.ParseBuildID(html)
+	if err == nil {
+		t.Fatal("expected error for missing </script> end tag")
+	}
+}

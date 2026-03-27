@@ -50,6 +50,41 @@ func TestParseContent(t *testing.T) {
 	}
 }
 
+func TestParseNewTimeFormat(t *testing.T) {
+	html := `<html><body>
+<div class="progarea"><div class="progentry"><div class="progentry_internal">
+<time class="progentry_time" itemprop="startDate" content="2026-03-27T20:00:00Z"> 20:00</time>
+<h3><a href="/test">Test Program</a></h3>
+</div></div><div class="progentry"><div class="progentry_internal">
+<time class="progentry_time" itemprop="startDate" content="2026-03-27T21:30:00Z"> 21:30</time>
+<h3><a href="/test2">Second Program</a></h3>
+</div></div></div>
+</body></html>`
+
+	programs, err := musortv.Parse([]byte(html))
+	if err != nil {
+		t.Fatalf("parse failed: %v", err)
+	}
+
+	if len(programs) != 2 {
+		t.Fatalf("expected 2 programs, got %d", len(programs))
+	}
+
+	expectedStart := time.Date(2026, 3, 27, 20, 0, 0, 0, time.UTC)
+	if !programs[0].Start.Equal(expectedStart) {
+		t.Fatalf("expected start %v, got %v", expectedStart, programs[0].Start)
+	}
+
+	expectedStop := time.Date(2026, 3, 27, 21, 30, 0, 0, time.UTC)
+	if !programs[0].Stop.Equal(expectedStop) {
+		t.Fatalf("expected stop %v, got %v", expectedStop, programs[0].Stop)
+	}
+
+	if programs[0].Title != "Test Program" {
+		t.Fatalf("expected title 'Test Program', got %q", programs[0].Title)
+	}
+}
+
 func TestParseEmptyContent(t *testing.T) {
 	programs, err := musortv.Parse(
 		[]byte("<!DOCTYPE html><html><head></head><body></body></html>"),

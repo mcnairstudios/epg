@@ -86,7 +86,9 @@ func Parse(data []byte) ([]domain.Program, error) {
 			continue
 		}
 
-		start, err := time.Parse("2006-01-02T15:04:05", strings.Replace(timeAttr, "GMT", "T", 1))
+		normalized := strings.Replace(timeAttr, "GMT", "T", 1)
+		normalized = strings.TrimSuffix(normalized, "Z")
+		start, err := time.Parse("2006-01-02T15:04:05", normalized)
 		if err != nil {
 			continue
 		}

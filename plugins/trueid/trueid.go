@@ -51,6 +51,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	if err != nil {
 		return nil, err
 	}
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36")
 
 	resp, err := p.client.Do(req)
 	if err != nil {
@@ -71,6 +72,7 @@ func (p *provider) fetchBuildID() (string, error) {
 	if err != nil {
 		return "", err
 	}
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36")
 
 	resp, err := p.client.Do(req)
 	if err != nil {
@@ -83,6 +85,10 @@ func (p *provider) fetchBuildID() (string, error) {
 		return "", err
 	}
 
+	return ParseBuildID(body)
+}
+
+func ParseBuildID(body []byte) (string, error) {
 	var nextData struct {
 		BuildID string `json:"buildId"`
 	}
@@ -92,7 +98,12 @@ func (p *provider) fetchBuildID() (string, error) {
 		return "", fmt.Errorf("could not find __NEXT_DATA__")
 	}
 
-	if err := json.Unmarshal(body[start:], &nextData); err != nil {
+	end := indexOf(body[start:], []byte("</script>"))
+	if end < 0 {
+		return "", fmt.Errorf("could not find end of __NEXT_DATA__")
+	}
+
+	if err := json.Unmarshal(body[start:start+end], &nextData); err != nil {
 		return "", err
 	}
 

@@ -39,21 +39,21 @@ func TestParseContent(t *testing.T) {
 	}
 
 	p := programs[0]
-	if p.Title != "Heimsókn" {
+	if p.Title != "Bítiđ" {
 		t.Fatalf("unexpected title: %q", p.Title)
 	}
 
-	if p.SubTitle != "Telma Borgþórsdóttir" {
+	if p.SubTitle != "Bítiđ" {
 		t.Fatalf("unexpected subtitle: %q", p.SubTitle)
 	}
 
-	expectedStart := time.Date(2025, 1, 3, 8, 0, 0, 0, time.UTC)
+	expectedStart := time.Date(2026, 3, 27, 6, 45, 0, 0, time.UTC)
 	if !p.Start.Equal(expectedStart) {
 		t.Fatalf("expected start %v, got %v", expectedStart, p.Start)
 	}
 
-	if p.Season != 8 {
-		t.Fatalf("expected season 8, got %d", p.Season)
+	if p.Season != 2026 {
+		t.Fatalf("expected season 2026, got %d", p.Season)
 	}
 }
 

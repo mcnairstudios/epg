@@ -55,7 +55,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return nil, nil
+		return []domain.Program{}, nil
 	}
 
 	body, err := io.ReadAll(resp.Body)
