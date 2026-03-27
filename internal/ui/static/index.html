@@ -743,7 +743,10 @@
       const role = document.getElementById('user-role').value;
       try {
         const user = await apiFetch('/users', {method:'POST', body: JSON.stringify({username, role})});
-        showStatus(`User created: ${user.username} (token: ${user.token})`, 'success');
+        token = user.token;
+        localStorage.setItem('epg-token', token);
+        document.getElementById('token-input').value = token;
+        showStatus(`User created: ${user.username} — token saved to browser`, 'success');
         document.getElementById('user-username').value = '';
         loadUsers();
       } catch(e) { showStatus(e.message, 'error'); }
