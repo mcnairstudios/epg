@@ -103,7 +103,10 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 			spans := findElements(link, "span")
 			if len(spans) >= 3 {
 				dateText := strings.TrimSpace(textContent(spans[2]))
-				parsed, err := time.Parse("02.01.2006", dateText+fmt.Sprintf(".%d", date.Year()))
+				if !strings.HasSuffix(dateText, ".") {
+						dateText += "."
+					}
+					parsed, err := time.Parse("02.01.2006", dateText+fmt.Sprintf("%d", date.Year()))
 				if err == nil {
 					dates = append(dates, parsed)
 				}

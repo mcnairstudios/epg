@@ -75,54 +75,58 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 	expectedDate := date.Format("2006-01-02")
 	imgSelector := fmt.Sprintf("chanel-%s.png", channel.SiteID)
 
-	var headerParent *html.Node
+	var channelSection *html.Node
 	imgs := findElements(doc, "img")
 	for _, img := range imgs {
 		src := getAttr(img, "src")
 		if strings.Contains(src, imgSelector) {
-			headerDiv := findNodeByClass(img.Parent, "tv-scheme-chanel-header")
-			if headerDiv == nil {
-				headerDiv = img.Parent
+			n := img
+			for n != nil {
+				if n.Type == html.ElementNode && containsClass(getAttr(n, "class"), "tv-scheme-chanel") {
+					channelSection = n
+					break
+				}
+				n = n.Parent
 			}
-			headerParent = headerDiv.Parent
 			break
 		}
 	}
 
-	if headerParent == nil {
+	if channelSection == nil {
 		return []domain.Program{}, nil
 	}
 
 	var dates []time.Time
-	for c := headerParent.Parent.FirstChild; c != nil; c = c.NextSibling {
-		if c.Type == html.ElementNode && containsClass(getAttr(c, "class"), "tv-scheme-days") {
-			links := findElements(c, "a")
-			for _, link := range links {
-				spans := findElements(link, "span")
-				if len(spans) >= 3 {
-					dateText := strings.TrimSpace(textContent(spans[2]))
-					parsed, err := time.Parse("02.01.2006", dateText+fmt.Sprintf(".%d", date.Year()))
-					if err == nil {
-						dates = append(dates, parsed)
+	daysDiv := findNodeByClass(channelSection, "tv-scheme-days")
+	if daysDiv != nil {
+		links := findElements(daysDiv, "a")
+		for _, link := range links {
+			spans := findElements(link, "span")
+			if len(spans) >= 3 {
+				dateText := strings.TrimSpace(textContent(spans[2]))
+				if !strings.HasSuffix(dateText, ".") {
+						dateText += "."
 					}
+					parsed, err := time.Parse("02.01.2006", dateText+fmt.Sprintf("%d", date.Year()))
+				if err == nil {
+					dates = append(dates, parsed)
 				}
 			}
 		}
 	}
 
 	var allPrograms []domain.Program
+	sliderWrappers := findNodesByClass(channelSection, "tv-scheme-new-slider-wrapper")
 	sliderIdx := 0
-	for c := headerParent.Parent.FirstChild; c != nil; c = c.NextSibling {
-		if c.Type == html.ElementNode && containsClass(getAttr(c, "class"), "tv-scheme-new-slider-wrapper") {
-			items := findNodesByClass(c, "tv-scheme-new-slider-item")
-			for i, item := range items {
-				if sliderIdx+i < len(dates) {
-					entries := parseSchedules(item, dates[sliderIdx+i])
-					allPrograms = append(allPrograms, entries...)
-				}
+	for _, wrapper := range sliderWrappers {
+		items := findNodesByClass(wrapper, "tv-scheme-new-slider-item")
+		for i, item := range items {
+			if sliderIdx+i < len(dates) {
+				entries := parseSchedules(item, dates[sliderIdx+i])
+				allPrograms = append(allPrograms, entries...)
 			}
-			sliderIdx += len(items)
 		}
+		sliderIdx += len(items)
 	}
 
 	for i := range allPrograms {

@@ -168,20 +168,6 @@ type item struct {
 	title   string
 }
 
-func dedup(items []item) []item {
-	var result []item
-	seen := make(map[string]bool)
-	for _, it := range items {
-		key := it.timeStr + "|" + it.title
-		if seen[key] {
-			continue
-		}
-		seen[key] = true
-		result = append(result, it)
-	}
-	return result
-}
-
 func flattenTable(table *html.Node) [][]string {
 	var trs []*html.Node
 	collectElements(table, "tr", &trs)
