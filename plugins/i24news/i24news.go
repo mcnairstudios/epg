@@ -11,6 +11,8 @@ import (
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
+var jerusalemTZ = time.FixedZone("Asia/Jerusalem", 2*60*60)
+
 func init() {
 	plugin.Register(&provider{
 		client: http.DefaultClient,
@@ -62,13 +64,13 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 		return nil, err
 	}
 
-	loc, _ := time.LoadLocation("Asia/Jerusalem")
-	weekday := int(date.Weekday()) - 1
+	d := date.Truncate(24 * time.Hour).UTC()
+	weekday := int(d.Weekday()) - 1
 	if weekday < 0 {
 		weekday = 6
 	}
 
-	var programs []domain.Program
+	programs := make([]domain.Program, 0)
 	for _, item := range items {
 		if item.Day != weekday {
 			continue
@@ -90,25 +92,21 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 		}
 
 		if item.StartHour != "" {
-			p.Start = parseTime(date, item.StartHour, loc)
+			if t, err := time.ParseInLocation("2006-01-02 15:04", d.Format("2006-01-02")+" "+item.StartHour, jerusalemTZ); err == nil {
+				p.Start = t.UTC()
+			}
 		}
+
 		if item.EndHour != "" {
-			p.Stop = parseTime(date, item.EndHour, loc)
+			if t, err := time.ParseInLocation("2006-01-02 15:04", d.Format("2006-01-02")+" "+item.EndHour, jerusalemTZ); err == nil {
+				p.Stop = t.UTC()
+			}
 		}
 
 		programs = append(programs, p)
 	}
 
 	return programs, nil
-}
-
-func parseTime(date time.Time, hourStr string, loc *time.Location) time.Time {
-	s := date.Format("2006-01-02") + " " + hourStr
-	t, err := time.ParseInLocation("2006-01-02 15:04", s, loc)
-	if err != nil {
-		return time.Time{}
-	}
-	return t
 }
 
 type scheduleItem struct {

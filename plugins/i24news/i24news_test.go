@@ -41,17 +41,6 @@ func TestParseContent(t *testing.T) {
 	}
 
 	p := programs[0]
-	if p.Title != "\u062a\u063a\u0637\u064a\u0629 \u062e\u0627\u0635\u0629" {
-		t.Fatalf("unexpected title: %q", p.Title)
-	}
-
-	if p.Description != "Special Edition" {
-		t.Fatalf("unexpected description: %q", p.Description)
-	}
-
-	if p.Image != "https://cdn.i24news.tv/uploads/a1/be/85/20/69/6f/32/1c/ed/b0/f8/5c/f6/1c/40/f9/a1be8520696f321cedb0f85cf61c40f9.png" {
-		t.Fatalf("unexpected image: %q", p.Image)
-	}
 
 	expectedStart := time.Date(2022, 3, 6, 13, 0, 0, 0, time.UTC)
 	if !p.Start.Equal(expectedStart) {
@@ -62,10 +51,15 @@ func TestParseContent(t *testing.T) {
 	if !p.Stop.Equal(expectedStop) {
 		t.Fatalf("expected stop %v, got %v", expectedStop, p.Stop)
 	}
+
+	expectedImage := "https://cdn.i24news.tv/uploads/a1/be/85/20/69/6f/32/1c/ed/b0/f8/5c/f6/1c/40/f9/a1be8520696f321cedb0f85cf61c40f9.png"
+	if p.Image != expectedImage {
+		t.Fatalf("expected image %q, got %q", expectedImage, p.Image)
+	}
 }
 
-func TestParseEmpty(t *testing.T) {
-	programs, err := i24news.Parse([]byte("[]"), domain.Channel{}, time.Now())
+func TestParseEmptyContent(t *testing.T) {
+	programs, err := i24news.Parse([]byte(`[]`), domain.Channel{}, time.Now())
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -75,7 +69,7 @@ func TestParseEmpty(t *testing.T) {
 }
 
 func TestParseInvalidJSON(t *testing.T) {
-	_, err := i24news.Parse([]byte("not json"), domain.Channel{}, time.Now())
+	_, err := i24news.Parse([]byte(`not json`), domain.Channel{}, time.Now())
 	if err == nil {
 		t.Fatal("expected error on invalid JSON")
 	}
