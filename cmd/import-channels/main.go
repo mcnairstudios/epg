@@ -34,6 +34,7 @@ type channelEntry struct {
 }
 
 var siteToPlugin = map[string]string{
+	"airtelxstream.in":             "airtelxstream",
 	"abc.net.au":                   "abcau",
 	"tv.blue.ch":                   "bluech",
 	"tv.sfr.fr":                    "sfrfr",
@@ -135,8 +136,11 @@ var siteToPlugin = map[string]string{
 	"teleboy.ch":                   "teleboy",
 	"epg.telemach.ba":              "telemach",
 	"teliatv.ee":                   "teliatv",
+	"telenet.tv":                   "telenet",
 	"toonamiaftermath.com":         "toonami",
 	"tv24.co.uk":                   "tv24uk",
+	"tv24.se":                      "tv24se",
+	"tv.post.lu":                   "tvpostlu",
 	"tv.boxbg.net":                 "tvboxbg",
 	"tv.cctv.com":                  "tvcctv",
 	"tv.dir.bg":                    "tvdirbg",
@@ -149,6 +153,7 @@ var siteToPlugin = map[string]string{
 	"tvmusor.hu":                   "tvmusorhu",
 	"tv.nu":                        "tvnu",
 	"tvpassport.com":               "tvpassport",
+	"tvhebdo.com":                  "tvhebdo",
 	"tvtv.us":                      "tvtvus",
 	"vidio.com":                    "vidio",
 	"virgintvgo.virginmedia.com":   "virginmedia",
@@ -160,6 +165,7 @@ var siteToPlugin = map[string]string{
 	"wavve.com":                    "wavve",
 	"winplay.co":                   "winplay",
 	"xumo.tv":                      "xumotv",
+	"watch.whaletvplus.com":         "whaletvplus",
 	"znbc.co.zm":                   "znbc",
 }
 

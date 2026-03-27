@@ -1,0 +1,54 @@
+{
+  "duration": 21600,
+  "entries": [
+    {
+      "channelId": "outtv",
+      "events": [
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667094240,
+          "id": "crid:~~2F~~2Fgn.tv~~2F2459095~~2FEP036477800004,imi:0a2f4207b03c16c70b7fb3be8e07881aafe44106",
+          "mergedId": "184765|nl",
+          "minimumAge": 16,
+          "replayTVMinAge": 16,
+          "seriesMepSeriesFinale": 1123372800,
+          "seriesPremiereAirings": true,
+          "startTime": 1667087760,
+          "title": "Queer as Folk USA"
+        },
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667098800,
+          "id": "crid:~~2F~~2Fgn.tv~~2F8774515~~2FSH036008130000~~2Fspecial,imi:3710ee0cbcea41fb0c771c093765057533294374",
+          "mergedId": "8774515|nl",
+          "minimumAge": 16,
+          "replayTVMinAge": 16,
+          "startTime": 1667094240,
+          "title": "Leslie Jordan: My Trip Down the Pink Carpet"
+        },
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667109600,
+          "id": "crid:~~2F~~2Fgn.tv~~2F10202528~~2FSH035723610000~~2Fspecial,imi:7d18e68e5b3c516c0baa1b94d4a8d41ad46a7ee9",
+          "mergedId": "10202528|nl",
+          "minimumAge": 16,
+          "replayTVMinAge": 16,
+          "startTime": 1667098800,
+          "title": "OUTmusic"
+        }
+      ]
+    }
+  ]
+}

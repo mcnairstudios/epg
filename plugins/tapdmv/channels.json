@@ -1,62 +1,17 @@
 [
   {
-    "site_id": "71d697cf-54e7-44af-852d-eb9683be4222",
-    "name": "blastcinema",
-    "lang": "en"
-  },
-  {
-    "site_id": "08220d6a-1597-4d6d-b35b-d575e5361b2e",
-    "name": "paramountnetwork",
-    "lang": "en"
-  },
-  {
-    "site_id": "65402ad9-8c23-4177-8d31-4fdafc3a3fb7",
-    "name": "fear",
-    "lang": "en"
-  },
-  {
     "site_id": "11966493-c6ca-4dae-bf31-ed5b61fb13b0",
     "name": "blastfc",
     "lang": "en"
   },
   {
-    "site_id": "dd8792d2-fe27-46e5-87de-36967197cc2d",
-    "name": "gameshowcentral",
+    "site_id": "9d68438c-33d5-4082-b4d1-ae9a78bf673f",
+    "name": "wtaaccess",
     "lang": "en"
   },
   {
-    "site_id": "e604eaa0-7fb4-488b-abfe-caca27cc5f85",
-    "name": "rockentertainment",
-    "lang": "en"
-  },
-  {
-    "site_id": "e7418313-0d31-48ae-9005-838bbd7c4269",
-    "name": "mtv90s",
-    "lang": "en"
-  },
-  {
-    "site_id": "f19d5e7a-3d27-42a8-aff6-2431138dac38",
-    "name": "sportsplus",
-    "lang": "en"
-  },
-  {
-    "site_id": "ae0285bd-dca1-4ee3-8795-462c495aa376",
-    "name": "golfplus",
-    "lang": "en"
-  },
-  {
-    "site_id": "7b7ecc4e-5c43-44b5-afc9-fb4dc1ad64ab",
-    "name": "hgtv",
-    "lang": "en"
-  },
-  {
-    "site_id": "c08b7266-878f-451c-a05a-6ffbb38ba3db",
-    "name": "showcasedramas",
-    "lang": "en"
-  },
-  {
-    "site_id": "f01e1047-e7eb-4322-a664-8e5910ac5926",
-    "name": "familymovies",
+    "site_id": "021efa5a-ea90-4dcd-928b-d96e3aa9c0e1",
+    "name": "comicu",
     "lang": "en"
   },
   {
@@ -66,14 +21,23 @@
     "xmltv_id": "TAPSports.ph@SD"
   },
   {
-    "site_id": "470085cd-91c6-4878-9233-6f8c894538ef",
-    "name": "edgesport",
-    "lang": "en",
-    "xmltv_id": "TAPEdge.ph@SD"
+    "site_id": "e7418313-0d31-48ae-9005-838bbd7c4269",
+    "name": "mtv90s",
+    "lang": "en"
   },
   {
-    "site_id": "a6ce5d86-f87d-4fbd-bba1-9dadfe9f30d7",
-    "name": "globaltrekker",
+    "site_id": "0ecd2d73-178c-43fd-aaa1-a24921cd8920",
+    "name": "laff",
+    "lang": "en"
+  },
+  {
+    "site_id": "65402ad9-8c23-4177-8d31-4fdafc3a3fb7",
+    "name": "fear",
+    "lang": "en"
+  },
+  {
+    "site_id": "586119a0-27c4-4fb9-8f2d-dd017e0b260e",
+    "name": "usatodaynews",
     "lang": "en"
   },
   {
@@ -82,82 +46,46 @@
     "lang": "en"
   },
   {
+    "site_id": "a6ce5d86-f87d-4fbd-bba1-9dadfe9f30d7",
+    "name": "globaltrekker",
+    "lang": "en"
+  },
+  {
+    "site_id": "ae0285bd-dca1-4ee3-8795-462c495aa376",
+    "name": "golfplus",
+    "lang": "en"
+  },
+  {
+    "site_id": "e39a3e27-96a2-4764-84c3-31d33104cb76",
+    "name": "cue",
+    "lang": "en"
+  },
+  {
+    "site_id": "e604eaa0-7fb4-488b-abfe-caca27cc5f85",
+    "name": "rockentertainment",
+    "lang": "en"
+  },
+  {
     "site_id": "ee09a248-6c17-4424-8aa6-0cf70ebcc308",
     "name": "dreamworks",
-    "lang": "en"
-  },
-  {
-    "site_id": "f3d648ca-f988-4f1d-bdf2-eebff8b8a334",
-    "name": "asianfoodchannel",
-    "lang": "en",
-    "xmltv_id": "AsianFoodNetwork.sg@SD"
-  },
-  {
-    "site_id": "154d67d1-3b8d-47a7-acf9-3b51af8193f5",
-    "name": "fightticket",
-    "lang": "en"
-  },
-  {
-    "site_id": "538051ca-9faf-4a61-b28c-387cc9529971",
-    "name": "nickelodeon",
-    "lang": "en"
-  },
-  {
-    "site_id": "7fff40e4-b5eb-43f8-9b1f-d7f6667ff19d",
-    "name": "talkshows",
-    "lang": "en"
-  },
-  {
-    "site_id": "59c16960-d7f4-4d4c-9de5-19384ba86bf9",
-    "name": "crimetv",
-    "lang": "en"
-  },
-  {
-    "site_id": "46549cb5-3908-459f-8350-e9d3d00c7494",
-    "name": "blastaction",
-    "lang": "en"
-  },
-  {
-    "site_id": "c8997290-0446-455e-9b55-ca3c749786b6",
-    "name": "premiersports2",
-    "lang": "en",
-    "xmltv_id": "PremierSports2.ph@SD"
-  },
-  {
-    "site_id": "0ecd2d73-178c-43fd-aaa1-a24921cd8920",
-    "name": "laff",
-    "lang": "en"
-  },
-  {
-    "site_id": "3ceaf9fa-5f4e-4263-ad6b-925061275d24",
-    "name": "premierfootball",
-    "lang": "en",
-    "xmltv_id": "PremierFootball.ph@SD"
-  },
-  {
-    "site_id": "4c1b2629-0c93-4eb7-96c0-03cc698ae082",
-    "name": "usatodaysports",
-    "lang": "en"
-  },
-  {
-    "site_id": "9d68438c-33d5-4082-b4d1-ae9a78bf673f",
-    "name": "wtaaccess",
-    "lang": "en"
-  },
-  {
-    "site_id": "18b7c90a-8f9f-4083-930a-e2c45db7f4f2",
-    "name": "outdoorchannel",
-    "lang": "en"
-  },
-  {
-    "site_id": "021efa5a-ea90-4dcd-928b-d96e3aa9c0e1",
-    "name": "comicu",
     "lang": "en"
   },
   {
     "site_id": "59050ed4-7885-4159-87de-2ee5735c61f4",
     "name": "cnbc",
     "lang": "en"
+  },
+  {
+    "site_id": "470085cd-91c6-4878-9233-6f8c894538ef",
+    "name": "edgesport",
+    "lang": "en",
+    "xmltv_id": "TAPEdge.ph@SD"
+  },
+  {
+    "site_id": "c8997290-0446-455e-9b55-ca3c749786b6",
+    "name": "premiersports2",
+    "lang": "en",
+    "xmltv_id": "PremierSports2.ph@SD"
   },
   {
     "site_id": "ebb29a3b-ba35-45d8-981d-f690434935c5",
@@ -171,23 +99,18 @@
     "lang": "en"
   },
   {
-    "site_id": "586119a0-27c4-4fb9-8f2d-dd017e0b260e",
-    "name": "usatodaynews",
+    "site_id": "7fff40e4-b5eb-43f8-9b1f-d7f6667ff19d",
+    "name": "talkshows",
     "lang": "en"
   },
   {
-    "site_id": "b5254804-2ba8-44a0-bbf9-ca40ce086fd3",
-    "name": "ufctv",
+    "site_id": "71d697cf-54e7-44af-852d-eb9683be4222",
+    "name": "blastcinema",
     "lang": "en"
   },
   {
-    "site_id": "e39a3e27-96a2-4764-84c3-31d33104cb76",
-    "name": "cue",
-    "lang": "en"
-  },
-  {
-    "site_id": "196ad303-d8dd-42df-8b08-92b8084cf113",
-    "name": "nickjr",
+    "site_id": "154d67d1-3b8d-47a7-acf9-3b51af8193f5",
+    "name": "fightticket",
     "lang": "en"
   },
   {
@@ -196,9 +119,86 @@
     "lang": "en"
   },
   {
+    "site_id": "dd8792d2-fe27-46e5-87de-36967197cc2d",
+    "name": "gameshowcentral",
+    "lang": "en"
+  },
+  {
+    "site_id": "4c1b2629-0c93-4eb7-96c0-03cc698ae082",
+    "name": "usatodaysports",
+    "lang": "en"
+  },
+  {
+    "site_id": "7b7ecc4e-5c43-44b5-afc9-fb4dc1ad64ab",
+    "name": "hgtv",
+    "lang": "en"
+  },
+  {
+    "site_id": "59c16960-d7f4-4d4c-9de5-19384ba86bf9",
+    "name": "crimetv",
+    "lang": "en"
+  },
+  {
+    "site_id": "196ad303-d8dd-42df-8b08-92b8084cf113",
+    "name": "nickjr",
+    "lang": "en"
+  },
+  {
+    "site_id": "08220d6a-1597-4d6d-b35b-d575e5361b2e",
+    "name": "paramountnetwork",
+    "lang": "en"
+  },
+  {
+    "site_id": "46549cb5-3908-459f-8350-e9d3d00c7494",
+    "name": "blastaction",
+    "lang": "en"
+  },
+  {
     "site_id": "24249e64-374c-4c32-bc02-1bfa953fa5ea",
     "name": "premiersports1",
     "lang": "en",
     "xmltv_id": "PremierSports.ph@SD"
+  },
+  {
+    "site_id": "f3d648ca-f988-4f1d-bdf2-eebff8b8a334",
+    "name": "asianfoodchannel",
+    "lang": "en",
+    "xmltv_id": "AsianFoodNetwork.sg@SD"
+  },
+  {
+    "site_id": "3ceaf9fa-5f4e-4263-ad6b-925061275d24",
+    "name": "premierfootball",
+    "lang": "en",
+    "xmltv_id": "PremierFootball.ph@SD"
+  },
+  {
+    "site_id": "b5254804-2ba8-44a0-bbf9-ca40ce086fd3",
+    "name": "ufctv",
+    "lang": "en"
+  },
+  {
+    "site_id": "f01e1047-e7eb-4322-a664-8e5910ac5926",
+    "name": "familymovies",
+    "lang": "en"
+  },
+  {
+    "site_id": "f19d5e7a-3d27-42a8-aff6-2431138dac38",
+    "name": "sportsplus",
+    "lang": "en"
+  },
+  {
+    "site_id": "18b7c90a-8f9f-4083-930a-e2c45db7f4f2",
+    "name": "outdoorchannel",
+    "lang": "en"
+  },
+  {
+    "site_id": "538051ca-9faf-4a61-b28c-387cc9529971",
+    "name": "nickelodeon",
+    "lang": "en"
+  },
+  {
+    "site_id": "c08b7266-878f-451c-a05a-6ffbb38ba3db",
+    "name": "showcasedramas",
+    "lang": "en"
   }
 ]

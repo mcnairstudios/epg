@@ -1,0 +1,68 @@
+{
+  "duration": 21600,
+  "entries": [
+    {
+      "channelId": "outtv",
+      "events": [
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667113200,
+          "id": "crid:~~2F~~2Fgn.tv~~2F19729344~~2FSH038167020000~~2F144085397,imi:9f2ace7394bee803f144c06a6c08861d5c680346",
+          "isPlaceHolder": true,
+          "mergedId": "19729344|nl",
+          "replayTVMinAge": 16,
+          "seriesPremiereAirings": true,
+          "startTime": 1667109600,
+          "title": "Tommy Teleshopping"
+        },
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667119080,
+          "id": "crid:~~2F~~2Fgn.tv~~2F16398658~~2FMV014546160000,imi:3dca289c6495bb1e18950a9a99296cca65cbe252",
+          "mergedId": "16398658|nl",
+          "minimumAge": 16,
+          "replayTVMinAge": 16,
+          "startTime": 1667113200,
+          "title": "Tchindas"
+        },
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667124000,
+          "id": "crid:~~2F~~2Fgn.tv~~2F11563114~~2FMV014467070000,imi:506336c198db3661fe34b41e3f54ba8c058f09f7",
+          "mergedId": "11563114|nl",
+          "minimumAge": 16,
+          "replayTVMinAge": 16,
+          "startTime": 1667119080,
+          "title": "The Dickumentary"
+        },
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667131200,
+          "id": "crid:~~2F~~2Fgn.tv~~2F19729344~~2FSH038167020000~~2F144085400,imi:397dd42ad5ff01f4146307592df2bbba8d698b7e",
+          "isPlaceHolder": true,
+          "mergedId": "19729344|nl",
+          "replayTVMinAge": 16,
+          "seriesPremiereAirings": true,
+          "startTime": 1667124000,
+          "title": "Tommy Teleshopping"
+        }
+      ]
+    }
+  ]
+}

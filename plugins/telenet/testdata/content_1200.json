@@ -1,0 +1,81 @@
+{
+  "duration": 21600,
+  "entries": [
+    {
+      "channelId": "outtv",
+      "events": [
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667134800,
+          "id": "crid:~~2F~~2Fgn.tv~~2F10202528~~2FSH035723610000~~2Fspecial,imi:55631febc6c5f41ffdd31720fe1de482be07551d",
+          "mergedId": "10202528|nl",
+          "minimumAge": 16,
+          "replayTVMinAge": 16,
+          "startTime": 1667131200,
+          "title": "OUTmusic"
+        },
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667142000,
+          "id": "crid:~~2F~~2Fgn.tv~~2F19729344~~2FSH038167020000~~2F144567373,imi:1353fe8809925173ea1afe54476d97b9338382ca",
+          "isPlaceHolder": true,
+          "mergedId": "19729344|nl",
+          "replayTVMinAge": 16,
+          "seriesPremiereAirings": true,
+          "startTime": 1667134800,
+          "title": "Tommy Teleshopping"
+        },
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667145600,
+          "id": "crid:~~2F~~2Fgn.tv~~2F10202528~~2FSH035723610000~~2Fspecial,imi:f1aa4cd3a10d0d334bc32d5c1b9cfd028caf37ec",
+          "mergedId": "10202528|nl",
+          "minimumAge": 16,
+          "replayTVMinAge": 16,
+          "startTime": 1667142000,
+          "title": "OUTmusic"
+        },
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667148420,
+          "id": "crid:~~2F~~2Fgn.tv~~2F12043940~~2FSH044125180000~~2Fspecial,imi:cad5560c70d57b9562a6660f08db996609eb2304",
+          "mergedId": "12043940|nl",
+          "minimumAge": 16,
+          "replayTVMinAge": 16,
+          "startTime": 1667145600,
+          "title": "Gaysian Drag Queens"
+        },
+        {
+          "audioLanguages": [
+            {
+              "lang": "nl"
+            }
+          ],
+          "endTime": 1667153400,
+          "id": "crid:~~2F~~2Fgn.tv~~2F10683183~~2FMV014450620000,imi:004cda26297db90c1e72b638e76e1fa6633b71f7",
+          "mergedId": "10683183|nl",
+          "minimumAge": 16,
+          "replayTVMinAge": 16,
+          "startTime": 1667148420,
+          "title": "Campaign of Hate: Russia and Gay Propaganda"
+        }
+      ]
+    }
+  ]
+}

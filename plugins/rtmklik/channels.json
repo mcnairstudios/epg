@@ -1,11 +1,5 @@
 [
   {
-    "site_id": "1",
-    "name": "TV1",
-    "lang": "ms",
-    "xmltv_id": "TV1.my@SD"
-  },
-  {
     "site_id": "2",
     "name": "TV2",
     "lang": "ms",
@@ -44,5 +38,11 @@
     "site_id": "10",
     "name": "Dewan Negara",
     "lang": "ms"
+  },
+  {
+    "site_id": "1",
+    "name": "TV1",
+    "lang": "ms",
+    "xmltv_id": "TV1.my@SD"
   }
 ]
