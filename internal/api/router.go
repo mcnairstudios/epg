@@ -18,15 +18,17 @@ type Server struct {
 	grabber         *grabber.Grabber
 	externalSources *source.ExternalSourceManager
 	users           *auth.UserStore
+	sleeping        *store.SleepingStore
 	router          chi.Router
 }
 
-func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore) *Server {
+func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, sleeping *store.SleepingStore) *Server {
 	srv := &Server{
 		store:           s,
 		grabber:         g,
 		externalSources: ext,
 		users:           users,
+		sleeping:        sleeping,
 		router:          chi.NewRouter(),
 	}
 
@@ -56,6 +58,10 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		r.Post("/external-sources", srv.addExternalSource)
 		r.Delete("/external-sources/{name}", srv.removeExternalSource)
 		r.Post("/external-sources/{name}/grab", srv.grabExternalSource)
+
+		r.Get("/sleeping", srv.listSleeping)
+		r.Post("/sleeping/{name}", srv.sleepSource)
+		r.Delete("/sleeping/{name}", srv.wakeSource)
 
 		r.Get("/users", srv.listUsers)
 		r.Post("/users", srv.createUser)

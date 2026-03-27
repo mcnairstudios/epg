@@ -162,13 +162,18 @@ func main() {
 		log.Printf("warning: failed to load external sources: %v", err)
 	}
 
+	sleeping := store.NewSleepingStore(filepath.Join(*dataDir, "sleeping.gob"))
+	if err := sleeping.Load(); err != nil {
+		log.Printf("warning: failed to load sleeping sources: %v", err)
+	}
+
 	users := auth.NewUserStore(filepath.Join(*dataDir, "users.gob"))
 	if err := users.Load(); err != nil {
 		log.Printf("warning: failed to load users: %v", err)
 	}
 
 	g := grabber.New(s, *maxConn, *days)
-	srv := api.NewServer(s, g, ext, users)
+	srv := api.NewServer(s, g, ext, users, sleeping)
 
 	if *schedule != "" {
 		sched := scheduler.New(g, s)

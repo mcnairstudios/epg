@@ -66,7 +66,8 @@ func setupTestServer() (*api.Server, *store.Store) {
 	g := grabber.New(s, 1, 1)
 	ext := source.NewExternalSourceManager("")
 	users := auth.NewUserStore("")
-	srv := api.NewServer(s, g, ext, users)
+	sleeping := store.NewSleepingStore("")
+	srv := api.NewServer(s, g, ext, users, sleeping)
 	return srv, s
 }
 

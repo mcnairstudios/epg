@@ -220,28 +220,23 @@
     }
 
     async function loadSleepingSources() {
-      const sleeping = getSleepingSources();
-      if (sleeping.length === 0) {
+      await loadSleeping();
+      const names = Object.keys(sleepingMap);
+      if (names.length === 0) {
         document.getElementById('sleeping-sources').innerHTML = '';
         return;
       }
-      const grabStats = await apiFetch('/grab-stats').catch(() => []);
-      const statsMap = {};
-      (grabStats||[]).forEach(s => statsMap[s.source] = s);
 
-      let html = `<h3 style="margin-bottom:12px;color:#8b98a5;">Sleeping Sources (${sleeping.length})</h3>`;
-      html += '<div class="grid">' + sleeping.sort().map(name => {
-        const gs = statsMap[name];
-        const statusBadge = gs
-          ? (gs.programs > 0
-            ? `<span class="badge" style="background:#059669;color:white;">${gs.programs} progs</span>`
-            : `<span class="badge" style="background:#dc2626;color:white;">${gs.errors} errors</span>`)
-          : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
+      let html = `<h3 style="margin-bottom:12px;color:#8b98a5;">Sleeping Sources (${names.length})</h3>`;
+      html += '<div class="grid">' + names.sort().map(name => {
+        const reason = sleepingMap[name] || '';
+        const safeN = name.replace(/'/g, "\\'");
         return `
           <div class="card">
-            <h3>${name} ${statusBadge}</h3>
+            <h3>${name}</h3>
+            <p style="font-size:11px;color:#8b98a5;">${reason}</p>
             <div style="margin-top:8px;">
-              <button class="btn btn-primary" onclick="toggleSleep('${name}');loadSleepingSources();">Wake Up</button>
+              <button class="btn btn-primary" onclick="toggleSleep('${safeN}');loadSleepingSources();">Wake Up</button>
             </div>
           </div>
         `;
@@ -337,8 +332,7 @@
           `;
         }
 
-        const sleeping = getSleepingSources();
-        const awake = all.filter(s => !sleeping.includes(s.name));
+        const awake = all.filter(s => !sleepingMap[s.name]);
         const active = awake.filter(s => statsMap[s.name] && statsMap[s.name].programs > 0);
         const inactive = awake.filter(s => !statsMap[s.name] || statsMap[s.name].programs === 0);
 
@@ -351,7 +345,7 @@
           html += `<h3 style="margin:24px 0 12px;color:#8b98a5;">Inactive (${inactive.length})</h3>`;
           html += '<div class="grid">' + inactive.map(renderCard).join('') + '</div>';
         }
-        const sleepCount = all.filter(s => sleeping.includes(s.name)).length;
+        const sleepCount = all.filter(s => sleepingMap[s.name]).length;
         if (sleepCount > 0) {
           html += `<p style="margin-top:16px;font-size:12px;color:#8b98a5;">${sleepCount} sleeping source${sleepCount>1?'s':''} hidden — manage in Settings</p>`;
         }
@@ -441,21 +435,21 @@
     let guideProgsByChannel = {};
     let guideOffset = 0;
 
-    function getSleepingSources() {
-      try { return JSON.parse(localStorage.getItem('epg-sleeping') || '[]'); } catch { return []; }
+    let sleepingMap = {};
+
+    async function loadSleeping() {
+      sleepingMap = await apiFetch('/sleeping').catch(() => ({}));
     }
 
-    function toggleSleep(name) {
-      const sleeping = getSleepingSources();
-      const idx = sleeping.indexOf(name);
-      if (idx >= 0) {
-        sleeping.splice(idx, 1);
+    async function toggleSleep(name) {
+      if (sleepingMap[name]) {
+        await apiFetch('/sleeping/' + encodeURIComponent(name), {method: 'DELETE'});
         showStatus(name + ' woken up', 'success');
       } else {
-        sleeping.push(name);
+        await apiFetch('/sleeping/' + encodeURIComponent(name), {method: 'POST', body: JSON.stringify({reason: 'manually slept'})});
         showStatus(name + ' put to sleep', 'info');
       }
-      localStorage.setItem('epg-sleeping', JSON.stringify(sleeping));
+      await loadSleeping();
       loadSources();
     }
 
@@ -750,7 +744,8 @@
       } catch(e) { showStatus(e.message, 'error'); }
     }
 
-    function refreshAll() {
+    async function refreshAll() {
+      await loadSleeping();
       loadStats();
       loadSources();
       loadXmltvUrls();
