@@ -39,6 +39,17 @@ func TestParseContent(t *testing.T) {
 	}
 
 	p := programs[0]
+
+	expectedStart := time.Date(2022, 4, 20, 6, 25, 0, 0, time.UTC)
+	if !p.Start.Equal(expectedStart) {
+		t.Fatalf("expected start %v, got %v", expectedStart, p.Start)
+	}
+
+	expectedStop := time.Date(2022, 4, 20, 6, 45, 0, 0, time.UTC)
+	if !p.Stop.Equal(expectedStop) {
+		t.Fatalf("expected stop %v, got %v", expectedStop, p.Stop)
+	}
+
 	if p.Title != "How I Met Your Mother" {
 		t.Fatalf("expected title 'How I Met Your Mother', got %q", p.Title)
 	}
@@ -55,23 +66,14 @@ func TestParseContent(t *testing.T) {
 		t.Fatalf("expected category 'comedy', got %q", p.Category)
 	}
 
-	expectedStart := time.Date(2022, 4, 20, 6, 25, 0, 0, time.UTC)
-	if !p.Start.Equal(expectedStart) {
-		t.Fatalf("expected start %v, got %v", expectedStart, p.Start)
-	}
-
-	expectedStop := time.Date(2022, 4, 20, 6, 45, 0, 0, time.UTC)
-	if !p.Stop.Equal(expectedStop) {
-		t.Fatalf("expected stop %v, got %v", expectedStop, p.Stop)
-	}
-
-	if p.Image != "https://androme.melitacable.com/media/images/epg/bc/07/p8953134_e_h10_ad.jpg?form=epg-card-6" {
-		t.Fatalf("unexpected image: %q", p.Image)
+	expectedImage := "https://androme.melitacable.com/media/images/epg/bc/07/p8953134_e_h10_ad.jpg?form=epg-card-6"
+	if p.Image != expectedImage {
+		t.Fatalf("expected image %q, got %q", expectedImage, p.Image)
 	}
 }
 
-func TestParseEmpty(t *testing.T) {
-	programs, err := melita.Parse([]byte("{}"), domain.Channel{})
+func TestParseEmptyContent(t *testing.T) {
+	programs, err := melita.Parse([]byte(`{}`), domain.Channel{})
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -81,11 +83,8 @@ func TestParseEmpty(t *testing.T) {
 }
 
 func TestParseInvalidJSON(t *testing.T) {
-	programs, err := melita.Parse([]byte("not json"), domain.Channel{})
-	if err != nil {
-		t.Fatalf("parse should not error, got: %v", err)
-	}
-	if len(programs) != 0 {
-		t.Fatalf("expected 0 programs, got %d", len(programs))
+	_, err := melita.Parse([]byte(`not json`), domain.Channel{})
+	if err == nil {
+		t.Fatal("expected error on invalid JSON")
 	}
 }

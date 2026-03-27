@@ -26,7 +26,7 @@ type httpClient interface {
 }
 
 func (p *provider) Name() string        { return "melita.com" }
-func (p *provider) Description() string { return "Melita Cable Malta" }
+func (p *provider) Description() string { return "Melita Malta cable TV provider" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
 	return []domain.Channel{
@@ -41,8 +41,8 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	url := fmt.Sprintf(
 		"https://androme.melitacable.com/api/epg/v1/schedule/channel/%s/from/%s/until/%s",
 		channel.SiteID,
-		start.Format("2006-01-02T15:04Z07:00"),
-		end.Format("2006-01-02T15:04Z07:00"),
+		start.Format("2006-01-02T15:04-07:00"),
+		end.Format("2006-01-02T15:04-07:00"),
 	)
 
 	req, err := http.NewRequest(http.MethodGet, url, nil)
@@ -65,30 +65,32 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 }
 
 func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
-	var resp apiResponse
-	if err := json.Unmarshal(data, &resp); err != nil {
-		return []domain.Program{}, nil
+	var response apiResponse
+	if err := json.Unmarshal(data, &response); err != nil {
+		return nil, err
 	}
 
-	if resp.Schedules == nil || resp.Programs == nil || resp.Seasons == nil || resp.Series == nil {
+	if response.Schedules == nil || response.Programs == nil || response.Seasons == nil || response.Series == nil {
 		return []domain.Program{}, nil
 	}
 
 	programMap := make(map[string]programEntry)
-	for _, p := range resp.Programs {
+	for _, p := range response.Programs {
 		programMap[p.ID] = p
 	}
+
 	seasonMap := make(map[string]seasonEntry)
-	for _, s := range resp.Seasons {
+	for _, s := range response.Seasons {
 		seasonMap[s.ID] = s
 	}
+
 	seriesMap := make(map[string]seriesEntry)
-	for _, s := range resp.Series {
+	for _, s := range response.Series {
 		seriesMap[s.ID] = s
 	}
 
-	var programs []domain.Program
-	for _, sched := range resp.Schedules {
+	programs := make([]domain.Program, 0)
+	for _, sched := range response.Schedules {
 		prog, ok := programMap[sched.Program]
 		if !ok {
 			continue
@@ -107,29 +109,28 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 			Source:      "melita.com",
 			Title:       prog.Title,
 			Description: prog.ShortSynopsis,
-			Season:      season.SeasonNum,
+			Season:      season.Season,
 			Episode:     prog.Episode,
 			Lang:        channel.Lang,
-		}
-
-		if prog.PosterImage != "" {
-			p.Image = prog.PosterImage + "?form=epg-card-6"
 		}
 
 		if len(prog.Tags) > 0 {
 			p.Category = prog.Tags[0]
 		}
 
-		if sched.Published != nil {
-			if sched.Published.Start != "" {
-				if t, err := time.Parse(time.RFC3339, sched.Published.Start); err == nil {
-					p.Start = t
-				}
+		if prog.PosterImage != "" {
+			p.Image = prog.PosterImage + "?form=epg-card-6"
+		}
+
+		if sched.Published.Start != "" {
+			if t, err := time.Parse(time.RFC3339, sched.Published.Start); err == nil {
+				p.Start = t.UTC()
 			}
-			if sched.Published.End != "" {
-				if t, err := time.Parse(time.RFC3339, sched.Published.End); err == nil {
-					p.Stop = t
-				}
+		}
+
+		if sched.Published.End != "" {
+			if t, err := time.Parse(time.RFC3339, sched.Published.End); err == nil {
+				p.Stop = t.UTC()
 			}
 		}
 
@@ -147,9 +148,9 @@ type apiResponse struct {
 }
 
 type scheduleEntry struct {
-	ID        string     `json:"id"`
-	Published *published `json:"published"`
-	Program   string     `json:"program"`
+	ID        string    `json:"id"`
+	Published published `json:"published"`
+	Program   string    `json:"program"`
 }
 
 type published struct {
@@ -158,21 +159,22 @@ type published struct {
 }
 
 type programEntry struct {
-	ID           string   `json:"id"`
-	Title        string   `json:"title"`
-	ShortSynopsis string  `json:"shortSynopsis"`
-	PosterImage  string   `json:"posterImage"`
-	Episode      int      `json:"episode"`
-	Season       string   `json:"season"`
-	Tags         []string `json:"tags"`
+	ID            string   `json:"id"`
+	Title         string   `json:"title"`
+	ShortSynopsis string   `json:"shortSynopsis"`
+	PosterImage   string   `json:"posterImage"`
+	Episode       int      `json:"episode"`
+	Season        string   `json:"season"`
+	Tags          []string `json:"tags"`
 }
 
 type seasonEntry struct {
-	ID        string `json:"id"`
-	SeasonNum int    `json:"season"`
-	Series    string `json:"series"`
+	ID     string `json:"id"`
+	Season int    `json:"season"`
+	Series string `json:"series"`
 }
 
 type seriesEntry struct {
-	ID string `json:"id"`
+	ID    string `json:"id"`
+	Title string `json:"title"`
 }
