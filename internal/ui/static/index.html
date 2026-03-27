@@ -501,7 +501,29 @@
       const windowStart = new Date(now.getTime() + guideOffset * 3600000);
       windowStart.setMinutes(0, 0, 0);
       const windowStartMs = windowStart.getTime();
-      const activeChannels = guideChannels.filter(ch => (guideProgsByChannel[ch.xmltv_id] || []).length > 0);
+      const withData = guideChannels.filter(ch => (guideProgsByChannel[ch.xmltv_id] || []).length > 0);
+
+      const nameCounts = {};
+      withData.forEach(ch => { nameCounts[ch.name] = (nameCounts[ch.name] || 0) + 1; });
+
+      const seenFingerprints = new Map();
+      const activeChannels = [];
+      for (const ch of withData) {
+        const progs = guideProgsByChannel[ch.xmltv_id] || [];
+        const fingerprint = progs.slice(0, 5).map(p => p.title + p.start).join('|');
+        const key = ch.name + '::' + fingerprint;
+        if (seenFingerprints.has(key)) continue;
+        seenFingerprints.set(key, true);
+
+        if (nameCounts[ch.name] > 1) {
+          const feed = ch.xmltv_id.includes('@') ? ch.xmltv_id.split('@').pop() : ch.site_id;
+          ch._displayName = ch.name + ' (' + feed + ')';
+        } else {
+          ch._displayName = ch.name;
+        }
+        activeChannels.push(ch);
+      }
+
       const windowEndMs = windowStartMs + HOURS_SHOWN * 3600000;
       const nowMs = now.getTime();
 
@@ -545,7 +567,7 @@
           </div>`;
         }
 
-        const nameEsc = (ch.name||'').replace(/</g,'&lt;');
+        const nameEsc = (ch._displayName||ch.name||'').replace(/</g,'&lt;');
         bodyHtml += `<div class="epg-row">
           <div class="epg-channel">
             ${nameEsc}
