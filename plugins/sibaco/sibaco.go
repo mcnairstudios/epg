@@ -50,12 +50,12 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	form.Set("end", fmt.Sprint(end.Unix()))
 	form.Set("chn", channel.SiteID)
 
-	req, err := http.NewRequest(http.MethodPost, "http://devportal.siba.com.co/index.php?action=grilla", nil)
+	encoded := form.Encode()
+	req, err := http.NewRequest(http.MethodPost, "http://devportal.siba.com.co/index.php?action=grilla", strings.NewReader(encoded))
 	if err != nil {
 		return nil, err
 	}
 	req.Header.Set("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8")
-	req.Body = io.NopCloser(strings.NewReader(form.Encode()))
 
 	resp, err := p.client.Do(req)
 	if err != nil {
