@@ -28,6 +28,7 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/distrotv"
 	_ "github.com/gavinmcnair/epg/plugins/dstv"
 	_ "github.com/gavinmcnair/epg/plugins/epg112114"
+	_ "github.com/gavinmcnair/epg/plugins/firstmedia"
 	_ "github.com/gavinmcnair/epg/plugins/foxsportsau"
 	_ "github.com/gavinmcnair/epg/plugins/freetv"
 	_ "github.com/gavinmcnair/epg/plugins/freeviewuk"
