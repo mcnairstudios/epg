@@ -3,6 +3,7 @@ package api
 import (
 	"encoding/json"
 	"net/http"
+	"sort"
 
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
@@ -19,6 +20,10 @@ func (s *Server) listSources(w http.ResponseWriter, r *http.Request) {
 			Type:        "plugin",
 		})
 	}
+
+	sort.Slice(sources, func(i, j int) bool {
+		return sources[i].Name < sources[j].Name
+	})
 
 	json.NewEncoder(w).Encode(sources)
 }

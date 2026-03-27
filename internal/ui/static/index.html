@@ -212,16 +212,31 @@
 
     async function loadSources() {
       try {
-        const sources = await apiFetch('/sources');
-        document.getElementById('plugin-sources').innerHTML = (sources||[]).map(s => `
-          <div class="card">
-            <h3>${s.name} <span class="badge badge-plugin">plugin</span></h3>
-            <p>${s.description || ''}</p>
-            <div style="margin-top:12px;">
-              <button class="btn btn-success" onclick="grabSource('${s.name}')">Grab EPG</button>
+        const sources = (await apiFetch('/sources')).sort((a,b) => a.name.localeCompare(b.name));
+        const grabStats = await apiFetch('/grab-stats').catch(() => []);
+        const statsMap = {};
+        (grabStats||[]).forEach(s => statsMap[s.source] = s);
+
+        document.getElementById('plugin-sources').innerHTML = (sources||[]).map(s => {
+          const gs = statsMap[s.name];
+          const statusBadge = gs
+            ? (gs.programs > 0
+              ? `<span class="badge badge-plugin" style="background:#059669;">${gs.programs} progs / ${gs.channels} ch</span>`
+              : `<span class="badge badge-plugin" style="background:#dc2626;">0 programs</span>`)
+            : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
+          const lastGrab = gs ? `<span style="font-size:11px;color:#8b98a5;">Last: ${new Date(gs.last_grab).toLocaleString()} (${gs.duration})</span>` : '';
+          const errorInfo = gs && gs.errors > 0 ? `<span style="font-size:11px;color:#fca5a5;"> ${gs.errors} errors</span>` : '';
+          return `
+            <div class="card">
+              <h3>${s.name} ${statusBadge}</h3>
+              <p>${s.description || ''}</p>
+              <div style="margin-top:4px;">${lastGrab}${errorInfo}</div>
+              <div style="margin-top:8px;">
+                <button class="btn btn-success" onclick="grabSource('${s.name}')">Grab EPG</button>
+              </div>
             </div>
-          </div>
-        `).join('');
+          `;
+        }).join('');
 
         const ext = await apiFetch('/external-sources').catch(() => []);
         document.getElementById('external-sources').innerHTML = (ext||[]).map(s => `

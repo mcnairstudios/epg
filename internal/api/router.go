@@ -18,6 +18,7 @@ type Server struct {
 	grabber         *grabber.Grabber
 	externalSources *source.ExternalSourceManager
 	users           *auth.UserStore
+	grabStats       *store.GrabStatsTracker
 	router          chi.Router
 }
 
@@ -27,6 +28,7 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		grabber:         g,
 		externalSources: ext,
 		users:           users,
+		grabStats:       store.NewGrabStatsTracker(),
 		router:          chi.NewRouter(),
 	}
 
@@ -47,6 +49,7 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		r.Get("/channels/{id}", srv.getChannel)
 		r.Get("/programs", srv.listPrograms)
 		r.Get("/stats", srv.getStats)
+		r.Get("/grab-stats", srv.getGrabStats)
 		r.Post("/grab", srv.triggerGrab)
 		r.Post("/grab-all", srv.triggerGrabAll)
 
