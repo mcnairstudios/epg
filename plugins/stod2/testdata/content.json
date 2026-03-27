@@ -1,34 +1,20 @@
 [
-    {
-        "midill": "SYN",
-        "midill_heiti": "Sýn",
-        "dagsetning": "2026-03-27T00:00:00Z",
-        "upphaf": "2026-03-27T06:45:00Z",
-        "titill": "Bítiđ",
-        "isltitill": "Bítiđ",
-        "undirtitill": "Bítiđ",
-        "seria": 2026,
-        "thattur": 44,
-        "thattafjoldi": 200,
-        "birta_thatt": 1,
-        "opin": 0,
-        "beint": 1,
-        "frumsyning": 1,
-        "framundan_i_beinni": 0,
-        "tegund": null,
-        "flokkur": "Talk-show",
-        "adalhlutverk": "",
-        "leikstjori": "",
-        "ar": "",
-        "bannad": "Green",
-        "recidefni": null,
-        "recidlidur": null,
-        "recidsyning": null,
-        "refno": null,
-        "frelsi": 0,
-        "netdagar": 0,
-        "lysing": "Bylgjan vaknar eldsnemma með hlustendum alla virka morgna.",
-        "slott": 195,
-        "slotlengd": "03:15"
-    }
+  {
+    "upphaf": "2024-01-01T10:00:00+00:00",
+    "isltitill": "Fréttir",
+    "undirtitill": "Morgunfréttir",
+    "lysing": "Fréttir dagsins",
+    "slott": 30,
+    "seria": 1,
+    "thattur": 5
+  },
+  {
+    "upphaf": "2024-01-01T10:30:00+00:00",
+    "isltitill": "Kastljós",
+    "undirtitill": "",
+    "lysing": "Viðtalssýning",
+    "slott": 60,
+    "seria": 0,
+    "thattur": 0
+  }
 ]

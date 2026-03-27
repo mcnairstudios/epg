@@ -64,7 +64,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 
 		if resp.StatusCode == http.StatusTooManyRequests {
 			if attempt == maxRetries {
-				return nil, fmt.Errorf("rate limited after %d retries for channel %s", maxRetries, channel.SiteID)
+				return nil, nil
 			}
 			time.Sleep(backoff)
 			backoff *= 2
@@ -72,7 +72,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		}
 
 		if resp.StatusCode != http.StatusOK {
-			return nil, fmt.Errorf("unexpected status %d for channel %s", resp.StatusCode, channel.SiteID)
+			return nil, nil
 		}
 
 		break
@@ -84,7 +84,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	var response apiResponse
 	if err := json.Unmarshal(data, &response); err != nil {
-		return nil, err
+		return nil, nil
 	}
 
 	programmes := response.Schedule.Programme

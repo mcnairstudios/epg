@@ -49,7 +49,7 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	u := fmt.Sprintf(
 		"https://meogouser.apps.meo.pt/Services/GridTv/GridTv.svc/GetLiveChannelProgramsByDate?callLetter=%s&date=%s&userAgent=IPTV_OFR_GTV",
-		channel.SiteID,
+		url.QueryEscape(channel.SiteID),
 		date.Format("2006-01-02"),
 	)
 

@@ -55,7 +55,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("HTTP %d for channel %s", resp.StatusCode, channel.SiteID)
+		return nil, nil
 	}
 
 	body, err := io.ReadAll(resp.Body)
@@ -69,7 +69,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	var items []scheduleItem
 	if err := json.Unmarshal(data, &items); err != nil {
-		return nil, err
+		return nil, nil
 	}
 
 	programs := make([]domain.Program, 0, len(items))

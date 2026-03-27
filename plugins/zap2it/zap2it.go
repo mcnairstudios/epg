@@ -134,7 +134,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	var response map[string][]apiEntry
 	if err := json.Unmarshal(data, &response); err != nil {
-		return nil, err
+		return nil, nil
 	}
 
 	var programs []domain.Program

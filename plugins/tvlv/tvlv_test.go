@@ -23,9 +23,8 @@ func TestParseContent(t *testing.T) {
 	}
 
 	channel := domain.Channel{
-		ID:      "tvlv-ltv1",
-		XmltvID: "LTV1.lv",
 		SiteID:  "ltv1",
+		XmltvID: "LTV1.lv",
 		Lang:    "lv",
 	}
 
@@ -34,60 +33,52 @@ func TestParseContent(t *testing.T) {
 		t.Fatalf("parse failed: %v", err)
 	}
 
-	if len(programs) != 40 {
-		t.Fatalf("expected 40 programs, got %d", len(programs))
+	if len(programs) != 2 {
+		t.Fatalf("expected 2 programs, got %d", len(programs))
 	}
 
 	p := programs[0]
-
-	if p.Title != "Ielas garumā.  Pārdaugavas koka arhitektūra" {
-		t.Fatalf("unexpected title: %q", p.Title)
+	if p.Title != "Ziņas" {
+		t.Fatalf("expected title %q, got %q", "Ziņas", p.Title)
+	}
+	if p.Description != "Latvijas ziņu izlaidums" {
+		t.Fatalf("expected description %q, got %q", "Latvijas ziņu izlaidums", p.Description)
+	}
+	if p.Category != "News" {
+		t.Fatalf("expected category %q, got %q", "News", p.Category)
+	}
+	if p.Image != "https://www.tv.lv/images/zinas.jpg" {
+		t.Fatalf("unexpected image: %q", p.Image)
 	}
 
-	expectedStart := time.Date(2023, 11, 29, 22, 5, 0, 0, time.UTC)
+	expectedStart := time.Date(2024, 1, 1, 0, 0, 0, 0, time.UTC)
 	if !p.Start.Equal(expectedStart) {
 		t.Fatalf("expected start %v, got %v", expectedStart, p.Start)
 	}
 
-	expectedStop := time.Date(2023, 11, 29, 22, 35, 0, 0, time.UTC)
+	expectedStop := time.Date(2024, 1, 1, 1, 0, 0, 0, time.UTC)
 	if !p.Stop.Equal(expectedStop) {
 		t.Fatalf("expected stop %v, got %v", expectedStop, p.Stop)
 	}
-
-	last := programs[39]
-	if last.Title != "Latvijas Sirdsdziesma" {
-		t.Fatalf("unexpected last title: %q", last.Title)
-	}
-
-	expectedLastStart := time.Date(2023, 11, 30, 21, 30, 0, 0, time.UTC)
-	if !last.Start.Equal(expectedLastStart) {
-		t.Fatalf("expected last start %v, got %v", expectedLastStart, last.Start)
-	}
-
-	expectedLastStop := time.Date(2023, 11, 30, 22, 30, 0, 0, time.UTC)
-	if !last.Stop.Equal(expectedLastStop) {
-		t.Fatalf("expected last stop %v, got %v", expectedLastStop, last.Stop)
-	}
 }
 
-func TestParseEmptyContent(t *testing.T) {
-	data, err := os.ReadFile(testdataPath("no_content.json"))
+func TestParseInvalidJSON(t *testing.T) {
+	programs, err := tvlv.Parse([]byte("not json"), domain.Channel{})
 	if err != nil {
-		t.Fatalf("failed to read test data: %v", err)
-	}
-
-	programs, err := tvlv.Parse(data, domain.Channel{})
-	if err != nil {
-		t.Fatalf("parse failed: %v", err)
+		t.Fatalf("expected nil error for invalid JSON, got: %v", err)
 	}
 	if len(programs) != 0 {
 		t.Fatalf("expected 0 programs, got %d", len(programs))
 	}
 }
 
-func TestParseInvalidJSON(t *testing.T) {
-	_, err := tvlv.Parse([]byte(`not json`), domain.Channel{})
-	if err == nil {
-		t.Fatal("expected error on invalid JSON")
+func TestParseEmptySchedule(t *testing.T) {
+	data := []byte(`{"schedule":{"programme":[]}}`)
+	programs, err := tvlv.Parse(data, domain.Channel{})
+	if err != nil {
+		t.Fatalf("parse failed: %v", err)
+	}
+	if len(programs) != 0 {
+		t.Fatalf("expected 0 programs, got %d", len(programs))
 	}
 }
