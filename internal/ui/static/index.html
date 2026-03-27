@@ -276,20 +276,40 @@
       ].sort((a,b) => a.name.localeCompare(b.name));
 
       const ungrabbed = all.filter(s => !statsMap[s.name] && !sleepingMap[s.name]);
-      const sleepingList = all.filter(s => sleepingMap[s.name]);
-      const sleepingOrphans = Object.keys(sleepingMap).filter(n => !all.find(s => s.name === n)).sort();
+
+      const allSleepingSources = [
+        ...all.filter(s => sleepingMap[s.name]),
+        ...Object.keys(sleepingMap).filter(n => !all.find(s => s.name === n)).map(n => ({name: n, _type: 'plugin', _grabFn: 'grabSource'}))
+      ];
+
+      const errored = allSleepingSources.filter(s => {
+        const gs = statsMap[s.name];
+        return gs && gs.errors > 0;
+      }).sort((a,b) => (statsMap[b.name]?.errors||0) - (statsMap[a.name]?.errors||0));
+
+      const nonResponsive = allSleepingSources.filter(s => {
+        const gs = statsMap[s.name];
+        const reason = sleepingMap[s.name] || '';
+        return !gs || gs.errors === 0 || reason.includes('dead') || reason.includes('geo') || reason.includes('timeout') || reason.includes('SSL') || reason.includes('DNS');
+      }).filter(s => !errored.find(e => e.name === s.name));
 
       let html = '';
 
       if (ungrabbed.length > 0) {
-        html += `<h3 style="margin-bottom:12px;color:#8b98a5;">New Sources (${ungrabbed.length})</h3>`;
+        html += `<h3 style="margin-bottom:12px;color:#1d9bf0;">New Sources (${ungrabbed.length})</h3>`;
         html += '<div class="grid">' + ungrabbed.map(s => renderCard(s, statsMap, 'new')).join('') + '</div>';
       }
 
-      const allSleeping = [...sleepingList, ...sleepingOrphans.map(n => ({name: n, _type: 'plugin', _grabFn: 'grabSource'}))];
-      if (allSleeping.length > 0) {
-        html += `<h3 style="margin:24px 0 12px;color:#8b98a5;">Sleeping Sources (${allSleeping.length})</h3>`;
-        html += '<div class="grid">' + allSleeping.map(s => renderCard(s, statsMap, 'sleeping')).join('') + '</div>';
+      if (errored.length > 0) {
+        html += `<h3 style="margin:24px 0 12px;color:#dc2626;">Errored — Fixable (${errored.length})</h3>`;
+        html += `<p style="font-size:12px;color:#8b98a5;margin-bottom:12px;">These sources respond but return errors. The code needs fixing.</p>`;
+        html += '<div class="grid">' + errored.map(s => renderCard(s, statsMap, 'errored')).join('') + '</div>';
+      }
+
+      if (nonResponsive.length > 0) {
+        html += `<h3 style="margin:24px 0 12px;color:#8b98a5;">Non-Responsive (${nonResponsive.length})</h3>`;
+        html += `<p style="font-size:12px;color:#8b98a5;margin-bottom:12px;">Dead servers, geo-blocked, or API removed.</p>`;
+        html += '<div class="grid">' + nonResponsive.map(s => renderCard(s, statsMap, 'sleeping')).join('') + '</div>';
       }
 
       if (!html) {
@@ -309,8 +329,10 @@
 
       const statusBadge = isGrabbing
         ? '<span class="badge" style="background:#d97706;color:white;">grabbing...</span>'
-        : context === 'sleeping'
-          ? `<span class="badge" style="background:#374151;color:#9ca3af;">sleeping</span>`
+        : context === 'errored'
+          ? `<span class="badge" style="background:#dc2626;color:white;">${gs ? gs.errors + ' errors' : 'errored'}</span>`
+          : context === 'sleeping'
+          ? `<span class="badge" style="background:#374151;color:#9ca3af;">non-responsive</span>`
           : context === 'new'
             ? '<span class="badge" style="background:#1d4ed8;color:white;">new</span>'
             : gs
