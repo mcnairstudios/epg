@@ -219,23 +219,34 @@
       loadSleepingSources();
     }
 
-    async function grabSettingsSource(name, grabFn) {
+    async function grabSettingsSource(name) {
+      const btn = event.target;
+      btn.disabled = true;
+      btn.textContent = 'Grabbing...';
+      btn.style.background = '#d97706';
+      showStatus('Grabbing ' + name + '...', 'info');
       try {
-        showStatus('Grabbing ' + name + '...', 'info');
         const res = await apiFetch('/grab', {method:'POST', body: JSON.stringify({source: name})});
         if (res.results > 0) {
           showStatus(`${name}: ${res.results} programs! Now active.`, 'success');
         } else {
           showStatus(`${name}: 0 programs, ${res.errors} errors.`, 'error');
         }
-        loadSleepingSources();
-        refreshAll();
       } catch(e) { showStatus(e.message, 'error'); }
+      btn.disabled = false;
+      btn.textContent = 'Grab';
+      btn.style.background = '';
+      loadSleepingSources();
+      refreshAll();
     }
 
     async function grabSleepingSource(name) {
+      const btn = event.target;
+      btn.disabled = true;
+      btn.textContent = 'Grabbing...';
+      btn.style.background = '#d97706';
+      showStatus('Grabbing ' + name + '...', 'info');
       try {
-        showStatus('Grabbing ' + name + '...', 'info');
         const res = await apiFetch('/grab', {method:'POST', body: JSON.stringify({source: name})});
         if (res.results > 0) {
           await apiFetch('/sleeping/' + encodeURIComponent(name), {method: 'DELETE'});
@@ -243,9 +254,12 @@
         } else {
           showStatus(`${name}: 0 programs, ${res.errors} errors. Still sleeping.`, 'error');
         }
-        loadSleepingSources();
-        refreshAll();
       } catch(e) { showStatus(e.message, 'error'); }
+      btn.disabled = false;
+      btn.textContent = 'Grab';
+      btn.style.background = '';
+      loadSleepingSources();
+      refreshAll();
     }
 
     async function loadSleepingSources() {
