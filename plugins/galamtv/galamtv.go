@@ -49,7 +49,6 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	// JS uses date.startOf('day').unix() in Asia/Almaty timezone
 	d := date.In(almatyTZ)
 	startOfDay := time.Date(d.Year(), d.Month(), d.Day(), 0, 0, 0, 0, almatyTZ)
 	endOfDay := startOfDay.Add(24 * time.Hour)
