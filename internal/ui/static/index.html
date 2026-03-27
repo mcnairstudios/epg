@@ -110,9 +110,7 @@
       <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
         <button class="btn btn-primary" onclick="closeGuide()">&larr; Back</button>
         <h2 id="guide-title"></h2>
-        <select id="guide-region" style="padding:4px 8px;background:#16202a;color:#e7e9ea;border:1px solid #2f3336;border-radius:4px;font-size:13px;" onchange="onGuideRegionChange()">
-          <option value="">All Regions</option>
-        </select>
+        <select id="guide-region" style="display:none;padding:4px 8px;background:#16202a;color:#e7e9ea;border:1px solid #2f3336;border-radius:4px;font-size:13px;" onchange="onGuideRegionChange()"></select>
         <span id="guide-stats" style="font-size:13px;color:#8b98a5;"></span>
       </div>
       <div style="display:flex;align-items:center;gap:4px;margin-bottom:12px;flex-wrap:wrap;">
@@ -137,6 +135,17 @@
       <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
         <button class="btn btn-primary" onclick="closeSettings()">&larr; Back</button>
         <h2>Settings</h2>
+      </div>
+      <div class="card" style="margin-bottom:16px;">
+        <h3>Region Preferences</h3>
+        <p style="font-size:12px;color:#8b98a5;margin-bottom:8px;">Comma-separated region codes in priority order. When a source has channels in multiple regions, only the first matching region is shown.</p>
+        <div class="form-row">
+          <div class="form-group">
+            <input type="text" id="region-prefs-input" placeholder="e.g. UK, US, DE, CH, FR" style="font-size:13px;">
+          </div>
+          <button class="btn btn-primary" onclick="saveRegionPrefs()">Save</button>
+        </div>
+        <p style="font-size:11px;color:#8b98a5;" id="region-prefs-current"></p>
       </div>
       <div class="card" style="margin-bottom:16px;">
         <h3>Full XMLTV URL</h3>
@@ -187,8 +196,11 @@
 
     function openSettings() {
       document.getElementById('sources').style.display = 'none';
-      document.getElementById('source-detail-overlay').style.display = 'none';
+      document.getElementById('guide-overlay').style.display = 'none';
       document.getElementById('settings-overlay').style.display = 'block';
+      const prefs = localStorage.getItem('epg-region-prefs') || '';
+      document.getElementById('region-prefs-input').value = prefs;
+      document.getElementById('region-prefs-current').textContent = prefs ? 'Current: ' + prefs : 'No region preferences set';
       loadXmltvUrls();
       loadUsers();
     }
@@ -356,11 +368,59 @@
     const TOTAL_WIDTH = HOURS_SHOWN * 60 * PX_PER_MIN;
 
     let guideSource = '';
-    let guideAllChannels = [];
     let guideChannels = [];
     let guideProgsByChannel = {};
     let guideOffset = 0;
-    let guideRegion = '';
+
+    function getRegionPrefs() {
+      const raw = localStorage.getItem('epg-region-prefs') || '';
+      return raw.split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
+    }
+
+    function saveRegionPrefs() {
+      const val = document.getElementById('region-prefs-input').value;
+      localStorage.setItem('epg-region-prefs', val);
+      document.getElementById('region-prefs-current').textContent = 'Saved: ' + (val || '(none)');
+    }
+
+    function pickRegion(availableRegions) {
+      const prefs = getRegionPrefs();
+      if (prefs.length === 0 || availableRegions.length === 0) return '';
+      for (const pref of prefs) {
+        if (availableRegions.includes(pref)) return pref;
+      }
+      return '';
+    }
+
+    function deduplicateChannels(channels) {
+      const prefs = getRegionPrefs();
+      if (prefs.length === 0) return channels;
+
+      const regions = [...new Set(channels.map(c => c.region).filter(Boolean))];
+      if (regions.length <= 1) return channels;
+
+      const bestRegion = pickRegion(regions);
+      if (!bestRegion) return channels;
+
+      const seen = new Map();
+      const result = [];
+      const regionChannels = channels.filter(c => c.region === bestRegion);
+      const noRegionChannels = channels.filter(c => !c.region);
+
+      for (const ch of regionChannels) {
+        seen.set(ch.site_id, true);
+        result.push(ch);
+      }
+      for (const ch of noRegionChannels) {
+        if (!seen.has(ch.site_id)) {
+          result.push(ch);
+        }
+      }
+
+      return result;
+    }
+
+    let guideAllChannels = [];
 
     async function openGuide(source) {
       document.getElementById('sources').style.display = 'none';
@@ -368,7 +428,6 @@
       document.getElementById('guide-title').textContent = source;
       guideSource = source;
       guideOffset = 0;
-      guideRegion = '';
 
       const [channels, programs] = await Promise.all([
         apiFetch('/channels?source=' + source),
@@ -384,32 +443,40 @@
 
       const regions = [...new Set(guideAllChannels.map(c => c.region).filter(Boolean))].sort();
       const sel = document.getElementById('guide-region');
-      sel.innerHTML = '<option value="">All Regions (' + guideAllChannels.length + ')</option>' +
-        regions.map(r => {
-          const count = guideAllChannels.filter(c => c.region === r).length;
-          return `<option value="${r}">${r} (${count})</option>`;
-        }).join('');
-      sel.style.display = regions.length > 0 ? 'inline-block' : 'none';
 
-      applyGuideRegion();
+      if (regions.length > 1) {
+        const defaultRegion = pickRegion(regions) || regions[0];
+        sel.innerHTML = regions.map(r => {
+          const count = guideAllChannels.filter(c => c.region === r).length;
+          return `<option value="${r}" ${r === defaultRegion ? 'selected' : ''}>${r} (${count})</option>`;
+        }).join('');
+        sel.style.display = 'inline-block';
+        applyGuideRegion(defaultRegion);
+      } else {
+        sel.style.display = 'none';
+        guideChannels = guideAllChannels;
+        updateGuideStats();
+        renderGuide();
+      }
     }
 
     function onGuideRegionChange() {
-      guideRegion = document.getElementById('guide-region').value;
-      applyGuideRegion();
+      applyGuideRegion(document.getElementById('guide-region').value);
     }
 
-    function applyGuideRegion() {
-      guideChannels = guideRegion
-        ? guideAllChannels.filter(c => c.region === guideRegion)
+    function applyGuideRegion(region) {
+      guideChannels = region
+        ? guideAllChannels.filter(c => c.region === region)
         : guideAllChannels;
+      updateGuideStats();
+      renderGuide();
+    }
 
+    function updateGuideStats() {
       const progCount = guideChannels.reduce((sum, c) =>
         sum + (guideProgsByChannel[c.xmltv_id] || []).length, 0);
       document.getElementById('guide-stats').textContent =
         `${guideChannels.length} channels, ${progCount} programs`;
-
-      renderGuide();
     }
 
     function guideNav(delta) {
