@@ -107,10 +107,22 @@
     </div></div>
 
     <div id="guide-overlay" style="display:none;">
-      <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+      <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
         <button class="btn btn-primary" onclick="closeGuide()">&larr; Back</button>
         <h2 id="guide-title"></h2>
         <span id="guide-stats" style="font-size:13px;color:#8b98a5;"></span>
+      </div>
+      <div style="display:flex;align-items:center;gap:4px;margin-bottom:12px;flex-wrap:wrap;">
+        <button class="btn" style="background:#374151;color:#9ca3af;padding:4px 10px;font-size:12px;" onclick="guideNav(-24)">-1d</button>
+        <button class="btn" style="background:#374151;color:#9ca3af;padding:4px 10px;font-size:12px;" onclick="guideNav(-6)">-6h</button>
+        <button class="btn" style="background:#374151;color:#9ca3af;padding:4px 10px;font-size:12px;" onclick="guideNav(-3)">-3h</button>
+        <button class="btn" style="background:#374151;color:#9ca3af;padding:4px 10px;font-size:12px;" onclick="guideNav(-1)">-1h</button>
+        <button class="btn btn-primary" style="padding:4px 10px;font-size:12px;" onclick="guideNav(0)" id="guide-now-btn">Now</button>
+        <button class="btn" style="background:#374151;color:#9ca3af;padding:4px 10px;font-size:12px;" onclick="guideNav(1)">+1h</button>
+        <button class="btn" style="background:#374151;color:#9ca3af;padding:4px 10px;font-size:12px;" onclick="guideNav(3)">+3h</button>
+        <button class="btn" style="background:#374151;color:#9ca3af;padding:4px 10px;font-size:12px;" onclick="guideNav(6)">+6h</button>
+        <button class="btn" style="background:#374151;color:#9ca3af;padding:4px 10px;font-size:12px;" onclick="guideNav(24)">+1d</button>
+        <span id="guide-time-label" style="font-size:12px;color:#8b98a5;margin-left:8px;"></span>
       </div>
       <div class="epg-container" id="epg-container">
         <div class="epg-header" id="epg-header"></div>
@@ -340,45 +352,76 @@
     const HOURS_SHOWN = 6;
     const TOTAL_WIDTH = HOURS_SHOWN * 60 * PX_PER_MIN;
 
+    let guideSource = '';
+    let guideChannels = [];
+    let guideProgsByChannel = {};
+    let guideOffset = 0;
+
     async function openGuide(source) {
       document.getElementById('sources').style.display = 'none';
       document.getElementById('guide-overlay').style.display = 'block';
       document.getElementById('guide-title').textContent = source;
+      guideSource = source;
+      guideOffset = 0;
 
       const [channels, programs] = await Promise.all([
         apiFetch('/channels?source=' + source),
         apiFetch('/programs?source=' + source)
       ]);
 
-      const progsByChannel = {};
+      guideChannels = (channels||[]).sort((a,b) => a.name.localeCompare(b.name));
+      guideProgsByChannel = {};
       (programs||[]).forEach(p => {
-        if (!progsByChannel[p.channel]) progsByChannel[p.channel] = [];
-        progsByChannel[p.channel].push(p);
+        if (!guideProgsByChannel[p.channel]) guideProgsByChannel[p.channel] = [];
+        guideProgsByChannel[p.channel].push(p);
       });
 
-      const now = new Date();
-      const windowStart = new Date(now);
-      windowStart.setMinutes(0, 0, 0);
-
       document.getElementById('guide-stats').textContent =
-        `${(channels||[]).length} channels, ${(programs||[]).length} programs`;
+        `${guideChannels.length} channels, ${(programs||[]).length} programs`;
 
-      let headerHtml = '<div class="epg-header-corner">Channel</div>';
-      for (let h = 0; h < HOURS_SHOWN; h++) {
-        const t = new Date(windowStart.getTime() + h * 3600000);
-        headerHtml += `<div class="epg-header-time">${t.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})}</div>`;
+      renderGuide();
+    }
+
+    function guideNav(delta) {
+      if (delta === 0) {
+        guideOffset = 0;
+      } else {
+        guideOffset += delta;
       }
-      document.getElementById('epg-header').innerHTML = headerHtml;
+      const btn = document.getElementById('guide-now-btn');
+      if (guideOffset === 0) {
+        btn.textContent = 'Now';
+      } else {
+        const sign = guideOffset > 0 ? '+' : '';
+        const abs = Math.abs(guideOffset);
+        btn.textContent = abs >= 24 ? `${sign}${guideOffset/24}d` : `${sign}${guideOffset}h`;
+      }
+      renderGuide();
+    }
 
+    function renderGuide() {
+      const now = new Date();
+      const windowStart = new Date(now.getTime() + guideOffset * 3600000);
+      windowStart.setMinutes(0, 0, 0);
       const windowStartMs = windowStart.getTime();
       const windowEndMs = windowStartMs + HOURS_SHOWN * 3600000;
       const nowMs = now.getTime();
 
-      let bodyHtml = '';
-      const sortedChannels = (channels||[]).sort((a,b) => a.name.localeCompare(b.name));
+      const fmtDate = d => d.toLocaleDateString([], {weekday:'short',month:'short',day:'numeric'});
+      const fmtTime = d => d.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
+      document.getElementById('guide-time-label').textContent =
+        fmtDate(windowStart) + ' ' + fmtTime(windowStart) + ' — ' + fmtTime(new Date(windowEndMs));
 
-      for (const ch of sortedChannels) {
-        const chProgs = (progsByChannel[ch.xmltv_id] || [])
+      let headerHtml = '<div class="epg-header-corner">Channel</div>';
+      for (let h = 0; h < HOURS_SHOWN; h++) {
+        const t = new Date(windowStartMs + h * 3600000);
+        headerHtml += `<div class="epg-header-time">${fmtTime(t)}</div>`;
+      }
+      document.getElementById('epg-header').innerHTML = headerHtml;
+
+      let bodyHtml = '';
+      for (const ch of guideChannels) {
+        const chProgs = (guideProgsByChannel[ch.xmltv_id] || [])
           .filter(p => new Date(p.stop).getTime() > windowStartMs && new Date(p.start).getTime() < windowEndMs)
           .sort((a,b) => new Date(a.start) - new Date(b.start));
 
@@ -386,17 +429,15 @@
         for (const p of chProgs) {
           const startMs = Math.max(new Date(p.start).getTime(), windowStartMs);
           const stopMs = Math.min(new Date(p.stop).getTime(), windowEndMs);
-          const leftMin = (startMs - windowStartMs) / 60000;
-          const widthMin = (stopMs - startMs) / 60000;
-          const leftPx = leftMin * PX_PER_MIN;
-          const widthPx = Math.max(widthMin * PX_PER_MIN - 2, 20);
+          const leftPx = ((startMs - windowStartMs) / 60000) * PX_PER_MIN;
+          const widthPx = Math.max(((stopMs - startMs) / 60000) * PX_PER_MIN - 2, 20);
 
           const isLive = nowMs >= new Date(p.start).getTime() && nowMs < new Date(p.stop).getTime();
           const isPast = new Date(p.stop).getTime() < nowMs;
           const cls = 'epg-program' + (isLive ? ' live' : '') + (isPast ? ' past' : '');
 
-          const startStr = new Date(p.start).toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
-          const stopStr = new Date(p.stop).toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
+          const startStr = fmtTime(new Date(p.start));
+          const stopStr = fmtTime(new Date(p.stop));
           const titleEsc = (p.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
           const descEsc = (p.description||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 
@@ -423,16 +464,21 @@
         </div>`;
       }
 
-      const nowPx = ((nowMs - windowStartMs) / 60000) * PX_PER_MIN;
-      if (nowPx > 0 && nowPx < TOTAL_WIDTH) {
-        bodyHtml += `<div class="epg-now-line" style="left:${180 + nowPx}px;"></div>`;
+      if (guideOffset === 0) {
+        const nowPx = ((nowMs - windowStartMs) / 60000) * PX_PER_MIN;
+        if (nowPx > 0 && nowPx < TOTAL_WIDTH) {
+          bodyHtml += `<div class="epg-now-line" style="left:${180 + nowPx}px;"></div>`;
+        }
       }
 
       document.getElementById('epg-body').innerHTML = bodyHtml;
 
-      const container = document.getElementById('epg-container');
-      const scrollTarget = nowPx - container.clientWidth / 2 + 180;
-      if (scrollTarget > 0) container.scrollLeft = scrollTarget;
+      if (guideOffset === 0) {
+        const container = document.getElementById('epg-container');
+        const nowPx = ((nowMs - windowStartMs) / 60000) * PX_PER_MIN;
+        const scrollTarget = nowPx - container.clientWidth / 2 + 180;
+        if (scrollTarget > 0) container.scrollLeft = scrollTarget;
+      }
     }
 
     function closeGuide() {
