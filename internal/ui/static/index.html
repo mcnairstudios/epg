@@ -172,6 +172,7 @@
         <thead><tr><th>Username</th><th>Role</th><th>Token</th><th>Created</th><th></th></tr></thead>
         <tbody id="users-table"></tbody>
       </table>
+      <div id="sleeping-sources" style="margin-top:24px;"></div>
     </div>
   </div>
 
@@ -206,7 +207,7 @@
       showStatus('XMLTV URL copied for ' + name, 'success');
     }
 
-    function openSettings() {
+    async function openSettings() {
       document.getElementById('sources').style.display = 'none';
       document.getElementById('guide-overlay').style.display = 'none';
       document.getElementById('settings-overlay').style.display = 'block';
@@ -215,6 +216,37 @@
       document.getElementById('region-prefs-current').textContent = prefs ? 'Current: ' + prefs : 'No region preferences set';
       loadXmltvUrls();
       loadUsers();
+      loadSleepingSources();
+    }
+
+    async function loadSleepingSources() {
+      const sleeping = getSleepingSources();
+      if (sleeping.length === 0) {
+        document.getElementById('sleeping-sources').innerHTML = '';
+        return;
+      }
+      const grabStats = await apiFetch('/grab-stats').catch(() => []);
+      const statsMap = {};
+      (grabStats||[]).forEach(s => statsMap[s.source] = s);
+
+      let html = `<h3 style="margin-bottom:12px;color:#8b98a5;">Sleeping Sources (${sleeping.length})</h3>`;
+      html += '<div class="grid">' + sleeping.sort().map(name => {
+        const gs = statsMap[name];
+        const statusBadge = gs
+          ? (gs.programs > 0
+            ? `<span class="badge" style="background:#059669;color:white;">${gs.programs} progs</span>`
+            : `<span class="badge" style="background:#dc2626;color:white;">${gs.errors} errors</span>`)
+          : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
+        return `
+          <div class="card">
+            <h3>${name} ${statusBadge}</h3>
+            <div style="margin-top:8px;">
+              <button class="btn btn-primary" onclick="toggleSleep('${name}');loadSleepingSources();">Wake Up</button>
+            </div>
+          </div>
+        `;
+      }).join('') + '</div>';
+      document.getElementById('sleeping-sources').innerHTML = html;
     }
 
     function closeSettings() {
@@ -291,9 +323,11 @@
             ? '<button class="btn" style="background:#d97706;color:white;" disabled>Grabbing...</button>'
             : `<button class="btn btn-success" onclick="${s._grabFn}('${s.name}')">Grab</button>`;
           const removeBtn = isExternal ? `<button class="btn btn-danger" onclick="removeExternal('${s.name}')">Remove</button>` : '';
+          const sleepBtn = `<button class="btn" style="background:#374151;color:#9ca3af;font-size:11px;padding:2px 8px;" onclick="event.stopPropagation();toggleSleep('${s.name}')" title="Put to sleep">zzz</button>`;
 
           return `
-            <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}">
+            <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}position:relative;">
+              <div style="position:absolute;top:8px;right:8px;">${sleepBtn}</div>
               <h3>${typeBadge}${s.name} ${statusBadge}</h3>
               ${subtitle}
               <div style="margin-top:2px;">${lastGrab}${errorInfo}</div>
@@ -307,8 +341,10 @@
           `;
         }
 
-        const active = all.filter(s => statsMap[s.name] && statsMap[s.name].programs > 0);
-        const inactive = all.filter(s => !statsMap[s.name] || statsMap[s.name].programs === 0);
+        const sleeping = getSleepingSources();
+        const awake = all.filter(s => !sleeping.includes(s.name));
+        const active = awake.filter(s => statsMap[s.name] && statsMap[s.name].programs > 0);
+        const inactive = awake.filter(s => !statsMap[s.name] || statsMap[s.name].programs === 0);
 
         let html = '';
         if (active.length > 0) {
@@ -318,6 +354,10 @@
         if (inactive.length > 0) {
           html += `<h3 style="margin:24px 0 12px;color:#8b98a5;">Inactive (${inactive.length})</h3>`;
           html += '<div class="grid">' + inactive.map(renderCard).join('') + '</div>';
+        }
+        const sleepCount = all.filter(s => sleeping.includes(s.name)).length;
+        if (sleepCount > 0) {
+          html += `<p style="margin-top:16px;font-size:12px;color:#8b98a5;">${sleepCount} sleeping source${sleepCount>1?'s':''} hidden — manage in Settings</p>`;
         }
         document.getElementById('all-sources').innerHTML = html;
       } catch(e) { showStatus(e.message, 'error'); }
@@ -404,6 +444,24 @@
     let guideChannels = [];
     let guideProgsByChannel = {};
     let guideOffset = 0;
+
+    function getSleepingSources() {
+      try { return JSON.parse(localStorage.getItem('epg-sleeping') || '[]'); } catch { return []; }
+    }
+
+    function toggleSleep(name) {
+      const sleeping = getSleepingSources();
+      const idx = sleeping.indexOf(name);
+      if (idx >= 0) {
+        sleeping.splice(idx, 1);
+        showStatus(name + ' woken up', 'success');
+      } else {
+        sleeping.push(name);
+        showStatus(name + ' put to sleep', 'info');
+      }
+      localStorage.setItem('epg-sleeping', JSON.stringify(sleeping));
+      loadSources();
+    }
 
     function getRegionPrefs() {
       const raw = localStorage.getItem('epg-region-prefs') || '';
