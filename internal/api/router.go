@@ -45,6 +45,7 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		r.Get("/sources", srv.listSources)
 		r.Get("/channels", srv.listChannels)
 		r.Get("/channels/{id}", srv.getChannel)
+		r.Get("/regions", srv.listRegions)
 		r.Get("/programs", srv.listPrograms)
 		r.Get("/stats", srv.getStats)
 		r.Get("/grab-stats", srv.getGrabStats)

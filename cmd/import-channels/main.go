@@ -28,6 +28,7 @@ type channelEntry struct {
 	SiteID  string `json:"site_id"`
 	Name    string `json:"name"`
 	Lang    string `json:"lang"`
+	Region  string `json:"region,omitempty"`
 	XmltvID string `json:"xmltv_id,omitempty"`
 	Logo    string `json:"logo,omitempty"`
 }
@@ -174,6 +175,8 @@ func main() {
 			continue
 		}
 
+		region := extractRegion(filepath.Base(file))
+
 		var xmlCh xmlChannels
 		if err := xml.Unmarshal(data, &xmlCh); err != nil {
 			continue
@@ -194,11 +197,12 @@ func main() {
 				merged[pluginName] = make(map[string]channelEntry)
 			}
 
-			key := ch.SiteID + "|" + ch.Lang
+			key := ch.SiteID + "|" + ch.Lang + "|" + region
 			merged[pluginName][key] = channelEntry{
 				SiteID:  ch.SiteID,
 				Name:    name,
 				Lang:    ch.Lang,
+				Region:  region,
 				XmltvID: ch.XmltvID,
 				Logo:    ch.Logo,
 			}
@@ -237,4 +241,17 @@ func main() {
 	}
 
 	fmt.Printf("\nDone: %d unique channels across %d plugins\n", total, pluginCount)
+}
+
+func extractRegion(filename string) string {
+	name := strings.TrimSuffix(filename, ".channels.xml")
+	idx := strings.LastIndex(name, "_")
+	if idx < 0 {
+		return ""
+	}
+	region := name[idx+1:]
+	if dashIdx := strings.Index(region, "-"); dashIdx >= 0 {
+		region = region[:dashIdx]
+	}
+	return strings.ToUpper(region)
 }

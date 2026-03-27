@@ -11,6 +11,7 @@ type Entry struct {
 	SiteID  string `json:"site_id"`
 	Name    string `json:"name"`
 	Lang    string `json:"lang"`
+	Region  string `json:"region,omitempty"`
 	XmltvID string `json:"xmltv_id,omitempty"`
 	Logo    string `json:"logo,omitempty"`
 }
@@ -35,6 +36,7 @@ func Load(data []byte, source string) ([]domain.Channel, error) {
 			SiteID:  e.SiteID,
 			Lang:    e.Lang,
 			Logo:    e.Logo,
+			Region:  e.Region,
 			XmltvID: xmltvID,
 		})
 	}

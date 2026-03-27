@@ -239,6 +239,7 @@ type Filter struct {
 	Channel string
 	Genre   string
 	Quality string
+	Region  string
 	Date    *time.Time
 	Lang    string
 }
@@ -255,6 +256,9 @@ func matchesChannelFilters(ch domain.Channel, filters []Filter) bool {
 		return false
 	}
 	if f.Quality != "" && ch.Quality != f.Quality {
+		return false
+	}
+	if f.Region != "" && ch.Region != f.Region {
 		return false
 	}
 	if f.Lang != "" && ch.Lang != f.Lang {

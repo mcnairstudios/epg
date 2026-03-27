@@ -110,6 +110,9 @@
       <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
         <button class="btn btn-primary" onclick="closeGuide()">&larr; Back</button>
         <h2 id="guide-title"></h2>
+        <select id="guide-region" style="padding:4px 8px;background:#16202a;color:#e7e9ea;border:1px solid #2f3336;border-radius:4px;font-size:13px;" onchange="onGuideRegionChange()">
+          <option value="">All Regions</option>
+        </select>
         <span id="guide-stats" style="font-size:13px;color:#8b98a5;"></span>
       </div>
       <div style="display:flex;align-items:center;gap:4px;margin-bottom:12px;flex-wrap:wrap;">
@@ -353,9 +356,11 @@
     const TOTAL_WIDTH = HOURS_SHOWN * 60 * PX_PER_MIN;
 
     let guideSource = '';
+    let guideAllChannels = [];
     let guideChannels = [];
     let guideProgsByChannel = {};
     let guideOffset = 0;
+    let guideRegion = '';
 
     async function openGuide(source) {
       document.getElementById('sources').style.display = 'none';
@@ -363,21 +368,46 @@
       document.getElementById('guide-title').textContent = source;
       guideSource = source;
       guideOffset = 0;
+      guideRegion = '';
 
       const [channels, programs] = await Promise.all([
         apiFetch('/channels?source=' + source),
         apiFetch('/programs?source=' + source)
       ]);
 
-      guideChannels = (channels||[]).sort((a,b) => a.name.localeCompare(b.name));
+      guideAllChannels = (channels||[]).sort((a,b) => a.name.localeCompare(b.name));
       guideProgsByChannel = {};
       (programs||[]).forEach(p => {
         if (!guideProgsByChannel[p.channel]) guideProgsByChannel[p.channel] = [];
         guideProgsByChannel[p.channel].push(p);
       });
 
+      const regions = [...new Set(guideAllChannels.map(c => c.region).filter(Boolean))].sort();
+      const sel = document.getElementById('guide-region');
+      sel.innerHTML = '<option value="">All Regions (' + guideAllChannels.length + ')</option>' +
+        regions.map(r => {
+          const count = guideAllChannels.filter(c => c.region === r).length;
+          return `<option value="${r}">${r} (${count})</option>`;
+        }).join('');
+      sel.style.display = regions.length > 0 ? 'inline-block' : 'none';
+
+      applyGuideRegion();
+    }
+
+    function onGuideRegionChange() {
+      guideRegion = document.getElementById('guide-region').value;
+      applyGuideRegion();
+    }
+
+    function applyGuideRegion() {
+      guideChannels = guideRegion
+        ? guideAllChannels.filter(c => c.region === guideRegion)
+        : guideAllChannels;
+
+      const progCount = guideChannels.reduce((sum, c) =>
+        sum + (guideProgsByChannel[c.xmltv_id] || []).length, 0);
       document.getElementById('guide-stats').textContent =
-        `${guideChannels.length} channels, ${(programs||[]).length} programs`;
+        `${guideChannels.length} channels, ${progCount} programs`;
 
       renderGuide();
     }

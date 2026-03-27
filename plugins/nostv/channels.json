@@ -1,110 +1,9 @@
 [
   {
-    "site_id": "544",
-    "name": "Canal História HD",
+    "site_id": "352",
+    "name": "Sporting TV HD",
     "lang": "pt",
-    "xmltv_id": "Historia.pt@SD"
-  },
-  {
-    "site_id": "83",
-    "name": "National Geographic WILD HD",
-    "lang": "en",
-    "xmltv_id": "NationalGeographicWild.pt@SD"
-  },
-  {
-    "site_id": "610",
-    "name": "Sport TV 6 HD",
-    "lang": "pt",
-    "xmltv_id": "SportTV6.pt@SD"
-  },
-  {
-    "site_id": "408",
-    "name": "Canal NOS HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "49",
-    "name": "ARTV",
-    "lang": "pt",
-    "xmltv_id": "ARTV.pt@SD"
-  },
-  {
-    "site_id": "75",
-    "name": "AXN White HD",
-    "lang": "pt",
-    "xmltv_id": "AXNWhite.us@Portugal"
-  },
-  {
-    "site_id": "245",
-    "name": "BTV1 HD",
-    "lang": "pt",
-    "xmltv_id": "BenficaTV.pt@SD"
-  },
-  {
-    "site_id": "52",
-    "name": "CNBC",
-    "lang": "en",
-    "xmltv_id": "CNBCEurope.uk@SD"
-  },
-  {
-    "site_id": "721",
-    "name": "Conta Lá",
-    "lang": "pt",
-    "xmltv_id": "ContaLa.pt@HD"
-  },
-  {
-    "site_id": "111",
-    "name": "Globo News",
-    "lang": "pt",
-    "xmltv_id": "GloboNow.pt@SD"
-  },
-  {
-    "site_id": "571",
-    "name": "Azores TV",
-    "lang": "pt",
-    "xmltv_id": "VITECAzoresTV.pt@SD"
-  },
-  {
-    "site_id": "545",
-    "name": "AMC Crime HD",
-    "lang": "pt",
-    "xmltv_id": "AMCCrime.pt@SD"
-  },
-  {
-    "site_id": "28",
-    "name": "BVN",
-    "lang": "nl",
-    "xmltv_id": "BVN.nl@SD"
-  },
-  {
-    "site_id": "356",
-    "name": "Mezzo Live HD",
-    "lang": "en",
-    "xmltv_id": "MezzoLive.fr@SD"
-  },
-  {
-    "site_id": "420",
-    "name": "SIC Mulher HD",
-    "lang": "pt",
-    "xmltv_id": "SICMulher.pt@SD"
-  },
-  {
-    "site_id": "593",
-    "name": "Canal Panda HD",
-    "lang": "pt",
-    "xmltv_id": "CanalPanda.pt@SD"
-  },
-  {
-    "site_id": "115",
-    "name": "DW",
-    "lang": "en",
-    "xmltv_id": "DW.de@English"
-  },
-  {
-    "site_id": "94",
-    "name": "Nickelodeon",
-    "lang": "pt",
-    "xmltv_id": "Nickelodeon.pt@SD"
+    "xmltv_id": "SportingTV.pt@SD"
   },
   {
     "site_id": "201",
@@ -113,265 +12,10 @@
     "xmltv_id": "Syfy.pt@SD"
   },
   {
-    "site_id": "14",
-    "name": "Canal Hollywood HD",
+    "site_id": "702",
+    "name": "Dizi",
     "lang": "pt",
-    "xmltv_id": "CanalHollywood.pt@SD"
-  },
-  {
-    "site_id": "312",
-    "name": "CGTN",
-    "lang": "en",
-    "xmltv_id": "CGTN.cn@SD"
-  },
-  {
-    "site_id": "530",
-    "name": "ID Investigation Discovery",
-    "lang": "pt",
-    "xmltv_id": "InvestigationDiscoveryEurope.us@SD"
-  },
-  {
-    "site_id": "422",
-    "name": "SIC Radical HD",
-    "lang": "pt",
-    "xmltv_id": "SICRadical.pt@SD"
-  },
-  {
-    "site_id": "316",
-    "name": "CCTV 4",
-    "lang": "en",
-    "xmltv_id": "CCTV4Europe.cn@SD"
-  },
-  {
-    "site_id": "441",
-    "name": "ODISSEIA HD",
-    "lang": "pt",
-    "xmltv_id": "Odisseia.pt@SD"
-  },
-  {
-    "site_id": "174",
-    "name": "Star Channel HD",
-    "lang": "pt",
-    "xmltv_id": "StarChannel.pt@SD"
-  },
-  {
-    "site_id": "237",
-    "name": "TCV Internacional",
-    "lang": "pt",
-    "xmltv_id": "TCVInternacional.cv@SD"
-  },
-  {
-    "site_id": "368",
-    "name": "MCM Pop",
-    "lang": "pt",
-    "xmltv_id": "MCMPop.fr@SD"
-  },
-  {
-    "site_id": "40",
-    "name": "RTL",
-    "lang": "de",
-    "xmltv_id": "RTL.hr@SD"
-  },
-  {
-    "site_id": "425",
-    "name": "CMTV HD",
-    "lang": "pt",
-    "xmltv_id": "CMTV.pt@SD"
-  },
-  {
-    "site_id": "594",
-    "name": "Disney Channel HD",
-    "lang": "pt",
-    "xmltv_id": "DisneyChannel.pt@SD"
-  },
-  {
-    "site_id": "132",
-    "name": "France 24 (F)",
-    "lang": "fr",
-    "xmltv_id": "France24.fr@French"
-  },
-  {
-    "site_id": "37",
-    "name": "M6",
-    "lang": "fr",
-    "xmltv_id": "M6.fr@HD"
-  },
-  {
-    "site_id": "41",
-    "name": "ARTE",
-    "lang": "fr",
-    "xmltv_id": "arte.fr@SD"
-  },
-  {
-    "site_id": "62",
-    "name": "Food Network HD",
-    "lang": "pt",
-    "xmltv_id": "FoodNetworkEMEA.us@SD"
-  },
-  {
-    "site_id": "597",
-    "name": "Panda KIDS",
-    "lang": "pt",
-    "xmltv_id": "PandaKids.pt@SD"
-  },
-  {
-    "site_id": "706",
-    "name": "Sport TV 7 HD",
-    "lang": "pt",
-    "xmltv_id": "SportTV7.pt@SD"
-  },
-  {
-    "site_id": "272",
-    "name": "Afro Music Channel",
-    "lang": "pt",
-    "xmltv_id": "AfroMusicChannel.ao@SD"
-  },
-  {
-    "site_id": "694",
-    "name": "OneToro TV",
-    "lang": "pt"
-  },
-  {
-    "site_id": "224",
-    "name": "TVCine ACTION HD",
-    "lang": "pt",
-    "xmltv_id": "TVCineAction.pt@SD"
-  },
-  {
-    "site_id": "24",
-    "name": "1+1",
-    "lang": "en",
-    "xmltv_id": "1Plus1International.ua@SD"
-  },
-  {
-    "site_id": "243",
-    "name": "24Kitchen HD",
-    "lang": "pt",
-    "xmltv_id": "24Kitchen.us@Portugal"
-  },
-  {
-    "site_id": "567",
-    "name": "TVI Reality HD",
-    "lang": "pt",
-    "xmltv_id": "TVIReality.pt@SD"
-  },
-  {
-    "site_id": "710",
-    "name": "HGTV",
-    "lang": "pt"
-  },
-  {
-    "site_id": "55",
-    "name": "Rai Italia",
-    "lang": "pt",
-    "xmltv_id": "RaiItalia.it@EuropeAfrica"
-  },
-  {
-    "site_id": "247",
-    "name": "SPORT TV4 HD",
-    "lang": "pt",
-    "xmltv_id": "SportTV4.pt@SD"
-  },
-  {
-    "site_id": "113",
-    "name": "Star Comedy HD",
-    "lang": "pt",
-    "xmltv_id": "StarComedy.pt@SD"
-  },
-  {
-    "site_id": "48",
-    "name": "TVEi",
-    "lang": "es",
-    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
-  },
-  {
-    "site_id": "509",
-    "name": "AMC Break HD",
-    "lang": "pt",
-    "xmltv_id": "AMCBreak.pt@SD"
-  },
-  {
-    "site_id": "194",
-    "name": "AXN Movies HD",
-    "lang": "pt",
-    "xmltv_id": "AXNMovies.pt@SD"
-  },
-  {
-    "site_id": "137",
-    "name": "SPORT TV1 HD",
-    "lang": "pt",
-    "xmltv_id": "SportTV1.pt@SD"
-  },
-  {
-    "site_id": "70",
-    "name": "Travel Channel HD",
-    "lang": "pt",
-    "xmltv_id": "TravelChannelEMEA.uk@SD"
-  },
-  {
-    "site_id": "556",
-    "name": "RTP Notícias HD",
-    "lang": "pt",
-    "xmltv_id": "RTPNoticias.pt@HD"
-  },
-  {
-    "site_id": "44",
-    "name": "Bloomberg",
-    "lang": "en",
-    "xmltv_id": "BloombergTV.us@Europe"
-  },
-  {
-    "site_id": "697",
-    "name": "New Brasil",
-    "lang": "pt"
-  },
-  {
-    "site_id": "547",
-    "name": "NOS Studios HD",
-    "lang": "pt",
-    "xmltv_id": "NosStudios.pt@SD"
-  },
-  {
-    "site_id": "27",
-    "name": "RTP África",
-    "lang": "pt",
-    "xmltv_id": "RTPAfrica.pt@SD"
-  },
-  {
-    "site_id": "417",
-    "name": "SPORT TV+ HD",
-    "lang": "pt",
-    "xmltv_id": "SportTVPlus.pt@SD"
-  },
-  {
-    "site_id": "74",
-    "name": "TVCine EDITION HD",
-    "lang": "pt",
-    "xmltv_id": "TVCineEdition.pt@SD"
-  },
-  {
-    "site_id": "371",
-    "name": "DOGTV",
-    "lang": "pt",
-    "xmltv_id": "DogTV.us@SD"
-  },
-  {
-    "site_id": "107",
-    "name": "RTP Madeira",
-    "lang": "pt",
-    "xmltv_id": "RTPMadeira.pt@SD"
-  },
-  {
-    "site_id": "343",
-    "name": "STV Notícias",
-    "lang": "pt",
-    "xmltv_id": "STVNoticias.mz@SD"
-  },
-  {
-    "site_id": "65",
-    "name": "Trace Urban HD",
-    "lang": "pt",
-    "xmltv_id": "TraceUrban.fr@SD"
+    "xmltv_id": "TimelessDiziChannel.ro@SD"
   },
   {
     "site_id": "555",
@@ -380,363 +24,9 @@
     "xmltv_id": "TVI.pt@SD"
   },
   {
-    "site_id": "50",
-    "name": "Mezzo",
-    "lang": "pt",
-    "xmltv_id": "Mezzo.fr@SD"
-  },
-  {
-    "site_id": "421",
-    "name": "SIC Caras HD",
-    "lang": "pt",
-    "xmltv_id": "SICCaras.pt@SD"
-  },
-  {
-    "site_id": "709",
-    "name": "SIC Novelas",
-    "lang": "pt",
-    "xmltv_id": "SICNovelas.pt@SD"
-  },
-  {
-    "site_id": "574",
-    "name": "V+TVI",
-    "lang": "pt",
-    "xmltv_id": "VPlusTVI.pt@SD"
-  },
-  {
-    "site_id": "538",
-    "name": "ZAP Viva HD",
-    "lang": "pt",
-    "xmltv_id": "ZapViva.ao@SD"
-  },
-  {
-    "site_id": "161",
-    "name": "AXN HD",
-    "lang": "pt",
-    "xmltv_id": "AXN.pt@SD"
-  },
-  {
-    "site_id": "26",
-    "name": "CNN",
-    "lang": "en",
-    "xmltv_id": "CNNInternational.us@MENA"
-  },
-  {
-    "site_id": "167",
-    "name": "MyZen TV",
-    "lang": "en",
-    "xmltv_id": "MyZenTV.fr@SD"
-  },
-  {
-    "site_id": "423",
-    "name": "Porto Canal HD",
-    "lang": "pt",
-    "xmltv_id": "PortoCanal.pt@SD"
-  },
-  {
-    "site_id": "109",
-    "name": "France 24 (I)",
-    "lang": "en",
-    "xmltv_id": "France24.fr@English"
-  },
-  {
-    "site_id": "418",
-    "name": "SIC HD",
-    "lang": "pt",
-    "xmltv_id": "SIC.pt@SD"
-  },
-  {
-    "site_id": "419",
-    "name": "SIC Notícias HD",
-    "lang": "pt",
-    "xmltv_id": "SICNoticias.pt@SD"
-  },
-  {
-    "site_id": "352",
-    "name": "Sporting TV HD",
-    "lang": "pt",
-    "xmltv_id": "SportingTV.pt@SD"
-  },
-  {
-    "site_id": "188",
-    "name": "SPORT TV3 HD",
-    "lang": "pt",
-    "xmltv_id": "SportTV3.pt@SD"
-  },
-  {
-    "site_id": "236",
-    "name": "Fight Network HD",
-    "lang": "en",
-    "xmltv_id": "FightNetwork.ca@SD"
-  },
-  {
-    "site_id": "54",
-    "name": "TV Galicia",
-    "lang": "pt",
-    "xmltv_id": "GaliciaTVEuropa.es@SD"
-  },
-  {
-    "site_id": "165",
-    "name": "Russia Today",
-    "lang": "pt",
-    "xmltv_id": "RT.ru@SD"
-  },
-  {
-    "site_id": "80",
-    "name": "RTP Memória",
-    "lang": "pt",
-    "xmltv_id": "RTPMemoria.pt@SD"
-  },
-  {
-    "site_id": "701",
-    "name": "W-Sport",
-    "lang": "en",
-    "xmltv_id": "WSport.za@SD"
-  },
-  {
-    "site_id": "145",
-    "name": "Eurosport 1 HD",
-    "lang": "pt",
-    "xmltv_id": "Eurosport1.fr@France"
-  },
-  {
-    "site_id": "34",
-    "name": "MCM Top",
-    "lang": "en",
-    "xmltv_id": "MCMTop.fr@SD"
-  },
-  {
-    "site_id": "139",
-    "name": "RTP 1 HD",
-    "lang": "pt",
-    "xmltv_id": "RTP1.pt@SD"
-  },
-  {
-    "site_id": "180",
-    "name": "SPORT TV5 HD",
-    "lang": "pt",
-    "xmltv_id": "SportTV5.pt@SD"
-  },
-  {
-    "site_id": "142",
-    "name": "Canção Nova",
-    "lang": "pt",
-    "xmltv_id": "TVCancaoNova.pt@SD"
-  },
-  {
-    "site_id": "123",
-    "name": "TVR Internacional",
-    "lang": "pt",
-    "xmltv_id": "TVRInternational.ro@SD"
-  },
-  {
-    "site_id": "415",
-    "name": "AMC HD",
-    "lang": "pt",
-    "xmltv_id": "AMCEurope.uk@Portugal"
-  },
-  {
-    "site_id": "176",
-    "name": "Biggs",
-    "lang": "pt",
-    "xmltv_id": "Biggs.pt@SD"
-  },
-  {
-    "site_id": "718",
-    "name": "Daystar",
-    "lang": "pt",
-    "xmltv_id": "DaystarTV.us@SD"
-  },
-  {
-    "site_id": "47",
-    "name": "FTV HD",
-    "lang": "pt",
-    "xmltv_id": "FashionTVHD.fr@SD"
-  },
-  {
-    "site_id": "72",
-    "name": "Fuel TV HD",
-    "lang": "pt",
-    "xmltv_id": "FUELTV.pt@EMEA"
-  },
-  {
-    "site_id": "134",
-    "name": "National Geographic HD",
-    "lang": "pt",
-    "xmltv_id": "NationalGeographic.pt@SD"
-  },
-  {
-    "site_id": "235",
-    "name": "Canal Q",
-    "lang": "pt",
-    "xmltv_id": "CanalQ.pt@SD"
-  },
-  {
-    "site_id": "515",
-    "name": "DAZN 5",
-    "lang": "pt",
-    "xmltv_id": "DAZN5.uk@Portugal"
-  },
-  {
-    "site_id": "187",
-    "name": "SPORT TV2 HD",
-    "lang": "pt",
-    "xmltv_id": "SportTV2.pt@SD"
-  },
-  {
-    "site_id": "23",
-    "name": "TLC",
-    "lang": "pt",
-    "xmltv_id": "TLC.pt@SD"
-  },
-  {
-    "site_id": "117",
-    "name": "RTR Planeta",
-    "lang": "pt",
-    "xmltv_id": "RTRPlaneta.ru@Europe"
-  },
-  {
-    "site_id": "704",
-    "name": "Trace Brasil",
-    "lang": "pt",
-    "xmltv_id": "TraceBrazuca.fr@SD"
-  },
-  {
-    "site_id": "223",
-    "name": "TVCine EMOTION HD",
-    "lang": "pt",
-    "xmltv_id": "TVCineEmotion.pt@SD"
-  },
-  {
-    "site_id": "354",
-    "name": "Motorvision HD",
-    "lang": "pt",
-    "xmltv_id": "Motorvision.de@SD"
-  },
-  {
-    "site_id": "106",
-    "name": "RTP Açores",
-    "lang": "pt",
-    "xmltv_id": "RTPAcores.pt@SD"
-  },
-  {
-    "site_id": "713",
-    "name": "Cartoonito",
-    "lang": "pt",
-    "xmltv_id": "Cartoonito.pt@SD"
-  },
-  {
-    "site_id": "121",
-    "name": "Cubavisión Internacional",
-    "lang": "pt",
-    "xmltv_id": "CubavisionInternacional.cu@SD"
-  },
-  {
-    "site_id": "518",
-    "name": "DAZN 1",
-    "lang": "pt",
-    "xmltv_id": "DAZN1.uk@Portugal"
-  },
-  {
-    "site_id": "673",
-    "name": "Disney Junior HD",
-    "lang": "pt",
-    "xmltv_id": "DisneyJunior.pt@SD"
-  },
-  {
-    "site_id": "510",
-    "name": "S+ HD",
-    "lang": "pt",
-    "xmltv_id": "SPlus.pt@SD"
-  },
-  {
-    "site_id": "33",
-    "name": "TeleSUR",
-    "lang": "pt",
-    "xmltv_id": "Telesur.ve@SD"
-  },
-  {
-    "site_id": "572",
-    "name": "Casa e Cozinha HD",
-    "lang": "pt",
-    "xmltv_id": "CasaeCozinha.pt@SD"
-  },
-  {
-    "site_id": "557",
-    "name": "CNN Portugal HD",
-    "lang": "pt",
-    "xmltv_id": "CNNPortugal.pt@SD"
-  },
-  {
-    "site_id": "377",
-    "name": "MTV Portugal HD",
-    "lang": "pt",
-    "xmltv_id": "MTV.pt@SD"
-  },
-  {
-    "site_id": "46",
-    "name": "NHK World TV",
-    "lang": "en",
-    "xmltv_id": "NHKWorldJapan.jp@SD"
-  },
-  {
-    "site_id": "242",
-    "name": "Star Movies HD",
-    "lang": "pt",
-    "xmltv_id": "StarMovies.pt@SD"
-  },
-  {
-    "site_id": "141",
-    "name": "TVCine TOP HD",
-    "lang": "pt",
-    "xmltv_id": "TVCineTop.pt@SD"
-  },
-  {
-    "site_id": "448",
-    "name": "Baby TV",
-    "lang": "pt",
-    "xmltv_id": "BabyTV.uk@UK"
-  },
-  {
-    "site_id": "513",
-    "name": "DAZN 3",
-    "lang": "pt",
-    "xmltv_id": "DAZN3.uk@Portugal"
-  },
-  {
-    "site_id": "144",
-    "name": "SET Asia",
-    "lang": "en",
-    "xmltv_id": "SonyEntertainmentTelevisionAsia.in@SD"
-  },
-  {
-    "site_id": "708",
-    "name": "TV Zimbo",
-    "lang": "pt",
-    "xmltv_id": "TVZimboInternacional.ao@HD"
-  },
-  {
-    "site_id": "561",
-    "name": "Discovery HD",
-    "lang": "pt",
-    "xmltv_id": "DiscoveryChannel.pt@SD"
-  },
-  {
-    "site_id": "588",
-    "name": "Canal Galeria",
+    "site_id": "710",
+    "name": "HGTV",
     "lang": "pt"
-  },
-  {
-    "site_id": "108",
-    "name": "Al Jazeera",
-    "lang": "en",
-    "xmltv_id": "AlJazeera.qa@Arabic"
-  },
-  {
-    "site_id": "58",
-    "name": "Canal 180",
-    "lang": "pt",
-    "xmltv_id": "Canal180.pt@SD"
   },
   {
     "site_id": "717",
@@ -745,93 +35,52 @@
     "xmltv_id": "DaystarTVEspanol.us@SD"
   },
   {
-    "site_id": "554",
-    "name": "RTP 2 HD",
+    "site_id": "25",
+    "name": "Euronews",
     "lang": "pt",
-    "xmltv_id": "RTP2.pt@SD"
+    "xmltv_id": "EuronewsPortuguese.fr@SD"
   },
   {
-    "site_id": "143",
-    "name": "MAX",
-    "lang": "en",
-    "xmltv_id": "SonyMax.uk@SD"
-  },
-  {
-    "site_id": "543",
-    "name": "Trace Toca",
+    "site_id": "27",
+    "name": "RTP África",
     "lang": "pt",
-    "xmltv_id": "TraceToca.fr@SD"
+    "xmltv_id": "RTPAfrica.pt@SD"
   },
   {
-    "site_id": "719",
-    "name": "A Bola TV",
+    "site_id": "708",
+    "name": "TV Zimbo",
     "lang": "pt",
-    "xmltv_id": "ABolaTV.pt@SD"
+    "xmltv_id": "TVZimboInternacional.ao@HD"
   },
   {
-    "site_id": "565",
-    "name": "Canal 11 HD",
+    "site_id": "509",
+    "name": "AMC Break HD",
     "lang": "pt",
-    "xmltv_id": "Canal11.pt@SD"
+    "xmltv_id": "AMCBreak.pt@SD"
   },
   {
-    "site_id": "519",
-    "name": "DAZN 2",
+    "site_id": "121",
+    "name": "Cubavisión Internacional",
     "lang": "pt",
-    "xmltv_id": "DAZN2.uk@Portugal"
+    "xmltv_id": "CubavisionInternacional.cu@SD"
   },
   {
-    "site_id": "553",
-    "name": "SIC K HD",
+    "site_id": "139",
+    "name": "RTP 1 HD",
     "lang": "pt",
-    "xmltv_id": "SICK.pt@SD"
+    "xmltv_id": "RTP1.pt@SD"
   },
   {
-    "site_id": "39",
-    "name": "Sky News",
-    "lang": "en",
-    "xmltv_id": "SkyNewsAustralia.au@SD"
-  },
-  {
-    "site_id": "252",
-    "name": "Cartoon Network HD",
+    "site_id": "417",
+    "name": "SPORT TV+ HD",
     "lang": "pt",
-    "xmltv_id": "CartoonNetworkWesternEurope.uk@Portugal"
+    "xmltv_id": "SportTVPlus.pt@SD"
   },
   {
-    "site_id": "234",
-    "name": "KBS World HD",
-    "lang": "en",
-    "xmltv_id": "KBSWorld.kr@SD"
-  },
-  {
-    "site_id": "350",
-    "name": "Record",
+    "site_id": "33",
+    "name": "TeleSUR",
     "lang": "pt",
-    "xmltv_id": "RecordTVEuropa.pt@SD"
-  },
-  {
-    "site_id": "689",
-    "name": "Unifé TV",
-    "lang": "pt",
-    "xmltv_id": "UnifeTV.pt@SD"
-  },
-  {
-    "site_id": "124",
-    "name": "BNT World",
-    "lang": "pt"
-  },
-  {
-    "site_id": "202",
-    "name": "E! Entertainment HD",
-    "lang": "pt",
-    "xmltv_id": "E.fr@SD"
-  },
-  {
-    "site_id": "705",
-    "name": "NewsNOW",
-    "lang": "pt",
-    "xmltv_id": "NewsNow.pt@SD"
+    "xmltv_id": "Telesur.ve@SD"
   },
   {
     "site_id": "30",
@@ -840,93 +89,63 @@
     "xmltv_id": "RecordNews.br@SD"
   },
   {
-    "site_id": "175",
-    "name": "Star Life HD",
+    "site_id": "174",
+    "name": "Star Channel HD",
     "lang": "pt",
-    "xmltv_id": "StarLife.pt@SD"
+    "xmltv_id": "StarChannel.pt@SD"
   },
   {
-    "site_id": "714",
-    "name": "TDM",
+    "site_id": "574",
+    "name": "V+TVI",
     "lang": "pt",
-    "xmltv_id": "CanalMacau.mo@SD"
+    "xmltv_id": "VPlusTVI.pt@SD"
   },
   {
-    "site_id": "447",
-    "name": "Globo HD",
-    "lang": "pt",
-    "xmltv_id": "Globo.pt@SD"
-  },
-  {
-    "site_id": "229",
-    "name": "Localvisão TV HD",
-    "lang": "pt",
-    "xmltv_id": "LocalVisaoTV.pt@SD"
-  },
-  {
-    "site_id": "679",
-    "name": "Nautical Channel",
+    "site_id": "312",
+    "name": "CGTN",
     "lang": "en",
-    "xmltv_id": "NauticalChannel.it@SD"
+    "xmltv_id": "CGTN.cn@SD"
   },
   {
-    "site_id": "444",
-    "name": "Nick Jr.",
-    "lang": "pt",
-    "xmltv_id": "NickJr.pt@SD"
-  },
-  {
-    "site_id": "42",
-    "name": "Stingray iConcerts HD",
+    "site_id": "236",
+    "name": "Fight Network HD",
     "lang": "en",
-    "xmltv_id": "StingrayiConcerts.ca@SD"
+    "xmltv_id": "FightNetwork.ca@SD"
   },
   {
-    "site_id": "702",
-    "name": "Dizi",
+    "site_id": "167",
+    "name": "MyZen TV",
+    "lang": "en",
+    "xmltv_id": "MyZenTV.fr@SD"
+  },
+  {
+    "site_id": "94",
+    "name": "Nickelodeon",
     "lang": "pt",
-    "xmltv_id": "TimelessDiziChannel.ro@SD"
+    "xmltv_id": "Nickelodeon.pt@SD"
   },
   {
-    "site_id": "682",
-    "name": "Canal Convidado",
+    "site_id": "124",
+    "name": "BNT World",
     "lang": "pt"
   },
   {
-    "site_id": "244",
-    "name": "Star Crime HD",
+    "site_id": "176",
+    "name": "Biggs",
     "lang": "pt",
-    "xmltv_id": "StarCrime.pt@SD"
+    "xmltv_id": "Biggs.pt@SD"
   },
   {
-    "site_id": "138",
-    "name": "TPA Notícias",
+    "site_id": "572",
+    "name": "Casa e Cozinha HD",
     "lang": "pt",
-    "xmltv_id": "TPAi.ao@SD"
+    "xmltv_id": "CasaeCozinha.pt@SD"
   },
   {
-    "site_id": "514",
-    "name": "DAZN 4",
-    "lang": "pt",
-    "xmltv_id": "DAZN4.uk@Portugal"
-  },
-  {
-    "site_id": "25",
-    "name": "Euronews",
-    "lang": "pt",
-    "xmltv_id": "EuronewsPortuguese.fr@SD"
-  },
-  {
-    "site_id": "563",
-    "name": "Eurosport 2 HD",
-    "lang": "pt",
-    "xmltv_id": "Eurosport2.fr@France"
-  },
-  {
-    "site_id": "426",
-    "name": "Kuriakos TV",
-    "lang": "pt",
-    "xmltv_id": "KuriakosTV.pt@SD"
+    "site_id": "37",
+    "name": "M6",
+    "lang": "fr",
+    "xmltv_id": "M6.fr@HD"
   },
   {
     "site_id": "200",
@@ -935,15 +154,10 @@
     "xmltv_id": "RTLSuper.de@SD"
   },
   {
-    "site_id": "53",
-    "name": "TV5 Monde",
-    "lang": "fr",
-    "xmltv_id": "TV5MondeEurope.fr@SD"
-  },
-  {
-    "site_id": "680",
-    "name": "Horse TV",
-    "lang": "en"
+    "site_id": "244",
+    "name": "Star Crime HD",
+    "lang": "pt",
+    "xmltv_id": "StarCrime.pt@SD"
   },
   {
     "site_id": "129",
@@ -951,9 +165,795 @@
     "lang": "pt"
   },
   {
+    "site_id": "425",
+    "name": "CMTV HD",
+    "lang": "pt",
+    "xmltv_id": "CMTV.pt@SD"
+  },
+  {
+    "site_id": "513",
+    "name": "DAZN 3",
+    "lang": "pt",
+    "xmltv_id": "DAZN3.uk@Portugal"
+  },
+  {
+    "site_id": "145",
+    "name": "Eurosport 1 HD",
+    "lang": "pt",
+    "xmltv_id": "Eurosport1.fr@France"
+  },
+  {
+    "site_id": "223",
+    "name": "TVCine EMOTION HD",
+    "lang": "pt",
+    "xmltv_id": "TVCineEmotion.pt@SD"
+  },
+  {
+    "site_id": "567",
+    "name": "TVI Reality HD",
+    "lang": "pt",
+    "xmltv_id": "TVIReality.pt@SD"
+  },
+  {
+    "site_id": "547",
+    "name": "NOS Studios HD",
+    "lang": "pt",
+    "xmltv_id": "NosStudios.pt@SD"
+  },
+  {
+    "site_id": "350",
+    "name": "Record",
+    "lang": "pt",
+    "xmltv_id": "RecordTVEuropa.pt@SD"
+  },
+  {
+    "site_id": "553",
+    "name": "SIC K HD",
+    "lang": "pt",
+    "xmltv_id": "SICK.pt@SD"
+  },
+  {
+    "site_id": "593",
+    "name": "Canal Panda HD",
+    "lang": "pt",
+    "xmltv_id": "CanalPanda.pt@SD"
+  },
+  {
+    "site_id": "252",
+    "name": "Cartoon Network HD",
+    "lang": "pt",
+    "xmltv_id": "CartoonNetworkWesternEurope.uk@Portugal"
+  },
+  {
+    "site_id": "447",
+    "name": "Globo HD",
+    "lang": "pt",
+    "xmltv_id": "Globo.pt@SD"
+  },
+  {
+    "site_id": "234",
+    "name": "KBS World HD",
+    "lang": "en",
+    "xmltv_id": "KBSWorld.kr@SD"
+  },
+  {
+    "site_id": "46",
+    "name": "NHK World TV",
+    "lang": "en",
+    "xmltv_id": "NHKWorldJapan.jp@SD"
+  },
+  {
+    "site_id": "719",
+    "name": "A Bola TV",
+    "lang": "pt",
+    "xmltv_id": "ABolaTV.pt@SD"
+  },
+  {
+    "site_id": "175",
+    "name": "Star Life HD",
+    "lang": "pt",
+    "xmltv_id": "StarLife.pt@SD"
+  },
+  {
+    "site_id": "242",
+    "name": "Star Movies HD",
+    "lang": "pt",
+    "xmltv_id": "StarMovies.pt@SD"
+  },
+  {
+    "site_id": "42",
+    "name": "Stingray iConcerts HD",
+    "lang": "en",
+    "xmltv_id": "StingrayiConcerts.ca@SD"
+  },
+  {
+    "site_id": "243",
+    "name": "24Kitchen HD",
+    "lang": "pt",
+    "xmltv_id": "24Kitchen.us@Portugal"
+  },
+  {
+    "site_id": "415",
+    "name": "AMC HD",
+    "lang": "pt",
+    "xmltv_id": "AMCEurope.uk@Portugal"
+  },
+  {
+    "site_id": "561",
+    "name": "Discovery HD",
+    "lang": "pt",
+    "xmltv_id": "DiscoveryChannel.pt@SD"
+  },
+  {
+    "site_id": "47",
+    "name": "FTV HD",
+    "lang": "pt",
+    "xmltv_id": "FashionTVHD.fr@SD"
+  },
+  {
+    "site_id": "544",
+    "name": "Canal História HD",
+    "lang": "pt",
+    "xmltv_id": "Historia.pt@SD"
+  },
+  {
+    "site_id": "418",
+    "name": "SIC HD",
+    "lang": "pt",
+    "xmltv_id": "SIC.pt@SD"
+  },
+  {
+    "site_id": "704",
+    "name": "Trace Brasil",
+    "lang": "pt",
+    "xmltv_id": "TraceBrazuca.fr@SD"
+  },
+  {
     "site_id": "172",
     "name": "TVE 24h",
     "lang": "pt",
     "xmltv_id": "24Horas.es@SD"
+  },
+  {
+    "site_id": "49",
+    "name": "ARTV",
+    "lang": "pt",
+    "xmltv_id": "ARTV.pt@SD"
+  },
+  {
+    "site_id": "134",
+    "name": "National Geographic HD",
+    "lang": "pt",
+    "xmltv_id": "NationalGeographic.pt@SD"
+  },
+  {
+    "site_id": "679",
+    "name": "Nautical Channel",
+    "lang": "en",
+    "xmltv_id": "NauticalChannel.it@SD"
+  },
+  {
+    "site_id": "554",
+    "name": "RTP 2 HD",
+    "lang": "pt",
+    "xmltv_id": "RTP2.pt@SD"
+  },
+  {
+    "site_id": "24",
+    "name": "1+1",
+    "lang": "en",
+    "xmltv_id": "1Plus1International.ua@SD"
+  },
+  {
+    "site_id": "718",
+    "name": "Daystar",
+    "lang": "pt",
+    "xmltv_id": "DaystarTV.us@SD"
+  },
+  {
+    "site_id": "115",
+    "name": "DW",
+    "lang": "en",
+    "xmltv_id": "DW.de@English"
+  },
+  {
+    "site_id": "109",
+    "name": "France 24 (I)",
+    "lang": "en",
+    "xmltv_id": "France24.fr@English"
+  },
+  {
+    "site_id": "50",
+    "name": "Mezzo",
+    "lang": "pt",
+    "xmltv_id": "Mezzo.fr@SD"
+  },
+  {
+    "site_id": "53",
+    "name": "TV5 Monde",
+    "lang": "fr",
+    "xmltv_id": "TV5MondeEurope.fr@SD"
+  },
+  {
+    "site_id": "224",
+    "name": "TVCine ACTION HD",
+    "lang": "pt",
+    "xmltv_id": "TVCineAction.pt@SD"
+  },
+  {
+    "site_id": "448",
+    "name": "Baby TV",
+    "lang": "pt",
+    "xmltv_id": "BabyTV.uk@UK"
+  },
+  {
+    "site_id": "245",
+    "name": "BTV1 HD",
+    "lang": "pt",
+    "xmltv_id": "BenficaTV.pt@SD"
+  },
+  {
+    "site_id": "563",
+    "name": "Eurosport 2 HD",
+    "lang": "pt",
+    "xmltv_id": "Eurosport2.fr@France"
+  },
+  {
+    "site_id": "144",
+    "name": "SET Asia",
+    "lang": "en",
+    "xmltv_id": "SonyEntertainmentTelevisionAsia.in@SD"
+  },
+  {
+    "site_id": "510",
+    "name": "S+ HD",
+    "lang": "pt",
+    "xmltv_id": "SPlus.pt@SD"
+  },
+  {
+    "site_id": "23",
+    "name": "TLC",
+    "lang": "pt",
+    "xmltv_id": "TLC.pt@SD"
+  },
+  {
+    "site_id": "72",
+    "name": "Fuel TV HD",
+    "lang": "pt",
+    "xmltv_id": "FUELTV.pt@EMEA"
+  },
+  {
+    "site_id": "165",
+    "name": "Russia Today",
+    "lang": "pt",
+    "xmltv_id": "RT.ru@SD"
+  },
+  {
+    "site_id": "697",
+    "name": "New Brasil",
+    "lang": "pt"
+  },
+  {
+    "site_id": "705",
+    "name": "NewsNOW",
+    "lang": "pt",
+    "xmltv_id": "NewsNow.pt@SD"
+  },
+  {
+    "site_id": "689",
+    "name": "Unifé TV",
+    "lang": "pt",
+    "xmltv_id": "UnifeTV.pt@SD"
+  },
+  {
+    "site_id": "565",
+    "name": "Canal 11 HD",
+    "lang": "pt",
+    "xmltv_id": "Canal11.pt@SD"
+  },
+  {
+    "site_id": "721",
+    "name": "Conta Lá",
+    "lang": "pt",
+    "xmltv_id": "ContaLa.pt@HD"
+  },
+  {
+    "site_id": "117",
+    "name": "RTR Planeta",
+    "lang": "pt",
+    "xmltv_id": "RTRPlaneta.ru@Europe"
+  },
+  {
+    "site_id": "108",
+    "name": "Al Jazeera",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@Arabic"
+  },
+  {
+    "site_id": "75",
+    "name": "AXN White HD",
+    "lang": "pt",
+    "xmltv_id": "AXNWhite.us@Portugal"
+  },
+  {
+    "site_id": "28",
+    "name": "BVN",
+    "lang": "nl",
+    "xmltv_id": "BVN.nl@SD"
+  },
+  {
+    "site_id": "420",
+    "name": "SIC Mulher HD",
+    "lang": "pt",
+    "xmltv_id": "SICMulher.pt@SD"
+  },
+  {
+    "site_id": "237",
+    "name": "TCV Internacional",
+    "lang": "pt",
+    "xmltv_id": "TCVInternacional.cv@SD"
+  },
+  {
+    "site_id": "556",
+    "name": "RTP Notícias HD",
+    "lang": "pt",
+    "xmltv_id": "RTPNoticias.pt@HD"
+  },
+  {
+    "site_id": "247",
+    "name": "SPORT TV4 HD",
+    "lang": "pt",
+    "xmltv_id": "SportTV4.pt@SD"
+  },
+  {
+    "site_id": "48",
+    "name": "TVEi",
+    "lang": "es",
+    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
+  },
+  {
+    "site_id": "123",
+    "name": "TVR Internacional",
+    "lang": "pt",
+    "xmltv_id": "TVRInternational.ro@SD"
+  },
+  {
+    "site_id": "272",
+    "name": "Afro Music Channel",
+    "lang": "pt",
+    "xmltv_id": "AfroMusicChannel.ao@SD"
+  },
+  {
+    "site_id": "52",
+    "name": "CNBC",
+    "lang": "en",
+    "xmltv_id": "CNBCEurope.uk@SD"
+  },
+  {
+    "site_id": "202",
+    "name": "E! Entertainment HD",
+    "lang": "pt",
+    "xmltv_id": "E.fr@SD"
+  },
+  {
+    "site_id": "419",
+    "name": "SIC Notícias HD",
+    "lang": "pt",
+    "xmltv_id": "SICNoticias.pt@SD"
+  },
+  {
+    "site_id": "65",
+    "name": "Trace Urban HD",
+    "lang": "pt",
+    "xmltv_id": "TraceUrban.fr@SD"
+  },
+  {
+    "site_id": "682",
+    "name": "Canal Convidado",
+    "lang": "pt"
+  },
+  {
+    "site_id": "557",
+    "name": "CNN Portugal HD",
+    "lang": "pt",
+    "xmltv_id": "CNNPortugal.pt@SD"
+  },
+  {
+    "site_id": "530",
+    "name": "ID Investigation Discovery",
+    "lang": "pt",
+    "xmltv_id": "InvestigationDiscoveryEurope.us@SD"
+  },
+  {
+    "site_id": "229",
+    "name": "Localvisão TV HD",
+    "lang": "pt",
+    "xmltv_id": "LocalVisaoTV.pt@SD"
+  },
+  {
+    "site_id": "80",
+    "name": "RTP Memória",
+    "lang": "pt",
+    "xmltv_id": "RTPMemoria.pt@SD"
+  },
+  {
+    "site_id": "538",
+    "name": "ZAP Viva HD",
+    "lang": "pt",
+    "xmltv_id": "ZapViva.ao@SD"
+  },
+  {
+    "site_id": "41",
+    "name": "ARTE",
+    "lang": "fr",
+    "xmltv_id": "arte.fr@SD"
+  },
+  {
+    "site_id": "235",
+    "name": "Canal Q",
+    "lang": "pt",
+    "xmltv_id": "CanalQ.pt@SD"
+  },
+  {
+    "site_id": "713",
+    "name": "Cartoonito",
+    "lang": "pt",
+    "xmltv_id": "Cartoonito.pt@SD"
+  },
+  {
+    "site_id": "316",
+    "name": "CCTV 4",
+    "lang": "en",
+    "xmltv_id": "CCTV4Europe.cn@SD"
+  },
+  {
+    "site_id": "187",
+    "name": "SPORT TV2 HD",
+    "lang": "pt",
+    "xmltv_id": "SportTV2.pt@SD"
+  },
+  {
+    "site_id": "706",
+    "name": "Sport TV 7 HD",
+    "lang": "pt",
+    "xmltv_id": "SportTV7.pt@SD"
+  },
+  {
+    "site_id": "70",
+    "name": "Travel Channel HD",
+    "lang": "pt",
+    "xmltv_id": "TravelChannelEMEA.uk@SD"
+  },
+  {
+    "site_id": "441",
+    "name": "ODISSEIA HD",
+    "lang": "pt",
+    "xmltv_id": "Odisseia.pt@SD"
+  },
+  {
+    "site_id": "194",
+    "name": "AXN Movies HD",
+    "lang": "pt",
+    "xmltv_id": "AXNMovies.pt@SD"
+  },
+  {
+    "site_id": "44",
+    "name": "Bloomberg",
+    "lang": "en",
+    "xmltv_id": "BloombergTV.us@Europe"
+  },
+  {
+    "site_id": "519",
+    "name": "DAZN 2",
+    "lang": "pt",
+    "xmltv_id": "DAZN2.uk@Portugal"
+  },
+  {
+    "site_id": "514",
+    "name": "DAZN 4",
+    "lang": "pt",
+    "xmltv_id": "DAZN4.uk@Portugal"
+  },
+  {
+    "site_id": "54",
+    "name": "TV Galicia",
+    "lang": "pt",
+    "xmltv_id": "GaliciaTVEuropa.es@SD"
+  },
+  {
+    "site_id": "709",
+    "name": "SIC Novelas",
+    "lang": "pt",
+    "xmltv_id": "SICNovelas.pt@SD"
+  },
+  {
+    "site_id": "422",
+    "name": "SIC Radical HD",
+    "lang": "pt",
+    "xmltv_id": "SICRadical.pt@SD"
+  },
+  {
+    "site_id": "423",
+    "name": "Porto Canal HD",
+    "lang": "pt",
+    "xmltv_id": "PortoCanal.pt@SD"
+  },
+  {
+    "site_id": "26",
+    "name": "CNN",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "377",
+    "name": "MTV Portugal HD",
+    "lang": "pt",
+    "xmltv_id": "MTV.pt@SD"
+  },
+  {
+    "site_id": "142",
+    "name": "Canção Nova",
+    "lang": "pt",
+    "xmltv_id": "TVCancaoNova.pt@SD"
+  },
+  {
+    "site_id": "141",
+    "name": "TVCine TOP HD",
+    "lang": "pt",
+    "xmltv_id": "TVCineTop.pt@SD"
+  },
+  {
+    "site_id": "701",
+    "name": "W-Sport",
+    "lang": "en",
+    "xmltv_id": "WSport.za@SD"
+  },
+  {
+    "site_id": "518",
+    "name": "DAZN 1",
+    "lang": "pt",
+    "xmltv_id": "DAZN1.uk@Portugal"
+  },
+  {
+    "site_id": "356",
+    "name": "Mezzo Live HD",
+    "lang": "en",
+    "xmltv_id": "MezzoLive.fr@SD"
+  },
+  {
+    "site_id": "354",
+    "name": "Motorvision HD",
+    "lang": "pt",
+    "xmltv_id": "Motorvision.de@SD"
+  },
+  {
+    "site_id": "113",
+    "name": "Star Comedy HD",
+    "lang": "pt",
+    "xmltv_id": "StarComedy.pt@SD"
+  },
+  {
+    "site_id": "138",
+    "name": "TPA Notícias",
+    "lang": "pt",
+    "xmltv_id": "TPAi.ao@SD"
+  },
+  {
+    "site_id": "14",
+    "name": "Canal Hollywood HD",
+    "lang": "pt",
+    "xmltv_id": "CanalHollywood.pt@SD"
+  },
+  {
+    "site_id": "515",
+    "name": "DAZN 5",
+    "lang": "pt",
+    "xmltv_id": "DAZN5.uk@Portugal"
+  },
+  {
+    "site_id": "673",
+    "name": "Disney Junior HD",
+    "lang": "pt",
+    "xmltv_id": "DisneyJunior.pt@SD"
+  },
+  {
+    "site_id": "371",
+    "name": "DOGTV",
+    "lang": "pt",
+    "xmltv_id": "DogTV.us@SD"
+  },
+  {
+    "site_id": "132",
+    "name": "France 24 (F)",
+    "lang": "fr",
+    "xmltv_id": "France24.fr@French"
+  },
+  {
+    "site_id": "444",
+    "name": "Nick Jr.",
+    "lang": "pt",
+    "xmltv_id": "NickJr.pt@SD"
+  },
+  {
+    "site_id": "106",
+    "name": "RTP Açores",
+    "lang": "pt",
+    "xmltv_id": "RTPAcores.pt@SD"
+  },
+  {
+    "site_id": "137",
+    "name": "SPORT TV1 HD",
+    "lang": "pt",
+    "xmltv_id": "SportTV1.pt@SD"
+  },
+  {
+    "site_id": "680",
+    "name": "Horse TV",
+    "lang": "en"
+  },
+  {
+    "site_id": "545",
+    "name": "AMC Crime HD",
+    "lang": "pt",
+    "xmltv_id": "AMCCrime.pt@SD"
+  },
+  {
+    "site_id": "714",
+    "name": "TDM",
+    "lang": "pt",
+    "xmltv_id": "CanalMacau.mo@SD"
+  },
+  {
+    "site_id": "421",
+    "name": "SIC Caras HD",
+    "lang": "pt",
+    "xmltv_id": "SICCaras.pt@SD"
+  },
+  {
+    "site_id": "143",
+    "name": "MAX",
+    "lang": "en",
+    "xmltv_id": "SonyMax.uk@SD"
+  },
+  {
+    "site_id": "74",
+    "name": "TVCine EDITION HD",
+    "lang": "pt",
+    "xmltv_id": "TVCineEdition.pt@SD"
+  },
+  {
+    "site_id": "111",
+    "name": "Globo News",
+    "lang": "pt",
+    "xmltv_id": "GloboNow.pt@SD"
+  },
+  {
+    "site_id": "34",
+    "name": "MCM Top",
+    "lang": "en",
+    "xmltv_id": "MCMTop.fr@SD"
+  },
+  {
+    "site_id": "343",
+    "name": "STV Notícias",
+    "lang": "pt",
+    "xmltv_id": "STVNoticias.mz@SD"
+  },
+  {
+    "site_id": "543",
+    "name": "Trace Toca",
+    "lang": "pt",
+    "xmltv_id": "TraceToca.fr@SD"
+  },
+  {
+    "site_id": "62",
+    "name": "Food Network HD",
+    "lang": "pt",
+    "xmltv_id": "FoodNetworkEMEA.us@SD"
+  },
+  {
+    "site_id": "107",
+    "name": "RTP Madeira",
+    "lang": "pt",
+    "xmltv_id": "RTPMadeira.pt@SD"
+  },
+  {
+    "site_id": "39",
+    "name": "Sky News",
+    "lang": "en",
+    "xmltv_id": "SkyNewsAustralia.au@SD"
+  },
+  {
+    "site_id": "188",
+    "name": "SPORT TV3 HD",
+    "lang": "pt",
+    "xmltv_id": "SportTV3.pt@SD"
+  },
+  {
+    "site_id": "571",
+    "name": "Azores TV",
+    "lang": "pt",
+    "xmltv_id": "VITECAzoresTV.pt@SD"
+  },
+  {
+    "site_id": "408",
+    "name": "Canal NOS HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "694",
+    "name": "OneToro TV",
+    "lang": "pt"
+  },
+  {
+    "site_id": "83",
+    "name": "National Geographic WILD HD",
+    "lang": "en",
+    "xmltv_id": "NationalGeographicWild.pt@SD"
+  },
+  {
+    "site_id": "597",
+    "name": "Panda KIDS",
+    "lang": "pt",
+    "xmltv_id": "PandaKids.pt@SD"
+  },
+  {
+    "site_id": "55",
+    "name": "Rai Italia",
+    "lang": "pt",
+    "xmltv_id": "RaiItalia.it@EuropeAfrica"
+  },
+  {
+    "site_id": "40",
+    "name": "RTL",
+    "lang": "de",
+    "xmltv_id": "RTL.hr@SD"
+  },
+  {
+    "site_id": "180",
+    "name": "SPORT TV5 HD",
+    "lang": "pt",
+    "xmltv_id": "SportTV5.pt@SD"
+  },
+  {
+    "site_id": "594",
+    "name": "Disney Channel HD",
+    "lang": "pt",
+    "xmltv_id": "DisneyChannel.pt@SD"
+  },
+  {
+    "site_id": "58",
+    "name": "Canal 180",
+    "lang": "pt",
+    "xmltv_id": "Canal180.pt@SD"
+  },
+  {
+    "site_id": "426",
+    "name": "Kuriakos TV",
+    "lang": "pt",
+    "xmltv_id": "KuriakosTV.pt@SD"
+  },
+  {
+    "site_id": "610",
+    "name": "Sport TV 6 HD",
+    "lang": "pt",
+    "xmltv_id": "SportTV6.pt@SD"
+  },
+  {
+    "site_id": "588",
+    "name": "Canal Galeria",
+    "lang": "pt"
+  },
+  {
+    "site_id": "161",
+    "name": "AXN HD",
+    "lang": "pt",
+    "xmltv_id": "AXN.pt@SD"
+  },
+  {
+    "site_id": "368",
+    "name": "MCM Pop",
+    "lang": "pt",
+    "xmltv_id": "MCMPop.fr@SD"
   }
 ]

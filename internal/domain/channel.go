@@ -9,5 +9,6 @@ type Channel struct {
 	Logo    string `json:"logo,omitempty"`
 	Genre   string `json:"genre,omitempty"`
 	Quality string `json:"quality,omitempty"`
+	Region  string `json:"region,omitempty"`
 	XmltvID string `json:"xmltv_id"`
 }
