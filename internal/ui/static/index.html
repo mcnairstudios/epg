@@ -250,9 +250,8 @@
           <div class="card">
             <h3>${name}</h3>
             <p style="font-size:11px;color:#8b98a5;">${reason}</p>
-            <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
+            <div style="margin-top:8px;">
               <button class="btn btn-success" onclick="grabSleepingSource('${safeN}')">Grab</button>
-              <button class="btn btn-primary" onclick="toggleSleep('${safeN}');loadSleepingSources();">Wake Up</button>
             </div>
           </div>
         `;
@@ -330,11 +329,10 @@
             ? '<button class="btn" style="background:#d97706;color:white;" disabled>Grabbing...</button>'
             : `<button class="btn btn-success" onclick="${s._grabFn}('${safeNameAttr}')">Grab</button>`;
           const removeBtn = isExternal ? `<button class="btn btn-danger" onclick="removeExternal('${safeNameAttr}')">Remove</button>` : '';
-          const sleepBtn = `<button class="btn" style="background:#374151;color:#9ca3af;font-size:11px;padding:2px 8px;" onclick="event.stopPropagation();toggleSleep('${safeNameAttr}')" title="Put to sleep">zzz</button>`;
+          const sleepBtn = '';
 
           return `
-            <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}position:relative;">
-              <div style="position:absolute;top:8px;right:8px;">${sleepBtn}</div>
+            <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}">
               <h3>${typeBadge}${s.name} ${statusBadge}</h3>
               ${subtitle}
               <div style="margin-top:2px;">${lastGrab}${errorInfo}</div>
