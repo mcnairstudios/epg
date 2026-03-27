@@ -1,18 +1,9 @@
 [
   {
-    "site_id": "476",
-    "name": "Sun Life",
-    "lang": "ms"
-  },
-  {
-    "site_id": "27",
-    "name": "OSAI",
-    "lang": "ms"
-  },
-  {
-    "site_id": "32",
-    "name": "KENYALANG",
-    "lang": "ms"
+    "site_id": "131",
+    "name": "AXN HD",
+    "lang": "en",
+    "xmltv_id": "AXNAsia.sg@Malaysia"
   },
   {
     "site_id": "193",
@@ -21,33 +12,10 @@
     "xmltv_id": "AstroRia.my@SD"
   },
   {
-    "site_id": "16",
-    "name": "OPUS",
-    "lang": "ms"
-  },
-  {
-    "site_id": "91",
-    "name": "Asian Food Network HD",
+    "site_id": "392",
+    "name": "Nick Jr.",
     "lang": "en",
-    "xmltv_id": "AsianFoodNetwork.sg@SD"
-  },
-  {
-    "site_id": "189",
-    "name": "Golf Channel",
-    "lang": "en",
-    "xmltv_id": "GolfChannel.my@SD"
-  },
-  {
-    "site_id": "297",
-    "name": "Zee Tamil HD",
-    "lang": "en",
-    "xmltv_id": "ZeeTamil.in@SD"
-  },
-  {
-    "site_id": "366",
-    "name": "BBC News HD",
-    "lang": "en",
-    "xmltv_id": "BBCNews.uk@AsiaPacific"
+    "xmltv_id": "NickJrAsia.sg@SD"
   },
   {
     "site_id": "465",
@@ -56,21 +24,253 @@
     "xmltv_id": "MoonbugKids.uk@SD"
   },
   {
-    "site_id": "487",
-    "name": "Arena Bola 2",
+    "site_id": "20",
+    "name": "CLASSIC ROCK",
     "lang": "ms"
   },
   {
-    "site_id": "133",
-    "name": "ONE HD",
+    "site_id": "134",
+    "name": "Celestial Movies HD",
     "lang": "en",
-    "xmltv_id": "ONE.sg@SD"
+    "xmltv_id": "CelestialMoviesMalaysia.my@SD"
   },
   {
-    "site_id": "198",
-    "name": "HGTV HD",
+    "site_id": "472",
+    "name": "Love Nature 4K",
+    "lang": "ms"
+  },
+  {
+    "site_id": "48",
+    "name": "TV9",
+    "lang": "ms",
+    "xmltv_id": "TV9.my@SD"
+  },
+  {
+    "site_id": "393",
+    "name": "Premier Sports Rugby",
     "lang": "en",
-    "xmltv_id": "HGTVAsia.us@SD"
+    "xmltv_id": "PremierSports1Asia.ie@SD"
+  },
+  {
+    "site_id": "457",
+    "name": "Astro Arena 2",
+    "lang": "ms",
+    "xmltv_id": "AstroArena2.my@SD"
+  },
+  {
+    "site_id": "295",
+    "name": "CNA HD",
+    "lang": "en",
+    "xmltv_id": "CNA.sg@SD"
+  },
+  {
+    "site_id": "396",
+    "name": "TV2 HD",
+    "lang": "ms",
+    "xmltv_id": "TV2.my@SD"
+  },
+  {
+    "site_id": "539",
+    "name": "Astro Football",
+    "lang": "ms"
+  },
+  {
+    "site_id": "540",
+    "name": "Astro Badminton",
+    "lang": "ms"
+  },
+  {
+    "site_id": "21",
+    "name": "GOLD",
+    "lang": "ms"
+  },
+  {
+    "site_id": "160",
+    "name": "BERNAMA",
+    "lang": "ms",
+    "xmltv_id": "BernamaTV.my@SD"
+  },
+  {
+    "site_id": "236",
+    "name": "beIN SPORTS 1",
+    "lang": "en",
+    "xmltv_id": "beINSports.qa@MENA"
+  },
+  {
+    "site_id": "292",
+    "name": "ZAYAN",
+    "lang": "ms"
+  },
+  {
+    "site_id": "337",
+    "name": "CINEMAX HD",
+    "lang": "en",
+    "xmltv_id": "CinemaxAsia.sg@SD"
+  },
+  {
+    "site_id": "503",
+    "name": "W-Sport",
+    "lang": "ms"
+  },
+  {
+    "site_id": "541",
+    "name": "Astro Badminton 2",
+    "lang": "ms"
+  },
+  {
+    "site_id": "313",
+    "name": "beIN SPORTS 3",
+    "lang": "en",
+    "xmltv_id": "beINSports3.qa@MENA"
+  },
+  {
+    "site_id": "357",
+    "name": "Star Vijay HD",
+    "lang": "en",
+    "xmltv_id": "StarVijay.in@SD"
+  },
+  {
+    "site_id": "370",
+    "name": "Nickelodeon HD",
+    "lang": "en",
+    "xmltv_id": "NickelodeonAsia.sg@SD"
+  },
+  {
+    "site_id": "376",
+    "name": "Discovery Channel HD",
+    "lang": "en",
+    "xmltv_id": "DiscoveryChannel.id@SD"
+  },
+  {
+    "site_id": "524",
+    "name": "HITS NOW",
+    "lang": "ms"
+  },
+  {
+    "site_id": "425",
+    "name": "TVB Classic HD",
+    "lang": "en",
+    "xmltv_id": "TVBClassic.hk@SD"
+  },
+  {
+    "site_id": "394",
+    "name": "Smithsonian Channel",
+    "lang": "ms"
+  },
+  {
+    "site_id": "30",
+    "name": "THR RAAGA",
+    "lang": "ms"
+  },
+  {
+    "site_id": "144",
+    "name": "History HD",
+    "lang": "en",
+    "xmltv_id": "HistoryAsia.us@SD"
+  },
+  {
+    "site_id": "161",
+    "name": "KBS World HD",
+    "lang": "en",
+    "xmltv_id": "KBSWorld.kr@SD"
+  },
+  {
+    "site_id": "297",
+    "name": "Zee Tamil HD",
+    "lang": "en",
+    "xmltv_id": "ZeeTamil.in@SD"
+  },
+  {
+    "site_id": "311",
+    "name": "MINNAL FM",
+    "lang": "ms"
+  },
+  {
+    "site_id": "312",
+    "name": "TRAXX FM",
+    "lang": "ms"
+  },
+  {
+    "site_id": "366",
+    "name": "BBC News HD",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@AsiaPacific"
+  },
+  {
+    "site_id": "16",
+    "name": "OPUS",
+    "lang": "ms"
+  },
+  {
+    "site_id": "274",
+    "name": "tvN Movies HD",
+    "lang": "en",
+    "xmltv_id": "tvNMoviesAsia.hk@SD"
+  },
+  {
+    "site_id": "411",
+    "name": "Astro Tutor TV",
+    "lang": "ms",
+    "xmltv_id": "AstroTutorTVSPM.my@SD"
+  },
+  {
+    "site_id": "452",
+    "name": "BBC Earth",
+    "lang": "en",
+    "xmltv_id": "BBCEarth.uk@Asia"
+  },
+  {
+    "site_id": "459",
+    "name": "BBC Brit HD",
+    "lang": "ms"
+  },
+  {
+    "site_id": "537",
+    "name": "Astro Premier League 2",
+    "lang": "ms"
+  },
+  {
+    "site_id": "538",
+    "name": "Astro Premier League 3",
+    "lang": "ms"
+  },
+  {
+    "site_id": "14",
+    "name": "ERA FM",
+    "lang": "ms"
+  },
+  {
+    "site_id": "19",
+    "name": "LITE FM",
+    "lang": "ms"
+  },
+  {
+    "site_id": "106",
+    "name": "TV3",
+    "lang": "ms",
+    "xmltv_id": "TV3.my@SD"
+  },
+  {
+    "site_id": "158",
+    "name": "Astro QJ",
+    "lang": "en"
+  },
+  {
+    "site_id": "454",
+    "name": "Astro Showcase",
+    "lang": "en",
+    "xmltv_id": "ShowcaseMovies.my@SD"
+  },
+  {
+    "site_id": "26",
+    "name": "SINAR FM",
+    "lang": "ms"
+  },
+  {
+    "site_id": "179",
+    "name": "HITS HD",
+    "lang": "en",
+    "xmltv_id": "HITS.sg@SD"
   },
   {
     "site_id": "310",
@@ -78,33 +278,82 @@
     "lang": "ms"
   },
   {
-    "site_id": "566",
-    "name": "Blippi \u0026 Friends",
+    "site_id": "355",
+    "name": "iQIYI HD",
+    "lang": "en",
+    "xmltv_id": "iQIYI.cn@SD"
+  },
+  {
+    "site_id": "560",
+    "name": "KITA",
     "lang": "ms"
   },
   {
-    "site_id": "172",
-    "name": "Astro AOD",
+    "site_id": "289",
+    "name": "France24",
     "lang": "en",
-    "xmltv_id": "AstroAOD311.my@SD"
+    "xmltv_id": "France24.fr@English"
   },
   {
-    "site_id": "338",
-    "name": "TLC HD",
+    "site_id": "298",
+    "name": "Colors Tamil HD",
     "lang": "en",
-    "xmltv_id": "TLCSoutheastAsia.sg@SD"
+    "xmltv_id": "ColorsTamil.in@SD"
   },
   {
-    "site_id": "383",
-    "name": "TVB Xing He HD",
+    "site_id": "382",
+    "name": "Phoenix Chinese Channel HD",
     "lang": "en",
-    "xmltv_id": "TVBXingHe.hk@SD"
+    "xmltv_id": "PhoenixChineseChannel.hk@SD"
+  },
+  {
+    "site_id": "427",
+    "name": "TVB Entertainment News HD",
+    "lang": "en",
+    "xmltv_id": "EntertainmentNews.hk@SD"
+  },
+  {
+    "site_id": "483",
+    "name": "Love Nature",
+    "lang": "ms"
+  },
+  {
+    "site_id": "15",
+    "name": "MY FM",
+    "lang": "ms"
+  },
+  {
+    "site_id": "136",
+    "name": "Discovery Asia HD",
+    "lang": "en",
+    "xmltv_id": "DiscoveryAsia.sg@SD"
+  },
+  {
+    "site_id": "400",
+    "name": "Astro Aura",
+    "lang": "ms",
+    "xmltv_id": "AstroAura.my@SD"
   },
   {
     "site_id": "456",
     "name": "SPOTV",
     "lang": "en",
     "xmltv_id": "SPOTV.kr@SD"
+  },
+  {
+    "site_id": "461",
+    "name": "ABC Australia HD",
+    "lang": "ms"
+  },
+  {
+    "site_id": "481",
+    "name": "CBeebies",
+    "lang": "ms"
+  },
+  {
+    "site_id": "536",
+    "name": "Astro Premier League",
+    "lang": "ms"
   },
   {
     "site_id": "17",
@@ -117,97 +366,9 @@
     "lang": "ms"
   },
   {
-    "site_id": "93",
-    "name": "NTV7",
-    "lang": "ms",
-    "xmltv_id": "NTV7.my@SD"
-  },
-  {
-    "site_id": "149",
-    "name": "Al-Hijrah",
-    "lang": "ms",
-    "xmltv_id": "TVAlhijrah.my@SD"
-  },
-  {
-    "site_id": "235",
-    "name": "Astro Arena",
-    "lang": "ms",
-    "xmltv_id": "AstroArena.my@SD"
-  },
-  {
-    "site_id": "392",
-    "name": "Nick Jr.",
-    "lang": "en",
-    "xmltv_id": "NickJrAsia.sg@SD"
-  },
-  {
-    "site_id": "399",
-    "name": "Astro Vellithirai HD",
-    "lang": "en",
-    "xmltv_id": "AstroVellithirai.my@SD"
-  },
-  {
-    "site_id": "400",
-    "name": "Astro Aura",
-    "lang": "ms",
-    "xmltv_id": "AstroAura.my@SD"
-  },
-  {
-    "site_id": "26",
-    "name": "SINAR FM",
+    "site_id": "28",
+    "name": "MELODY FM",
     "lang": "ms"
-  },
-  {
-    "site_id": "67",
-    "name": "Adithya",
-    "lang": "en",
-    "xmltv_id": "AdithyaTV.in@SD"
-  },
-  {
-    "site_id": "144",
-    "name": "History HD",
-    "lang": "en",
-    "xmltv_id": "HistoryAsia.us@SD"
-  },
-  {
-    "site_id": "236",
-    "name": "beIN SPORTS 1",
-    "lang": "en",
-    "xmltv_id": "beINSports.qa@MENA"
-  },
-  {
-    "site_id": "401",
-    "name": "Astro Rania",
-    "lang": "en",
-    "xmltv_id": "AstroRania.my@SD"
-  },
-  {
-    "site_id": "451",
-    "name": "BBC Lifestyle HD",
-    "lang": "en",
-    "xmltv_id": "BBCLifestyle.uk@Asia"
-  },
-  {
-    "site_id": "454",
-    "name": "Astro Showcase",
-    "lang": "en",
-    "xmltv_id": "ShowcaseMovies.my@SD"
-  },
-  {
-    "site_id": "490",
-    "name": "Zee Cinema",
-    "lang": "ms"
-  },
-  {
-    "site_id": "14",
-    "name": "ERA FM",
-    "lang": "ms"
-  },
-  {
-    "site_id": "162",
-    "name": "Astro Hua Hee Dai",
-    "lang": "en",
-    "xmltv_id": "AstroHuaHeeDai.my@SD"
   },
   {
     "site_id": "316",
@@ -216,142 +377,26 @@
     "xmltv_id": "AstroPrima.my@SD"
   },
   {
-    "site_id": "459",
-    "name": "BBC Brit HD",
-    "lang": "ms"
-  },
-  {
-    "site_id": "467",
-    "name": "TV Okey HD",
-    "lang": "ms"
-  },
-  {
-    "site_id": "478",
-    "name": "Sun News",
-    "lang": "ms"
-  },
-  {
     "site_id": "486",
     "name": "Arena Bola",
     "lang": "ms"
   },
   {
-    "site_id": "308",
-    "name": "Astro Sports UHD 805",
-    "lang": "en",
-    "xmltv_id": "AstroUHD.my@SD"
-  },
-  {
-    "site_id": "355",
-    "name": "iQIYI HD",
-    "lang": "en",
-    "xmltv_id": "iQIYI.cn@SD"
-  },
-  {
-    "site_id": "391",
-    "name": "HITS MOVIES HD",
-    "lang": "en",
-    "xmltv_id": "HITSMovies.sg@SD"
-  },
-  {
-    "site_id": "541",
-    "name": "Astro Badminton 2",
+    "site_id": "31",
+    "name": "BAYU",
     "lang": "ms"
   },
   {
-    "site_id": "542",
-    "name": "Astro Sports Plus",
-    "lang": "ms"
-  },
-  {
-    "site_id": "20",
-    "name": "CLASSIC ROCK",
-    "lang": "ms"
-  },
-  {
-    "site_id": "30",
-    "name": "THR RAAGA",
-    "lang": "ms"
-  },
-  {
-    "site_id": "136",
-    "name": "Discovery Asia HD",
-    "lang": "en",
-    "xmltv_id": "DiscoveryAsia.sg@SD"
-  },
-  {
-    "site_id": "161",
-    "name": "KBS World HD",
-    "lang": "en",
-    "xmltv_id": "KBSWorld.kr@SD"
-  },
-  {
-    "site_id": "295",
-    "name": "CNA HD",
-    "lang": "en",
-    "xmltv_id": "CNA.sg@SD"
-  },
-  {
-    "site_id": "303",
-    "name": "AI FM",
-    "lang": "ms"
-  },
-  {
-    "site_id": "474",
-    "name": "SPOTV2",
-    "lang": "ms"
-  },
-  {
-    "site_id": "536",
-    "name": "Astro Premier League",
-    "lang": "ms"
-  },
-  {
-    "site_id": "131",
-    "name": "AXN HD",
-    "lang": "en",
-    "xmltv_id": "AXNAsia.sg@Malaysia"
-  },
-  {
-    "site_id": "143",
-    "name": "HBO HD",
-    "lang": "en",
-    "xmltv_id": "HBOAsia.sg@Vietnam"
-  },
-  {
-    "site_id": "386",
-    "name": "Astro Ceria",
+    "site_id": "93",
+    "name": "NTV7",
     "lang": "ms",
-    "xmltv_id": "AstroCeria.my@SD"
+    "xmltv_id": "NTV7.my@SD"
   },
   {
-    "site_id": "395",
-    "name": "TV1 HD",
-    "lang": "ms",
-    "xmltv_id": "TV1.my@SD"
-  },
-  {
-    "site_id": "396",
-    "name": "TV2 HD",
-    "lang": "ms",
-    "xmltv_id": "TV2.my@SD"
-  },
-  {
-    "site_id": "449",
-    "name": "HBO Hits",
+    "site_id": "190",
+    "name": "tvN HD",
     "lang": "en",
-    "xmltv_id": "HBOHitsAsia.sg@SD"
-  },
-  {
-    "site_id": "452",
-    "name": "BBC Earth",
-    "lang": "en",
-    "xmltv_id": "BBCEarth.uk@Asia"
-  },
-  {
-    "site_id": "538",
-    "name": "Astro Premier League 3",
-    "lang": "ms"
+    "xmltv_id": "tvNAsia.hk@SD"
   },
   {
     "site_id": "197",
@@ -366,8 +411,8 @@
     "xmltv_id": "Jade.hk@SD"
   },
   {
-    "site_id": "292",
-    "name": "ZAYAN",
+    "site_id": "303",
+    "name": "AI FM",
     "lang": "ms"
   },
   {
@@ -377,38 +422,115 @@
     "xmltv_id": "SunTVMalaysia.my@SD"
   },
   {
-    "site_id": "394",
-    "name": "Smithsonian Channel",
+    "site_id": "420",
+    "name": "MTV Live",
+    "lang": "en",
+    "xmltv_id": "MTVAsia.sg@SD"
+  },
+  {
+    "site_id": "24",
+    "name": "JAZZ",
     "lang": "ms"
   },
   {
-    "site_id": "424",
-    "name": "CTI Asia HD",
-    "lang": "en",
-    "xmltv_id": "CTiAsia.tw@SD"
-  },
-  {
-    "site_id": "312",
-    "name": "TRAXX FM",
-    "lang": "ms"
-  },
-  {
-    "site_id": "417",
-    "name": "Sun Music HD",
-    "lang": "en",
-    "xmltv_id": "SunMusic.in@SD"
-  },
-  {
-    "site_id": "160",
-    "name": "BERNAMA",
+    "site_id": "149",
+    "name": "Al-Hijrah",
     "lang": "ms",
-    "xmltv_id": "BernamaTV.my@SD"
+    "xmltv_id": "TVAlhijrah.my@SD"
   },
   {
-    "site_id": "371",
-    "name": "Cartoon Network HD",
+    "site_id": "287",
+    "name": "DW English",
     "lang": "en",
-    "xmltv_id": "CartoonNetworkAsia.sg@SD"
+    "xmltv_id": "DW.de@English"
+  },
+  {
+    "site_id": "395",
+    "name": "TV1 HD",
+    "lang": "ms",
+    "xmltv_id": "TV1.my@SD"
+  },
+  {
+    "site_id": "428",
+    "name": "NHK World Premium",
+    "lang": "en",
+    "xmltv_id": "NHKWorldPremium.jp@SD"
+  },
+  {
+    "site_id": "482",
+    "name": "Global Trekker",
+    "lang": "ms"
+  },
+  {
+    "site_id": "67",
+    "name": "Adithya",
+    "lang": "en",
+    "xmltv_id": "AdithyaTV.in@SD"
+  },
+  {
+    "site_id": "308",
+    "name": "Astro Sports UHD 805",
+    "lang": "en",
+    "xmltv_id": "AstroUHD.my@SD"
+  },
+  {
+    "site_id": "365",
+    "name": "Colors Hindi HD",
+    "lang": "en",
+    "xmltv_id": "Colors.in@SD"
+  },
+  {
+    "site_id": "374",
+    "name": "Al Jazeera English HD",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@English"
+  },
+  {
+    "site_id": "458",
+    "name": "BBC First HD",
+    "lang": "ms",
+    "xmltv_id": "BBCFirst.uk@Asia"
+  },
+  {
+    "site_id": "198",
+    "name": "HGTV HD",
+    "lang": "en",
+    "xmltv_id": "HGTVAsia.us@SD"
+  },
+  {
+    "site_id": "338",
+    "name": "TLC HD",
+    "lang": "en",
+    "xmltv_id": "TLCSoutheastAsia.sg@SD"
+  },
+  {
+    "site_id": "566",
+    "name": "Blippi \u0026 Friends",
+    "lang": "ms"
+  },
+  {
+    "site_id": "91",
+    "name": "Asian Food Network HD",
+    "lang": "en",
+    "xmltv_id": "AsianFoodNetwork.sg@SD"
+  },
+  {
+    "site_id": "450",
+    "name": "HBO Family",
+    "lang": "en",
+    "xmltv_id": "HBOFamilyAsia.sg@SD"
+  },
+  {
+    "site_id": "235",
+    "name": "Astro Arena",
+    "lang": "ms",
+    "xmltv_id": "AstroArena.my@SD"
+  },
+  {
+    "site_id": "384",
+    "name": "TVBS Asia HD",
+    "lang": "en",
+    "xmltv_id": "TVBSAsia.tw@SD"
   },
   {
     "site_id": "436",
@@ -417,116 +539,33 @@
     "xmltv_id": "AstroAwani.my@SD"
   },
   {
-    "site_id": "457",
-    "name": "Astro Arena 2",
-    "lang": "ms",
-    "xmltv_id": "AstroArena2.my@SD"
-  },
-  {
-    "site_id": "461",
-    "name": "ABC Australia HD",
-    "lang": "ms"
-  },
-  {
-    "site_id": "560",
-    "name": "KITA",
-    "lang": "ms"
-  },
-  {
-    "site_id": "427",
-    "name": "TVB Entertainment News HD",
+    "site_id": "266",
+    "name": "K-Plus HD",
     "lang": "en",
-    "xmltv_id": "EntertainmentNews.hk@SD"
+    "xmltv_id": "KPlus.sg@SD"
   },
   {
-    "site_id": "481",
-    "name": "CBeebies",
+    "site_id": "369",
+    "name": "Crime \u0026 Investigation HD",
+    "lang": "en",
+    "xmltv_id": "CrimePlusInvestigationAsia.sg@SD"
+  },
+  {
+    "site_id": "449",
+    "name": "HBO Hits",
+    "lang": "en",
+    "xmltv_id": "HBOHitsAsia.sg@SD"
+  },
+  {
+    "site_id": "478",
+    "name": "Sun News",
     "lang": "ms"
-  },
-  {
-    "site_id": "540",
-    "name": "Astro Badminton",
-    "lang": "ms"
-  },
-  {
-    "site_id": "28",
-    "name": "MELODY FM",
-    "lang": "ms"
-  },
-  {
-    "site_id": "43",
-    "name": "Phoenix Info News HD",
-    "lang": "en",
-    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD"
-  },
-  {
-    "site_id": "177",
-    "name": "Astro Thangathirai",
-    "lang": "en",
-    "xmltv_id": "AstroBoxOfficeThangathirai.my@SD"
-  },
-  {
-    "site_id": "370",
-    "name": "Nickelodeon HD",
-    "lang": "en",
-    "xmltv_id": "NickelodeonAsia.sg@SD"
-  },
-  {
-    "site_id": "420",
-    "name": "MTV Live",
-    "lang": "en",
-    "xmltv_id": "MTVAsia.sg@SD"
-  },
-  {
-    "site_id": "447",
-    "name": "Lifetime HD",
-    "lang": "en",
-    "xmltv_id": "LifetimeAsia.us@SD"
-  },
-  {
-    "site_id": "472",
-    "name": "Love Nature 4K",
-    "lang": "ms"
-  },
-  {
-    "site_id": "524",
-    "name": "HITS NOW",
-    "lang": "ms"
-  },
-  {
-    "site_id": "115",
-    "name": "8TV",
-    "lang": "ms",
-    "xmltv_id": "8TV.my@SD"
-  },
-  {
-    "site_id": "179",
-    "name": "HITS HD",
-    "lang": "en",
-    "xmltv_id": "HITS.sg@SD"
   },
   {
     "site_id": "182",
     "name": "Astro AEC",
     "lang": "en",
     "xmltv_id": "AstroAEC.my@SD"
-  },
-  {
-    "site_id": "274",
-    "name": "tvN Movies HD",
-    "lang": "en",
-    "xmltv_id": "tvNMoviesAsia.hk@SD"
-  },
-  {
-    "site_id": "293",
-    "name": "GOXUAN",
-    "lang": "ms"
-  },
-  {
-    "site_id": "385",
-    "name": "CCTV4 HD",
-    "lang": "en",
-    "xmltv_id": "CCTV4Asia.cn@SD"
   },
   {
     "site_id": "426",
@@ -546,16 +585,21 @@
     "lang": "ms"
   },
   {
-    "site_id": "336",
-    "name": "CNN HD",
-    "lang": "en",
-    "xmltv_id": "CNNInternational.us@AsiaPacific"
+    "site_id": "23",
+    "name": "INDIA BEAT",
+    "lang": "ms"
   },
   {
-    "site_id": "384",
-    "name": "TVBS Asia HD",
+    "site_id": "133",
+    "name": "ONE HD",
     "lang": "en",
-    "xmltv_id": "TVBSAsia.tw@SD"
+    "xmltv_id": "ONE.sg@SD"
+  },
+  {
+    "site_id": "383",
+    "name": "TVB Xing He HD",
+    "lang": "en",
+    "xmltv_id": "TVBXingHe.hk@SD"
   },
   {
     "site_id": "423",
@@ -564,244 +608,40 @@
     "xmltv_id": "CNBCAsia.sg@SD"
   },
   {
-    "site_id": "482",
-    "name": "Global Trekker",
-    "lang": "ms"
-  },
-  {
-    "site_id": "190",
-    "name": "tvN HD",
-    "lang": "en",
-    "xmltv_id": "tvNAsia.hk@SD"
-  },
-  {
-    "site_id": "289",
-    "name": "France24",
-    "lang": "en",
-    "xmltv_id": "France24.fr@English"
-  },
-  {
-    "site_id": "25",
-    "name": "NAS FM",
-    "lang": "ms"
-  },
-  {
-    "site_id": "48",
-    "name": "TV9",
-    "lang": "ms",
-    "xmltv_id": "TV9.my@SD"
-  },
-  {
-    "site_id": "106",
-    "name": "TV3",
-    "lang": "ms",
-    "xmltv_id": "TV3.my@SD"
-  },
-  {
-    "site_id": "287",
-    "name": "DW English",
-    "lang": "en",
-    "xmltv_id": "DW.de@English"
-  },
-  {
-    "site_id": "365",
-    "name": "Colors Hindi HD",
-    "lang": "en",
-    "xmltv_id": "Colors.in@SD"
-  },
-  {
-    "site_id": "397",
-    "name": "Astro Vaanavil",
-    "lang": "en",
-    "xmltv_id": "AstroVaanavil.my@SD"
-  },
-  {
-    "site_id": "539",
-    "name": "Astro Football",
-    "lang": "ms"
-  },
-  {
-    "site_id": "337",
-    "name": "CINEMAX HD",
-    "lang": "en",
-    "xmltv_id": "CinemaxAsia.sg@SD"
-  },
-  {
-    "site_id": "21",
-    "name": "GOLD",
-    "lang": "ms"
-  },
-  {
-    "site_id": "134",
-    "name": "Celestial Movies HD",
-    "lang": "en",
-    "xmltv_id": "CelestialMoviesMalaysia.my@SD"
-  },
-  {
-    "site_id": "543",
-    "name": "Astro Grandstand",
-    "lang": "ms"
-  },
-  {
-    "site_id": "23",
-    "name": "INDIA BEAT",
-    "lang": "ms"
-  },
-  {
-    "site_id": "251",
-    "name": "Astro Boo",
-    "lang": "en",
-    "xmltv_id": "Boo.my@SD"
-  },
-  {
-    "site_id": "266",
-    "name": "K-Plus HD",
-    "lang": "en",
-    "xmltv_id": "KPlus.sg@SD"
-  },
-  {
-    "site_id": "374",
-    "name": "Al Jazeera English HD",
-    "lang": "en",
-    "xmltv_id": "AlJazeera.qa@English"
-  },
-  {
-    "site_id": "450",
-    "name": "HBO Family",
-    "lang": "en",
-    "xmltv_id": "HBOFamilyAsia.sg@SD"
-  },
-  {
     "site_id": "466",
     "name": "beIN SPORTS 2",
     "lang": "en",
     "xmltv_id": "beINSports2.qa@MENA"
   },
   {
-    "site_id": "24",
-    "name": "JAZZ",
+    "site_id": "474",
+    "name": "SPOTV2",
     "lang": "ms"
   },
   {
-    "site_id": "280",
-    "name": "Astro Sports Plus 2",
+    "site_id": "424",
+    "name": "CTI Asia HD",
+    "lang": "en",
+    "xmltv_id": "CTiAsia.tw@SD"
+  },
+  {
+    "site_id": "29",
+    "name": "V FM",
     "lang": "ms"
   },
   {
-    "site_id": "301",
-    "name": "Astro Citra",
-    "lang": "ms",
-    "xmltv_id": "AstroCitra.my@SD"
-  },
-  {
-    "site_id": "376",
-    "name": "Discovery Channel HD",
-    "lang": "en",
-    "xmltv_id": "DiscoveryChannel.id@SD"
-  },
-  {
-    "site_id": "425",
-    "name": "TVB Classic HD",
-    "lang": "en",
-    "xmltv_id": "TVBClassic.hk@SD"
-  },
-  {
-    "site_id": "428",
-    "name": "NHK World Premium",
-    "lang": "en",
-    "xmltv_id": "NHKWorldPremium.jp@SD"
-  },
-  {
-    "site_id": "167",
-    "name": "Astro Vinmeen",
-    "lang": "en"
-  },
-  {
-    "site_id": "187",
-    "name": "Celestial Classic Movies",
-    "lang": "en",
-    "xmltv_id": "CCM.hk@SD"
-  },
-  {
-    "site_id": "411",
-    "name": "Astro Tutor TV",
-    "lang": "ms",
-    "xmltv_id": "AstroTutorTVSPM.my@SD"
-  },
-  {
-    "site_id": "422",
-    "name": "Bloomberg TV HD",
-    "lang": "en",
-    "xmltv_id": "BloombergTV.us@Asia"
-  },
-  {
-    "site_id": "458",
-    "name": "BBC First HD",
-    "lang": "ms",
-    "xmltv_id": "BBCFirst.uk@Asia"
-  },
-  {
-    "site_id": "477",
-    "name": "KTV",
+    "site_id": "476",
+    "name": "Sun Life",
     "lang": "ms"
   },
   {
-    "site_id": "298",
-    "name": "Colors Tamil HD",
-    "lang": "en",
-    "xmltv_id": "ColorsTamil.in@SD"
-  },
-  {
-    "site_id": "382",
-    "name": "Phoenix Chinese Channel HD",
-    "lang": "en",
-    "xmltv_id": "PhoenixChineseChannel.hk@SD"
-  },
-  {
-    "site_id": "145",
-    "name": "WAI FM",
+    "site_id": "542",
+    "name": "Astro Sports Plus",
     "lang": "ms"
   },
   {
-    "site_id": "313",
-    "name": "beIN SPORTS 3",
-    "lang": "en",
-    "xmltv_id": "beINSports3.qa@MENA"
-  },
-  {
-    "site_id": "503",
-    "name": "W-Sport",
-    "lang": "ms"
-  },
-  {
-    "site_id": "31",
-    "name": "BAYU",
-    "lang": "ms"
-  },
-  {
-    "site_id": "357",
-    "name": "Star Vijay HD",
-    "lang": "en",
-    "xmltv_id": "StarVijay.in@SD"
-  },
-  {
-    "site_id": "483",
-    "name": "Love Nature",
-    "lang": "ms"
-  },
-  {
-    "site_id": "537",
-    "name": "Astro Premier League 2",
-    "lang": "ms"
-  },
-  {
-    "site_id": "19",
-    "name": "LITE FM",
-    "lang": "ms"
-  },
-  {
-    "site_id": "311",
-    "name": "MINNAL FM",
+    "site_id": "543",
+    "name": "Astro Grandstand",
     "lang": "ms"
   },
   {
@@ -811,30 +651,190 @@
     "xmltv_id": "AstroOasis.my@SD"
   },
   {
-    "site_id": "393",
-    "name": "Premier Sports Rugby",
+    "site_id": "251",
+    "name": "Astro Boo",
     "lang": "en",
-    "xmltv_id": "PremierSports1Asia.ie@SD"
+    "xmltv_id": "Boo.my@SD"
   },
   {
-    "site_id": "15",
-    "name": "MY FM",
+    "site_id": "386",
+    "name": "Astro Ceria",
+    "lang": "ms",
+    "xmltv_id": "AstroCeria.my@SD"
+  },
+  {
+    "site_id": "399",
+    "name": "Astro Vellithirai HD",
+    "lang": "en",
+    "xmltv_id": "AstroVellithirai.my@SD"
+  },
+  {
+    "site_id": "422",
+    "name": "Bloomberg TV HD",
+    "lang": "en",
+    "xmltv_id": "BloombergTV.us@Asia"
+  },
+  {
+    "site_id": "301",
+    "name": "Astro Citra",
+    "lang": "ms",
+    "xmltv_id": "AstroCitra.my@SD"
+  },
+  {
+    "site_id": "385",
+    "name": "CCTV4 HD",
+    "lang": "en",
+    "xmltv_id": "CCTV4Asia.cn@SD"
+  },
+  {
+    "site_id": "477",
+    "name": "KTV",
     "lang": "ms"
   },
   {
-    "site_id": "29",
-    "name": "V FM",
+    "site_id": "32",
+    "name": "KENYALANG",
     "lang": "ms"
   },
   {
-    "site_id": "158",
-    "name": "Astro QJ",
+    "site_id": "167",
+    "name": "Astro Vinmeen",
     "lang": "en"
   },
   {
-    "site_id": "369",
-    "name": "Crime \u0026 Investigation HD",
+    "site_id": "177",
+    "name": "Astro Thangathirai",
     "lang": "en",
-    "xmltv_id": "CrimePlusInvestigationAsia.sg@SD"
+    "xmltv_id": "AstroBoxOfficeThangathirai.my@SD"
+  },
+  {
+    "site_id": "280",
+    "name": "Astro Sports Plus 2",
+    "lang": "ms"
+  },
+  {
+    "site_id": "336",
+    "name": "CNN HD",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@AsiaPacific"
+  },
+  {
+    "site_id": "417",
+    "name": "Sun Music HD",
+    "lang": "en",
+    "xmltv_id": "SunMusic.in@SD"
+  },
+  {
+    "site_id": "447",
+    "name": "Lifetime HD",
+    "lang": "en",
+    "xmltv_id": "LifetimeAsia.us@SD"
+  },
+  {
+    "site_id": "467",
+    "name": "TV Okey HD",
+    "lang": "ms"
+  },
+  {
+    "site_id": "172",
+    "name": "Astro AOD",
+    "lang": "en",
+    "xmltv_id": "AstroAOD311.my@SD"
+  },
+  {
+    "site_id": "187",
+    "name": "Celestial Classic Movies",
+    "lang": "en",
+    "xmltv_id": "CCM.hk@SD"
+  },
+  {
+    "site_id": "391",
+    "name": "HITS MOVIES HD",
+    "lang": "en",
+    "xmltv_id": "HITSMovies.sg@SD"
+  },
+  {
+    "site_id": "451",
+    "name": "BBC Lifestyle HD",
+    "lang": "en",
+    "xmltv_id": "BBCLifestyle.uk@Asia"
+  },
+  {
+    "site_id": "487",
+    "name": "Arena Bola 2",
+    "lang": "ms"
+  },
+  {
+    "site_id": "115",
+    "name": "8TV",
+    "lang": "ms",
+    "xmltv_id": "8TV.my@SD"
+  },
+  {
+    "site_id": "145",
+    "name": "WAI FM",
+    "lang": "ms"
+  },
+  {
+    "site_id": "189",
+    "name": "Golf Channel",
+    "lang": "en",
+    "xmltv_id": "GolfChannel.my@SD"
+  },
+  {
+    "site_id": "371",
+    "name": "Cartoon Network HD",
+    "lang": "en",
+    "xmltv_id": "CartoonNetworkAsia.sg@SD"
+  },
+  {
+    "site_id": "490",
+    "name": "Zee Cinema",
+    "lang": "ms"
+  },
+  {
+    "site_id": "162",
+    "name": "Astro Hua Hee Dai",
+    "lang": "en",
+    "xmltv_id": "AstroHuaHeeDai.my@SD"
+  },
+  {
+    "site_id": "293",
+    "name": "GOXUAN",
+    "lang": "ms"
+  },
+  {
+    "site_id": "401",
+    "name": "Astro Rania",
+    "lang": "en",
+    "xmltv_id": "AstroRania.my@SD"
+  },
+  {
+    "site_id": "143",
+    "name": "HBO HD",
+    "lang": "en",
+    "xmltv_id": "HBOAsia.sg@Vietnam"
+  },
+  {
+    "site_id": "397",
+    "name": "Astro Vaanavil",
+    "lang": "en",
+    "xmltv_id": "AstroVaanavil.my@SD"
+  },
+  {
+    "site_id": "25",
+    "name": "NAS FM",
+    "lang": "ms"
+  },
+  {
+    "site_id": "27",
+    "name": "OSAI",
+    "lang": "ms"
+  },
+  {
+    "site_id": "43",
+    "name": "Phoenix Info News HD",
+    "lang": "en",
+    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD"
   }
 ]

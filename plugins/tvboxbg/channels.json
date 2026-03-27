@@ -1,167 +1,12 @@
 [
   {
-    "site_id": "Disney Channel/72",
-    "name": "Disney Channel",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Disney Junior/157",
-    "name": "Disney Junior",
-    "lang": "bg"
-  },
-  {
-    "site_id": "JimJam/91",
-    "name": "JimJam",
-    "lang": "bg"
-  },
-  {
-    "site_id": "MAX Sport 2/146",
-    "name": "MAX Sport 2",
-    "lang": "bg"
-  },
-  {
-    "site_id": "StarLife/86",
-    "name": "StarLife",
-    "lang": "bg"
-  },
-  {
-    "site_id": "HBO/87",
-    "name": "HBO",
-    "lang": "bg"
-  },
-  {
-    "site_id": "KinoNova/31",
-    "name": "KinoNova",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Travel Channel/109",
-    "name": "Travel Channel",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Viasat Explorer/112",
-    "name": "Viasat Explorer",
-    "lang": "bg"
-  },
-  {
-    "site_id": "БНТ HD/127",
-    "name": "БНТ HD",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Планета HD/40",
-    "name": "Планета HD",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Cartoon Network/62",
-    "name": "Cartoon Network",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Eurosport/78",
-    "name": "Eurosport",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Extreme Sports Channel/80",
-    "name": "Extreme Sports Channel",
-    "lang": "bg"
-  },
-  {
-    "site_id": "History/89",
-    "name": "History",
-    "lang": "bg"
-  },
-  {
-    "site_id": "MovieSTAR/149",
-    "name": "MovieSTAR",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Viasat TV 1000/115",
-    "name": "Viasat TV 1000",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Crime and Investigation/66",
-    "name": "Crime and Investigation",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Bloomberg TV Bulgaria/143",
-    "name": "Bloomberg TV Bulgaria",
-    "lang": "bg"
-  },
-  {
-    "site_id": "bTV Action/6",
-    "name": "bTV Action",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Cinemax 2/64",
-    "name": "Cinemax 2",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Алфа/120",
-    "name": "Алфа",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Евроком НКТВ/33",
-    "name": "Евроком НКТВ",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Animal Planet/55",
-    "name": "Animal Planet",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Discovery Channel/68",
-    "name": "Discovery Channel",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Eurosport 2/79",
-    "name": "Eurosport 2",
-    "lang": "bg"
-  },
-  {
-    "site_id": "NOVANEWS/36",
-    "name": "NOVANEWS",
-    "lang": "bg"
-  },
-  {
-    "site_id": "The Voice/20",
-    "name": "The Voice",
-    "lang": "bg"
-  },
-  {
-    "site_id": "bTV Cinema/7",
-    "name": "bTV Cinema",
-    "lang": "bg"
-  },
-  {
-    "site_id": "MAX Sport 4/151",
-    "name": "MAX Sport 4",
-    "lang": "bg"
-  },
-  {
     "site_id": "БНТ2/119",
     "name": "БНТ2",
     "lang": "bg"
   },
   {
-    "site_id": "AXN/57",
-    "name": "AXN",
-    "lang": "bg"
-  },
-  {
-    "site_id": "bTV/5",
-    "name": "bTV",
+    "site_id": "AXN White/59",
+    "name": "AXN White",
     "lang": "bg"
   },
   {
@@ -175,13 +20,103 @@
     "lang": "bg"
   },
   {
+    "site_id": "Diema Sport 3/159",
+    "name": "Diema Sport 3",
+    "lang": "bg"
+  },
+  {
+    "site_id": "MovieSTAR/149",
+    "name": "MovieSTAR",
+    "lang": "bg"
+  },
+  {
+    "site_id": "NOVANEWS/36",
+    "name": "NOVANEWS",
+    "lang": "bg"
+  },
+  {
+    "site_id": "StarLife/86",
+    "name": "StarLife",
+    "lang": "bg"
+  },
+  {
+    "site_id": "TLC Balkans/108",
+    "name": "TLC Balkans",
+    "lang": "bg"
+  },
+  {
+    "site_id": "bTV Cinema/7",
+    "name": "bTV Cinema",
+    "lang": "bg"
+  },
+  {
+    "site_id": "FilmBox/142",
+    "name": "FilmBox",
+    "lang": "bg"
+  },
+  {
     "site_id": "Food Network HD/84",
     "name": "Food Network HD",
     "lang": "bg"
   },
   {
-    "site_id": "Nickelodeon/128",
-    "name": "Nickelodeon",
+    "site_id": "KinoNova/31",
+    "name": "KinoNova",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Фен ТВ/47",
+    "name": "Фен ТВ",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Investigation Discovery/134",
+    "name": "Investigation Discovery",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Vivacom Arena/144",
+    "name": "Vivacom Arena",
+    "lang": "bg"
+  },
+  {
+    "site_id": "БНТ Свят/28",
+    "name": "БНТ Свят",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Epic Drama/148",
+    "name": "Epic Drama",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Diema Sport 2 HD/138",
+    "name": "Diema Sport 2 HD",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Disney Channel/72",
+    "name": "Disney Channel",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Nick Jr./132",
+    "name": "Nick Jr.",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Travel Channel/109",
+    "name": "Travel Channel",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Viasat Explorer/112",
+    "name": "Viasat Explorer",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Viasat TV 1000/115",
+    "name": "Viasat TV 1000",
     "lang": "bg"
   },
   {
@@ -190,28 +125,48 @@
     "lang": "bg"
   },
   {
-    "site_id": "България он еър/15",
-    "name": "България он еър",
+    "site_id": "24kitchen/26",
+    "name": "24kitchen",
     "lang": "bg"
   },
   {
-    "site_id": "AXN Black/58",
-    "name": "AXN Black",
+    "site_id": "Cinemax 2/64",
+    "name": "Cinemax 2",
     "lang": "bg"
   },
   {
-    "site_id": "bTV Comedy/8",
-    "name": "bTV Comedy",
+    "site_id": "HG TV/160",
+    "name": "HG TV",
     "lang": "bg"
   },
   {
-    "site_id": "FilmBox Extra HD/139",
-    "name": "FilmBox Extra HD",
+    "site_id": "Viasat History/113",
+    "name": "Viasat History",
     "lang": "bg"
   },
   {
-    "site_id": "MAX Sport 3/150",
-    "name": "MAX Sport 3",
+    "site_id": "БНТ HD/127",
+    "name": "БНТ HD",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Cartoon Network/62",
+    "name": "Cartoon Network",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Da Vinci Learning/67",
+    "name": "Da Vinci Learning",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Diema Sport HD/133",
+    "name": "Diema Sport HD",
+    "lang": "bg"
+  },
+  {
+    "site_id": "StarChannel/124",
+    "name": "StarChannel",
     "lang": "bg"
   },
   {
@@ -220,13 +175,128 @@
     "lang": "bg"
   },
   {
+    "site_id": "Нова телевизия/38",
+    "name": "Нова телевизия",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Discovery Channel/68",
+    "name": "Discovery Channel",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Eurosport 2/79",
+    "name": "Eurosport 2",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Nat Geo Wild/99",
+    "name": "Nat Geo Wild",
+    "lang": "bg"
+  },
+  {
+    "site_id": "RING.BG/18",
+    "name": "RING.BG",
+    "lang": "bg"
+  },
+  {
+    "site_id": "The Voice/20",
+    "name": "The Voice",
+    "lang": "bg"
+  },
+  {
+    "site_id": "България он еър/15",
+    "name": "България он еър",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Диема Фемили/32",
+    "name": "Диема Фемили",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Планета/39",
+    "name": "Планета",
+    "lang": "bg"
+  },
+  {
+    "site_id": "bTV/5",
+    "name": "bTV",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Cinemax/63",
+    "name": "Cinemax",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Eurosport/78",
+    "name": "Eurosport",
+    "lang": "bg"
+  },
+  {
+    "site_id": "JimJam/91",
+    "name": "JimJam",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Nickelodeon/128",
+    "name": "Nickelodeon",
+    "lang": "bg"
+  },
+  {
+    "site_id": "bTV Action/6",
+    "name": "bTV Action",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Extreme Sports Channel/80",
+    "name": "Extreme Sports Channel",
+    "lang": "bg"
+  },
+  {
+    "site_id": "MAX Sport 1/145",
+    "name": "MAX Sport 1",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Планета HD/40",
+    "name": "Планета HD",
+    "lang": "bg"
+  },
+  {
     "site_id": "AMC/135",
     "name": "AMC",
     "lang": "bg"
   },
   {
-    "site_id": "Balkanika MTV/1",
-    "name": "Balkanika MTV",
+    "site_id": "Crime and Investigation/66",
+    "name": "Crime and Investigation",
+    "lang": "bg"
+  },
+  {
+    "site_id": "MAX Sport 2/146",
+    "name": "MAX Sport 2",
+    "lang": "bg"
+  },
+  {
+    "site_id": "MAX Sport 4/151",
+    "name": "MAX Sport 4",
+    "lang": "bg"
+  },
+  {
+    "site_id": "TV1/24",
+    "name": "TV1",
+    "lang": "bg"
+  },
+  {
+    "site_id": "AXN/57",
+    "name": "AXN",
+    "lang": "bg"
+  },
+  {
+    "site_id": "bTV Comedy/8",
+    "name": "bTV Comedy",
     "lang": "bg"
   },
   {
@@ -235,13 +305,88 @@
     "lang": "bg"
   },
   {
+    "site_id": "MAX Sport 3/150",
+    "name": "MAX Sport 3",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Animal Planet/55",
+    "name": "Animal Planet",
+    "lang": "bg"
+  },
+  {
+    "site_id": "FilmBox Extra HD/139",
+    "name": "FilmBox Extra HD",
+    "lang": "bg"
+  },
+  {
+    "site_id": "PickboxTV/161",
+    "name": "PickboxTV",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Алфа/120",
+    "name": "Алфа",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Евроком НКТВ/33",
+    "name": "Евроком НКТВ",
+    "lang": "bg"
+  },
+  {
+    "site_id": "EKids/12",
+    "name": "EKids",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Bloomberg TV Bulgaria/143",
+    "name": "Bloomberg TV Bulgaria",
+    "lang": "bg"
+  },
+  {
+    "site_id": "HBO/87",
+    "name": "HBO",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Планета Фолк/41",
+    "name": "Планета Фолк",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Хоби ТВ/50",
+    "name": "Хоби ТВ",
+    "lang": "bg"
+  },
+  {
+    "site_id": "AXN Black/58",
+    "name": "AXN Black",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Disney Junior/157",
+    "name": "Disney Junior",
+    "lang": "bg"
+  },
+  {
+    "site_id": "HBO 3/141",
+    "name": "HBO 3",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Диема/30",
+    "name": "Диема",
+    "lang": "bg"
+  },
+  {
     "site_id": "Viasat Nature/114",
     "name": "Viasat Nature",
     "lang": "bg"
   },
   {
-    "site_id": "Vivacom Arena/144",
-    "name": "Vivacom Arena",
+    "site_id": "Balkanika MTV/1",
+    "name": "Balkanika MTV",
     "lang": "bg"
   },
   {
@@ -255,6 +400,11 @@
     "lang": "bg"
   },
   {
+    "site_id": "History/89",
+    "name": "History",
+    "lang": "bg"
+  },
+  {
     "site_id": "National Geographic Channel/100",
     "name": "National Geographic Channel",
     "lang": "bg"
@@ -262,156 +412,6 @@
   {
     "site_id": "StarCrime/85",
     "name": "StarCrime",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Диема Фемили/32",
-    "name": "Диема Фемили",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Diema Sport HD/133",
-    "name": "Diema Sport HD",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Cinemax/63",
-    "name": "Cinemax",
-    "lang": "bg"
-  },
-  {
-    "site_id": "HG TV/160",
-    "name": "HG TV",
-    "lang": "bg"
-  },
-  {
-    "site_id": "TV1/24",
-    "name": "TV1",
-    "lang": "bg"
-  },
-  {
-    "site_id": "БНТ Свят/28",
-    "name": "БНТ Свят",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Диема/30",
-    "name": "Диема",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Нова телевизия/38",
-    "name": "Нова телевизия",
-    "lang": "bg"
-  },
-  {
-    "site_id": "AXN White/59",
-    "name": "AXN White",
-    "lang": "bg"
-  },
-  {
-    "site_id": "StarChannel/124",
-    "name": "StarChannel",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Фен ТВ/47",
-    "name": "Фен ТВ",
-    "lang": "bg"
-  },
-  {
-    "site_id": "24kitchen/26",
-    "name": "24kitchen",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Diema Sport 2 HD/138",
-    "name": "Diema Sport 2 HD",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Diema Sport 3/159",
-    "name": "Diema Sport 3",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Investigation Discovery/134",
-    "name": "Investigation Discovery",
-    "lang": "bg"
-  },
-  {
-    "site_id": "MAX Sport 1/145",
-    "name": "MAX Sport 1",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Nat Geo Wild/99",
-    "name": "Nat Geo Wild",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Nick Jr./132",
-    "name": "Nick Jr.",
-    "lang": "bg"
-  },
-  {
-    "site_id": "PickboxTV/161",
-    "name": "PickboxTV",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Da Vinci Learning/67",
-    "name": "Da Vinci Learning",
-    "lang": "bg"
-  },
-  {
-    "site_id": "FilmBox/142",
-    "name": "FilmBox",
-    "lang": "bg"
-  },
-  {
-    "site_id": "HBO 3/141",
-    "name": "HBO 3",
-    "lang": "bg"
-  },
-  {
-    "site_id": "RING.BG/18",
-    "name": "RING.BG",
-    "lang": "bg"
-  },
-  {
-    "site_id": "TLC Balkans/108",
-    "name": "TLC Balkans",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Viasat History/113",
-    "name": "Viasat History",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Планета Фолк/41",
-    "name": "Планета Фолк",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Планета/39",
-    "name": "Планета",
-    "lang": "bg"
-  },
-  {
-    "site_id": "EKids/12",
-    "name": "EKids",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Epic Drama/148",
-    "name": "Epic Drama",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Хоби ТВ/50",
-    "name": "Хоби ТВ",
     "lang": "bg"
   }
 ]

@@ -1,43 +1,9 @@
 [
   {
-    "site_id": "303",
-    "name": "First Lifestyle HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "26",
-    "name": "MOJI",
+    "site_id": "81",
+    "name": "Fashion TV",
     "lang": "en",
-    "xmltv_id": "Moji.id@SD"
-  },
-  {
-    "site_id": "44",
-    "name": "TV9",
-    "lang": "id",
-    "xmltv_id": "TV9Nusantara.id@SD"
-  },
-  {
-    "site_id": "48",
-    "name": "Sunnah TV",
-    "lang": "en",
-    "xmltv_id": "AlSunnahAlNabawiyahTV.sa@SD"
-  },
-  {
-    "site_id": "325",
-    "name": "Hits Movies HD",
-    "lang": "en",
-    "xmltv_id": "HITSMovies.sg@SD"
-  },
-  {
-    "site_id": "175",
-    "name": "Zee Cinema",
-    "lang": "en"
-  },
-  {
-    "site_id": "76",
-    "name": "Asian Food Network",
-    "lang": "en",
-    "xmltv_id": "AsianFoodNetwork.sg@SD"
+    "xmltv_id": "FashionTVAsia.fr@SD"
   },
   {
     "site_id": "210",
@@ -46,10 +12,57 @@
     "xmltv_id": "CGTN.cn@SD"
   },
   {
-    "site_id": "305",
-    "name": "HBO HD",
+    "site_id": "220",
+    "name": "MTV 90s",
     "lang": "en",
-    "xmltv_id": "HBOAsia.sg@HD"
+    "xmltv_id": "MTV90s.uk@SD"
+  },
+  {
+    "site_id": "7",
+    "name": "Metro TV",
+    "lang": "en",
+    "xmltv_id": "MetroTV.id@SD"
+  },
+  {
+    "site_id": "205",
+    "name": "ONE",
+    "lang": "en",
+    "xmltv_id": "ONE.sg@SD"
+  },
+  {
+    "site_id": "14",
+    "name": "TV One",
+    "lang": "id",
+    "xmltv_id": "tvOne.id@SD"
+  },
+  {
+    "site_id": "80",
+    "name": "IMC",
+    "lang": "id",
+    "xmltv_id": "IMC.id@SD"
+  },
+  {
+    "site_id": "176",
+    "name": "Wion",
+    "lang": "en",
+    "xmltv_id": "WION.in@SD"
+  },
+  {
+    "site_id": "301",
+    "name": "First Highlights HD",
+    "lang": "en"
+  },
+  {
+    "site_id": "142",
+    "name": "Champions TV 2",
+    "lang": "en",
+    "xmltv_id": "ChampionsTV2.id@SD"
+  },
+  {
+    "site_id": "160",
+    "name": "Star Gold",
+    "lang": "en",
+    "xmltv_id": "StarGold.in@SD"
   },
   {
     "site_id": "308",
@@ -58,16 +71,458 @@
     "xmltv_id": "HBOSignatureAsia.sg@HD"
   },
   {
+    "site_id": "310",
+    "name": "Cinemax HD",
+    "lang": "en",
+    "xmltv_id": "CinemaxAsia.sg@HD"
+  },
+  {
+    "site_id": "313",
+    "name": "Warner TV HD",
+    "lang": "en",
+    "xmltv_id": "WarnerTVAsia.us@SD"
+  },
+  {
+    "site_id": "86",
+    "name": "GMS Channel",
+    "lang": "en",
+    "xmltv_id": "GMS.id@SD"
+  },
+  {
+    "site_id": "37",
+    "name": "MNC News",
+    "lang": "en",
+    "xmltv_id": "SindoNewsTV.id@SD"
+  },
+  {
+    "site_id": "13",
+    "name": "ANTV",
+    "lang": "en",
+    "xmltv_id": "ANTV.id@SD"
+  },
+  {
+    "site_id": "21",
+    "name": "Reformed 21",
+    "lang": "en",
+    "xmltv_id": "Reformed21.id@SD"
+  },
+  {
+    "site_id": "27",
+    "name": "DAAI TV",
+    "lang": "id",
+    "xmltv_id": "DAAITV.id@SD"
+  },
+  {
+    "site_id": "139",
+    "name": "SPOTV",
+    "lang": "en",
+    "xmltv_id": "SPOTV.id@SD"
+  },
+  {
+    "site_id": "171",
+    "name": "Star Plus",
+    "lang": "en",
+    "xmltv_id": "StarPlus.in@SD"
+  },
+  {
+    "site_id": "290",
+    "name": "Cinemax",
+    "lang": "en",
+    "xmltv_id": "CinemaxAsia.sg@SD"
+  },
+  {
+    "site_id": "3",
+    "name": "First Llifestyle",
+    "lang": "en"
+  },
+  {
+    "site_id": "10",
+    "name": "SCTV",
+    "lang": "en",
+    "xmltv_id": "SCTV.id@SD"
+  },
+  {
+    "site_id": "216",
+    "name": "Jiangsu TV",
+    "lang": "en",
+    "xmltv_id": "JiangsuTV.cn@SD"
+  },
+  {
+    "site_id": "238",
+    "name": "Russia Today",
+    "lang": "en",
+    "xmltv_id": "RT.ru@SD"
+  },
+  {
+    "site_id": "203",
+    "name": "Phoenix Chinese Channel",
+    "lang": "en",
+    "xmltv_id": "PhoenixChineseChannel.hk@SD"
+  },
+  {
+    "site_id": "244",
+    "name": "KBS World",
+    "lang": "en",
+    "xmltv_id": "KBSWorld.kr@SD"
+  },
+  {
+    "site_id": "260",
+    "name": "TV5 Monde",
+    "lang": "en",
+    "xmltv_id": "TV5MondeAsia.fr@SD"
+  },
+  {
+    "site_id": "57",
+    "name": "Rock Action",
+    "lang": "en",
+    "xmltv_id": "ROCKExtreme.sg@SD"
+  },
+  {
+    "site_id": "72",
+    "name": "The Learning Channel - TLC",
+    "lang": "en",
+    "xmltv_id": "TLCSoutheastAsia.sg@SD"
+  },
+  {
+    "site_id": "178",
+    "name": "Zee Action",
+    "lang": "en",
+    "xmltv_id": "ZeeAction.in@SD"
+  },
+  {
+    "site_id": "208",
+    "name": "Zhejiang TV",
+    "lang": "en",
+    "xmltv_id": "ZhejiangSatelliteTV.cn@SD"
+  },
+  {
+    "site_id": "324",
+    "name": "HITS Now HD",
+    "lang": "en"
+  },
+  {
+    "site_id": "44",
+    "name": "TV9",
+    "lang": "id",
+    "xmltv_id": "TV9Nusantara.id@SD"
+  },
+  {
+    "site_id": "23",
+    "name": "Kairos",
+    "lang": "en"
+  },
+  {
+    "site_id": "29",
+    "name": "Eternal Word Television Network (EWTN)",
+    "lang": "en",
+    "xmltv_id": "EWTN.us@AsiaPacific"
+  },
+  {
+    "site_id": "124",
+    "name": "Nick jr.",
+    "lang": "en",
+    "xmltv_id": "NickJrAsia.sg@SD"
+  },
+  {
+    "site_id": "307",
+    "name": "HBO Family HD",
+    "lang": "en",
+    "xmltv_id": "HBOFamilyAsia.sg@HD"
+  },
+  {
+    "site_id": "52",
+    "name": "Animax",
+    "lang": "en",
+    "xmltv_id": "AnimaxAsia.sg@SD"
+  },
+  {
     "site_id": "11",
     "name": "Indosiar",
     "lang": "en",
     "xmltv_id": "Indosiar.id@SD"
   },
   {
-    "site_id": "80",
-    "name": "IMC",
+    "site_id": "53",
+    "name": "GTV",
+    "lang": "en",
+    "xmltv_id": "GTV.id@SD"
+  },
+  {
+    "site_id": "215",
+    "name": "Dragon TV",
+    "lang": "en",
+    "xmltv_id": "DragonTV.cn@SD"
+  },
+  {
+    "site_id": "240",
+    "name": "TRT World",
+    "lang": "en",
+    "xmltv_id": "TRTWorld.tr@SD"
+  },
+  {
+    "site_id": "214",
+    "name": "Hunan TV",
+    "lang": "en",
+    "xmltv_id": "HunanTV.cn@SD"
+  },
+  {
+    "site_id": "285",
+    "name": "HBO",
+    "lang": "en",
+    "xmltv_id": "HBOAsia.sg@Vietnam"
+  },
+  {
+    "site_id": "76",
+    "name": "Asian Food Network",
+    "lang": "en",
+    "xmltv_id": "AsianFoodNetwork.sg@SD"
+  },
+  {
+    "site_id": "30",
+    "name": "KaraOKE Channel",
+    "lang": "en"
+  },
+  {
+    "site_id": "201",
+    "name": "TVB Xing He",
+    "lang": "en",
+    "xmltv_id": "TVBXingHe.hk@SD"
+  },
+  {
+    "site_id": "311",
+    "name": "Celestial Movies HD",
+    "lang": "en",
+    "xmltv_id": "CelestialMoviesIndonesia.id@HD"
+  },
+  {
+    "site_id": "321",
+    "name": "Champions TV 1 HD",
+    "lang": "en"
+  },
+  {
+    "site_id": "45",
+    "name": "Garuda TV",
+    "lang": "en",
+    "xmltv_id": "GarudaTV.id@SD"
+  },
+  {
+    "site_id": "243",
+    "name": "Al Jazeera International",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@English"
+  },
+  {
+    "site_id": "25",
+    "name": "Liga Mahasiswa",
+    "lang": "en"
+  },
+  {
+    "site_id": "151",
+    "name": "Eurosport",
+    "lang": "en",
+    "xmltv_id": "Eurosport.fr@Asia"
+  },
+  {
+    "site_id": "302",
+    "name": "Jakarta Globe News Channel HD",
+    "lang": "en"
+  },
+  {
+    "site_id": "306",
+    "name": "HBO Hits HD",
+    "lang": "en",
+    "xmltv_id": "HBOHitsAsia.sg@HD"
+  },
+  {
+    "site_id": "48",
+    "name": "Sunnah TV",
+    "lang": "en",
+    "xmltv_id": "AlSunnahAlNabawiyahTV.sa@SD"
+  },
+  {
+    "site_id": "65",
+    "name": "iNews",
+    "lang": "en",
+    "xmltv_id": "iNews.id@SD"
+  },
+  {
+    "site_id": "233",
+    "name": "DW English",
+    "lang": "en",
+    "xmltv_id": "DW.de@English"
+  },
+  {
+    "site_id": "258",
+    "name": "Rai Italia",
+    "lang": "en",
+    "xmltv_id": "RaiItalia.it@Asia"
+  },
+  {
+    "site_id": "24",
+    "name": "Sekolah Pelita Harapan Channel - SPH",
+    "lang": "en"
+  },
+  {
+    "site_id": "245",
+    "name": "Al Jazeera Arabic",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@Arabic"
+  },
+  {
+    "site_id": "318",
+    "name": "Eurosport HD",
+    "lang": "en",
+    "xmltv_id": "Eurosport.fr@AsiaHD"
+  },
+  {
+    "site_id": "141",
+    "name": "Champions TV 1",
+    "lang": "en",
+    "xmltv_id": "ChampionsTV1.id@SD"
+  },
+  {
+    "site_id": "202",
+    "name": "Phoenix Info News",
+    "lang": "en",
+    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD"
+  },
+  {
+    "site_id": "235",
+    "name": "BBC World News",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@AsiaPacific"
+  },
+  {
+    "site_id": "300",
+    "name": "First Atmos HD",
+    "lang": "en"
+  },
+  {
+    "site_id": "61",
+    "name": "TBN Asia",
+    "lang": "en",
+    "xmltv_id": "TBNAsia.us@SD"
+  },
+  {
+    "site_id": "303",
+    "name": "First Lifestyle HD",
+    "lang": "en"
+  },
+  {
+    "site_id": "305",
+    "name": "HBO HD",
+    "lang": "en",
+    "xmltv_id": "HBOAsia.sg@HD"
+  },
+  {
+    "site_id": "15",
+    "name": "Kompas TV",
+    "lang": "en",
+    "xmltv_id": "KompasTV.id@SD"
+  },
+  {
+    "site_id": "16",
+    "name": "TVRI Nasional",
+    "lang": "id"
+  },
+  {
+    "site_id": "2",
+    "name": "Investor Daily",
+    "lang": "en"
+  },
+  {
+    "site_id": "51",
+    "name": "AXN",
+    "lang": "en",
+    "xmltv_id": "AXNAsia.sg@Indonesia"
+  },
+  {
+    "site_id": "145",
+    "name": "First Football",
+    "lang": "en"
+  },
+  {
+    "site_id": "237",
+    "name": "Fox News",
+    "lang": "en",
+    "xmltv_id": "FoxNewsChannel.us@SD"
+  },
+  {
+    "site_id": "287",
+    "name": "HBO Hits",
+    "lang": "en",
+    "xmltv_id": "HBOHitsAsia.sg@SD"
+  },
+  {
+    "site_id": "105",
+    "name": "Animal Planet",
+    "lang": "en",
+    "xmltv_id": "AnimalPlanetSoutheastAsia.sg@SD"
+  },
+  {
+    "site_id": "236",
+    "name": "CNN International",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@AsiaPacific"
+  },
+  {
+    "site_id": "239",
+    "name": "Bloomberg",
+    "lang": "en",
+    "xmltv_id": "BloombergTV.us@Asia"
+  },
+  {
+    "site_id": "1",
+    "name": "BTV",
+    "lang": "en",
+    "xmltv_id": "BTV.id@SD"
+  },
+  {
+    "site_id": "35",
+    "name": "Rajawali TV",
     "lang": "id",
-    "xmltv_id": "IMC.id@SD"
+    "xmltv_id": "RajawaliTV.id@SD"
+  },
+  {
+    "site_id": "62",
+    "name": "Jakarta TV - Jak TV",
+    "lang": "id",
+    "xmltv_id": "JakTV.id@SD"
+  },
+  {
+    "site_id": "175",
+    "name": "Zee Cinema",
+    "lang": "en"
+  },
+  {
+    "site_id": "209",
+    "name": "CCTV 4",
+    "lang": "en",
+    "xmltv_id": "CCTV4Asia.cn@SD"
+  },
+  {
+    "site_id": "212",
+    "name": "TVBS News",
+    "lang": "en",
+    "xmltv_id": "TVBSNews.tw@SD"
+  },
+  {
+    "site_id": "217",
+    "name": "ANHUI TV",
+    "lang": "en",
+    "xmltv_id": "AnhuiTV.cn@SD"
+  },
+  {
+    "site_id": "251",
+    "name": "ABC Australia",
+    "lang": "en",
+    "xmltv_id": "ABCAustralia.au@SD"
+  },
+  {
+    "site_id": "161",
+    "name": "Zee Bioskop",
+    "lang": "en",
+    "xmltv_id": "ZeeBioskop.id@SD"
   },
   {
     "site_id": "242",
@@ -82,97 +537,10 @@
     "xmltv_id": "France24.fr@English"
   },
   {
-    "site_id": "286",
-    "name": "HBO Signature",
+    "site_id": "325",
+    "name": "Hits Movies HD",
     "lang": "en",
-    "xmltv_id": "HBOSignatureAsia.sg@SD"
-  },
-  {
-    "site_id": "306",
-    "name": "HBO Hits HD",
-    "lang": "en",
-    "xmltv_id": "HBOHitsAsia.sg@HD"
-  },
-  {
-    "site_id": "30",
-    "name": "KaraOKE Channel",
-    "lang": "en"
-  },
-  {
-    "site_id": "216",
-    "name": "Jiangsu TV",
-    "lang": "en",
-    "xmltv_id": "JiangsuTV.cn@SD"
-  },
-  {
-    "site_id": "240",
-    "name": "TRT World",
-    "lang": "en",
-    "xmltv_id": "TRTWorld.tr@SD"
-  },
-  {
-    "site_id": "251",
-    "name": "ABC Australia",
-    "lang": "en",
-    "xmltv_id": "ABCAustralia.au@SD"
-  },
-  {
-    "site_id": "61",
-    "name": "TBN Asia",
-    "lang": "en",
-    "xmltv_id": "TBNAsia.us@SD"
-  },
-  {
-    "site_id": "208",
-    "name": "Zhejiang TV",
-    "lang": "en",
-    "xmltv_id": "ZhejiangSatelliteTV.cn@SD"
-  },
-  {
-    "site_id": "287",
-    "name": "HBO Hits",
-    "lang": "en",
-    "xmltv_id": "HBOHitsAsia.sg@SD"
-  },
-  {
-    "site_id": "300",
-    "name": "First Atmos HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "37",
-    "name": "MNC News",
-    "lang": "en",
-    "xmltv_id": "SindoNewsTV.id@SD"
-  },
-  {
-    "site_id": "161",
-    "name": "Zee Bioskop",
-    "lang": "en",
-    "xmltv_id": "ZeeBioskop.id@SD"
-  },
-  {
-    "site_id": "318",
-    "name": "Eurosport HD",
-    "lang": "en",
-    "xmltv_id": "Eurosport.fr@AsiaHD"
-  },
-  {
-    "site_id": "23",
-    "name": "Kairos",
-    "lang": "en"
-  },
-  {
-    "site_id": "51",
-    "name": "AXN",
-    "lang": "en",
-    "xmltv_id": "AXNAsia.sg@Indonesia"
-  },
-  {
-    "site_id": "52",
-    "name": "Animax",
-    "lang": "en",
-    "xmltv_id": "AnimaxAsia.sg@SD"
+    "xmltv_id": "HITSMovies.sg@SD"
   },
   {
     "site_id": "60",
@@ -181,55 +549,67 @@
     "xmltv_id": "EuronewsEnglish.fr@SD"
   },
   {
-    "site_id": "21",
-    "name": "Reformed 21",
+    "site_id": "101",
+    "name": "Discovery Channel",
     "lang": "en",
-    "xmltv_id": "Reformed21.id@SD"
+    "xmltv_id": "DiscoveryChannel.id@SD"
   },
   {
-    "site_id": "124",
-    "name": "Nick jr.",
+    "site_id": "206",
+    "name": "Xing Kong China",
     "lang": "en",
-    "xmltv_id": "NickJrAsia.sg@SD"
+    "xmltv_id": "XingKongChina.cn@SD"
   },
   {
-    "site_id": "160",
-    "name": "Star Gold",
+    "site_id": "286",
+    "name": "HBO Signature",
     "lang": "en",
-    "xmltv_id": "StarGold.in@SD"
+    "xmltv_id": "HBOSignatureAsia.sg@SD"
   },
   {
-    "site_id": "220",
-    "name": "MTV 90s",
+    "site_id": "288",
+    "name": "HBO Family",
     "lang": "en",
-    "xmltv_id": "MTV90s.uk@SD"
+    "xmltv_id": "HBOFamilyAsia.sg@SD"
   },
   {
-    "site_id": "238",
-    "name": "Russia Today",
+    "site_id": "125",
+    "name": "Nickelodeon",
     "lang": "en",
-    "xmltv_id": "RT.ru@SD"
+    "xmltv_id": "NickelodeonAsia.sg@SD"
   },
   {
-    "site_id": "258",
-    "name": "Rai Italia",
+    "site_id": "247",
+    "name": "NHK World Premium",
     "lang": "en",
-    "xmltv_id": "RaiItalia.it@Asia"
+    "xmltv_id": "NHKWorldPremium.jp@SD"
   },
   {
-    "site_id": "17",
-    "name": "Jawa Pos Media Televisi - JTV",
+    "site_id": "127",
+    "name": "Cartoon Network",
     "lang": "en",
-    "xmltv_id": "JTV.id@SD"
+    "xmltv_id": "CartoonNetworkAsia.sg@SD"
   },
   {
-    "site_id": "25",
-    "name": "Liga Mahasiswa",
+    "site_id": "211",
+    "name": "TVBS Asia",
+    "lang": "en",
+    "xmltv_id": "TVBSAsia.tw@SD"
+  },
+  {
+    "site_id": "34",
+    "name": "Balai Kota Bandung",
     "lang": "en"
   },
   {
-    "site_id": "50",
-    "name": "West Java Network",
+    "site_id": "26",
+    "name": "MOJI",
+    "lang": "en",
+    "xmltv_id": "Moji.id@SD"
+  },
+  {
+    "site_id": "33",
+    "name": "Balai Kota Channel",
     "lang": "en"
   },
   {
@@ -239,384 +619,10 @@
     "xmltv_id": "CelestialMoviesIndonesia.id@SD"
   },
   {
-    "site_id": "217",
-    "name": "ANHUI TV",
+    "site_id": "17",
+    "name": "Jawa Pos Media Televisi - JTV",
     "lang": "en",
-    "xmltv_id": "AnhuiTV.cn@SD"
-  },
-  {
-    "site_id": "288",
-    "name": "HBO Family",
-    "lang": "en",
-    "xmltv_id": "HBOFamilyAsia.sg@SD"
-  },
-  {
-    "site_id": "24",
-    "name": "Sekolah Pelita Harapan Channel - SPH",
-    "lang": "en"
-  },
-  {
-    "site_id": "86",
-    "name": "GMS Channel",
-    "lang": "en",
-    "xmltv_id": "GMS.id@SD"
-  },
-  {
-    "site_id": "127",
-    "name": "Cartoon Network",
-    "lang": "en",
-    "xmltv_id": "CartoonNetworkAsia.sg@SD"
-  },
-  {
-    "site_id": "302",
-    "name": "Jakarta Globe News Channel HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "307",
-    "name": "HBO Family HD",
-    "lang": "en",
-    "xmltv_id": "HBOFamilyAsia.sg@HD"
-  },
-  {
-    "site_id": "285",
-    "name": "HBO",
-    "lang": "en",
-    "xmltv_id": "HBOAsia.sg@Vietnam"
-  },
-  {
-    "site_id": "3",
-    "name": "First Llifestyle",
-    "lang": "en"
-  },
-  {
-    "site_id": "13",
-    "name": "ANTV",
-    "lang": "en",
-    "xmltv_id": "ANTV.id@SD"
-  },
-  {
-    "site_id": "27",
-    "name": "DAAI TV",
-    "lang": "id",
-    "xmltv_id": "DAAITV.id@SD"
-  },
-  {
-    "site_id": "218",
-    "name": "Shenzen TV",
-    "lang": "en",
-    "xmltv_id": "ShenzhenTV.cn@SD"
-  },
-  {
-    "site_id": "244",
-    "name": "KBS World",
-    "lang": "en",
-    "xmltv_id": "KBSWorld.kr@SD"
-  },
-  {
-    "site_id": "5",
-    "name": "NET.",
-    "lang": "en",
-    "xmltv_id": "NET.id@SD"
-  },
-  {
-    "site_id": "206",
-    "name": "Xing Kong China",
-    "lang": "en",
-    "xmltv_id": "XingKongChina.cn@SD"
-  },
-  {
-    "site_id": "209",
-    "name": "CCTV 4",
-    "lang": "en",
-    "xmltv_id": "CCTV4Asia.cn@SD"
-  },
-  {
-    "site_id": "235",
-    "name": "BBC World News",
-    "lang": "en",
-    "xmltv_id": "BBCNews.uk@AsiaPacific"
-  },
-  {
-    "site_id": "247",
-    "name": "NHK World Premium",
-    "lang": "en",
-    "xmltv_id": "NHKWorldPremium.jp@SD"
-  },
-  {
-    "site_id": "311",
-    "name": "Celestial Movies HD",
-    "lang": "en",
-    "xmltv_id": "CelestialMoviesIndonesia.id@HD"
-  },
-  {
-    "site_id": "57",
-    "name": "Rock Action",
-    "lang": "en",
-    "xmltv_id": "ROCKExtreme.sg@SD"
-  },
-  {
-    "site_id": "65",
-    "name": "iNews",
-    "lang": "en",
-    "xmltv_id": "iNews.id@SD"
-  },
-  {
-    "site_id": "105",
-    "name": "Animal Planet",
-    "lang": "en",
-    "xmltv_id": "AnimalPlanetSoutheastAsia.sg@SD"
-  },
-  {
-    "site_id": "10",
-    "name": "SCTV",
-    "lang": "en",
-    "xmltv_id": "SCTV.id@SD"
-  },
-  {
-    "site_id": "72",
-    "name": "The Learning Channel - TLC",
-    "lang": "en",
-    "xmltv_id": "TLCSoutheastAsia.sg@SD"
-  },
-  {
-    "site_id": "140",
-    "name": "SPOTV 2",
-    "lang": "en",
-    "xmltv_id": "SPOTV2.id@SD"
-  },
-  {
-    "site_id": "205",
-    "name": "ONE",
-    "lang": "en",
-    "xmltv_id": "ONE.sg@SD"
-  },
-  {
-    "site_id": "234",
-    "name": "Arirang",
-    "lang": "en",
-    "xmltv_id": "ArirangTV.kr@SD"
-  },
-  {
-    "site_id": "47",
-    "name": "Al Quran Al Kareem",
-    "lang": "en",
-    "xmltv_id": "QuranTV.sa@SD"
-  },
-  {
-    "site_id": "201",
-    "name": "TVB Xing He",
-    "lang": "en",
-    "xmltv_id": "TVBXingHe.hk@SD"
-  },
-  {
-    "site_id": "239",
-    "name": "Bloomberg",
-    "lang": "en",
-    "xmltv_id": "BloombergTV.us@Asia"
-  },
-  {
-    "site_id": "324",
-    "name": "HITS Now HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "202",
-    "name": "Phoenix Info News",
-    "lang": "en",
-    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD"
-  },
-  {
-    "site_id": "214",
-    "name": "Hunan TV",
-    "lang": "en",
-    "xmltv_id": "HunanTV.cn@SD"
-  },
-  {
-    "site_id": "101",
-    "name": "Discovery Channel",
-    "lang": "en",
-    "xmltv_id": "DiscoveryChannel.id@SD"
-  },
-  {
-    "site_id": "301",
-    "name": "First Highlights HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "7",
-    "name": "Metro TV",
-    "lang": "en",
-    "xmltv_id": "MetroTV.id@SD"
-  },
-  {
-    "site_id": "212",
-    "name": "TVBS News",
-    "lang": "en",
-    "xmltv_id": "TVBSNews.tw@SD"
-  },
-  {
-    "site_id": "290",
-    "name": "Cinemax",
-    "lang": "en",
-    "xmltv_id": "CinemaxAsia.sg@SD"
-  },
-  {
-    "site_id": "1",
-    "name": "BTV",
-    "lang": "en",
-    "xmltv_id": "BTV.id@SD"
-  },
-  {
-    "site_id": "29",
-    "name": "Eternal Word Television Network (EWTN)",
-    "lang": "en",
-    "xmltv_id": "EWTN.us@AsiaPacific"
-  },
-  {
-    "site_id": "33",
-    "name": "Balai Kota Channel",
-    "lang": "en"
-  },
-  {
-    "site_id": "310",
-    "name": "Cinemax HD",
-    "lang": "en",
-    "xmltv_id": "CinemaxAsia.sg@HD"
-  },
-  {
-    "site_id": "35",
-    "name": "Rajawali TV",
-    "lang": "id",
-    "xmltv_id": "RajawaliTV.id@SD"
-  },
-  {
-    "site_id": "81",
-    "name": "Fashion TV",
-    "lang": "en",
-    "xmltv_id": "FashionTVAsia.fr@SD"
-  },
-  {
-    "site_id": "233",
-    "name": "DW English",
-    "lang": "en",
-    "xmltv_id": "DW.de@English"
-  },
-  {
-    "site_id": "142",
-    "name": "Champions TV 2",
-    "lang": "en",
-    "xmltv_id": "ChampionsTV2.id@SD"
-  },
-  {
-    "site_id": "243",
-    "name": "Al Jazeera International",
-    "lang": "en",
-    "xmltv_id": "AlJazeera.qa@English"
-  },
-  {
-    "site_id": "15",
-    "name": "Kompas TV",
-    "lang": "en",
-    "xmltv_id": "KompasTV.id@SD"
-  },
-  {
-    "site_id": "45",
-    "name": "Garuda TV",
-    "lang": "en",
-    "xmltv_id": "GarudaTV.id@SD"
-  },
-  {
-    "site_id": "211",
-    "name": "TVBS Asia",
-    "lang": "en",
-    "xmltv_id": "TVBSAsia.tw@SD"
-  },
-  {
-    "site_id": "321",
-    "name": "Champions TV 1 HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "326",
-    "name": "HITS HD",
-    "lang": "en",
-    "xmltv_id": "HITS.sg@SD"
-  },
-  {
-    "site_id": "2",
-    "name": "Investor Daily",
-    "lang": "en"
-  },
-  {
-    "site_id": "14",
-    "name": "TV One",
-    "lang": "id",
-    "xmltv_id": "tvOne.id@SD"
-  },
-  {
-    "site_id": "245",
-    "name": "Al Jazeera Arabic",
-    "lang": "en",
-    "xmltv_id": "AlJazeera.qa@Arabic"
-  },
-  {
-    "site_id": "16",
-    "name": "TVRI Nasional",
-    "lang": "id"
-  },
-  {
-    "site_id": "139",
-    "name": "SPOTV",
-    "lang": "en",
-    "xmltv_id": "SPOTV.id@SD"
-  },
-  {
-    "site_id": "141",
-    "name": "Champions TV 1",
-    "lang": "en",
-    "xmltv_id": "ChampionsTV1.id@SD"
-  },
-  {
-    "site_id": "176",
-    "name": "Wion",
-    "lang": "en",
-    "xmltv_id": "WION.in@SD"
-  },
-  {
-    "site_id": "178",
-    "name": "Zee Action",
-    "lang": "en",
-    "xmltv_id": "ZeeAction.in@SD"
-  },
-  {
-    "site_id": "203",
-    "name": "Phoenix Chinese Channel",
-    "lang": "en",
-    "xmltv_id": "PhoenixChineseChannel.hk@SD"
-  },
-  {
-    "site_id": "260",
-    "name": "TV5 Monde",
-    "lang": "en",
-    "xmltv_id": "TV5MondeAsia.fr@SD"
-  },
-  {
-    "site_id": "145",
-    "name": "First Football",
-    "lang": "en"
-  },
-  {
-    "site_id": "62",
-    "name": "Jakarta TV - Jak TV",
-    "lang": "id",
-    "xmltv_id": "JakTV.id@SD"
-  },
-  {
-    "site_id": "151",
-    "name": "Eurosport",
-    "lang": "en",
-    "xmltv_id": "Eurosport.fr@Asia"
+    "xmltv_id": "JTV.id@SD"
   },
   {
     "site_id": "172",
@@ -625,55 +631,49 @@
     "xmltv_id": "ZeeTVAsiaPacific.sg@SD"
   },
   {
-    "site_id": "215",
-    "name": "Dragon TV",
+    "site_id": "218",
+    "name": "Shenzen TV",
     "lang": "en",
-    "xmltv_id": "DragonTV.cn@SD"
+    "xmltv_id": "ShenzhenTV.cn@SD"
   },
   {
-    "site_id": "237",
-    "name": "Fox News",
+    "site_id": "50",
+    "name": "West Java Network",
+    "lang": "en"
+  },
+  {
+    "site_id": "140",
+    "name": "SPOTV 2",
     "lang": "en",
-    "xmltv_id": "FoxNewsChannel.us@SD"
+    "xmltv_id": "SPOTV2.id@SD"
+  },
+  {
+    "site_id": "234",
+    "name": "Arirang",
+    "lang": "en",
+    "xmltv_id": "ArirangTV.kr@SD"
+  },
+  {
+    "site_id": "326",
+    "name": "HITS HD",
+    "lang": "en",
+    "xmltv_id": "HITS.sg@SD"
+  },
+  {
+    "site_id": "5",
+    "name": "NET.",
+    "lang": "en",
+    "xmltv_id": "NET.id@SD"
+  },
+  {
+    "site_id": "47",
+    "name": "Al Quran Al Kareem",
+    "lang": "en",
+    "xmltv_id": "QuranTV.sa@SD"
   },
   {
     "site_id": "322",
     "name": "Champions TV 2 HD",
     "lang": "en"
-  },
-  {
-    "site_id": "34",
-    "name": "Balai Kota Bandung",
-    "lang": "en"
-  },
-  {
-    "site_id": "53",
-    "name": "GTV",
-    "lang": "en",
-    "xmltv_id": "GTV.id@SD"
-  },
-  {
-    "site_id": "171",
-    "name": "Star Plus",
-    "lang": "en",
-    "xmltv_id": "StarPlus.in@SD"
-  },
-  {
-    "site_id": "236",
-    "name": "CNN International",
-    "lang": "en",
-    "xmltv_id": "CNNInternational.us@AsiaPacific"
-  },
-  {
-    "site_id": "313",
-    "name": "Warner TV HD",
-    "lang": "en",
-    "xmltv_id": "WarnerTVAsia.us@SD"
-  },
-  {
-    "site_id": "125",
-    "name": "Nickelodeon",
-    "lang": "en",
-    "xmltv_id": "NickelodeonAsia.sg@SD"
   }
 ]

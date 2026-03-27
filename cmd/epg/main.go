@@ -21,6 +21,7 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/allente"
 	_ "github.com/gavinmcnair/epg/plugins/astro"
 	_ "github.com/gavinmcnair/epg/plugins/beinsports"
+	_ "github.com/gavinmcnair/epg/plugins/bluech"
 	_ "github.com/gavinmcnair/epg/plugins/canalplus"
 	_ "github.com/gavinmcnair/epg/plugins/cgateslt"
 	_ "github.com/gavinmcnair/epg/plugins/clarobr"
