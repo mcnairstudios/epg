@@ -1,1 +1,622 @@
-[]
+[
+  {
+    "site_id": "gnt",
+    "name": "GNT",
+    "lang": "pt"
+  },
+  {
+    "site_id": "investigacao-discovery",
+    "name": "Investigação Discovery",
+    "lang": "pt"
+  },
+  {
+    "site_id": "nick-jr-",
+    "name": "Nick Jr.",
+    "lang": "pt"
+  },
+  {
+    "site_id": "sportv",
+    "name": "SporTV",
+    "lang": "pt"
+  },
+  {
+    "site_id": "telecine-action",
+    "name": "Telecine Action",
+    "lang": "pt"
+  },
+  {
+    "site_id": "hbo-signature",
+    "name": "HBO Signature",
+    "lang": "pt"
+  },
+  {
+    "site_id": "hbo-xtreme",
+    "name": "HBO Xtreme",
+    "lang": "pt"
+  },
+  {
+    "site_id": "discovery-home-health",
+    "name": "Discovery Home \u0026 Health",
+    "lang": "pt"
+  },
+  {
+    "site_id": "paramount-network",
+    "name": "Paramount Network",
+    "lang": "pt"
+  },
+  {
+    "site_id": "discovery-channel",
+    "name": "Discovery Channel",
+    "lang": "pt"
+  },
+  {
+    "site_id": "espn-2",
+    "name": "ESPN 2",
+    "lang": "pt"
+  },
+  {
+    "site_id": "record-news",
+    "name": "Record News",
+    "lang": "pt"
+  },
+  {
+    "site_id": "rede-familia",
+    "name": "Rede Família",
+    "lang": "pt"
+  },
+  {
+    "site_id": "telecine-pipoca",
+    "name": "Telecine Pipoca",
+    "lang": "pt"
+  },
+  {
+    "site_id": "hbo-pop",
+    "name": "HBO Pop",
+    "lang": "pt"
+  },
+  {
+    "site_id": "lifetime",
+    "name": "Lifetime",
+    "lang": "pt"
+  },
+  {
+    "site_id": "premiere-2",
+    "name": "Premiere 2",
+    "lang": "pt"
+  },
+  {
+    "site_id": "telecine-touch",
+    "name": "Telecine Touch",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tlc",
+    "name": "TLC",
+    "lang": "pt"
+  },
+  {
+    "site_id": "espn",
+    "name": "ESPN",
+    "lang": "pt"
+  },
+  {
+    "site_id": "mtv",
+    "name": "MTV",
+    "lang": "pt"
+  },
+  {
+    "site_id": "studio-universal",
+    "name": "Studio Universal",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tnt-series",
+    "name": "TNT Séries",
+    "lang": "pt"
+  },
+  {
+    "site_id": "espn-4",
+    "name": "ESPN 4",
+    "lang": "pt"
+  },
+  {
+    "site_id": "telecine-cult",
+    "name": "Telecine Cult",
+    "lang": "pt"
+  },
+  {
+    "site_id": "ae",
+    "name": "A\u0026E",
+    "lang": "pt"
+  },
+  {
+    "site_id": "gloobinho",
+    "name": "Gloobinho",
+    "lang": "pt"
+  },
+  {
+    "site_id": "premiere-4",
+    "name": "Premiere 4",
+    "lang": "pt"
+  },
+  {
+    "site_id": "rede-seculo-21",
+    "name": "Rede Século 21",
+    "lang": "pt"
+  },
+  {
+    "site_id": "travel-box-brasil",
+    "name": "Travel Box Brasil",
+    "lang": "pt"
+  },
+  {
+    "site_id": "cartoon-network",
+    "name": "Cartoon Network",
+    "lang": "pt"
+  },
+  {
+    "site_id": "discovery-turbo",
+    "name": "Discovery Turbo",
+    "lang": "pt"
+  },
+  {
+    "site_id": "multishow",
+    "name": "Multishow",
+    "lang": "pt"
+  },
+  {
+    "site_id": "record-tv",
+    "name": "Record TV",
+    "lang": "pt"
+  },
+  {
+    "site_id": "universal-tv",
+    "name": "Universal TV",
+    "lang": "pt"
+  },
+  {
+    "site_id": "animal-planet",
+    "name": "Animal Planet",
+    "lang": "pt"
+  },
+  {
+    "site_id": "food-network",
+    "name": "Food Network",
+    "lang": "pt"
+  },
+  {
+    "site_id": "hbo-mundi",
+    "name": "HBO Mundi",
+    "lang": "pt"
+  },
+  {
+    "site_id": "history",
+    "name": "History",
+    "lang": "pt"
+  },
+  {
+    "site_id": "history-2",
+    "name": "History 2",
+    "lang": "pt"
+  },
+  {
+    "site_id": "off",
+    "name": "Off",
+    "lang": "pt"
+  },
+  {
+    "site_id": "prime-box-brazil",
+    "name": "Prime Box Brazil",
+    "lang": "pt"
+  },
+  {
+    "site_id": "trutv",
+    "name": "truTV",
+    "lang": "pt"
+  },
+  {
+    "site_id": "mtv-live",
+    "name": "MTV LIVE",
+    "lang": "pt"
+  },
+  {
+    "site_id": "premiere-5",
+    "name": "Premiere 5",
+    "lang": "pt"
+  },
+  {
+    "site_id": "rede-brasil",
+    "name": "Rede Brasil",
+    "lang": "pt"
+  },
+  {
+    "site_id": "syfy",
+    "name": "Syfy",
+    "lang": "pt"
+  },
+  {
+    "site_id": "telecine-fun",
+    "name": "Telecine Fun",
+    "lang": "pt"
+  },
+  {
+    "site_id": "telecine-premium",
+    "name": "Telecine Premium",
+    "lang": "pt"
+  },
+  {
+    "site_id": "terra-viva",
+    "name": "Terra Viva",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tv-ra-tim-bum",
+    "name": "TV Rá Tim Bum",
+    "lang": "pt"
+  },
+  {
+    "site_id": "combate",
+    "name": "Combate",
+    "lang": "pt"
+  },
+  {
+    "site_id": "espn-5",
+    "name": "ESPN 5",
+    "lang": "pt"
+  },
+  {
+    "site_id": "megapix",
+    "name": "Megapix",
+    "lang": "pt"
+  },
+  {
+    "site_id": "amc",
+    "name": "AMC",
+    "lang": "pt"
+  },
+  {
+    "site_id": "curta",
+    "name": "Curta!",
+    "lang": "pt"
+  },
+  {
+    "site_id": "futura",
+    "name": "Futura",
+    "lang": "pt"
+  },
+  {
+    "site_id": "sony",
+    "name": "Sony",
+    "lang": "pt"
+  },
+  {
+    "site_id": "warner",
+    "name": "Warner",
+    "lang": "pt"
+  },
+  {
+    "site_id": "hbo-family",
+    "name": "HBO Family",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tv-camara",
+    "name": "TV Câmara",
+    "lang": "pt"
+  },
+  {
+    "site_id": "discovery-science",
+    "name": "Discovery Science",
+    "lang": "pt"
+  },
+  {
+    "site_id": "band",
+    "name": "Band",
+    "lang": "pt"
+  },
+  {
+    "site_id": "bandsports",
+    "name": "Bandsports",
+    "lang": "pt"
+  },
+  {
+    "site_id": "bis",
+    "name": "Bis",
+    "lang": "pt"
+  },
+  {
+    "site_id": "disney",
+    "name": "Disney",
+    "lang": "pt"
+  },
+  {
+    "site_id": "e",
+    "name": "E!",
+    "lang": "pt"
+  },
+  {
+    "site_id": "hgtv",
+    "name": "HGTV",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tv-gazeta",
+    "name": "Tv Gazeta",
+    "lang": "pt"
+  },
+  {
+    "site_id": "canal-educacao",
+    "name": "Canal Educação",
+    "lang": "pt"
+  },
+  {
+    "site_id": "espn-6",
+    "name": "ESPN 6",
+    "lang": "pt"
+  },
+  {
+    "site_id": "discovery-kids",
+    "name": "Discovery Kids",
+    "lang": "pt"
+  },
+  {
+    "site_id": "hbo-2",
+    "name": "HBO 2",
+    "lang": "pt"
+  },
+  {
+    "site_id": "national-geographic",
+    "name": "National Geographic",
+    "lang": "pt"
+  },
+  {
+    "site_id": "sbt",
+    "name": "SBT",
+    "lang": "pt"
+  },
+  {
+    "site_id": "globo-news",
+    "name": "Globo News",
+    "lang": "pt"
+  },
+  {
+    "site_id": "star-channel",
+    "name": "STAR Channel",
+    "lang": "pt"
+  },
+  {
+    "site_id": "canal-rural",
+    "name": "Canal Rural",
+    "lang": "pt"
+  },
+  {
+    "site_id": "cnn-brasil",
+    "name": "CNN Brasil",
+    "lang": "pt"
+  },
+  {
+    "site_id": "premiere-7",
+    "name": "Premiere 7",
+    "lang": "pt"
+  },
+  {
+    "site_id": "space",
+    "name": "Space",
+    "lang": "pt"
+  },
+  {
+    "site_id": "sportv-2",
+    "name": "SporTV 2",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tnt-novelas",
+    "name": "TNT Novelas",
+    "lang": "pt"
+  },
+  {
+    "site_id": "hbo-plus",
+    "name": "HBO Plus",
+    "lang": "pt"
+  },
+  {
+    "site_id": "cancao-nova",
+    "name": "Canção Nova",
+    "lang": "pt"
+  },
+  {
+    "site_id": "espn-3",
+    "name": "ESPN 3",
+    "lang": "pt"
+  },
+  {
+    "site_id": "film-arts",
+    "name": "Film \u0026 Arts",
+    "lang": "pt"
+  },
+  {
+    "site_id": "fox-news",
+    "name": "Fox News",
+    "lang": "pt"
+  },
+  {
+    "site_id": "nickelodeon",
+    "name": "Nickelodeon",
+    "lang": "pt"
+  },
+  {
+    "site_id": "discovery-world",
+    "name": "Discovery World",
+    "lang": "pt"
+  },
+  {
+    "site_id": "globo",
+    "name": "Globo",
+    "lang": "pt"
+  },
+  {
+    "site_id": "hbo",
+    "name": "HBO",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tnt",
+    "name": "TNT",
+    "lang": "pt"
+  },
+  {
+    "site_id": "cartoonito",
+    "name": "Cartoonito",
+    "lang": "pt"
+  },
+  {
+    "site_id": "rede-tv",
+    "name": "Rede TV",
+    "lang": "pt"
+  },
+  {
+    "site_id": "woohoo",
+    "name": "Woohoo",
+    "lang": "pt"
+  },
+  {
+    "site_id": "axn",
+    "name": "AXN",
+    "lang": "pt"
+  },
+  {
+    "site_id": "jovem-pan-news",
+    "name": "Jovem Pan News",
+    "lang": "pt"
+  },
+  {
+    "site_id": "premiere-6",
+    "name": "Premiere 6",
+    "lang": "pt"
+  },
+  {
+    "site_id": "rede-vida",
+    "name": "Rede Vida",
+    "lang": "pt"
+  },
+  {
+    "site_id": "comedy-central",
+    "name": "Comedy Central",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tooncast",
+    "name": "Tooncast",
+    "lang": "pt"
+  },
+  {
+    "site_id": "viva",
+    "name": "Viva",
+    "lang": "pt"
+  },
+  {
+    "site_id": "bbc-world",
+    "name": "BBC World",
+    "lang": "pt"
+  },
+  {
+    "site_id": "cinemax",
+    "name": "Cinemax",
+    "lang": "pt"
+  },
+  {
+    "site_id": "rede-gospel",
+    "name": "Rede Gospel",
+    "lang": "pt"
+  },
+  {
+    "site_id": "sportv-3",
+    "name": "SporTV 3",
+    "lang": "pt"
+  },
+  {
+    "site_id": "premiere-3",
+    "name": "Premiere 3",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tv-aparecida",
+    "name": "TV Aparecida",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tv-cultura",
+    "name": "TV Cultura",
+    "lang": "pt"
+  },
+  {
+    "site_id": "bandnews",
+    "name": "Bandnews",
+    "lang": "pt"
+  },
+  {
+    "site_id": "gloob",
+    "name": "Gloob",
+    "lang": "pt"
+  },
+  {
+    "site_id": "premiere-fc",
+    "name": "Premiere FC",
+    "lang": "pt"
+  },
+  {
+    "site_id": "sony-movies",
+    "name": "SONY Movies",
+    "lang": "pt"
+  },
+  {
+    "site_id": "agro",
+    "name": "Agro+",
+    "lang": "pt"
+  },
+  {
+    "site_id": "box-kids",
+    "name": "Box Kids",
+    "lang": "pt"
+  },
+  {
+    "site_id": "cinecanal",
+    "name": "Cinecanal",
+    "lang": "pt"
+  },
+  {
+    "site_id": "discovery-theater",
+    "name": "Discovery Theater",
+    "lang": "pt"
+  },
+  {
+    "site_id": "fx",
+    "name": "FX",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tv-brasil",
+    "name": "TV Brasil",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tcm",
+    "name": "TCM",
+    "lang": "pt"
+  },
+  {
+    "site_id": "arte-1",
+    "name": "Arte 1",
+    "lang": "pt"
+  },
+  {
+    "site_id": "bloomberg",
+    "name": "Bloomberg",
+    "lang": "pt"
+  },
+  {
+    "site_id": "tv-senado",
+    "name": "TV Senado",
+    "lang": "pt"
+  }
+]

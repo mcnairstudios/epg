@@ -1,102 +1,53 @@
 [
   {
-    "site_id": "DEUTSCHE WELLE",
-    "name": "DEUTSCHE WELLE",
+    "site_id": "REDE RECORD",
+    "name": "REDE RECORD",
     "lang": "es"
   },
   {
-    "site_id": "FILM\u0026ARTS",
-    "name": "FILM\u0026ARTS",
+    "site_id": "TRU TV HD",
+    "name": "TRU TV HD",
     "lang": "es"
   },
   {
-    "site_id": "RAI",
-    "name": "RAI",
+    "site_id": "TYC SPORTS HD",
+    "name": "TYC SPORTS HD",
     "lang": "es"
   },
   {
-    "site_id": "TOONCAST",
-    "name": "TOONCAST",
-    "lang": "es",
-    "xmltv_id": "Tooncast.us@SD"
-  },
-  {
-    "site_id": "UNIVERSAL CRIME HD",
-    "name": "UNIVERSAL CRIME HD",
+    "site_id": "WARNER",
+    "name": "WARNER",
     "lang": "es"
   },
   {
-    "site_id": "MTV HD",
-    "name": "MTV HD",
+    "site_id": "DISNEY",
+    "name": "DISNEY",
     "lang": "es"
   },
   {
-    "site_id": "AXN HD",
-    "name": "AXN HD",
+    "site_id": "HBO 2 HD",
+    "name": "HBO 2 HD",
     "lang": "es"
   },
   {
-    "site_id": "BBC WORLD",
-    "name": "BBC WORLD",
-    "lang": "es",
-    "xmltv_id": "BBCNews.uk@LatinAmerica"
-  },
-  {
-    "site_id": "CANAL 24 HS",
-    "name": "CANAL 24 HS",
+    "site_id": "MTV 80S",
+    "name": "MTV 80S",
     "lang": "es"
   },
   {
-    "site_id": "EWTN",
-    "name": "EWTN",
+    "site_id": "TELEMUNDO",
+    "name": "TELEMUNDO",
     "lang": "es"
   },
   {
-    "site_id": "HISTORY",
-    "name": "HISTORY",
+    "site_id": "WARNER HD",
+    "name": "WARNER HD",
     "lang": "es"
   },
   {
-    "site_id": "TELEDOCE",
-    "name": "TELEDOCE",
-    "lang": "es",
-    "xmltv_id": "Teledoce.uy@SD"
-  },
-  {
-    "site_id": "UNIVERSAL CINEMA HD",
-    "name": "UNIVERSAL CINEMA HD",
+    "site_id": "DISCOVERY HD THEATER",
+    "name": "DISCOVERY HD THEATER",
     "lang": "es"
-  },
-  {
-    "site_id": "NICK JR",
-    "name": "NICK JR",
-    "lang": "es"
-  },
-  {
-    "site_id": "AXN",
-    "name": "AXN",
-    "lang": "es"
-  },
-  {
-    "site_id": "FOX SPORTS 2",
-    "name": "FOX SPORTS 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "FX HD",
-    "name": "FX HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "LIFETIME",
-    "name": "LIFETIME",
-    "lang": "es"
-  },
-  {
-    "site_id": "PLAYBOY",
-    "name": "PLAYBOY",
-    "lang": "es",
-    "xmltv_id": "PlayboyTVLatinAmerica.us@SD"
   },
   {
     "site_id": "EL GOURMET",
@@ -109,8 +60,86 @@
     "lang": "es"
   },
   {
-    "site_id": "SONY",
-    "name": "SONY",
+    "site_id": "NAT GEO HD",
+    "name": "NAT GEO HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "TELEMUNDO HD",
+    "name": "TELEMUNDO HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "UNIVERSAL CHANNEL",
+    "name": "UNIVERSAL CHANNEL",
+    "lang": "es"
+  },
+  {
+    "site_id": "AMC HD",
+    "name": "AMC HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "FX",
+    "name": "FX",
+    "lang": "es"
+  },
+  {
+    "site_id": "SONY MOVIES HD",
+    "name": "SONY MOVIES HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "UNIVERSAL COMEDY HD",
+    "name": "UNIVERSAL COMEDY HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "ANIMAL PLANET HD",
+    "name": "ANIMAL PLANET HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "DISCOVERY HD",
+    "name": "DISCOVERY HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "ESPN 3",
+    "name": "ESPN 3",
+    "lang": "es"
+  },
+  {
+    "site_id": "NS EVENTOS 3",
+    "name": "NS EVENTOS 3",
+    "lang": "es",
+    "xmltv_id": "NSEventos3.uy@SD"
+  },
+  {
+    "site_id": "TNT SERIES",
+    "name": "TNT SERIES",
+    "lang": "es"
+  },
+  {
+    "site_id": "CANAL 5",
+    "name": "CANAL 5",
+    "lang": "es",
+    "xmltv_id": "Canal5.uy@SD"
+  },
+  {
+    "site_id": "TOONCAST",
+    "name": "TOONCAST",
+    "lang": "es",
+    "xmltv_id": "Tooncast.us@SD"
+  },
+  {
+    "site_id": "DISCOVERY KIDS HD",
+    "name": "DISCOVERY KIDS HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "MAS CHIC",
+    "name": "MAS CHIC",
     "lang": "es"
   },
   {
@@ -125,86 +154,108 @@
     "xmltv_id": "GoldenPlus.mx@SD"
   },
   {
-    "site_id": "MAS CHIC",
-    "name": "MAS CHIC",
-    "lang": "es"
-  },
-  {
-    "site_id": "STAR CHANNEL HD",
-    "name": "STAR CHANNEL HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "TEVECIUDAD",
-    "name": "TEVECIUDAD",
+    "site_id": "SEXTREME",
+    "name": "SEXTREME",
     "lang": "es",
-    "xmltv_id": "TVCiudad.uy@SD"
+    "xmltv_id": "Sextreme.br@SD"
   },
   {
-    "site_id": "DISCOVERY ID HD",
-    "name": "DISCOVERY ID HD",
+    "site_id": "SONY",
+    "name": "SONY",
     "lang": "es"
   },
   {
-    "site_id": "ESPN 4 HD",
-    "name": "ESPN 4 HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "FOX SPORTS 2 HD",
-    "name": "FOX SPORTS 2 HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "TYC SPORTS",
-    "name": "TYC SPORTS",
-    "lang": "es"
-  },
-  {
-    "site_id": "CINEMAX",
-    "name": "CINEMAX",
-    "lang": "es"
-  },
-  {
-    "site_id": "FOX NEWS",
-    "name": "FOX NEWS",
+    "site_id": "TRU TV",
+    "name": "TRU TV",
     "lang": "es",
-    "xmltv_id": "FoxNewsChannel.us@SD"
+    "xmltv_id": "truTVLatinAmerica.us@SD"
   },
   {
-    "site_id": "FOX SPORTS 3",
-    "name": "FOX SPORTS 3",
+    "site_id": "UNIVERSAL PREMIERE HD",
+    "name": "UNIVERSAL PREMIERE HD",
     "lang": "es"
   },
   {
-    "site_id": "HBO",
-    "name": "HBO",
+    "site_id": "ALLEGRO HD",
+    "name": "ALLEGRO HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "CIUDAD MAGAZINE",
+    "name": "CIUDAD MAGAZINE",
     "lang": "es",
-    "xmltv_id": "HBOLatinAmerica.us@SD"
+    "xmltv_id": "CiudadMagazine.ar@SD"
   },
   {
-    "site_id": "QUIERO",
-    "name": "QUIERO",
+    "site_id": "CRONICA TV",
+    "name": "CRONICA TV",
+    "lang": "es",
+    "xmltv_id": "CronicaTV.ar@SD"
+  },
+  {
+    "site_id": "DISCOVERY ID",
+    "name": "DISCOVERY ID",
     "lang": "es"
   },
   {
-    "site_id": "SONY HD",
-    "name": "SONY HD",
+    "site_id": "ESPN 4",
+    "name": "ESPN 4",
     "lang": "es"
   },
   {
-    "site_id": "TELEMUNDO HD",
-    "name": "TELEMUNDO HD",
+    "site_id": "EWTN",
+    "name": "EWTN",
     "lang": "es"
   },
   {
-    "site_id": "A\u0026E MUNDO HD",
-    "name": "A\u0026E MUNDO HD",
+    "site_id": "FOX SPORTS 2",
+    "name": "FOX SPORTS 2",
     "lang": "es"
   },
   {
-    "site_id": "GLITZ",
-    "name": "GLITZ",
+    "site_id": "HBO PLUS HD",
+    "name": "HBO PLUS HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "ESPN 2",
+    "name": "ESPN 2",
+    "lang": "es"
+  },
+  {
+    "site_id": "ESPN 2 HD",
+    "name": "ESPN 2 HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "MTV",
+    "name": "MTV",
+    "lang": "es"
+  },
+  {
+    "site_id": "PARAMOUNT NETWORK",
+    "name": "PARAMOUNT NETWORK",
+    "lang": "es"
+  },
+  {
+    "site_id": "STUDIO UNIVERSAL",
+    "name": "STUDIO UNIVERSAL",
+    "lang": "es"
+  },
+  {
+    "site_id": "TNT",
+    "name": "TNT",
+    "lang": "es"
+  },
+  {
+    "site_id": "CNN EN ESPAÑOL",
+    "name": "CNN EN ESPAÑOL",
+    "lang": "es",
+    "xmltv_id": "CNNenEspanol.us@SD"
+  },
+  {
+    "site_id": "ESPN",
+    "name": "ESPN",
     "lang": "es"
   },
   {
@@ -214,119 +265,59 @@
     "xmltv_id": "HBOFamilyLatinAmerica.us@SD"
   },
   {
-    "site_id": "HBO POP HD",
-    "name": "HBO POP HD",
+    "site_id": "DISCOVERY TLC HD",
+    "name": "DISCOVERY TLC HD",
     "lang": "es"
   },
   {
-    "site_id": "SONY MOVIES HD",
-    "name": "SONY MOVIES HD",
+    "site_id": "FOX SPORTS 3",
+    "name": "FOX SPORTS 3",
     "lang": "es"
   },
   {
-    "site_id": "CINECANAL",
-    "name": "CINECANAL",
+    "site_id": "HBO HD",
+    "name": "HBO HD",
     "lang": "es"
   },
   {
-    "site_id": "DISCOVERY ID",
-    "name": "DISCOVERY ID",
+    "site_id": "HGTV",
+    "name": "HGTV",
     "lang": "es"
   },
   {
-    "site_id": "ESPN 3 HD",
-    "name": "ESPN 3 HD",
+    "site_id": "HOME AND HEALTH",
+    "name": "HOME AND HEALTH",
     "lang": "es"
   },
   {
-    "site_id": "HBO SIGNATURE HD",
-    "name": "HBO SIGNATURE HD",
+    "site_id": "LIFETIME",
+    "name": "LIFETIME",
+    "lang": "es"
+  },
+  {
+    "site_id": "TBS",
+    "name": "TBS",
+    "lang": "es"
+  },
+  {
+    "site_id": "ANTENA3 HD",
+    "name": "ANTENA3 HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "ATRESERIES",
+    "name": "ATRESERIES",
+    "lang": "es"
+  },
+  {
+    "site_id": "CARTOONITO",
+    "name": "CARTOONITO",
     "lang": "es",
-    "xmltv_id": "HBOSignatureLatinAmerica.us@SD"
+    "xmltv_id": "CartoonitoLatinAmerica.us@SD"
   },
   {
-    "site_id": "NAT GEO HD",
-    "name": "NAT GEO HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "NS EVENTOS 2",
-    "name": "NS EVENTOS 2",
-    "lang": "es",
-    "xmltv_id": "NSEventos2.uy@SD"
-  },
-  {
-    "site_id": "BABY TV",
-    "name": "BABY TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "ESPN",
-    "name": "ESPN",
-    "lang": "es"
-  },
-  {
-    "site_id": "PARAMOUNT NETWORK",
-    "name": "PARAMOUNT NETWORK",
-    "lang": "es"
-  },
-  {
-    "site_id": "SY FY",
-    "name": "SY FY",
-    "lang": "es"
-  },
-  {
-    "site_id": "TLC",
-    "name": "TLC",
-    "lang": "es"
-  },
-  {
-    "site_id": "UNIVERSAL PREMIERE HD",
-    "name": "UNIVERSAL PREMIERE HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "HBO MUNDI HD",
-    "name": "HBO MUNDI HD",
-    "lang": "es",
-    "xmltv_id": "HBOMundiLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "LAS ESTRELLAS HD",
-    "name": "LAS ESTRELLAS HD",
-    "lang": "es",
-    "xmltv_id": "LasEstrellasLatinAmerica.mx@SD"
-  },
-  {
-    "site_id": "REDE RECORD",
-    "name": "REDE RECORD",
-    "lang": "es"
-  },
-  {
-    "site_id": "TYC SPORTS HD",
-    "name": "TYC SPORTS HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "TRU TV HD",
-    "name": "TRU TV HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "VTV",
-    "name": "VTV",
-    "lang": "es",
-    "xmltv_id": "VTV.uy@SD"
-  },
-  {
-    "site_id": "CIUDAD MAGAZINE",
-    "name": "CIUDAD MAGAZINE",
-    "lang": "es",
-    "xmltv_id": "CiudadMagazine.ar@SD"
-  },
-  {
-    "site_id": "DISCOVERY SCIENCE HD",
-    "name": "DISCOVERY SCIENCE HD",
+    "site_id": "ESPN EXTRA HD",
+    "name": "ESPN EXTRA HD",
     "lang": "es"
   },
   {
@@ -336,103 +327,63 @@
     "xmltv_id": "GaliciaTVAmerica.es@SD"
   },
   {
-    "site_id": "TELEMUNDO",
-    "name": "TELEMUNDO",
+    "site_id": "NATIONAL GEOGRAPHIC",
+    "name": "NATIONAL GEOGRAPHIC",
     "lang": "es"
   },
   {
-    "site_id": "TN",
-    "name": "TN",
+    "site_id": "STUDIO UNIVERSAL HD",
+    "name": "STUDIO UNIVERSAL HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "TVE",
+    "name": "TVE",
+    "lang": "es"
+  },
+  {
+    "site_id": "DISCOVERY ID HD",
+    "name": "DISCOVERY ID HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "ESPN 3 HD",
+    "name": "ESPN 3 HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "HOLA TV",
+    "name": "HOLA TV",
     "lang": "es",
-    "xmltv_id": "TN.ar@SD"
+    "xmltv_id": "HolaTVLatinAmerica.us@SD"
   },
   {
-    "site_id": "TNT SERIES HD",
-    "name": "TNT SERIES HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "DISCOVERY KIDS HD",
-    "name": "DISCOVERY KIDS HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "ESPN 2",
-    "name": "ESPN 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "HOME AND HEALTH",
-    "name": "HOME AND HEALTH",
-    "lang": "es"
-  },
-  {
-    "site_id": "TCM",
-    "name": "TCM",
-    "lang": "es"
-  },
-  {
-    "site_id": "ATRESERIES",
-    "name": "ATRESERIES",
-    "lang": "es"
-  },
-  {
-    "site_id": "BLOOMBERG",
-    "name": "BLOOMBERG",
+    "site_id": "NS EVENTOS 1",
+    "name": "NS EVENTOS 1",
     "lang": "es",
-    "xmltv_id": "BloombergTV.us@US"
+    "xmltv_id": "NSEventos1.uy@SD"
   },
   {
-    "site_id": "CINECANAL HD",
-    "name": "CINECANAL HD",
+    "site_id": "REDE TV",
+    "name": "REDE TV",
     "lang": "es"
   },
   {
-    "site_id": "CRONICA TV",
-    "name": "CRONICA TV",
+    "site_id": "AMC",
+    "name": "AMC",
+    "lang": "es"
+  },
+  {
+    "site_id": "EUROCHANNEL",
+    "name": "EUROCHANNEL",
     "lang": "es",
-    "xmltv_id": "CronicaTV.ar@SD"
+    "xmltv_id": "Eurochannel.uk@SD"
   },
   {
-    "site_id": "FILM\u0026ARTS HD",
-    "name": "FILM\u0026ARTS HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "STUDIO UNIVERSAL",
-    "name": "STUDIO UNIVERSAL",
-    "lang": "es"
-  },
-  {
-    "site_id": "TV 5",
-    "name": "TV 5",
-    "lang": "es"
-  },
-  {
-    "site_id": "TVE HD",
-    "name": "TVE HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "26 TV HD",
-    "name": "26 TV HD",
+    "site_id": "TELEDOCE",
+    "name": "TELEDOCE",
     "lang": "es",
-    "xmltv_id": "Canal26.ar@SD"
-  },
-  {
-    "site_id": "ESPN 4",
-    "name": "ESPN 4",
-    "lang": "es"
-  },
-  {
-    "site_id": "SPORTV",
-    "name": "SPORTV",
-    "lang": "es"
-  },
-  {
-    "site_id": "TV GLOBO HD",
-    "name": "TV GLOBO HD",
-    "lang": "es"
+    "xmltv_id": "Teledoce.uy@SD"
   },
   {
     "site_id": "UNIVERSAL CHANNEL HD",
@@ -440,29 +391,55 @@
     "lang": "es"
   },
   {
-    "site_id": "UNIVERSAL COMEDY HD",
-    "name": "UNIVERSAL COMEDY HD",
+    "site_id": "CINECANAL HD",
+    "name": "CINECANAL HD",
     "lang": "es"
   },
   {
-    "site_id": "FOX SPORTS 3 HD",
-    "name": "FOX SPORTS 3 HD",
+    "site_id": "A3CINE",
+    "name": "A3CINE",
     "lang": "es"
   },
   {
-    "site_id": "GOLDEN PREMIER HD",
-    "name": "GOLDEN PREMIER HD",
+    "site_id": "HBO MUNDI HD",
+    "name": "HBO MUNDI HD",
     "lang": "es",
-    "xmltv_id": "GoldenPremier.mx@SD"
+    "xmltv_id": "HBOMundiLatinAmerica.us@SD"
   },
   {
-    "site_id": "HGTV",
-    "name": "HGTV",
+    "site_id": "HBO XTREME HD",
+    "name": "HBO XTREME HD",
+    "lang": "es",
+    "xmltv_id": "HBOXtremeLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "MAS CHIC HD",
+    "name": "MAS CHIC HD",
     "lang": "es"
   },
   {
-    "site_id": "MTV 80S",
-    "name": "MTV 80S",
+    "site_id": "CANAL 24 HS",
+    "name": "CANAL 24 HS",
+    "lang": "es"
+  },
+  {
+    "site_id": "CINEMAX HD",
+    "name": "CINEMAX HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "MTV HD",
+    "name": "MTV HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "PENTHOUSE",
+    "name": "PENTHOUSE",
+    "lang": "es"
+  },
+  {
+    "site_id": "STAR CHANNEL HD",
+    "name": "STAR CHANNEL HD",
     "lang": "es"
   },
   {
@@ -478,40 +455,26 @@
     "xmltv_id": "VTVPlus.uy@SD"
   },
   {
-    "site_id": "ANIMAL PLANET",
-    "name": "ANIMAL PLANET",
+    "site_id": "SPACE HD",
+    "name": "SPACE HD",
     "lang": "es"
   },
   {
-    "site_id": "MAS CHIC HD",
-    "name": "MAS CHIC HD",
+    "site_id": "SPORTV",
+    "name": "SPORTV",
     "lang": "es"
   },
   {
-    "site_id": "MTV CLUB",
-    "name": "MTV CLUB",
-    "lang": "es"
-  },
-  {
-    "site_id": "NS EVENTOS 3",
-    "name": "NS EVENTOS 3",
+    "site_id": "TN",
+    "name": "TN",
     "lang": "es",
-    "xmltv_id": "NSEventos3.uy@SD"
+    "xmltv_id": "TN.ar@SD"
   },
   {
-    "site_id": "HBO PLUS HD",
-    "name": "HBO PLUS HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "PENTHOUSE",
-    "name": "PENTHOUSE",
-    "lang": "es"
-  },
-  {
-    "site_id": "A3CINE",
-    "name": "A3CINE",
-    "lang": "es"
+    "site_id": "TVN CHILE",
+    "name": "TVN CHILE",
+    "lang": "es",
+    "xmltv_id": "TVChile.cl@SD"
   },
   {
     "site_id": "AMERICA 2",
@@ -519,56 +482,18 @@
     "lang": "es"
   },
   {
-    "site_id": "ESPN 3",
-    "name": "ESPN 3",
+    "site_id": "DISCOVERY KIDS",
+    "name": "DISCOVERY KIDS",
     "lang": "es"
   },
   {
-    "site_id": "GOL TV",
-    "name": "GOL TV",
-    "lang": "es",
-    "xmltv_id": "GolTVLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "LN+",
-    "name": "LN+",
-    "lang": "es",
-    "xmltv_id": "LaNacionPlus.ar@SD"
-  },
-  {
-    "site_id": "AMC",
-    "name": "AMC",
+    "site_id": "FILM\u0026ARTS",
+    "name": "FILM\u0026ARTS",
     "lang": "es"
   },
   {
-    "site_id": "DISCOVERY TLC HD",
-    "name": "DISCOVERY TLC HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "DISCOVERY TURBO HD",
-    "name": "DISCOVERY TURBO HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "DISNEY",
-    "name": "DISNEY",
-    "lang": "es"
-  },
-  {
-    "site_id": "NUEVO SIGLO TV",
-    "name": "NUEVO SIGLO TV",
-    "lang": "es",
-    "xmltv_id": "NuevoSigloTV.uy@SD"
-  },
-  {
-    "site_id": "SPACE HD",
-    "name": "SPACE HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "TNT HD",
-    "name": "TNT HD",
+    "site_id": "STAR CHANNEL",
+    "name": "STAR CHANNEL",
     "lang": "es"
   },
   {
@@ -577,39 +502,63 @@
     "lang": "es"
   },
   {
-    "site_id": "ANTENA3 HD",
-    "name": "ANTENA3 HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "A24",
-    "name": "A24",
+    "site_id": "VENUS",
+    "name": "VENUS",
     "lang": "es",
-    "xmltv_id": "A24.ar@SD"
+    "xmltv_id": "Venus.ar@SD"
   },
   {
-    "site_id": "ESPN EXTRA HD",
-    "name": "ESPN EXTRA HD",
+    "site_id": "BBC WORLD",
+    "name": "BBC WORLD",
+    "lang": "es",
+    "xmltv_id": "BBCNews.uk@LatinAmerica"
+  },
+  {
+    "site_id": "CINECANAL",
+    "name": "CINECANAL",
     "lang": "es"
   },
   {
-    "site_id": "HBO HD",
-    "name": "HBO HD",
+    "site_id": "GOLDEN PREMIER HD",
+    "name": "GOLDEN PREMIER HD",
+    "lang": "es",
+    "xmltv_id": "GoldenPremier.mx@SD"
+  },
+  {
+    "site_id": "H2 HD",
+    "name": "H2 HD",
     "lang": "es"
   },
   {
-    "site_id": "HISTORY HD",
-    "name": "HISTORY HD",
+    "site_id": "HBO",
+    "name": "HBO",
+    "lang": "es",
+    "xmltv_id": "HBOLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "NS EVENTOS 2",
+    "name": "NS EVENTOS 2",
+    "lang": "es",
+    "xmltv_id": "NSEventos2.uy@SD"
+  },
+  {
+    "site_id": "TCM",
+    "name": "TCM",
     "lang": "es"
   },
   {
-    "site_id": "ALLEGRO HD",
-    "name": "ALLEGRO HD",
+    "site_id": "DISCOVERY WORLD HD",
+    "name": "DISCOVERY WORLD HD",
     "lang": "es"
   },
   {
-    "site_id": "ANIMAL PLANET HD",
-    "name": "ANIMAL PLANET HD",
+    "site_id": "ESPN 4 HD",
+    "name": "ESPN 4 HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "FOX SPORTS 2 HD",
+    "name": "FOX SPORTS 2 HD",
     "lang": "es"
   },
   {
@@ -618,8 +567,112 @@
     "lang": "es"
   },
   {
-    "site_id": "HBO 2 HD",
-    "name": "HBO 2 HD",
+    "site_id": "HISTORY HD",
+    "name": "HISTORY HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "A\u0026E MUNDO HD",
+    "name": "A\u0026E MUNDO HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "CARTOON NETWORK HD",
+    "name": "CARTOON NETWORK HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "EL GOURMET HD",
+    "name": "EL GOURMET HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "HISTORY",
+    "name": "HISTORY",
+    "lang": "es"
+  },
+  {
+    "site_id": "SONY HD",
+    "name": "SONY HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "TNT SERIES HD",
+    "name": "TNT SERIES HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "AXN",
+    "name": "AXN",
+    "lang": "es"
+  },
+  {
+    "site_id": "CINEMAX",
+    "name": "CINEMAX",
+    "lang": "es"
+  },
+  {
+    "site_id": "FOOD NETWORK",
+    "name": "FOOD NETWORK",
+    "lang": "es"
+  },
+  {
+    "site_id": "FOX NEWS",
+    "name": "FOX NEWS",
+    "lang": "es",
+    "xmltv_id": "FoxNewsChannel.us@SD"
+  },
+  {
+    "site_id": "SY FY",
+    "name": "SY FY",
+    "lang": "es"
+  },
+  {
+    "site_id": "DISNEY JR",
+    "name": "DISNEY JR",
+    "lang": "es"
+  },
+  {
+    "site_id": "ENTERTAINMENT TELEVISION",
+    "name": "ENTERTAINMENT TELEVISION",
+    "lang": "es"
+  },
+  {
+    "site_id": "NICKELODEON",
+    "name": "NICKELODEON",
+    "lang": "es"
+  },
+  {
+    "site_id": "TV 5",
+    "name": "TV 5",
+    "lang": "es"
+  },
+  {
+    "site_id": "ANIMAL PLANET",
+    "name": "ANIMAL PLANET",
+    "lang": "es"
+  },
+  {
+    "site_id": "BLOOMBERG",
+    "name": "BLOOMBERG",
+    "lang": "es",
+    "xmltv_id": "BloombergTV.us@US"
+  },
+  {
+    "site_id": "C5N",
+    "name": "C5N",
+    "lang": "es",
+    "xmltv_id": "C5N.ar@SD"
+  },
+  {
+    "site_id": "CANAL VASCO",
+    "name": "CANAL VASCO",
+    "lang": "es",
+    "xmltv_id": "ETBBasque.es@SD"
+  },
+  {
+    "site_id": "DISCOVERY TURBO HD",
+    "name": "DISCOVERY TURBO HD",
     "lang": "es"
   },
   {
@@ -629,8 +682,56 @@
     "xmltv_id": "KanalDDrama.tr@SD"
   },
   {
-    "site_id": "NATIONAL GEOGRAPHIC",
-    "name": "NATIONAL GEOGRAPHIC",
+    "site_id": "MTV CLUB",
+    "name": "MTV CLUB",
+    "lang": "es"
+  },
+  {
+    "site_id": "UNIVERSAL CINEMA HD",
+    "name": "UNIVERSAL CINEMA HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "26 TV HD",
+    "name": "26 TV HD",
+    "lang": "es",
+    "xmltv_id": "Canal26.ar@SD"
+  },
+  {
+    "site_id": "A24",
+    "name": "A24",
+    "lang": "es",
+    "xmltv_id": "A24.ar@SD"
+  },
+  {
+    "site_id": "IVC",
+    "name": "IVC",
+    "lang": "es"
+  },
+  {
+    "site_id": "QUIERO",
+    "name": "QUIERO",
+    "lang": "es"
+  },
+  {
+    "site_id": "VTV",
+    "name": "VTV",
+    "lang": "es",
+    "xmltv_id": "VTV.uy@SD"
+  },
+  {
+    "site_id": "AXN HD",
+    "name": "AXN HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "ESPN HD",
+    "name": "ESPN HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "FOX SPORTS 3 HD",
+    "name": "FOX SPORTS 3 HD",
     "lang": "es"
   },
   {
@@ -645,51 +746,9 @@
     "xmltv_id": "Canal10.uy@SD"
   },
   {
-    "site_id": "A\u0026E MUNDO",
-    "name": "A\u0026E MUNDO",
+    "site_id": "UNIVERSAL CRIME HD",
+    "name": "UNIVERSAL CRIME HD",
     "lang": "es"
-  },
-  {
-    "site_id": "CANAL 5",
-    "name": "CANAL 5",
-    "lang": "es",
-    "xmltv_id": "Canal5.uy@SD"
-  },
-  {
-    "site_id": "CARTOON NETWORK",
-    "name": "CARTOON NETWORK",
-    "lang": "es"
-  },
-  {
-    "site_id": "H2 HD",
-    "name": "H2 HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "I-SAT",
-    "name": "I-SAT",
-    "lang": "es"
-  },
-  {
-    "site_id": "IVC",
-    "name": "IVC",
-    "lang": "es"
-  },
-  {
-    "site_id": "TBS",
-    "name": "TBS",
-    "lang": "es"
-  },
-  {
-    "site_id": "TNT",
-    "name": "TNT",
-    "lang": "es"
-  },
-  {
-    "site_id": "C5N",
-    "name": "C5N",
-    "lang": "es",
-    "xmltv_id": "C5N.ar@SD"
   },
   {
     "site_id": "CANAL 4 MONTECARLO",
@@ -698,74 +757,99 @@
     "xmltv_id": "Canal4.uy@SD"
   },
   {
-    "site_id": "HOLA TV",
-    "name": "HOLA TV",
+    "site_id": "DEUTSCHE WELLE",
+    "name": "DEUTSCHE WELLE",
+    "lang": "es"
+  },
+  {
+    "site_id": "FILM\u0026ARTS HD",
+    "name": "FILM\u0026ARTS HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "FX HD",
+    "name": "FX HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "GLITZ",
+    "name": "GLITZ",
+    "lang": "es"
+  },
+  {
+    "site_id": "LAS ESTRELLAS HD",
+    "name": "LAS ESTRELLAS HD",
     "lang": "es",
-    "xmltv_id": "HolaTVLatinAmerica.us@SD"
+    "xmltv_id": "LasEstrellasLatinAmerica.mx@SD"
   },
   {
-    "site_id": "VENUS",
-    "name": "VENUS",
+    "site_id": "TNT HD",
+    "name": "TNT HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "TYC SPORTS",
+    "name": "TYC SPORTS",
+    "lang": "es"
+  },
+  {
+    "site_id": "DISCOVERY",
+    "name": "DISCOVERY",
+    "lang": "es"
+  },
+  {
+    "site_id": "DISCOVERY SCIENCE HD",
+    "name": "DISCOVERY SCIENCE HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "GOL TV",
+    "name": "GOL TV",
     "lang": "es",
-    "xmltv_id": "Venus.ar@SD"
+    "xmltv_id": "GolTVLatinAmerica.us@SD"
   },
   {
-    "site_id": "AMC HD",
-    "name": "AMC HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "CARTOONITO",
-    "name": "CARTOONITO",
+    "site_id": "HBO SIGNATURE HD",
+    "name": "HBO SIGNATURE HD",
     "lang": "es",
-    "xmltv_id": "CartoonitoLatinAmerica.us@SD"
+    "xmltv_id": "HBOSignatureLatinAmerica.us@SD"
   },
   {
-    "site_id": "CINEMAX HD",
-    "name": "CINEMAX HD",
+    "site_id": "HOME AND HEALTH HD",
+    "name": "HOME AND HEALTH HD",
     "lang": "es"
   },
   {
-    "site_id": "EUROCHANNEL",
-    "name": "EUROCHANNEL",
+    "site_id": "LN+",
+    "name": "LN+",
     "lang": "es",
-    "xmltv_id": "Eurochannel.uk@SD"
+    "xmltv_id": "LaNacionPlus.ar@SD"
   },
   {
-    "site_id": "FX",
-    "name": "FX",
-    "lang": "es"
-  },
-  {
-    "site_id": "NICKELODEON",
-    "name": "NICKELODEON",
-    "lang": "es"
-  },
-  {
-    "site_id": "STAR CHANNEL",
-    "name": "STAR CHANNEL",
-    "lang": "es"
-  },
-  {
-    "site_id": "STUDIO UNIVERSAL HD",
-    "name": "STUDIO UNIVERSAL HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "DISNEY JR",
-    "name": "DISNEY JR",
-    "lang": "es"
-  },
-  {
-    "site_id": "ESPN HD",
-    "name": "ESPN HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "HBO XTREME HD",
-    "name": "HBO XTREME HD",
+    "site_id": "NUEVO SIGLO TV",
+    "name": "NUEVO SIGLO TV",
     "lang": "es",
-    "xmltv_id": "HBOXtremeLatinAmerica.us@SD"
+    "xmltv_id": "NuevoSigloTV.uy@SD"
+  },
+  {
+    "site_id": "RAI",
+    "name": "RAI",
+    "lang": "es"
+  },
+  {
+    "site_id": "A\u0026E MUNDO",
+    "name": "A\u0026E MUNDO",
+    "lang": "es"
+  },
+  {
+    "site_id": "DISNEY HD",
+    "name": "DISNEY HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "I-SAT",
+    "name": "I-SAT",
+    "lang": "es"
   },
   {
     "site_id": "PASIONES",
@@ -774,67 +858,14 @@
     "xmltv_id": "PasionesLatinAmerica.us@SD"
   },
   {
-    "site_id": "UNIVERSAL CHANNEL",
-    "name": "UNIVERSAL CHANNEL",
-    "lang": "es"
-  },
-  {
-    "site_id": "CANAL VASCO",
-    "name": "CANAL VASCO",
+    "site_id": "TEVECIUDAD",
+    "name": "TEVECIUDAD",
     "lang": "es",
-    "xmltv_id": "ETBBasque.es@SD"
+    "xmltv_id": "TVCiudad.uy@SD"
   },
   {
-    "site_id": "DISCOVERY WORLD HD",
-    "name": "DISCOVERY WORLD HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "ESPN 2 HD",
-    "name": "ESPN 2 HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "HOME AND HEALTH HD",
-    "name": "HOME AND HEALTH HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "NS EVENTOS 1",
-    "name": "NS EVENTOS 1",
-    "lang": "es",
-    "xmltv_id": "NSEventos1.uy@SD"
-  },
-  {
-    "site_id": "SEXTREME",
-    "name": "SEXTREME",
-    "lang": "es",
-    "xmltv_id": "Sextreme.br@SD"
-  },
-  {
-    "site_id": "TNT SERIES",
-    "name": "TNT SERIES",
-    "lang": "es"
-  },
-  {
-    "site_id": "TVN CHILE",
-    "name": "TVN CHILE",
-    "lang": "es",
-    "xmltv_id": "TVChile.cl@SD"
-  },
-  {
-    "site_id": "DISCOVERY",
-    "name": "DISCOVERY",
-    "lang": "es"
-  },
-  {
-    "site_id": "EL GOURMET HD",
-    "name": "EL GOURMET HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "ENTERTAINMENT TELEVISION",
-    "name": "ENTERTAINMENT TELEVISION",
+    "site_id": "TLC",
+    "name": "TLC",
     "lang": "es"
   },
   {
@@ -844,70 +875,39 @@
     "xmltv_id": "EuropaEuropa.ar@SD"
   },
   {
-    "site_id": "FOOD NETWORK",
-    "name": "FOOD NETWORK",
+    "site_id": "HBO POP HD",
+    "name": "HBO POP HD",
     "lang": "es"
   },
   {
-    "site_id": "MTV",
-    "name": "MTV",
+    "site_id": "NICK JR",
+    "name": "NICK JR",
     "lang": "es"
   },
   {
-    "site_id": "REDE TV",
-    "name": "REDE TV",
+    "site_id": "TV GLOBO HD",
+    "name": "TV GLOBO HD",
     "lang": "es"
   },
   {
-    "site_id": "TVE",
-    "name": "TVE",
+    "site_id": "TVE HD",
+    "name": "TVE HD",
     "lang": "es"
   },
   {
-    "site_id": "DISCOVERY HD",
-    "name": "DISCOVERY HD",
+    "site_id": "BABY TV",
+    "name": "BABY TV",
     "lang": "es"
   },
   {
-    "site_id": "DISCOVERY KIDS",
-    "name": "DISCOVERY KIDS",
+    "site_id": "CARTOON NETWORK",
+    "name": "CARTOON NETWORK",
     "lang": "es"
   },
   {
-    "site_id": "TRU TV",
-    "name": "TRU TV",
+    "site_id": "PLAYBOY",
+    "name": "PLAYBOY",
     "lang": "es",
-    "xmltv_id": "truTVLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "WARNER",
-    "name": "WARNER",
-    "lang": "es"
-  },
-  {
-    "site_id": "CARTOON NETWORK HD",
-    "name": "CARTOON NETWORK HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "CNN EN ESPAÑOL",
-    "name": "CNN EN ESPAÑOL",
-    "lang": "es",
-    "xmltv_id": "CNNenEspanol.us@SD"
-  },
-  {
-    "site_id": "DISCOVERY HD THEATER",
-    "name": "DISCOVERY HD THEATER",
-    "lang": "es"
-  },
-  {
-    "site_id": "DISNEY HD",
-    "name": "DISNEY HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "WARNER HD",
-    "name": "WARNER HD",
-    "lang": "es"
+    "xmltv_id": "PlayboyTVLatinAmerica.us@SD"
   }
 ]

@@ -1,79 +1,31 @@
 [
   {
+    "site_id": "559d208e78d72701950089f4",
+    "name": "Hit TV",
+    "lang": "kk"
+  },
+  {
+    "site_id": "59f2faa4a12e9e27dc8a5978",
+    "name": "Ел Арна",
+    "lang": "kk",
+    "xmltv_id": "ElArna.kz@SD"
+  },
+  {
+    "site_id": "559d1f1278d72701950089d8",
+    "name": "Хабар",
+    "lang": "kk",
+    "xmltv_id": "Khabar.kz@SD"
+  },
+  {
     "site_id": "559d224e78d7270195008a15",
     "name": "Новое Телевидение",
     "lang": "kk",
     "xmltv_id": "Novoetelevidenie.kz@SD"
   },
   {
-    "site_id": "642cb423aa0f504df48a1514",
-    "name": "Caspian News",
-    "lang": "kk",
-    "xmltv_id": "CaspianNews.kz@SD"
-  },
-  {
-    "site_id": "6675767c0e9f3f6e3ae2c2df",
-    "name": "INSPORT",
-    "lang": "kk"
-  },
-  {
-    "site_id": "636e55468a8f73bae8244f47",
-    "name": "Balapan",
-    "lang": "kk",
-    "xmltv_id": "Balapan.kz@SD"
-  },
-  {
-    "site_id": "57bb6e7c4e2e6775aedaa772",
-    "name": "ТДК 42",
-    "lang": "kk",
-    "xmltv_id": "TDK42.kz@SD"
-  },
-  {
-    "site_id": "59f2f908a12e9e27dc8a5977",
-    "name": "Atameken Business",
-    "lang": "kk",
-    "xmltv_id": "AtamekenBusiness.kz@SD"
-  },
-  {
-    "site_id": "559d1dcb78d72701950089d2",
-    "name": "Almaty TV",
-    "lang": "kk",
-    "xmltv_id": "AlmatyTV.kz@SD"
-  },
-  {
-    "site_id": "559d416078d7270195008a66",
-    "name": "Первый канал Евразия",
-    "lang": "ru",
-    "xmltv_id": "ChannelOneEurasia.kz@SD"
-  },
-  {
     "site_id": "571a017c4e2e6750a693cc3b",
     "name": "Жетысу",
     "lang": "kk"
-  },
-  {
-    "site_id": "6050cd449037e65d03dfbfb8",
-    "name": "КТК",
-    "lang": "kk",
-    "xmltv_id": "KTK.kz@SD"
-  },
-  {
-    "site_id": "535f6608ebf8c403a1001bfb",
-    "name": "Мир 24",
-    "lang": "ru",
-    "xmltv_id": "Mir24.ru@SD"
-  },
-  {
-    "site_id": "559d1ec678d72701950089d6",
-    "name": "24KZ",
-    "lang": "kk",
-    "xmltv_id": "24KZ.kz@SD"
-  },
-  {
-    "site_id": "559d23a778d7270195008a32",
-    "name": "Мир",
-    "lang": "ru",
-    "xmltv_id": "Mir.ru@SD"
   },
   {
     "site_id": "603d11a15c1ee21399b5f01f",
@@ -82,16 +34,22 @@
     "xmltv_id": "TRTAvaz.tr@SD"
   },
   {
+    "site_id": "642cb1e6aa0f504df48a14f8",
+    "name": "Astana TV",
+    "lang": "kk",
+    "xmltv_id": "AstanaTV.kz@SD"
+  },
+  {
     "site_id": "642cb25caa0f504df48a1502",
     "name": "НТК",
     "lang": "kk",
     "xmltv_id": "NTK.kz@SD"
   },
   {
-    "site_id": "636e54cf8a8f73bae8244f41",
-    "name": "Qazaqstan",
+    "site_id": "642cb168aa0f504df48a14ed",
+    "name": "31 Канал",
     "lang": "kk",
-    "xmltv_id": "Qazaqstan.kz@SD"
+    "xmltv_id": "31Kanal.kz@SD"
   },
   {
     "site_id": "5c659fb2a46eaa398e8fd690",
@@ -106,15 +64,57 @@
     "xmltv_id": "Turkistan.kz@SD"
   },
   {
-    "site_id": "559d1ebb78d72701950089d5",
-    "name": "Седьмой канал",
-    "lang": "kk"
+    "site_id": "559d416078d7270195008a66",
+    "name": "Первый канал Евразия",
+    "lang": "ru",
+    "xmltv_id": "ChannelOneEurasia.kz@SD"
   },
   {
-    "site_id": "559d1f1278d72701950089d8",
-    "name": "Хабар",
+    "site_id": "642cb423aa0f504df48a1514",
+    "name": "Caspian News",
     "lang": "kk",
-    "xmltv_id": "Khabar.kz@SD"
+    "xmltv_id": "CaspianNews.kz@SD"
+  },
+  {
+    "site_id": "636e54cf8a8f73bae8244f41",
+    "name": "Qazaqstan",
+    "lang": "kk",
+    "xmltv_id": "Qazaqstan.kz@SD"
+  },
+  {
+    "site_id": "636e55468a8f73bae8244f47",
+    "name": "Balapan",
+    "lang": "kk",
+    "xmltv_id": "Balapan.kz@SD"
+  },
+  {
+    "site_id": "59f2f908a12e9e27dc8a5977",
+    "name": "Atameken Business",
+    "lang": "kk",
+    "xmltv_id": "AtamekenBusiness.kz@SD"
+  },
+  {
+    "site_id": "559d1ec678d72701950089d6",
+    "name": "24KZ",
+    "lang": "kk",
+    "xmltv_id": "24KZ.kz@SD"
+  },
+  {
+    "site_id": "559d23a778d7270195008a32",
+    "name": "Мир",
+    "lang": "ru",
+    "xmltv_id": "Mir.ru@SD"
+  },
+  {
+    "site_id": "6050cd449037e65d03dfbfb8",
+    "name": "КТК",
+    "lang": "kk",
+    "xmltv_id": "KTK.kz@SD"
+  },
+  {
+    "site_id": "6675767c0e9f3f6e3ae2c2df",
+    "name": "INSPORT",
+    "lang": "kk"
   },
   {
     "site_id": "559d41b978d7270195008a67",
@@ -123,37 +123,37 @@
     "xmltv_id": "JibekJoly.kz@SD"
   },
   {
-    "site_id": "559d208e78d72701950089f4",
-    "name": "Hit TV",
-    "lang": "kk"
-  },
-  {
-    "site_id": "642cb1e6aa0f504df48a14f8",
-    "name": "Astana TV",
-    "lang": "kk",
-    "xmltv_id": "AstanaTV.kz@SD"
-  },
-  {
-    "site_id": "642cb168aa0f504df48a14ed",
-    "name": "31 Канал",
-    "lang": "kk",
-    "xmltv_id": "31Kanal.kz@SD"
-  },
-  {
     "site_id": "57bb6e6c4e2e6775aedaa771",
     "name": "твоЁтв",
     "lang": "kk"
   },
   {
-    "site_id": "59f2faa4a12e9e27dc8a5978",
-    "name": "Ел Арна",
+    "site_id": "57bb6e7c4e2e6775aedaa772",
+    "name": "ТДК 42",
     "lang": "kk",
-    "xmltv_id": "ElArna.kz@SD"
+    "xmltv_id": "TDK42.kz@SD"
   },
   {
     "site_id": "65f2f54aee18d69ad327e734",
     "name": "Munara TV",
     "lang": "kk",
     "xmltv_id": "MunaraTV.kz@SD"
+  },
+  {
+    "site_id": "535f6608ebf8c403a1001bfb",
+    "name": "Мир 24",
+    "lang": "ru",
+    "xmltv_id": "Mir24.ru@SD"
+  },
+  {
+    "site_id": "559d1dcb78d72701950089d2",
+    "name": "Almaty TV",
+    "lang": "kk",
+    "xmltv_id": "AlmatyTV.kz@SD"
+  },
+  {
+    "site_id": "559d1ebb78d72701950089d5",
+    "name": "Седьмой канал",
+    "lang": "kk"
   }
 ]

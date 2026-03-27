@@ -1,18 +1,283 @@
 [
   {
-    "site_id": "comedy-central-extra",
-    "name": "Comedy Central Extra",
-    "lang": "en",
-    "xmltv_id": "ComedyCentralExtra.uk@SD"
+    "site_id": "sky-cinema-sci-fi-horror",
+    "name": "Sky Cinema Sci-Fi - Horror",
+    "lang": "en"
   },
   {
-    "site_id": "filmfour",
-    "name": "FilmFour",
+    "site_id": "sky-replay",
+    "name": "Sky Replay",
+    "lang": "en",
+    "xmltv_id": "SkyReplay.uk@SD"
+  },
+  {
+    "site_id": "sky-witness",
+    "name": "Sky Witness",
+    "lang": "en",
+    "xmltv_id": "SkyWitness.uk@SD"
+  },
+  {
+    "site_id": "tg4",
+    "name": "TG4",
+    "lang": "en",
+    "xmltv_id": "TG4.ie@SD"
+  },
+  {
+    "site_id": "tnt-sports-2",
+    "name": "TNT Sports 2",
     "lang": "en"
+  },
+  {
+    "site_id": "bbc-one-ni",
+    "name": "BBC One NI",
+    "lang": "en",
+    "xmltv_id": "BBCOne.uk@NorthernIreland"
+  },
+  {
+    "site_id": "discovery-turbo",
+    "name": "Discovery Turbo",
+    "lang": "en",
+    "xmltv_id": "DiscoveryTurbo.uk@SD"
+  },
+  {
+    "site_id": "great-action",
+    "name": "Great! Action",
+    "lang": "en",
+    "xmltv_id": "GREATaction.uk@SD"
+  },
+  {
+    "site_id": "home",
+    "name": "Home",
+    "lang": "en"
+  },
+  {
+    "site_id": "reality-xtra",
+    "name": "Reality Xtra",
+    "lang": "en",
+    "xmltv_id": "RealityXtra.uk@SD"
+  },
+  {
+    "site_id": "ualibi",
+    "name": "U\u0026Alibi",
+    "lang": "en"
+  },
+  {
+    "site_id": "udave",
+    "name": "U\u0026Dave",
+    "lang": "en"
+  },
+  {
+    "site_id": "ugold",
+    "name": "U\u0026Gold",
+    "lang": "en"
+  },
+  {
+    "site_id": "cartoon-network",
+    "name": "Cartoon Network",
+    "lang": "en",
+    "xmltv_id": "CartoonNetwork.uk@SD"
+  },
+  {
+    "site_id": "cbbc",
+    "name": "CBBC",
+    "lang": "en",
+    "xmltv_id": "CBBC.uk@SD"
+  },
+  {
+    "site_id": "rte-one",
+    "name": "RTÉ One",
+    "lang": "en",
+    "xmltv_id": "RTEOne.ie@SD"
+  },
+  {
+    "site_id": "tnt-sports-3",
+    "name": "TNT Sports 3",
+    "lang": "en"
+  },
+  {
+    "site_id": "discovery-science",
+    "name": "Discovery Science",
+    "lang": "en",
+    "xmltv_id": "DiscoveryScienceEurope.uk@UKHD"
+  },
+  {
+    "site_id": "nicktoons",
+    "name": "Nicktoons",
+    "lang": "en",
+    "xmltv_id": "Nicktoons.uk@SD"
+  },
+  {
+    "site_id": "sky-cinema-action",
+    "name": "Sky Cinema Action",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaAction.uk@SD"
+  },
+  {
+    "site_id": "sky-comedy",
+    "name": "Sky Comedy",
+    "lang": "en",
+    "xmltv_id": "SkyComedy.uk@SD"
+  },
+  {
+    "site_id": "sky-crime",
+    "name": "Sky Crime",
+    "lang": "en",
+    "xmltv_id": "SkyCrime.uk@SD"
+  },
+  {
+    "site_id": "sky-sports-action",
+    "name": "Sky Sports Action",
+    "lang": "en"
+  },
+  {
+    "site_id": "sky-sports-premier-league-roi",
+    "name": "Sky Sports Premier League ROI",
+    "lang": "en",
+    "xmltv_id": "SkySportsPremierLeague.uk@SD"
+  },
+  {
+    "site_id": "sky-sports-racing",
+    "name": "Sky Sports Racing",
+    "lang": "en"
+  },
+  {
+    "site_id": "bbc-three",
+    "name": "BBC Three",
+    "lang": "en",
+    "xmltv_id": "BBCThree.uk@SD"
+  },
+  {
+    "site_id": "channel-4",
+    "name": "Channel 4",
+    "lang": "en",
+    "xmltv_id": "Channel4.uk@UK"
+  },
+  {
+    "site_id": "pick",
+    "name": "Pick",
+    "lang": "en",
+    "xmltv_id": "SkyMix.uk@SD"
+  },
+  {
+    "site_id": "premier-sports-2",
+    "name": "Premier Sports 2",
+    "lang": "en",
+    "xmltv_id": "PremierSports2.ie@SD"
+  },
+  {
+    "site_id": "sky-cinema-comedy",
+    "name": "Sky Cinema Comedy",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaComedy.uk@SD"
+  },
+  {
+    "site_id": "sky-cinema-premiere",
+    "name": "Sky Cinema Premiere",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaPremiere.uk@SD"
+  },
+  {
+    "site_id": "tnt-sports-1",
+    "name": "TNT Sports 1",
+    "lang": "en"
+  },
+  {
+    "site_id": "utv",
+    "name": "UTV",
+    "lang": "en",
+    "xmltv_id": "UTV.uk@SD"
+  },
+  {
+    "site_id": "challenge",
+    "name": "Challenge",
+    "lang": "en",
+    "xmltv_id": "Challenge.uk@SD"
+  },
+  {
+    "site_id": "great-tv",
+    "name": "Great! TV",
+    "lang": "en",
+    "xmltv_id": "GREATtv.uk@SD"
+  },
+  {
+    "site_id": "more4",
+    "name": "More4",
+    "lang": "en",
+    "xmltv_id": "More4.uk@SD"
+  },
+  {
+    "site_id": "really",
+    "name": "Really",
+    "lang": "en",
+    "xmltv_id": "Really.uk@SD"
   },
   {
     "site_id": "itv1",
     "name": "ITV1",
+    "lang": "en"
+  },
+  {
+    "site_id": "national-geographic-wild",
+    "name": "National Geographic Wild",
+    "lang": "en",
+    "xmltv_id": "NationalGeographicWild.uk@SD"
+  },
+  {
+    "site_id": "premier-sports-1",
+    "name": "Premier Sports 1",
+    "lang": "en",
+    "xmltv_id": "PremierSports1.ie@SD"
+  },
+  {
+    "site_id": "sky-cinema-drama",
+    "name": "Sky Cinema Drama",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaDrama.uk@SD"
+  },
+  {
+    "site_id": "sky-sci-fi",
+    "name": "Sky Sci-Fi",
+    "lang": "en",
+    "xmltv_id": "SkySciFi.uk@SD"
+  },
+  {
+    "site_id": "sky-sports-cricket",
+    "name": "Sky Sports Cricket",
+    "lang": "en",
+    "xmltv_id": "SkySportsCricket.uk@SD"
+  },
+  {
+    "site_id": "virgin-media-more",
+    "name": "Virgin Media More",
+    "lang": "en",
+    "xmltv_id": "VirginMediaMore.ie@SD"
+  },
+  {
+    "site_id": "e4-extra",
+    "name": "E4 Extra",
+    "lang": "en",
+    "xmltv_id": "E4Extra.uk@SD"
+  },
+  {
+    "site_id": "sky-cinema-favourites",
+    "name": "Sky Cinema Favourites",
+    "lang": "en"
+  },
+  {
+    "site_id": "sky-history-2",
+    "name": "Sky History 2",
+    "lang": "en",
+    "xmltv_id": "SkyHistory2.uk@SD"
+  },
+  {
+    "site_id": "e4",
+    "name": "E4",
+    "lang": "en",
+    "xmltv_id": "E4.uk@SD"
+  },
+  {
+    "site_id": "filmfour",
+    "name": "FilmFour",
     "lang": "en"
   },
   {
@@ -28,279 +293,10 @@
     "xmltv_id": "Legend.uk@SD"
   },
   {
-    "site_id": "legend-xtra",
-    "name": "Legend Xtra",
-    "lang": "en"
-  },
-  {
-    "site_id": "sky-atlantic",
-    "name": "Sky Atlantic",
-    "lang": "en",
-    "xmltv_id": "SkyAtlantic.uk@SD"
-  },
-  {
-    "site_id": "bbc-four",
-    "name": "BBC Four",
-    "lang": "en",
-    "xmltv_id": "BBCFour.uk@UK"
-  },
-  {
-    "site_id": "bbc-three",
-    "name": "BBC Three",
-    "lang": "en",
-    "xmltv_id": "BBCThree.uk@SD"
-  },
-  {
-    "site_id": "cbeebies",
-    "name": "CBeebies",
-    "lang": "en",
-    "xmltv_id": "CBeebies.uk@SD"
-  },
-  {
-    "site_id": "cbs-reality",
-    "name": "CBS Reality",
-    "lang": "en",
-    "xmltv_id": "CBSReality.uk@SD"
-  },
-  {
-    "site_id": "great-action",
-    "name": "Great! Action",
-    "lang": "en",
-    "xmltv_id": "GREATaction.uk@SD"
-  },
-  {
-    "site_id": "itv3",
-    "name": "ITV3",
-    "lang": "en",
-    "xmltv_id": "ITV3.uk@SD"
-  },
-  {
-    "site_id": "premier-sports-1",
-    "name": "Premier Sports 1",
-    "lang": "en",
-    "xmltv_id": "PremierSports1.ie@SD"
-  },
-  {
-    "site_id": "premier-sports-2",
-    "name": "Premier Sports 2",
-    "lang": "en",
-    "xmltv_id": "PremierSports2.ie@SD"
-  },
-  {
-    "site_id": "challenge",
-    "name": "Challenge",
-    "lang": "en",
-    "xmltv_id": "Challenge.uk@SD"
-  },
-  {
-    "site_id": "comedy-central",
-    "name": "Comedy Central",
-    "lang": "en",
-    "xmltv_id": "ComedyCentral.uk@SD"
-  },
-  {
-    "site_id": "sky-cinema-animation",
-    "name": "Sky Cinema Animation",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaAnimation.uk@SD"
-  },
-  {
-    "site_id": "sky-cinema-thriller",
-    "name": "Sky Cinema Thriller",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaThriller.uk@SD"
-  },
-  {
-    "site_id": "sky-history",
-    "name": "Sky History",
-    "lang": "en",
-    "xmltv_id": "SkyHistory.uk@SD"
-  },
-  {
-    "site_id": "sky-sports-premier-league-roi",
-    "name": "Sky Sports Premier League ROI",
-    "lang": "en",
-    "xmltv_id": "SkySportsPremierLeague.uk@SD"
-  },
-  {
-    "site_id": "tnt-sports-1",
-    "name": "TNT Sports 1",
-    "lang": "en"
-  },
-  {
-    "site_id": "udave",
-    "name": "U\u0026Dave",
-    "lang": "en"
-  },
-  {
-    "site_id": "bbc-two-ni",
-    "name": "BBC Two NI",
-    "lang": "en"
-  },
-  {
-    "site_id": "cartoon-network",
-    "name": "Cartoon Network",
-    "lang": "en",
-    "xmltv_id": "CartoonNetwork.uk@SD"
-  },
-  {
-    "site_id": "great-movies-romance",
-    "name": "Great! Movies Romance",
-    "lang": "en",
-    "xmltv_id": "GREATromance.uk@UK"
-  },
-  {
-    "site_id": "more4",
-    "name": "More4",
-    "lang": "en",
-    "xmltv_id": "More4.uk@SD"
-  },
-  {
-    "site_id": "rte-jr",
-    "name": "RTÉ Jr",
-    "lang": "en",
-    "xmltv_id": "RTEjr.ie@SD"
-  },
-  {
-    "site_id": "sky-cinema-premiere",
-    "name": "Sky Cinema Premiere",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaPremiere.uk@SD"
-  },
-  {
-    "site_id": "sky-crime",
-    "name": "Sky Crime",
-    "lang": "en",
-    "xmltv_id": "SkyCrime.uk@SD"
-  },
-  {
-    "site_id": "sky-max",
-    "name": "Sky Max",
-    "lang": "en",
-    "xmltv_id": "SkyMax.uk@SD"
-  },
-  {
-    "site_id": "cbbc",
-    "name": "CBBC",
-    "lang": "en",
-    "xmltv_id": "CBBC.uk@SD"
-  },
-  {
-    "site_id": "channel-4",
-    "name": "Channel 4",
-    "lang": "en",
-    "xmltv_id": "Channel4.uk@UK"
-  },
-  {
-    "site_id": "discovery-channel",
-    "name": "Discovery Channel",
-    "lang": "en",
-    "xmltv_id": "DiscoveryChannel.uk@UK"
-  },
-  {
-    "site_id": "investigation-discovery",
-    "name": "Investigation Discovery",
-    "lang": "en",
-    "xmltv_id": "InvestigationDiscovery.uk@SD"
-  },
-  {
     "site_id": "sky-arts",
     "name": "Sky Arts",
     "lang": "en",
     "xmltv_id": "SkyArts.uk@SD"
-  },
-  {
-    "site_id": "sky-cinema-drama",
-    "name": "Sky Cinema Drama",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaDrama.uk@SD"
-  },
-  {
-    "site_id": "uyesterday",
-    "name": "U\u0026Yesterday",
-    "lang": "en"
-  },
-  {
-    "site_id": "virgin-media-more",
-    "name": "Virgin Media More",
-    "lang": "en",
-    "xmltv_id": "VirginMediaMore.ie@SD"
-  },
-  {
-    "site_id": "home",
-    "name": "Home",
-    "lang": "en"
-  },
-  {
-    "site_id": "utv",
-    "name": "UTV",
-    "lang": "en",
-    "xmltv_id": "UTV.uk@SD"
-  },
-  {
-    "site_id": "uw",
-    "name": "U\u0026W",
-    "lang": "en"
-  },
-  {
-    "site_id": "virgin-media-four",
-    "name": "Virgin Media Four",
-    "lang": "en",
-    "xmltv_id": "VirginMediaFour.ie@SD"
-  },
-  {
-    "site_id": "virgin-media-one",
-    "name": "Virgin Media One",
-    "lang": "en",
-    "xmltv_id": "VirginMediaOne.ie@SD"
-  },
-  {
-    "site_id": "virgin-media-three",
-    "name": "Virgin Media Three",
-    "lang": "en",
-    "xmltv_id": "VirginMediaThree.ie@SD"
-  },
-  {
-    "site_id": "discovery-science",
-    "name": "Discovery Science",
-    "lang": "en",
-    "xmltv_id": "DiscoveryScienceEurope.uk@UKHD"
-  },
-  {
-    "site_id": "e4-extra",
-    "name": "E4 Extra",
-    "lang": "en",
-    "xmltv_id": "E4Extra.uk@SD"
-  },
-  {
-    "site_id": "quest",
-    "name": "Quest",
-    "lang": "en",
-    "xmltv_id": "Quest.uk@SD"
-  },
-  {
-    "site_id": "rte2",
-    "name": "RTÉ2",
-    "lang": "en",
-    "xmltv_id": "RTE2.ie@SD"
-  },
-  {
-    "site_id": "sky-cinema-action",
-    "name": "Sky Cinema Action",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaAction.uk@SD"
-  },
-  {
-    "site_id": "sky-cinema-greats",
-    "name": "Sky Cinema Greats",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaGreats.uk@SD"
-  },
-  {
-    "site_id": "sky-showcase",
-    "name": "Sky Showcase",
-    "lang": "en",
-    "xmltv_id": "SkyShowcase.uk@SD"
   },
   {
     "site_id": "tnt-sports-4",
@@ -308,74 +304,8 @@
     "lang": "en"
   },
   {
-    "site_id": "discovery-history",
-    "name": "Discovery History",
-    "lang": "en",
-    "xmltv_id": "DiscoveryHistory.uk@SD"
-  },
-  {
-    "site_id": "sky-cinema-favourites",
-    "name": "Sky Cinema Favourites",
-    "lang": "en"
-  },
-  {
-    "site_id": "sky-cinema-hits",
-    "name": "Sky Cinema Hits",
-    "lang": "en"
-  },
-  {
-    "site_id": "sky-sports-arena",
-    "name": "Sky Sports Arena",
-    "lang": "en"
-  },
-  {
-    "site_id": "sky-sports-golf",
-    "name": "Sky Sports Golf",
-    "lang": "en",
-    "xmltv_id": "SkySportsGolf.uk@SD"
-  },
-  {
-    "site_id": "ualibi",
-    "name": "U\u0026Alibi",
-    "lang": "en"
-  },
-  {
-    "site_id": "udrama",
-    "name": "U\u0026Drama",
-    "lang": "en"
-  },
-  {
-    "site_id": "ugold",
-    "name": "U\u0026Gold",
-    "lang": "en"
-  },
-  {
-    "site_id": "e4",
-    "name": "E4",
-    "lang": "en",
-    "xmltv_id": "E4.uk@SD"
-  },
-  {
-    "site_id": "mtv",
-    "name": "MTV",
-    "lang": "en",
-    "xmltv_id": "MTV.uk@SD"
-  },
-  {
-    "site_id": "nickelodeon",
-    "name": "Nickelodeon",
-    "lang": "en",
-    "xmltv_id": "Nickelodeon.uk@SD"
-  },
-  {
-    "site_id": "sky-sports-main-event",
-    "name": "Sky Sports Main Event",
-    "lang": "en",
-    "xmltv_id": "SkySportsMainEvent.uk@SD"
-  },
-  {
-    "site_id": "sky-sports-racing",
-    "name": "Sky Sports Racing",
+    "site_id": "uw",
+    "name": "U\u0026W",
     "lang": "en"
   },
   {
@@ -385,87 +315,121 @@
     "xmltv_id": "VirginMediaTwo.ie@SD"
   },
   {
+    "site_id": "bbc-two-ni",
+    "name": "BBC Two NI",
+    "lang": "en"
+  },
+  {
+    "site_id": "channel-5",
+    "name": "Channel 5",
+    "lang": "en",
+    "xmltv_id": "Channel5.uk@SD"
+  },
+  {
+    "site_id": "dmax",
+    "name": "DMAX",
+    "lang": "en",
+    "xmltv_id": "DMAX.uk@UK"
+  },
+  {
+    "site_id": "sky-showcase",
+    "name": "Sky Showcase",
+    "lang": "en",
+    "xmltv_id": "SkyShowcase.uk@SD"
+  },
+  {
+    "site_id": "sky-cinema-animation",
+    "name": "Sky Cinema Animation",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaAnimation.uk@SD"
+  },
+  {
+    "site_id": "sky-cinema-hits",
+    "name": "Sky Cinema Hits",
+    "lang": "en"
+  },
+  {
+    "site_id": "sky-sports-football",
+    "name": "Sky Sports Football",
+    "lang": "en",
+    "xmltv_id": "SkySportsFootball.uk@SD"
+  },
+  {
+    "site_id": "great-movies",
+    "name": "Great! Movies",
+    "lang": "en",
+    "xmltv_id": "GREATmovies.uk@UK"
+  },
+  {
+    "site_id": "investigation-discovery",
+    "name": "Investigation Discovery",
+    "lang": "en",
+    "xmltv_id": "InvestigationDiscovery.uk@SD"
+  },
+  {
+    "site_id": "itv3",
+    "name": "ITV3",
+    "lang": "en",
+    "xmltv_id": "ITV3.uk@SD"
+  },
+  {
+    "site_id": "legend-xtra",
+    "name": "Legend Xtra",
+    "lang": "en"
+  },
+  {
     "site_id": "national-geographic",
     "name": "National Geographic",
     "lang": "en",
     "xmltv_id": "NationalGeographic.uk@SD"
   },
   {
-    "site_id": "sky-cinema-family",
-    "name": "Sky Cinema Family",
-    "lang": "en"
+    "site_id": "nickelodeon",
+    "name": "Nickelodeon",
+    "lang": "en",
+    "xmltv_id": "Nickelodeon.uk@SD"
   },
   {
-    "site_id": "sky-comedy",
-    "name": "Sky Comedy",
+    "site_id": "rte2",
+    "name": "RTÉ2",
     "lang": "en",
-    "xmltv_id": "SkyComedy.uk@SD"
+    "xmltv_id": "RTE2.ie@SD"
   },
   {
-    "site_id": "sky-nature",
-    "name": "Sky Nature",
+    "site_id": "sky-atlantic",
+    "name": "Sky Atlantic",
     "lang": "en",
-    "xmltv_id": "SkyNature.uk@SD"
+    "xmltv_id": "SkyAtlantic.uk@SD"
   },
   {
-    "site_id": "nicktoons",
-    "name": "Nicktoons",
+    "site_id": "comedy-central",
+    "name": "Comedy Central",
     "lang": "en",
-    "xmltv_id": "Nicktoons.uk@SD"
+    "xmltv_id": "ComedyCentral.uk@SD"
   },
   {
-    "site_id": "rte-one",
-    "name": "RTÉ One",
+    "site_id": "mtv",
+    "name": "MTV",
     "lang": "en",
-    "xmltv_id": "RTEOne.ie@SD"
+    "xmltv_id": "MTV.uk@SD"
   },
   {
-    "site_id": "sky-documentaries",
-    "name": "Sky Documentaries",
+    "site_id": "sky-cinema-greats",
+    "name": "Sky Cinema Greats",
     "lang": "en",
-    "xmltv_id": "SkyDocumentaries.uk@SD"
+    "xmltv_id": "SkyCinemaGreats.uk@SD"
   },
   {
-    "site_id": "sky-history-2",
-    "name": "Sky History 2",
+    "site_id": "sky-max",
+    "name": "Sky Max",
     "lang": "en",
-    "xmltv_id": "SkyHistory2.uk@SD"
+    "xmltv_id": "SkyMax.uk@SD"
   },
   {
-    "site_id": "sky-sci-fi",
-    "name": "Sky Sci-Fi",
+    "site_id": "sky-sports-golf",
+    "name": "Sky Sports Golf",
     "lang": "en",
-    "xmltv_id": "SkySciFi.uk@SD"
-  },
-  {
-    "site_id": "sky-sports-cricket",
-    "name": "Sky Sports Cricket",
-    "lang": "en",
-    "xmltv_id": "SkySportsCricket.uk@SD"
-  },
-  {
-    "site_id": "sky-witness",
-    "name": "Sky Witness",
-    "lang": "en",
-    "xmltv_id": "SkyWitness.uk@SD"
-  },
-  {
-    "site_id": "itv4",
-    "name": "ITV4",
-    "lang": "en",
-    "xmltv_id": "ITV4.uk@SD"
-  },
-  {
-    "site_id": "sky-cinema-comedy",
-    "name": "Sky Cinema Comedy",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaComedy.uk@SD"
-  },
-  {
-    "site_id": "sky-replay",
-    "name": "Sky Replay",
-    "lang": "en",
-    "xmltv_id": "SkyReplay.uk@SD"
+    "xmltv_id": "SkySportsGolf.uk@SD"
   },
   {
     "site_id": "tlc",
@@ -474,9 +438,15 @@
     "xmltv_id": "TLC.uk@SD"
   },
   {
-    "site_id": "tnt-sports-3",
-    "name": "TNT Sports 3",
+    "site_id": "uyesterday",
+    "name": "U\u0026Yesterday",
     "lang": "en"
+  },
+  {
+    "site_id": "virgin-media-four",
+    "name": "Virgin Media Four",
+    "lang": "en",
+    "xmltv_id": "VirginMediaFour.ie@SD"
   },
   {
     "site_id": "boomerang",
@@ -491,38 +461,38 @@
     "xmltv_id": "Cula4.ie@SD"
   },
   {
-    "site_id": "dmax",
-    "name": "DMAX",
+    "site_id": "discovery-channel",
+    "name": "Discovery Channel",
     "lang": "en",
-    "xmltv_id": "DMAX.uk@UK"
+    "xmltv_id": "DiscoveryChannel.uk@UK"
   },
   {
-    "site_id": "great-movies",
-    "name": "Great! Movies",
+    "site_id": "sky-cinema-thriller",
+    "name": "Sky Cinema Thriller",
     "lang": "en",
-    "xmltv_id": "GREATmovies.uk@UK"
+    "xmltv_id": "SkyCinemaThriller.uk@SD"
   },
   {
-    "site_id": "really",
-    "name": "Really",
+    "site_id": "sky-history",
+    "name": "Sky History",
     "lang": "en",
-    "xmltv_id": "Really.uk@SD"
+    "xmltv_id": "SkyHistory.uk@SD"
   },
   {
-    "site_id": "sky-cinema-sci-fi-horror",
-    "name": "Sky Cinema Sci-Fi - Horror",
+    "site_id": "sky-sports-formula-1",
+    "name": "Sky Sports Formula 1",
     "lang": "en"
   },
   {
-    "site_id": "sky-sports-action",
-    "name": "Sky Sports Action",
+    "site_id": "udrama",
+    "name": "U\u0026Drama",
     "lang": "en"
   },
   {
-    "site_id": "sky-sports-mix",
-    "name": "Sky Sports Mix",
+    "site_id": "virgin-media-one",
+    "name": "Virgin Media One",
     "lang": "en",
-    "xmltv_id": "SkySportsMix.uk@SD"
+    "xmltv_id": "VirginMediaOne.ie@SD"
   },
   {
     "site_id": "animal-planet",
@@ -531,32 +501,33 @@
     "xmltv_id": "AnimalPlanet.uk@SD"
   },
   {
-    "site_id": "discovery-turbo",
-    "name": "Discovery Turbo",
+    "site_id": "discovery-history",
+    "name": "Discovery History",
     "lang": "en",
-    "xmltv_id": "DiscoveryTurbo.uk@SD"
+    "xmltv_id": "DiscoveryHistory.uk@SD"
   },
   {
-    "site_id": "eden",
-    "name": "Eden",
+    "site_id": "sky-nature",
+    "name": "Sky Nature",
+    "lang": "en",
+    "xmltv_id": "SkyNature.uk@SD"
+  },
+  {
+    "site_id": "sky-sports-arena",
+    "name": "Sky Sports Arena",
     "lang": "en"
   },
   {
-    "site_id": "national-geographic-wild",
-    "name": "National Geographic Wild",
+    "site_id": "sky-sports-main-event",
+    "name": "Sky Sports Main Event",
     "lang": "en",
-    "xmltv_id": "NationalGeographicWild.uk@SD"
+    "xmltv_id": "SkySportsMainEvent.uk@SD"
   },
   {
-    "site_id": "pick",
-    "name": "Pick",
+    "site_id": "sky-sports-mix",
+    "name": "Sky Sports Mix",
     "lang": "en",
-    "xmltv_id": "SkyMix.uk@SD"
-  },
-  {
-    "site_id": "sky-sports-formula-1",
-    "name": "Sky Sports Formula 1",
-    "lang": "en"
+    "xmltv_id": "SkySportsMix.uk@SD"
   },
   {
     "site_id": "sky-sports-news",
@@ -564,44 +535,73 @@
     "lang": "en"
   },
   {
-    "site_id": "tnt-sports-2",
-    "name": "TNT Sports 2",
+    "site_id": "virgin-media-three",
+    "name": "Virgin Media Three",
+    "lang": "en",
+    "xmltv_id": "VirginMediaThree.ie@SD"
+  },
+  {
+    "site_id": "bbc-four",
+    "name": "BBC Four",
+    "lang": "en",
+    "xmltv_id": "BBCFour.uk@UK"
+  },
+  {
+    "site_id": "cbeebies",
+    "name": "CBeebies",
+    "lang": "en",
+    "xmltv_id": "CBeebies.uk@SD"
+  },
+  {
+    "site_id": "cbs-reality",
+    "name": "CBS Reality",
+    "lang": "en",
+    "xmltv_id": "CBSReality.uk@SD"
+  },
+  {
+    "site_id": "comedy-central-extra",
+    "name": "Comedy Central Extra",
+    "lang": "en",
+    "xmltv_id": "ComedyCentralExtra.uk@SD"
+  },
+  {
+    "site_id": "itv4",
+    "name": "ITV4",
+    "lang": "en",
+    "xmltv_id": "ITV4.uk@SD"
+  },
+  {
+    "site_id": "quest",
+    "name": "Quest",
+    "lang": "en",
+    "xmltv_id": "Quest.uk@SD"
+  },
+  {
+    "site_id": "sky-cinema-family",
+    "name": "Sky Cinema Family",
     "lang": "en"
   },
   {
-    "site_id": "channel-5",
-    "name": "Channel 5",
+    "site_id": "sky-documentaries",
+    "name": "Sky Documentaries",
     "lang": "en",
-    "xmltv_id": "Channel5.uk@SD"
+    "xmltv_id": "SkyDocumentaries.uk@SD"
   },
   {
-    "site_id": "great-tv",
-    "name": "Great! TV",
-    "lang": "en",
-    "xmltv_id": "GREATtv.uk@SD"
+    "site_id": "eden",
+    "name": "Eden",
+    "lang": "en"
   },
   {
-    "site_id": "reality-xtra",
-    "name": "Reality Xtra",
+    "site_id": "great-movies-romance",
+    "name": "Great! Movies Romance",
     "lang": "en",
-    "xmltv_id": "RealityXtra.uk@SD"
+    "xmltv_id": "GREATromance.uk@UK"
   },
   {
-    "site_id": "sky-sports-football",
-    "name": "Sky Sports Football",
+    "site_id": "rte-jr",
+    "name": "RTÉ Jr",
     "lang": "en",
-    "xmltv_id": "SkySportsFootball.uk@SD"
-  },
-  {
-    "site_id": "tg4",
-    "name": "TG4",
-    "lang": "en",
-    "xmltv_id": "TG4.ie@SD"
-  },
-  {
-    "site_id": "bbc-one-ni",
-    "name": "BBC One NI",
-    "lang": "en",
-    "xmltv_id": "BBCOne.uk@NorthernIreland"
+    "xmltv_id": "RTEjr.ie@SD"
   }
 ]

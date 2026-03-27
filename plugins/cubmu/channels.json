@@ -1,31 +1,57 @@
 [
   {
-    "site_id": "4028c6857e04fca5017f310a21613e4e",
-    "name": "Euronews",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "EuronewsEnglish.fr@SD"
+    "site_id": "4028c68574537fcd0174be3b835358d5",
+    "name": "ABC Australia",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ABCAustralia.au@SD"
   },
   {
-    "site_id": "4028c6858f902547018fccae36ec12b0",
-    "name": "DENS Food Channel",
+    "site_id": "4028c6858262bb8001827b6a98a62be4",
+    "name": "Cooking TV",
     "lang": "id",
-    "region": "ID",
-    "xmltv_id": "DensFoodChannel.id@SD"
+    "region": "ID"
   },
   {
-    "site_id": "4028c68588e2da5a01892e47e9d64b5e",
-    "name": "Nabawi TV",
+    "site_id": "4028c68574537fcd0174be1f09275720",
+    "name": "Dunia Anak",
     "lang": "id",
     "region": "ID",
-    "xmltv_id": "NabawiTV.id@SD"
+    "xmltv_id": "DuniaAnak.id@SD"
   },
   {
-    "site_id": "4028c685758bcfff01776c4ea3520a72",
-    "name": "MDTV",
+    "site_id": "4028c6857f48ecd2017f5e95744613e2",
+    "name": "CCTV 4",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CCTV4Asia.cn@SD"
+  },
+  {
+    "site_id": "4028c6858f902547018fccb15a5212b1",
+    "name": "DENS PLAY Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DensPlay.id@SD"
+  },
+  {
+    "site_id": "4028c685840ff0490184616d5ba53e65",
+    "name": "Song TV",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be1c9566571f",
+    "name": "Arirang",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ArirangTV.kr@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174bdfa7e13514f",
+    "name": "CNA",
     "lang": "id",
     "region": "ID",
-    "xmltv_id": "NET.id@SD"
+    "xmltv_id": "CNA.sg@SD"
   },
   {
     "site_id": "4028c68574537fcd0174be21d3755722",
@@ -35,6 +61,76 @@
     "xmltv_id": "LinguaChannel.id@SD"
   },
   {
+    "site_id": "4028c6857f48ecd2017f5e9c23f413e8",
+    "name": "Wion TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "WION.in@SD"
+  },
+  {
+    "site_id": "4028c6857fe540a1018060ac364140ba",
+    "name": "Fashion TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "FashionTVAsia.fr@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be2b660c5727",
+    "name": "Channel Seru!",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "SeruChannel.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be26e4325724",
+    "name": "Bioskop Indonesia",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "BioskopIndonesia.id@SD"
+  },
+  {
+    "site_id": "4028c6858f902547018fccb23c8c12b2",
+    "name": "DENS ShowBiz",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "DensShowBiz.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be1c9566571f",
+    "name": "Arirang",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "ArirangTV.kr@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be3b835358d5",
+    "name": "ABC Australia",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "ABCAustralia.au@SD"
+  },
+  {
+    "site_id": "4028c6857fe540a1018060a0c34340b6",
+    "name": "Fight TV Premium",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Fight.us@SD"
+  },
+  {
+    "site_id": "4028c685758bcfff01776c4ea3520a72",
+    "name": "MDTV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "NET.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be26e4325724",
+    "name": "Bioskop Indonesia",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "BioskopIndonesia.id@SD"
+  },
+  {
     "site_id": "4028c68574537fcd0174be13661a571d",
     "name": "CGTN",
     "lang": "id",
@@ -42,17 +138,51 @@
     "xmltv_id": "CGTN.cn@SD"
   },
   {
-    "site_id": "4028c685840ff0490184616d5ba53e65",
-    "name": "Song TV",
-    "lang": "en",
-    "region": "EN"
+    "site_id": "4028c68574537fcd0174be51092e58f1",
+    "name": "RCTI",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "RCTI.id@SD"
   },
   {
-    "site_id": "4028c68574537fcd0174be2463495723",
-    "name": "CGTN Documentary",
+    "site_id": "4028c6857fe540a1018060b4163a40be",
+    "name": "SuperYacht TV",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "CGTNDocumentary.cn@SD"
+    "xmltv_id": "SuperyachtTV.mc@SD"
+  },
+  {
+    "site_id": "4028c68574f658b101750641670b540e",
+    "name": "Al Quran Al Kareem",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "QuranTV.sa@SD"
+  },
+  {
+    "site_id": "4028c685840ff04901846166123a3e5d",
+    "name": "One TV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "OneTV.in@SD"
+  },
+  {
+    "site_id": "4028c6859645ee4801965cf074994bf2",
+    "name": "Garuda TV",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c6857e04fca5017f310a21613e4e",
+    "name": "Euronews",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "EuronewsEnglish.fr@SD"
+  },
+  {
+    "site_id": "4028c68598610fad0198875a95322b98",
+    "name": "GOLF PLUS ID",
+    "lang": "en",
+    "region": "EN"
   },
   {
     "site_id": "4028c6857f48ecd2017f5e95744613e2",
@@ -62,10 +192,346 @@
     "xmltv_id": "CCTV4Asia.cn@SD"
   },
   {
+    "site_id": "4028c68574537fcd0174be4f342858e9",
+    "name": "Indosiar",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "Indosiar.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be39494458d4",
+    "name": "TV5 Monde",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "TV5MondeAsia.fr@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174bdfe22ee5150",
+    "name": "Al Jazeera",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AlJazeera.qa@Arabic"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be5a48505902",
+    "name": "DAAI TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DAAITV.id@SD"
+  },
+  {
+    "site_id": "4028c6858f902547018fccb15a5212b1",
+    "name": "DENS PLAY Channel",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "DensPlay.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be3daa5c58d6",
+    "name": "Eat N Go",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "EatNGo.id@SD"
+  },
+  {
+    "site_id": "4028c6857e04fca5017ec407d96b7362",
+    "name": "jtv",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "JTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be13661a571d",
+    "name": "CGTN",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CGTN.cn@SD"
+  },
+  {
+    "site_id": "4028c6858119921801816b5359d15e63",
+    "name": "Gaming TV",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c6857fe540a1018060aab83c40b9",
+    "name": "Travel TV",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c6859645ee4801965cd2114b4431",
+    "name": "Berita Satu",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c6859645ee4801965cf074994bf2",
+    "name": "Garuda TV",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be52f87b58f2",
+    "name": "GTV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "GTV.id@SD"
+  },
+  {
+    "site_id": "4028c6857e04fca5017f310a21613e4e",
+    "name": "Euronews",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "EuronewsEnglish.fr@SD"
+  },
+  {
+    "site_id": "4028c685840ff0490184616d5ba53e65",
+    "name": "Song TV",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be4d55ce58dd",
+    "name": "SCTV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "SCTV.id@SD"
+  },
+  {
+    "site_id": "4028c6857fe540a1018060ac364140ba",
+    "name": "Fashion TV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "FashionTVAsia.fr@SD"
+  },
+  {
+    "site_id": "4028c68588e2da5a01892e47e9d64b5e",
+    "name": "Nabawi TV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "NabawiTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174bdfe22ee5150",
+    "name": "Al Jazeera",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "AlJazeera.qa@Arabic"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be5ef52a5904",
+    "name": "MNC TV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "MNCTV.id@SD"
+  },
+  {
+    "site_id": "4028c685910daca60191a8636d706700",
+    "name": "Channel Jowo",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ChannelJowo.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be39494458d4",
+    "name": "TV5 Monde",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TV5MondeAsia.fr@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be5a48505902",
+    "name": "DAAI TV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "DAAITV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be292d655725",
+    "name": "!nsert",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "nsert.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be2463495723",
+    "name": "CGTN Documentary",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "CGTNDocumentary.cn@SD"
+  },
+  {
+    "site_id": "4028c6858262bb8001827b6a98a62be4",
+    "name": "Cooking TV",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be4d55ce58dd",
+    "name": "SCTV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "SCTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be45631158d9",
+    "name": "Trans 7",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "Trans7.id@SD"
+  },
+  {
+    "site_id": "4028c685840ff04901846166f4d93e5e",
+    "name": "Cartoon TV Classics",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c68574f658b1017506651f835414",
+    "name": "tv Mu",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "TVMu.id@SD"
+  },
+  {
+    "site_id": "4028c685840ff04901846166f4d93e5e",
+    "name": "Cartoon TV Classics",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c68598610fad0198875a95322b98",
+    "name": "GOLF PLUS ID",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c6858f902547018fccae36ec12b0",
+    "name": "DENS Food Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DensFoodChannel.id@SD"
+  },
+  {
+    "site_id": "4028c68588e2da5a01892e47e9d64b5e",
+    "name": "Nabawi TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NabawiTV.id@SD"
+  },
+  {
+    "site_id": "4028c6859645ee4801965cd2114b4431",
+    "name": "Berita Satu",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be45631158d9",
+    "name": "Trans 7",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Trans7.id@SD"
+  },
+  {
+    "site_id": "4028c6858262bb8001827b6764522be3",
+    "name": "Knowledge+",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be167d8a571e",
+    "name": "Russia Today",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "RT.ru@SD"
+  },
+  {
+    "site_id": "4028c685840ff04901846166123a3e5d",
+    "name": "One TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "OneTV.in@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be4b82c758dc",
+    "name": "CNBC Indonesia",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CNBCIndonesia.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be4783ff58da",
+    "name": "MetroTV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MetroTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574f658b101750667e76e5415",
+    "name": "TV9",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "TV9Nusantara.id@SD"
+  },
+  {
+    "site_id": "4028c6858262bb8001827b703a262be7",
+    "name": "Football TV",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be43042758d8",
+    "name": "Trans TV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "TransTV.id@SD"
+  },
+  {
+    "site_id": "4028c6857fe540a1018060ae0aa740bb",
+    "name": "Movies News",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c6858262bb8001827b65fa882be2",
+    "name": "Cartoon TV",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be5cd0b15903",
+    "name": "rtv",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "RajawaliTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be55099d58fa",
+    "name": "Jak tv",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "JakTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be2463495723",
+    "name": "CGTN Documentary",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CGTNDocumentary.cn@SD"
+  },
+  {
     "site_id": "4028c6857fe540a1018060a4379740b7",
     "name": "Xtrem Sports",
     "lang": "id",
     "region": "ID"
+  },
+  {
+    "site_id": "4028c6857fe540a1018060a0c34340b6",
+    "name": "Fight TV Premium",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "Fight.us@SD"
   },
   {
     "site_id": "4028c6857fe540a1018060b2307340bd",
@@ -81,115 +547,66 @@
     "xmltv_id": "QuranTV.sa@SD"
   },
   {
-    "site_id": "4028c68574537fcd0174be51092e58f1",
-    "name": "RCTI",
+    "site_id": "4028c68574537fcd0174be56c7d858fd",
+    "name": "BTV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "BTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be1f09275720",
+    "name": "Dunia Anak",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "RCTI.id@SD"
+    "xmltv_id": "DuniaAnak.id@SD"
   },
   {
-    "site_id": "4028c68574537fcd0174be6135dc5905",
-    "name": "TVRI",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be3b835358d5",
-    "name": "ABC Australia",
+    "site_id": "4028c6857e04fca5017ec407d96b7362",
+    "name": "jtv",
     "lang": "id",
     "region": "ID",
-    "xmltv_id": "ABCAustralia.au@SD"
+    "xmltv_id": "JTV.id@SD"
   },
   {
-    "site_id": "4028c6857e04fca5017ec528dc550e98",
-    "name": "Musik Indonesia",
+    "site_id": "4028c68574f658b101750667e76e5415",
+    "name": "TV9",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "MusikIndonesia.id@SD"
+    "xmltv_id": "TV9Nusantara.id@SD"
   },
   {
-    "site_id": "4028c68574537fcd0174be45631158d9",
-    "name": "Trans 7",
+    "site_id": "4028c68598610fad01987a41012571f7",
+    "name": "LPS Financial Festival 2025",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be2b660c5727",
+    "name": "Channel Seru!",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "SeruChannel.id@SD"
+  },
+  {
+    "site_id": "4028c6858d6351f0018dc0100d513246",
+    "name": "PSJ TV",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "Trans7.id@SD"
+    "xmltv_id": "PSJTV.id@SD"
   },
   {
-    "site_id": "4028c68574f658b1017506651f835414",
-    "name": "tv Mu",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "TVMu.id@SD"
-  },
-  {
-    "site_id": "4028c685758bcfff01776c4ea3520a72",
-    "name": "MDTV",
+    "site_id": "4028c68574537fcd0174be3fbd2f58d7",
+    "name": "Khazanah",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "NET.id@SD"
+    "xmltv_id": "Khazanah.id@SD"
   },
   {
-    "site_id": "4028c685840ff04901846166123a3e5d",
-    "name": "One TV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "OneTV.in@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be4997e958db",
-    "name": "CNN Indonesia",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "CNNIndonesia.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be45631158d9",
-    "name": "Trans 7",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "Trans7.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be2db0a25728",
-    "name": "Dunia Lain",
+    "site_id": "4028c68574537fcd0174be167d8a571e",
+    "name": "Russia Today",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "DuniaLain.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be4997e958db",
-    "name": "CNN Indonesia",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CNNIndonesia.id@SD"
-  },
-  {
-    "site_id": "4028c6857f48ecd2017f5e9c23f413e8",
-    "name": "Wion TV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "WION.in@SD"
-  },
-  {
-    "site_id": "4028c6857fe540a1018060ac364140ba",
-    "name": "Fashion TV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "FashionTVAsia.fr@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be39494458d4",
-    "name": "TV5 Monde",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "TV5MondeAsia.fr@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be39494458d4",
-    "name": "TV5 Monde",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TV5MondeAsia.fr@SD"
+    "xmltv_id": "RT.ru@SD"
   },
   {
     "site_id": "4028c68574537fcd0174be43042758d8",
@@ -199,160 +616,43 @@
     "xmltv_id": "TransTV.id@SD"
   },
   {
-    "site_id": "4028c6857fe540a1018060b4163a40be",
-    "name": "SuperYacht TV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "SuperyachtTV.mc@SD"
-  },
-  {
-    "site_id": "4028c6859645ee4801965cd2114b4431",
-    "name": "Berita Satu",
+    "site_id": "4028c68598610fad01987a41012571f7",
+    "name": "LPS Financial Festival 2025",
     "lang": "id",
     "region": "ID"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be3fbd2f58d7",
-    "name": "Khazanah",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Khazanah.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be292d655725",
-    "name": "!nsert",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "nsert.id@SD"
-  },
-  {
-    "site_id": "4028c6858f902547018fccb15a5212b1",
-    "name": "DENS PLAY Channel",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "DensPlay.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be52f87b58f2",
-    "name": "GTV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "GTV.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be4783ff58da",
-    "name": "MetroTV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "MetroTV.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be0c2f975152",
-    "name": "France 24",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "France24.fr@English"
   },
   {
     "site_id": "4028c6857fe540a1018060aab83c40b9",
     "name": "Travel TV",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c6858f902547018fccb23c8c12b2",
-    "name": "DENS ShowBiz",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "DensShowBiz.id@SD"
-  },
-  {
-    "site_id": "4028c6857e04fca5017ec407d96b7362",
-    "name": "jtv",
     "lang": "en",
-    "region": "EN",
-    "xmltv_id": "JTV.id@SD"
-  },
-  {
-    "site_id": "4028c6857fe540a1018060ac364140ba",
-    "name": "Fashion TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "FashionTVAsia.fr@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be52f87b58f2",
-    "name": "GTV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "GTV.id@SD"
+    "region": "EN"
   },
   {
     "site_id": "4028c6858262bb8001827b6764522be3",
     "name": "Knowledge+",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be3fbd2f58d7",
-    "name": "Khazanah",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "Khazanah.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be5ef52a5904",
-    "name": "MNC TV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "MNCTV.id@SD"
-  },
-  {
-    "site_id": "4028c6858f902547018fccae36ec12b0",
-    "name": "DENS Food Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DensFoodChannel.id@SD"
-  },
-  {
-    "site_id": "4028c6858f902547018fccb15a5212b1",
-    "name": "DENS PLAY Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DensPlay.id@SD"
-  },
-  {
-    "site_id": "4028c6858262bb8001827b703a262be7",
-    "name": "Football TV",
     "lang": "en",
     "region": "EN"
   },
   {
-    "site_id": "4028c68574537fcd0174be0c2f975152",
-    "name": "France 24",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "France24.fr@English"
+    "site_id": "4028c68574537fcd0174bdfa7e13514f",
+    "name": "CNA",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CNA.sg@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be2db0a25728",
+    "name": "Dunia Lain",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DuniaLain.id@SD"
   },
   {
     "site_id": "4028c68574537fcd0174be3daa5c58d6",
     "name": "Eat N Go",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "EatNGo.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be5cd0b15903",
-    "name": "rtv",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "RajawaliTV.id@SD"
-  },
-  {
-    "site_id": "4028c6857fe540a1018060b2307340bd",
-    "name": "Speed TV",
     "lang": "en",
-    "region": "EN"
+    "region": "EN",
+    "xmltv_id": "EatNGo.id@SD"
   },
   {
     "site_id": "4028c68574537fcd0174be56c7d858fd",
@@ -362,193 +662,17 @@
     "xmltv_id": "BTV.id@SD"
   },
   {
-    "site_id": "4028c68574537fcd0174be167d8a571e",
-    "name": "Russia Today",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "RT.ru@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be3b835358d5",
-    "name": "ABC Australia",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ABCAustralia.au@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be1c9566571f",
-    "name": "Arirang",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "ArirangTV.kr@SD"
-  },
-  {
-    "site_id": "4028c6858d6351f0018dc0100d513246",
-    "name": "PSJ TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "PSJTV.id@SD"
-  },
-  {
-    "site_id": "4028c6857e04fca5017ec407d96b7362",
-    "name": "jtv",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "JTV.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be4f342858e9",
-    "name": "Indosiar",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Indosiar.id@SD"
-  },
-  {
-    "site_id": "4028c6858119921801816b5359d15e63",
-    "name": "Gaming TV",
+    "site_id": "4028c68574537fcd0174be6135dc5905",
+    "name": "TVRI",
     "lang": "en",
     "region": "EN"
   },
   {
-    "site_id": "4028c68574537fcd0174be1c9566571f",
-    "name": "Arirang",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ArirangTV.kr@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be3daa5c58d6",
-    "name": "Eat N Go",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "EatNGo.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be58644c5901",
-    "name": "Kompas TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "KompasTV.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be26e4325724",
-    "name": "Bioskop Indonesia",
+    "site_id": "4028c6858f902547018fccae36ec12b0",
+    "name": "DENS Food Channel",
     "lang": "id",
     "region": "ID",
-    "xmltv_id": "BioskopIndonesia.id@SD"
-  },
-  {
-    "site_id": "4028c6858262bb8001827b64d0742be1",
-    "name": "Cartoon TV Premium",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c68574537fcd0174bdfa7e13514f",
-    "name": "CNA",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "CNA.sg@SD"
-  },
-  {
-    "site_id": "4028c68574f658b1017506651f835414",
-    "name": "tv Mu",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TVMu.id@SD"
-  },
-  {
-    "site_id": "4028c6859645ee4801965cf074994bf2",
-    "name": "Garuda TV",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be5a48505902",
-    "name": "DAAI TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DAAITV.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be55099d58fa",
-    "name": "Jak tv",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "JakTV.id@SD"
-  },
-  {
-    "site_id": "4028c68574f658b101750667e76e5415",
-    "name": "TV9",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "TV9Nusantara.id@SD"
-  },
-  {
-    "site_id": "4028c6857fe540a1018060a0c34340b6",
-    "name": "Fight TV Premium",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Fight.us@SD"
-  },
-  {
-    "site_id": "4028c6858f902547018fccb23c8c12b2",
-    "name": "DENS ShowBiz",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DensShowBiz.id@SD"
-  },
-  {
-    "site_id": "4028c6857fe540a1018060ae0aa740bb",
-    "name": "Movies News",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c685840ff04901846166f4d93e5e",
-    "name": "Cartoon TV Classics",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be4f342858e9",
-    "name": "Indosiar",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "Indosiar.id@SD"
-  },
-  {
-    "site_id": "4028c68598610fad0198875a95322b98",
-    "name": "GOLF PLUS ID",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c68574f658b101750667e76e5415",
-    "name": "TV9",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TV9Nusantara.id@SD"
-  },
-  {
-    "site_id": "4028c685840ff04901846166f4d93e5e",
-    "name": "Cartoon TV Classics",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c685840ff04901846166123a3e5d",
-    "name": "One TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "OneTV.in@SD"
-  },
-  {
-    "site_id": "4028c6858d6351f0018dc0100d513246",
-    "name": "PSJ TV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "PSJTV.id@SD"
+    "xmltv_id": "DensFoodChannel.id@SD"
   },
   {
     "site_id": "4028c68574537fcd0174be4b82c758dc",
@@ -558,51 +682,248 @@
     "xmltv_id": "CNBCIndonesia.id@SD"
   },
   {
-    "site_id": "4028c6857fe540a1018060b4163a40be",
-    "name": "SuperYacht TV",
+    "site_id": "4028c68574537fcd0174be52f87b58f2",
+    "name": "GTV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "GTV.id@SD"
+  },
+  {
+    "site_id": "4028c6857fe540a1018060b2307340bd",
+    "name": "Speed TV",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c6858262bb8001827b703a262be7",
+    "name": "Football TV",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be5ef52a5904",
+    "name": "MNC TV",
     "lang": "en",
     "region": "EN",
+    "xmltv_id": "MNCTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be4997e958db",
+    "name": "CNN Indonesia",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CNNIndonesia.id@SD"
+  },
+  {
+    "site_id": "4028c6858262bb8001827b64d0742be1",
+    "name": "Cartoon TV Premium",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be5cd0b15903",
+    "name": "rtv",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "RajawaliTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be4783ff58da",
+    "name": "MetroTV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "MetroTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be6135dc5905",
+    "name": "TVRI",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be292d655725",
+    "name": "!nsert",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "nsert.id@SD"
+  },
+  {
+    "site_id": "4028c6857fe540a1018060b4163a40be",
+    "name": "SuperYacht TV",
+    "lang": "id",
+    "region": "ID",
     "xmltv_id": "SuperyachtTV.mc@SD"
   },
   {
     "site_id": "4028c6858262bb8001827b65fa882be2",
     "name": "Cartoon TV",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be1f09275720",
-    "name": "Dunia Anak",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DuniaAnak.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be167d8a571e",
-    "name": "Russia Today",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "RT.ru@SD"
-  },
-  {
-    "site_id": "4028c685840ff0490184616d5ba53e65",
-    "name": "Song TV",
     "lang": "id",
     "region": "ID"
   },
   {
-    "site_id": "4028c68574537fcd0174be1f09275720",
-    "name": "Dunia Anak",
+    "site_id": "4028c68574537fcd0174be55099d58fa",
+    "name": "Jak tv",
     "lang": "id",
     "region": "ID",
-    "xmltv_id": "DuniaAnak.id@SD"
+    "xmltv_id": "JakTV.id@SD"
   },
   {
-    "site_id": "4028c68574537fcd0174be2463495723",
-    "name": "CGTN Documentary",
+    "site_id": "4028c6858f902547018fccb23c8c12b2",
+    "name": "DENS ShowBiz",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DensShowBiz.id@SD"
+  },
+  {
+    "site_id": "4028c68574f658b1017506741c665418",
+    "name": "Pijar TV",
     "lang": "id",
     "region": "ID",
-    "xmltv_id": "CGTNDocumentary.cn@SD"
+    "xmltv_id": "PijarTV.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be0c2f975152",
+    "name": "France 24",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "France24.fr@English"
+  },
+  {
+    "site_id": "4028c6857e04fca5017ec528dc550e98",
+    "name": "Musik Indonesia",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MusikIndonesia.id@SD"
+  },
+  {
+    "site_id": "4028c68574f658b1017506741c665418",
+    "name": "Pijar TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "PijarTV.id@SD"
+  },
+  {
+    "site_id": "4028c685758bcfff01776c4ea3520a72",
+    "name": "MDTV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NET.id@SD"
+  },
+  {
+    "site_id": "4028c6857fe540a1018060afdef540bc",
+    "name": "Sports TV",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c68574f658b1017506651f835414",
+    "name": "tv Mu",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TVMu.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be4f342858e9",
+    "name": "Indosiar",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Indosiar.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be21d3755722",
+    "name": "Lingua",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "LinguaChannel.id@SD"
+  },
+  {
+    "site_id": "4028c6857e04fca5017ec528dc550e98",
+    "name": "Musik Indonesia",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "MusikIndonesia.id@SD"
+  },
+  {
+    "site_id": "4028c6857f48ecd2017f5e9c23f413e8",
+    "name": "Wion TV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "WION.in@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be58644c5901",
+    "name": "Kompas TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "KompasTV.id@SD"
+  },
+  {
+    "site_id": "4028c6857fe540a1018060afdef540bc",
+    "name": "Sports TV",
+    "lang": "id",
+    "region": "ID"
+  },
+  {
+    "site_id": "4028c6858d6351f0018dc0100d513246",
+    "name": "PSJ TV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "PSJTV.id@SD"
+  },
+  {
+    "site_id": "4028c685910daca60191a8636d706700",
+    "name": "Channel Jowo",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "ChannelJowo.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be2db0a25728",
+    "name": "Dunia Lain",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "DuniaLain.id@SD"
+  },
+  {
+    "site_id": "4028c6858262bb8001827b64d0742be1",
+    "name": "Cartoon TV Premium",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be0c2f975152",
+    "name": "France 24",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "France24.fr@English"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be51092e58f1",
+    "name": "RCTI",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "RCTI.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be3fbd2f58d7",
+    "name": "Khazanah",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "Khazanah.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be4997e958db",
+    "name": "CNN Indonesia",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "CNNIndonesia.id@SD"
+  },
+  {
+    "site_id": "4028c68574537fcd0174be58644c5901",
+    "name": "Kompas TV",
+    "lang": "id",
+    "region": "ID",
+    "xmltv_id": "KompasTV.id@SD"
   },
   {
     "site_id": "4028c6858119921801816b5359d15e63",
@@ -617,330 +938,9 @@
     "region": "EN"
   },
   {
-    "site_id": "4028c68574537fcd0174be4b82c758dc",
-    "name": "CNBC Indonesia",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CNBCIndonesia.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be5cd0b15903",
-    "name": "rtv",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "RajawaliTV.id@SD"
-  },
-  {
-    "site_id": "4028c68574f658b101750641670b540e",
-    "name": "Al Quran Al Kareem",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "QuranTV.sa@SD"
-  },
-  {
-    "site_id": "4028c6859645ee4801965cd2114b4431",
-    "name": "Berita Satu",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c68598610fad0198875a95322b98",
-    "name": "GOLF PLUS ID",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be56c7d858fd",
-    "name": "BTV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "BTV.id@SD"
-  },
-  {
-    "site_id": "4028c6857e04fca5017f310a21613e4e",
-    "name": "Euronews",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "EuronewsEnglish.fr@SD"
-  },
-  {
-    "site_id": "4028c6857f48ecd2017f5e9c23f413e8",
-    "name": "Wion TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "WION.in@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174bdfa7e13514f",
-    "name": "CNA",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CNA.sg@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be26e4325724",
-    "name": "Bioskop Indonesia",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "BioskopIndonesia.id@SD"
-  },
-  {
-    "site_id": "4028c6858262bb8001827b65fa882be2",
-    "name": "Cartoon TV",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c68574537fcd0174bdfe22ee5150",
-    "name": "Al Jazeera",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "AlJazeera.qa@Arabic"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be5a48505902",
-    "name": "DAAI TV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "DAAITV.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be2db0a25728",
-    "name": "Dunia Lain",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "DuniaLain.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be4783ff58da",
-    "name": "MetroTV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MetroTV.id@SD"
-  },
-  {
-    "site_id": "4028c6857fe540a1018060a0c34340b6",
-    "name": "Fight TV Premium",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "Fight.us@SD"
-  },
-  {
-    "site_id": "4028c6859645ee4801965cf074994bf2",
-    "name": "Garuda TV",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be43042758d8",
-    "name": "Trans TV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "TransTV.id@SD"
-  },
-  {
-    "site_id": "4028c68598610fad01987a41012571f7",
-    "name": "LPS Financial Festival 2025",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c68574f658b1017506741c665418",
-    "name": "Pijar TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "PijarTV.id@SD"
-  },
-  {
-    "site_id": "4028c685910daca60191a8636d706700",
-    "name": "Channel Jowo",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ChannelJowo.id@SD"
-  },
-  {
-    "site_id": "4028c6858262bb8001827b6764522be3",
-    "name": "Knowledge+",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be5ef52a5904",
-    "name": "MNC TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MNCTV.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be6135dc5905",
-    "name": "TVRI",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be13661a571d",
-    "name": "CGTN",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CGTN.cn@SD"
-  },
-  {
-    "site_id": "4028c6857fe540a1018060afdef540bc",
-    "name": "Sports TV",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be2b660c5727",
-    "name": "Channel Seru!",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "SeruChannel.id@SD"
-  },
-  {
-    "site_id": "4028c6858262bb8001827b64d0742be1",
-    "name": "Cartoon TV Premium",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be292d655725",
-    "name": "!nsert",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "nsert.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be55099d58fa",
-    "name": "Jak tv",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "JakTV.id@SD"
-  },
-  {
-    "site_id": "4028c6857fe540a1018060aab83c40b9",
-    "name": "Travel TV",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c68588e2da5a01892e47e9d64b5e",
-    "name": "Nabawi TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NabawiTV.id@SD"
-  },
-  {
-    "site_id": "4028c6858262bb8001827b6a98a62be4",
-    "name": "Cooking TV",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be21d3755722",
-    "name": "Lingua",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "LinguaChannel.id@SD"
-  },
-  {
-    "site_id": "4028c685910daca60191a8636d706700",
-    "name": "Channel Jowo",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "ChannelJowo.id@SD"
-  },
-  {
     "site_id": "4028c6857fe540a1018060ae0aa740bb",
     "name": "Movies News",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c6857fe540a1018060afdef540bc",
-    "name": "Sports TV",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4028c6857f48ecd2017f5e95744613e2",
-    "name": "CCTV 4",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CCTV4Asia.cn@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174bdfe22ee5150",
-    "name": "Al Jazeera",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AlJazeera.qa@Arabic"
-  },
-  {
-    "site_id": "4028c6857e04fca5017ec528dc550e98",
-    "name": "Musik Indonesia",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "MusikIndonesia.id@SD"
-  },
-  {
-    "site_id": "4028c6858262bb8001827b703a262be7",
-    "name": "Football TV",
     "lang": "id",
     "region": "ID"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be4d55ce58dd",
-    "name": "SCTV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "SCTV.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be51092e58f1",
-    "name": "RCTI",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "RCTI.id@SD"
-  },
-  {
-    "site_id": "4028c68574f658b1017506741c665418",
-    "name": "Pijar TV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "PijarTV.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be2b660c5727",
-    "name": "Channel Seru!",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "SeruChannel.id@SD"
-  },
-  {
-    "site_id": "4028c6858262bb8001827b6a98a62be4",
-    "name": "Cooking TV",
-    "lang": "id",
-    "region": "ID"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be58644c5901",
-    "name": "Kompas TV",
-    "lang": "id",
-    "region": "ID",
-    "xmltv_id": "KompasTV.id@SD"
-  },
-  {
-    "site_id": "4028c68574537fcd0174be4d55ce58dd",
-    "name": "SCTV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "SCTV.id@SD"
-  },
-  {
-    "site_id": "4028c68598610fad01987a41012571f7",
-    "name": "LPS Financial Festival 2025",
-    "lang": "en",
-    "region": "EN"
   }
 ]

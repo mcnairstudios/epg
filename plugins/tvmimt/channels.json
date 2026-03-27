@@ -1,5 +1,11 @@
 [
   {
+    "site_id": "4",
+    "name": "TVMsport+",
+    "lang": "mt",
+    "xmltv_id": "TVMsportPlus.mt@SD"
+  },
+  {
     "site_id": "2",
     "name": "TVM",
     "lang": "mt",
@@ -10,11 +16,5 @@
     "name": "TVMnews+",
     "lang": "mt",
     "xmltv_id": "TVMnewsPlus.mt@SD"
-  },
-  {
-    "site_id": "4",
-    "name": "TVMsport+",
-    "lang": "mt",
-    "xmltv_id": "TVMsportPlus.mt@SD"
   }
 ]

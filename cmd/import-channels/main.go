@@ -229,6 +229,14 @@ var siteToPlugin = map[string]string{
 	"ena.skylifetv.co.kr":            "enaskylife",
 	"watch.sportsnet.ca":             "sportsnetca",
 	"moji.id":                        "mojiid",
+	"guiadetv.com":                   "guiadetv",
+	"telebilbao.es":                  "telebilbao",
+	"roya-tv.com":                    "royatv",
+	"rotana.net":                     "rotana",
+	"snrt.ma":                        "snrtma",
+	"ionplustv.com":                  "ionplustv",
+	"zuragt.mn":                      "zuragtmn",
+	"startimestv.com":                "startimes",
 }
 
 func main() {

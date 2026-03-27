@@ -1,21 +1,27 @@
 [
   {
+    "site_id": "LB",
+    "name": "20 Mediaset",
+    "lang": "it",
+    "xmltv_id": "20.it@SD"
+  },
+  {
+    "site_id": "LT",
+    "name": "Top Crime",
+    "lang": "it",
+    "xmltv_id": "TopCrime.it@SD"
+  },
+  {
     "site_id": "I1",
     "name": "Italia 1",
     "lang": "it",
     "xmltv_id": "Italia1.it@SD"
   },
   {
-    "site_id": "I2",
-    "name": "Italia 2",
+    "site_id": "KA",
+    "name": "La5",
     "lang": "it",
-    "xmltv_id": "Italia2.it@SD"
-  },
-  {
-    "site_id": "KB",
-    "name": "Boing",
-    "lang": "it",
-    "xmltv_id": "Boing.it@SD"
+    "xmltv_id": "La5.it@SD"
   },
   {
     "site_id": "KI",
@@ -30,10 +36,10 @@
     "xmltv_id": "MediasetExtra.it@SD"
   },
   {
-    "site_id": "LT",
-    "name": "Top Crime",
+    "site_id": "R4",
+    "name": "Rete 4",
     "lang": "it",
-    "xmltv_id": "TopCrime.it@SD"
+    "xmltv_id": "Rete4.it@SD"
   },
   {
     "site_id": "C5",
@@ -48,10 +54,16 @@
     "xmltv_id": "Focus.it@SD"
   },
   {
-    "site_id": "KA",
-    "name": "La5",
+    "site_id": "I2",
+    "name": "Italia 2",
     "lang": "it",
-    "xmltv_id": "La5.it@SD"
+    "xmltv_id": "Italia2.it@SD"
+  },
+  {
+    "site_id": "KB",
+    "name": "Boing",
+    "lang": "it",
+    "xmltv_id": "Boing.it@SD"
   },
   {
     "site_id": "KF",
@@ -64,17 +76,5 @@
     "name": "Cartoonito",
     "lang": "it",
     "xmltv_id": "Cartoonito.it@SD"
-  },
-  {
-    "site_id": "LB",
-    "name": "20 Mediaset",
-    "lang": "it",
-    "xmltv_id": "20.it@SD"
-  },
-  {
-    "site_id": "R4",
-    "name": "Rete 4",
-    "lang": "it",
-    "xmltv_id": "Rete4.it@SD"
   }
 ]

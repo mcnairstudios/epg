@@ -1,487 +1,12 @@
 [
   {
-    "site_id": "TV37",
-    "name": "MTV 00s (VH1)",
+    "site_id": "CH50",
+    "name": "CGTN DOC",
     "lang": "he"
   },
   {
-    "site_id": "TV67",
-    "name": "Music 24",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH14",
-    "name": "Baby (RUS)",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN05",
-    "name": "France 24 fr",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT41",
-    "name": "Home and Family",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT45",
-    "name": "TVCI",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT53",
-    "name": "Sport 1 HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH58",
-    "name": "ONE2 HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH79",
-    "name": "Music IL",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT14",
-    "name": "Health Channel",
-    "lang": "he"
-  },
-  {
-    "site_id": "TR01",
-    "name": "ONE HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV13",
-    "name": "Fox News",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN11",
-    "name": "Sport TOGO 1",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN12",
-    "name": "Sport TOGO 2",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT19",
-    "name": "IETV",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT55",
-    "name": "History HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV43",
-    "name": "Kehilaty (98)",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV77",
-    "name": "RTM",
-    "lang": "he"
-  },
-  {
-    "site_id": "YESP",
-    "name": "yes TV Comedy",
-    "lang": "he"
-  },
-  {
-    "site_id": "YS17",
-    "name": "yes Together (Beyachad) HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH82",
-    "name": "Keshet HD SUB",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN30",
-    "name": "Spanish Drama 1",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT13",
-    "name": "DAYSTAR",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT39",
-    "name": "EUROSPORT HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT50",
-    "name": "MTV Live HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV12",
-    "name": "CNN",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV61",
-    "name": "ANIMAL PLANET",
-    "lang": "he"
-  },
-  {
-    "site_id": "YSAT",
-    "name": "yes Docu HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT18",
-    "name": "FRANCE 24",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT46",
-    "name": "HOP! Childhood",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT69",
-    "name": "NICK Junior",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV57",
-    "name": "PROTV",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH18",
-    "name": "TeenNick",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH41",
-    "name": "Classica HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN35",
-    "name": "Mediterranean movies",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT12",
-    "name": "EGO",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV59",
-    "name": "Bloomberg",
-    "lang": "he"
-  },
-  {
-    "site_id": "YS20",
-    "name": "yes+ diamonds",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN02",
-    "name": "Kan HD LL",
-    "lang": "he"
-  },
-  {
-    "site_id": "MU03",
-    "name": "Sport 5 Gold (57)",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT38",
-    "name": "Big Brother HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT64",
-    "name": "Mediaset",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT72",
-    "name": "Mediterranean Channel",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH30",
-    "name": "Kan HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH81",
-    "name": "TV Game Shows",
-    "lang": "he"
-  },
-  {
-    "site_id": "NK01",
-    "name": "Nickelodeon",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT60",
-    "name": "Viva Istanbul (Viva Plus)",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV09",
-    "name": "LifeStyle",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV10",
-    "name": "E",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH32",
-    "name": "Makan",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH33",
-    "name": "Eurosport 2",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH76",
-    "name": "Bober",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT02",
-    "name": "Bollywood Movies",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT51",
-    "name": "CTC",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT59",
-    "name": "Disney Junior",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN25",
-    "name": "DOC",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT83",
-    "name": "JimJam RUS",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH43",
-    "name": "TLC (68)",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN28",
-    "name": "i24 Hebrew",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT36",
-    "name": "Dom Kino",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT78",
-    "name": "Disney Junior RUS",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV85",
-    "name": "NASHE KINO",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH55",
-    "name": "Sport 5 4K",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH87",
-    "name": "ROTANA Cinema",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH09",
-    "name": "Sport 3 HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH36",
-    "name": "Reshet HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH90",
-    "name": "Mediterranean Plus",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT25",
-    "name": "National G. HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV81",
-    "name": "Channel 1 Rus",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV40",
-    "name": "MEZZO",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV42",
-    "name": "Sky News",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV45",
-    "name": "SAT 1",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV50",
-    "name": "Israel Plus (9)",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV51",
-    "name": "MTV 80s (VH1 Classic)",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV56",
-    "name": "EUROSTAR",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH19",
-    "name": "Kids Stars Channel",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH29",
-    "name": "SHANSON TV",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH72",
-    "name": "Reality Channel (Reshet)",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH97",
-    "name": "Vacation Channel",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN19",
-    "name": "Indian Drama",
-    "lang": "he"
-  },
-  {
-    "site_id": "YESI",
-    "name": "Yes POP UP HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH70",
-    "name": "Turkish Drama",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH71",
-    "name": "National G. Wild HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT22",
-    "name": "Sport 1 single (63)",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT63",
-    "name": "HALA TV",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV79",
-    "name": "GTV",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV82",
-    "name": "RTR",
-    "lang": "he"
-  },
-  {
-    "site_id": "YS19",
-    "name": "yes+ cinema",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH84",
-    "name": "Kan HD SUB",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN04",
-    "name": "Mediterranean Channel 2",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT92",
-    "name": "Channel 14 HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH34",
-    "name": "Keshet HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH56",
-    "name": "Sport 5 Stars HD (59)",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH62",
-    "name": "Style Channel (Fashion IL)",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH68",
-    "name": "Bollywood Series",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH80",
-    "name": "Turkish Drama 2",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN03",
-    "name": "Dom Kino Premium",
+    "site_id": "CN14",
+    "name": "i24 Arabic",
     "lang": "he"
   },
   {
@@ -490,118 +15,18 @@
     "lang": "he"
   },
   {
-    "site_id": "TV89",
-    "name": "Knesset",
+    "site_id": "TVR6",
+    "name": "Children channel (RGE)",
     "lang": "he"
   },
   {
-    "site_id": "CH65",
-    "name": "Humor Channel",
+    "site_id": "YESU",
+    "name": "yes TV Drama",
     "lang": "he"
   },
   {
-    "site_id": "CN08",
-    "name": "Childhood",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN21",
-    "name": "MEZZO Live",
-    "lang": "he"
-  },
-  {
-    "site_id": "TA05",
-    "name": "Junior",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV35",
-    "name": "MTV (MTV Music)",
-    "lang": "he"
-  },
-  {
-    "site_id": "YESV",
-    "name": "yes TV Action",
-    "lang": "he"
-  },
-  {
-    "site_id": "YSA1",
-    "name": "yes Movies Drama",
-    "lang": "he"
-  },
-  {
-    "site_id": "YSA4",
-    "name": "yes Movies Kids",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH23",
-    "name": "Current Time",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT98",
-    "name": "Sport 2 HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV94",
-    "name": "France 2 (F2)",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH50",
-    "name": "CGTN DOC",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH13",
-    "name": "WiZ",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN24",
-    "name": "Yoyo",
-    "lang": "he"
-  },
-  {
-    "site_id": "TA02",
-    "name": "Baby",
-    "lang": "he"
-  },
-  {
-    "site_id": "YSAU",
-    "name": "yes Israeli Cinema HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH11",
-    "name": "Sport 4 HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT11",
-    "name": "TVR i",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT20",
-    "name": "Food Channel",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT91",
-    "name": "Disney HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV20",
-    "name": "Viva Telenovelas (Viva)",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV47",
-    "name": "ARTE",
+    "site_id": "CH09",
+    "name": "Sport 3 HD",
     "lang": "he"
   },
   {
@@ -610,28 +35,58 @@
     "lang": "he"
   },
   {
-    "site_id": "CHN3",
-    "name": "ONE EDGE",
-    "lang": "he"
-  },
-  {
     "site_id": "CN06",
     "name": "Walla +",
     "lang": "he"
   },
   {
-    "site_id": "PT30",
-    "name": "Hidabroot",
+    "site_id": "CN32",
+    "name": "Economics 10",
     "lang": "he"
   },
   {
-    "site_id": "CH75",
-    "name": "Viva Vintage",
+    "site_id": "PT13",
+    "name": "DAYSTAR",
     "lang": "he"
   },
   {
-    "site_id": "CH89",
-    "name": "Viva Premium",
+    "site_id": "PT20",
+    "name": "Food Channel",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT51",
+    "name": "CTC",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV35",
+    "name": "MTV (MTV Music)",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN19",
+    "name": "Indian Drama",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT14",
+    "name": "Health Channel",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV89",
+    "name": "Knesset",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV94",
+    "name": "France 2 (F2)",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH30",
+    "name": "Kan HD",
     "lang": "he"
   },
   {
@@ -640,68 +95,38 @@
     "lang": "he"
   },
   {
-    "site_id": "PT15",
-    "name": "1+1",
+    "site_id": "TV19",
+    "name": "History SD",
     "lang": "he"
   },
   {
-    "site_id": "PT28",
-    "name": "Travel Channel",
+    "site_id": "TV51",
+    "name": "MTV 80s (VH1 Classic)",
     "lang": "he"
   },
   {
-    "site_id": "PT61",
-    "name": "Carousel",
+    "site_id": "CH68",
+    "name": "Bollywood Series",
     "lang": "he"
   },
   {
-    "site_id": "PT73",
-    "name": "VREMYA",
+    "site_id": "PT26",
+    "name": "Sport 5 HD (55)",
     "lang": "he"
   },
   {
-    "site_id": "TVR6",
-    "name": "Children channel (RGE)",
+    "site_id": "PT50",
+    "name": "MTV Live HD",
     "lang": "he"
   },
   {
-    "site_id": "CH27",
-    "name": "IDXTRA",
+    "site_id": "PT64",
+    "name": "Mediaset",
     "lang": "he"
   },
   {
-    "site_id": "CH57",
-    "name": "Kan Educational",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH77",
-    "name": "Turkish Drama 3",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN20",
-    "name": "Indian Drama 2",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN31",
-    "name": "Spanish Drama 2",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT85",
-    "name": "ZOOM",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT94",
-    "name": "Discovery HD",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV71",
-    "name": "LBC",
+    "site_id": "TV42",
+    "name": "Sky News",
     "lang": "he"
   },
   {
@@ -710,13 +135,368 @@
     "lang": "he"
   },
   {
+    "site_id": "CH79",
+    "name": "Music IL",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH87",
+    "name": "ROTANA Cinema",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT53",
+    "name": "Sport 1 HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT83",
+    "name": "JimJam RUS",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT85",
+    "name": "ZOOM",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV09",
+    "name": "LifeStyle",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV43",
+    "name": "Kehilaty (98)",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH11",
+    "name": "Sport 4 HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH43",
+    "name": "TLC (68)",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH57",
+    "name": "Kan Educational",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH81",
+    "name": "TV Game Shows",
+    "lang": "he"
+  },
+  {
+    "site_id": "CHN3",
+    "name": "ONE EDGE",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN04",
+    "name": "Mediterranean Channel 2",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT06",
+    "name": "CGTN",
+    "lang": "he"
+  },
+  {
     "site_id": "PT31",
     "name": "MTV Club (MTV Dance)",
     "lang": "he"
   },
   {
-    "site_id": "TV73",
-    "name": "ROTANA",
+    "site_id": "CH33",
+    "name": "Eurosport 2",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN02",
+    "name": "Kan HD LL",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT12",
+    "name": "EGO",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT38",
+    "name": "Big Brother HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT45",
+    "name": "TVCI",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT61",
+    "name": "Carousel",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT62",
+    "name": "Sport 5 Live HD (58)",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT98",
+    "name": "Sport 2 HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH56",
+    "name": "Sport 5 Stars HD (59)",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH58",
+    "name": "ONE2 HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH76",
+    "name": "Bober",
+    "lang": "he"
+  },
+  {
+    "site_id": "MU03",
+    "name": "Sport 5 Gold (57)",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV49",
+    "name": "TVE",
+    "lang": "he"
+  },
+  {
+    "site_id": "YESV",
+    "name": "yes TV Action",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH36",
+    "name": "Reshet HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT46",
+    "name": "HOP! Childhood",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV13",
+    "name": "Fox News",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV85",
+    "name": "NASHE KINO",
+    "lang": "he"
+  },
+  {
+    "site_id": "YESI",
+    "name": "Yes POP UP HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH13",
+    "name": "WiZ",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH14",
+    "name": "Baby (RUS)",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN31",
+    "name": "Spanish Drama 2",
+    "lang": "he"
+  },
+  {
+    "site_id": "NK01",
+    "name": "Nickelodeon",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT11",
+    "name": "TVR i",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT92",
+    "name": "Channel 14 HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "YSAH",
+    "name": "iTV Shkufit History RUS",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH34",
+    "name": "Keshet HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV56",
+    "name": "EUROSTAR",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV87",
+    "name": "CBS Reality",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH90",
+    "name": "Mediterranean Plus",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN21",
+    "name": "MEZZO Live",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT69",
+    "name": "NICK Junior",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT78",
+    "name": "Disney Junior RUS",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV37",
+    "name": "MTV 00s (VH1)",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV82",
+    "name": "RTR",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH91",
+    "name": "MTV HITS",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN03",
+    "name": "Dom Kino Premium",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT18",
+    "name": "FRANCE 24",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV20",
+    "name": "Viva Telenovelas (Viva)",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV46",
+    "name": "SAT 3",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH97",
+    "name": "Vacation Channel",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT41",
+    "name": "Home and Family",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT59",
+    "name": "Disney Junior",
+    "lang": "he"
+  },
+  {
+    "site_id": "TA05",
+    "name": "Junior",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV65",
+    "name": "Russian MusicBox",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT74",
+    "name": "TELECAFE",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN08",
+    "name": "Childhood",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH32",
+    "name": "Makan",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH62",
+    "name": "Style Channel (Fashion IL)",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH74",
+    "name": "FRANCE3",
+    "lang": "he"
+  },
+  {
+    "site_id": "CHN2",
+    "name": "ONE DOCO",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN23",
+    "name": "MAD World",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN24",
+    "name": "Yoyo",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN11",
+    "name": "Sport TOGO 1",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH27",
+    "name": "IDXTRA",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN12",
+    "name": "Sport TOGO 2",
+    "lang": "he"
+  },
+  {
+    "site_id": "TA02",
+    "name": "Baby",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV77",
+    "name": "RTM",
     "lang": "he"
   },
   {
@@ -730,98 +510,13 @@
     "lang": "he"
   },
   {
-    "site_id": "YSAH",
-    "name": "iTV Shkufit History RUS",
+    "site_id": "YSAU",
+    "name": "yes Israeli Cinema HD",
     "lang": "he"
   },
   {
-    "site_id": "CH91",
-    "name": "MTV HITS",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN23",
-    "name": "MAD World",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT48",
-    "name": "JimJam",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV19",
-    "name": "History SD",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV44",
-    "name": "RTL",
-    "lang": "he"
-  },
-  {
-    "site_id": "YESU",
-    "name": "yes TV Drama",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH24",
-    "name": "REN TV",
-    "lang": "he"
-  },
-  {
-    "site_id": "CHN2",
-    "name": "ONE DOCO",
-    "lang": "he"
-  },
-  {
-    "site_id": "CN32",
-    "name": "Economics 10",
-    "lang": "he"
-  },
-  {
-    "site_id": "PT26",
-    "name": "Sport 5 HD (55)",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV60",
-    "name": "NTV MIR",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV87",
-    "name": "CBS Reality",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH61",
-    "name": "Design Channel (DIY)",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV02",
-    "name": "METV",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV49",
-    "name": "TVE",
-    "lang": "he"
-  },
-  {
-    "site_id": "TV65",
-    "name": "Russian MusicBox",
-    "lang": "he"
-  },
-  {
-    "site_id": "YSA2",
-    "name": "yes Movies Action",
-    "lang": "he"
-  },
-  {
-    "site_id": "CH98",
-    "name": "ZOOM TOON",
+    "site_id": "CH55",
+    "name": "Sport 5 4K",
     "lang": "he"
   },
   {
@@ -830,13 +525,223 @@
     "lang": "he"
   },
   {
-    "site_id": "PT06",
-    "name": "CGTN",
+    "site_id": "PT63",
+    "name": "HALA TV",
     "lang": "he"
   },
   {
-    "site_id": "PT74",
-    "name": "TELECAFE",
+    "site_id": "TV02",
+    "name": "METV",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV44",
+    "name": "RTL",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV45",
+    "name": "SAT 1",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV71",
+    "name": "LBC",
+    "lang": "he"
+  },
+  {
+    "site_id": "YESP",
+    "name": "yes TV Comedy",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH71",
+    "name": "National G. Wild HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN30",
+    "name": "Spanish Drama 1",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN35",
+    "name": "Mediterranean movies",
+    "lang": "he"
+  },
+  {
+    "site_id": "YS17",
+    "name": "yes Together (Beyachad) HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "YSA2",
+    "name": "yes Movies Action",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH18",
+    "name": "TeenNick",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH75",
+    "name": "Viva Vintage",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT48",
+    "name": "JimJam",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT72",
+    "name": "Mediterranean Channel",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV12",
+    "name": "CNN",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV47",
+    "name": "ARTE",
+    "lang": "he"
+  },
+  {
+    "site_id": "YSA4",
+    "name": "yes Movies Kids",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH41",
+    "name": "Classica HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH82",
+    "name": "Keshet HD SUB",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH84",
+    "name": "Kan HD SUB",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH89",
+    "name": "Viva Premium",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT28",
+    "name": "Travel Channel",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV57",
+    "name": "PROTV",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH80",
+    "name": "Turkish Drama 2",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT15",
+    "name": "1+1",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT22",
+    "name": "Sport 1 single (63)",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT73",
+    "name": "VREMYA",
+    "lang": "he"
+  },
+  {
+    "site_id": "TR01",
+    "name": "ONE HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV50",
+    "name": "Israel Plus (9)",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV79",
+    "name": "GTV",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT02",
+    "name": "Bollywood Movies",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT19",
+    "name": "IETV",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT60",
+    "name": "Viva Istanbul (Viva Plus)",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV10",
+    "name": "E",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH98",
+    "name": "ZOOM TOON",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH19",
+    "name": "Kids Stars Channel",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN28",
+    "name": "i24 Hebrew",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT55",
+    "name": "History HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV59",
+    "name": "Bloomberg",
+    "lang": "he"
+  },
+  {
+    "site_id": "YS19",
+    "name": "yes+ cinema",
+    "lang": "he"
+  },
+  {
+    "site_id": "YS20",
+    "name": "yes+ diamonds",
+    "lang": "he"
+  },
+  {
+    "site_id": "YSA1",
+    "name": "yes Movies Drama",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN25",
+    "name": "DOC",
     "lang": "he"
   },
   {
@@ -845,13 +750,53 @@
     "lang": "he"
   },
   {
-    "site_id": "TV46",
-    "name": "SAT 3",
+    "site_id": "TV61",
+    "name": "ANIMAL PLANET",
     "lang": "he"
   },
   {
-    "site_id": "CH74",
-    "name": "FRANCE3",
+    "site_id": "TV67",
+    "name": "Music 24",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH72",
+    "name": "Reality Channel (Reshet)",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT36",
+    "name": "Dom Kino",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH70",
+    "name": "Turkish Drama",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH61",
+    "name": "Design Channel (DIY)",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH65",
+    "name": "Humor Channel",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH77",
+    "name": "Turkish Drama 3",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV81",
+    "name": "Channel 1 Rus",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH29",
+    "name": "SHANSON TV",
     "lang": "he"
   },
   {
@@ -860,13 +805,68 @@
     "lang": "he"
   },
   {
-    "site_id": "CN14",
-    "name": "i24 Arabic",
+    "site_id": "YSAT",
+    "name": "yes Docu HD",
     "lang": "he"
   },
   {
-    "site_id": "PT62",
-    "name": "Sport 5 Live HD (58)",
+    "site_id": "CN20",
+    "name": "Indian Drama 2",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT39",
+    "name": "EUROSPORT HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT91",
+    "name": "Disney HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT94",
+    "name": "Discovery HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV40",
+    "name": "MEZZO",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV60",
+    "name": "NTV MIR",
+    "lang": "he"
+  },
+  {
+    "site_id": "TV73",
+    "name": "ROTANA",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT25",
+    "name": "National G. HD",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH23",
+    "name": "Current Time",
+    "lang": "he"
+  },
+  {
+    "site_id": "CH24",
+    "name": "REN TV",
+    "lang": "he"
+  },
+  {
+    "site_id": "CN05",
+    "name": "France 24 fr",
+    "lang": "he"
+  },
+  {
+    "site_id": "PT30",
+    "name": "Hidabroot",
     "lang": "he"
   }
 ]

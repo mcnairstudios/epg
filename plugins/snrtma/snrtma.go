@@ -150,6 +150,7 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 	sortEntries(entries)
 
 	nextDay := time.Date(date.Year(), date.Month(), date.Day()+1, 0, 0, 0, 0, casablanca).UTC()
+	localDate := date.In(casablanca)
 
 	var programs []domain.Program
 	for i, e := range entries {
@@ -160,10 +161,8 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 			stop = nextDay
 		}
 
-		if !e.start.Before(nextDay) {
-			continue
-		}
-		if stop.Before(date) || stop.Equal(date) {
+		startLocal := e.start.In(casablanca)
+		if startLocal.Year() != localDate.Year() || startLocal.Month() != localDate.Month() || startLocal.Day() != localDate.Day() {
 			continue
 		}
 

@@ -24,17 +24,6 @@
     "xmltv_id": "FijiOne.fj@SD"
   },
   {
-    "site_id": "9-education-channel",
-    "name": "Education Channel",
-    "lang": "fj"
-  },
-  {
-    "site_id": "fbc-2",
-    "name": "FBC",
-    "lang": "fj",
-    "xmltv_id": "FBCTV.fj@SD"
-  },
-  {
     "site_id": "hope-channel",
     "name": "Hope Channel",
     "lang": "fj",
@@ -51,5 +40,16 @@
     "name": "Parliament Channel",
     "lang": "fj",
     "xmltv_id": "ParliamentofFiji.fj@SD"
+  },
+  {
+    "site_id": "9-education-channel",
+    "name": "Education Channel",
+    "lang": "fj"
+  },
+  {
+    "site_id": "fbc-2",
+    "name": "FBC",
+    "lang": "fj",
+    "xmltv_id": "FBCTV.fj@SD"
   }
 ]

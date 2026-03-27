@@ -119,7 +119,7 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 		}
 		t := normalizeTime(strings.TrimSpace(row[0]))
 		title := strings.TrimSpace(row[colIdx])
-		if t == "" || title == "" {
+		if t == "" {
 			continue
 		}
 		items = append(items, item{timeStr: t, title: title})

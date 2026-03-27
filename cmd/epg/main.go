@@ -235,20 +235,21 @@ import (
 	_ "github.com/gavinmcnair/epg/plugins/antennaeurope"
 	_ "github.com/gavinmcnair/epg/plugins/antennapacific"
 	_ "github.com/gavinmcnair/epg/plugins/antennasatellite"
-	_ "github.com/gavinmcnair/epg/plugins/derana2"
-	_ "github.com/gavinmcnair/epg/plugins/freetv2"
 	_ "github.com/gavinmcnair/epg/plugins/thesportplus"
 	_ "github.com/gavinmcnair/epg/plugins/tivutv"
-	_ "github.com/gavinmcnair/epg/plugins/tvinsider2"
 
-	_ "github.com/gavinmcnair/epg/plugins/clarobr2"
-	_ "github.com/gavinmcnair/epg/plugins/horizontv2"
 	_ "github.com/gavinmcnair/epg/plugins/meuguia"
 	_ "github.com/gavinmcnair/epg/plugins/nhkjp"
 	_ "github.com/gavinmcnair/epg/plugins/ninetv"
 	_ "github.com/gavinmcnair/epg/plugins/optosic"
-	_ "github.com/gavinmcnair/epg/plugins/rtmklik2"
-	_ "github.com/gavinmcnair/epg/plugins/sattv2"
+
+	_ "github.com/gavinmcnair/epg/plugins/guiadetv"
+	_ "github.com/gavinmcnair/epg/plugins/ionplustv"
+	_ "github.com/gavinmcnair/epg/plugins/rotana"
+	_ "github.com/gavinmcnair/epg/plugins/royatv"
+	_ "github.com/gavinmcnair/epg/plugins/snrtma"
+	_ "github.com/gavinmcnair/epg/plugins/startimes"
+	_ "github.com/gavinmcnair/epg/plugins/zuragtmn"
 )
 
 func main() {

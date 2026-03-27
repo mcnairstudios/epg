@@ -1,13 +1,233 @@
 [
   {
-    "site_id": "1945",
-    "name": "LA VOZ DE MARIA",
-    "lang": "es",
-    "xmltv_id": "LaVozdeMaria.do@SD"
+    "site_id": "2020",
+    "name": "ESPN 3 HD",
+    "lang": "es"
   },
   {
-    "site_id": "2791",
-    "name": "UNIVISION HD",
+    "site_id": "2910",
+    "name": "PARAMOUNT NETWORK",
+    "lang": "es",
+    "xmltv_id": "ParamountNetworkLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "2932",
+    "name": "ANIMAL PLANET",
+    "lang": "es",
+    "xmltv_id": "AnimalPlanetLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "3467",
+    "name": "CINECANAL",
+    "lang": "es"
+  },
+  {
+    "site_id": "532",
+    "name": "80S HITS",
+    "lang": "es"
+  },
+  {
+    "site_id": "386",
+    "name": "DISNEY",
+    "lang": "es"
+  },
+  {
+    "site_id": "934",
+    "name": "MERIDIANO TV",
+    "lang": "es",
+    "xmltv_id": "MeridianoTV.ve@SD"
+  },
+  {
+    "site_id": "1332",
+    "name": "X-TIME",
+    "lang": "es"
+  },
+  {
+    "site_id": "1752",
+    "name": "MAS CHIC",
+    "lang": "es",
+    "xmltv_id": "MasChic.ar@Panregional"
+  },
+  {
+    "site_id": "2626",
+    "name": "COLOMBEIA",
+    "lang": "es",
+    "xmltv_id": "Colombeia.ve@SD"
+  },
+  {
+    "site_id": "3292",
+    "name": "PLAYBOY",
+    "lang": "es",
+    "xmltv_id": "PlayboyTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "3381",
+    "name": "CANAL GUIA INTER",
+    "lang": "es"
+  },
+  {
+    "site_id": "16",
+    "name": "DW ESPAÑOL",
+    "lang": "es",
+    "xmltv_id": "DW.de@Espanol"
+  },
+  {
+    "site_id": "184",
+    "name": "EUROPA EUROPA",
+    "lang": "es",
+    "xmltv_id": "EuropaEuropa.ar@SD"
+  },
+  {
+    "site_id": "388",
+    "name": "TELESUR",
+    "lang": "es",
+    "xmltv_id": "Telesur.ve@SD"
+  },
+  {
+    "site_id": "580",
+    "name": "STUDIO UNIVERSAL",
+    "lang": "es",
+    "xmltv_id": "StudioUniversalLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "2831",
+    "name": "CONCIENCIA TV",
+    "lang": "es",
+    "xmltv_id": "ConCienciaTV.ve@SD"
+  },
+  {
+    "site_id": "135",
+    "name": "TV PUBLICA",
+    "lang": "es"
+  },
+  {
+    "site_id": "2293",
+    "name": "CINEMAX",
+    "lang": "es",
+    "xmltv_id": "CinemaxLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "2376",
+    "name": "GOLDEN PREMIER",
+    "lang": "es",
+    "xmltv_id": "GoldenPremier.mx@SD"
+  },
+  {
+    "site_id": "4993",
+    "name": "GOLDEN PLUS HD",
+    "lang": "es",
+    "xmltv_id": "GoldenPlus.mx@SD"
+  },
+  {
+    "site_id": "2669",
+    "name": "HOLA TV",
+    "lang": "es",
+    "xmltv_id": "HolaTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "339",
+    "name": "TLC",
+    "lang": "es",
+    "xmltv_id": "TLCLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "9",
+    "name": "LAS ESTRELLAS",
+    "lang": "es",
+    "xmltv_id": "LasEstrellasLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "59",
+    "name": "TVE",
+    "lang": "es",
+    "xmltv_id": "TVEInternacionalAmerica.es@SD"
+  },
+  {
+    "site_id": "61",
+    "name": "ANTENA3",
+    "lang": "es",
+    "xmltv_id": "Antena3Internacional.es@SD"
+  },
+  {
+    "site_id": "479",
+    "name": "AXN",
+    "lang": "es"
+  },
+  {
+    "site_id": "3413",
+    "name": "TV FAMILIA",
+    "lang": "es",
+    "xmltv_id": "TVFamilia.ve@SD"
+  },
+  {
+    "site_id": "6223",
+    "name": "CLAROSPORTS",
+    "lang": "es"
+  },
+  {
+    "site_id": "808",
+    "name": "BETHEL",
+    "lang": "es",
+    "xmltv_id": "BethelTV.pe@SD"
+  },
+  {
+    "site_id": "1117",
+    "name": "SY FY",
+    "lang": "es",
+    "xmltv_id": "SyfyLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "1154",
+    "name": "CANAL 13",
+    "lang": "es"
+  },
+  {
+    "site_id": "2226",
+    "name": "SERTV",
+    "lang": "es",
+    "xmltv_id": "SerTV.pa@SD"
+  },
+  {
+    "site_id": "3291",
+    "name": "PENTHOUSE",
+    "lang": "es",
+    "xmltv_id": "PenthouseTV.us@SD"
+  },
+  {
+    "site_id": "3294",
+    "name": "VENUS",
+    "lang": "es",
+    "xmltv_id": "Venus.ar@SD"
+  },
+  {
+    "site_id": "0",
+    "name": "Todos",
+    "lang": "es"
+  },
+  {
+    "site_id": "281",
+    "name": "CANAL 24 HS",
+    "lang": "es"
+  },
+  {
+    "site_id": "2138",
+    "name": "VENEVISION",
+    "lang": "es",
+    "xmltv_id": "Venevision.ve@SD"
+  },
+  {
+    "site_id": "137",
+    "name": "DE PELICULA",
+    "lang": "es"
+  },
+  {
+    "site_id": "396",
+    "name": "DISCOVERY KIDS",
+    "lang": "es"
+  },
+  {
+    "site_id": "455",
+    "name": "A\u0026E MUNDO",
     "lang": "es"
   },
   {
@@ -17,9 +237,10 @@
     "xmltv_id": "BrazzersTVEurope.us@SD"
   },
   {
-    "site_id": "404",
-    "name": "NATIONAL GEOGRAPHIC",
-    "lang": "es"
+    "site_id": "4527",
+    "name": "GOLDEN EDGE HD",
+    "lang": "es",
+    "xmltv_id": "GoldenEdge.mx@Panregional"
   },
   {
     "site_id": "500",
@@ -28,33 +249,53 @@
     "xmltv_id": "HBOSignatureLatinAmerica.us@SD"
   },
   {
-    "site_id": "771",
-    "name": "SUN CHANNEL",
-    "lang": "es",
-    "xmltv_id": "SunChannel.ve@SD"
-  },
-  {
-    "site_id": "1531",
-    "name": "HGTV",
-    "lang": "es",
-    "xmltv_id": "HGTVLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "2138",
-    "name": "VENEVISION",
-    "lang": "es",
-    "xmltv_id": "Venevision.ve@SD"
-  },
-  {
-    "site_id": "2360",
-    "name": "NICKMUSIC",
+    "site_id": "1258",
+    "name": "SPACE HD",
     "lang": "es"
   },
   {
-    "site_id": "2793",
-    "name": "ADRENALINA SPORTS NETWORK",
+    "site_id": "6998",
+    "name": "DIRECTV SPORTS 2",
     "lang": "es",
-    "xmltv_id": "AdrenalinaSportsNetwork.us@SD"
+    "xmltv_id": "DirecTVSports2.us@Panregional"
+  },
+  {
+    "site_id": "1054",
+    "name": "CLASICOS INSTRUMENTALES",
+    "lang": "es"
+  },
+  {
+    "site_id": "1101",
+    "name": "FOX SPORTS 3",
+    "lang": "es"
+  },
+  {
+    "site_id": "1226",
+    "name": "NICK JR",
+    "lang": "es",
+    "xmltv_id": "NickJrLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "2127",
+    "name": "HBO 2",
+    "lang": "es",
+    "xmltv_id": "HBO2LatinAmerica.us@SD"
+  },
+  {
+    "site_id": "2187",
+    "name": "ANTV",
+    "lang": "es",
+    "xmltv_id": "ANTV.ve@SD"
+  },
+  {
+    "site_id": "2603",
+    "name": "ESPN",
+    "lang": "es"
+  },
+  {
+    "site_id": "3041",
+    "name": "TNT SERIES",
+    "lang": "es"
   },
   {
     "site_id": "3313",
@@ -63,10 +304,15 @@
     "xmltv_id": "TVFANB.ve@SD"
   },
   {
-    "site_id": "9",
-    "name": "LAS ESTRELLAS",
+    "site_id": "407",
+    "name": "VIVE TV",
     "lang": "es",
-    "xmltv_id": "LasEstrellasLatinAmerica.mx@SD"
+    "xmltv_id": "Vive.ve@SD"
+  },
+  {
+    "site_id": "778",
+    "name": "STAR CHANNEL",
+    "lang": "es"
   },
   {
     "site_id": "1229",
@@ -75,22 +321,151 @@
     "xmltv_id": "NickelodeonLatinAmerica.us@Panregional"
   },
   {
+    "site_id": "1330",
+    "name": "CCTV 4",
+    "lang": "es"
+  },
+  {
+    "site_id": "1966",
+    "name": "TBS VERYFUNNY",
+    "lang": "es",
+    "xmltv_id": "TBSLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "2204",
+    "name": "SPACE",
+    "lang": "es"
+  },
+  {
+    "site_id": "2899",
+    "name": "ESPN 2",
+    "lang": "es"
+  },
+  {
+    "site_id": "3352",
+    "name": "TVEPACO",
+    "lang": "es",
+    "xmltv_id": "VepacoTV.ve@SD"
+  },
+  {
+    "site_id": "21",
+    "name": "HBO",
+    "lang": "es",
+    "xmltv_id": "HBOLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "311",
+    "name": "TYC SPORTS HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "335",
+    "name": "HBO FAMILY",
+    "lang": "es",
+    "xmltv_id": "HBOFamilyLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "493",
+    "name": "DISCOVERY SCIENCE",
+    "lang": "es",
+    "xmltv_id": "DiscoveryScienceLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "1339",
+    "name": "MTV",
+    "lang": "es",
+    "xmltv_id": "MTVLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "2824",
+    "name": "H2",
+    "lang": "es",
+    "xmltv_id": "History2LatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "6996",
+    "name": "DIRECTV SPORTS",
+    "lang": "es"
+  },
+  {
+    "site_id": "6997",
+    "name": "DIRECTV SPORTS HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "404",
+    "name": "NATIONAL GEOGRAPHIC",
+    "lang": "es"
+  },
+  {
+    "site_id": "423",
+    "name": "UNIVERSAL CHANNEL",
+    "lang": "es"
+  },
+  {
+    "site_id": "1132",
+    "name": "ESPN EXTRA HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "6999",
+    "name": "DIRECTV SPORTS 2 HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "7263",
+    "name": "BYM SPORTS HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "445",
+    "name": "HISTORY",
+    "lang": "es",
+    "xmltv_id": "HistoryLatinAmerica.us@South"
+  },
+  {
     "site_id": "2037",
     "name": "COMEDY CENTRAL",
     "lang": "es",
     "xmltv_id": "ComedyCentralLatinAmerica.us@Panregional"
   },
   {
-    "site_id": "3135",
-    "name": "DISCOVERY HOME AND HEALTH",
+    "site_id": "2280",
+    "name": "AGROTENDENCIA",
     "lang": "es",
-    "xmltv_id": "DiscoveryHomeHealthLatinAmerica.mx@Chile"
+    "xmltv_id": "AgrotendenciaTV.cr@SD"
   },
   {
-    "site_id": "3413",
-    "name": "TV FAMILIA",
+    "site_id": "3901",
+    "name": "SHOWVEN TV",
+    "lang": "es"
+  },
+  {
+    "site_id": "535",
+    "name": "EXITOS EN ESPAÑOL",
+    "lang": "es"
+  },
+  {
+    "site_id": "572",
+    "name": "CONTEMPORANEA",
+    "lang": "es"
+  },
+  {
+    "site_id": "591",
+    "name": "DISCOVERY ID",
+    "lang": "es"
+  },
+  {
+    "site_id": "1153",
+    "name": "TELEMUNDO",
     "lang": "es",
-    "xmltv_id": "TVFamilia.ve@SD"
+    "xmltv_id": "TelemundoInternacional.us@South"
+  },
+  {
+    "site_id": "1348",
+    "name": "HBO MUNDI",
+    "lang": "es",
+    "xmltv_id": "HBOMundiLatinAmerica.us@SD"
   },
   {
     "site_id": "3530",
@@ -105,14 +480,50 @@
     "xmltv_id": "BoliviaTV.bo@SD"
   },
   {
-    "site_id": "4479",
-    "name": "IVC HD",
+    "site_id": "6653",
+    "name": "BYM SPORTS",
     "lang": "es"
   },
   {
-    "site_id": "0",
-    "name": "Todos",
+    "site_id": "38",
+    "name": "TV5",
     "lang": "es"
+  },
+  {
+    "site_id": "334",
+    "name": "HBO XTREME",
+    "lang": "es",
+    "xmltv_id": "HBOXtremeLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "408",
+    "name": "TELEVEN",
+    "lang": "es",
+    "xmltv_id": "Televen.ve@SD"
+  },
+  {
+    "site_id": "1531",
+    "name": "HGTV",
+    "lang": "es",
+    "xmltv_id": "HGTVLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "2793",
+    "name": "ADRENALINA SPORTS NETWORK",
+    "lang": "es",
+    "xmltv_id": "AdrenalinaSportsNetwork.us@SD"
+  },
+  {
+    "site_id": "3450",
+    "name": "FOOD NETWORK HD",
+    "lang": "es",
+    "xmltv_id": "FoodNetworkLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "106",
+    "name": "MULTIPREMIER",
+    "lang": "es",
+    "xmltv_id": "MultiPremier.mx@SD"
   },
   {
     "site_id": "149",
@@ -121,179 +532,16 @@
     "xmltv_id": "TelefeInternacional.ar@SD"
   },
   {
-    "site_id": "335",
-    "name": "HBO FAMILY",
+    "site_id": "309",
+    "name": "GLOBOVISION",
     "lang": "es",
-    "xmltv_id": "HBOFamilyLatinAmerica.us@SD"
+    "xmltv_id": "Globovision.ve@SD"
   },
   {
-    "site_id": "2831",
-    "name": "CONCIENCIA TV",
+    "site_id": "337",
+    "name": "EUROCHANNEL",
     "lang": "es",
-    "xmltv_id": "ConCienciaTV.ve@SD"
-  },
-  {
-    "site_id": "3041",
-    "name": "TNT SERIES",
-    "lang": "es"
-  },
-  {
-    "site_id": "3357",
-    "name": "VALE TV",
-    "lang": "es",
-    "xmltv_id": "ValeTV.ve@SD"
-  },
-  {
-    "site_id": "4527",
-    "name": "GOLDEN EDGE HD",
-    "lang": "es",
-    "xmltv_id": "GoldenEdge.mx@Panregional"
-  },
-  {
-    "site_id": "2020",
-    "name": "ESPN 3 HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "7263",
-    "name": "BYM SPORTS HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "59",
-    "name": "TVE",
-    "lang": "es",
-    "xmltv_id": "TVEInternacionalAmerica.es@SD"
-  },
-  {
-    "site_id": "222",
-    "name": "ESPN 4 HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "535",
-    "name": "EXITOS EN ESPAÑOL",
-    "lang": "es"
-  },
-  {
-    "site_id": "3291",
-    "name": "PENTHOUSE",
-    "lang": "es",
-    "xmltv_id": "PenthouseTV.us@SD"
-  },
-  {
-    "site_id": "3750",
-    "name": "TLT HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "6999",
-    "name": "DIRECTV SPORTS 2 HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "572",
-    "name": "CONTEMPORANEA",
-    "lang": "es"
-  },
-  {
-    "site_id": "1117",
-    "name": "SY FY",
-    "lang": "es",
-    "xmltv_id": "SyfyLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "63",
-    "name": "FILM\u0026ARTS",
-    "lang": "es",
-    "xmltv_id": "FilmArts.ar@Panregional"
-  },
-  {
-    "site_id": "445",
-    "name": "HISTORY",
-    "lang": "es",
-    "xmltv_id": "HistoryLatinAmerica.us@South"
-  },
-  {
-    "site_id": "461",
-    "name": "TNT",
-    "lang": "es",
-    "xmltv_id": "TNTLatinAmerica.us@Center"
-  },
-  {
-    "site_id": "466",
-    "name": "WARNER",
-    "lang": "es",
-    "xmltv_id": "WarnerChannel.us@Venezuela"
-  },
-  {
-    "site_id": "880",
-    "name": "TOONCAST",
-    "lang": "es",
-    "xmltv_id": "Tooncast.us@SD"
-  },
-  {
-    "site_id": "2626",
-    "name": "COLOMBEIA",
-    "lang": "es",
-    "xmltv_id": "Colombeia.ve@SD"
-  },
-  {
-    "site_id": "2910",
-    "name": "PARAMOUNT NETWORK",
-    "lang": "es",
-    "xmltv_id": "ParamountNetworkLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "4993",
-    "name": "GOLDEN PLUS HD",
-    "lang": "es",
-    "xmltv_id": "GoldenPlus.mx@SD"
-  },
-  {
-    "site_id": "407",
-    "name": "VIVE TV",
-    "lang": "es",
-    "xmltv_id": "Vive.ve@SD"
-  },
-  {
-    "site_id": "492",
-    "name": "DISCOVERY TURBO",
-    "lang": "es",
-    "xmltv_id": "DiscoveryTurboLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "727",
-    "name": "MTV HITS",
-    "lang": "es"
-  },
-  {
-    "site_id": "1339",
-    "name": "MTV",
-    "lang": "es",
-    "xmltv_id": "MTVLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "2186",
-    "name": "TVES",
-    "lang": "es",
-    "xmltv_id": "TVes.ve@SD"
-  },
-  {
-    "site_id": "6223",
-    "name": "CLAROSPORTS",
-    "lang": "es"
-  },
-  {
-    "site_id": "61",
-    "name": "ANTENA3",
-    "lang": "es",
-    "xmltv_id": "Antena3Internacional.es@SD"
-  },
-  {
-    "site_id": "386",
-    "name": "DISNEY",
-    "lang": "es"
+    "xmltv_id": "Eurochannel.uk@SD"
   },
   {
     "site_id": "1181",
@@ -302,130 +550,8 @@
     "xmltv_id": "DiscoveryTheaterLatinAmerica.us@SD"
   },
   {
-    "site_id": "1966",
-    "name": "TBS VERYFUNNY",
-    "lang": "es",
-    "xmltv_id": "TBSLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "2187",
-    "name": "ANTV",
-    "lang": "es",
-    "xmltv_id": "ANTV.ve@SD"
-  },
-  {
-    "site_id": "2293",
-    "name": "CINEMAX",
-    "lang": "es",
-    "xmltv_id": "CinemaxLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "2603",
-    "name": "ESPN",
-    "lang": "es"
-  },
-  {
-    "site_id": "7001",
-    "name": "DIRECTV SPORTS + HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "13",
-    "name": "CNN",
-    "lang": "es",
-    "xmltv_id": "CNNInternational.us@LatinAmerica"
-  },
-  {
-    "site_id": "2824",
-    "name": "H2",
-    "lang": "es",
-    "xmltv_id": "History2LatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "423",
-    "name": "UNIVERSAL CHANNEL",
-    "lang": "es"
-  },
-  {
-    "site_id": "1101",
-    "name": "FOX SPORTS 3",
-    "lang": "es"
-  },
-  {
-    "site_id": "1132",
-    "name": "ESPN EXTRA HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "6996",
-    "name": "DIRECTV SPORTS",
-    "lang": "es"
-  },
-  {
-    "site_id": "438",
-    "name": "DISCOVERY CHANNEL",
-    "lang": "es"
-  },
-  {
-    "site_id": "2127",
-    "name": "HBO 2",
-    "lang": "es",
-    "xmltv_id": "HBO2LatinAmerica.us@SD"
-  },
-  {
-    "site_id": "2280",
-    "name": "AGROTENDENCIA",
-    "lang": "es",
-    "xmltv_id": "AgrotendenciaTV.cr@SD"
-  },
-  {
-    "site_id": "3422",
-    "name": "HBO POP PANAMERICANO",
-    "lang": "es",
-    "xmltv_id": "HBOPopLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "135",
-    "name": "TV PUBLICA",
-    "lang": "es"
-  },
-  {
-    "site_id": "546",
-    "name": "MARIACHI",
-    "lang": "es"
-  },
-  {
-    "site_id": "3381",
-    "name": "CANAL GUIA INTER",
-    "lang": "es"
-  },
-  {
-    "site_id": "6998",
-    "name": "DIRECTV SPORTS 2",
-    "lang": "es",
-    "xmltv_id": "DirecTVSports2.us@Panregional"
-  },
-  {
-    "site_id": "420",
-    "name": "VTV",
-    "lang": "es",
-    "xmltv_id": "VenezolanadeTelevision.ve@SD"
-  },
-  {
-    "site_id": "934",
-    "name": "MERIDIANO TV",
-    "lang": "es",
-    "xmltv_id": "MeridianoTV.ve@SD"
-  },
-  {
-    "site_id": "2217",
-    "name": "PASIONES HD",
-    "lang": "es",
-    "xmltv_id": "PasionesLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "2899",
-    "name": "ESPN 2",
+    "site_id": "1720",
+    "name": "ROCK ALTERNATIVO",
     "lang": "es"
   },
   {
@@ -434,34 +560,8 @@
     "lang": "es"
   },
   {
-    "site_id": "137",
-    "name": "DE PELICULA",
-    "lang": "es"
-  },
-  {
-    "site_id": "1258",
-    "name": "SPACE HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "1332",
-    "name": "X-TIME",
-    "lang": "es"
-  },
-  {
-    "site_id": "281",
-    "name": "CANAL 24 HS",
-    "lang": "es"
-  },
-  {
-    "site_id": "388",
-    "name": "TELESUR",
-    "lang": "es",
-    "xmltv_id": "Telesur.ve@SD"
-  },
-  {
-    "site_id": "396",
-    "name": "DISCOVERY KIDS",
+    "site_id": "446",
+    "name": "SONY",
     "lang": "es"
   },
   {
@@ -471,19 +571,10 @@
     "xmltv_id": "ElGourmet.ar@South"
   },
   {
-    "site_id": "778",
-    "name": "STAR CHANNEL",
-    "lang": "es"
-  },
-  {
-    "site_id": "311",
-    "name": "TYC SPORTS HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "532",
-    "name": "80S HITS",
-    "lang": "es"
+    "site_id": "914",
+    "name": "VENEVISION PLUS",
+    "lang": "es",
+    "xmltv_id": "VePlus.ve@Venezuela"
   },
   {
     "site_id": "933",
@@ -492,52 +583,14 @@
     "xmltv_id": "MTV80s.uk@SD"
   },
   {
-    "site_id": "2005",
-    "name": "ESPN 3",
-    "lang": "es"
-  },
-  {
-    "site_id": "3450",
-    "name": "FOOD NETWORK HD",
+    "site_id": "1945",
+    "name": "LA VOZ DE MARIA",
     "lang": "es",
-    "xmltv_id": "FoodNetworkLatinAmerica.us@Panregional"
+    "xmltv_id": "LaVozdeMaria.do@SD"
   },
   {
-    "site_id": "6997",
-    "name": "DIRECTV SPORTS HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "184",
-    "name": "EUROPA EUROPA",
-    "lang": "es",
-    "xmltv_id": "EuropaEuropa.ar@SD"
-  },
-  {
-    "site_id": "536",
-    "name": "EXITOS EN INGLES",
-    "lang": "es"
-  },
-  {
-    "site_id": "2670",
-    "name": "HOLA TV HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "2932",
-    "name": "ANIMAL PLANET",
-    "lang": "es",
-    "xmltv_id": "AnimalPlanetLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "334",
-    "name": "HBO XTREME",
-    "lang": "es",
-    "xmltv_id": "HBOXtremeLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "533",
-    "name": "90S HITS",
+    "site_id": "4479",
+    "name": "IVC HD",
     "lang": "es"
   },
   {
@@ -547,157 +600,35 @@
     "xmltv_id": "TCMLatinAmerica.us@Panregional"
   },
   {
-    "site_id": "1752",
-    "name": "MAS CHIC",
-    "lang": "es",
-    "xmltv_id": "MasChic.ar@Panregional"
-  },
-  {
     "site_id": "2202",
     "name": "FOX SPORTS 2",
     "lang": "es"
   },
   {
-    "site_id": "4361",
-    "name": "ESPN 4",
+    "site_id": "771",
+    "name": "SUN CHANNEL",
+    "lang": "es",
+    "xmltv_id": "SunChannel.ve@SD"
+  },
+  {
+    "site_id": "2235",
+    "name": "LAS ESTRELLAS HD",
     "lang": "es"
   },
   {
-    "site_id": "931",
-    "name": "RTP INTERNACIONAL",
-    "lang": "es",
-    "xmltv_id": "RTPiAmerica.pt@SD"
-  },
-  {
-    "site_id": "1226",
-    "name": "NICK JR",
-    "lang": "es",
-    "xmltv_id": "NickJrLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "2165",
-    "name": "HBO PLUS",
-    "lang": "es",
-    "xmltv_id": "HBOPlusLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "3315",
-    "name": "IVC",
-    "lang": "es",
-    "xmltv_id": "IVC.ve@SD"
-  },
-  {
-    "site_id": "1537",
-    "name": "STAR CHANNEL HD",
+    "site_id": "2791",
+    "name": "UNIVISION HD",
     "lang": "es"
   },
   {
-    "site_id": "2226",
-    "name": "SERTV",
+    "site_id": "2835",
+    "name": "TLNOVELAS",
     "lang": "es",
-    "xmltv_id": "SerTV.pa@SD"
-  },
-  {
-    "site_id": "337",
-    "name": "EUROCHANNEL",
-    "lang": "es",
-    "xmltv_id": "Eurochannel.uk@SD"
-  },
-  {
-    "site_id": "1154",
-    "name": "CANAL 13",
-    "lang": "es"
-  },
-  {
-    "site_id": "3294",
-    "name": "VENUS",
-    "lang": "es",
-    "xmltv_id": "Venus.ar@SD"
-  },
-  {
-    "site_id": "6653",
-    "name": "BYM SPORTS",
-    "lang": "es"
-  },
-  {
-    "site_id": "374",
-    "name": "CUBAVISION",
-    "lang": "es"
+    "xmltv_id": "TlnovelasLatinAmerica.mx@SD"
   },
   {
     "site_id": "427",
     "name": "FX",
-    "lang": "es"
-  },
-  {
-    "site_id": "967",
-    "name": "CANAL I",
-    "lang": "es",
-    "xmltv_id": "CanalI.ve@SD"
-  },
-  {
-    "site_id": "2204",
-    "name": "SPACE",
-    "lang": "es"
-  },
-  {
-    "site_id": "2376",
-    "name": "GOLDEN PREMIER",
-    "lang": "es",
-    "xmltv_id": "GoldenPremier.mx@SD"
-  },
-  {
-    "site_id": "2669",
-    "name": "HOLA TV",
-    "lang": "es",
-    "xmltv_id": "HolaTVLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "2790",
-    "name": "LIFETIME",
-    "lang": "es",
-    "xmltv_id": "LifetimeLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "3300",
-    "name": "ÁVILA TV",
-    "lang": "es",
-    "xmltv_id": "AvilaTV.ve@SD"
-  },
-  {
-    "site_id": "64",
-    "name": "EWTN",
-    "lang": "es"
-  },
-  {
-    "site_id": "491",
-    "name": "ENTERTAINMENT TELEVISION",
-    "lang": "es"
-  },
-  {
-    "site_id": "2566",
-    "name": "ADRENALINA SPORTS NETWORK HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "408",
-    "name": "TELEVEN",
-    "lang": "es",
-    "xmltv_id": "Televen.ve@SD"
-  },
-  {
-    "site_id": "446",
-    "name": "SONY",
-    "lang": "es"
-  },
-  {
-    "site_id": "455",
-    "name": "A\u0026E MUNDO",
-    "lang": "es"
-  },
-  {
-    "site_id": "545",
-    "name": "JAZZ CLASICO",
     "lang": "es"
   },
   {
@@ -707,56 +638,28 @@
     "xmltv_id": "BabyTV.uk@UK"
   },
   {
-    "site_id": "917",
-    "name": "I-SAT",
+    "site_id": "1112",
+    "name": "TRU TV",
     "lang": "es",
-    "xmltv_id": "ISat.ar@Panregional"
+    "xmltv_id": "truTVLatinAmerica.us@SD"
   },
   {
-    "site_id": "1348",
-    "name": "HBO MUNDI",
+    "site_id": "2790",
+    "name": "LIFETIME",
     "lang": "es",
-    "xmltv_id": "HBOMundiLatinAmerica.us@SD"
+    "xmltv_id": "LifetimeLatinAmerica.us@Panregional"
   },
   {
-    "site_id": "1502",
-    "name": "RUSSIA TODAY",
+    "site_id": "3315",
+    "name": "IVC",
     "lang": "es",
-    "xmltv_id": "RTenEspanol.ru@SD"
+    "xmltv_id": "IVC.ve@SD"
   },
   {
-    "site_id": "38",
-    "name": "TV5",
-    "lang": "es"
-  },
-  {
-    "site_id": "580",
-    "name": "STUDIO UNIVERSAL",
+    "site_id": "401",
+    "name": "GOLDEN",
     "lang": "es",
-    "xmltv_id": "StudioUniversalLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "914",
-    "name": "VENEVISION PLUS",
-    "lang": "es",
-    "xmltv_id": "VePlus.ve@Venezuela"
-  },
-  {
-    "site_id": "1362",
-    "name": "AMC",
-    "lang": "es",
-    "xmltv_id": "AMCLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "3352",
-    "name": "TVEPACO",
-    "lang": "es",
-    "xmltv_id": "VepacoTV.ve@SD"
-  },
-  {
-    "site_id": "3901",
-    "name": "SHOWVEN TV",
-    "lang": "es"
+    "xmltv_id": "Golden.mx@Panregional"
   },
   {
     "site_id": "403",
@@ -764,28 +667,9 @@
     "lang": "es"
   },
   {
-    "site_id": "493",
-    "name": "DISCOVERY SCIENCE",
-    "lang": "es",
-    "xmltv_id": "DiscoveryScienceLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "3292",
-    "name": "PLAYBOY",
-    "lang": "es",
-    "xmltv_id": "PlayboyTVLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "106",
-    "name": "MULTIPREMIER",
-    "lang": "es",
-    "xmltv_id": "MultiPremier.mx@SD"
-  },
-  {
-    "site_id": "309",
-    "name": "GLOBOVISION",
-    "lang": "es",
-    "xmltv_id": "Globovision.ve@SD"
+    "site_id": "438",
+    "name": "DISCOVERY CHANNEL",
+    "lang": "es"
   },
   {
     "site_id": "453",
@@ -793,30 +677,25 @@
     "lang": "es"
   },
   {
-    "site_id": "571",
-    "name": "NUEVA ERA",
+    "site_id": "461",
+    "name": "TNT",
+    "lang": "es",
+    "xmltv_id": "TNTLatinAmerica.us@Center"
+  },
+  {
+    "site_id": "492",
+    "name": "DISCOVERY TURBO",
+    "lang": "es",
+    "xmltv_id": "DiscoveryTurboLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "533",
+    "name": "90S HITS",
     "lang": "es"
   },
   {
-    "site_id": "808",
-    "name": "BETHEL",
-    "lang": "es",
-    "xmltv_id": "BethelTV.pe@SD"
-  },
-  {
-    "site_id": "2835",
-    "name": "TLNOVELAS",
-    "lang": "es",
-    "xmltv_id": "TlnovelasLatinAmerica.mx@SD"
-  },
-  {
-    "site_id": "3467",
-    "name": "CINECANAL",
-    "lang": "es"
-  },
-  {
-    "site_id": "2235",
-    "name": "LAS ESTRELLAS HD",
+    "site_id": "546",
+    "name": "MARIACHI",
     "lang": "es"
   },
   {
@@ -826,20 +705,15 @@
     "xmltv_id": "HTV.us@SD"
   },
   {
-    "site_id": "413",
-    "name": "ENLACE",
-    "lang": "es"
-  },
-  {
-    "site_id": "479",
-    "name": "AXN",
-    "lang": "es"
-  },
-  {
-    "site_id": "1102",
-    "name": "DISNEY JR",
+    "site_id": "466",
+    "name": "WARNER",
     "lang": "es",
-    "xmltv_id": "DisneyJrLatinAmerica.ar@North"
+    "xmltv_id": "WarnerChannel.us@Venezuela"
+  },
+  {
+    "site_id": "571",
+    "name": "NUEVA ERA",
+    "lang": "es"
   },
   {
     "site_id": "1835",
@@ -848,32 +722,131 @@
     "xmltv_id": "Glitz.ar@Panregional"
   },
   {
-    "site_id": "16",
-    "name": "DW ESPAÑOL",
+    "site_id": "1362",
+    "name": "AMC",
     "lang": "es",
-    "xmltv_id": "DW.de@Espanol"
+    "xmltv_id": "AMCLatinAmerica.us@SD"
   },
   {
-    "site_id": "21",
-    "name": "HBO",
-    "lang": "es",
-    "xmltv_id": "HBOLatinAmerica.us@SD"
-  },
-  {
-    "site_id": "1153",
-    "name": "TELEMUNDO",
-    "lang": "es",
-    "xmltv_id": "TelemundoInternacional.us@South"
-  },
-  {
-    "site_id": "1330",
-    "name": "CCTV 4",
+    "site_id": "1537",
+    "name": "STAR CHANNEL HD",
     "lang": "es"
   },
   {
-    "site_id": "1720",
-    "name": "ROCK ALTERNATIVO",
+    "site_id": "3357",
+    "name": "VALE TV",
+    "lang": "es",
+    "xmltv_id": "ValeTV.ve@SD"
+  },
+  {
+    "site_id": "3422",
+    "name": "HBO POP PANAMERICANO",
+    "lang": "es",
+    "xmltv_id": "HBOPopLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "727",
+    "name": "MTV HITS",
     "lang": "es"
+  },
+  {
+    "site_id": "2360",
+    "name": "NICKMUSIC",
+    "lang": "es"
+  },
+  {
+    "site_id": "13",
+    "name": "CNN",
+    "lang": "es",
+    "xmltv_id": "CNNInternational.us@LatinAmerica"
+  },
+  {
+    "site_id": "491",
+    "name": "ENTERTAINMENT TELEVISION",
+    "lang": "es"
+  },
+  {
+    "site_id": "64",
+    "name": "EWTN",
+    "lang": "es"
+  },
+  {
+    "site_id": "222",
+    "name": "ESPN 4 HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "917",
+    "name": "I-SAT",
+    "lang": "es",
+    "xmltv_id": "ISat.ar@Panregional"
+  },
+  {
+    "site_id": "1102",
+    "name": "DISNEY JR",
+    "lang": "es",
+    "xmltv_id": "DisneyJrLatinAmerica.ar@North"
+  },
+  {
+    "site_id": "2566",
+    "name": "ADRENALINA SPORTS NETWORK HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "2670",
+    "name": "HOLA TV HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "3750",
+    "name": "TLT HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "536",
+    "name": "EXITOS EN INGLES",
+    "lang": "es"
+  },
+  {
+    "site_id": "931",
+    "name": "RTP INTERNACIONAL",
+    "lang": "es",
+    "xmltv_id": "RTPiAmerica.pt@SD"
+  },
+  {
+    "site_id": "2165",
+    "name": "HBO PLUS",
+    "lang": "es",
+    "xmltv_id": "HBOPlusLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "2217",
+    "name": "PASIONES HD",
+    "lang": "es",
+    "xmltv_id": "PasionesLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "3135",
+    "name": "DISCOVERY HOME AND HEALTH",
+    "lang": "es",
+    "xmltv_id": "DiscoveryHomeHealthLatinAmerica.mx@Chile"
+  },
+  {
+    "site_id": "4361",
+    "name": "ESPN 4",
+    "lang": "es"
+  },
+  {
+    "site_id": "967",
+    "name": "CANAL I",
+    "lang": "es",
+    "xmltv_id": "CanalI.ve@SD"
+  },
+  {
+    "site_id": "3300",
+    "name": "ÁVILA TV",
+    "lang": "es",
+    "xmltv_id": "AvilaTV.ve@SD"
   },
   {
     "site_id": "7000",
@@ -882,31 +855,58 @@
     "xmltv_id": "DirecTVSportsPlus.us@Panregional"
   },
   {
-    "site_id": "339",
-    "name": "TLC",
-    "lang": "es",
-    "xmltv_id": "TLCLatinAmerica.us@Panregional"
-  },
-  {
-    "site_id": "401",
-    "name": "GOLDEN",
-    "lang": "es",
-    "xmltv_id": "Golden.mx@Panregional"
-  },
-  {
-    "site_id": "591",
-    "name": "DISCOVERY ID",
+    "site_id": "7001",
+    "name": "DIRECTV SPORTS + HD",
     "lang": "es"
   },
   {
-    "site_id": "1054",
-    "name": "CLASICOS INSTRUMENTALES",
+    "site_id": "374",
+    "name": "CUBAVISION",
     "lang": "es"
   },
   {
-    "site_id": "1112",
-    "name": "TRU TV",
+    "site_id": "413",
+    "name": "ENLACE",
+    "lang": "es"
+  },
+  {
+    "site_id": "545",
+    "name": "JAZZ CLASICO",
+    "lang": "es"
+  },
+  {
+    "site_id": "1502",
+    "name": "RUSSIA TODAY",
     "lang": "es",
-    "xmltv_id": "truTVLatinAmerica.us@SD"
+    "xmltv_id": "RTenEspanol.ru@SD"
+  },
+  {
+    "site_id": "2186",
+    "name": "TVES",
+    "lang": "es",
+    "xmltv_id": "TVes.ve@SD"
+  },
+  {
+    "site_id": "63",
+    "name": "FILM\u0026ARTS",
+    "lang": "es",
+    "xmltv_id": "FilmArts.ar@Panregional"
+  },
+  {
+    "site_id": "420",
+    "name": "VTV",
+    "lang": "es",
+    "xmltv_id": "VenezolanadeTelevision.ve@SD"
+  },
+  {
+    "site_id": "880",
+    "name": "TOONCAST",
+    "lang": "es",
+    "xmltv_id": "Tooncast.us@SD"
+  },
+  {
+    "site_id": "2005",
+    "name": "ESPN 3",
+    "lang": "es"
   }
 ]
