@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"strings"
 	"time"
 
@@ -41,9 +42,12 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	dateStr := date.Format("2006-01-02")
-	formData := fmt.Sprintf(`data={"blocks":["%s|%s"]}`, channel.SiteID, dateStr)
+	jsonPayload := fmt.Sprintf(`{"blocks":["%s|%s"]}`, channel.SiteID, dateStr)
 
-	req, err := http.NewRequest(http.MethodPost, "https://tvmusor.borsonline.hu/a/get-events/", strings.NewReader(formData))
+	form := url.Values{}
+	form.Set("data", jsonPayload)
+
+	req, err := http.NewRequest(http.MethodPost, "https://tvmusor.borsonline.hu/a/get-events/", strings.NewReader(form.Encode()))
 	if err != nil {
 		return nil, err
 	}
@@ -54,6 +58,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("unexpected status %d for channel %s", resp.StatusCode, channel.SiteID)
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

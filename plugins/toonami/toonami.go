@@ -39,9 +39,14 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	url := fmt.Sprintf("https://api.toonamiaftermath.com/playlist?scheduleName=%s&date=%s", channel.SiteID, date.Format("2006-01-02"))
+	// Step 1: Get playlists for this week
+	nextDay := date.Add(24 * time.Hour)
+	playlistsURL := fmt.Sprintf(
+		"https://api.toonamiaftermath.com/playlists?scheduleName=%s&startDate=%s&thisWeek=true&weekStartDay=monday",
+		channel.SiteID, nextDay.Format(time.RFC3339),
+	)
 
-	req, err := http.NewRequest(http.MethodGet, url, nil)
+	req, err := http.NewRequest(http.MethodGet, playlistsURL, nil)
 	if err != nil {
 		return nil, err
 	}
@@ -57,7 +62,45 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 
-	return Parse(body, channel)
+	// Step 2: Find matching playlist by date
+	var playlists []playlistEntry
+	if err := json.Unmarshal(body, &playlists); err != nil {
+		return nil, err
+	}
+
+	dateStr := date.Format("2006-01-02")
+	var playlistID string
+	for _, pl := range playlists {
+		if len(pl.StartDate) >= 10 && pl.StartDate[:10] == dateStr {
+			playlistID = pl.ID
+			break
+		}
+	}
+
+	if playlistID == "" {
+		return []domain.Program{}, nil
+	}
+
+	// Step 3: Fetch the playlist by ID
+	detailURL := fmt.Sprintf("https://api.toonamiaftermath.com/playlist?id=%s&addInfo=true", playlistID)
+
+	req2, err := http.NewRequest(http.MethodGet, detailURL, nil)
+	if err != nil {
+		return nil, err
+	}
+
+	resp2, err := p.client.Do(req2)
+	if err != nil {
+		return nil, err
+	}
+	defer resp2.Body.Close()
+
+	body2, err := io.ReadAll(resp2.Body)
+	if err != nil {
+		return nil, err
+	}
+
+	return Parse(body2, channel)
 }
 
 func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
@@ -100,6 +143,11 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	}
 
 	return programs, nil
+}
+
+type playlistEntry struct {
+	ID        string `json:"_id"`
+	StartDate string `json:"startDate"`
 }
 
 type apiResponse struct {

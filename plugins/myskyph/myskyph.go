@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"io"
 	"net/http"
+	"strings"
 	"time"
 
 	_ "embed"
@@ -67,9 +68,15 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 		return nil, err
 	}
 
+	// JS filters by date: data.events.filter(i => i.location == channel.site_id && i.start.includes(d))
+	datePrefix := date.In(manilaTZ).Format("2006/01/02")
+
 	programs := make([]domain.Program, 0)
 	for _, item := range response.Events {
 		if item.Location != channel.SiteID {
+			continue
+		}
+		if !strings.Contains(item.Start, datePrefix) {
 			continue
 		}
 

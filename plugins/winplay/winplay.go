@@ -1,6 +1,7 @@
 package winplay
 
 import (
+	"bytes"
 	"encoding/json"
 	"io"
 	"net/http"
@@ -37,11 +38,62 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 	return channels.Load(channelsData, "winplay.co")
 }
 
+const graphQLQuery = `query getLivesEpg($page: Int = 1, $hours: Int, $ids: [String]) {
+ getLives(ids: $ids) {
+ _id
+ logo
+ name
+ schedules(hours: $hours, page: {limit: 0, page: $page}) {
+ _id
+ name
+ date_start
+ date_end
+ current
+ match {
+ matchDay
+ __typename
+ }
+ show {
+ _id
+ title
+ __typename
+ }
+ live {
+ _id
+ dvr
+ type
+ purchased
+ __typename
+ }
+ __typename
+ }
+ __typename
+ }
+}`
+
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	req, err := http.NewRequest(http.MethodPost, "https://next.platform.mediastre.am/graphql", nil)
+	reqBody := graphQLRequest{
+		OperationName: "getLivesEpg",
+		Variables: map[string]interface{}{
+			"page":  1,
+			"hours": 48,
+		},
+		Query: graphQLQuery,
+	}
+
+	bodyBytes, err := json.Marshal(reqBody)
 	if err != nil {
 		return nil, err
 	}
+
+	req, err := http.NewRequest(http.MethodPost, "https://next.platform.mediastre.am/graphql", bytes.NewReader(bodyBytes))
+	if err != nil {
+		return nil, err
+	}
+	req.Header.Set("Content-Type", "application/json")
+	req.Header.Set("Accept", "application/json")
+	req.Header.Set("x-client-id", "a084524ea449c15dfe5e75636fb55ce6a9d0d7601aac946daa")
+	req.Header.Set("x-ott-language", "es")
 
 	resp, err := p.client.Do(req)
 	if err != nil {
@@ -95,6 +147,12 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	}
 
 	return programs, nil
+}
+
+type graphQLRequest struct {
+	OperationName string                 `json:"operationName"`
+	Variables     map[string]interface{} `json:"variables"`
+	Query         string                 `json:"query"`
 }
 
 type graphQLResponse struct {

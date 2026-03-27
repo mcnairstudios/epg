@@ -5,6 +5,7 @@ import (
 	"path/filepath"
 	"runtime"
 	"testing"
+	"time"
 
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/plugins/clarobr"
@@ -39,6 +40,12 @@ func TestParseContent(t *testing.T) {
 
 	if programs[0].Title != "Encontro Com a Autora" {
 		t.Fatalf("unexpected title: %q", programs[0].Title)
+	}
+
+	// Verify time parsing: "2025-08-13T00:00Z" in Sao Paulo (UTC-3) = 2025-08-13T03:00:00Z
+	expectedStart := time.Date(2025, 8, 13, 3, 0, 0, 0, time.UTC)
+	if !programs[0].Start.Equal(expectedStart) {
+		t.Fatalf("expected start %v, got %v", expectedStart, programs[0].Start)
 	}
 }
 

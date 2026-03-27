@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	neturl "net/url"
 	"regexp"
 	"strings"
 	"time"
@@ -80,9 +81,12 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 
 	// Step 2: POST to load/programs with CSRF token and form data
 	dateStr := date.Format("2006-01-02")
-	formData := fmt.Sprintf("_token=%s&channel=%s&day=%s", initData.CSRFToken, channel.SiteID, dateStr)
+	formValues := neturl.Values{}
+	formValues.Set("_token", initData.CSRFToken)
+	formValues.Set("channel", channel.SiteID)
+	formValues.Set("day", dateStr)
 
-	req, err := http.NewRequest(http.MethodPost, "https://tv.dir.bg/load/programs", strings.NewReader(formData))
+	req, err := http.NewRequest(http.MethodPost, "https://tv.dir.bg/load/programs", strings.NewReader(formValues.Encode()))
 	if err != nil {
 		return nil, err
 	}

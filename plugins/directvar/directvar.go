@@ -2,6 +2,7 @@ package directvar
 
 import (
 	"bytes"
+	"crypto/tls"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -27,7 +28,13 @@ func init() {
 	if err != nil {
 		panic(err)
 	}
-	plugin.Register(&provider{client: http.DefaultClient})
+	// JS sets NODE_TLS_REJECT_UNAUTHORIZED=0 for this site
+	tlsClient := &http.Client{
+		Transport: &http.Transport{
+			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
+		},
+	}
+	plugin.Register(&provider{client: tlsClient})
 }
 
 type provider struct {
@@ -76,10 +83,16 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 
+	req.Header.Set("Accept", "*/*")
+	req.Header.Set("Accept-Language", "es-419,es;q=0.9")
+	req.Header.Set("Connection", "keep-alive")
 	req.Header.Set("Content-Type", "application/json; charset=UTF-8")
 	req.Header.Set("Cookie", "PGCSS=16; PGLang=S; PGCulture=es-AR;")
 	req.Header.Set("Origin", "https://www.directv.com.ar")
 	req.Header.Set("Referer", fmt.Sprintf("https://www.directv.com.ar/guia/ChannelDetail.aspx?id=%s&name=%s", channelNum, channelName))
+	req.Header.Set("Sec-Fetch-Dest", "empty")
+	req.Header.Set("Sec-Fetch-Mode", "cors")
+	req.Header.Set("Sec-Fetch-Site", "same-origin")
 	req.Header.Set("X-Requested-With", "XMLHttpRequest")
 	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36")
 

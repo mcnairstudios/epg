@@ -1,6 +1,7 @@
 package novacyprus
 
 import (
+	"crypto/tls"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -19,8 +20,14 @@ import (
 var channelsData []byte
 
 func init() {
+	// JS sets NODE_TLS_REJECT_UNAUTHORIZED=0 for this site
+	tlsClient := &http.Client{
+		Transport: &http.Transport{
+			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
+		},
+	}
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: tlsClient,
 	})
 }
 

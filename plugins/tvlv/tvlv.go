@@ -38,23 +38,44 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	d := date.Truncate(24 * time.Hour).UTC()
-	url := fmt.Sprintf("https://www.tv.lv/programme/listing/none/%s?filter=channel&subslug=%s",
+	u := fmt.Sprintf("https://www.tv.lv/programme/listing/none/%s?filter=channel&subslug=%s",
 		d.Format("02-01-2006"), channel.SiteID)
 
-	req, err := http.NewRequest(http.MethodGet, url, nil)
-	if err != nil {
-		return nil, err
-	}
+	var data []byte
+	backoff := time.Second
+	const maxRetries = 5
 
-	resp, err := p.client.Do(req)
-	if err != nil {
-		return nil, err
-	}
-	defer resp.Body.Close()
+	for attempt := 0; attempt <= maxRetries; attempt++ {
+		req, err := http.NewRequest(http.MethodGet, u, nil)
+		if err != nil {
+			return nil, err
+		}
 
-	data, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return nil, err
+		resp, err := p.client.Do(req)
+		if err != nil {
+			return nil, err
+		}
+
+		data, err = io.ReadAll(resp.Body)
+		resp.Body.Close()
+		if err != nil {
+			return nil, err
+		}
+
+		if resp.StatusCode == http.StatusTooManyRequests {
+			if attempt == maxRetries {
+				return nil, fmt.Errorf("rate limited after %d retries for channel %s", maxRetries, channel.SiteID)
+			}
+			time.Sleep(backoff)
+			backoff *= 2
+			continue
+		}
+
+		if resp.StatusCode != http.StatusOK {
+			return nil, fmt.Errorf("unexpected status %d for channel %s", resp.StatusCode, channel.SiteID)
+		}
+
+		break
 	}
 
 	return Parse(data, channel)

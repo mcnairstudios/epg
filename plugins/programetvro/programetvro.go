@@ -6,6 +6,7 @@ import (
 	"io"
 	"net/http"
 	"regexp"
+	"strconv"
 	"strings"
 	"time"
 
@@ -71,6 +72,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, nil
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
@@ -89,7 +94,7 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 
 	var pageData PageData
 	if err := json.Unmarshal(matches[1], &pageData); err != nil {
-		return nil, err
+		return nil, nil
 	}
 
 	if pageData.Shows == nil {
@@ -113,11 +118,11 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 		}
 
 		if len(item.Categories) > 0 {
-			p.Category = strings.Join(item.Categories, ", ")
+			p.Category = strings.Join([]string(item.Categories), ", ")
 		}
 
-		p.Season = item.Season
-		p.Episode = item.Episode
+		p.Season = int(item.Season)
+		p.Episode = int(item.Episode)
 
 		if item.Start != "" {
 			if t, err := time.Parse(time.RFC3339, item.Start); err == nil {
@@ -145,23 +150,64 @@ type PageData struct {
 }
 
 type Show struct {
-	Title         string   `json:"title"`
-	TitleOriginal string   `json:"titleOriginal"`
-	Desc          string   `json:"desc"`
-	Obs           string   `json:"obs"`
-	Categories    []string `json:"categories"`
-	Season        int      `json:"season"`
-	Episode       int      `json:"episode"`
-	Start         string   `json:"start"`
-	Stop          string   `json:"stop"`
-	Icon          string   `json:"icon"`
-	URL           string   `json:"url"`
-	Date          string   `json:"date"`
-	Rating        string   `json:"rating"`
-	Credits       *Credits `json:"credits"`
+	Title         string        `json:"title"`
+	TitleOriginal string        `json:"titleOriginal"`
+	Desc          string        `json:"desc"`
+	Obs           string        `json:"obs"`
+	Categories    flexStrSlice  `json:"categories"`
+	Season        flexInt       `json:"season"`
+	Episode       flexInt       `json:"episode"`
+	Start         string        `json:"start"`
+	Stop          string        `json:"stop"`
+	Icon          string        `json:"icon"`
+	URL           string        `json:"url"`
+	Date          string        `json:"date"`
+	Rating        string        `json:"rating"`
+	Credits       *Credits      `json:"credits"`
 }
 
 type Credits struct {
 	Director []string `json:"director"`
 	Actor    []string `json:"actor"`
+}
+
+// flexInt handles JSON values that may be a number, a string, or null.
+type flexInt int
+
+func (fi *flexInt) UnmarshalJSON(data []byte) error {
+	var raw interface{}
+	if err := json.Unmarshal(data, &raw); err != nil {
+		return nil
+	}
+	switch v := raw.(type) {
+	case float64:
+		*fi = flexInt(int(v))
+	case string:
+		if n, err := strconv.Atoi(v); err == nil {
+			*fi = flexInt(n)
+		}
+	}
+	return nil
+}
+
+// flexStrSlice handles JSON values that may be an array of strings, a single string, or null.
+type flexStrSlice []string
+
+func (fs *flexStrSlice) UnmarshalJSON(data []byte) error {
+	// Try array first
+	var arr []string
+	if err := json.Unmarshal(data, &arr); err == nil {
+		*fs = arr
+		return nil
+	}
+	// Try single string
+	var s string
+	if err := json.Unmarshal(data, &s); err == nil {
+		if s != "" {
+			*fs = []string{s}
+		}
+		return nil
+	}
+	// Ignore unrecognized types
+	return nil
 }

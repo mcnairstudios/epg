@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"time"
 
 	_ "embed"
@@ -42,12 +43,15 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	begin := date.Format("2006-01-02 15:04:05")
 	end := date.Add(24 * time.Hour).Format("2006-01-02 15:04:05")
 
-	url := fmt.Sprintf(
-		"https://api.teleboy.ch/epg/broadcasts?begin=%s&end=%s&expand=flags,primary_image&station=%s",
-		begin, end, channel.SiteID,
-	)
+	params := url.Values{}
+	params.Set("begin", begin)
+	params.Set("end", end)
+	params.Set("expand", "flags,primary_image")
+	params.Set("station", channel.SiteID)
 
-	req, err := http.NewRequest(http.MethodGet, url, nil)
+	reqURL := fmt.Sprintf("https://api.teleboy.ch/epg/broadcasts?%s", params.Encode())
+
+	req, err := http.NewRequest(http.MethodGet, reqURL, nil)
 	if err != nil {
 		return nil, err
 	}

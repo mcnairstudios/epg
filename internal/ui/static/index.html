@@ -274,17 +274,12 @@
 
     async function loadStats() {
       try {
-        const [sources, channels, programs] = await Promise.all([
-          apiFetch('/sources'),
-          apiFetch('/channels'),
-          apiFetch('/programs')
-        ]);
-        const extSources = await apiFetch('/external-sources').catch(() => []);
+        const stats = await apiFetch('/stats');
         document.getElementById('stats').innerHTML = `
-          <div class="stat"><div class="stat-value">${(sources||[]).length + (extSources||[]).length}</div><div class="stat-label">Sources</div></div>
-          <div class="stat"><div class="stat-value">${(channels||[]).length}</div><div class="stat-label">Channels</div></div>
-          <div class="stat"><div class="stat-value">${(programs||[]).length}</div><div class="stat-label">Programs</div></div>
-          <div class="stat"><div class="stat-value">${(sources||[]).length}</div><div class="stat-label">Plugins</div></div>
+          <div class="stat"><div class="stat-value">${stats.sources}</div><div class="stat-label">Sources</div></div>
+          <div class="stat"><div class="stat-value">${stats.channels.toLocaleString()}</div><div class="stat-label">Channels</div></div>
+          <div class="stat"><div class="stat-value">${stats.programs.toLocaleString()}</div><div class="stat-label">Programs</div></div>
+          <div class="stat"><div class="stat-value">${stats.plugins + stats.external_sources}</div><div class="stat-label">Active</div></div>
         `;
       } catch(e) { console.error(e); }
     }

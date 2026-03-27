@@ -14,6 +14,16 @@ import (
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
+var saoPauloTZ *time.Location
+
+func init() {
+	var err error
+	saoPauloTZ, err = time.LoadLocation("America/Sao_Paulo")
+	if err != nil {
+		saoPauloTZ = time.FixedZone("America/Sao_Paulo", -3*60*60)
+	}
+}
+
 //go:embed channels.json
 var channelsData []byte
 
@@ -39,9 +49,14 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
+	// JS uses dayjs(date).startOf('day') and endOf('day') in America/Sao_Paulo timezone
+	spDate := date.In(saoPauloTZ)
+	startOfDay := time.Date(spDate.Year(), spDate.Month(), spDate.Day(), 0, 0, 0, 0, saoPauloTZ)
+	endOfDay := time.Date(spDate.Year(), spDate.Month(), spDate.Day(), 23, 59, 59, 0, saoPauloTZ)
+
 	url := fmt.Sprintf(
 		"https://www.clarotvmais.com.br/avsclient/1.2/epg/livechannels?types=&channelIds=%s&startTime=%d&endTime=%d&location=SAO%%20PAULO,AMAZONAS&channel=PCTV",
-		channel.SiteID, date.Unix(), date.AddDate(0, 0, 1).Unix(),
+		channel.SiteID, startOfDay.Unix(), endOfDay.Unix(),
 	)
 
 	req, err := http.NewRequest(http.MethodGet, url, nil)
@@ -49,7 +64,6 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	req.Header.Set("Accept", "application/json, text/plain, */*")
-	req.Header.Set("Accept-Encoding", "gzip, deflate, br, zstd")
 	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36")
 
 	resp, err := p.client.Do(req)

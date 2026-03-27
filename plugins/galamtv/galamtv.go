@@ -14,6 +14,16 @@ import (
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
+var almatyTZ *time.Location
+
+func init() {
+	var err error
+	almatyTZ, err = time.LoadLocation("Asia/Almaty")
+	if err != nil {
+		almatyTZ = time.FixedZone("Asia/Almaty", 6*60*60)
+	}
+}
+
 //go:embed channels.json
 var channelsData []byte
 
@@ -39,12 +49,14 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	start := date.Truncate(24 * time.Hour).UTC()
-	end := start.Add(24 * time.Hour)
+	// JS uses date.startOf('day').unix() in Asia/Almaty timezone
+	d := date.In(almatyTZ)
+	startOfDay := time.Date(d.Year(), d.Month(), d.Day(), 0, 0, 0, 0, almatyTZ)
+	endOfDay := startOfDay.Add(24 * time.Hour)
 
 	url := fmt.Sprintf(
 		"https://galam.server-api.lfstrm.tv/channels/%s/programs?period=%d:%d",
-		channel.SiteID, start.Unix(), end.Unix(),
+		channel.SiteID, startOfDay.Unix(), endOfDay.Unix(),
 	)
 
 	req, err := http.NewRequest(http.MethodGet, url, nil)
@@ -54,7 +66,6 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	req.Header.Set("Referer", "https://galamtv.kz/")
 	req.Header.Set("Origin", "https://galamtv.kz")
 	req.Header.Set("Accept", "*/*")
-	req.Header.Set("Accept-Encoding", "gzip, deflate, br, zstd")
 
 	resp, err := p.client.Do(req)
 	if err != nil {

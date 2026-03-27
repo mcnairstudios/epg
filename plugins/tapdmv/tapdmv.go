@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"time"
 
 	_ "embed"
@@ -39,12 +40,15 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	url := fmt.Sprintf(
-		"https://epg.tapdmv.com/calendar/%s?%%24limit=10000&%%24sort%%5BcreatedAt%%5D=-1&start=%s&end=%s",
-		channel.SiteID, date.Format(time.RFC3339), date.AddDate(0, 0, 1).Format(time.RFC3339),
-	)
+	params := url.Values{}
+	params.Set("$limit", "10000")
+	params.Set("$sort[createdAt]", "-1")
+	params.Set("start", date.UTC().Format("2006-01-02T15:04:05.000Z"))
+	params.Set("end", date.AddDate(0, 0, 1).UTC().Format("2006-01-02T15:04:05.000Z"))
 
-	req, err := http.NewRequest(http.MethodGet, url, nil)
+	reqURL := fmt.Sprintf("https://epg.tapdmv.com/calendar/%s?%s", channel.SiteID, params.Encode())
+
+	req, err := http.NewRequest(http.MethodGet, reqURL, nil)
 	if err != nil {
 		return nil, err
 	}

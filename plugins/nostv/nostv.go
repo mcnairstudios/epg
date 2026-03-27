@@ -54,6 +54,11 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	req.Header.Set("x-apikey", apiKey)
 	req.Header.Set("Origin", "https://nostv.pt")
 	req.Header.Set("Referer", "https://nostv.pt/")
+	req.Header.Set("x-core-appversion", "2.20.2.2")
+	req.Header.Set("x-core-contentratinglimit", "0")
+	req.Header.Set("x-core-deviceid", "")
+	req.Header.Set("x-core-devicetype", "web")
+	req.Header.Set("x-core-timezoneoffset", "3600000")
 
 	resp, err := p.client.Do(req)
 	if err != nil {

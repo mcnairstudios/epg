@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"strings"
 	"time"
 
 	_ "embed"
@@ -13,6 +14,16 @@ import (
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
+
+var saoPauloTZ *time.Location
+
+func init() {
+	var err error
+	saoPauloTZ, err = time.LoadLocation("America/Sao_Paulo")
+	if err != nil {
+		saoPauloTZ = time.FixedZone("America/Sao_Paulo", -3*60*60)
+	}
+}
 
 //go:embed channels.json
 var channelsData []byte
@@ -82,10 +93,10 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 			Lang:    channel.Lang,
 		}
 
-		if t, err := time.Parse(time.RFC3339, item.DhInicio); err == nil {
+		if t, err := parseTime(item.DhInicio); err == nil {
 			p.Start = t.UTC()
 		}
-		if t, err := time.Parse(time.RFC3339, item.DhFim); err == nil {
+		if t, err := parseTime(item.DhFim); err == nil {
 			p.Stop = t.UTC()
 		}
 
@@ -93,6 +104,13 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	}
 
 	return programs, nil
+}
+
+// parseTime parses time strings like "2025-8-13T00:00Z" in Sao Paulo timezone.
+// The trailing Z is a literal character in this API, not a UTC indicator.
+func parseTime(s string) (time.Time, error) {
+	s = strings.TrimSuffix(s, "Z")
+	return time.ParseInLocation("2006-1-2T15:04", s, saoPauloTZ)
 }
 
 type apiResponse struct {
