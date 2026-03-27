@@ -9,9 +9,11 @@ import (
 	"time"
 
 	"github.com/gavinmcnair/epg/internal/api"
+	"github.com/gavinmcnair/epg/internal/auth"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/grabber"
 	"github.com/gavinmcnair/epg/internal/plugin"
+	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
 )
 
@@ -62,7 +64,9 @@ func setupTestServer() (*api.Server, *store.Store) {
 	})
 
 	g := grabber.New(s, 1, 1)
-	srv := api.NewServer(s, g)
+	ext := source.NewExternalSourceManager("")
+	users := auth.NewUserStore("")
+	srv := api.NewServer(s, g, ext, users)
 	return srv, s
 }
 
