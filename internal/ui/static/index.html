@@ -219,6 +219,21 @@
       loadSleepingSources();
     }
 
+    async function grabSleepingSource(name) {
+      try {
+        showStatus('Grabbing ' + name + '...', 'info');
+        const res = await apiFetch('/grab', {method:'POST', body: JSON.stringify({source: name})});
+        if (res.results > 0) {
+          await apiFetch('/sleeping/' + encodeURIComponent(name), {method: 'DELETE'});
+          showStatus(`${name}: ${res.results} programs! Auto-woken.`, 'success');
+        } else {
+          showStatus(`${name}: 0 programs, ${res.errors} errors. Still sleeping.`, 'error');
+        }
+        loadSleepingSources();
+        refreshAll();
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
     async function loadSleepingSources() {
       await loadSleeping();
       const names = Object.keys(sleepingMap);
@@ -235,7 +250,8 @@
           <div class="card">
             <h3>${name}</h3>
             <p style="font-size:11px;color:#8b98a5;">${reason}</p>
-            <div style="margin-top:8px;">
+            <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
+              <button class="btn btn-success" onclick="grabSleepingSource('${safeN}')">Grab</button>
               <button class="btn btn-primary" onclick="toggleSleep('${safeN}');loadSleepingSources();">Wake Up</button>
             </div>
           </div>
