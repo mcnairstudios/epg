@@ -38,18 +38,18 @@ func (s *Server) triggerGrab(w http.ResponseWriter, r *http.Request) {
 	}
 
 	resp := grabResponse{Source: req.Source}
-	channels := 0
+	channelSet := make(map[string]bool)
 	for _, result := range results {
 		resp.Results += result.Count
 		if result.Err != nil {
 			resp.Errors++
 		}
 		if result.Count > 0 {
-			channels++
+			channelSet[result.Channel.ID] = true
 		}
 	}
 
-	s.store.RecordGrabStats(req.Source, channels, resp.Results, resp.Errors, duration)
+	s.store.RecordGrabStats(req.Source, len(channelSet), resp.Results, resp.Errors, duration)
 
 	if err := s.store.Save(); err != nil {
 		http.Error(w, `{"error":"failed to persist data"}`, http.StatusInternalServerError)
@@ -70,7 +70,7 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 	results := s.grabber.GrabAll()
 
 	sourceResults := make(map[string]*grabResponse)
-	sourceChannels := make(map[string]int)
+	sourceChannelSets := make(map[string]map[string]bool)
 	sourceTimes := make(map[string]time.Time)
 
 	for _, result := range results {
@@ -78,6 +78,7 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 		if !ok {
 			sr = &grabResponse{Source: result.Source}
 			sourceResults[result.Source] = sr
+			sourceChannelSets[result.Source] = make(map[string]bool)
 			sourceTimes[result.Source] = time.Now()
 		}
 		sr.Results += result.Count
@@ -85,7 +86,7 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 			sr.Errors++
 		}
 		if result.Count > 0 {
-			sourceChannels[result.Source]++
+			sourceChannelSets[result.Source][result.Channel.ID] = true
 		}
 	}
 
@@ -94,7 +95,7 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 		resp.Sources = append(resp.Sources, *sr)
 		resp.Total += sr.Results
 		resp.Errors += sr.Errors
-		s.store.RecordGrabStats(name, sourceChannels[name], sr.Results, sr.Errors, time.Since(sourceTimes[name]))
+		s.store.RecordGrabStats(name, len(sourceChannelSets[name]), sr.Results, sr.Errors, time.Since(sourceTimes[name]))
 	}
 
 	s.store.Save()

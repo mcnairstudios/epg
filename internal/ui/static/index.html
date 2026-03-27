@@ -96,28 +96,31 @@
     </div>
 
     <div class="panel" id="channels">
-      <div class="filter-bar">
-        <input type="text" id="ch-source-filter" placeholder="Filter by source">
-        <input type="text" id="ch-genre-filter" placeholder="Filter by genre">
-        <button class="btn btn-primary" onclick="loadChannels()">Filter</button>
+      <div id="channel-source-list"></div>
+      <div id="channel-detail" style="display:none;">
+        <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+          <button class="btn btn-primary" onclick="showChannelSources()">&larr; Back</button>
+          <h2 id="channel-detail-title"></h2>
+        </div>
+        <table>
+          <thead><tr><th>Name</th><th>XMLTV ID</th><th>Lang</th></tr></thead>
+          <tbody id="channels-table"></tbody>
+        </table>
       </div>
-      <table>
-        <thead><tr><th>Name</th><th>Source</th><th>XMLTV ID</th><th>Lang</th><th>Genre</th><th>Quality</th></tr></thead>
-        <tbody id="channels-table"></tbody>
-      </table>
     </div>
 
     <div class="panel" id="programs">
-      <div class="filter-bar">
-        <input type="text" id="prog-channel-filter" placeholder="Channel ID">
-        <input type="text" id="prog-source-filter" placeholder="Source">
-        <input type="date" id="prog-date-filter">
-        <button class="btn btn-primary" onclick="loadPrograms()">Filter</button>
+      <div id="program-source-list"></div>
+      <div id="program-detail" style="display:none;">
+        <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+          <button class="btn btn-primary" onclick="showProgramSources()">&larr; Back</button>
+          <h2 id="program-detail-title"></h2>
+        </div>
+        <table>
+          <thead><tr><th>Time</th><th>Title</th><th>Channel</th><th>Category</th></tr></thead>
+          <tbody id="programs-table"></tbody>
+        </table>
       </div>
-      <table>
-        <thead><tr><th>Time</th><th>Title</th><th>Channel</th><th>Category</th><th>Source</th></tr></thead>
-        <tbody id="programs-table"></tbody>
-      </table>
     </div>
 
     <div class="panel" id="xmltv">
@@ -305,36 +308,80 @@
     }
 
     async function loadChannels() {
-      const source = document.getElementById('ch-source-filter').value;
-      const genre = document.getElementById('ch-genre-filter').value;
-      const params = new URLSearchParams();
-      if (source) params.set('source', source);
-      if (genre) params.set('genre', genre);
+      const sources = (await apiFetch('/sources').catch(() => [])).sort((a,b) => a.name.localeCompare(b.name));
+      const grabStats = await apiFetch('/grab-stats').catch(() => []);
+      const statsMap = {};
+      (grabStats||[]).forEach(s => statsMap[s.source] = s);
+
+      document.getElementById('channel-source-list').innerHTML = `
+        <div class="grid">${(sources||[]).map(s => {
+          const gs = statsMap[s.name];
+          const chCount = s.total_channels || 0;
+          const progCount = gs ? gs.programs : 0;
+          return `<div class="card" style="cursor:pointer;" onclick="showChannelsFor('${s.name}')">
+            <h3>${s.name}</h3>
+            <p>${chCount} channels${progCount ? ', ' + progCount + ' programs' : ''}</p>
+          </div>`;
+        }).join('')}</div>`;
+      document.getElementById('channel-source-list').style.display = 'block';
+      document.getElementById('channel-detail').style.display = 'none';
+    }
+
+    function showChannelSources() {
+      document.getElementById('channel-source-list').style.display = 'block';
+      document.getElementById('channel-detail').style.display = 'none';
+    }
+
+    async function showChannelsFor(source) {
+      document.getElementById('channel-source-list').style.display = 'none';
+      document.getElementById('channel-detail').style.display = 'block';
+      document.getElementById('channel-detail-title').textContent = source;
       try {
-        const channels = await apiFetch('/channels?' + params);
-        document.getElementById('channels-table').innerHTML = (channels||[]).map(c => `
-          <tr><td>${c.name}</td><td>${c.source}</td><td><code>${c.xmltv_id}</code></td><td>${c.lang}</td><td>${c.genre||''}</td><td>${c.quality||''}</td></tr>
+        const channels = await apiFetch('/channels?source=' + source);
+        document.getElementById('channels-table').innerHTML = (channels||[]).sort((a,b) => a.name.localeCompare(b.name)).map(c => `
+          <tr><td>${c.name}</td><td><code>${c.xmltv_id}</code></td><td>${c.lang}</td></tr>
         `).join('');
       } catch(e) { showStatus(e.message, 'error'); }
     }
 
     async function loadPrograms() {
-      const channel = document.getElementById('prog-channel-filter').value;
-      const source = document.getElementById('prog-source-filter').value;
-      const date = document.getElementById('prog-date-filter').value;
-      const params = new URLSearchParams();
-      if (channel) params.set('channel', channel);
-      if (source) params.set('source', source);
-      if (date) params.set('date', date);
+      const sources = (await apiFetch('/sources').catch(() => [])).sort((a,b) => a.name.localeCompare(b.name));
+      const grabStats = await apiFetch('/grab-stats').catch(() => []);
+      const statsMap = {};
+      (grabStats||[]).forEach(s => statsMap[s.source] = s);
+
+      document.getElementById('program-source-list').innerHTML = `
+        <div class="grid">${(sources||[]).filter(s => statsMap[s.name] && statsMap[s.name].programs > 0).map(s => {
+          const gs = statsMap[s.name];
+          return `<div class="card" style="cursor:pointer;" onclick="showProgramsFor('${s.name}')">
+            <h3>${s.name}</h3>
+            <p>${gs.programs} programs, ${gs.channels} channels</p>
+          </div>`;
+        }).join('')}</div>`;
+      if (!Object.values(statsMap).some(s => s.programs > 0)) {
+        document.getElementById('program-source-list').innerHTML = '<p style="color:#8b98a5;">No programs grabbed yet. Grab a source first.</p>';
+      }
+      document.getElementById('program-source-list').style.display = 'block';
+      document.getElementById('program-detail').style.display = 'none';
+    }
+
+    function showProgramSources() {
+      document.getElementById('program-source-list').style.display = 'block';
+      document.getElementById('program-detail').style.display = 'none';
+    }
+
+    async function showProgramsFor(source) {
+      document.getElementById('program-source-list').style.display = 'none';
+      document.getElementById('program-detail').style.display = 'block';
+      document.getElementById('program-detail-title').textContent = source;
       try {
-        const programs = await apiFetch('/programs?' + params);
-        document.getElementById('programs-table').innerHTML = (programs||[]).slice(0, 200).map(p => `
+        const programs = await apiFetch('/programs?source=' + source);
+        document.getElementById('programs-table').innerHTML = (programs||[]).slice(0, 500).map(p => `
           <tr>
-            <td class="program-time">${new Date(p.start).toLocaleTimeString()} - ${new Date(p.stop).toLocaleTimeString()}</td>
+            <td class="program-time">${new Date(p.start).toLocaleString([], {month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'})} - ${new Date(p.stop).toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})}</td>
             <td>${p.title}${p.sub_title ? '<br><span class="program-meta">' + p.sub_title + '</span>':''}</td>
             <td><code>${p.channel}</code></td>
             <td>${p.category||''}</td>
-            <td>${p.source}</td>
           </tr>
         `).join('');
       } catch(e) { showStatus(e.message, 'error'); }
