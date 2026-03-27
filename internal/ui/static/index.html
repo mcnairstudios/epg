@@ -222,24 +222,28 @@
         document.getElementById('plugin-sources').innerHTML = (sources||[]).map(s => {
           const gs = statsMap[s.name];
           const total = s.total_channels || 0;
-          const grabbed = gs ? gs.programs : 0;
-          const grabbedCh = gs ? gs.channels : 0;
-          const statusBadge = gs
-            ? (gs.programs > 0
-              ? `<span class="badge" style="background:#059669;color:white;">${gs.programs} progs / ${gs.channels} ch</span>`
-              : `<span class="badge" style="background:#dc2626;color:white;">0 programs</span>`)
-            : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
+          const isGrabbing = grabbingSet.has(s.name);
+          const statusBadge = isGrabbing
+            ? '<span class="badge" style="background:#d97706;color:white;">grabbing...</span>'
+            : gs
+              ? (gs.programs > 0
+                ? `<span class="badge" style="background:#059669;color:white;">${gs.programs} progs / ${gs.channels} ch</span>`
+                : `<span class="badge" style="background:#dc2626;color:white;">0 programs</span>`)
+              : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
           const channelInfo = `<span style="font-size:12px;color:#8b98a5;">${total} channels</span>`;
           const lastGrab = gs ? `<span style="font-size:11px;color:#8b98a5;">Last: ${new Date(gs.last_grab).toLocaleString()} (${gs.duration})</span>` : '';
           const errorInfo = gs && gs.errors > 0 ? `<span style="font-size:11px;color:#fca5a5;"> ${gs.errors} errors</span>` : '';
+          const grabBtn = isGrabbing
+            ? '<button class="btn" style="background:#d97706;color:white;" disabled>Grabbing...</button>'
+            : `<button class="btn btn-success" onclick="grabSource('${s.name}')">Grab</button>`;
           return `
-            <div class="card">
+            <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}">
               <h3>${s.name} ${statusBadge}</h3>
               <p>${s.description || ''}</p>
               <div style="margin-top:4px;">${channelInfo}</div>
               <div style="margin-top:2px;">${lastGrab}${errorInfo}</div>
               <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
-                <button class="btn btn-success" onclick="grabSource('${s.name}')">Grab</button>
+                ${grabBtn}
                 <button class="btn btn-primary" onclick="openSourceDetail('${s.name}','channels')">Channels</button>
                 ${gs && gs.programs > 0 ? `<button class="btn btn-primary" onclick="openSourceDetail('${s.name}','programs')">Programs</button>` : ''}
                 <button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${s.name}')">Copy XMLTV URL</button>
@@ -262,22 +266,40 @@
       } catch(e) { showStatus(e.message, 'error'); }
     }
 
+    const grabbingSet = new Set();
+
     async function grabAll() {
       try {
+        const sources = await apiFetch('/sources');
+        for (const s of sources) {
+          grabbingSet.add(s.name);
+        }
+        loadSources();
         showStatus('Grabbing all sources...', 'info');
         const res = await apiFetch('/grab-all', {method:'POST'});
+        grabbingSet.clear();
         showStatus(`Grabbed ${res.total} programs from ${(res.sources||[]).length} sources (${res.errors} errors)`, 'success');
         refreshAll();
-      } catch(e) { showStatus(e.message, 'error'); }
+      } catch(e) {
+        grabbingSet.clear();
+        loadSources();
+        showStatus(e.message, 'error');
+      }
     }
 
     async function grabSource(name) {
       try {
-        showStatus('Grabbing ' + name + '...', 'info');
+        grabbingSet.add(name);
+        loadSources();
         const res = await apiFetch('/grab', {method:'POST', body: JSON.stringify({source: name})});
+        grabbingSet.delete(name);
         showStatus(`Grabbed ${res.results} programs from ${name}`, 'success');
         refreshAll();
-      } catch(e) { showStatus(e.message, 'error'); }
+      } catch(e) {
+        grabbingSet.delete(name);
+        loadSources();
+        showStatus(e.message, 'error');
+      }
     }
 
     async function addExternalSource() {
