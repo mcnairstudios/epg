@@ -5,7 +5,7 @@ BUILDER   := mybuilder
 PLATFORMS := linux/amd64,linux/arm64
 VERSION   := $(shell git rev-parse --short HEAD)$(shell git diff --quiet || echo -dirty-$(shell date +%s))
 
-.PHONY: build test docker-build docker-push clean
+.PHONY: build test logos docker-build docker-push clean
 
 ## Local build
 build:
@@ -14,6 +14,10 @@ build:
 ## Run all tests
 test:
 	go test ./...
+
+## Enrich channels.json files with logos from iptv-org/database
+logos:
+	python3 scripts/enrich-logos.py
 
 ## Build multi-arch Docker image and push to Docker Hub
 docker-build:

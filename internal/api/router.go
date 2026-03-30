@@ -8,6 +8,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/auth"
 	"github.com/gavinmcnair/epg/internal/grabber"
+	"github.com/gavinmcnair/epg/internal/logocache"
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
 	"github.com/gavinmcnair/epg/internal/ui"
@@ -19,16 +20,18 @@ type Server struct {
 	externalSources *source.ExternalSourceManager
 	users           *auth.UserStore
 	disabled        *store.DisabledStore
+	logoCache       *logocache.Cache
 	router          chi.Router
 }
 
-func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, disabled *store.DisabledStore) *Server {
+func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, disabled *store.DisabledStore, logos *logocache.Cache) *Server {
 	srv := &Server{
 		store:           s,
 		grabber:         g,
 		externalSources: ext,
 		users:           users,
 		disabled:        disabled,
+		logoCache:       logos,
 		router:          chi.NewRouter(),
 	}
 
@@ -84,6 +87,9 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 			r.Delete("/users/{id}", srv.deleteUser)
 		})
 	})
+
+	// Logos: public (IPTV players don't send auth)
+	srv.router.Get("/logos/{id}", srv.serveLogo)
 
 	// XMLTV: token or admin session cookie
 	srv.router.Group(func(r chi.Router) {

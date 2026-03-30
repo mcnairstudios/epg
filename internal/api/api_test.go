@@ -12,6 +12,7 @@ import (
 	"github.com/gavinmcnair/epg/internal/auth"
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/grabber"
+	"github.com/gavinmcnair/epg/internal/logocache"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
@@ -71,7 +72,7 @@ func setupTestServer() (*api.Server, *store.Store, string) {
 	sessionToken := users.CreateSession(admin.ID)
 
 	disabled := store.NewDisabledStore("")
-	srv := api.NewServer(s, g, ext, users, disabled)
+	srv := api.NewServer(s, g, ext, users, disabled, logocache.New("", ""))
 	return srv, s, sessionToken
 }
 
@@ -197,7 +198,7 @@ func TestReadAPIWithBearerToken(t *testing.T) {
 	// Token auth should work for read-only endpoints
 	users := auth.NewUserStore("")
 	apiUser, _ := users.Create("apiuser", "viewer")
-	srvToken := api.NewServer(store.New(""), grabber.New(store.New(""), 1, 1), source.NewExternalSourceManager(""), users, store.NewDisabledStore(""))
+	srvToken := api.NewServer(store.New(""), grabber.New(store.New(""), 1, 1), source.NewExternalSourceManager(""), users, store.NewDisabledStore(""), logocache.New("", ""))
 
 	req := httptest.NewRequest(http.MethodGet, "/api/v1/sources", nil)
 	req.Header.Set("Authorization", "Bearer "+apiUser.Token)

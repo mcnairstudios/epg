@@ -1,20 +1,122 @@
 [
-  {"site_id": "01", "name": "Arena Sport 1 Serbia", "lang": "sr", "xmltv_id": "ArenaSport1.rs"},
-  {"site_id": "1x2", "name": "Arena Sport 1x2 Serbia", "lang": "sr", "xmltv_id": "ArenaSport1x2.rs"},
-  {"site_id": "02", "name": "Arena Sport 2 Serbia", "lang": "sr", "xmltv_id": "ArenaSport2.rs"},
-  {"site_id": "03", "name": "Arena Sport 3 Serbia", "lang": "sr", "xmltv_id": "ArenaSport3.rs"},
-  {"site_id": "04", "name": "Arena Sport 4 Serbia", "lang": "sr", "xmltv_id": "ArenaSport4.rs"},
-  {"site_id": "05", "name": "Arena Sport 5 Serbia", "lang": "sr", "xmltv_id": "ArenaSport5.rs"},
-  {"site_id": "06", "name": "Arena Sport 6 Serbia", "lang": "sr", "xmltv_id": "ArenaSport6.rs"},
-  {"site_id": "07", "name": "Arena Sport 7 Serbia", "lang": "sr", "xmltv_id": "ArenaSport7.rs"},
-  {"site_id": "08", "name": "Arena Sport 8 Serbia", "lang": "sr", "xmltv_id": "ArenaSport8.rs"},
-  {"site_id": "09", "name": "Arena Sport 9 Serbia", "lang": "sr", "xmltv_id": "ArenaSport9.rs"},
-  {"site_id": "10", "name": "Arena Sport 10 Serbia", "lang": "sr", "xmltv_id": "ArenaSport10.rs"},
-  {"site_id": "a1p", "name": "Arena Sport 1 Premium Serbia", "lang": "sr", "xmltv_id": "ArenaSport1Premium.rs"},
-  {"site_id": "a2p", "name": "Arena Sport 2 Premium Serbia", "lang": "sr", "xmltv_id": "ArenaSport2Premium.rs"},
-  {"site_id": "a3p", "name": "Arena Sport 3 Premium Serbia", "lang": "sr", "xmltv_id": "ArenaSport3Premium.rs"},
-  {"site_id": "a4p", "name": "Arena Sport 4 Premium Serbia", "lang": "sr", "xmltv_id": "ArenaSport4Premium.rs"},
-  {"site_id": "a-adrenalin", "name": "Arena Sport Adrenalin Serbia", "lang": "sr", "xmltv_id": "ArenaSportAdrenalin.rs"},
-  {"site_id": "a-tenis", "name": "Arena Sport Tenis Serbia", "lang": "sr", "xmltv_id": "ArenaSportTenis.rs"},
-  {"site_id": "aa5p", "name": "Arena Sport 5 Premium Serbia", "lang": "sr", "xmltv_id": "ArenaSport5Premium.rs"}
+  {
+    "site_id": "01",
+    "name": "Arena Sport 1 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport1.rs",
+    "logo": "https://i.imgur.com/RJrJGbW.png"
+  },
+  {
+    "site_id": "1x2",
+    "name": "Arena Sport 1x2 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport1x2.rs",
+    "logo": "https://i.imgur.com/cGIIyxR.png"
+  },
+  {
+    "site_id": "02",
+    "name": "Arena Sport 2 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport2.rs",
+    "logo": "https://i.imgur.com/aqlECBj.png"
+  },
+  {
+    "site_id": "03",
+    "name": "Arena Sport 3 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport3.rs",
+    "logo": "https://i.imgur.com/3r3burN.png"
+  },
+  {
+    "site_id": "04",
+    "name": "Arena Sport 4 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport4.rs",
+    "logo": "https://i.imgur.com/h1XhGkz.png"
+  },
+  {
+    "site_id": "05",
+    "name": "Arena Sport 5 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport5.rs",
+    "logo": "https://i.imgur.com/036qMgu.png"
+  },
+  {
+    "site_id": "06",
+    "name": "Arena Sport 6 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport6.rs",
+    "logo": "https://i.imgur.com/Z5PE4vx.png"
+  },
+  {
+    "site_id": "07",
+    "name": "Arena Sport 7 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport7.rs",
+    "logo": "https://i.imgur.com/0fgvOrR.png"
+  },
+  {
+    "site_id": "08",
+    "name": "Arena Sport 8 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport8.rs",
+    "logo": "https://i.imgur.com/Wk9dr78.png"
+  },
+  {
+    "site_id": "09",
+    "name": "Arena Sport 9 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport9.rs"
+  },
+  {
+    "site_id": "10",
+    "name": "Arena Sport 10 Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport10.rs"
+  },
+  {
+    "site_id": "a1p",
+    "name": "Arena Sport 1 Premium Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport1Premium.rs",
+    "logo": "https://i.imgur.com/csv6YsL.png"
+  },
+  {
+    "site_id": "a2p",
+    "name": "Arena Sport 2 Premium Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport2Premium.rs",
+    "logo": "https://i.imgur.com/ztOmQ7P.png"
+  },
+  {
+    "site_id": "a3p",
+    "name": "Arena Sport 3 Premium Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport3Premium.rs",
+    "logo": "https://i.imgur.com/gpqemLf.png"
+  },
+  {
+    "site_id": "a4p",
+    "name": "Arena Sport 4 Premium Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport4Premium.rs"
+  },
+  {
+    "site_id": "a-adrenalin",
+    "name": "Arena Sport Adrenalin Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSportAdrenalin.rs"
+  },
+  {
+    "site_id": "a-tenis",
+    "name": "Arena Sport Tenis Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSportTenis.rs"
+  },
+  {
+    "site_id": "aa5p",
+    "name": "Arena Sport 5 Premium Serbia",
+    "lang": "sr",
+    "xmltv_id": "ArenaSport5Premium.rs"
+  }
 ]

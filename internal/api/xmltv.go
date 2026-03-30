@@ -7,9 +7,17 @@ import (
 
 	"github.com/go-chi/chi/v5"
 
+	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/store"
 	"github.com/gavinmcnair/epg/internal/xmltv"
 )
+
+func logoKey(xmltvID string) string {
+	if i := strings.Index(xmltvID, "@"); i != -1 {
+		return xmltvID[:i]
+	}
+	return xmltvID
+}
 
 func (s *Server) getXMLTV(w http.ResponseWriter, r *http.Request) {
 	f := store.Filter{
@@ -40,11 +48,21 @@ func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filt
 	disabled := s.disabled.List()
 
 	allChannels := s.store.GetChannels(f)
-	channels := allChannels[:0]
+	channels := make([]domain.Channel, 0, len(allChannels))
 	for _, ch := range allChannels {
-		if !disabled[ch.Source] {
-			channels = append(channels, ch)
+		if disabled[ch.Source] {
+			continue
 		}
+		if ch.Logo != "" && s.logoCache.Has(ch.XmltvID) {
+			scheme := "https"
+			if r.TLS == nil && r.Header.Get("X-Forwarded-Proto") == "" {
+				scheme = "http"
+			} else if proto := r.Header.Get("X-Forwarded-Proto"); proto != "" {
+				scheme = proto
+			}
+			ch.Logo = scheme + "://" + r.Host + "/logos/" + logoKey(ch.XmltvID)
+		}
+		channels = append(channels, ch)
 	}
 
 	programFilter := store.Filter{

@@ -1,0 +1,18 @@
+package api
+
+import (
+	"net/http"
+	"net/url"
+
+	"github.com/go-chi/chi/v5"
+)
+
+func (s *Server) serveLogo(w http.ResponseWriter, r *http.Request) {
+	id, _ := url.PathUnescape(chi.URLParam(r, "id"))
+	logoURL := s.logoCache.URL(id)
+	if logoURL == "" {
+		http.NotFound(w, r)
+		return
+	}
+	http.Redirect(w, r, logoURL, http.StatusFound)
+}

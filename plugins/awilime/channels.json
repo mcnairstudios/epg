@@ -1,6 +1,30 @@
 [
-  {"site_id": "budapest_europa_tv", "name": "Budapest Europa TV", "lang": "hu", "xmltv_id": "BudapestEuropaTelevizio.hu"},
-  {"site_id": "rtl", "name": "RTL", "lang": "hu", "xmltv_id": "RTL.hu"},
-  {"site_id": "tv2", "name": "TV2", "lang": "hu", "xmltv_id": "TV2.hu"},
-  {"site_id": "m1", "name": "m1", "lang": "hu", "xmltv_id": "M1.hu"}
+  {
+    "site_id": "budapest_europa_tv",
+    "name": "Budapest Europa TV",
+    "lang": "hu",
+    "xmltv_id": "BudapestEuropaTelevizio.hu",
+    "logo": "https://i.imgur.com/CqqWtzo.png"
+  },
+  {
+    "site_id": "rtl",
+    "name": "RTL",
+    "lang": "hu",
+    "xmltv_id": "RTL.hu",
+    "logo": "https://i.imgur.com/ruRshE1.png"
+  },
+  {
+    "site_id": "tv2",
+    "name": "TV2",
+    "lang": "hu",
+    "xmltv_id": "TV2.hu",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png"
+  },
+  {
+    "site_id": "m1",
+    "name": "m1",
+    "lang": "hu",
+    "xmltv_id": "M1.hu",
+    "logo": "https://i.imgur.com/r4tgKZK.png"
+  }
 ]
