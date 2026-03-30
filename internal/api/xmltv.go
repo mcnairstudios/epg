@@ -53,7 +53,7 @@ func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filt
 		if disabled[ch.Source] {
 			continue
 		}
-		if ch.Logo != "" && s.logoCache.Has(ch.XmltvID) {
+		if ch.Logo != "" {
 			scheme := "https"
 			if r.TLS == nil && r.Header.Get("X-Forwarded-Proto") == "" {
 				scheme = "http"

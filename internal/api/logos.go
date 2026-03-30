@@ -9,10 +9,5 @@ import (
 
 func (s *Server) serveLogo(w http.ResponseWriter, r *http.Request) {
 	id, _ := url.PathUnescape(chi.URLParam(r, "id"))
-	logoURL := s.logoCache.URL(id)
-	if logoURL == "" {
-		http.NotFound(w, r)
-		return
-	}
-	http.Redirect(w, r, logoURL, http.StatusFound)
+	s.logoCache.Serve(w, r, id)
 }

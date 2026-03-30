@@ -8,7 +8,6 @@ import (
 	"os"
 	"os/signal"
 	"path/filepath"
-	"strings"
 	"sync"
 	"syscall"
 	"time"
@@ -265,20 +264,7 @@ func main() {
 	schedule := flag.String("schedule", "", "cron schedule for automatic grabbing (e.g. '0 0 * * *' for daily)")
 	rolling := flag.Bool("rolling", false, "enable rolling grabber (grabs each source at midnight in its timezone)")
 	rollingParallel := flag.Int("rolling-parallel", 2, "max parallel grabs for rolling grabber")
-	logoManifestURL := flag.String("logo-manifest-url", "", "URL to logo manifest.json (e.g. https://raw.githubusercontent.com/.../manifest.json)")
-	logoBaseURL := flag.String("logo-base-url", "", "base URL for logo files (e.g. https://raw.githubusercontent.com/.../logos)")
 	flag.Parse()
-
-	if *logoManifestURL == "" {
-		if v := strings.TrimSpace(os.Getenv("LOGO_MANIFEST_URL")); v != "" {
-			*logoManifestURL = v
-		}
-	}
-	if *logoBaseURL == "" {
-		if v := strings.TrimSpace(os.Getenv("LOGO_BASE_URL")); v != "" {
-			*logoBaseURL = v
-		}
-	}
 
 	s := store.New(filepath.Join(*dataDir, "providers"))
 	if err := s.Load(); err != nil {
@@ -327,10 +313,8 @@ func main() {
 
 	g := grabber.New(s, *maxConn, *days)
 
-	logos := logocache.New(*logoManifestURL, *logoBaseURL)
-	if err := logos.Load(); err != nil {
-		log.Printf("warning: failed to load logo manifest: %v", err)
-	}
+	logos := logocache.New(filepath.Join(*dataDir, "logos"))
+	logos.Index(s.GetChannels())
 
 	srv := api.NewServer(s, g, ext, users, disabled, logos)
 
