@@ -1,6 +1,7 @@
 package logocache
 
 import (
+	"bytes"
 	"io"
 	"log"
 	"net/http"
@@ -13,11 +14,16 @@ import (
 	"github.com/gavinmcnair/epg/internal/domain"
 )
 
+type cached struct {
+	filename    string
+	contentType string
+}
+
 type Cache struct {
 	dir    string
 	mu     sync.RWMutex
 	index  map[string]string // safeBase -> source URL
-	files  map[string]string // safeBase -> filename on disk
+	files  map[string]cached // safeBase -> cached entry
 	client *http.Client
 }
 
@@ -25,8 +31,10 @@ func New(dir string) *Cache {
 	c := &Cache{
 		dir:    dir,
 		index:  make(map[string]string),
-		files:  make(map[string]string),
-		client: &http.Client{Timeout: 30 * time.Second},
+		files:  make(map[string]cached),
+		client: &http.Client{
+			Timeout: 30 * time.Second,
+		},
 	}
 	if dir != "" {
 		os.MkdirAll(dir, 0755)
@@ -47,8 +55,9 @@ func (c *Cache) scanDir() {
 			continue
 		}
 		name := e.Name()
-		key := strings.TrimSuffix(name, filepath.Ext(name))
-		c.files[key] = name
+		ext := filepath.Ext(name)
+		key := strings.TrimSuffix(name, ext)
+		c.files[key] = cached{filename: name, contentType: contentTypeForExt(ext)}
 	}
 	log.Printf("logo cache: found %d cached logos in %s", len(c.files), c.dir)
 }
@@ -83,12 +92,12 @@ func (c *Cache) Serve(w http.ResponseWriter, r *http.Request, xmltvID string) {
 	key := safeBase(xmltvID)
 
 	c.mu.RLock()
-	filename := c.files[key]
+	entry, cached := c.files[key]
 	sourceURL := c.index[key]
 	c.mu.RUnlock()
 
-	if filename != "" && c.dir != "" {
-		http.ServeFile(w, r, filepath.Join(c.dir, filename))
+	if cached && c.dir != "" {
+		serveFile(w, filepath.Join(c.dir, entry.filename), entry.contentType)
 		return
 	}
 
@@ -97,67 +106,75 @@ func (c *Cache) Serve(w http.ResponseWriter, r *http.Request, xmltvID string) {
 		return
 	}
 
-	filename, err := c.download(key, sourceURL)
+	data, contentType, ext, err := c.fetch(sourceURL)
 	if err != nil {
-		log.Printf("logo cache: failed to fetch %s: %v", sourceURL, err)
-		http.Redirect(w, r, sourceURL, http.StatusFound)
+		log.Printf("logo cache: fetch failed for %s (%s): %v", key, sourceURL, err)
+		http.NotFound(w, r)
 		return
 	}
 
+	filename := key + ext
 	if c.dir != "" {
-		http.ServeFile(w, r, filepath.Join(c.dir, filename))
-	} else {
-		http.Redirect(w, r, sourceURL, http.StatusFound)
+		dest := filepath.Join(c.dir, filename)
+		if writeErr := os.WriteFile(dest, data, 0644); writeErr != nil {
+			log.Printf("logo cache: write failed for %s: %v", dest, writeErr)
+		} else {
+			c.mu.Lock()
+			c.files[key] = struct {
+				filename    string
+				contentType string
+			}{filename, contentType}
+			c.mu.Unlock()
+		}
 	}
+
+	w.Header().Set("Content-Type", contentType)
+	w.Header().Set("Cache-Control", "public, max-age=86400")
+	w.Write(data)
 }
 
-func (c *Cache) download(key, sourceURL string) (string, error) {
-	resp, err := c.client.Get(sourceURL)
+func (c *Cache) fetch(sourceURL string) ([]byte, string, string, error) {
+	req, err := http.NewRequest(http.MethodGet, sourceURL, nil)
 	if err != nil {
-		return "", err
+		return nil, "", "", err
+	}
+	req.Header.Set("User-Agent", "EPG-Logo-Cache/1.0")
+
+	resp, err := c.client.Do(req)
+	if err != nil {
+		return nil, "", "", err
 	}
 	defer resp.Body.Close()
 
-	ext := extFromContentType(resp.Header.Get("Content-Type"))
+	var buf bytes.Buffer
+	if _, err := io.Copy(&buf, resp.Body); err != nil {
+		return nil, "", "", err
+	}
+
+	ct := resp.Header.Get("Content-Type")
+	ext := extFromContentType(ct)
 	if ext == "" {
 		ext = urlExt(sourceURL)
 	}
 	if ext == "" {
 		ext = ".png"
 	}
-
-	filename := key + ext
-
-	if c.dir == "" {
-		c.mu.Lock()
-		c.files[key] = filename
-		c.mu.Unlock()
-		return filename, nil
+	if ct == "" {
+		ct = contentTypeForExt(ext)
 	}
 
-	tmp := filepath.Join(c.dir, filename+".tmp")
-	out, err := os.Create(tmp)
+	return buf.Bytes(), ct, ext, nil
+}
+
+func serveFile(w http.ResponseWriter, path, contentType string) {
+	data, err := os.ReadFile(path)
 	if err != nil {
-		return "", err
+		http.Error(w, "not found", http.StatusNotFound)
+		return
 	}
-	if _, err := io.Copy(out, resp.Body); err != nil {
-		out.Close()
-		os.Remove(tmp)
-		return "", err
-	}
-	out.Close()
-
-	dest := filepath.Join(c.dir, filename)
-	if err := os.Rename(tmp, dest); err != nil {
-		os.Remove(tmp)
-		return "", err
-	}
-
-	c.mu.Lock()
-	c.files[key] = filename
-	c.mu.Unlock()
-
-	return filename, nil
+	w.Header().Set("Content-Type", contentType)
+	w.Header().Set("Cache-Control", "public, max-age=86400")
+	w.Write(data)
 }
 
 func safeBase(xmltvID string) string {
@@ -201,4 +218,20 @@ func extFromContentType(ct string) string {
 		return ".webp"
 	}
 	return ""
+}
+
+func contentTypeForExt(ext string) string {
+	switch strings.ToLower(ext) {
+	case ".png":
+		return "image/png"
+	case ".jpg", ".jpeg":
+		return "image/jpeg"
+	case ".gif":
+		return "image/gif"
+	case ".svg":
+		return "image/svg+xml"
+	case ".webp":
+		return "image/webp"
+	}
+	return "image/png"
 }
