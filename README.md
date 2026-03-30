@@ -1,6 +1,6 @@
 # EPG Service
 
-Go-based Electronic Program Guide service with 89+ source plugins, REST API, and legacy XMLTV endpoints.
+Go-based Electronic Program Guide service with 223+ source plugins, REST API, and legacy XMLTV endpoints.
 
 ## Quick Start
 
@@ -13,7 +13,7 @@ Open http://localhost:8080 for the web UI.
 
 ## Features
 
-- 89+ source plugins covering 40+ countries
+- 223+ source plugins covering 150+ countries
 - RESTful JSON API with OpenAPI spec
 - Legacy XMLTV XML endpoints for IPTV player compatibility
 - External XMLTV source import (add any XMLTV URL)
