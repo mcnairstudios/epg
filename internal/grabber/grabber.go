@@ -1,7 +1,9 @@
 package grabber
 
 import (
+	"context"
 	"fmt"
+	"log"
 	"sync"
 	"time"
 
@@ -14,6 +16,9 @@ type Grabber struct {
 	store          *store.Store
 	maxConnections int
 	days           int
+	progress       *ProgressTracker
+	grabbingMu     sync.Mutex
+	grabbing       map[string]bool
 }
 
 func New(s *store.Store, maxConnections, days int) *Grabber {
@@ -27,7 +32,35 @@ func New(s *store.Store, maxConnections, days int) *Grabber {
 		store:          s,
 		maxConnections: maxConnections,
 		days:           days,
+		progress:       NewProgressTracker(),
+		grabbing:       make(map[string]bool),
 	}
+}
+
+func (g *Grabber) Progress() *ProgressTracker {
+	return g.progress
+}
+
+func (g *Grabber) tryLock(source string) bool {
+	g.grabbingMu.Lock()
+	defer g.grabbingMu.Unlock()
+	if g.grabbing[source] {
+		return false
+	}
+	g.grabbing[source] = true
+	return true
+}
+
+func (g *Grabber) unlock(source string) {
+	g.grabbingMu.Lock()
+	defer g.grabbingMu.Unlock()
+	delete(g.grabbing, source)
+}
+
+func (g *Grabber) IsGrabbing(source string) bool {
+	g.grabbingMu.Lock()
+	defer g.grabbingMu.Unlock()
+	return g.grabbing[source]
 }
 
 type Result struct {
@@ -38,11 +71,16 @@ type Result struct {
 	Err     error
 }
 
-func (g *Grabber) GrabSource(sourceName string) ([]Result, error) {
+func (g *Grabber) GrabSource(ctx context.Context, sourceName string) ([]Result, error) {
 	p, ok := plugin.Get(sourceName)
 	if !ok {
 		return nil, fmt.Errorf("unknown source: %s", sourceName)
 	}
+
+	if !g.tryLock(sourceName) {
+		return nil, fmt.Errorf("source %s is already being grabbed", sourceName)
+	}
+	defer g.unlock(sourceName)
 
 	channels, err := p.Channels()
 	if err != nil {
@@ -51,15 +89,30 @@ func (g *Grabber) GrabSource(sourceName string) ([]Result, error) {
 
 	g.store.SetChannels(channels)
 
-	return g.grabChannels(p, channels), nil
+	return g.grabChannels(ctx, p, channels), nil
 }
 
-func (g *Grabber) GrabAll() []Result {
+func (g *Grabber) GrabAll(ctx context.Context, skip map[string]bool) []Result {
 	var allResults []Result
 
 	for _, p := range plugin.List() {
+		if skip[p.Name()] {
+			continue
+		}
+
+		select {
+		case <-ctx.Done():
+			return allResults
+		default:
+		}
+
+		if !g.tryLock(p.Name()) {
+			continue
+		}
+
 		channels, err := p.Channels()
 		if err != nil {
+			g.unlock(p.Name())
 			allResults = append(allResults, Result{
 				Source: p.Name(),
 				Err:    err,
@@ -68,14 +121,15 @@ func (g *Grabber) GrabAll() []Result {
 		}
 
 		g.store.SetChannels(channels)
-		results := g.grabChannels(p, channels)
+		results := g.grabChannels(ctx, p, channels)
+		g.unlock(p.Name())
 		allResults = append(allResults, results...)
 	}
 
 	return allResults
 }
 
-func (g *Grabber) grabChannels(p plugin.Provider, channels []domain.Channel) []Result {
+func (g *Grabber) grabChannels(ctx context.Context, p plugin.Provider, channels []domain.Channel) []Result {
 	type job struct {
 		channel domain.Channel
 		date    time.Time
@@ -90,6 +144,8 @@ func (g *Grabber) grabChannels(p plugin.Provider, channels []domain.Channel) []R
 		}
 	}
 
+	g.progress.Start(p.Name(), len(jobs))
+
 	results := make([]Result, len(jobs))
 	sem := make(chan struct{}, g.maxConnections)
 	var wg sync.WaitGroup
@@ -98,8 +154,20 @@ func (g *Grabber) grabChannels(p plugin.Provider, channels []domain.Channel) []R
 		wg.Add(1)
 		go func(idx int, j job) {
 			defer wg.Done()
-			sem <- struct{}{}
+			select {
+			case sem <- struct{}{}:
+			case <-ctx.Done():
+				results[idx] = Result{Source: p.Name(), Channel: j.channel, Date: j.date, Err: ctx.Err()}
+				g.progress.Record(p.Name(), true)
+				return
+			}
 			defer func() { <-sem }()
+
+			if ctx.Err() != nil {
+				results[idx] = Result{Source: p.Name(), Channel: j.channel, Date: j.date, Err: ctx.Err()}
+				g.progress.Record(p.Name(), true)
+				return
+			}
 
 			programs, err := p.Fetch(j.channel, j.date)
 			results[idx] = Result{
@@ -109,13 +177,18 @@ func (g *Grabber) grabChannels(p plugin.Provider, channels []domain.Channel) []R
 				Err:     err,
 			}
 
-			if err == nil && len(programs) > 0 {
+			if err != nil {
+				log.Printf("[%s] fetch error ch=%s date=%s: %v", p.Name(), j.channel.ID, j.date.Format("2006-01-02"), err)
+			} else if len(programs) > 0 {
 				results[idx].Count = len(programs)
 				g.store.SetPrograms(j.channel.ID, programs)
 			}
+
+			g.progress.Record(p.Name(), err != nil)
 		}(i, j)
 	}
 
 	wg.Wait()
+	g.progress.Finish(p.Name())
 	return results
 }

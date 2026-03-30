@@ -7,6 +7,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/plugins/tvmailru"
 )
 
@@ -22,7 +23,7 @@ func TestParseContent(t *testing.T) {
 	}
 
 	date := time.Date(2021, 11, 24, 0, 0, 0, 0, time.UTC)
-	programs, err := tvmailru.Parse(data, date)
+	programs, err := tvmailru.Parse(data, domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -71,7 +72,7 @@ func TestParseEmptyContent(t *testing.T) {
 	}
 
 	date := time.Date(2021, 11, 24, 0, 0, 0, 0, time.UTC)
-	programs, err := tvmailru.Parse(data, date)
+	programs, err := tvmailru.Parse(data, domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -82,7 +83,7 @@ func TestParseEmptyContent(t *testing.T) {
 
 func TestParseInvalidJSON(t *testing.T) {
 	date := time.Date(2021, 11, 24, 0, 0, 0, 0, time.UTC)
-	programs, err := tvmailru.Parse([]byte(`not json`), date)
+	programs, err := tvmailru.Parse([]byte(`not json`), domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 	if err != nil {
 		t.Fatalf("unexpected error: %v", err)
 	}

@@ -12,6 +12,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -20,7 +21,7 @@ var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: httpclient.Browser(),
 	})
 }
 
@@ -62,6 +63,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from dstv", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
@@ -77,7 +82,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 			Channel: channel.XmltvID,
 			Source:  "dstv.com",
 			Title:   item.Title,
-			Lang:    "en",
+			Lang:    channel.Lang,
 			Start:   parseTime(item.StartTime, channel),
 			Stop:    parseTime(item.EndTime, channel),
 		}
@@ -104,7 +109,7 @@ func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 			Channel: channel.XmltvID,
 			Source:  "dstv.com",
 			Title:   item.Title,
-			Lang:    "en",
+			Lang:    channel.Lang,
 			Start:   parseTime(item.StartTime, channel),
 			Stop:    parseTime(item.EndTime, channel),
 		}
@@ -121,7 +126,7 @@ func ParseWithDetails(data []byte, channel domain.Channel, detailsMap map[string
 			Channel: channel.XmltvID,
 			Source:  "dstv.com",
 			Title:   item.Title,
-			Lang:    "en",
+			Lang:    channel.Lang,
 			Start:   parseTime(item.StartTime, channel),
 			Stop:    parseTime(item.EndTime, channel),
 		}
@@ -150,6 +155,10 @@ func (p *provider) loadProgramDetails(id string) *programDetails {
 		return nil
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
@@ -228,7 +237,7 @@ func parseTime(timeStr string, channel domain.Channel) time.Time {
 	if err != nil {
 		return time.Time{}
 	}
-	return t
+	return t.UTC()
 }
 
 func parseItems(content []byte, channel domain.Channel) []programme {

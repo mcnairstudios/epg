@@ -14,6 +14,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -21,7 +22,7 @@ import (
 var channelsData []byte
 
 func init() {
-	plugin.Register(&provider{client: http.DefaultClient})
+	plugin.Register(&provider{client: httpclient.Browser()})
 }
 
 type provider struct {

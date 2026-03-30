@@ -12,20 +12,29 @@ import (
 	"strings"
 	"sync"
 	"time"
+
+	"golang.org/x/crypto/bcrypt"
 )
 
 type User struct {
-	ID        string    `json:"id"`
-	Username  string    `json:"username"`
-	Token     string    `json:"token"`
-	Role      string    `json:"role"`
-	CreatedAt time.Time `json:"created_at"`
+	ID           string    `json:"id"`
+	Username     string    `json:"username"`
+	Token        string    `json:"token"`
+	Role         string    `json:"role"`
+	PasswordHash string    `json:"-"`
+	CreatedAt    time.Time `json:"created_at"`
+}
+
+type Session struct {
+	UserID  string
+	Expires time.Time
 }
 
 type UserStore struct {
-	mu    sync.RWMutex
-	users map[string]User
-	path  string
+	mu       sync.RWMutex
+	users    map[string]User
+	sessions map[string]Session
+	path     string
 }
 
 type userSnapshot struct {
@@ -34,8 +43,9 @@ type userSnapshot struct {
 
 func NewUserStore(path string) *UserStore {
 	return &UserStore{
-		users: make(map[string]User),
-		path:  path,
+		users:    make(map[string]User),
+		sessions: make(map[string]Session),
+		path:     path,
 	}
 }
 
@@ -62,6 +72,83 @@ func (s *UserStore) Create(username, role string) (User, error) {
 
 	s.users[id] = user
 	return user, nil
+}
+
+func (s *UserStore) SetPassword(id, password string) error {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+
+	u, ok := s.users[id]
+	if !ok {
+		return fmt.Errorf("user not found: %s", id)
+	}
+
+	hash, err := bcrypt.GenerateFromPassword([]byte(password), bcrypt.DefaultCost)
+	if err != nil {
+		return err
+	}
+
+	u.PasswordHash = string(hash)
+	s.users[id] = u
+	return nil
+}
+
+func (s *UserStore) ValidatePassword(username, password string) (User, bool) {
+	s.mu.RLock()
+	defer s.mu.RUnlock()
+
+	for _, u := range s.users {
+		if u.Username != username || u.PasswordHash == "" {
+			continue
+		}
+		if bcrypt.CompareHashAndPassword([]byte(u.PasswordHash), []byte(password)) == nil {
+			return u, true
+		}
+		return User{}, false
+	}
+	return User{}, false
+}
+
+func (s *UserStore) HasAdminWithPassword() bool {
+	s.mu.RLock()
+	defer s.mu.RUnlock()
+
+	for _, u := range s.users {
+		if u.Role == "admin" && u.PasswordHash != "" {
+			return true
+		}
+	}
+	return false
+}
+
+func (s *UserStore) EnsureAdmin(username, password string) error {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+
+	hash, err := bcrypt.GenerateFromPassword([]byte(password), bcrypt.DefaultCost)
+	if err != nil {
+		return err
+	}
+
+	for id, u := range s.users {
+		if u.Role == "admin" && u.PasswordHash == "" {
+			u.PasswordHash = string(hash)
+			s.users[id] = u
+			return nil
+		}
+	}
+
+	id := generateID()
+	token := generateToken()
+	s.users[id] = User{
+		ID:           id,
+		Username:     username,
+		Token:        token,
+		Role:         "admin",
+		PasswordHash: string(hash),
+		CreatedAt:    time.Now().UTC(),
+	}
+	return nil
 }
 
 func (s *UserStore) Delete(id string) error {
@@ -98,8 +185,48 @@ func (s *UserStore) ValidateToken(token string) (User, bool) {
 	return User{}, false
 }
 
+func (s *UserStore) CreateSession(userID string) string {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+
+	token := generateToken()
+	s.sessions[token] = Session{
+		UserID:  userID,
+		Expires: time.Now().Add(24 * time.Hour),
+	}
+	return token
+}
+
+func (s *UserStore) ValidateSession(token string) (User, bool) {
+	s.mu.RLock()
+	defer s.mu.RUnlock()
+
+	sess, ok := s.sessions[token]
+	if !ok || time.Now().After(sess.Expires) {
+		return User{}, false
+	}
+
+	u, ok := s.users[sess.UserID]
+	return u, ok
+}
+
+func (s *UserStore) DeleteSession(token string) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	delete(s.sessions, token)
+}
+
+// Middleware authenticates via Bearer token or ?token= query param.
+// Also accepts valid session cookies so the admin UI can access read endpoints.
 func (s *UserStore) Middleware(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		if cookie, err := r.Cookie("epg_session"); err == nil {
+			if _, ok := s.ValidateSession(cookie.Value); ok {
+				next.ServeHTTP(w, r)
+				return
+			}
+		}
+
 		if len(s.users) == 0 {
 			next.ServeHTTP(w, r)
 			return
@@ -107,7 +234,6 @@ func (s *UserStore) Middleware(next http.Handler) http.Handler {
 
 		token := r.Header.Get("Authorization")
 		token = strings.TrimPrefix(token, "Bearer ")
-
 		if token == "" {
 			token = r.URL.Query().Get("token")
 		}
@@ -119,6 +245,44 @@ func (s *UserStore) Middleware(next http.Handler) http.Handler {
 
 		if _, ok := s.ValidateToken(token); !ok {
 			http.Error(w, `{"error":"invalid token"}`, http.StatusUnauthorized)
+			return
+		}
+
+		next.ServeHTTP(w, r)
+	})
+}
+
+// AdminAPIMiddleware requires a valid session cookie. Returns 401 JSON on failure.
+func (s *UserStore) AdminAPIMiddleware(next http.Handler) http.Handler {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		cookie, err := r.Cookie("epg_session")
+		if err != nil {
+			w.Header().Set("Content-Type", "application/json")
+			http.Error(w, `{"error":"unauthorized"}`, http.StatusUnauthorized)
+			return
+		}
+
+		if _, ok := s.ValidateSession(cookie.Value); !ok {
+			w.Header().Set("Content-Type", "application/json")
+			http.Error(w, `{"error":"unauthorized"}`, http.StatusUnauthorized)
+			return
+		}
+
+		next.ServeHTTP(w, r)
+	})
+}
+
+// AdminMiddleware requires a valid session cookie. Redirects to /login on failure.
+func (s *UserStore) AdminMiddleware(next http.Handler) http.Handler {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		cookie, err := r.Cookie("epg_session")
+		if err != nil {
+			http.Redirect(w, r, "/login", http.StatusSeeOther)
+			return
+		}
+
+		if _, ok := s.ValidateSession(cookie.Value); !ok {
+			http.Redirect(w, r, "/login", http.StatusSeeOther)
 			return
 		}
 

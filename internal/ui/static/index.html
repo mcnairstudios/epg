@@ -66,15 +66,38 @@
     .filter-bar input, .filter-bar select { width: auto; min-width: 150px; }
     .xmltv-url { font-family: monospace; font-size: 13px; padding: 8px; background: #0f1419; border: 1px solid #2f3336; border-radius: 4px; word-break: break-all; }
     #status-msg { display: none; }
+    .toggle-pill { display: inline-flex; align-items: center; gap: 5px; cursor: pointer; font-size: 11px; font-weight: 600; padding: 3px 8px 3px 4px; border-radius: 12px; border: none; transition: background 0.15s; }
+    .toggle-pill.enabled { background: rgba(5, 150, 105, 0.2); color: #34d399; }
+    .toggle-pill.disabled { background: rgba(55, 65, 81, 0.5); color: #6b7280; }
+    .toggle-pill .dot { width: 8px; height: 8px; border-radius: 50%; }
+    .toggle-pill.enabled .dot { background: #34d399; }
+    .toggle-pill.disabled .dot { background: #6b7280; }
+    .progress-band { display: flex; height: 5px; border-radius: 0 0 6px 6px; overflow: hidden; margin: 10px -16px -16px; }
+    .progress-band-done { background: #059669; transition: width 0.3s; }
+    .progress-band-outstanding { background: #1d9bf0; transition: width 0.3s; }
+    .progress-band-error { background: #dc2626; transition: width 0.3s; }
+    .progress-band-missing { background: #1e3a52; }
+    .btn-icon { padding: 6px; border: none; border-radius: 6px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; line-height: 1; }
+    .btn-icon:hover { opacity: 0.85; }
+    .btn-icon:disabled { opacity: 0.4; cursor: not-allowed; }
+    .btn-remove { background: none; border: none; padding: 2px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; opacity: 0.8; }
+    .btn-remove:hover { opacity: 1; }
+    @keyframes grab-pulse { 0%,100% { border-color: #d97706; } 50% { border-color: #f59e0b; box-shadow: 0 0 8px rgba(245,158,11,0.4); } }
+    .grabbing { animation: grab-pulse 1.2s ease-in-out infinite; }
+    #bw-indicator { font-size: 12px; color: #8b98a5; font-family: monospace; }
+    #bw-indicator.active { color: #1d9bf0; }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
       <h1>EPG Service</h1>
-      <div style="display:flex;align-items:center;gap:8px;">
-        <input type="text" id="token-input" placeholder="API Token" style="width:180px;display:inline-block;font-size:12px;">
+      <div style="display:flex;align-items:center;gap:16px;">
+        <span id="bw-indicator">↓ —</span>
         <button class="btn" style="background:#374151;color:#9ca3af;" onclick="openSettings()">Settings</button>
+        <form method="POST" action="/logout" style="margin:0;">
+          <button type="submit" class="btn" style="background:#374151;color:#9ca3af;">Logout</button>
+        </form>
       </div>
     </header>
 
@@ -172,24 +195,26 @@
         <thead><tr><th>Username</th><th>Role</th><th>Token</th><th>Created</th><th></th></tr></thead>
         <tbody id="users-table"></tbody>
       </table>
-      <div id="sleeping-sources" style="margin-top:24px;"></div>
+      <div id="change-password-form" style="display:none;margin-top:16px;" class="card">
+        <h3 style="margin-bottom:8px;">Change Password</h3>
+        <div class="form-row">
+          <div class="form-group">
+            <label>New Password</label>
+            <input type="password" id="new-password" placeholder="new password">
+          </div>
+          <button class="btn btn-primary" onclick="submitChangePassword()">Save</button>
+          <button class="btn" style="background:#374151;color:#9ca3af;" onclick="cancelChangePassword()">Cancel</button>
+        </div>
+      </div>
+      <div id="problem-sources" style="margin-top:24px;"></div>
     </div>
   </div>
 
   <script>
     const API = '/api/v1';
-    let token = localStorage.getItem('epg-token') || '';
-    document.getElementById('token-input').value = token;
-    document.getElementById('token-input').addEventListener('change', e => {
-      token = e.target.value;
-      localStorage.setItem('epg-token', token);
-      refreshAll();
-    });
 
     function headers() {
-      const h = {'Content-Type': 'application/json'};
-      if (token) h['Authorization'] = 'Bearer ' + token;
-      return h;
+      return {'Content-Type': 'application/json'};
     }
 
     function showAddExternal() {
@@ -200,11 +225,27 @@
       document.getElementById('add-external-form').style.display = 'none';
     }
 
+    function copyToClipboard(text) {
+      if (navigator.clipboard && window.isSecureContext) {
+        return navigator.clipboard.writeText(text);
+      }
+      const ta = document.createElement('textarea');
+      ta.value = text;
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.focus();
+      ta.select();
+      document.execCommand('copy');
+      document.body.removeChild(ta);
+      return Promise.resolve();
+    }
+
     function copySourceXmltvUrl(name) {
       const base = window.location.origin;
-      const tokenParam = token ? '?token=' + token : '';
-      navigator.clipboard.writeText(base + '/epg/' + name + '.xml' + tokenParam);
-      showStatus('XMLTV URL copied for ' + name, 'success');
+      copyToClipboard(base + '/epg/' + encodeURIComponent(name) + '.xml?token=<your-token>')
+        .then(() => showStatus('XMLTV URL copied for ' + name + ' (replace <your-token>)', 'success'))
+        .catch(() => showStatus('Copy failed — see browser console', 'error'));
     }
 
     async function openSettings() {
@@ -220,50 +261,23 @@
     }
 
     async function grabSettingsSource(name) {
-      const btn = event.target;
-      btn.disabled = true;
-      btn.textContent = 'Grabbing...';
-      btn.style.background = '#d97706';
-      showStatus('Grabbing ' + name + '...', 'info');
       try {
+        grabbingSet.add(name);
+        loadSources();
+        loadSleepingSources();
+        startProgressPolling();
         const res = await apiFetch('/grab', {method:'POST', body: JSON.stringify({source: name})});
-        if (res.results > 0) {
-          showStatus(`${name}: ${res.results} programs! Now active.`, 'success');
-        } else {
-          showStatus(`${name}: 0 programs, ${res.errors} errors.`, 'error');
-        }
-      } catch(e) { showStatus(e.message, 'error'); }
-      btn.disabled = false;
-      btn.textContent = 'Grab';
-      btn.style.background = '';
-      loadSleepingSources();
-      refreshAll();
-    }
-
-    async function grabSleepingSource(name) {
-      const btn = event.target;
-      btn.disabled = true;
-      btn.textContent = 'Grabbing...';
-      btn.style.background = '#d97706';
-      showStatus('Grabbing ' + name + '...', 'info');
-      try {
-        const res = await apiFetch('/grab', {method:'POST', body: JSON.stringify({source: name})});
-        if (res.results > 0) {
-          await apiFetch('/sleeping/' + encodeURIComponent(name), {method: 'DELETE'});
-          showStatus(`${name}: ${res.results} programs! Auto-woken.`, 'success');
-        } else {
-          showStatus(`${name}: 0 programs, ${res.errors} errors. Still sleeping.`, 'error');
-        }
-      } catch(e) { showStatus(e.message, 'error'); }
-      btn.disabled = false;
-      btn.textContent = 'Grab';
-      btn.style.background = '';
-      loadSleepingSources();
+        grabbingSet.delete(name);
+        showStatus(`${name}: ${res.results} programs, ${res.errors} errors`, res.results > 0 ? 'success' : 'error');
+      } catch(e) {
+        grabbingSet.delete(name);
+        showStatus(e.message, 'error');
+      }
       refreshAll();
     }
 
     async function loadSleepingSources() {
-      await loadSleeping();
+      await loadDisabled();
       const grabStats = await apiFetch('/grab-stats').catch(() => []);
       const statsMap = {};
       (grabStats||[]).forEach(s => statsMap[s.source] = s);
@@ -275,48 +289,35 @@
         ...(extSources||[]).map(s => ({...s, _type: 'external', _grabFn: 'grabExternal'}))
       ].sort((a,b) => a.name.localeCompare(b.name));
 
-      const ungrabbed = all.filter(s => !statsMap[s.name] && !sleepingMap[s.name]);
-
-      const allSleepingSources = [
-        ...all.filter(s => sleepingMap[s.name]),
-        ...Object.keys(sleepingMap).filter(n => !all.find(s => s.name === n)).map(n => ({name: n, _type: 'plugin', _grabFn: 'grabSource'}))
-      ];
-
-      const errored = allSleepingSources.filter(s => {
+      const errored = all.filter(s => {
         const gs = statsMap[s.name];
-        return gs && gs.errors > 0;
+        return gs && gs.errors > 0 && gs.programs === 0;
       }).sort((a,b) => (statsMap[b.name]?.errors||0) - (statsMap[a.name]?.errors||0));
 
-      const nonResponsive = allSleepingSources.filter(s => {
+      const nonResponsive = all.filter(s => {
         const gs = statsMap[s.name];
-        const reason = sleepingMap[s.name] || '';
-        return !gs || gs.errors === 0 || reason.includes('dead') || reason.includes('geo') || reason.includes('timeout') || reason.includes('SSL') || reason.includes('DNS');
-      }).filter(s => !errored.find(e => e.name === s.name));
+        return !gs || (gs.programs === 0 && gs.errors === 0);
+      });
 
       let html = '';
 
-      if (ungrabbed.length > 0) {
-        html += `<h3 style="margin-bottom:12px;color:#1d9bf0;">New Sources (${ungrabbed.length})</h3>`;
-        html += '<div class="grid">' + ungrabbed.map(s => renderCard(s, statsMap, 'new')).join('') + '</div>';
-      }
-
       if (errored.length > 0) {
-        html += `<h3 style="margin:24px 0 12px;color:#dc2626;">Errored — Fixable (${errored.length})</h3>`;
-        html += `<p style="font-size:12px;color:#8b98a5;margin-bottom:12px;">These sources respond but return errors. The code needs fixing.</p>`;
+        html += `<h3 style="margin-bottom:12px;color:#dc2626;">Errored (${errored.length})</h3>`;
+        html += `<p style="font-size:12px;color:#8b98a5;margin-bottom:12px;">These sources respond but return errors with no usable data.</p>`;
         html += '<div class="grid">' + errored.map(s => renderCard(s, statsMap, 'errored')).join('') + '</div>';
       }
 
       if (nonResponsive.length > 0) {
         html += `<h3 style="margin:24px 0 12px;color:#8b98a5;">Non-Responsive (${nonResponsive.length})</h3>`;
-        html += `<p style="font-size:12px;color:#8b98a5;margin-bottom:12px;">Dead servers, geo-blocked, or API removed.</p>`;
-        html += '<div class="grid">' + nonResponsive.map(s => renderCard(s, statsMap, 'sleeping')).join('') + '</div>';
+        html += `<p style="font-size:12px;color:#8b98a5;margin-bottom:12px;">Dead servers, geo-blocked, API removed, or never grabbed.</p>`;
+        html += '<div class="grid">' + nonResponsive.map(s => renderCard(s, statsMap, 'non-responsive')).join('') + '</div>';
       }
 
       if (!html) {
         html = '<p style="color:#8b98a5;">All sources are active.</p>';
       }
 
-      document.getElementById('sleeping-sources').innerHTML = html;
+      document.getElementById('problem-sources').innerHTML = html;
     }
 
     function renderCard(s, statsMap, context) {
@@ -325,45 +326,76 @@
       const isGrabbing = grabbingSet.has(s._type === 'external' ? 'ext:' + s.name : s.name);
       const isExternal = s._type === 'external';
       const typeBadge = isExternal ? '<span class="badge" style="background:#7c3aed;color:white;font-size:10px;">external</span> ' : '';
-      const sleepReason = sleepingMap[s.name] || '';
-
       const statusBadge = isGrabbing
         ? '<span class="badge" style="background:#d97706;color:white;">grabbing...</span>'
         : context === 'errored'
           ? `<span class="badge" style="background:#dc2626;color:white;">${gs ? gs.errors + ' errors' : 'errored'}</span>`
-          : context === 'sleeping'
+          : context === 'non-responsive'
           ? `<span class="badge" style="background:#374151;color:#9ca3af;">non-responsive</span>`
-          : context === 'new'
-            ? '<span class="badge" style="background:#1d4ed8;color:white;">new</span>'
-            : gs
-              ? (gs.programs > 0
-                ? `<span class="badge" style="background:#059669;color:white;">${gs.programs} progs / ${gs.channels} ch</span>`
-                : `<span class="badge" style="background:#dc2626;color:white;">0 programs</span>`)
-              : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
+          : gs
+            ? (gs.programs > 0
+              ? `<span class="badge" style="background:#059669;color:white;">${gs.programs} progs / ${gs.channels} ch</span>`
+              : `<span class="badge" style="background:#dc2626;color:white;">0 programs</span>`)
+            : '<span class="badge" style="background:#374151;color:#9ca3af;">not grabbed</span>';
 
-      const subtitle = sleepReason
-        ? `<p style="font-size:11px;color:#8b98a5;">${sleepReason}</p>`
-        : isExternal
-          ? `<p style="word-break:break-all;font-size:11px;color:#8b98a5;">${s.url || ''}</p>`
-          : (s.description ? `<p style="font-size:12px;color:#8b98a5;">${s.description}</p>` : '');
+      const subtitle = isExternal
+        ? `<p style="word-break:break-all;font-size:11px;color:#8b98a5;">${s.url || ''}</p>`
+        : (s.description ? `<p style="font-size:12px;color:#8b98a5;">${s.description}</p>` : '');
       const lastGrab = gs ? `<span style="font-size:11px;color:#8b98a5;">Last: ${new Date(gs.last_grab).toLocaleString()} (${gs.duration})</span>` : '';
       const errorInfo = gs && gs.errors > 0 ? `<span style="font-size:11px;color:#fca5a5;"> ${gs.errors} errors</span>` : '';
-      const isSleepingOrErrored = context === 'sleeping' || context === 'errored';
-      const grabFnName = context === 'active'
-        ? (s._grabFn || 'grabSource')
-        : isSleepingOrErrored ? 'grabSleepingSource' : 'grabSettingsSource';
+      const isErrored = context === 'errored';
+      const isNonResponsive = context === 'non-responsive';
+      const grabFnName = isExternal ? s._grabFn : 'grabSettingsSource';
+
+      const dlIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>`;
+      const copyIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>`;
+      const removeIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="#dc2626"/><path d="M15 9l-6 6M9 9l6 6" stroke="white" stroke-width="2" stroke-linecap="round"/></svg>`;
+
       const grabBtn = isGrabbing
-        ? '<button class="btn" style="background:#d97706;color:white;" disabled>Grabbing...</button>'
-        : `<button class="btn btn-success" onclick="${grabFnName}('${safeNameAttr}')">Grab</button>`;
-      const removeBtn = isExternal ? `<button class="btn btn-danger" onclick="removeExternal('${safeNameAttr}')">Remove</button>` : '';
-      const guideBtn = !isSleepingOrErrored && gs && gs.programs > 0
+        ? `<button class="btn-icon" style="background:#d97706;color:white;" disabled title="Grabbing...">${dlIcon}</button>`
+        : `<button class="btn-icon btn-success" style="background:#059669;color:white;" onclick="${grabFnName}('${safeNameAttr}')" title="Grab">${dlIcon}</button>`;
+      const removeBtn = isExternal ? `<button class="btn-remove" onclick="removeExternal('${safeNameAttr}')" title="Remove">${removeIcon}</button>` : '';
+      const guideBtn = gs && gs.programs > 0
         ? `<button class="btn btn-primary" onclick="openGuide('${safeNameAttr}')">Guide</button>` : '';
-      const copyBtn = !isSleepingOrErrored
-        ? `<button class="btn" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${safeNameAttr}')">Copy XMLTV URL</button>` : '';
+      const copyBtn = gs && gs.programs > 0
+        ? `<button class="btn-icon" style="background:#374151;color:#9ca3af;" onclick="copySourceXmltvUrl('${safeNameAttr}')" title="Copy XMLTV URL">${copyIcon}</button>` : '';
+
+      const isDisabled = disabledMap[s.name];
+      const pillClass = isDisabled ? 'disabled' : 'enabled';
+      const pillLabel = isDisabled ? 'Disabled' : 'Enabled';
+      const pillBtn = `<button class="toggle-pill ${pillClass}" onclick="toggleDisabled('${safeNameAttr}')"><span class="dot"></span>${pillLabel}</button>`;
+
+      const prog = progressData[s.name];
+      let progressBand = '';
+      if (prog) {
+        const total = prog.total || 1;
+        const donePct = Math.round((prog.done - prog.errors) / total * 100);
+        const errorPct = Math.round(prog.errors / total * 100);
+        const outstandingPct = Math.max(0, 100 - donePct - errorPct);
+        progressBand = `<div class="progress-band" id="pb-${CSS.escape(s.name)}">
+          <div class="progress-band-done" style="width:${donePct}%"></div>
+          <div class="progress-band-error" style="width:${errorPct}%"></div>
+          <div class="progress-band-outstanding" style="width:${outstandingPct}%"></div>
+        </div>`;
+      } else if (isGrabbing) {
+        progressBand = `<div class="progress-band" id="pb-${CSS.escape(s.name)}">
+          <div class="progress-band-outstanding" style="width:100%"></div>
+        </div>`;
+      } else if (gs && gs.total_channels > 0) {
+        const okPct = Math.round(gs.channels / gs.total_channels * 100);
+        const missingPct = 100 - okPct;
+        progressBand = `<div class="progress-band" title="${gs.channels}/${gs.total_channels} channels with data">
+          <div class="progress-band-done" style="width:${okPct}%"></div>
+          <div class="progress-band-missing" style="width:${missingPct}%"></div>
+        </div>`;
+      }
 
       return `
-        <div class="card" style="${isGrabbing ? 'border-color:#d97706;' : ''}${context === 'errored' ? 'border-color:#dc2626;' : ''}">
-          <h3>${typeBadge}${s.name} ${statusBadge}</h3>
+        <div class="card${isGrabbing ? ' grabbing' : ''}" style="${isDisabled ? 'opacity:0.6;' : ''}${isErrored && !isGrabbing ? 'border-color:#dc2626;' : ''}">
+          <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:4px;">
+            <h3 style="margin-bottom:0;">${typeBadge}${s.name} ${statusBadge}</h3>
+            ${pillBtn}
+          </div>
           ${subtitle}
           <div style="margin-top:2px;">${lastGrab}${errorInfo}</div>
           <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap;">
@@ -372,6 +404,7 @@
             ${copyBtn}
             ${removeBtn}
           </div>
+          ${progressBand}
         </div>
       `;
     }
@@ -386,15 +419,21 @@
       el.textContent = msg;
       el.className = 'status status-' + type;
       el.style.display = 'block';
-      setTimeout(() => el.style.display = 'none', 5000);
+      setTimeout(() => el.style.display = 'none', type === 'error' ? 15000 : 5000);
     }
 
 
     async function apiFetch(path, opts = {}) {
-      const resp = await fetch(API + path, {headers: headers(), ...opts});
+      const resp = await fetch(API + path, {headers: headers(), credentials: 'same-origin', ...opts});
+      if (resp.status === 401 || resp.status === 403) {
+        window.location.href = '/login';
+        return;
+      }
       if (!resp.ok) {
-        const err = await resp.text();
-        throw new Error(err);
+        const text = await resp.text();
+        let msg = text;
+        try { const j = JSON.parse(text); if (j.error) msg = j.error; } catch(_) {}
+        throw new Error(msg);
       }
       return resp.json();
     }
@@ -424,7 +463,7 @@
           ...(ext||[]).map(s => ({...s, _type: 'external', _grabFn: 'grabExternal'}))
         ].sort((a,b) => a.name.localeCompare(b.name));
 
-        const active = all.filter(s => !sleepingMap[s.name] && statsMap[s.name] && statsMap[s.name].programs > 0);
+        const active = all.filter(s => statsMap[s.name] && statsMap[s.name].programs > 0);
 
         let html = '';
         if (active.length > 0) {
@@ -441,6 +480,50 @@
     }
 
     const grabbingSet = new Set();
+    let progressData = {};
+    let progressInterval = null;
+
+    async function loadProgress() {
+      try {
+        const data = await apiFetch('/grab-progress');
+        progressData = data || {};
+        const hasActive = Object.values(progressData).some(p => p.active);
+        updateProgressBands();
+        if (!hasActive && progressInterval) {
+          clearInterval(progressInterval);
+          progressInterval = null;
+        }
+      } catch(e) { /* silent */ }
+    }
+
+    let panelRefreshPending = false;
+    function updateProgressBands() {
+      let missingElement = false;
+      for (const [name, prog] of Object.entries(progressData)) {
+        if (!prog.active) continue;
+        const el = document.getElementById('pb-' + CSS.escape(name));
+        if (!el) { missingElement = true; continue; }
+        const total = prog.total || 1;
+        const donePct = Math.round((prog.done - prog.errors) / total * 100);
+        const errorPct = Math.round(prog.errors / total * 100);
+        const outstandingPct = Math.max(0, 100 - donePct - errorPct);
+        el.innerHTML = `
+          <div class="progress-band-done" style="width:${donePct}%"></div>
+          <div class="progress-band-error" style="width:${errorPct}%"></div>
+          <div class="progress-band-outstanding" style="width:${outstandingPct}%"></div>`;
+      }
+      if (missingElement && !panelRefreshPending) {
+        panelRefreshPending = true;
+        Promise.all([loadSources(), loadSleepingSources()]).then(() => { panelRefreshPending = false; });
+      }
+    }
+
+    function startProgressPolling() {
+      if (!progressInterval) {
+        loadProgress();
+        progressInterval = setInterval(loadProgress, 1000);
+      }
+    }
 
     async function grabAll() {
       try {
@@ -449,6 +532,8 @@
           grabbingSet.add(s.name);
         }
         loadSources();
+        loadSleepingSources();
+        startProgressPolling();
         showStatus('Grabbing all sources...', 'info');
         const res = await apiFetch('/grab-all', {method:'POST'});
         grabbingSet.clear();
@@ -465,6 +550,8 @@
       try {
         grabbingSet.add(name);
         loadSources();
+        loadSleepingSources();
+        startProgressPolling();
         const res = await apiFetch('/grab', {method:'POST', body: JSON.stringify({source: name})});
         grabbingSet.delete(name);
         showStatus(`Grabbed ${res.results} programs from ${name}`, 'success');
@@ -500,16 +587,18 @@
     async function grabExternal(name) {
       try {
         grabbingSet.add('ext:' + name);
-        loadSources();
         showStatus('Grabbing external source: ' + name + '...', 'info');
+        await Promise.all([loadSources(), loadSleepingSources()]);
+        startProgressPolling();
         const res = await apiFetch('/external-sources/' + encodeURIComponent(name) + '/grab', {method:'POST'});
         grabbingSet.delete('ext:' + name);
         showStatus(`Imported ${res.channels} channels, ${res.programs} programs from ${name}`, 'success');
         refreshAll();
       } catch(e) {
         grabbingSet.delete('ext:' + name);
+        showStatus('External grab failed: ' + e.message, 'error');
         loadSources();
-        showStatus(e.message, 'error');
+        loadSleepingSources();
       }
     }
 
@@ -522,22 +611,23 @@
     let guideProgsByChannel = {};
     let guideOffset = 0;
 
-    let sleepingMap = {};
+    let disabledMap = {};
 
-    async function loadSleeping() {
-      sleepingMap = await apiFetch('/sleeping').catch(() => ({}));
+    async function loadDisabled() {
+      disabledMap = await apiFetch('/disabled').catch(() => ({}));
     }
 
-    async function toggleSleep(name) {
-      if (sleepingMap[name]) {
-        await apiFetch('/sleeping/' + encodeURIComponent(name), {method: 'DELETE'});
-        showStatus(name + ' woken up', 'success');
-      } else {
-        await apiFetch('/sleeping/' + encodeURIComponent(name), {method: 'POST', body: JSON.stringify({reason: 'manually slept'})});
-        showStatus(name + ' put to sleep', 'info');
-      }
-      await loadSleeping();
-      loadSources();
+    async function toggleDisabled(name) {
+      const isDisabled = disabledMap[name];
+      try {
+        if (isDisabled) {
+          await apiFetch('/disabled/' + encodeURIComponent(name), {method: 'DELETE'});
+        } else {
+          await apiFetch('/disabled/' + encodeURIComponent(name), {method: 'POST'});
+        }
+        await loadDisabled();
+        loadSources();
+      } catch(e) { showStatus(e.message, 'error'); }
     }
 
     function getRegionPrefs() {
@@ -777,15 +867,16 @@
 
     function loadXmltvUrls() {
       const base = window.location.origin;
-      const tokenParam = token ? '?token=' + token : '';
       const el = document.getElementById('xmltv-full-url');
-      if (el) el.textContent = base + '/epg.xml' + tokenParam;
+      if (el) el.textContent = base + '/epg.xml?token=<your-token>';
     }
 
     function copyXmltvUrl(id) {
       navigator.clipboard.writeText(document.getElementById(id).textContent);
       showStatus('URL copied to clipboard', 'success');
     }
+
+    let changingPasswordUserId = null;
 
     async function loadUsers() {
       try {
@@ -796,8 +887,9 @@
             <td>${u.role}</td>
             <td><code style="font-size:11px;cursor:pointer;" onclick="navigator.clipboard.writeText('${u.token}');showStatus('Token copied','success')" title="Click to copy">${u.token.substring(0,16)}...</code></td>
             <td>${new Date(u.created_at).toLocaleDateString()}</td>
-            <td>
-              <button class="btn" style="background:#374151;color:#9ca3af;font-size:11px;padding:2px 8px;" onclick="navigator.clipboard.writeText('${u.token}');showStatus('Token copied','success')">Copy</button>
+            <td style="white-space:nowrap;">
+              <button class="btn" style="background:#374151;color:#9ca3af;font-size:11px;padding:2px 8px;" onclick="navigator.clipboard.writeText('${u.token}');showStatus('Token copied','success')">Copy Token</button>
+              <button class="btn" style="background:#374151;color:#9ca3af;font-size:11px;padding:2px 8px;" onclick="showChangePassword('${u.id}','${u.username}')">Password</button>
               <button class="btn btn-danger" style="font-size:11px;padding:2px 8px;" onclick="deleteUser('${u.id}')">Delete</button>
             </td>
           </tr>
@@ -805,19 +897,36 @@
       } catch(e) { console.error(e); }
     }
 
+    function showChangePassword(id, username) {
+      changingPasswordUserId = id;
+      document.getElementById('new-password').value = '';
+      const form = document.getElementById('change-password-form');
+      form.querySelector('h3').textContent = 'Change Password — ' + username;
+      form.style.display = 'block';
+      document.getElementById('new-password').focus();
+    }
+
+    function cancelChangePassword() {
+      changingPasswordUserId = null;
+      document.getElementById('change-password-form').style.display = 'none';
+    }
+
+    async function submitChangePassword() {
+      const password = document.getElementById('new-password').value;
+      if (!password) { showStatus('Password cannot be empty', 'error'); return; }
+      try {
+        await apiFetch('/users/' + changingPasswordUserId + '/password', {method:'PUT', body: JSON.stringify({password})});
+        showStatus('Password changed', 'success');
+        cancelChangePassword();
+      } catch(e) { showStatus(e.message, 'error'); }
+    }
+
     async function createUser() {
       const username = document.getElementById('user-username').value;
       const role = document.getElementById('user-role').value;
       try {
         const user = await apiFetch('/users', {method:'POST', body: JSON.stringify({username, role})});
-        if (!token) {
-          token = user.token;
-          localStorage.setItem('epg-token', token);
-          document.getElementById('token-input').value = token;
-          showStatus(`User created: ${user.username} — token auto-saved (first user)`, 'success');
-        } else {
-          showStatus(`User created: ${user.username}`, 'success');
-        }
+        showStatus(`User created: ${user.username} — token: ${user.token}`, 'success');
         document.getElementById('user-username').value = '';
         loadUsers();
       } catch(e) { showStatus(e.message, 'error'); }
@@ -832,11 +941,34 @@
     }
 
     async function refreshAll() {
-      await loadSleeping();
+      await loadDisabled();
       loadStats();
       loadSources();
       loadXmltvUrls();
     }
+
+    function fmtBytes(b) {
+      if (b >= 1073741824) return (b / 1073741824).toFixed(1) + ' GB';
+      if (b >= 1048576) return (b / 1048576).toFixed(1) + ' MB';
+      if (b >= 1024) return (b / 1024).toFixed(0) + ' KB';
+      return b + ' B';
+    }
+
+    async function pollBandwidth() {
+      try {
+        const bw = await apiFetch('/bandwidth');
+        const el = document.getElementById('bw-indicator');
+        const rate = bw.rate_bytes_per_sec || 0;
+        const total = bw.total_bytes || 0;
+        el.textContent = rate > 1024
+          ? `↓ ${fmtBytes(rate)}/s · ${fmtBytes(total)} total`
+          : `↓ — · ${fmtBytes(total)} total`;
+        el.className = rate > 1024 ? 'active' : '';
+      } catch {}
+    }
+
+    setInterval(pollBandwidth, 2000);
+    pollBandwidth();
 
     refreshAll();
   </script>

@@ -41,7 +41,7 @@ func (t *testProvider) Fetch(ch domain.Channel, date time.Time) ([]domain.Progra
 	}, nil
 }
 
-func setupTestServer() (*api.Server, *store.Store) {
+func setupTestServer() (*api.Server, *store.Store, string) {
 	plugin.Reset()
 	plugin.Register(&testProvider{})
 
@@ -66,15 +66,24 @@ func setupTestServer() (*api.Server, *store.Store) {
 	g := grabber.New(s, 1, 1)
 	ext := source.NewExternalSourceManager("")
 	users := auth.NewUserStore("")
-	sleeping := store.NewSleepingStore("")
-	srv := api.NewServer(s, g, ext, users, sleeping)
-	return srv, s
+
+	admin, _ := users.Create("admin", "admin")
+	sessionToken := users.CreateSession(admin.ID)
+
+	disabled := store.NewDisabledStore("")
+	srv := api.NewServer(s, g, ext, users, disabled)
+	return srv, s, sessionToken
+}
+
+func adminCookie(token string) *http.Cookie {
+	return &http.Cookie{Name: "epg_session", Value: token}
 }
 
 func TestListSources(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	req := httptest.NewRequest(http.MethodGet, "/api/v1/sources", nil)
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 
@@ -94,9 +103,10 @@ func TestListSources(t *testing.T) {
 }
 
 func TestListChannels(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	req := httptest.NewRequest(http.MethodGet, "/api/v1/channels", nil)
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 
@@ -113,9 +123,10 @@ func TestListChannels(t *testing.T) {
 }
 
 func TestListChannelsFiltered(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	req := httptest.NewRequest(http.MethodGet, "/api/v1/channels?source=nonexistent", nil)
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 
@@ -128,9 +139,10 @@ func TestListChannelsFiltered(t *testing.T) {
 }
 
 func TestGetChannel(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	req := httptest.NewRequest(http.MethodGet, "/api/v1/channels/ch1", nil)
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 
@@ -147,9 +159,10 @@ func TestGetChannel(t *testing.T) {
 }
 
 func TestGetChannelNotFound(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	req := httptest.NewRequest(http.MethodGet, "/api/v1/channels/nonexistent", nil)
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 
@@ -159,9 +172,10 @@ func TestGetChannelNotFound(t *testing.T) {
 }
 
 func TestListPrograms(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	req := httptest.NewRequest(http.MethodGet, "/api/v1/programs", nil)
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 
@@ -177,12 +191,33 @@ func TestListPrograms(t *testing.T) {
 	}
 }
 
+func TestReadAPIWithBearerToken(t *testing.T) {
+	srv, _, _ := setupTestServer()
+
+	// Token auth should work for read-only endpoints
+	users := auth.NewUserStore("")
+	apiUser, _ := users.Create("apiuser", "viewer")
+	srvToken := api.NewServer(store.New(""), grabber.New(store.New(""), 1, 1), source.NewExternalSourceManager(""), users, store.NewDisabledStore(""))
+
+	req := httptest.NewRequest(http.MethodGet, "/api/v1/sources", nil)
+	req.Header.Set("Authorization", "Bearer "+apiUser.Token)
+	w := httptest.NewRecorder()
+	srvToken.ServeHTTP(w, req)
+
+	if w.Code != http.StatusOK {
+		t.Fatalf("expected 200 with Bearer token on read endpoint, got %d", w.Code)
+	}
+
+	_ = srv
+}
+
 func TestTriggerGrab(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	body := bytes.NewBufferString(`{"source":"test-source"}`)
 	req := httptest.NewRequest(http.MethodPost, "/api/v1/grab", body)
 	req.Header.Set("Content-Type", "application/json")
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 
@@ -192,11 +227,12 @@ func TestTriggerGrab(t *testing.T) {
 }
 
 func TestTriggerGrabBadSource(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	body := bytes.NewBufferString(`{"source":"nonexistent"}`)
 	req := httptest.NewRequest(http.MethodPost, "/api/v1/grab", body)
 	req.Header.Set("Content-Type", "application/json")
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 
@@ -206,11 +242,12 @@ func TestTriggerGrabBadSource(t *testing.T) {
 }
 
 func TestTriggerGrabNoSource(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	body := bytes.NewBufferString(`{}`)
 	req := httptest.NewRequest(http.MethodPost, "/api/v1/grab", body)
 	req.Header.Set("Content-Type", "application/json")
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 
@@ -219,10 +256,25 @@ func TestTriggerGrabNoSource(t *testing.T) {
 	}
 }
 
+func TestTriggerGrabUnauthorized(t *testing.T) {
+	srv, _, _ := setupTestServer()
+
+	body := bytes.NewBufferString(`{"source":"test-source"}`)
+	req := httptest.NewRequest(http.MethodPost, "/api/v1/grab", body)
+	req.Header.Set("Content-Type", "application/json")
+	w := httptest.NewRecorder()
+	srv.ServeHTTP(w, req)
+
+	if w.Code != http.StatusUnauthorized {
+		t.Fatalf("expected 401 without session, got %d", w.Code)
+	}
+}
+
 func TestGetXMLTV(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	req := httptest.NewRequest(http.MethodGet, "/epg.xml", nil)
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 
@@ -242,9 +294,10 @@ func TestGetXMLTV(t *testing.T) {
 }
 
 func TestGetSourceXMLTV(t *testing.T) {
-	srv, _ := setupTestServer()
+	srv, _, session := setupTestServer()
 
 	req := httptest.NewRequest(http.MethodGet, "/epg/test-source.xml", nil)
+	req.AddCookie(adminCookie(session))
 	w := httptest.NewRecorder()
 	srv.ServeHTTP(w, req)
 

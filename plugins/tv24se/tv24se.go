@@ -16,6 +16,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -24,7 +25,7 @@ var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: httpclient.Browser(),
 	})
 }
 
@@ -58,12 +59,16 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from tv24se", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
 	}
 
-	items := Parse(body, day)
+	items := Parse(body, channel, day)
 
 	for i := range items {
 		detailURL := fmt.Sprintf("https://tv24.se/x%s/0/0", items[i].href)
@@ -107,6 +112,10 @@ func (p *provider) fetchDetails(url string) (*detailResponse, error) {
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from tv24se", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
@@ -139,7 +148,7 @@ type detailResponse struct {
 	ContentAfter  string `json:"contentAfter"`
 }
 
-func Parse(data []byte, date time.Time) []ProgramItem {
+func Parse(data []byte, channel domain.Channel, date time.Time) []ProgramItem {
 	content := string(data)
 	if strings.TrimSpace(content) == "" {
 		return nil

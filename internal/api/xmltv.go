@@ -37,7 +37,15 @@ func (s *Server) getSourceXMLTV(w http.ResponseWriter, r *http.Request) {
 }
 
 func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filter) {
-	channels := s.store.GetChannels(f)
+	disabled := s.disabled.List()
+
+	allChannels := s.store.GetChannels(f)
+	channels := allChannels[:0]
+	for _, ch := range allChannels {
+		if !disabled[ch.Source] {
+			channels = append(channels, ch)
+		}
+	}
 
 	programFilter := store.Filter{
 		Source:  f.Source,
@@ -46,7 +54,13 @@ func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filt
 		Date:    f.Date,
 	}
 
-	programs := s.store.GetPrograms(programFilter)
+	allPrograms := s.store.GetPrograms(programFilter)
+	programs := allPrograms[:0]
+	for _, p := range allPrograms {
+		if !disabled[p.Source] {
+			programs = append(programs, p)
+		}
+	}
 
 	data, err := xmltv.Generate(channels, programs)
 	if err != nil {

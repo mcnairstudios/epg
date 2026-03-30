@@ -14,6 +14,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
@@ -23,7 +24,7 @@ var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: httpclient.Browser(),
 	})
 }
 
@@ -64,6 +65,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from tvprofil", resp.StatusCode)
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

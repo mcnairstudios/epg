@@ -15,6 +15,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -32,7 +33,7 @@ var londonTZ = func() *time.Location {
 var seasonEpisodeRe = regexp.MustCompile(`Season (\d+), Episode (\d+)`)
 
 func init() {
-	plugin.Register(&provider{client: http.DefaultClient})
+	plugin.Register(&provider{client: httpclient.Browser()})
 }
 
 type provider struct {
@@ -98,6 +99,10 @@ func (p *provider) fetch(u string) ([]byte, error) {
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from mytelly", resp.StatusCode)
+	}
 
 	return io.ReadAll(resp.Body)
 }

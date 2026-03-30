@@ -14,6 +14,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -22,7 +23,7 @@ var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: httpclient.Browser(),
 		sleep:  time.Sleep,
 	})
 }
@@ -72,8 +73,8 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		Aid:                "orbebb",
 		DSTUTCOffset:       "-240",
 		STDUTCOffset:       "-300",
-		DSTStart:           "2025-03-09T02:00Z",
-		DSTEnd:             "2025-11-02T02:00Z",
+		DSTStart:           usDSTStart(date.Year()),
+		DSTEnd:             usDSTEnd(date.Year()),
 		LanguageCode:       "en-us",
 	}
 
@@ -122,7 +123,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		}
 
 		if resp.StatusCode != http.StatusOK {
-			return nil, nil
+			return nil, fmt.Errorf("HTTP %d from zap2it", resp.StatusCode)
 		}
 
 		break
@@ -218,4 +219,30 @@ type programInfo struct {
 
 type genre struct {
 	Name string `json:"name"`
+}
+
+
+// usDSTStart returns the US DST start date (second Sunday in March) for the given year.
+func usDSTStart(year int) string {
+	t := time.Date(year, time.March, 1, 2, 0, 0, 0, time.UTC)
+	sundays := 0
+	for {
+		if t.Weekday() == time.Sunday {
+			sundays++
+			if sundays == 2 {
+				break
+			}
+		}
+		t = t.AddDate(0, 0, 1)
+	}
+	return t.Format("2006-01-02T15:04Z")
+}
+
+// usDSTEnd returns the US DST end date (first Sunday in November) for the given year.
+func usDSTEnd(year int) string {
+	t := time.Date(year, time.November, 1, 2, 0, 0, 0, time.UTC)
+	for t.Weekday() != time.Sunday {
+		t = t.AddDate(0, 0, 1)
+	}
+	return t.Format("2006-01-02T15:04Z")
 }

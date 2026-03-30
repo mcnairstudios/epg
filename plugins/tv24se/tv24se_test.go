@@ -26,7 +26,7 @@ func TestParseContent(t *testing.T) {
 	}
 
 	date := time.Date(2022, 8, 26, 0, 0, 0, 0, time.UTC)
-	items := tv24se.Parse(data, date)
+	items := tv24se.Parse(data, domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 
 	if len(items) == 0 {
 		t.Fatal("expected at least one program")
@@ -140,7 +140,7 @@ func TestParseDetailsWithMetadata(t *testing.T) {
 
 func TestParseEmptyContent(t *testing.T) {
 	date := time.Date(2022, 8, 26, 0, 0, 0, 0, time.UTC)
-	items := tv24se.Parse([]byte(""), date)
+	items := tv24se.Parse([]byte(""), domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 	if len(items) != 0 {
 		t.Fatalf("expected 0 programs, got %d", len(items))
 	}

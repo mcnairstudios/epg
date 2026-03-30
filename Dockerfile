@@ -1,10 +1,9 @@
-FROM golang:1.24-alpine AS builder
+FROM golang:1.25.1-alpine AS builder
 
 WORKDIR /app
 COPY go.mod go.sum ./
-RUN go mod download
 COPY . .
-RUN CGO_ENABLED=0 GOOS=linux go build -o epg-server ./cmd/epg/
+RUN CGO_ENABLED=0 GOOS=linux go build -o epg-server ./cmd/epg/main.go
 
 FROM alpine:3.21
 RUN apk add --no-cache ca-certificates tzdata
@@ -16,4 +15,4 @@ EXPOSE 8080
 VOLUME ["/data"]
 
 ENTRYPOINT ["./epg-server"]
-CMD ["-addr", ":8080", "-data-dir", "/data"]
+CMD ["-addr", ":8080", "-data-dir", "/data", "-max-connections", "10", "-rolling", "-rolling-parallel", "10"]

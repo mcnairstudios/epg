@@ -11,6 +11,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -19,7 +20,7 @@ var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: httpclient.Browser(),
 	})
 }
 
@@ -40,7 +41,7 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	url := fmt.Sprintf(
-		"https://production-cdn.d3-rgr-diva.com/api/schedules?channels=%s&date=%s&duration=24&hour=0",
+		"https://production-cdn.sportsnet.ca/api/schedules?channels=%s&date=%s&duration=24&hour=0",
 		channel.SiteID, date.Format("2006-01-02"),
 	)
 
@@ -54,6 +55,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from sportsnetca", resp.StatusCode)
+	}
 
 	data, err := io.ReadAll(resp.Body)
 	if err != nil {

@@ -7,6 +7,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/plugins/tvsmscz"
 )
 
@@ -21,8 +22,9 @@ func TestParseContent(t *testing.T) {
 		t.Fatalf("failed to read test data: %v", err)
 	}
 
+	ch := domain.Channel{XmltvID: "Test.cz", Lang: "cs", SiteID: "ct1"}
 	date := time.Date(2023, 6, 11, 0, 0, 0, 0, time.UTC)
-	programs, err := tvsmscz.Parse(data, date)
+	programs, err := tvsmscz.Parse(data, ch, date)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -47,8 +49,10 @@ func TestParseContent(t *testing.T) {
 }
 
 func TestParseEmptyContent(t *testing.T) {
+	ch := domain.Channel{XmltvID: "Test.cz", Lang: "cs", SiteID: "ct1"}
 	programs, err := tvsmscz.Parse(
 		[]byte("<!DOCTYPE html><html><head></head><body></body></html>"),
+		ch,
 		time.Date(2023, 6, 11, 0, 0, 0, 0, time.UTC),
 	)
 	if err != nil {

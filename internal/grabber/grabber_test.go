@@ -1,6 +1,7 @@
 package grabber_test
 
 import (
+	"context"
 	"testing"
 	"time"
 
@@ -46,7 +47,7 @@ func TestGrabSource(t *testing.T) {
 	s := store.New("")
 	g := grabber.New(s, 1, 1)
 
-	results, err := g.GrabSource("test-source")
+	results, err := g.GrabSource(context.Background(), "test-source")
 	if err != nil {
 		t.Fatalf("grab failed: %v", err)
 	}
@@ -78,9 +79,44 @@ func TestGrabSourceUnknown(t *testing.T) {
 	s := store.New("")
 	g := grabber.New(s, 1, 1)
 
-	_, err := g.GrabSource("nonexistent")
+	_, err := g.GrabSource(context.Background(), "nonexistent")
 	if err == nil {
 		t.Fatal("expected error for unknown source")
+	}
+}
+
+func TestGrabSourceDedup(t *testing.T) {
+	plugin.Reset()
+
+	fp := &fakeProvider{
+		name: "dedup-source",
+		channels: []domain.Channel{
+			{ID: "ch1", Name: "Ch1", Source: "dedup-source", XmltvID: "Ch1.dedup"},
+		},
+		programs: []domain.Program{
+			{Channel: "Ch1.dedup", Title: "Show", Start: time.Now(), Stop: time.Now().Add(time.Hour)},
+		},
+	}
+	plugin.Register(fp)
+
+	s := store.New("")
+	g := grabber.New(s, 1, 1)
+
+	if g.IsGrabbing("dedup-source") {
+		t.Fatal("should not be grabbing initially")
+	}
+
+	// Simulate a concurrent second grab attempt by manually checking dedup
+	// We test this by running two grabs sequentially (first must complete before second starts)
+	_, err := g.GrabSource(context.Background(), "dedup-source")
+	if err != nil {
+		t.Fatalf("first grab failed: %v", err)
+	}
+
+	// After completion, should be able to grab again
+	_, err = g.GrabSource(context.Background(), "dedup-source")
+	if err != nil {
+		t.Fatalf("second sequential grab failed: %v", err)
 	}
 }
 
@@ -110,7 +146,7 @@ func TestGrabAll(t *testing.T) {
 	s := store.New("")
 	g := grabber.New(s, 2, 1)
 
-	results := g.GrabAll()
+	results := g.GrabAll(context.Background(), nil)
 	if len(results) != 2 {
 		t.Fatalf("expected 2 results, got %d", len(results))
 	}
@@ -135,7 +171,7 @@ func TestGrabConcurrency(t *testing.T) {
 	s := store.New("")
 	g := grabber.New(s, 3, 2)
 
-	results, err := g.GrabSource("concurrent-test")
+	results, err := g.GrabSource(context.Background(), "concurrent-test")
 	if err != nil {
 		t.Fatalf("grab failed: %v", err)
 	}

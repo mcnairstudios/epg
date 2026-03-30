@@ -7,6 +7,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/plugins/tvkaista"
 )
 
@@ -22,7 +23,7 @@ func TestParseContent1(t *testing.T) {
 	}
 
 	date := time.Date(2025, 3, 1, 0, 0, 0, 0, time.UTC)
-	programs, err := tvkaista.Parse(data, date)
+	programs, err := tvkaista.Parse(data, domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -66,7 +67,7 @@ func TestParseContent2(t *testing.T) {
 	}
 
 	date := time.Date(2025, 3, 3, 0, 0, 0, 0, time.UTC)
-	programs, err := tvkaista.Parse(data, date)
+	programs, err := tvkaista.Parse(data, domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -89,7 +90,7 @@ func TestParseEmptyContent(t *testing.T) {
 	}
 
 	date := time.Date(2025, 3, 1, 0, 0, 0, 0, time.UTC)
-	programs, err := tvkaista.Parse(data, date)
+	programs, err := tvkaista.Parse(data, domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}

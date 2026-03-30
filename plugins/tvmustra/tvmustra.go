@@ -12,6 +12,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
@@ -27,7 +28,7 @@ func init() {
 	if err != nil {
 		panic(err)
 	}
-	plugin.Register(&provider{client: http.DefaultClient})
+	plugin.Register(&provider{client: httpclient.Browser()})
 }
 
 type provider struct {
@@ -59,15 +60,19 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from tvmustra", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
 	}
 
-	return Parse(body, date)
+	return Parse(body, channel, date)
 }
 
-func Parse(data []byte, date time.Time) ([]domain.Program, error) {
+func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	doc, err := html.Parse(bytes.NewReader(data))
 	if err != nil {
 		return []domain.Program{}, nil
@@ -103,10 +108,12 @@ func Parse(data []byte, date time.Time) ([]domain.Program, error) {
 		stop := start.Add(30 * time.Minute)
 
 		programs = append(programs, domain.Program{
-			Source: "tvmustra.hu",
-			Title:  title,
-			Start:  start,
-			Stop:   stop,
+			Channel: channel.XmltvID,
+			Lang:    channel.Lang,
+			Source:  "tvmustra.hu",
+			Title:   title,
+			Start:   start,
+			Stop:    stop,
 		})
 	}
 

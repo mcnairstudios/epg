@@ -11,6 +11,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -19,7 +20,7 @@ var channelsData []byte
 
 func init() {
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: httpclient.Browser(),
 	})
 }
 
@@ -39,7 +40,9 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	url := fmt.Sprintf("https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get?channel_id=%s&offset=0", channel.SiteID)
+	today := time.Now().UTC().Truncate(24 * time.Hour)
+	offset := int(date.UTC().Truncate(24*time.Hour).Sub(today).Hours() / 24)
+	url := fmt.Sprintf("https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get?channel_id=%s&offset=%d", channel.SiteID, offset)
 
 	req, err := http.NewRequest(http.MethodGet, url, nil)
 	if err != nil {
@@ -51,6 +54,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from jiotv", resp.StatusCode)
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

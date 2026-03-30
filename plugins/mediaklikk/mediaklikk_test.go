@@ -6,8 +6,11 @@ import (
 	"runtime"
 	"testing"
 
+	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/plugins/mediaklikk"
 )
+
+var testChannel = domain.Channel{XmltvID: "M1.hu", Lang: "hu", SiteID: "1"}
 
 func testdataPath(name string) string {
 	_, filename, _, _ := runtime.Caller(0)
@@ -20,7 +23,7 @@ func TestParseContent(t *testing.T) {
 		t.Fatalf("failed to read test data: %v", err)
 	}
 
-	programs, err := mediaklikk.Parse(data)
+	programs, err := mediaklikk.Parse(data, testChannel)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -49,7 +52,7 @@ func TestParseContent(t *testing.T) {
 }
 
 func TestParseEmptyContent(t *testing.T) {
-	programs, err := mediaklikk.Parse([]byte("<!DOCTYPE html><html><head></head><body></body></html>"))
+	programs, err := mediaklikk.Parse([]byte("<!DOCTYPE html><html><head></head><body></body></html>"), testChannel)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -59,7 +62,7 @@ func TestParseEmptyContent(t *testing.T) {
 }
 
 func TestParseInvalidHTML(t *testing.T) {
-	programs, err := mediaklikk.Parse([]byte(""))
+	programs, err := mediaklikk.Parse([]byte(""), testChannel)
 	if err != nil {
 		t.Fatalf("unexpected error: %v", err)
 	}

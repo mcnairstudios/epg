@@ -1,13 +1,16 @@
 package main
 
 import (
+	"context"
 	"flag"
 	"log"
 	"net/http"
 	"os"
 	"os/signal"
 	"path/filepath"
+	"sync"
 	"syscall"
+	"time"
 
 	"github.com/gavinmcnair/epg/internal/api"
 	"github.com/gavinmcnair/epg/internal/auth"
@@ -286,9 +289,9 @@ func main() {
 		log.Printf("seeded %d external sources", added)
 	}
 
-	sleeping := store.NewSleepingStore(filepath.Join(*dataDir, "sleeping.gob"))
-	if err := sleeping.Load(); err != nil {
-		log.Printf("warning: failed to load sleeping sources: %v", err)
+	disabled := store.NewDisabledStore(filepath.Join(*dataDir, "disabled.gob"))
+	if err := disabled.Load(); err != nil {
+		log.Printf("warning: failed to load disabled sources: %v", err)
 	}
 
 	users := auth.NewUserStore(filepath.Join(*dataDir, "users.gob"))
@@ -296,36 +299,77 @@ func main() {
 		log.Printf("warning: failed to load users: %v", err)
 	}
 
-	g := grabber.New(s, *maxConn, *days)
-	srv := api.NewServer(s, g, ext, users, sleeping)
+	if !users.HasAdminWithPassword() {
+		if err := users.EnsureAdmin("admin", "admin"); err != nil {
+			log.Printf("warning: failed to create admin user: %v", err)
+		} else {
+			if err := users.Save(); err != nil {
+				log.Printf("warning: failed to save admin user: %v", err)
+			}
+			log.Printf("default admin credentials: admin / admin")
+		}
+	}
 
+	g := grabber.New(s, *maxConn, *days)
+	srv := api.NewServer(s, g, ext, users, disabled)
+
+	var sched *scheduler.Scheduler
 	if *schedule != "" {
-		sched := scheduler.New(g, s)
+		sched = scheduler.New(g, s, disabled)
 		if err := sched.Start(*schedule); err != nil {
 			log.Fatalf("failed to start scheduler: %v", err)
 		}
-		defer sched.Stop()
 	}
 
+	var rg *scheduler.RollingGrabber
 	if *rolling {
-		rg := scheduler.NewRollingGrabber(g, s, *rollingParallel)
+		rg = scheduler.NewRollingGrabber(g, s, *rollingParallel)
 		rg.Start()
-		defer rg.Stop()
 	}
 
+	server := &http.Server{
+		Addr:    *addr,
+		Handler: srv,
+	}
+
+	sigCh := make(chan os.Signal, 1)
+	signal.Notify(sigCh, syscall.SIGINT, syscall.SIGTERM)
 	go func() {
-		sigCh := make(chan os.Signal, 1)
-		signal.Notify(sigCh, syscall.SIGINT, syscall.SIGTERM)
 		<-sigCh
-		log.Println("shutting down, saving data...")
-		s.Save()
-		ext.Save()
-		users.Save()
-		os.Exit(0)
+		log.Println("signal received, shutting down...")
+		shutdownCtx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+		defer cancel()
+		server.Shutdown(shutdownCtx)
 	}()
 
 	log.Printf("starting EPG server on %s", *addr)
-	if err := http.ListenAndServe(*addr, srv); err != nil {
+	if err := server.ListenAndServe(); err != nil && err != http.ErrServerClosed {
 		log.Fatal(err)
 	}
+
+	var drainWg sync.WaitGroup
+	if sched != nil {
+		drainWg.Add(1)
+		go func() { defer drainWg.Done(); sched.Stop() }()
+	}
+	if rg != nil {
+		drainWg.Add(1)
+		go func() { defer drainWg.Done(); rg.Stop() }()
+	}
+	drainWg.Wait()
+
+	s.Close()
+
+	log.Println("saving data...")
+	s.Save()
+	if err := ext.Save(); err != nil {
+		log.Printf("warning: failed to save external sources: %v", err)
+	}
+	if err := users.Save(); err != nil {
+		log.Printf("warning: failed to save users: %v", err)
+	}
+	if err := disabled.Save(); err != nil {
+		log.Printf("warning: failed to save disabled sources: %v", err)
+	}
+	log.Println("shutdown complete")
 }

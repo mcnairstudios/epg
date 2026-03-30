@@ -2,6 +2,7 @@ package source
 
 import (
 	"compress/gzip"
+	"context"
 	"encoding/gob"
 	"fmt"
 	"io"
@@ -50,7 +51,7 @@ func (m *ExternalSourceManager) Add(name, url string) error {
 	}
 
 	sourceType := "xmltv"
-	if strings.HasSuffix(url, ".gz") {
+	if strings.HasSuffix(url, ".gz") || strings.HasSuffix(strings.TrimPrefix(url, "file://"), ".gz") {
 		sourceType = "xmltv-gz"
 	}
 
@@ -92,7 +93,7 @@ func (m *ExternalSourceManager) Get(name string) (ExternalSource, bool) {
 	return s, ok
 }
 
-func (m *ExternalSourceManager) Fetch(name string) ([]domain.Channel, []domain.Program, error) {
+func (m *ExternalSourceManager) Fetch(ctx context.Context, name string) ([]domain.Channel, []domain.Program, error) {
 	m.mu.RLock()
 	src, ok := m.sources[name]
 	m.mu.RUnlock()
@@ -101,25 +102,9 @@ func (m *ExternalSourceManager) Fetch(name string) ([]domain.Channel, []domain.P
 		return nil, nil, fmt.Errorf("source not found: %s", name)
 	}
 
-	resp, err := m.client.Get(src.URL)
+	data, err := m.fetchRaw(ctx, src)
 	if err != nil {
-		return nil, nil, fmt.Errorf("failed to fetch %s: %w", src.URL, err)
-	}
-	defer resp.Body.Close()
-
-	var reader io.Reader = resp.Body
-	if src.Type == "xmltv-gz" || strings.HasSuffix(src.URL, ".gz") {
-		gzReader, err := gzip.NewReader(resp.Body)
-		if err != nil {
-			return nil, nil, fmt.Errorf("failed to decompress gzip: %w", err)
-		}
-		defer gzReader.Close()
-		reader = gzReader
-	}
-
-	data, err := io.ReadAll(reader)
-	if err != nil {
-		return nil, nil, fmt.Errorf("failed to read response: %w", err)
+		return nil, nil, err
 	}
 
 	channels, programs, err := xmltv.Parse(data, name)
@@ -128,6 +113,54 @@ func (m *ExternalSourceManager) Fetch(name string) ([]domain.Channel, []domain.P
 	}
 
 	return channels, programs, nil
+}
+
+func (m *ExternalSourceManager) fetchRaw(ctx context.Context, src ExternalSource) ([]byte, error) {
+	localPath := ""
+	if strings.HasPrefix(src.URL, "file://") {
+		localPath = strings.TrimPrefix(src.URL, "file://")
+	} else if strings.HasPrefix(src.URL, "/") || (len(src.URL) > 2 && src.URL[1] == ':') {
+		localPath = src.URL
+	}
+
+	var reader io.Reader
+	if localPath != "" {
+		f, err := os.Open(localPath)
+		if err != nil {
+			return nil, fmt.Errorf("failed to open file %s: %w", localPath, err)
+		}
+		defer f.Close()
+		reader = f
+	} else {
+		req, err := http.NewRequestWithContext(ctx, http.MethodGet, src.URL, nil)
+		if err != nil {
+			return nil, fmt.Errorf("failed to build request for %s: %w", src.URL, err)
+		}
+		resp, err := m.client.Do(req)
+		if err != nil {
+			return nil, fmt.Errorf("failed to fetch %s: %w", src.URL, err)
+		}
+		defer resp.Body.Close()
+		if resp.StatusCode >= 400 {
+			return nil, fmt.Errorf("HTTP %d fetching %s", resp.StatusCode, src.URL)
+		}
+		reader = resp.Body
+	}
+
+	if src.Type == "xmltv-gz" || strings.HasSuffix(src.URL, ".gz") {
+		gzReader, err := gzip.NewReader(reader)
+		if err != nil {
+			return nil, fmt.Errorf("failed to decompress gzip: %w", err)
+		}
+		defer gzReader.Close()
+		reader = gzReader
+	}
+
+	data, err := io.ReadAll(reader)
+	if err != nil {
+		return nil, fmt.Errorf("failed to read data: %w", err)
+	}
+	return data, nil
 }
 
 func (m *ExternalSourceManager) Save() error {

@@ -12,6 +12,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -25,7 +26,7 @@ const (
 )
 
 func init() {
-	plugin.Register(&provider{client: http.DefaultClient})
+	plugin.Register(&provider{client: httpclient.Browser()})
 }
 
 type provider struct {
@@ -102,6 +103,10 @@ func (p *provider) fetchSegment(url string, siteID string) ([]Event, error) {
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from telenet", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
@@ -126,6 +131,10 @@ func (p *provider) fetchDetail(eventID string, lang string) *ProgramDetail {
 		return nil
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

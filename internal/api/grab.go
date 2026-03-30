@@ -29,7 +29,7 @@ func (s *Server) triggerGrab(w http.ResponseWriter, r *http.Request) {
 	}
 
 	start := time.Now()
-	results, err := s.grabber.GrabSource(req.Source)
+	results, err := s.grabber.GrabSource(r.Context(), req.Source)
 	duration := time.Since(start)
 
 	if err != nil {
@@ -39,17 +39,21 @@ func (s *Server) triggerGrab(w http.ResponseWriter, r *http.Request) {
 
 	resp := grabResponse{Source: req.Source}
 	channelSet := make(map[string]bool)
+	totalChannelSet := make(map[string]bool)
 	for _, result := range results {
 		resp.Results += result.Count
 		if result.Err != nil {
 			resp.Errors++
+		}
+		if result.Channel.ID != "" {
+			totalChannelSet[result.Channel.ID] = true
 		}
 		if result.Count > 0 {
 			channelSet[result.Channel.ID] = true
 		}
 	}
 
-	s.store.RecordGrabStats(req.Source, len(channelSet), resp.Results, resp.Errors, duration)
+	s.store.RecordGrabStats(req.Source, len(totalChannelSet), len(channelSet), resp.Results, resp.Errors, duration)
 
 	if err := s.store.SaveSource(req.Source); err != nil {
 		http.Error(w, `{"error":"failed to persist data"}`, http.StatusInternalServerError)
@@ -67,10 +71,11 @@ type grabAllResponse struct {
 }
 
 func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
-	results := s.grabber.GrabAll()
+	results := s.grabber.GrabAll(r.Context(), s.disabled.List())
 
 	sourceResults := make(map[string]*grabResponse)
 	sourceChannelSets := make(map[string]map[string]bool)
+	sourceTotalChannelSets := make(map[string]map[string]bool)
 	sourceTimes := make(map[string]time.Time)
 
 	for _, result := range results {
@@ -79,11 +84,15 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 			sr = &grabResponse{Source: result.Source}
 			sourceResults[result.Source] = sr
 			sourceChannelSets[result.Source] = make(map[string]bool)
+			sourceTotalChannelSets[result.Source] = make(map[string]bool)
 			sourceTimes[result.Source] = time.Now()
 		}
 		sr.Results += result.Count
 		if result.Err != nil {
 			sr.Errors++
+		}
+		if result.Channel.ID != "" {
+			sourceTotalChannelSets[result.Source][result.Channel.ID] = true
 		}
 		if result.Count > 0 {
 			sourceChannelSets[result.Source][result.Channel.ID] = true
@@ -95,7 +104,7 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 		resp.Sources = append(resp.Sources, *sr)
 		resp.Total += sr.Results
 		resp.Errors += sr.Errors
-		s.store.RecordGrabStats(name, len(sourceChannelSets[name]), sr.Results, sr.Errors, time.Since(sourceTimes[name]))
+		s.store.RecordGrabStats(name, len(sourceTotalChannelSets[name]), len(sourceChannelSets[name]), sr.Results, sr.Errors, time.Since(sourceTimes[name]))
 	}
 
 	s.store.Save()
@@ -105,4 +114,8 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 
 func (s *Server) getGrabStats(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(s.store.GetGrabStats())
+}
+
+func (s *Server) getGrabProgress(w http.ResponseWriter, r *http.Request) {
+	json.NewEncoder(w).Encode(s.grabber.Progress().All())
 }

@@ -3,6 +3,7 @@ package pbsguam
 import (
 	"crypto/tls"
 	"encoding/json"
+	"fmt"
 	"io"
 	"net/http"
 	"regexp"
@@ -55,6 +56,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from pbsguam", resp.StatusCode)
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

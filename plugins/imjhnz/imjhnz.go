@@ -11,6 +11,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"github.com/gavinmcnair/epg/internal/xmltv"
 )
@@ -21,7 +22,7 @@ const apiEndpoint = "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/mast
 var channelsData []byte
 
 func init() {
-	plugin.Register(&provider{client: http.DefaultClient})
+	plugin.Register(&provider{client: httpclient.Browser()})
 }
 
 type provider struct {
@@ -56,6 +57,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from imjhnz", resp.StatusCode)
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

@@ -2,6 +2,7 @@ package api
 
 import (
 	"encoding/json"
+	"log"
 	"net/http"
 	"time"
 
@@ -15,9 +16,25 @@ type addSourceRequest struct {
 	URL  string `json:"url"`
 }
 
+type externalSourceResponse struct {
+	Name     string `json:"name"`
+	URL      string `json:"url"`
+	Type     string `json:"type"`
+	Disabled bool   `json:"disabled"`
+}
+
 func (s *Server) listExternalSources(w http.ResponseWriter, r *http.Request) {
 	sources := s.externalSources.List()
-	json.NewEncoder(w).Encode(sources)
+	result := make([]externalSourceResponse, 0, len(sources))
+	for _, src := range sources {
+		result = append(result, externalSourceResponse{
+			Name:     src.Name,
+			URL:      src.URL,
+			Type:     src.Type,
+			Disabled: s.disabled.IsDisabled(src.Name),
+		})
+	}
+	json.NewEncoder(w).Encode(result)
 }
 
 func (s *Server) addExternalSource(w http.ResponseWriter, r *http.Request) {
@@ -66,15 +83,21 @@ func (s *Server) grabExternalSource(w http.ResponseWriter, r *http.Request) {
 	name := chi.URLParam(r, "name")
 
 	start := time.Now()
-	channels, programs, err := s.externalSources.Fetch(name)
+	channels, programs, err := s.externalSources.Fetch(r.Context(), name)
 	duration := time.Since(start)
 
 	if err != nil {
-		http.Error(w, `{"error":"`+err.Error()+`"}`, http.StatusBadRequest)
+		log.Printf("external grab %s failed: %v", name, err)
+		w.Header().Set("Content-Type", "application/json")
+		w.WriteHeader(http.StatusBadRequest)
+		json.NewEncoder(w).Encode(map[string]string{"error": err.Error()})
 		return
 	}
 
 	s.store.SetChannels(channels)
+
+	prog := s.grabber.Progress()
+	prog.Start(name, len(channels))
 
 	channelsWithData := 0
 	for _, ch := range channels {
@@ -85,13 +108,16 @@ func (s *Server) grabExternalSource(w http.ResponseWriter, r *http.Request) {
 				chPrograms = append(chPrograms, p)
 			}
 		}
-		if len(chPrograms) > 0 {
+		hasData := len(chPrograms) > 0
+		if hasData {
 			s.store.SetPrograms(ch.ID, chPrograms)
 			channelsWithData++
 		}
+		prog.Record(name, !hasData)
 	}
 
-	s.store.RecordGrabStats(name, channelsWithData, len(programs), 0, duration)
+	prog.Finish(name)
+	s.store.RecordGrabStats(name, len(channels), channelsWithData, len(programs), 0, duration)
 
 	if err := s.store.SaveSource(name); err != nil {
 		http.Error(w, `{"error":"failed to persist data"}`, http.StatusInternalServerError)

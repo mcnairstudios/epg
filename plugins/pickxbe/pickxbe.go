@@ -12,6 +12,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -19,7 +20,7 @@ import (
 var channelsData []byte
 
 func init() {
-	plugin.Register(&provider{client: http.DefaultClient})
+	plugin.Register(&provider{client: httpclient.Browser()})
 }
 
 type provider struct {
@@ -33,7 +34,7 @@ type httpClient interface {
 func (p *provider) Name() string        { return "pickx.be" }
 func (p *provider) Description() string { return "Proximus Pickx Belgium EPG" }
 
-const posterBaseURL = "https://experience-cache.proximustv.be/posterserver/poster/EPG/"
+const posterBaseURL = "https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/"
 
 func (p *provider) Channels() ([]domain.Channel, error) {
 	return channels.Load(channelsData, "pickx.be")
@@ -57,6 +58,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from pickxbe", resp.StatusCode)
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

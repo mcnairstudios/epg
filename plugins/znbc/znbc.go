@@ -12,6 +12,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
@@ -20,7 +21,7 @@ import (
 var channelsData []byte
 
 func init() {
-	plugin.Register(&provider{client: http.DefaultClient})
+	plugin.Register(&provider{client: httpclient.InsecureBrowser()})
 }
 
 type provider struct {
@@ -39,7 +40,7 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	url := fmt.Sprintf("https://www.znbc.co.zm/%s/", channel.SiteID)
+	url := fmt.Sprintf("https://znbc.co.zm/%s/", channel.SiteID)
 
 	req, err := http.NewRequest(http.MethodGet, url, nil)
 	if err != nil {

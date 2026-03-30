@@ -7,6 +7,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/plugins/tvmustra"
 )
 
@@ -22,7 +23,7 @@ func TestParseContent(t *testing.T) {
 	}
 
 	date := time.Date(2025, 1, 17, 0, 0, 0, 0, time.UTC)
-	programs, err := tvmustra.Parse(data, date)
+	programs, err := tvmustra.Parse(data, domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -56,6 +57,7 @@ func TestParseContent(t *testing.T) {
 func TestParseEmptyContent(t *testing.T) {
 	programs, err := tvmustra.Parse(
 		[]byte(""),
+		domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"},
 		time.Date(2025, 1, 17, 0, 0, 0, 0, time.UTC),
 	)
 	if err != nil {

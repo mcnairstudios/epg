@@ -12,6 +12,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -23,7 +24,7 @@ var montevideo *time.Location
 func init() {
 	montevideo, _ = time.LoadLocation("America/Montevideo")
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: httpclient.Browser(),
 	})
 }
 
@@ -69,6 +70,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from anteltv", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
@@ -90,6 +95,10 @@ func (p *provider) loadSession() (*sessionResponse, error) {
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from anteltv", resp.StatusCode)
+	}
 
 	var session sessionResponse
 	if err := json.NewDecoder(resp.Body).Decode(&session); err != nil {

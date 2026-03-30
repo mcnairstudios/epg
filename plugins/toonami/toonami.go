@@ -66,6 +66,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from toonami", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err

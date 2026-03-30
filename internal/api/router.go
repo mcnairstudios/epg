@@ -18,17 +18,17 @@ type Server struct {
 	grabber         *grabber.Grabber
 	externalSources *source.ExternalSourceManager
 	users           *auth.UserStore
-	sleeping        *store.SleepingStore
+	disabled        *store.DisabledStore
 	router          chi.Router
 }
 
-func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, sleeping *store.SleepingStore) *Server {
+func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, disabled *store.DisabledStore) *Server {
 	srv := &Server{
 		store:           s,
 		grabber:         g,
 		externalSources: ext,
 		users:           users,
-		sleeping:        sleeping,
+		disabled:        disabled,
 		router:          chi.NewRouter(),
 	}
 
@@ -42,34 +42,50 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 
 	srv.router.Get("/api/openapi.yaml", serveOpenAPI)
 
+	srv.router.Get("/login", srv.loginPage)
+	srv.router.Post("/login", srv.login)
+	srv.router.Post("/logout", srv.logout)
+
+	// Read-only API: token (Bearer or ?token=) or admin session cookie
 	srv.router.Route("/api/v1", func(r chi.Router) {
-		r.Use(users.Middleware)
 		r.Use(middleware.SetHeader("Content-Type", "application/json"))
 
-		r.Get("/sources", srv.listSources)
-		r.Get("/channels", srv.listChannels)
-		r.Get("/channels/{id}", srv.getChannel)
-		r.Get("/regions", srv.listRegions)
-		r.Get("/programs", srv.listPrograms)
-		r.Get("/stats", srv.getStats)
-		r.Get("/grab-stats", srv.getGrabStats)
-		r.Post("/grab", srv.triggerGrab)
-		r.Post("/grab-all", srv.triggerGrabAll)
+		r.Group(func(r chi.Router) {
+			r.Use(users.Middleware)
+			r.Get("/sources", srv.listSources)
+			r.Get("/channels", srv.listChannels)
+			r.Get("/channels/{id}", srv.getChannel)
+			r.Get("/regions", srv.listRegions)
+			r.Get("/programs", srv.listPrograms)
+			r.Get("/stats", srv.getStats)
+			r.Get("/grab-stats", srv.getGrabStats)
+			r.Get("/grab-progress", srv.getGrabProgress)
+			r.Get("/bandwidth", srv.getBandwidth)
+		})
 
-		r.Get("/external-sources", srv.listExternalSources)
-		r.Post("/external-sources", srv.addExternalSource)
-		r.Delete("/external-sources/{name}", srv.removeExternalSource)
-		r.Post("/external-sources/{name}/grab", srv.grabExternalSource)
+		// Admin-only: session cookie required
+		r.Group(func(r chi.Router) {
+			r.Use(users.AdminAPIMiddleware)
+			r.Post("/grab", srv.triggerGrab)
+			r.Post("/grab-all", srv.triggerGrabAll)
 
-		r.Get("/sleeping", srv.listSleeping)
-		r.Post("/sleeping/{name}", srv.sleepSource)
-		r.Delete("/sleeping/{name}", srv.wakeSource)
+			r.Get("/external-sources", srv.listExternalSources)
+			r.Post("/external-sources", srv.addExternalSource)
+			r.Delete("/external-sources/{name}", srv.removeExternalSource)
+			r.Post("/external-sources/{name}/grab", srv.grabExternalSource)
 
-		r.Get("/users", srv.listUsers)
-		r.Post("/users", srv.createUser)
-		r.Delete("/users/{id}", srv.deleteUser)
+			r.Get("/disabled", srv.listDisabled)
+			r.Post("/disabled/{name}", srv.disableSource)
+			r.Delete("/disabled/{name}", srv.enableSource)
+
+			r.Get("/users", srv.listUsers)
+			r.Post("/users", srv.createUser)
+			r.Put("/users/{id}/password", srv.changePassword)
+			r.Delete("/users/{id}", srv.deleteUser)
+		})
 	})
 
+	// XMLTV: token or admin session cookie
 	srv.router.Group(func(r chi.Router) {
 		r.Use(users.Middleware)
 		r.Use(middleware.SetHeader("Content-Type", "application/xml"))
@@ -77,7 +93,11 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		r.Get("/epg/*", srv.getSourceXMLTV)
 	})
 
-	srv.router.Handle("/*", ui.Handler())
+	// Admin UI: session cookie required
+	srv.router.Group(func(r chi.Router) {
+		r.Use(users.AdminMiddleware)
+		r.Handle("/*", ui.Handler())
+	})
 
 	return srv
 }

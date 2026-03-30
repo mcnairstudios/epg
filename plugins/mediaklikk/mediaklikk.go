@@ -14,6 +14,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
 )
@@ -22,7 +23,7 @@ import (
 var channelsData []byte
 
 func init() {
-	plugin.Register(&provider{client: http.DefaultClient})
+	plugin.Register(&provider{client: httpclient.Browser()})
 }
 
 type provider struct {
@@ -59,17 +60,21 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from mediaklikk", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
 	}
 
-	return Parse(body)
+	return Parse(body, channel)
 }
 
 var bgImageRe = regexp.MustCompile(`url\('([^']+)'\)`)
 
-func Parse(data []byte) ([]domain.Program, error) {
+func Parse(data []byte, channel domain.Channel) ([]domain.Program, error) {
 	doc, err := html.Parse(bytes.NewReader(data))
 	if err != nil {
 		return []domain.Program{}, nil
@@ -97,11 +102,12 @@ func Parse(data []byte) ([]domain.Program, error) {
 		image := extractImage(item)
 
 		programs = append(programs, domain.Program{
-			Channel:     "",
+			Channel:     channel.XmltvID,
 			Source:      "mediaklikk.hu",
 			Title:       title,
 			Description: desc,
 			Image:       image,
+			Lang:        channel.Lang,
 			Start:       start.UTC(),
 			Stop:        stop.UTC(),
 		})

@@ -111,7 +111,7 @@ func TestSaveAndLoadPerSource(t *testing.T) {
 	s.SetPrograms("ch1", []domain.Program{
 		{Channel: "ch1", Source: "test-source", Title: "Test Show", Start: now, Stop: now.Add(time.Hour)},
 	})
-	s.RecordGrabStats("test-source", 1, 1, 0, time.Second)
+	s.RecordGrabStats("test-source", 1, 1, 1, 0, time.Second)
 
 	if err := s.SaveSource("test-source"); err != nil {
 		t.Fatalf("save failed: %v", err)
@@ -130,6 +130,70 @@ func TestSaveAndLoadPerSource(t *testing.T) {
 	stats := s2.GetGrabStats()
 	if len(stats) != 1 {
 		t.Fatalf("expected 1 grab stat after load, got %d", len(stats))
+	}
+}
+
+func TestLazyLoadOnAccess(t *testing.T) {
+	dir := t.TempDir()
+
+	s := store.New(dir)
+	now := time.Date(2026, 3, 27, 10, 0, 0, 0, time.UTC)
+	s.SetPrograms("ch1", []domain.Program{
+		{Channel: "ch1", Source: "lazy-source", Title: "Show", Start: now, Stop: now.Add(time.Hour)},
+	})
+	s.RecordGrabStats("lazy-source", 1, 1, 1, 0, time.Second)
+	if err := s.SaveSource("lazy-source"); err != nil {
+		t.Fatalf("save failed: %v", err)
+	}
+
+	s2 := store.New(dir)
+	if err := s2.Load(); err != nil {
+		t.Fatalf("load failed: %v", err)
+	}
+
+	// After Load, stats should be available but programs not yet in memory
+	if s2.ProgramCount() != 1 {
+		t.Fatalf("expected ProgramCount 1 from grabStats, got %d", s2.ProgramCount())
+	}
+
+	// Accessing programs triggers lazy load
+	programs := s2.GetPrograms(store.Filter{Source: "lazy-source"})
+	if len(programs) != 1 {
+		t.Fatalf("expected 1 program after lazy load, got %d", len(programs))
+	}
+}
+
+func TestEviction(t *testing.T) {
+	dir := t.TempDir()
+
+	s := store.New(dir)
+	s.SetIdleTimeout(50 * time.Millisecond)
+
+	now := time.Date(2026, 3, 27, 10, 0, 0, 0, time.UTC)
+	s.SetPrograms("ch1", []domain.Program{
+		{Channel: "ch1", Source: "evict-source", Title: "Show", Start: now, Stop: now.Add(time.Hour)},
+	})
+	s.RecordGrabStats("evict-source", 1, 1, 1, 0, time.Second)
+	if err := s.SaveSource("evict-source"); err != nil {
+		t.Fatalf("save failed: %v", err)
+	}
+
+	if len(s.GetPrograms(store.Filter{Source: "evict-source"})) != 1 {
+		t.Fatal("expected program before eviction")
+	}
+
+	time.Sleep(100 * time.Millisecond)
+	s.EvictIdle()
+
+	// After eviction, programs no longer in memory but lazy-load brings them back
+	programs := s.GetPrograms(store.Filter{Source: "evict-source"})
+	if len(programs) != 1 {
+		t.Fatalf("expected program to be reloaded after eviction, got %d", len(programs))
+	}
+
+	// ProgramCount from grabStats is unaffected by eviction
+	if s.ProgramCount() != 1 {
+		t.Fatalf("expected ProgramCount 1 after eviction, got %d", s.ProgramCount())
 	}
 }
 
@@ -159,8 +223,8 @@ func TestMultipleSourcesSaveLoad(t *testing.T) {
 	s.SetPrograms("ch2", []domain.Program{
 		{Channel: "ch2", Source: "src2", Title: "Show B", Start: now, Stop: now.Add(time.Hour)},
 	})
-	s.RecordGrabStats("src1", 1, 1, 0, time.Second)
-	s.RecordGrabStats("src2", 1, 1, 0, time.Second)
+	s.RecordGrabStats("src1", 1, 1, 1, 0, time.Second)
+	s.RecordGrabStats("src2", 1, 1, 1, 0, time.Second)
 
 	if err := s.Save(); err != nil {
 		t.Fatalf("save failed: %v", err)

@@ -83,18 +83,15 @@ func TestFetchInvalidSiteID(t *testing.T) {
 	}
 }
 
-func TestFetchNon200ReturnsNil(t *testing.T) {
+func TestFetchNon200ReturnsError(t *testing.T) {
 	mc := &mockClient{
 		responses: []*http.Response{makeResponse(403, "forbidden")},
 	}
 
 	p := &provider{client: mc, sleep: noSleep}
-	programs, err := p.Fetch(testChannel, time.Now())
-	if err != nil {
-		t.Fatalf("expected nil error for 403, got: %v", err)
-	}
-	if programs != nil {
-		t.Fatalf("expected nil programs for 403, got %d", len(programs))
+	_, err := p.Fetch(testChannel, time.Now())
+	if err == nil {
+		t.Fatal("expected error for 403, got nil")
 	}
 }
 

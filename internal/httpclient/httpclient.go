@@ -2,12 +2,16 @@ package httpclient
 
 import (
 	"context"
+	"io"
 	"net"
 	"net/http"
 	"sync"
+	"time"
 
 	utls "github.com/refraction-networking/utls"
 	"golang.org/x/net/http2"
+
+	"github.com/gavinmcnair/epg/internal/bandwidth"
 )
 
 var (
@@ -21,6 +25,7 @@ func Browser() *http.Client {
 	once.Do(func() {
 		instance = &http.Client{
 			Transport: &browserTransport{},
+			Timeout:   30 * time.Second,
 		}
 	})
 	return instance
@@ -30,6 +35,7 @@ func InsecureBrowser() *http.Client {
 	insecureOnce.Do(func() {
 		insecureInst = &http.Client{
 			Transport: &browserTransport{insecureSkipVerify: true},
+			Timeout:   30 * time.Second,
 		}
 	})
 	return insecureInst
@@ -59,18 +65,41 @@ func (t *browserTransport) RoundTrip(req *http.Request) (*http.Response, error) 
 		return nil, err
 	}
 
+	var resp *http.Response
 	if tlsConn.ConnectionState().NegotiatedProtocol == "h2" {
 		h2Conn, err := (&http2.Transport{}).NewClientConn(tlsConn)
 		if err != nil {
 			conn.Close()
 			return nil, err
 		}
-		return h2Conn.RoundTrip(req)
+		resp, err = h2Conn.RoundTrip(req)
+		if err != nil {
+			return nil, err
+		}
+	} else {
+		var err error
+		resp, err = (&http.Transport{
+			DialTLSContext: func(ctx context.Context, network, addr string) (net.Conn, error) {
+				return tlsConn, nil
+			},
+		}).RoundTrip(req)
+		if err != nil {
+			return nil, err
+		}
 	}
 
-	return (&http.Transport{
-		DialTLSContext: func(ctx context.Context, network, addr string) (net.Conn, error) {
-			return tlsConn, nil
-		},
-	}).RoundTrip(req)
+	resp.Body = &countingReadCloser{ReadCloser: resp.Body}
+	return resp, nil
+}
+
+type countingReadCloser struct {
+	io.ReadCloser
+}
+
+func (c *countingReadCloser) Read(p []byte) (n int, err error) {
+	n, err = c.ReadCloser.Read(p)
+	if n > 0 {
+		bandwidth.Global.Add(int64(n))
+	}
+	return
 }

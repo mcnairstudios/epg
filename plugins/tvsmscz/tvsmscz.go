@@ -62,15 +62,19 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from tvsmscz", resp.StatusCode)
+	}
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
 	}
 
-	return Parse(body, date)
+	return Parse(body, channel, date)
 }
 
-func Parse(data []byte, date time.Time) ([]domain.Program, error) {
+func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	decoded, err := charmap.Windows1250.NewDecoder().Bytes(data)
 	if err != nil {
 		decoded = data
@@ -112,9 +116,11 @@ func Parse(data []byte, date time.Time) ([]domain.Program, error) {
 		stop := start.Add(time.Hour)
 
 		programs = append(programs, domain.Program{
+			Channel:     channel.XmltvID,
 			Source:      "m.tv.sms.cz",
 			Title:       title,
 			Description: description,
+			Lang:        channel.Lang,
 			Start:       start,
 			Stop:        stop,
 		})

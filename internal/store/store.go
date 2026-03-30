@@ -12,21 +12,29 @@ import (
 	"github.com/gavinmcnair/epg/internal/domain"
 )
 
+const DefaultIdleTimeout = 30 * time.Minute
+
 type GrabStats struct {
-	Source   string    `json:"source"`
-	Channels int       `json:"channels"`
-	Programs int       `json:"programs"`
-	Errors   int       `json:"errors"`
-	LastGrab time.Time `json:"last_grab"`
-	Duration string    `json:"duration"`
+	Source        string    `json:"source"`
+	TotalChannels int       `json:"total_channels"`
+	Channels      int       `json:"channels"`
+	Programs      int       `json:"programs"`
+	Errors        int       `json:"errors"`
+	LastGrab      time.Time `json:"last_grab"`
+	Duration      string    `json:"duration"`
 }
 
 type Store struct {
-	mu        sync.RWMutex
-	channels  map[string]domain.Channel
-	programs  map[string][]domain.Program
-	grabStats map[string]GrabStats
-	dir       string
+	mu             sync.RWMutex
+	channels       map[string]domain.Channel
+	programs       map[string][]domain.Program
+	grabStats      map[string]GrabStats
+	sourceChannels map[string]map[string]bool
+	loaded         map[string]bool
+	lastAccess     map[string]time.Time
+	dir            string
+	idleTimeout    time.Duration
+	stopCh         chan struct{}
 }
 
 type sourceSnapshot struct {
@@ -35,12 +43,31 @@ type sourceSnapshot struct {
 }
 
 func New(dir string) *Store {
-	return &Store{
-		channels:  make(map[string]domain.Channel),
-		programs:  make(map[string][]domain.Program),
-		grabStats: make(map[string]GrabStats),
-		dir:       dir,
+	s := &Store{
+		channels:       make(map[string]domain.Channel),
+		programs:       make(map[string][]domain.Program),
+		grabStats:      make(map[string]GrabStats),
+		sourceChannels: make(map[string]map[string]bool),
+		loaded:         make(map[string]bool),
+		lastAccess:     make(map[string]time.Time),
+		dir:            dir,
+		idleTimeout:    DefaultIdleTimeout,
+		stopCh:         make(chan struct{}),
 	}
+	if dir != "" {
+		go s.evictLoop()
+	}
+	return s
+}
+
+func (s *Store) Close() {
+	close(s.stopCh)
+}
+
+func (s *Store) SetIdleTimeout(d time.Duration) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	s.idleTimeout = d
 }
 
 func (s *Store) SetChannels(channels []domain.Channel) {
@@ -78,6 +105,16 @@ func (s *Store) SetPrograms(channelID string, programs []domain.Program) {
 	defer s.mu.Unlock()
 
 	s.programs[channelID] = append(s.programs[channelID], programs...)
+
+	if len(programs) > 0 && programs[0].Source != "" {
+		source := programs[0].Source
+		if s.sourceChannels[source] == nil {
+			s.sourceChannels[source] = make(map[string]bool)
+		}
+		s.sourceChannels[source][channelID] = true
+		s.loaded[source] = true
+		s.lastAccess[source] = time.Now()
+	}
 }
 
 func (s *Store) ClearPrograms(channelID string) {
@@ -88,6 +125,23 @@ func (s *Store) ClearPrograms(channelID string) {
 }
 
 func (s *Store) GetPrograms(filters ...Filter) []domain.Program {
+	source := ""
+	if len(filters) > 0 {
+		source = filters[0].Source
+	}
+
+	s.mu.Lock()
+	if source != "" {
+		s.ensureLoaded(source)
+		s.lastAccess[source] = time.Now()
+	} else {
+		for src := range s.grabStats {
+			s.ensureLoaded(src)
+			s.lastAccess[src] = time.Now()
+		}
+	}
+	s.mu.Unlock()
+
 	s.mu.RLock()
 	defer s.mu.RUnlock()
 
@@ -116,26 +170,29 @@ func (s *Store) ChannelCount() int {
 	return len(s.channels)
 }
 
+// ProgramCount returns the total programs across all sources from grab stats.
+// This is always accurate without needing programs loaded in memory.
 func (s *Store) ProgramCount() int {
 	s.mu.RLock()
 	defer s.mu.RUnlock()
-	count := 0
-	for _, progs := range s.programs {
-		count += len(progs)
+	total := 0
+	for _, gs := range s.grabStats {
+		total += gs.Programs
 	}
-	return count
+	return total
 }
 
-func (s *Store) RecordGrabStats(source string, channels, programs, errors int, duration time.Duration) {
+func (s *Store) RecordGrabStats(source string, totalChannels, channels, programs, errors int, duration time.Duration) {
 	s.mu.Lock()
 	defer s.mu.Unlock()
 	s.grabStats[source] = GrabStats{
-		Source:   source,
-		Channels: channels,
-		Programs: programs,
-		Errors:   errors,
-		LastGrab: time.Now().UTC(),
-		Duration: duration.Round(time.Millisecond).String(),
+		Source:        source,
+		TotalChannels: totalChannels,
+		Channels:      channels,
+		Programs:      programs,
+		Errors:        errors,
+		LastGrab:      time.Now().UTC(),
+		Duration:      duration.Round(time.Millisecond).String(),
 	}
 }
 
@@ -214,6 +271,8 @@ func (s *Store) Save() error {
 	return nil
 }
 
+// Load reads GrabStats from all source gob files but does not load programs.
+// Programs are loaded lazily on first access.
 func (s *Store) Load() error {
 	s.mu.Lock()
 	defer s.mu.Unlock()
@@ -240,16 +299,74 @@ func (s *Store) Load() error {
 		}
 		f.Close()
 
-		for chID, progs := range snap.Programs {
-			s.programs[chID] = progs
-		}
-
 		if snap.GrabStats.Source != "" {
 			s.grabStats[snap.GrabStats.Source] = snap.GrabStats
 		}
 	}
 
 	return nil
+}
+
+// ensureLoaded loads programs for a source from disk if not already in memory.
+// Must be called with the write lock held.
+func (s *Store) ensureLoaded(source string) {
+	if s.loaded[source] || s.dir == "" {
+		return
+	}
+
+	safeName := strings.ReplaceAll(source, "/", "_")
+	path := filepath.Join(s.dir, safeName+".gob")
+
+	f, err := os.Open(path)
+	if err != nil {
+		return
+	}
+	defer f.Close()
+
+	var snap sourceSnapshot
+	if err := gob.NewDecoder(f).Decode(&snap); err != nil {
+		return
+	}
+
+	if s.sourceChannels[source] == nil {
+		s.sourceChannels[source] = make(map[string]bool)
+	}
+
+	for chID, progs := range snap.Programs {
+		s.programs[chID] = progs
+		s.sourceChannels[source][chID] = true
+	}
+
+	s.loaded[source] = true
+}
+
+func (s *Store) evictLoop() {
+	ticker := time.NewTicker(time.Minute)
+	defer ticker.Stop()
+	for {
+		select {
+		case <-s.stopCh:
+			return
+		case <-ticker.C:
+			s.EvictIdle()
+		}
+	}
+}
+
+func (s *Store) EvictIdle() {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+
+	now := time.Now()
+	for source, lastAccess := range s.lastAccess {
+		if now.Sub(lastAccess) > s.idleTimeout {
+			for chID := range s.sourceChannels[source] {
+				delete(s.programs, chID)
+			}
+			delete(s.loaded, source)
+			delete(s.lastAccess, source)
+		}
+	}
 }
 
 type Filter struct {

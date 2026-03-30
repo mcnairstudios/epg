@@ -163,7 +163,7 @@ func TestFetchSuccess(t *testing.T) {
 	}
 }
 
-func TestFetchNon200ReturnsNil(t *testing.T) {
+func TestFetchNon200ReturnsError(t *testing.T) {
 	codes := []int{404, 500, 403, 502}
 	for _, code := range codes {
 		transport := &fakeTransport{
@@ -182,12 +182,9 @@ func TestFetchNon200ReturnsNil(t *testing.T) {
 			Lang:    "en",
 		}
 
-		programs, err := p.Fetch(channel, time.Date(2023, 1, 16, 0, 0, 0, 0, time.UTC))
-		if err != nil {
-			t.Fatalf("status %d: expected nil error, got %v", code, err)
-		}
-		if programs != nil {
-			t.Fatalf("status %d: expected nil programs, got %d", code, len(programs))
+		_, err := p.Fetch(channel, time.Date(2023, 1, 16, 0, 0, 0, 0, time.UTC))
+		if err == nil {
+			t.Fatalf("status %d: expected error, got nil", code)
 		}
 	}
 }

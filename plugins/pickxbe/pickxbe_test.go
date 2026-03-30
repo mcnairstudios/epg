@@ -53,7 +53,7 @@ func TestParseContent(t *testing.T) {
 	if p.Category != "Info" {
 		t.Fatalf("expected category 'Info', got %q", p.Category)
 	}
-	if p.Image != "https://experience-cache.proximustv.be/posterserver/poster/EPG/250_250_4B990CC58066A7B2A660AFA0BDDE5C41.jpg" {
+	if p.Image != "https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_4B990CC58066A7B2A660AFA0BDDE5C41.jpg" {
 		t.Fatalf("unexpected image: %q", p.Image)
 	}
 }

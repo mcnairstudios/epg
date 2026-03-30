@@ -24,6 +24,7 @@ func (s *Server) listSources(w http.ResponseWriter, r *http.Request) {
 			Description:   p.Description(),
 			Type:          "plugin",
 			TotalChannels: totalChannels,
+			Disabled:      s.disabled.IsDisabled(p.Name()),
 		})
 	}
 

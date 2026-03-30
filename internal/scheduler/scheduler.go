@@ -1,6 +1,7 @@
 package scheduler
 
 import (
+	"context"
 	"log"
 	"sync"
 
@@ -11,19 +12,26 @@ import (
 )
 
 type Scheduler struct {
-	cron    *cron.Cron
-	grabber *grabber.Grabber
-	store   *store.Store
-	mu      sync.Mutex
-	running bool
-	entryID cron.EntryID
+	cron     *cron.Cron
+	grabber  *grabber.Grabber
+	store    *store.Store
+	disabled *store.DisabledStore
+	mu       sync.Mutex
+	running  bool
+	entryID  cron.EntryID
+	ctx      context.Context
+	cancel   context.CancelFunc
 }
 
-func New(g *grabber.Grabber, s *store.Store) *Scheduler {
+func New(g *grabber.Grabber, s *store.Store, disabled *store.DisabledStore) *Scheduler {
+	ctx, cancel := context.WithCancel(context.Background())
 	return &Scheduler{
-		cron:    cron.New(),
-		grabber: g,
-		store:   s,
+		cron:     cron.New(),
+		grabber:  g,
+		store:    s,
+		disabled: disabled,
+		ctx:      ctx,
+		cancel:   cancel,
 	}
 }
 
@@ -54,7 +62,8 @@ func (s *Scheduler) Stop() {
 	defer s.mu.Unlock()
 
 	if s.running {
-		s.cron.Stop()
+		s.cancel()
+		<-s.cron.Stop().Done()
 		s.running = false
 		log.Println("scheduler stopped")
 	}
@@ -68,7 +77,7 @@ func (s *Scheduler) IsRunning() bool {
 
 func (s *Scheduler) runGrabAll() {
 	log.Println("scheduled grab starting...")
-	results := s.grabber.GrabAll()
+	results := s.grabber.GrabAll(s.ctx, s.disabled.List())
 
 	total := 0
 	errors := 0

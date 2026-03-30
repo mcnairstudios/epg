@@ -28,7 +28,7 @@ func TestSchedulerStartStop(t *testing.T) {
 
 	s := store.New("")
 	g := grabber.New(s, 1, 1)
-	sched := scheduler.New(g, s)
+	sched := scheduler.New(g, s, store.NewDisabledStore(""))
 
 	if sched.IsRunning() {
 		t.Fatal("scheduler should not be running initially")
@@ -54,7 +54,7 @@ func TestSchedulerInvalidCron(t *testing.T) {
 
 	s := store.New("")
 	g := grabber.New(s, 1, 1)
-	sched := scheduler.New(g, s)
+	sched := scheduler.New(g, s, store.NewDisabledStore(""))
 
 	if err := sched.Start("invalid cron expression"); err == nil {
 		t.Fatal("expected error on invalid cron expression")

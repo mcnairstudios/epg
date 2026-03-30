@@ -1,3 +1,7 @@
 epg-server
+epg
+import-channels
 *.gob
+*.xml
+*.swp
 data/providers/*.tmp

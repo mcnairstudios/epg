@@ -15,6 +15,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -31,7 +32,7 @@ var cookieNames = []string{"JSESSIONID", "CSESSIONID", "CSRFSESSION"}
 
 func init() {
 	plugin.Register(&provider{
-		client: http.DefaultClient,
+		client: httpclient.Browser(),
 	})
 }
 
@@ -96,6 +97,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from magentatv", resp.StatusCode)
+	}
+
 	data, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
@@ -125,6 +130,10 @@ func (p *provider) authenticate() error {
 		return err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return fmt.Errorf("HTTP %d from magentatv", resp.StatusCode)
+	}
 
 	data, err := io.ReadAll(resp.Body)
 	if err != nil {

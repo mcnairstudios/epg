@@ -5,12 +5,14 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"time"
 
 	_ "embed"
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
 
@@ -18,7 +20,7 @@ import (
 var channelsData []byte
 
 func init() {
-	plugin.Register(&provider{client: http.DefaultClient})
+	plugin.Register(&provider{client: httpclient.Browser()})
 }
 
 type provider struct {
@@ -38,10 +40,14 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	d := date.Truncate(24 * time.Hour).UTC()
-	url := fmt.Sprintf("https://mts.rs/hybris/ecommerce/b2c/v1/products/search?sort=pozicija-rastuce&searchQueryContext=CHANNEL_PROGRAM&query=:pozicija-rastuce:tip-kanala-radio:TV kanali:channelProgramDates:%s&pageSize=10000",
-		d.Format("2006-01-02"))
+	query := url.Values{}
+	query.Set("sort", "pozicija-rastuce")
+	query.Set("searchQueryContext", "CHANNEL_PROGRAM")
+	query.Set("query", fmt.Sprintf(":pozicija-rastuce:tip-kanala-radio:TV kanali:channelProgramDates:%s", d.Format("2006-01-02")))
+	query.Set("pageSize", "10000")
+	apiURL := "https://mts.rs/hybris/ecommerce/b2c/v1/products/search?" + query.Encode()
 
-	req, err := http.NewRequest(http.MethodGet, url, nil)
+	req, err := http.NewRequest(http.MethodGet, apiURL, nil)
 	if err != nil {
 		return nil, err
 	}
@@ -51,6 +57,10 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP %d from mts.rs", resp.StatusCode)
+	}
 
 	data, err := io.ReadAll(resp.Body)
 	if err != nil {

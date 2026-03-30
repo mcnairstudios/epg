@@ -12,6 +12,10 @@ type createUserRequest struct {
 	Role     string `json:"role"`
 }
 
+type changePasswordRequest struct {
+	Password string `json:"password"`
+}
+
 func (s *Server) listUsers(w http.ResponseWriter, r *http.Request) {
 	users := s.users.List()
 	json.NewEncoder(w).Encode(users)
@@ -46,6 +50,33 @@ func (s *Server) createUser(w http.ResponseWriter, r *http.Request) {
 
 	w.WriteHeader(http.StatusCreated)
 	json.NewEncoder(w).Encode(user)
+}
+
+func (s *Server) changePassword(w http.ResponseWriter, r *http.Request) {
+	id := chi.URLParam(r, "id")
+
+	var req changePasswordRequest
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		http.Error(w, `{"error":"invalid request body"}`, http.StatusBadRequest)
+		return
+	}
+
+	if req.Password == "" {
+		http.Error(w, `{"error":"password is required"}`, http.StatusBadRequest)
+		return
+	}
+
+	if err := s.users.SetPassword(id, req.Password); err != nil {
+		http.Error(w, `{"error":"`+err.Error()+`"}`, http.StatusNotFound)
+		return
+	}
+
+	if err := s.users.Save(); err != nil {
+		http.Error(w, `{"error":"failed to persist"}`, http.StatusInternalServerError)
+		return
+	}
+
+	json.NewEncoder(w).Encode(map[string]string{"status": "password changed"})
 }
 
 func (s *Server) deleteUser(w http.ResponseWriter, r *http.Request) {

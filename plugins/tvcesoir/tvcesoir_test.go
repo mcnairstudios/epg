@@ -7,6 +7,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/plugins/tvcesoir"
 )
 
@@ -22,7 +23,7 @@ func TestParseContent(t *testing.T) {
 	}
 
 	date := time.Date(2023, 11, 24, 0, 0, 0, 0, time.UTC)
-	programs, err := tvcesoir.Parse(data, date)
+	programs, err := tvcesoir.Parse(data, domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
@@ -53,7 +54,7 @@ func TestParseEmptyContent(t *testing.T) {
 	}
 
 	date := time.Date(2023, 11, 24, 0, 0, 0, 0, time.UTC)
-	programs, err := tvcesoir.Parse(data, date)
+	programs, err := tvcesoir.Parse(data, domain.Channel{XmltvID: "Test", Lang: "xx", SiteID: "test"}, date)
 	if err != nil {
 		t.Fatalf("parse failed: %v", err)
 	}
