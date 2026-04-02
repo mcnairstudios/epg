@@ -64,11 +64,39 @@ func (g *Grabber) IsGrabbing(source string) bool {
 }
 
 type Result struct {
-	Source   string
+	Source  string
 	Channel domain.Channel
 	Date    time.Time
 	Count   int
 	Err     error
+}
+
+type Summary struct {
+	TotalChannels    int
+	ChannelsWithData int
+	Programs         int
+	Errors           int
+}
+
+func Summarize(results []Result) Summary {
+	var s Summary
+	channelSet := make(map[string]bool)
+	totalChannelSet := make(map[string]bool)
+	for _, r := range results {
+		s.Programs += r.Count
+		if r.Err != nil {
+			s.Errors++
+		}
+		if r.Channel.ID != "" {
+			totalChannelSet[r.Channel.ID] = true
+		}
+		if r.Count > 0 {
+			channelSet[r.Channel.ID] = true
+		}
+	}
+	s.TotalChannels = len(totalChannelSet)
+	s.ChannelsWithData = len(channelSet)
+	return s
 }
 
 func (g *Grabber) GrabSource(ctx context.Context, sourceName string) ([]Result, error) {

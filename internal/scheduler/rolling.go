@@ -145,26 +145,10 @@ func (r *RollingGrabber) checkAndGrab(ctx context.Context) {
 				return
 			}
 
-			total := 0
-			errors := 0
-			channelSet := make(map[string]bool)
-			totalChannelSet := make(map[string]bool)
-			for _, result := range results {
-				total += result.Count
-				if result.Err != nil {
-					errors++
-				}
-				if result.Channel.ID != "" {
-					totalChannelSet[result.Channel.ID] = true
-				}
-				if result.Count > 0 {
-					channelSet[result.Channel.ID] = true
-				}
-			}
-
-			r.store.RecordGrabStats(source, len(totalChannelSet), len(channelSet), total, errors, 0)
+			summary := grabber.Summarize(results)
+			r.store.RecordGrabStats(source, summary.TotalChannels, summary.ChannelsWithData, summary.Programs, summary.Errors, 0)
 			r.store.SaveSource(source)
-			log.Printf("rolling grab: %s done (%d programs, %d errors)", source, total, errors)
+			log.Printf("rolling grab: %s done (%d programs, %d errors)", source, summary.Programs, summary.Errors)
 		}(name)
 	}
 
