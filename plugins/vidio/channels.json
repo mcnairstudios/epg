@@ -1,31 +1,10 @@
 [
   {
-    "site_id": "5415",
-    "name": "Jaktv",
+    "site_id": "783",
+    "name": "TVOne",
     "lang": "id",
-    "xmltv_id": "JakTV.id@SD",
-    "logo": "https://i.imgur.com/xyLLLOi.png"
-  },
-  {
-    "site_id": "782",
-    "name": "ANTV",
-    "lang": "id",
-    "xmltv_id": "ANTV.id@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"
-  },
-  {
-    "site_id": "1561",
-    "name": "RTV",
-    "lang": "id",
-    "xmltv_id": "RajawaliTV.id@SD",
-    "logo": "https://i.imgur.com/dlsv1sl.png"
-  },
-  {
-    "site_id": "6412",
-    "name": "Euro News",
-    "lang": "id",
-    "xmltv_id": "EuronewsEnglish.fr@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
+    "xmltv_id": "tvOne.id@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png"
   },
   {
     "site_id": "6165",
@@ -35,11 +14,11 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"
   },
   {
-    "site_id": "6317",
-    "name": "Bein 3",
+    "site_id": "7150",
+    "name": "ABC Australia",
     "lang": "id",
-    "xmltv_id": "beINSports3.qa@Indonesia",
-    "logo": "https://i.imgur.com/UYSMao3.png"
+    "xmltv_id": "ABCAustralia.au@SD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png"
   },
   {
     "site_id": "7432",
@@ -49,32 +28,9 @@
     "logo": "https://i.imgur.com/viun5hj.png"
   },
   {
-    "site_id": "8121",
-    "name": "Rock Action",
-    "lang": "id",
-    "xmltv_id": "ROCKExtreme.sg@SD",
-    "logo": "https://i.imgur.com/3U1JpHm.png"
-  },
-  {
-    "site_id": "205",
-    "name": "Indosiar",
-    "lang": "id",
-    "xmltv_id": "Indosiar.id@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png"
-  },
-  {
-    "site_id": "6717",
-    "name": "NBA TV",
-    "lang": "id",
-    "xmltv_id": "NBATV.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"
-  },
-  {
-    "site_id": "7230",
-    "name": "Magna TV",
-    "lang": "id",
-    "xmltv_id": "MagnaChannel.id@SD",
-    "logo": "https://i.imgur.com/tfJo0SO.png"
+    "site_id": "18105",
+    "name": "GGS TV",
+    "lang": "id"
   },
   {
     "site_id": "206",
@@ -84,175 +40,18 @@
     "logo": "https://i.imgur.com/mM9zapJ.png"
   },
   {
-    "site_id": "6299",
-    "name": "Bein 1",
+    "site_id": "1561",
+    "name": "RTV",
     "lang": "id",
-    "xmltv_id": "beINSports1.qa@Indonesia",
-    "logo": "https://i.imgur.com/Vtk2cGI.png"
+    "xmltv_id": "RajawaliTV.id@SD",
+    "logo": "https://i.imgur.com/dlsv1sl.png"
   },
   {
-    "site_id": "6784",
-    "name": "Arirang",
+    "site_id": "6317",
+    "name": "Bein 3",
     "lang": "id",
-    "xmltv_id": "ArirangWorld.kr@SD",
-    "logo": "https://i.imgur.com/5Aoithj.png"
-  },
-  {
-    "site_id": "6786",
-    "name": "CTV 3",
-    "lang": "id",
-    "xmltv_id": "ChampionsTV3.id@SD",
-    "logo": "https://i.imgur.com/xVwVIj6.png"
-  },
-  {
-    "site_id": "9183",
-    "name": "CTV 6",
-    "lang": "id",
-    "xmltv_id": "ChampionsTV6.id@SD",
-    "logo": "https://thumbor.prod.vidiocdn.com/M-OjFdz5vPoCtfuqZ8PoJF4Pe0g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-c8e810.jpg"
-  },
-  {
-    "site_id": "777",
-    "name": "Metro TV",
-    "lang": "id",
-    "xmltv_id": "MetroTV.id@SD",
-    "logo": "https://i.imgur.com/QnU70NI.png"
-  },
-  {
-    "site_id": "18105",
-    "name": "GGS TV",
-    "lang": "id"
-  },
-  {
-    "site_id": "6441",
-    "name": "TVRI",
-    "lang": "id",
-    "xmltv_id": "TVRI.id@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
-  },
-  {
-    "site_id": "9713",
-    "name": "JTV",
-    "lang": "id",
-    "xmltv_id": "JTV.id@SD",
-    "logo": "https://i.imgur.com/mIDWIQk.png"
-  },
-  {
-    "site_id": "17278",
-    "name": "TV5Monde",
-    "lang": "id",
-    "xmltv_id": "TV5MondeAsia.fr@SD",
-    "logo": "https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025\u0026path-prefix=vi"
-  },
-  {
-    "site_id": "18622",
-    "name": "Daystar TV",
-    "lang": "id",
-    "xmltv_id": "DaystarTV.us@SD",
-    "logo": "https://i.imgur.com/IjzCv8f.png"
-  },
-  {
-    "site_id": "204",
-    "name": "SCTV",
-    "lang": "id",
-    "xmltv_id": "SCTV.id@SD",
-    "logo": "https://i.imgur.com/EMmOvnQ.png"
-  },
-  {
-    "site_id": "875",
-    "name": "MDTV",
-    "lang": "id",
-    "xmltv_id": "NET.id@SD",
-    "logo": "https://i.imgur.com/RPT8O12.png"
-  },
-  {
-    "site_id": "12784",
-    "name": "AFRICANEWS TV",
-    "lang": "id",
-    "xmltv_id": "AfricanewsEnglish.fr@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669892cbac4421ebc533679/images/logo_20231218_175639_70.png"
-  },
-  {
-    "site_id": "874",
-    "name": "Kompas TV",
-    "lang": "id",
-    "xmltv_id": "KompasTV.id@SD",
-    "logo": "https://i.imgur.com/bD6UHeZ.png"
-  },
-  {
-    "site_id": "6533",
-    "name": "Zoomoo",
-    "lang": "id",
-    "xmltv_id": "ZooMoo.sg@SD",
-    "logo": "https://i.imgur.com/ciTJrnl.png"
-  },
-  {
-    "site_id": "6898",
-    "name": "U-Channel TV",
-    "lang": "id",
-    "xmltv_id": "UChannel.id@SD",
-    "logo": "https://i.imgur.com/qxkb0cy.png"
-  },
-  {
-    "site_id": "8120",
-    "name": "ROCK Entertainment",
-    "lang": "id",
-    "xmltv_id": "ROCKEntertainment.sg@SD",
-    "logo": "https://i.imgur.com/PWzq0aU.png"
-  },
-  {
-    "site_id": "17140",
-    "name": "SPOTV 2",
-    "lang": "id",
-    "xmltv_id": "SPOTV2.id@SD",
-    "logo": "https://i.imgur.com/YD8fbTH.png"
-  },
-  {
-    "site_id": "6410",
-    "name": "Aljazeera",
-    "lang": "id",
-    "xmltv_id": "AlJazeera.qa@English",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
-  },
-  {
-    "site_id": "6852",
-    "name": "Makkah TV",
-    "lang": "id",
-    "xmltv_id": "MakkahTV.sa@SD",
-    "logo": "https://i.imgur.com/PRPcOi0.png"
-  },
-  {
-    "site_id": "7150",
-    "name": "ABC Australia",
-    "lang": "id",
-    "xmltv_id": "ABCAustralia.au@SD",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png"
-  },
-  {
-    "site_id": "9182",
-    "name": "CTV 5",
-    "lang": "id",
-    "xmltv_id": "ChampionsTV5.id@SD",
-    "logo": "https://thumbor.prod.vidiocdn.com/d-s_Kf07gVolGnnU78fa7Zwe6OA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-7838ab.jpg"
-  },
-  {
-    "site_id": "18189",
-    "name": "Champions Golf 1",
-    "lang": "id"
-  },
-  {
-    "site_id": "733",
-    "name": "TRANS TV",
-    "lang": "id",
-    "xmltv_id": "TransTV.id@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png"
-  },
-  {
-    "site_id": "734",
-    "name": "Trans7",
-    "lang": "id",
-    "xmltv_id": "Trans7.id@SD",
-    "logo": "https://i.imgur.com/fAbGImS.png"
+    "xmltv_id": "beINSports3.qa@Indonesia",
+    "logo": "https://i.imgur.com/UYSMao3.png"
   },
   {
     "site_id": "6411",
@@ -262,37 +61,25 @@
     "logo": "https://i.imgur.com/awIDugE.png"
   },
   {
-    "site_id": "7052",
-    "name": "Hip Hip Horee!",
+    "site_id": "6533",
+    "name": "Zoomoo",
     "lang": "id",
-    "xmltv_id": "HipHipHoree.id@SD",
-    "logo": "https://i.imgur.com/jEFjczI.png"
+    "xmltv_id": "ZooMoo.sg@SD",
+    "logo": "https://i.imgur.com/ciTJrnl.png"
   },
   {
-    "site_id": "9353",
-    "name": "Premier League TV",
+    "site_id": "7230",
+    "name": "Magna TV",
     "lang": "id",
-    "xmltv_id": "ChampionsTVEPL.id@SD",
-    "logo": "https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg"
+    "xmltv_id": "MagnaChannel.id@SD",
+    "logo": "https://i.imgur.com/tfJo0SO.png"
   },
   {
-    "site_id": "17139",
-    "name": "SPOTV",
+    "site_id": "733",
+    "name": "TRANS TV",
     "lang": "id",
-    "xmltv_id": "SPOTV.id@SD",
-    "logo": "https://i.imgur.com/HaoVsm5.png"
-  },
-  {
-    "site_id": "18190",
-    "name": "Champions Golf 2",
-    "lang": "id"
-  },
-  {
-    "site_id": "6362",
-    "name": "TVN",
-    "lang": "id",
-    "xmltv_id": "tvNAsia.hk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
+    "xmltv_id": "TransTV.id@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png"
   },
   {
     "site_id": "6482",
@@ -302,30 +89,25 @@
     "logo": "https://i.imgur.com/YC7JCHo.png"
   },
   {
-    "site_id": "7619",
-    "name": "MUSICA",
-    "lang": "id"
+    "site_id": "734",
+    "name": "Trans7",
+    "lang": "id",
+    "xmltv_id": "Trans7.id@SD",
+    "logo": "https://i.imgur.com/fAbGImS.png"
   },
   {
-    "site_id": "10975",
-    "name": "Elshinta TV",
+    "site_id": "874",
+    "name": "Kompas TV",
     "lang": "id",
-    "xmltv_id": "ElshintaTV.id@SD",
-    "logo": "https://i.imgur.com/x5uoy2H.png"
+    "xmltv_id": "KompasTV.id@SD",
+    "logo": "https://i.imgur.com/bD6UHeZ.png"
   },
   {
-    "site_id": "5075",
-    "name": "DW English",
+    "site_id": "5415",
+    "name": "Jaktv",
     "lang": "id",
-    "xmltv_id": "DW.de@English",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png"
-  },
-  {
-    "site_id": "6397",
-    "name": "Horee",
-    "lang": "id",
-    "xmltv_id": "Horee.id@SD",
-    "logo": "https://i.imgur.com/S4aoHg8.png"
+    "xmltv_id": "JakTV.id@SD",
+    "logo": "https://i.imgur.com/xyLLLOi.png"
   },
   {
     "site_id": "6685",
@@ -335,18 +117,39 @@
     "logo": "https://i.imgur.com/ctwmSHa.png"
   },
   {
-    "site_id": "6686",
-    "name": "CTV 2",
+    "site_id": "9713",
+    "name": "JTV",
     "lang": "id",
-    "xmltv_id": "ChampionsTV2.id@SD",
-    "logo": "https://i.imgur.com/oYUUKra.png"
+    "xmltv_id": "JTV.id@SD",
+    "logo": "https://i.imgur.com/mIDWIQk.png"
   },
   {
-    "site_id": "7968",
-    "name": "NHK World Japan",
+    "site_id": "204",
+    "name": "SCTV",
     "lang": "id",
-    "xmltv_id": "NHKWorldJapan.jp@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
+    "xmltv_id": "SCTV.id@SD",
+    "logo": "https://i.imgur.com/EMmOvnQ.png"
+  },
+  {
+    "site_id": "205",
+    "name": "Indosiar",
+    "lang": "id",
+    "xmltv_id": "Indosiar.id@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png"
+  },
+  {
+    "site_id": "6410",
+    "name": "Aljazeera",
+    "lang": "id",
+    "xmltv_id": "AlJazeera.qa@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+  },
+  {
+    "site_id": "6784",
+    "name": "Arirang",
+    "lang": "id",
+    "xmltv_id": "ArirangWorld.kr@SD",
+    "logo": "https://i.imgur.com/5Aoithj.png"
   },
   {
     "site_id": "9714",
@@ -356,16 +159,204 @@
     "logo": "https://i.imgur.com/FM6WN4S.png"
   },
   {
+    "site_id": "6441",
+    "name": "TVRI",
+    "lang": "id",
+    "xmltv_id": "TVRI.id@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+  },
+  {
+    "site_id": "17139",
+    "name": "SPOTV",
+    "lang": "id",
+    "xmltv_id": "SPOTV.id@SD",
+    "logo": "https://i.imgur.com/HaoVsm5.png"
+  },
+  {
+    "site_id": "875",
+    "name": "MDTV",
+    "lang": "id",
+    "xmltv_id": "NET.id@SD",
+    "logo": "https://i.imgur.com/RPT8O12.png"
+  },
+  {
+    "site_id": "6299",
+    "name": "Bein 1",
+    "lang": "id",
+    "xmltv_id": "beINSports1.qa@Indonesia",
+    "logo": "https://i.imgur.com/Vtk2cGI.png"
+  },
+  {
+    "site_id": "8121",
+    "name": "Rock Action",
+    "lang": "id",
+    "xmltv_id": "ROCKExtreme.sg@SD",
+    "logo": "https://i.imgur.com/3U1JpHm.png"
+  },
+  {
+    "site_id": "9182",
+    "name": "CTV 5",
+    "lang": "id",
+    "xmltv_id": "ChampionsTV5.id@SD",
+    "logo": "https://thumbor.prod.vidiocdn.com/d-s_Kf07gVolGnnU78fa7Zwe6OA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-7838ab.jpg"
+  },
+  {
+    "site_id": "17278",
+    "name": "TV5Monde",
+    "lang": "id",
+    "xmltv_id": "TV5MondeAsia.fr@SD",
+    "logo": "https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025\u0026path-prefix=vi"
+  },
+  {
+    "site_id": "17140",
+    "name": "SPOTV 2",
+    "lang": "id",
+    "xmltv_id": "SPOTV2.id@SD",
+    "logo": "https://i.imgur.com/YD8fbTH.png"
+  },
+  {
+    "site_id": "6898",
+    "name": "U-Channel TV",
+    "lang": "id",
+    "xmltv_id": "UChannel.id@SD",
+    "logo": "https://i.imgur.com/qxkb0cy.png"
+  },
+  {
+    "site_id": "9353",
+    "name": "Premier League TV",
+    "lang": "id",
+    "xmltv_id": "ChampionsTVEPL.id@SD",
+    "logo": "https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg"
+  },
+  {
+    "site_id": "10975",
+    "name": "Elshinta TV",
+    "lang": "id",
+    "xmltv_id": "ElshintaTV.id@SD",
+    "logo": "https://i.imgur.com/x5uoy2H.png"
+  },
+  {
+    "site_id": "6362",
+    "name": "TVN",
+    "lang": "id",
+    "xmltv_id": "tvNAsia.hk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
+  },
+  {
+    "site_id": "6397",
+    "name": "Horee",
+    "lang": "id",
+    "xmltv_id": "Horee.id@SD",
+    "logo": "https://i.imgur.com/S4aoHg8.png"
+  },
+  {
+    "site_id": "6686",
+    "name": "CTV 2",
+    "lang": "id",
+    "xmltv_id": "ChampionsTV2.id@SD",
+    "logo": "https://i.imgur.com/oYUUKra.png"
+  },
+  {
+    "site_id": "6717",
+    "name": "NBA TV",
+    "lang": "id",
+    "xmltv_id": "NBATV.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"
+  },
+  {
+    "site_id": "18622",
+    "name": "Daystar TV",
+    "lang": "id",
+    "xmltv_id": "DaystarTV.us@SD",
+    "logo": "https://i.imgur.com/IjzCv8f.png"
+  },
+  {
+    "site_id": "777",
+    "name": "Metro TV",
+    "lang": "id",
+    "xmltv_id": "MetroTV.id@SD",
+    "logo": "https://i.imgur.com/QnU70NI.png"
+  },
+  {
+    "site_id": "6412",
+    "name": "Euro News",
+    "lang": "id",
+    "xmltv_id": "EuronewsEnglish.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
+  },
+  {
+    "site_id": "8120",
+    "name": "ROCK Entertainment",
+    "lang": "id",
+    "xmltv_id": "ROCKEntertainment.sg@SD",
+    "logo": "https://i.imgur.com/PWzq0aU.png"
+  },
+  {
     "site_id": "17875",
     "name": "Bein 2",
     "lang": "id"
   },
   {
-    "site_id": "783",
-    "name": "TVOne",
+    "site_id": "7052",
+    "name": "Hip Hip Horee!",
     "lang": "id",
-    "xmltv_id": "tvOne.id@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png"
+    "xmltv_id": "HipHipHoree.id@SD",
+    "logo": "https://i.imgur.com/jEFjczI.png"
+  },
+  {
+    "site_id": "7968",
+    "name": "NHK World Japan",
+    "lang": "id",
+    "xmltv_id": "NHKWorldJapan.jp@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
+  },
+  {
+    "site_id": "9183",
+    "name": "CTV 6",
+    "lang": "id",
+    "xmltv_id": "ChampionsTV6.id@SD",
+    "logo": "https://thumbor.prod.vidiocdn.com/M-OjFdz5vPoCtfuqZ8PoJF4Pe0g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-c8e810.jpg"
+  },
+  {
+    "site_id": "5075",
+    "name": "DW English",
+    "lang": "id",
+    "xmltv_id": "DW.de@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png"
+  },
+  {
+    "site_id": "6786",
+    "name": "CTV 3",
+    "lang": "id",
+    "xmltv_id": "ChampionsTV3.id@SD",
+    "logo": "https://i.imgur.com/xVwVIj6.png"
+  },
+  {
+    "site_id": "12607",
+    "name": "Tawaf TV",
+    "lang": "id",
+    "xmltv_id": "TawafTV.id@SD",
+    "logo": "https://i.postimg.cc/VvVgb6dN/logo-tawaf.png"
+  },
+  {
+    "site_id": "18189",
+    "name": "Champions Golf 1",
+    "lang": "id",
+    "logo": "https://i.imgur.com/APG3wl2.jpeg"
+  },
+  {
+    "site_id": "782",
+    "name": "ANTV",
+    "lang": "id",
+    "xmltv_id": "ANTV.id@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"
+  },
+  {
+    "site_id": "6852",
+    "name": "Makkah TV",
+    "lang": "id",
+    "xmltv_id": "MakkahTV.sa@SD",
+    "logo": "https://i.imgur.com/PRPcOi0.png"
   },
   {
     "site_id": "7464",
@@ -375,10 +366,22 @@
     "logo": "https://i.imgur.com/JXjbUhB.png"
   },
   {
-    "site_id": "12607",
-    "name": "Tawaf TV",
+    "site_id": "7619",
+    "name": "MUSICA",
+    "lang": "id"
+  },
+  {
+    "site_id": "18190",
+    "name": "Champions Golf 2",
     "lang": "id",
-    "xmltv_id": "TawafTV.id@SD"
+    "logo": "https://i.imgur.com/KRkCP8N.jpeg"
+  },
+  {
+    "site_id": "12784",
+    "name": "AFRICANEWS TV",
+    "lang": "id",
+    "xmltv_id": "AfricanewsEnglish.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669892cbac4421ebc533679/images/logo_20231218_175639_70.png"
   },
   {
     "site_id": "18280",

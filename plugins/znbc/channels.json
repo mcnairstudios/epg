@@ -1,5 +1,12 @@
 [
   {
+    "site_id": "tv1",
+    "name": "TV1",
+    "lang": "en",
+    "xmltv_id": "ZNBCTV1.zm@SD",
+    "logo": "https://i.imgur.com/hOnAtLl.png"
+  },
+  {
     "site_id": "tv2",
     "name": "TV2",
     "lang": "en",
@@ -19,12 +26,5 @@
     "lang": "en",
     "xmltv_id": "ZNBCTV4.zm@SD",
     "logo": "https://i.imgur.com/unlfiVq.png"
-  },
-  {
-    "site_id": "tv1",
-    "name": "TV1",
-    "lang": "en",
-    "xmltv_id": "ZNBCTV1.zm@SD",
-    "logo": "https://i.imgur.com/hOnAtLl.png"
   }
 ]

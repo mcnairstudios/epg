@@ -1,8 +1,10 @@
 [
   {
-    "site_id": "9-education-channel",
-    "name": "Education Channel",
-    "lang": "fj"
+    "site_id": "channel-2",
+    "name": "Channel 2",
+    "lang": "fj",
+    "xmltv_id": "Channel2.fj@SD",
+    "logo": "https://i.imgur.com/damLvxH.png"
   },
   {
     "site_id": "fbc",
@@ -10,6 +12,20 @@
     "lang": "fj",
     "xmltv_id": "FBCSports.fj@SD",
     "logo": "https://i.imgur.com/l953wkT.png"
+  },
+  {
+    "site_id": "fiji_one",
+    "name": "Fiji One",
+    "lang": "fj",
+    "xmltv_id": "FijiOne.fj@SD",
+    "logo": "https://i.imgur.com/yTcrgxU.png"
+  },
+  {
+    "site_id": "mai-tv",
+    "name": "Mai Tv",
+    "lang": "fj",
+    "xmltv_id": "MaiTV.fj@SD",
+    "logo": "https://i.imgur.com/iz60Nhx.png"
   },
   {
     "site_id": "fbc2",
@@ -26,13 +42,6 @@
     "logo": "https://i.imgur.com/jEE23Cd.png"
   },
   {
-    "site_id": "fiji_one",
-    "name": "Fiji One",
-    "lang": "fj",
-    "xmltv_id": "FijiOne.fj@SD",
-    "logo": "https://i.imgur.com/yTcrgxU.png"
-  },
-  {
     "site_id": "hope-channel",
     "name": "Hope Channel",
     "lang": "fj",
@@ -47,17 +56,9 @@
     "logo": "https://i.imgur.com/peKAzDv.png"
   },
   {
-    "site_id": "channel-2",
-    "name": "Channel 2",
+    "site_id": "9-education-channel",
+    "name": "Education Channel",
     "lang": "fj",
-    "xmltv_id": "Channel2.fj@SD",
-    "logo": "https://i.imgur.com/damLvxH.png"
-  },
-  {
-    "site_id": "mai-tv",
-    "name": "Mai Tv",
-    "lang": "fj",
-    "xmltv_id": "MaiTV.fj@SD",
-    "logo": "https://i.imgur.com/iz60Nhx.png"
+    "logo": "https://i.imgur.com/p5TGUjo.png"
   }
 ]

@@ -1,197 +1,7 @@
 [
   {
-    "site_id": "multi8",
-    "name": "M+ Deportes 6",
-    "lang": "es"
-  },
-  {
-    "site_id": "mv2",
-    "name": "M+ Series",
-    "lang": "es"
-  },
-  {
-    "site_id": "tnt",
-    "name": "Warner TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "tve",
-    "name": "LA 1",
-    "lang": "es"
-  },
-  {
-    "site_id": "24h",
-    "name": "24 Horas",
-    "lang": "es"
-  },
-  {
-    "site_id": "arthur",
-    "name": "M+ Deportes 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "clantv",
-    "name": "Clan TVE",
-    "lang": "es"
-  },
-  {
-    "site_id": "etb1",
-    "name": "ETB 1",
-    "lang": "es"
-  },
-  {
-    "site_id": "realm",
-    "name": "Real Madrid TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "bbfoo",
-    "name": "BBC Food",
-    "lang": "es"
-  },
-  {
-    "site_id": "gol",
-    "name": "GOL PLAY",
-    "lang": "es"
-  },
-  {
-    "site_id": "golf2",
-    "name": "M+ Golf 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "skynw",
-    "name": "Sky News",
-    "lang": "es"
-  },
-  {
-    "site_id": "tdep",
-    "name": "Teledeporte",
-    "lang": "es"
-  },
-  {
-    "site_id": "bl",
-    "name": "Bloomberg",
-    "lang": "es"
-  },
-  {
-    "site_id": "chap12",
-    "name": "M+ Liga de Campeones 13",
-    "lang": "es"
-  },
-  {
-    "site_id": "divini",
-    "name": "Divinity",
-    "lang": "es"
-  },
-  {
-    "site_id": "morig",
-    "name": "M+ Originales",
-    "lang": "es"
-  },
-  {
-    "site_id": "chap1",
-    "name": "M+ Liga de Campeones 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "dazn3",
-    "name": "DAZN 3",
-    "lang": "es"
-  },
-  {
-    "site_id": "daznl2",
-    "name": "DAZN LALIGA 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "sexta",
-    "name": "La Sexta",
-    "lang": "es"
-  },
-  {
-    "site_id": "a3",
-    "name": "Antena 3",
-    "lang": "es"
-  },
-  {
-    "site_id": "antv",
-    "name": "Canal Sur Andalucía",
-    "lang": "es"
-  },
-  {
-    "site_id": "colomb",
-    "name": "TV Colombia",
-    "lang": "es"
-  },
-  {
-    "site_id": "dazn4",
-    "name": "DAZN 4",
-    "lang": "es"
-  },
-  {
-    "site_id": "etb2",
-    "name": "ETB 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "mlig1",
-    "name": "M+ LALIGA TV 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "resist",
-    "name": "La Resistencia",
-    "lang": "es"
-  },
-  {
-    "site_id": "tpa",
-    "name": "TPA",
-    "lang": "es"
-  },
-  {
-    "site_id": "maxava",
-    "name": "Max Avances",
-    "lang": "es"
-  },
-  {
-    "site_id": "andatv",
-    "name": "Andalucía TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "axn",
-    "name": "AXN",
-    "lang": "es"
-  },
-  {
-    "site_id": "cgtnd",
-    "name": "CGTN Documentary",
-    "lang": "es"
-  },
-  {
-    "site_id": "fdfic",
-    "name": "Factoría de Ficción",
-    "lang": "es"
-  },
-  {
-    "site_id": "usop3",
-    "name": "M+ Deportes 4",
-    "lang": "es"
-  },
-  {
-    "site_id": "c4",
-    "name": "Cuatro",
-    "lang": "es"
-  },
-  {
-    "site_id": "m2sd",
-    "name": "DAZN 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "mezzo",
-    "name": "Mezzo",
+    "site_id": "cpcome",
+    "name": "M+ Comedia",
     "lang": "es"
   },
   {
@@ -200,118 +10,42 @@
     "lang": "es"
   },
   {
-    "site_id": "tvg2",
-    "name": "TVG 2",
+    "site_id": "tq1",
+    "name": "Alquiler 1",
+    "lang": "es",
+    "logo": "https://i.imgur.com/bqcfqZR.png"
+  },
+  {
+    "site_id": "arthur",
+    "name": "M+ Deportes 2",
     "lang": "es"
   },
   {
-    "site_id": "cansur",
-    "name": "Canal Sur",
+    "site_id": "can33",
+    "name": "33",
+    "lang": "es",
+    "logo": "https://i.imgur.com/iPmWphQ.png"
+  },
+  {
+    "site_id": "cgtnen",
+    "name": "CGTN English HD",
     "lang": "es"
   },
   {
-    "site_id": "dcesp",
-    "name": "M+ Cine Español",
-    "lang": "es"
+    "site_id": "esp2",
+    "name": "Eurosport 2",
+    "lang": "es",
+    "logo": "https://i.imgur.com/f56dHgR.png"
   },
   {
-    "site_id": "esp4k",
-    "name": "Eurosport 4K",
-    "lang": "es"
+    "site_id": "nova",
+    "name": "Nova",
+    "lang": "es",
+    "logo": "https://i.imgur.com/WCsPSLX.png"
   },
   {
-    "site_id": "mplus2",
-    "name": "Movistar Plus+ 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "nava",
-    "name": "Navarra TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "usop11",
-    "name": "M+ Deportes 5",
-    "lang": "es"
-  },
-  {
-    "site_id": "vh1",
-    "name": "MTV 00s",
-    "lang": "es"
-  },
-  {
-    "site_id": "atress",
-    "name": "Atreseries",
-    "lang": "es"
-  },
-  {
-    "site_id": "golf+",
-    "name": "M+ Golf",
-    "lang": "es"
-  },
-  {
-    "site_id": "mega",
-    "name": "Mega",
-    "lang": "es"
-  },
-  {
-    "site_id": "ubeat",
-    "name": "Ubeat",
-    "lang": "es"
-  },
-  {
-    "site_id": "arirhd",
-    "name": "Arirang TV HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "canar",
-    "name": "TV Canaria",
-    "lang": "es"
-  },
-  {
-    "site_id": "natgeo",
-    "name": "National Geographic",
-    "lang": "es"
-  },
-  {
-    "site_id": "nick",
-    "name": "Nickelodeon",
-    "lang": "es"
-  },
-  {
-    "site_id": "ten",
-    "name": "Ten",
-    "lang": "es"
-  },
-  {
-    "site_id": "tv3cat",
-    "name": "TV3",
-    "lang": "es"
-  },
-  {
-    "site_id": "bbgea",
-    "name": "BBC Top Gear",
-    "lang": "es"
-  },
-  {
-    "site_id": "cgtnfr",
-    "name": "CGTN Français HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "chap7",
-    "name": "M+ Liga de Campeones 8",
-    "lang": "es"
-  },
-  {
-    "site_id": "chap9",
-    "name": "M+ Liga de Campeones 10",
-    "lang": "es"
-  },
-  {
-    "site_id": "chapio",
-    "name": "M+ Liga de Campeones",
+    "site_id": "usop3",
+    "name": "M+ Deportes 4",
     "lang": "es"
   },
   {
@@ -320,94 +54,39 @@
     "lang": "es"
   },
   {
-    "site_id": "cosmo",
-    "name": "COSMO",
-    "lang": "es"
+    "site_id": "garage",
+    "name": "El Garage TV",
+    "lang": "es",
+    "logo": "https://i.imgur.com/FqFxog1.png"
   },
   {
-    "site_id": "cpdep",
-    "name": "M+ Deportes",
-    "lang": "es"
+    "site_id": "inteco",
+    "name": "El Toro TV",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png"
   },
   {
-    "site_id": "cyltv",
-    "name": "La 7",
-    "lang": "es"
-  },
-  {
-    "site_id": "dwsp",
-    "name": "Dreamworks",
-    "lang": "es"
-  },
-  {
-    "site_id": "futrep",
-    "name": "Canal Fútbol Replay",
-    "lang": "es"
-  },
-  {
-    "site_id": "extrem",
-    "name": "Canal Extremadura Sat",
-    "lang": "es"
+    "site_id": "mezzli",
+    "name": "Mezzo Live",
+    "lang": "es",
+    "logo": "https://i.imgur.com/H9ytKPN.png"
   },
   {
     "site_id": "nbc",
     "name": "CNBC",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
+  },
+  {
+    "site_id": "3_24",
+    "name": "3 24",
     "lang": "es"
   },
   {
-    "site_id": "negotv",
-    "name": "Negocios TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "telmin",
-    "name": "Telemadrid Int.",
-    "lang": "es"
-  },
-  {
-    "site_id": "tvc",
-    "name": "TV3 Cat",
-    "lang": "es"
-  },
-  {
-    "site_id": "aljaze",
-    "name": "Al Jazeera English",
-    "lang": "es"
-  },
-  {
-    "site_id": "chap3",
-    "name": "M+ Liga de Campeones 4",
-    "lang": "es"
-  },
-  {
-    "site_id": "chap5",
-    "name": "M+ Liga de Campeones 6",
-    "lang": "es"
-  },
-  {
-    "site_id": "m1sd",
-    "name": "DAZN 1",
-    "lang": "es"
-  },
-  {
-    "site_id": "enw",
-    "name": "Euronews",
-    "lang": "es"
-  },
-  {
-    "site_id": "la2",
-    "name": "LA 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "mlig2",
-    "name": "M+ LALIGA TV 3",
-    "lang": "es"
-  },
-  {
-    "site_id": "tvgal",
-    "name": "TVG -TV Galicia",
-    "lang": "es"
+    "site_id": "andatv",
+    "name": "Andalucía TV",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/960px-Andaluc%C3%ADa_TV_2018_logo.svg.png"
   },
   {
     "site_id": "aragon",
@@ -417,11 +96,155 @@
   {
     "site_id": "aragtv",
     "name": "Aragón TV",
+    "lang": "es",
+    "logo": "https://i.imgur.com/6YSi1zW.png"
+  },
+  {
+    "site_id": "cazpes",
+    "name": "Caza y Pesca",
+    "lang": "es",
+    "logo": "https://i.imgur.com/hXL0Fvj.png"
+  },
+  {
+    "site_id": "cosmo",
+    "name": "COSMO",
+    "lang": "es",
+    "logo": "https://i.imgur.com/L2KKKuB.png"
+  },
+  {
+    "site_id": "usop2",
+    "name": "M+ Deportes 3",
     "lang": "es"
   },
   {
-    "site_id": "cubav",
-    "name": "Cubavisión",
+    "site_id": "arirhd",
+    "name": "Arirang TV HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "boing",
+    "name": "Boing",
+    "lang": "es",
+    "logo": "https://i.imgur.com/nUYuCAP.png"
+  },
+  {
+    "site_id": "chap8",
+    "name": "M+ Liga de Campeones 9",
+    "lang": "es"
+  },
+  {
+    "site_id": "cpdep",
+    "name": "M+ Deportes",
+    "lang": "es"
+  },
+  {
+    "site_id": "etb2",
+    "name": "ETB 2",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/960px-ETB2_2022_logo.svg.png"
+  },
+  {
+    "site_id": "m1sd",
+    "name": "DAZN 1",
+    "lang": "es",
+    "logo": "https://i.imgur.com/2Z2EmZF.png"
+  },
+  {
+    "site_id": "morig",
+    "name": "M+ Originales",
+    "lang": "es"
+  },
+  {
+    "site_id": "apunt",
+    "name": "À Punt",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png"
+  },
+  {
+    "site_id": "axn",
+    "name": "AXN",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
+  },
+  {
+    "site_id": "etb1",
+    "name": "ETB 1",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/960px-ETB1_2022_logo.svg.png"
+  },
+  {
+    "site_id": "mega",
+    "name": "Mega",
+    "lang": "es",
+    "logo": "https://i.imgur.com/RlZfR84.png"
+  },
+  {
+    "site_id": "t5",
+    "name": "Telecinco",
+    "lang": "es",
+    "logo": "https://i.imgur.com/ZDenyAE.png"
+  },
+  {
+    "site_id": "tvg2",
+    "name": "TVG 2",
+    "lang": "es"
+  },
+  {
+    "site_id": "13tv",
+    "name": "TRECE",
+    "lang": "es",
+    "logo": "https://i.imgur.com/nEBsIlf.png"
+  },
+  {
+    "site_id": "c33",
+    "name": "SX3",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/960px-SX3_logo.svg.png"
+  },
+  {
+    "site_id": "cgtndo",
+    "name": "CGTN Documentary HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "iberal",
+    "name": "Iberalia TV",
+    "lang": "es",
+    "logo": "https://i.imgur.com/tCoZRnu.png"
+  },
+  {
+    "site_id": "natgeo",
+    "name": "National Geographic",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+  },
+  {
+    "site_id": "negotv",
+    "name": "Negocios TV",
+    "lang": "es",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669895cbac4421ebc5336b4/images/logo_20240130_181524_70.png"
+  },
+  {
+    "site_id": "neox",
+    "name": "Neox",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png"
+  },
+  {
+    "site_id": "atress",
+    "name": "Atreseries",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png"
+  },
+  {
+    "site_id": "esp4k",
+    "name": "Eurosport 4K",
+    "lang": "es",
+    "logo": "https://i.imgur.com/0o3zjC7.png"
+  },
+  {
+    "site_id": "mlig2",
+    "name": "M+ LALIGA TV 3",
     "lang": "es"
   },
   {
@@ -430,18 +253,196 @@
     "lang": "es"
   },
   {
+    "site_id": "realm",
+    "name": "Real Madrid TV",
+    "lang": "es",
+    "logo": "https://i.imgur.com/5pMo7dL.png"
+  },
+  {
+    "site_id": "skysho",
+    "name": "SkyShowtime 1",
+    "lang": "es",
+    "logo": "https://i.imgur.com/Dw9Yv9P.png"
+  },
+  {
+    "site_id": "telmad",
+    "name": "Telemadrid",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png"
+  },
+  {
+    "site_id": "24h",
+    "name": "24 Horas",
+    "lang": "es",
+    "logo": "https://i.imgur.com/CEE9zPe.png"
+  },
+  {
+    "site_id": "bbc",
+    "name": "BBC World",
+    "lang": "es"
+  },
+  {
+    "site_id": "bbdra",
+    "name": "BBC Drama",
+    "lang": "es",
+    "logo": "https://i.imgur.com/HctHhLL.png"
+  },
+  {
+    "site_id": "extrem",
+    "name": "Canal Extremadura Sat",
+    "lang": "es",
+    "logo": "https://i.imgur.com/3eWFu7N.png"
+  },
+  {
+    "site_id": "telmin",
+    "name": "Telemadrid Int.",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TeleMadrid_INT_Logo.jpg/960px-TeleMadrid_INT_Logo.jpg"
+  },
+  {
+    "site_id": "ten",
+    "name": "Ten",
+    "lang": "es",
+    "logo": "https://i.ibb.co/zWQjVq6s/ten-tv.png"
+  },
+  {
+    "site_id": "cgtnfr",
+    "name": "CGTN Français HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "dazn3",
+    "name": "DAZN 3",
+    "lang": "es",
+    "logo": "https://i.imgur.com/2rXsq2m.png"
+  },
+  {
+    "site_id": "dcrmax",
+    "name": "DMAX",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png"
+  },
+  {
+    "site_id": "inteua",
+    "name": "1+1 Internacional",
+    "lang": "es"
+  },
+  {
+    "site_id": "mezzo",
+    "name": "Mezzo",
+    "lang": "es",
+    "logo": "https://i.imgur.com/auNdGeW.png"
+  },
+  {
+    "site_id": "daznli",
+    "name": "DAZN LALIGA",
+    "lang": "es",
+    "logo": "https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png"
+  },
+  {
+    "site_id": "dch",
+    "name": "Disney Channel",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+  },
+  {
+    "site_id": "mtv",
+    "name": "MTV",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+  },
+  {
+    "site_id": "tvc",
+    "name": "TV3 Cat",
+    "lang": "es"
+  },
+  {
+    "site_id": "enw",
+    "name": "Euronews",
+    "lang": "es",
+    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg"
+  },
+  {
+    "site_id": "m2sd",
+    "name": "DAZN 2",
+    "lang": "es",
+    "logo": "https://i.imgur.com/OGj3qf5.png"
+  },
+  {
+    "site_id": "mcopa",
+    "name": "M+ Copa del Rey",
+    "lang": "es"
+  },
+  {
     "site_id": "tvg",
     "name": "TVG Europa",
+    "lang": "es",
+    "logo": "https://i.imgur.com/dvkzH8n.png"
+  },
+  {
+    "site_id": "a3",
+    "name": "Antena 3",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png"
+  },
+  {
+    "site_id": "gol",
+    "name": "GOL PLAY",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/960px-Gol.svg.png"
+  },
+  {
+    "site_id": "mdoc",
+    "name": "M+ Documentales",
     "lang": "es"
   },
   {
-    "site_id": "c33",
-    "name": "SX3",
+    "site_id": "parch",
+    "name": "Paramount Network",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/960px-5Action_logo.svg.png"
+  },
+  {
+    "site_id": "7tvmur",
+    "name": "7 TV Región Murcia",
     "lang": "es"
   },
   {
-    "site_id": "mligs2",
-    "name": "LALIGA TV HYPERMOTION 2",
+    "site_id": "chap9",
+    "name": "M+ Liga de Campeones 10",
+    "lang": "es"
+  },
+  {
+    "site_id": "esp3",
+    "name": "Esport 3",
+    "lang": "es"
+  },
+  {
+    "site_id": "ib3",
+    "name": "IB3",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/960px-IB3.svg.png"
+  },
+  {
+    "site_id": "antv",
+    "name": "Canal Sur Andalucía",
+    "lang": "es",
+    "logo": "https://i.imgur.com/lznnA4v.png"
+  },
+  {
+    "site_id": "chap6",
+    "name": "M+ Liga de Campeones 7",
+    "lang": "es"
+  },
+  {
+    "site_id": "extre",
+    "name": "Canal Extremadura",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png"
+  },
+  {
+    "site_id": "futrep",
+    "name": "Canal Fútbol Replay",
     "lang": "es"
   },
   {
@@ -450,103 +451,47 @@
     "lang": "es"
   },
   {
-    "site_id": "neox",
-    "name": "Neox",
-    "lang": "es"
-  },
-  {
-    "site_id": "bemad",
-    "name": "BE MAD",
-    "lang": "es"
-  },
-  {
-    "site_id": "hdtq10",
-    "name": "Alquiler HD",
-    "lang": "es"
-  },
-  {
     "site_id": "playdc",
     "name": "Disney Junior",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
+  },
+  {
+    "site_id": "cctv-e",
+    "name": "CGTN Español",
+    "lang": "es",
+    "logo": "https://i.imgur.com/Poz3xfi.png"
+  },
+  {
+    "site_id": "chap3",
+    "name": "M+ Liga de Campeones 4",
     "lang": "es"
   },
   {
-    "site_id": "t5",
-    "name": "Telecinco",
+    "site_id": "multi8",
+    "name": "M+ Deportes 6",
     "lang": "es"
   },
   {
-    "site_id": "btv",
-    "name": "Betevé",
+    "site_id": "sexta",
+    "name": "La Sexta",
+    "lang": "es",
+    "logo": "https://i.imgur.com/aKV5voq.png"
+  },
+  {
+    "site_id": "tnt",
+    "name": "Warner TV",
+    "lang": "es",
+    "logo": "https://i.imgur.com/QtGQR0c.png"
+  },
+  {
+    "site_id": "bl",
+    "name": "Bloomberg",
     "lang": "es"
   },
   {
-    "site_id": "bbdra",
-    "name": "BBC Drama",
-    "lang": "es"
-  },
-  {
-    "site_id": "cpcole",
-    "name": "M+ Drama",
-    "lang": "es"
-  },
-  {
-    "site_id": "mclas",
-    "name": "M+ Clásicos",
-    "lang": "es"
-  },
-  {
-    "site_id": "mplus",
-    "name": "Movistar Plus+",
-    "lang": "es"
-  },
-  {
-    "site_id": "sci-fi",
-    "name": "SYFY",
-    "lang": "es"
-  },
-  {
-    "site_id": "skysho",
-    "name": "SkyShowtime 1",
-    "lang": "es"
-  },
-  {
-    "site_id": "cgtnen",
-    "name": "CGTN English HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "classd",
-    "name": "Classica",
-    "lang": "es"
-  },
-  {
-    "site_id": "dch",
-    "name": "Disney Channel",
-    "lang": "es"
-  },
-  {
-    "site_id": "esp2",
-    "name": "Eurosport 2",
-    "lang": "es"
-  },
-  {
-    "site_id": "mvf1",
-    "name": "DAZN F1",
-    "lang": "es"
-  },
-  {
-    "site_id": "iberal",
-    "name": "Iberalia TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "3_24",
-    "name": "3 24",
-    "lang": "es"
-  },
-  {
-    "site_id": "can33",
-    "name": "33",
+    "site_id": "chap1",
+    "name": "M+ Liga de Campeones 2",
     "lang": "es"
   },
   {
@@ -555,108 +500,8 @@
     "lang": "es"
   },
   {
-    "site_id": "etb3",
-    "name": "ETB 3",
-    "lang": "es"
-  },
-  {
-    "site_id": "ewtn",
-    "name": "EWTN",
-    "lang": "es"
-  },
-  {
-    "site_id": "parch",
-    "name": "Paramount Network",
-    "lang": "es"
-  },
-  {
-    "site_id": "pcm",
-    "name": "Comedy Central",
-    "lang": "es"
-  },
-  {
-    "site_id": "mcapra",
-    "name": "M+E: Demi Moore",
-    "lang": "es"
-  },
-  {
-    "site_id": "baby",
-    "name": "Baby TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "csurhd",
-    "name": "Canal Sur HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "energy",
-    "name": "Energy",
-    "lang": "es"
-  },
-  {
-    "site_id": "mdoc",
-    "name": "M+ Documentales",
-    "lang": "es"
-  },
-  {
-    "site_id": "cazpes",
-    "name": "Caza y Pesca",
-    "lang": "es"
-  },
-  {
-    "site_id": "dcr",
-    "name": "Discovery",
-    "lang": "es"
-  },
-  {
-    "site_id": "france",
-    "name": "FRANCE24 (FR)",
-    "lang": "es"
-  },
-  {
-    "site_id": "inteco",
-    "name": "El Toro TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "bbc",
-    "name": "BBC World",
-    "lang": "es"
-  },
-  {
-    "site_id": "cctv-e",
-    "name": "CGTN Español",
-    "lang": "es"
-  },
-  {
-    "site_id": "daznli",
-    "name": "DAZN LALIGA",
-    "lang": "es"
-  },
-  {
-    "site_id": "mcopa",
-    "name": "M+ Copa del Rey",
-    "lang": "es"
-  },
-  {
-    "site_id": "mgoya",
-    "name": "M+ Los Goya",
-    "lang": "es"
-  },
-  {
-    "site_id": "dcrmax",
-    "name": "DMAX",
-    "lang": "es"
-  },
-  {
-    "site_id": "dkiss",
-    "name": "DKISS",
-    "lang": "es"
-  },
-  {
-    "site_id": "mligs",
-    "name": "LALIGA TV HYPERMOTION",
+    "site_id": "mlig1",
+    "name": "M+ LALIGA TV 2",
     "lang": "es"
   },
   {
@@ -665,19 +510,10 @@
     "lang": "es"
   },
   {
-    "site_id": "natgw",
-    "name": "Nat Geo Wild",
-    "lang": "es"
-  },
-  {
-    "site_id": "set",
-    "name": "AXN Movies",
-    "lang": "es"
-  },
-  {
-    "site_id": "13tv",
-    "name": "TRECE",
-    "lang": "es"
+    "site_id": "nick",
+    "name": "Nickelodeon",
+    "lang": "es",
+    "logo": "https://i.imgur.com/08ZUI9k.png"
   },
   {
     "site_id": "bbhis",
@@ -685,98 +521,59 @@
     "lang": "es"
   },
   {
-    "site_id": "cgtndo",
-    "name": "CGTN Documentary HD",
-    "lang": "es"
+    "site_id": "dazn4",
+    "name": "DAZN 4",
+    "lang": "es",
+    "logo": "https://i.imgur.com/m7ga8bU.png"
   },
   {
-    "site_id": "chap10",
-    "name": "M+ Liga de Campeones 11",
-    "lang": "es"
+    "site_id": "dwsp",
+    "name": "Dreamworks",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"
   },
   {
-    "site_id": "cpacci",
-    "name": "M+ Acción",
-    "lang": "es"
+    "site_id": "esp",
+    "name": "Eurosport 1",
+    "lang": "es",
+    "logo": "https://i.imgur.com/olQJgm7.png"
   },
   {
-    "site_id": "etb",
-    "name": "EITB Basque",
-    "lang": "es"
-  },
-  {
-    "site_id": "mliguh",
-    "name": "M+ LALIGA TV UHD",
-    "lang": "es"
-  },
-  {
-    "site_id": "telmad",
-    "name": "Telemadrid",
-    "lang": "es"
-  },
-  {
-    "site_id": "chile",
-    "name": "TV Chile",
-    "lang": "es"
-  },
-  {
-    "site_id": "galav",
-    "name": "Canal de las Estrellas",
-    "lang": "es"
-  },
-  {
-    "site_id": "nickjr",
-    "name": "NICK JR",
-    "lang": "es"
-  },
-  {
-    "site_id": "nova",
-    "name": "Nova",
+    "site_id": "mgoya",
+    "name": "M+ Los Goya",
     "lang": "es"
   },
   {
     "site_id": "tlesur",
     "name": "Telesur",
+    "lang": "es",
+    "logo": "https://i.imgur.com/P50VjRX.png"
+  },
+  {
+    "site_id": "tve",
+    "name": "LA 1",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_1_UHD_Logo_2026.svg/960px-La_1_UHD_Logo_2026.svg.png"
+  },
+  {
+    "site_id": "chap5",
+    "name": "M+ Liga de Campeones 6",
     "lang": "es"
   },
   {
-    "site_id": "tq1",
-    "name": "Alquiler 1",
+    "site_id": "golf2",
+    "name": "M+ Golf 2",
     "lang": "es"
   },
   {
-    "site_id": "tv5",
-    "name": "TV5MONDE",
-    "lang": "es"
+    "site_id": "nickjr",
+    "name": "NICK JR",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
   },
   {
-    "site_id": "usop2",
-    "name": "M+ Deportes 3",
-    "lang": "es"
-  },
-  {
-    "site_id": "casman",
-    "name": "Castilla la Mancha TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "cl13",
-    "name": "Calle 13",
-    "lang": "es"
-  },
-  {
-    "site_id": "dayst",
-    "name": "Daystar Español HD",
-    "lang": "es"
-  },
-  {
-    "site_id": "mindi",
-    "name": "M+ Indie",
-    "lang": "es"
-  },
-  {
-    "site_id": "mlig3",
-    "name": "M+ LALIGA TV 4",
+    "site_id": "tvgal",
+    "name": "TVG -TV Galicia",
     "lang": "es"
   },
   {
@@ -790,69 +587,40 @@
     "lang": "es"
   },
   {
-    "site_id": "cpcome",
-    "name": "M+ Comedia",
-    "lang": "es"
+    "site_id": "dcr",
+    "name": "Discovery",
+    "lang": "es",
+    "logo": "https://i.imgur.com/bZpe8af.png"
   },
   {
-    "site_id": "esp",
-    "name": "Eurosport 1",
-    "lang": "es"
+    "site_id": "mvf1",
+    "name": "DAZN F1",
+    "lang": "es",
+    "logo": "https://i.imgur.com/yFCr5XX.png"
   },
   {
-    "site_id": "esp3",
-    "name": "Esport 3",
-    "lang": "es"
+    "site_id": "sci-fi",
+    "name": "SYFY",
+    "lang": "es",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2505.png"
   },
   {
-    "site_id": "garage",
-    "name": "El Garage TV",
-    "lang": "es"
+    "site_id": "vh1",
+    "name": "MTV 00s",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
   },
   {
-    "site_id": "inteua",
-    "name": "1+1 Internacional",
-    "lang": "es"
+    "site_id": "etb",
+    "name": "EITB Basque",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/960px-ETB_Basque_2022_logo.svg.png"
   },
   {
-    "site_id": "mtv",
-    "name": "MTV",
-    "lang": "es"
-  },
-  {
-    "site_id": "chap6",
-    "name": "M+ Liga de Campeones 7",
-    "lang": "es"
-  },
-  {
-    "site_id": "foxge",
-    "name": "STAR Channel",
-    "lang": "es"
-  },
-  {
-    "site_id": "ib3",
-    "name": "IB3",
-    "lang": "es"
-  },
-  {
-    "site_id": "medite",
-    "name": "La Ocho TV",
-    "lang": "es"
-  },
-  {
-    "site_id": "7tvmur",
-    "name": "7 TV Región Murcia",
-    "lang": "es"
-  },
-  {
-    "site_id": "apunt",
-    "name": "À Punt",
-    "lang": "es"
-  },
-  {
-    "site_id": "extre",
-    "name": "Canal Extremadura",
-    "lang": "es"
+    "site_id": "la2",
+    "name": "LA 2",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/La_2_2026.svg/500px-La_2_2026.svg.png"
   },
   {
     "site_id": "mellav",
@@ -860,8 +628,62 @@
     "lang": "es"
   },
   {
-    "site_id": "tcm",
-    "name": "TCM",
+    "site_id": "mplus2",
+    "name": "Movistar Plus+ 2",
+    "lang": "es"
+  },
+  {
+    "site_id": "mv2",
+    "name": "M+ Series",
+    "lang": "es"
+  },
+  {
+    "site_id": "pcm",
+    "name": "Comedy Central",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a4/Comedy_Central_Austria_2018.png/960px-Comedy_Central_Austria_2018.png"
+  },
+  {
+    "site_id": "tpa",
+    "name": "TPA",
+    "lang": "es",
+    "logo": "https://i.imgur.com/M7aB0LN.png"
+  },
+  {
+    "site_id": "chapio",
+    "name": "M+ Liga de Campeones",
+    "lang": "es"
+  },
+  {
+    "site_id": "cpcole",
+    "name": "M+ Drama",
+    "lang": "es"
+  },
+  {
+    "site_id": "csurhd",
+    "name": "Canal Sur HD",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/960px-Andaluc%C3%ADa_TV_2018_logo.svg.png"
+  },
+  {
+    "site_id": "dayst",
+    "name": "Daystar Español HD",
+    "lang": "es"
+  },
+  {
+    "site_id": "galav",
+    "name": "Canal de las Estrellas",
+    "lang": "es"
+  },
+  {
+    "site_id": "skynw",
+    "name": "Sky News",
+    "lang": "es",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"
+  },
+  {
+    "site_id": "usop11",
+    "name": "M+ Deportes 5",
     "lang": "es"
   },
   {
@@ -870,8 +692,65 @@
     "lang": "es"
   },
   {
-    "site_id": "mezzli",
-    "name": "Mezzo Live",
+    "site_id": "dcesp",
+    "name": "M+ Cine Español",
+    "lang": "es"
+  },
+  {
+    "site_id": "energy",
+    "name": "Energy",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png"
+  },
+  {
+    "site_id": "france",
+    "name": "FRANCE24 (FR)",
+    "lang": "es"
+  },
+  {
+    "site_id": "tv5",
+    "name": "TV5MONDE",
+    "lang": "es",
+    "logo": "https://i.imgur.com/WmRbudc.png"
+  },
+  {
+    "site_id": "btv",
+    "name": "Betevé",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/960px-Logotip_betev%C3%A9.svg.png"
+  },
+  {
+    "site_id": "mclas",
+    "name": "M+ Clásicos",
+    "lang": "es"
+  },
+  {
+    "site_id": "set",
+    "name": "AXN Movies",
+    "lang": "es",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "tv3cat",
+    "name": "TV3",
+    "lang": "es",
+    "logo": "https://i.imgur.com/sCr0h4N.png"
+  },
+  {
+    "site_id": "bbfoo",
+    "name": "BBC Food",
+    "lang": "es",
+    "logo": "https://i.imgur.com/kcmHcSx.png"
+  },
+  {
+    "site_id": "etb3",
+    "name": "ETB 3",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ETB3_2022_logo.svg/960px-ETB3_2022_logo.svg.png"
+  },
+  {
+    "site_id": "mindi",
+    "name": "M+ Indie",
     "lang": "es"
   },
   {
@@ -880,13 +759,237 @@
     "lang": "es"
   },
   {
-    "site_id": "boing",
-    "name": "Boing",
+    "site_id": "cgtnd",
+    "name": "CGTN Documentary",
+    "lang": "es",
+    "logo": "https://i.imgur.com/JHv0WxM.png"
+  },
+  {
+    "site_id": "chap12",
+    "name": "M+ Liga de Campeones 13",
     "lang": "es"
   },
   {
-    "site_id": "chap8",
-    "name": "M+ Liga de Campeones 9",
+    "site_id": "chile",
+    "name": "TV Chile",
+    "lang": "es",
+    "logo": "https://i.imgur.com/oYFto0V.png"
+  },
+  {
+    "site_id": "fdfic",
+    "name": "Factoría de Ficción",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png"
+  },
+  {
+    "site_id": "mliguh",
+    "name": "M+ LALIGA TV UHD",
     "lang": "es"
+  },
+  {
+    "site_id": "bbgea",
+    "name": "BBC Top Gear",
+    "lang": "es"
+  },
+  {
+    "site_id": "canar",
+    "name": "TV Canaria",
+    "lang": "es"
+  },
+  {
+    "site_id": "cyltv",
+    "name": "La 7",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/960px-La_7_logo.svg.png"
+  },
+  {
+    "site_id": "foxge",
+    "name": "STAR Channel",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"
+  },
+  {
+    "site_id": "maxava",
+    "name": "Max Avances",
+    "lang": "es"
+  },
+  {
+    "site_id": "medite",
+    "name": "La Ocho TV",
+    "lang": "es",
+    "logo": "https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png"
+  },
+  {
+    "site_id": "natgw",
+    "name": "Nat Geo Wild",
+    "lang": "es",
+    "logo": "https://i.imgur.com/HoeaQJC.png"
+  },
+  {
+    "site_id": "cansur",
+    "name": "Canal Sur",
+    "lang": "es",
+    "logo": "https://i.imgur.com/LMoIpU2.jpg"
+  },
+  {
+    "site_id": "chap7",
+    "name": "M+ Liga de Campeones 8",
+    "lang": "es"
+  },
+  {
+    "site_id": "clantv",
+    "name": "Clan TVE",
+    "lang": "es"
+  },
+  {
+    "site_id": "cubav",
+    "name": "Cubavisión",
+    "lang": "es",
+    "logo": "https://i.imgur.com/ki9ipMU.png"
+  },
+  {
+    "site_id": "daznl2",
+    "name": "DAZN LALIGA 2",
+    "lang": "es",
+    "logo": "https://i.imgur.com/mfZExZx.png"
+  },
+  {
+    "site_id": "mplus",
+    "name": "Movistar Plus+",
+    "lang": "es",
+    "logo": "https://i.imgur.com/yGQGDoi.png"
+  },
+  {
+    "site_id": "nava",
+    "name": "Navarra TV",
+    "lang": "es",
+    "logo": "https://i.imgur.com/98MvIRA.png"
+  },
+  {
+    "site_id": "baby",
+    "name": "Baby TV",
+    "lang": "es"
+  },
+  {
+    "site_id": "dkiss",
+    "name": "DKISS",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/960px-DKISS_2019_logo.svg.png"
+  },
+  {
+    "site_id": "mcapra",
+    "name": "M+E: Demi Moore",
+    "lang": "es"
+  },
+  {
+    "site_id": "mligs2",
+    "name": "LALIGA TV HYPERMOTION 2",
+    "lang": "es"
+  },
+  {
+    "site_id": "tcm",
+    "name": "TCM",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png"
+  },
+  {
+    "site_id": "cl13",
+    "name": "Calle 13",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Calle13_logo.svg"
+  },
+  {
+    "site_id": "golf+",
+    "name": "M+ Golf",
+    "lang": "es"
+  },
+  {
+    "site_id": "hdtq10",
+    "name": "Alquiler HD",
+    "lang": "es",
+    "logo": "https://i.imgur.com/bqcfqZR.png"
+  },
+  {
+    "site_id": "ubeat",
+    "name": "Ubeat",
+    "lang": "es"
+  },
+  {
+    "site_id": "aljaze",
+    "name": "Al Jazeera English",
+    "lang": "es"
+  },
+  {
+    "site_id": "chap10",
+    "name": "M+ Liga de Campeones 11",
+    "lang": "es"
+  },
+  {
+    "site_id": "classd",
+    "name": "Classica",
+    "lang": "es",
+    "logo": "https://i.imgur.com/AiOZyXP.png"
+  },
+  {
+    "site_id": "colomb",
+    "name": "TV Colombia",
+    "lang": "es",
+    "logo": "https://i.imgur.com/JoGQqmP.png"
+  },
+  {
+    "site_id": "mligs",
+    "name": "LALIGA TV HYPERMOTION",
+    "lang": "es"
+  },
+  {
+    "site_id": "resist",
+    "name": "La Resistencia",
+    "lang": "es",
+    "logo": "https://i.imgur.com/4Fu9gU1.png"
+  },
+  {
+    "site_id": "tdep",
+    "name": "Teledeporte",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TDP_2026.svg/960px-TDP_2026.svg.png"
+  },
+  {
+    "site_id": "c4",
+    "name": "Cuatro",
+    "lang": "es",
+    "logo": "https://i.imgur.com/NYLnABb.png"
+  },
+  {
+    "site_id": "casman",
+    "name": "Castilla la Mancha TV",
+    "lang": "es"
+  },
+  {
+    "site_id": "cpacci",
+    "name": "M+ Acción",
+    "lang": "es"
+  },
+  {
+    "site_id": "divini",
+    "name": "Divinity",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/960px-Divinity.svg.png"
+  },
+  {
+    "site_id": "ewtn",
+    "name": "EWTN",
+    "lang": "es",
+    "logo": "https://i.imgur.com/NXeygNk.png"
+  },
+  {
+    "site_id": "mlig3",
+    "name": "M+ LALIGA TV 4",
+    "lang": "es"
+  },
+  {
+    "site_id": "bemad",
+    "name": "BE MAD",
+    "lang": "es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/960px-BeMad_2022_Logo.svg.png"
   }
 ]

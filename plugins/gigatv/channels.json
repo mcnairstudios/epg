@@ -1,26 +1,40 @@
 [
   {
-    "site_id": "5",
-    "name": "TV5 HD",
-    "lang": "th"
-  },
-  {
-    "site_id": "22",
-    "name": "Nation TV",
+    "site_id": "3",
+    "name": "ThaiPBS",
     "lang": "th",
-    "xmltv_id": "NationTV.th@SD",
-    "logo": "https://i.imgur.com/h3TY38F.png"
+    "xmltv_id": "ThaiPBS.th@SD",
+    "logo": "https://i.imgur.com/CwalZjr.png"
   },
   {
-    "site_id": "204",
-    "name": "A'lure Channel",
+    "site_id": "16",
+    "name": "TNN16",
     "lang": "th",
-    "xmltv_id": "AlureChannel.th@SD",
-    "logo": "https://i.imgur.com/HtFecPv.png"
+    "xmltv_id": "TNN16.th@SD",
+    "logo": "https://i.imgur.com/skpvuKq.png"
   },
   {
-    "site_id": "302",
-    "name": "Cartoonito",
+    "site_id": "18",
+    "name": "JKN 18",
+    "lang": "th",
+    "xmltv_id": "JKN18.th@SD",
+    "logo": "https://i.imgur.com/m4nPR2L.png"
+  },
+  {
+    "site_id": "111",
+    "name": "Rock Action",
+    "lang": "th",
+    "logo": "https://i.imgur.com/l6lmlqG.png"
+  },
+  {
+    "site_id": "121",
+    "name": "Mangorn",
+    "lang": "th",
+    "xmltv_id": "Mangorn.th@SD"
+  },
+  {
+    "site_id": "603",
+    "name": "Bloomberg",
     "lang": "th"
   },
   {
@@ -31,342 +45,20 @@
     "logo": "https://i.imgur.com/nLzdGeX.png"
   },
   {
-    "site_id": "702",
-    "name": "DLTV 2",
+    "site_id": "106",
+    "name": "HBO Family",
     "lang": "th",
-    "xmltv_id": "DLTV2.th@SD",
-    "logo": "https://i.imgur.com/lDBSTfE.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png"
   },
   {
-    "site_id": "7",
-    "name": "T Sports 7",
+    "site_id": "303",
+    "name": "Nickelodeon",
     "lang": "th",
-    "xmltv_id": "TSports7.th@SD",
-    "logo": "https://i.imgur.com/KyI0s5n.png"
-  },
-  {
-    "site_id": "18",
-    "name": "JKN 18",
-    "lang": "th",
-    "xmltv_id": "JKN18.th@SD",
-    "logo": "https://i.imgur.com/m4nPR2L.png"
-  },
-  {
-    "site_id": "30",
-    "name": "MCOT HD",
-    "lang": "th",
-    "xmltv_id": "MCOTHD.th@SD",
-    "logo": "https://i.imgur.com/ejPxGmU.png"
-  },
-  {
-    "site_id": "111",
-    "name": "Rock Action",
-    "lang": "th"
-  },
-  {
-    "site_id": "523",
-    "name": "Animal Show",
-    "lang": "th"
-  },
-  {
-    "site_id": "603",
-    "name": "Bloomberg",
-    "lang": "th"
-  },
-  {
-    "site_id": "606",
-    "name": "Al Jazeera English HD",
-    "lang": "th"
-  },
-  {
-    "site_id": "706",
-    "name": "DLTV 6",
-    "lang": "th",
-    "xmltv_id": "DLTV6.th@SD",
-    "logo": "https://i.imgur.com/qeIHWC0.png"
-  },
-  {
-    "site_id": "601",
-    "name": "BBC News",
-    "lang": "th"
-  },
-  {
-    "site_id": "715",
-    "name": "DLTV 15",
-    "lang": "th",
-    "xmltv_id": "DLTV15.th@SD",
-    "logo": "https://i.imgur.com/onJi2b6.png"
-  },
-  {
-    "site_id": "31",
-    "name": "ONE31 HD",
-    "lang": "th"
-  },
-  {
-    "site_id": "608",
-    "name": "NHK WORLD-JAPAN",
-    "lang": "th"
-  },
-  {
-    "site_id": "708",
-    "name": "DLTV 8",
-    "lang": "th",
-    "xmltv_id": "DLTV8.th@SD",
-    "logo": "https://i.imgur.com/xIwn5Ha.png"
-  },
-  {
-    "site_id": "27",
-    "name": "CH8",
-    "lang": "th"
-  },
-  {
-    "site_id": "206",
-    "name": "Asian Food Network",
-    "lang": "th"
-  },
-  {
-    "site_id": "23",
-    "name": "Workpoint",
-    "lang": "th",
-    "xmltv_id": "WorkpointTV.th@SD",
-    "logo": "https://i.imgur.com/zq6Xshf.png"
-  },
-  {
-    "site_id": "29",
-    "name": "Mono 29",
-    "lang": "th",
-    "xmltv_id": "MONO29.th@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png"
-  },
-  {
-    "site_id": "32",
-    "name": "Thairath TV",
-    "lang": "th",
-    "xmltv_id": "ThairathTV.th@SD",
-    "logo": "https://i.imgur.com/qIorZoy.png"
-  },
-  {
-    "site_id": "33",
-    "name": "3HD",
-    "lang": "th"
-  },
-  {
-    "site_id": "110",
-    "name": "Warner TV",
-    "lang": "th"
-  },
-  {
-    "site_id": "25",
-    "name": "GMM 25",
-    "lang": "th",
-    "xmltv_id": "GMM25.th@SD",
-    "logo": "https://i.imgur.com/uARba6N.png"
-  },
-  {
-    "site_id": "107",
-    "name": "Cinemax",
-    "lang": "th"
-  },
-  {
-    "site_id": "112",
-    "name": "Rock Entertainment",
-    "lang": "th"
-  },
-  {
-    "site_id": "121",
-    "name": "Mangorn",
-    "lang": "th",
-    "xmltv_id": "Mangorn.th@SD"
-  },
-  {
-    "site_id": "602",
-    "name": "CNN INTERNATIONNAL",
-    "lang": "th"
-  },
-  {
-    "site_id": "714",
-    "name": "DLTV 14",
-    "lang": "th",
-    "xmltv_id": "DLTV14.th@SD",
-    "logo": "https://i.imgur.com/HOjZRNS.png"
-  },
-  {
-    "site_id": "34",
-    "name": "AmarinTV HD",
-    "lang": "th",
-    "xmltv_id": "AmarinTV.th@SD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "203",
-    "name": "RUSH Stories",
-    "lang": "th"
-  },
-  {
-    "site_id": "221",
-    "name": "Khongdee",
-    "lang": "th",
-    "xmltv_id": "Khongdee.th@SD",
-    "logo": "https://i.imgur.com/CfLEUYs.png"
-  },
-  {
-    "site_id": "711",
-    "name": "DLTV 11",
-    "lang": "th",
-    "xmltv_id": "DLTV11.th@SD",
-    "logo": "https://i.imgur.com/hFk2b5s.png"
-  },
-  {
-    "site_id": "712",
-    "name": "DLTV 12",
-    "lang": "th",
-    "xmltv_id": "DLTV12.th@SD",
-    "logo": "https://i.imgur.com/ITt6lY7.png"
-  },
-  {
-    "site_id": "716",
-    "name": "ETV",
-    "lang": "th",
-    "xmltv_id": "ETV.th@SD",
-    "logo": "https://i.imgur.com/HTnQGcs.png"
-  },
-  {
-    "site_id": "16",
-    "name": "TNN16",
-    "lang": "th",
-    "xmltv_id": "TNN16.th@SD",
-    "logo": "https://i.imgur.com/skpvuKq.png"
-  },
-  {
-    "site_id": "101",
-    "name": "3BB Asian",
-    "lang": "th"
-  },
-  {
-    "site_id": "103",
-    "name": "HBO",
-    "lang": "th"
-  },
-  {
-    "site_id": "109",
-    "name": "Mono29 Plus",
-    "lang": "th"
-  },
-  {
-    "site_id": "202",
-    "name": "MONO 29 Music Station",
-    "lang": "th"
-  },
-  {
-    "site_id": "207",
-    "name": "Hunan TV HD",
-    "lang": "th"
-  },
-  {
-    "site_id": "208",
-    "name": "Yunnan International",
-    "lang": "th"
-  },
-  {
-    "site_id": "301",
-    "name": "Cartoon Network",
-    "lang": "th"
-  },
-  {
-    "site_id": "4",
-    "name": "ALTV",
-    "lang": "th",
-    "xmltv_id": "ALTV.th@SD",
-    "logo": "https://i.imgur.com/MCbCSWv.png"
-  },
-  {
-    "site_id": "105",
-    "name": "HBO Hits",
-    "lang": "th"
-  },
-  {
-    "site_id": "210",
-    "name": "TLC",
-    "lang": "th"
-  },
-  {
-    "site_id": "401",
-    "name": "3BB Sports One",
-    "lang": "th"
+    "logo": "https://i.imgur.com/08ZUI9k.png"
   },
   {
     "site_id": "411",
     "name": "Golf Channel Thailand HD Plus",
-    "lang": "th"
-  },
-  {
-    "site_id": "504",
-    "name": "Animal Planet",
-    "lang": "th"
-  },
-  {
-    "site_id": "703",
-    "name": "DLTV 3",
-    "lang": "th",
-    "xmltv_id": "DLTV3.th@SD",
-    "logo": "https://i.imgur.com/wmrxerm.png"
-  },
-  {
-    "site_id": "709",
-    "name": "DLTV 9",
-    "lang": "th",
-    "xmltv_id": "DLTV9.th@SD",
-    "logo": "https://i.imgur.com/yPeSAry.png"
-  },
-  {
-    "site_id": "2",
-    "name": "NBT",
-    "lang": "th"
-  },
-  {
-    "site_id": "36",
-    "name": "PPTV HD",
-    "lang": "th",
-    "xmltv_id": "PPTV.th@SD",
-    "logo": "https://i.imgur.com/GZhuLxL.png"
-  },
-  {
-    "site_id": "306",
-    "name": "Boomerang (Thai)",
-    "lang": "th"
-  },
-  {
-    "site_id": "505",
-    "name": "Discovery Asia",
-    "lang": "th"
-  },
-  {
-    "site_id": "604",
-    "name": "CGTN",
-    "lang": "th"
-  },
-  {
-    "site_id": "707",
-    "name": "DLTV 7",
-    "lang": "th",
-    "xmltv_id": "DLTV7.th@SD",
-    "logo": "https://i.imgur.com/OjYwMe3.png"
-  },
-  {
-    "site_id": "713",
-    "name": "DLTV 13",
-    "lang": "th",
-    "xmltv_id": "DLTV13.th@SD",
-    "logo": "https://i.imgur.com/asB5w3v.png"
-  },
-  {
-    "site_id": "304",
-    "name": "Nick Jr.",
-    "lang": "th"
-  },
-  {
-    "site_id": "503",
-    "name": "Discovery Channel",
     "lang": "th"
   },
   {
@@ -377,18 +69,89 @@
     "logo": "https://i.imgur.com/rd9j8Kq.png"
   },
   {
-    "site_id": "522",
-    "name": "MySci",
+    "site_id": "607",
+    "name": "CNA",
     "lang": "th",
-    "xmltv_id": "MySci.th@SD",
-    "logo": "https://i.imgur.com/YtOxw7n.png"
+    "logo": "https://codeit.al/wp-content/uploads/2020/08/cna.png"
   },
   {
-    "site_id": "3",
-    "name": "ThaiPBS",
+    "site_id": "24",
+    "name": "True4U",
     "lang": "th",
-    "xmltv_id": "ThaiPBS.th@SD",
-    "logo": "https://i.imgur.com/CwalZjr.png"
+    "xmltv_id": "True4U.th@SD",
+    "logo": "https://i.imgur.com/O6Xre1O.png"
+  },
+  {
+    "site_id": "302",
+    "name": "Cartoonito",
+    "lang": "th",
+    "logo": "https://i.imgur.com/6vYWCD0.png"
+  },
+  {
+    "site_id": "505",
+    "name": "Discovery Asia",
+    "lang": "th",
+    "logo": "https://i.imgur.com/foLICwL.png"
+  },
+  {
+    "site_id": "30",
+    "name": "MCOT HD",
+    "lang": "th",
+    "xmltv_id": "MCOTHD.th@SD",
+    "logo": "https://i.imgur.com/ejPxGmU.png"
+  },
+  {
+    "site_id": "36",
+    "name": "PPTV HD",
+    "lang": "th",
+    "xmltv_id": "PPTV.th@SD",
+    "logo": "https://i.imgur.com/GZhuLxL.png"
+  },
+  {
+    "site_id": "601",
+    "name": "BBC News",
+    "lang": "th",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "7",
+    "name": "T Sports 7",
+    "lang": "th",
+    "xmltv_id": "TSports7.th@SD",
+    "logo": "https://i.imgur.com/KyI0s5n.png"
+  },
+  {
+    "site_id": "222",
+    "name": "Thainess",
+    "lang": "th",
+    "xmltv_id": "ThainessTV.th@SD",
+    "logo": "https://i.imgur.com/q0emHRY.png"
+  },
+  {
+    "site_id": "605",
+    "name": "CCTV 4",
+    "lang": "th"
+  },
+  {
+    "site_id": "704",
+    "name": "DLTV 4",
+    "lang": "th",
+    "xmltv_id": "DLTV4.th@SD",
+    "logo": "https://i.imgur.com/WkpoQhU.png"
+  },
+  {
+    "site_id": "714",
+    "name": "DLTV 14",
+    "lang": "th",
+    "xmltv_id": "DLTV14.th@SD",
+    "logo": "https://i.imgur.com/HOjZRNS.png"
+  },
+  {
+    "site_id": "716",
+    "name": "ETV",
+    "lang": "th",
+    "xmltv_id": "ETV.th@SD",
+    "logo": "https://i.imgur.com/HTnQGcs.png"
   },
   {
     "site_id": "10",
@@ -398,8 +161,262 @@
     "logo": "https://i.imgur.com/Okcnmt6.png"
   },
   {
-    "site_id": "35",
-    "name": "CH7 HD",
+    "site_id": "221",
+    "name": "Khongdee",
+    "lang": "th",
+    "xmltv_id": "Khongdee.th@SD",
+    "logo": "https://i.imgur.com/CfLEUYs.png"
+  },
+  {
+    "site_id": "306",
+    "name": "Boomerang (Thai)",
+    "lang": "th"
+  },
+  {
+    "site_id": "504",
+    "name": "Animal Planet",
+    "lang": "th",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+  },
+  {
+    "site_id": "604",
+    "name": "CGTN",
+    "lang": "th",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
+  },
+  {
+    "site_id": "34",
+    "name": "AmarinTV HD",
+    "lang": "th",
+    "xmltv_id": "AmarinTV.th@SD",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "104",
+    "name": "HBO Signature",
+    "lang": "th",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png"
+  },
+  {
+    "site_id": "523",
+    "name": "Animal Show",
+    "lang": "th",
+    "logo": "https://i.imgur.com/9iUmjEJ.png"
+  },
+  {
+    "site_id": "109",
+    "name": "Mono29 Plus",
+    "lang": "th",
+    "logo": "https://i.imgur.com/9CIewpi.png"
+  },
+  {
+    "site_id": "31",
+    "name": "ONE31 HD",
+    "lang": "th",
+    "logo": "https://i.imgur.com/HXFNbuc.png"
+  },
+  {
+    "site_id": "101",
+    "name": "3BB Asian",
+    "lang": "th"
+  },
+  {
+    "site_id": "203",
+    "name": "RUSH Stories",
+    "lang": "th",
+    "logo": "https://i.imgur.com/Q4yMYOb.png"
+  },
+  {
+    "site_id": "206",
+    "name": "Asian Food Network",
+    "lang": "th",
+    "logo": "https://i.imgur.com/pux6WN8.png"
+  },
+  {
+    "site_id": "707",
+    "name": "DLTV 7",
+    "lang": "th",
+    "xmltv_id": "DLTV7.th@SD",
+    "logo": "https://i.imgur.com/OjYwMe3.png"
+  },
+  {
+    "site_id": "708",
+    "name": "DLTV 8",
+    "lang": "th",
+    "xmltv_id": "DLTV8.th@SD",
+    "logo": "https://i.imgur.com/xIwn5Ha.png"
+  },
+  {
+    "site_id": "112",
+    "name": "Rock Entertainment",
+    "lang": "th",
+    "logo": "https://i.imgur.com/PWzq0aU.png"
+  },
+  {
+    "site_id": "210",
+    "name": "TLC",
+    "lang": "th",
+    "logo": "https://i.imgur.com/UdLeLar.jpg"
+  },
+  {
+    "site_id": "401",
+    "name": "3BB Sports One",
+    "lang": "th"
+  },
+  {
+    "site_id": "703",
+    "name": "DLTV 3",
+    "lang": "th",
+    "xmltv_id": "DLTV3.th@SD",
+    "logo": "https://i.imgur.com/wmrxerm.png"
+  },
+  {
+    "site_id": "22",
+    "name": "Nation TV",
+    "lang": "th",
+    "xmltv_id": "NationTV.th@SD",
+    "logo": "https://i.imgur.com/h3TY38F.png"
+  },
+  {
+    "site_id": "702",
+    "name": "DLTV 2",
+    "lang": "th",
+    "xmltv_id": "DLTV2.th@SD",
+    "logo": "https://i.imgur.com/lDBSTfE.png"
+  },
+  {
+    "site_id": "713",
+    "name": "DLTV 13",
+    "lang": "th",
+    "xmltv_id": "DLTV13.th@SD",
+    "logo": "https://i.imgur.com/asB5w3v.png"
+  },
+  {
+    "site_id": "107",
+    "name": "Cinemax",
+    "lang": "th",
+    "logo": "https://i.imgur.com/cZWoJWD.png"
+  },
+  {
+    "site_id": "4",
+    "name": "ALTV",
+    "lang": "th",
+    "xmltv_id": "ALTV.th@SD",
+    "logo": "https://i.imgur.com/MCbCSWv.png"
+  },
+  {
+    "site_id": "5",
+    "name": "TV5 HD",
+    "lang": "th",
+    "logo": "https://i.imgur.com/7tzaznY.png"
+  },
+  {
+    "site_id": "208",
+    "name": "Yunnan International",
+    "lang": "th"
+  },
+  {
+    "site_id": "304",
+    "name": "Nick Jr.",
+    "lang": "th",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "606",
+    "name": "Al Jazeera English HD",
+    "lang": "th"
+  },
+  {
+    "site_id": "715",
+    "name": "DLTV 15",
+    "lang": "th",
+    "xmltv_id": "DLTV15.th@SD",
+    "logo": "https://i.imgur.com/onJi2b6.png"
+  },
+  {
+    "site_id": "29",
+    "name": "Mono 29",
+    "lang": "th",
+    "xmltv_id": "MONO29.th@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png"
+  },
+  {
+    "site_id": "33",
+    "name": "3HD",
+    "lang": "th",
+    "logo": "https://i.imgur.com/YRiulCU.png"
+  },
+  {
+    "site_id": "301",
+    "name": "Cartoon Network",
+    "lang": "th",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "site_id": "503",
+    "name": "Discovery Channel",
+    "lang": "th",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "709",
+    "name": "DLTV 9",
+    "lang": "th",
+    "xmltv_id": "DLTV9.th@SD",
+    "logo": "https://i.imgur.com/yPeSAry.png"
+  },
+  {
+    "site_id": "23",
+    "name": "Workpoint",
+    "lang": "th",
+    "xmltv_id": "WorkpointTV.th@SD",
+    "logo": "https://i.imgur.com/zq6Xshf.png"
+  },
+  {
+    "site_id": "25",
+    "name": "GMM 25",
+    "lang": "th",
+    "xmltv_id": "GMM25.th@SD",
+    "logo": "https://i.imgur.com/uARba6N.png"
+  },
+  {
+    "site_id": "207",
+    "name": "Hunan TV HD",
+    "lang": "th"
+  },
+  {
+    "site_id": "602",
+    "name": "CNN INTERNATIONNAL",
+    "lang": "th"
+  },
+  {
+    "site_id": "608",
+    "name": "NHK WORLD-JAPAN",
+    "lang": "th",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
+  },
+  {
+    "site_id": "706",
+    "name": "DLTV 6",
+    "lang": "th",
+    "xmltv_id": "DLTV6.th@SD",
+    "logo": "https://i.imgur.com/qeIHWC0.png"
+  },
+  {
+    "site_id": "712",
+    "name": "DLTV 12",
+    "lang": "th",
+    "xmltv_id": "DLTV12.th@SD",
+    "logo": "https://i.imgur.com/ITt6lY7.png"
+  },
+  {
+    "site_id": "2",
+    "name": "NBT",
+    "lang": "th"
+  },
+  {
+    "site_id": "202",
+    "name": "MONO 29 Music Station",
     "lang": "th"
   },
   {
@@ -410,43 +427,60 @@
     "logo": "https://i.imgur.com/TgN81Zr.png"
   },
   {
-    "site_id": "24",
-    "name": "True4U",
+    "site_id": "27",
+    "name": "CH8",
     "lang": "th",
-    "xmltv_id": "True4U.th@SD",
-    "logo": "https://i.imgur.com/O6Xre1O.png"
+    "logo": "https://i.imgur.com/P3c5jAu.png"
   },
   {
-    "site_id": "104",
-    "name": "HBO Signature",
+    "site_id": "32",
+    "name": "Thairath TV",
+    "lang": "th",
+    "xmltv_id": "ThairathTV.th@SD",
+    "logo": "https://i.imgur.com/qIorZoy.png"
+  },
+  {
+    "site_id": "35",
+    "name": "CH7 HD",
+    "lang": "th",
+    "logo": "https://i.imgur.com/SBCIwek.png"
+  },
+  {
+    "site_id": "103",
+    "name": "HBO",
+    "lang": "th",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
+  },
+  {
+    "site_id": "105",
+    "name": "HBO Hits",
     "lang": "th"
   },
   {
-    "site_id": "106",
-    "name": "HBO Family",
-    "lang": "th"
+    "site_id": "110",
+    "name": "Warner TV",
+    "lang": "th",
+    "logo": "https://i.imgur.com/QtGQR0c.png"
   },
   {
     "site_id": "205",
     "name": "Food Network",
-    "lang": "th"
-  },
-  {
-    "site_id": "222",
-    "name": "Thainess",
     "lang": "th",
-    "xmltv_id": "ThainessTV.th@SD",
-    "logo": "https://i.imgur.com/q0emHRY.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg"
   },
   {
-    "site_id": "303",
-    "name": "Nickelodeon",
-    "lang": "th"
+    "site_id": "522",
+    "name": "MySci",
+    "lang": "th",
+    "xmltv_id": "MySci.th@SD",
+    "logo": "https://i.imgur.com/YtOxw7n.png"
   },
   {
-    "site_id": "605",
-    "name": "CCTV 4",
-    "lang": "th"
+    "site_id": "204",
+    "name": "A'lure Channel",
+    "lang": "th",
+    "xmltv_id": "AlureChannel.th@SD",
+    "logo": "https://i.imgur.com/HtFecPv.png"
   },
   {
     "site_id": "705",
@@ -456,15 +490,10 @@
     "logo": "https://i.imgur.com/J1E89jX.png"
   },
   {
-    "site_id": "607",
-    "name": "CNA",
-    "lang": "th"
-  },
-  {
-    "site_id": "704",
-    "name": "DLTV 4",
+    "site_id": "711",
+    "name": "DLTV 11",
     "lang": "th",
-    "xmltv_id": "DLTV4.th@SD",
-    "logo": "https://i.imgur.com/WkpoQhU.png"
+    "xmltv_id": "DLTV11.th@SD",
+    "logo": "https://i.imgur.com/hFk2b5s.png"
   }
 ]

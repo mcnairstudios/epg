@@ -246,13 +246,14 @@ var siteToPlugin = map[string]string{
 func main() {
 	sitesDir := flag.String("sites", "", "path to iptv-org/epg sites directory")
 	pluginsDir := flag.String("plugins", "", "path to epg plugins directory")
-	dbCSV := flag.String("db", "", "path to iptv-org/database channels.csv for logo enrichment (optional)")
+	dbCSV := flag.String("db", "", "path or URL to iptv-org/database logos.csv for logo enrichment (optional)")
+	channelsCSV := flag.String("channels", "", "path or URL to iptv-org/database channels.csv for name-based logo fallback (optional)")
 	flag.Parse()
 
 	log := zerolog.New(os.Stdout).With().Timestamp().Logger()
 
 	if *sitesDir == "" || *pluginsDir == "" {
-		log.Fatal().Msg("usage: import-channels --sites /path/to/sites --plugins /path/to/plugins [--db /path/to/channels.csv]")
+		log.Fatal().Msg("usage: import-channels --sites /path/to/sites --plugins /path/to/plugins [--db logos.csv] [--channels channels.csv]")
 	}
 
 	logosByID := make(map[string]string)
@@ -260,9 +261,19 @@ func main() {
 		var err error
 		logosByID, err = loadLogosFromDB(*dbCSV)
 		if err != nil {
-			log.Fatal().Err(err).Msg("failed to load channels database")
+			log.Fatal().Err(err).Msg("failed to load logos database")
 		}
 		log.Info().Int("logos", len(logosByID)).Msg("loaded logos from database")
+	}
+
+	logosByName := make(map[string]string)
+	if *channelsCSV != "" && len(logosByID) > 0 {
+		var err error
+		logosByName, err = buildNameLogoIndex(*channelsCSV, logosByID)
+		if err != nil {
+			log.Fatal().Err(err).Msg("failed to load channels database")
+		}
+		log.Info().Int("name_entries", len(logosByName)).Msg("built name-based logo index")
 	}
 
 	files, err := filepath.Glob(filepath.Join(*sitesDir, "*", "*.channels.xml"))
@@ -303,6 +314,9 @@ func main() {
 			logo := ch.Logo
 			if logo == "" && ch.XmltvID != "" {
 				logo = lookupLogo(logosByID, ch.XmltvID)
+			}
+			if logo == "" && name != "" {
+				logo = logosByName[normalizeName(name)]
 			}
 
 			key := ch.SiteID + "|" + ch.Lang + "|" + region
@@ -356,26 +370,31 @@ func main() {
 	fmt.Printf("\nDone: %d unique channels across %d plugins\n", total, pluginCount)
 }
 
-func loadLogosFromDB(path string) (map[string]string, error) {
-	var r io.Reader
+func openCSV(path string) (io.Reader, func(), error) {
 	if strings.HasPrefix(path, "http://") || strings.HasPrefix(path, "https://") {
 		resp, err := http.Get(path) //nolint:noctx
 		if err != nil {
-			return nil, err
+			return nil, nil, err
 		}
-		defer resp.Body.Close()
 		if resp.StatusCode != http.StatusOK {
-			return nil, fmt.Errorf("HTTP %d fetching channels database", resp.StatusCode)
+			resp.Body.Close()
+			return nil, nil, fmt.Errorf("HTTP %d fetching %s", resp.StatusCode, path)
 		}
-		r = resp.Body
-	} else {
-		f, err := os.Open(path)
-		if err != nil {
-			return nil, err
-		}
-		defer f.Close()
-		r = f
+		return resp.Body, func() { resp.Body.Close() }, nil
 	}
+	f, err := os.Open(path)
+	if err != nil {
+		return nil, nil, err
+	}
+	return f, func() { f.Close() }, nil
+}
+
+func loadLogosFromDB(path string) (map[string]string, error) {
+	r, closer, err := openCSV(path)
+	if err != nil {
+		return nil, err
+	}
+	defer closer()
 
 	cr := csv.NewReader(r)
 	header, err := cr.Read()
@@ -415,6 +434,81 @@ func loadLogosFromDB(path string) (map[string]string, error) {
 		}
 	}
 	return logos, nil
+}
+
+func normalizeName(name string) string {
+	name = strings.ToLower(strings.TrimSpace(name))
+	var b strings.Builder
+	for _, r := range name {
+		if (r >= 'a' && r <= 'z') || (r >= '0' && r <= '9') || r == ' ' {
+			b.WriteRune(r)
+		}
+	}
+	return strings.Join(strings.Fields(b.String()), " ")
+}
+
+func buildNameLogoIndex(path string, logosByID map[string]string) (map[string]string, error) {
+	r, closer, err := openCSV(path)
+	if err != nil {
+		return nil, err
+	}
+	defer closer()
+
+	cr := csv.NewReader(r)
+	header, err := cr.Read()
+	if err != nil {
+		return nil, fmt.Errorf("reading CSV header: %w", err)
+	}
+
+	idCol, nameCol, altCol := -1, -1, -1
+	for i, h := range header {
+		switch h {
+		case "id":
+			idCol = i
+		case "name":
+			nameCol = i
+		case "alt_names":
+			altCol = i
+		}
+	}
+	if idCol < 0 || nameCol < 0 {
+		return nil, fmt.Errorf("channels.csv missing 'id' or 'name' column")
+	}
+
+	index := make(map[string]string)
+	for {
+		row, err := cr.Read()
+		if err == io.EOF {
+			break
+		}
+		if err != nil {
+			return nil, fmt.Errorf("reading CSV row: %w", err)
+		}
+		if idCol >= len(row) || nameCol >= len(row) {
+			continue
+		}
+		id := row[idCol]
+		logo := logosByID[id]
+		if logo == "" {
+			continue
+		}
+		names := []string{row[nameCol]}
+		if altCol >= 0 && altCol < len(row) && row[altCol] != "" {
+			for _, alt := range strings.Split(row[altCol], ";") {
+				if alt = strings.TrimSpace(alt); alt != "" {
+					names = append(names, alt)
+				}
+			}
+		}
+		for _, n := range names {
+			if norm := normalizeName(n); norm != "" {
+				if _, exists := index[norm]; !exists {
+					index[norm] = logo
+				}
+			}
+		}
+	}
+	return index, nil
 }
 
 func lookupLogo(logos map[string]string, xmltvID string) string {
