@@ -37,8 +37,13 @@ type externalSnapshot struct {
 func NewExternalSourceManager(path string) *ExternalSourceManager {
 	return &ExternalSourceManager{
 		sources: make(map[string]ExternalSource),
-		client:  &http.Client{Timeout: 120 * time.Second},
-		path:    path,
+		client: &http.Client{
+			Timeout: 120 * time.Second,
+			Transport: &http.Transport{
+				DisableCompression: true,
+			},
+		},
+		path: path,
 	}
 }
 
