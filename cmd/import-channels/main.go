@@ -1,10 +1,13 @@
 package main
 
 import (
+	"encoding/csv"
 	"encoding/json"
 	"encoding/xml"
 	"flag"
 	"fmt"
+	"io"
+	"net/http"
 	"os"
 	"path/filepath"
 	"strings"
@@ -243,12 +246,23 @@ var siteToPlugin = map[string]string{
 func main() {
 	sitesDir := flag.String("sites", "", "path to iptv-org/epg sites directory")
 	pluginsDir := flag.String("plugins", "", "path to epg plugins directory")
+	dbCSV := flag.String("db", "", "path to iptv-org/database channels.csv for logo enrichment (optional)")
 	flag.Parse()
 
 	log := zerolog.New(os.Stdout).With().Timestamp().Logger()
 
 	if *sitesDir == "" || *pluginsDir == "" {
-		log.Fatal().Msg("usage: import-channels --sites /path/to/sites --plugins /path/to/plugins")
+		log.Fatal().Msg("usage: import-channels --sites /path/to/sites --plugins /path/to/plugins [--db /path/to/channels.csv]")
+	}
+
+	logosByID := make(map[string]string)
+	if *dbCSV != "" {
+		var err error
+		logosByID, err = loadLogosFromDB(*dbCSV)
+		if err != nil {
+			log.Fatal().Err(err).Msg("failed to load channels database")
+		}
+		log.Info().Int("logos", len(logosByID)).Msg("loaded logos from database")
 	}
 
 	files, err := filepath.Glob(filepath.Join(*sitesDir, "*", "*.channels.xml"))
@@ -286,6 +300,11 @@ func main() {
 				merged[pluginName] = make(map[string]channelEntry)
 			}
 
+			logo := ch.Logo
+			if logo == "" && ch.XmltvID != "" {
+				logo = logosByID[ch.XmltvID]
+			}
+
 			key := ch.SiteID + "|" + ch.Lang + "|" + region
 			merged[pluginName][key] = channelEntry{
 				SiteID:  ch.SiteID,
@@ -293,7 +312,7 @@ func main() {
 				Lang:    ch.Lang,
 				Region:  region,
 				XmltvID: ch.XmltvID,
-				Logo:    ch.Logo,
+				Logo:    logo,
 			}
 		}
 	}
@@ -330,6 +349,67 @@ func main() {
 	}
 
 	fmt.Printf("\nDone: %d unique channels across %d plugins\n", total, pluginCount)
+}
+
+func loadLogosFromDB(path string) (map[string]string, error) {
+	var r io.Reader
+	if strings.HasPrefix(path, "http://") || strings.HasPrefix(path, "https://") {
+		resp, err := http.Get(path) //nolint:noctx
+		if err != nil {
+			return nil, err
+		}
+		defer resp.Body.Close()
+		if resp.StatusCode != http.StatusOK {
+			return nil, fmt.Errorf("HTTP %d fetching channels database", resp.StatusCode)
+		}
+		r = resp.Body
+	} else {
+		f, err := os.Open(path)
+		if err != nil {
+			return nil, err
+		}
+		defer f.Close()
+		r = f
+	}
+
+	cr := csv.NewReader(r)
+	header, err := cr.Read()
+	if err != nil {
+		return nil, fmt.Errorf("reading CSV header: %w", err)
+	}
+
+	idCol, logoCol := -1, -1
+	for i, h := range header {
+		switch h {
+		case "id":
+			idCol = i
+		case "logo":
+			logoCol = i
+		}
+	}
+	if idCol < 0 || logoCol < 0 {
+		return nil, fmt.Errorf("channels.csv missing 'id' or 'logo' column")
+	}
+
+	logos := make(map[string]string)
+	for {
+		row, err := cr.Read()
+		if err == io.EOF {
+			break
+		}
+		if err != nil {
+			return nil, fmt.Errorf("reading CSV row: %w", err)
+		}
+		if idCol >= len(row) || logoCol >= len(row) {
+			continue
+		}
+		id := row[idCol]
+		logo := row[logoCol]
+		if id != "" && logo != "" {
+			logos[id] = logo
+		}
+	}
+	return logos, nil
 }
 
 func extractRegion(filename string) string {
