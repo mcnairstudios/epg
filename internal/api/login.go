@@ -32,11 +32,13 @@ func (s *Server) login(w http.ResponseWriter, r *http.Request) {
 	}
 
 	token := s.users.CreateSession(user.ID)
+	secure := r.TLS != nil || r.Header.Get("X-Forwarded-Proto") == "https"
 	http.SetCookie(w, &http.Cookie{
 		Name:     "epg_session",
 		Value:    token,
 		Path:     "/",
 		HttpOnly: true,
+		Secure:   secure,
 		SameSite: http.SameSiteStrictMode,
 		MaxAge:   86400,
 	})
