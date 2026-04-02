@@ -1,10 +1,8 @@
 [
   {
-    "site_id": "channel-2",
-    "name": "Channel 2",
-    "lang": "fj",
-    "xmltv_id": "Channel2.fj@SD",
-    "logo": "https://i.imgur.com/damLvxH.png"
+    "site_id": "9-education-channel",
+    "name": "Education Channel",
+    "lang": "fj"
   },
   {
     "site_id": "fbc",
@@ -21,6 +19,13 @@
     "logo": "https://i.imgur.com/fIm6sCt.png"
   },
   {
+    "site_id": "fbc-2",
+    "name": "FBC",
+    "lang": "fj",
+    "xmltv_id": "FBCTV.fj@SD",
+    "logo": "https://i.imgur.com/jEE23Cd.png"
+  },
+  {
     "site_id": "fiji_one",
     "name": "Fiji One",
     "lang": "fj",
@@ -35,13 +40,6 @@
     "logo": "https://i.imgur.com/aUq8Un5.png"
   },
   {
-    "site_id": "mai-tv",
-    "name": "Mai Tv",
-    "lang": "fj",
-    "xmltv_id": "MaiTV.fj@SD",
-    "logo": "https://i.imgur.com/iz60Nhx.png"
-  },
-  {
     "site_id": "parliament",
     "name": "Parliament Channel",
     "lang": "fj",
@@ -49,15 +47,17 @@
     "logo": "https://i.imgur.com/peKAzDv.png"
   },
   {
-    "site_id": "9-education-channel",
-    "name": "Education Channel",
-    "lang": "fj"
+    "site_id": "channel-2",
+    "name": "Channel 2",
+    "lang": "fj",
+    "xmltv_id": "Channel2.fj@SD",
+    "logo": "https://i.imgur.com/damLvxH.png"
   },
   {
-    "site_id": "fbc-2",
-    "name": "FBC",
+    "site_id": "mai-tv",
+    "name": "Mai Tv",
     "lang": "fj",
-    "xmltv_id": "FBCTV.fj@SD",
-    "logo": "https://i.imgur.com/jEE23Cd.png"
+    "xmltv_id": "MaiTV.fj@SD",
+    "logo": "https://i.imgur.com/iz60Nhx.png"
   }
 ]

@@ -1,69 +1,10 @@
 [
   {
-    "site_id": "ctv/CFCF",
-    "name": "CFCF",
+    "site_id": "ahc/AHC",
+    "name": "American Hero Channel",
     "lang": "fr",
-    "xmltv_id": "CFCFDT.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png"
-  },
-  {
-    "site_id": "deja/DEJA",
-    "name": "Déjà View",
-    "lang": "fr",
-    "xmltv_id": "DejaView.ca@SD",
-    "logo": "https://i.imgur.com/LV4XcJf.png"
-  },
-  {
-    "site_id": "disf/DISF",
-    "name": "La chaîne Disney",
-    "lang": "fr",
-    "xmltv_id": "LaChaineDisney.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/DisneyLaChaine.svg/960px-DisneyLaChaine.svg.png"
-  },
-  {
-    "site_id": "ertw/ERTW",
-    "name": "ERT World OTN2",
-    "lang": "fr",
-    "xmltv_id": "ERTWorld.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/960px-ChannelLogo-ERTWORLD1.png"
-  },
-  {
-    "site_id": "expl/EXPLO",
-    "name": "Explora",
-    "lang": "fr",
-    "xmltv_id": "IciExplora.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ICI_Explora_logo.svg/960px-ICI_Explora_logo.svg.png"
-  },
-  {
-    "site_id": "myst/ADDIK",
-    "name": "addikTV",
-    "lang": "fr",
-    "xmltv_id": "addikTV.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Addik_TV.svg/960px-Addik_TV.svg.png"
-  },
-  {
-    "site_id": "nbc/KING",
-    "name": "KING",
-    "lang": "fr",
-    "xmltv_id": "KINGDT1.us@SD",
-    "logo": "https://i.imgur.com/fTRLwhP.png"
-  },
-  {
-    "site_id": "nw/CNEHD",
-    "name": "CBC News Network HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "series/SERP",
-    "name": "Séries Plus",
-    "lang": "fr",
-    "xmltv_id": "SeriesPlus.ca@SD",
-    "logo": "https://i.imgur.com/pXVgaD5.png"
-  },
-  {
-    "site_id": "speed/FSRHD",
-    "name": "FOX Sports Racing",
-    "lang": "fr"
+    "xmltv_id": "AmericanHeroesChannel.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png"
   },
   {
     "site_id": "tact/AMITV",
@@ -73,51 +14,23 @@
     "logo": "https://i.imgur.com/nq9xa4N.png"
   },
   {
-    "site_id": "tdc/DISCH",
-    "name": "Discovery HD",
+    "site_id": "v/NVSMT",
+    "name": "NVSMT",
+    "lang": "fr",
+    "xmltv_id": "Noovo.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Noovo_logo.png/960px-Noovo_logo.png"
+  },
+  {
+    "site_id": "ae/AE",
+    "name": "A\u0026E",
+    "lang": "fr",
+    "xmltv_id": "AE.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"
+  },
+  {
+    "site_id": "city/CITHD",
+    "name": "City HD",
     "lang": "fr"
-  },
-  {
-    "site_id": "fair/FAIRCH",
-    "name": "FAIR",
-    "lang": "fr",
-    "xmltv_id": "FairchildTV1.ca@East",
-    "logo": "https://i.imgur.com/oKP1he0.png"
-  },
-  {
-    "site_id": "cnn/CNNHD",
-    "name": "CNN HD",
-    "lang": "fr",
-    "xmltv_id": "CNN.us@SD",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png"
-  },
-  {
-    "site_id": "enew/ENEW",
-    "name": "Euronews",
-    "lang": "fr",
-    "xmltv_id": "EuronewsEnglish.fr@SD",
-    "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"
-  },
-  {
-    "site_id": "tmn/HBO",
-    "name": "HBO",
-    "lang": "fr",
-    "xmltv_id": "HBO1.ca@SD",
-    "logo": "https://i.imgur.com/2pD6eN6.png"
-  },
-  {
-    "site_id": "tve/TVE",
-    "name": "TVE1",
-    "lang": "fr",
-    "xmltv_id": "TVEInternacionalAmerica.es@SD",
-    "logo": "https://i.ibb.co/RpKLCMvp/tve.png"
-  },
-  {
-    "site_id": "vox/MATV",
-    "name": "MAMTL",
-    "lang": "fr",
-    "xmltv_id": "MAtv.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MAtv_%28en%29_logo.png/960px-MAtv_%28en%29_logo.png"
   },
   {
     "site_id": "cnnh/HLN",
@@ -127,787 +40,16 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png"
   },
   {
-    "site_id": "evasion/EVAS",
-    "name": "Évasion",
+    "site_id": "deja/DEJA",
+    "name": "Déjà View",
     "lang": "fr",
-    "xmltv_id": "Evasion.ca@SD",
-    "logo": "https://i.imgur.com/zC4JKJc.png"
+    "xmltv_id": "DejaView.ca@SD",
+    "logo": "https://i.imgur.com/LV4XcJf.png"
   },
   {
-    "site_id": "mlbn/MLBN",
-    "name": "MLB Network SD",
-    "lang": "fr",
-    "xmltv_id": "MLBNetwork.us@SD",
-    "logo": "https://i.imgur.com/sA5V39D.png"
-  },
-  {
-    "site_id": "mmax/MAXHD",
-    "name": "MAX HD",
+    "site_id": "ttf/TTF",
+    "name": "TTF HD",
     "lang": "fr"
-  },
-  {
-    "site_id": "pbs/WETK",
-    "name": "WETK",
-    "lang": "fr",
-    "xmltv_id": "WETKDT1.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"
-  },
-  {
-    "site_id": "rdi/RDI",
-    "name": "RDI",
-    "lang": "fr",
-    "xmltv_id": "IciRDI.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png"
-  },
-  {
-    "site_id": "snet/RSNP",
-    "name": "Sports Net Pacifique",
-    "lang": "fr",
-    "xmltv_id": "Sportsnet.ca@Pacific",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png"
-  },
-  {
-    "site_id": "food/FOOD",
-    "name": "FOOD",
-    "lang": "fr",
-    "xmltv_id": "FoodNetwork.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg"
-  },
-  {
-    "site_id": "rds2/RDS2H",
-    "name": "RDS2 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "salt/SALTL",
-    "name": "Salt + Light TV",
-    "lang": "fr",
-    "xmltv_id": "SaltPlusLightTelevision.ca@SD",
-    "logo": "https://i.imgur.com/4tRoBsj.png"
-  },
-  {
-    "site_id": "stvi/STVI",
-    "name": "STVI",
-    "lang": "fr",
-    "xmltv_id": "StingrayVibe.ca@SD"
-  },
-  {
-    "site_id": "tfo/TFO",
-    "name": "TFO",
-    "lang": "fr",
-    "xmltv_id": "CHLFTV.ca@SD",
-    "logo": "https://i.imgur.com/Jy1XZpN.png"
-  },
-  {
-    "site_id": "amit/AMIT",
-    "name": "AMI-Télé",
-    "lang": "fr",
-    "xmltv_id": "AMItele.ca@SD"
-  },
-  {
-    "site_id": "disx/DISX",
-    "name": "Disney XD SD",
-    "lang": "fr",
-    "xmltv_id": "DisneyXD.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg"
-  },
-  {
-    "site_id": "nfln/NFLHD",
-    "name": "NFL HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "pbs/PBS",
-    "name": "WETK HD",
-    "lang": "fr",
-    "xmltv_id": "WETKHD.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"
-  },
-  {
-    "site_id": "play/PLAYBO",
-    "name": "PLAYBOY",
-    "lang": "fr",
-    "xmltv_id": "PlayboyTV.us@SD",
-    "logo": "https://i.imgur.com/clpxgYh.png"
-  },
-  {
-    "site_id": "rdi/RDIHD",
-    "name": "RDI HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tsn/TSN5H",
-    "name": "TSN HD (5)",
-    "lang": "fr"
-  },
-  {
-    "site_id": "hgtv/HGTVH",
-    "name": "HGTV HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "prise2/PR2",
-    "name": "Prise 2",
-    "lang": "fr",
-    "xmltv_id": "Prise2.ca@SD",
-    "logo": "https://i.imgur.com/5wnuHIg.png"
-  },
-  {
-    "site_id": "tsn/TSN2",
-    "name": "TSN2",
-    "lang": "fr",
-    "xmltv_id": "TSN2.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png"
-  },
-  {
-    "site_id": "ttf/TOONF",
-    "name": "TOONF",
-    "lang": "fr",
-    "xmltv_id": "TeletoonFrench.ca@SD",
-    "logo": "https://i.imgur.com/dg65Odu.png"
-  },
-  {
-    "site_id": "bnnb/BNNB",
-    "name": "BNN Bloomberg",
-    "lang": "fr",
-    "xmltv_id": "BNNBloomberg.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png"
-  },
-  {
-    "site_id": "tmn/HBOCH",
-    "name": "HBO HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "trop/DTOUR",
-    "name": "DTOUR",
-    "lang": "fr",
-    "xmltv_id": "DTour.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dtour_Logo.svg/960px-Dtour_Logo.svg.png"
-  },
-  {
-    "site_id": "chh/CITYMH",
-    "name": "CJNT (Metro 14)",
-    "lang": "fr"
-  },
-  {
-    "site_id": "crtn/CRTN",
-    "name": "Cartoon Network HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "fxx/FXX",
-    "name": "FXX SD",
-    "lang": "fr",
-    "xmltv_id": "FXX.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png"
-  },
-  {
-    "site_id": "plan/PLAHD",
-    "name": "Planète HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tv5/TV5",
-    "name": "TV5",
-    "lang": "fr",
-    "xmltv_id": "TV5QuebecCanada.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png"
-  },
-  {
-    "site_id": "wsbk/WSBK",
-    "name": "WSBK",
-    "lang": "fr",
-    "xmltv_id": "WSBKDT1.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/WSBK-TV_2015_logo.svg/960px-WSBK-TV_2015_logo.svg.png"
-  },
-  {
-    "site_id": "idee/CASA",
-    "name": "CASA",
-    "lang": "fr",
-    "xmltv_id": "Casa.ca@SD",
-    "logo": "https://i.imgur.com/JFYOl5D.png"
-  },
-  {
-    "site_id": "rwd/RWD",
-    "name": "Rewind",
-    "lang": "fr",
-    "xmltv_id": "Rewind.ca@SD",
-    "logo": "https://i.imgur.com/vHVoxQp.png"
-  },
-  {
-    "site_id": "se/SEHD",
-    "name": "SE HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "spar/SPARKHD",
-    "name": "ABC Sparks HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "src/CBUFT",
-    "name": "CBUFT",
-    "lang": "fr",
-    "xmltv_id": "CBUFTDT.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png"
-  },
-  {
-    "site_id": "aptn/APTN",
-    "name": "Aboriginal Peoples Television Network",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cgtv/GAMETV",
-    "name": "GAME TV",
-    "lang": "fr",
-    "xmltv_id": "GameTV.ca@SD",
-    "logo": "https://i.imgur.com/9ddVzCC.png"
-  },
-  {
-    "site_id": "mlle/MOI",
-    "name": "MOI ET CIE",
-    "lang": "fr",
-    "xmltv_id": "MoietCie.ca@SD",
-    "logo": "https://i.imgur.com/7wYLZjC.png"
-  },
-  {
-    "site_id": "rain/RAIN",
-    "name": "RAI News",
-    "lang": "fr",
-    "xmltv_id": "RaiNews24.it@SD",
-    "logo": "https://i.imgur.com/n2u57y3.png"
-  },
-  {
-    "site_id": "sav/SAVH",
-    "name": "SAVM HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "seta/SNWL",
-    "name": "Sportsnet World",
-    "lang": "fr",
-    "xmltv_id": "SportsnetWorld.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/960px-SportsnetWorld.svg.png"
-  },
-  {
-    "site_id": "boom/BOOMH",
-    "name": "Boomerang HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "city/CITHD",
-    "name": "City HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ctv/CTVHD",
-    "name": "CFCF HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "fris/FRIS",
-    "name": "Frissons TV SD",
-    "lang": "fr",
-    "xmltv_id": "FrissonsTV.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/07/Frissons_TV_New.png"
-  },
-  {
-    "site_id": "idee/CASAH",
-    "name": "CASA HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "lsta/MTIMH",
-    "name": "MovieTime HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mtvc/MTVC",
-    "name": "MTV Canada",
-    "lang": "fr",
-    "xmltv_id": "MTV.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
-  },
-  {
-    "site_id": "vox/MAHD",
-    "name": "MATV HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ahc/AHC",
-    "name": "American Hero Channel",
-    "lang": "fr",
-    "xmltv_id": "AmericanHeroesChannel.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png"
-  },
-  {
-    "site_id": "d/D",
-    "name": "D",
-    "lang": "fr",
-    "xmltv_id": "CanalD.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/CanalD.svg/960px-CanalD.svg.png"
-  },
-  {
-    "site_id": "raiw/RAIW",
-    "name": "RAI World",
-    "lang": "fr"
-  },
-  {
-    "site_id": "src/SRCHD",
-    "name": "CBFT HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tree/TREE",
-    "name": "TREE",
-    "lang": "fr",
-    "xmltv_id": "TreehouseTV.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Treehouse_TV_2013.png"
-  },
-  {
-    "site_id": "wtn/WTN",
-    "name": "WTN",
-    "lang": "fr",
-    "xmltv_id": "WNetwork.ca@East",
-    "logo": "https://i.imgur.com/t7XdBh8.png"
-  },
-  {
-    "site_id": "expl/EXPHD",
-    "name": "Explora HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "boom/BOOMS",
-    "name": "Boomrang SD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cbc/CBMT",
-    "name": "CBVU-TV",
-    "lang": "fr",
-    "xmltv_id": "CBMTDT.ca@SD",
-    "logo": "https://i.imgur.com/OiiM6Mz.png"
-  },
-  {
-    "site_id": "cpop/POPHD",
-    "name": "Ciné-pop HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "crv/CRV",
-    "name": "Crave 1",
-    "lang": "fr",
-    "xmltv_id": "Crave1.ca@SD",
-    "logo": "https://i.imgur.com/ZkRQ0r1.png"
-  },
-  {
-    "site_id": "ment/H2",
-    "name": "H2",
-    "lang": "fr",
-    "xmltv_id": "History2.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
-  },
-  {
-    "site_id": "se/SE2HD",
-    "name": "SE 2 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tsn/TSN4",
-    "name": "TSN4",
-    "lang": "fr",
-    "xmltv_id": "TSN4.ca@SD",
-    "logo": "https://i.imgur.com/qJyAWU8.png"
-  },
-  {
-    "site_id": "bet/BET",
-    "name": "BLACK ENTERTAINMENT",
-    "lang": "fr",
-    "xmltv_id": "BET.ca@SD",
-    "logo": "https://i.imgur.com/KG3CzsF.png"
-  },
-  {
-    "site_id": "ewtn/EWTN",
-    "name": "EWTN",
-    "lang": "fr",
-    "xmltv_id": "EWTN.us@Canada",
-    "logo": "https://i.imgur.com/sua70RO.png"
-  },
-  {
-    "site_id": "ris/RDSIH",
-    "name": "RDS Info HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "scor/SN360HD",
-    "name": "The Score HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tsn/TSN3H",
-    "name": "TSN3 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tvas/TVASP",
-    "name": "TVA Sports",
-    "lang": "fr",
-    "xmltv_id": "TVASports.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TVASports.svg/960px-TVASports.svg.png"
-  },
-  {
-    "site_id": "figh/FIGHT",
-    "name": "Fight Network",
-    "lang": "fr",
-    "xmltv_id": "FightNetwork.ca@SD",
-    "logo": "https://i.imgur.com/vlKPZHR.png"
-  },
-  {
-    "site_id": "fox/WFFFH",
-    "name": "WFFF",
-    "lang": "fr",
-    "xmltv_id": "WFFFDT1.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png"
-  },
-  {
-    "site_id": "game/GSN",
-    "name": "GAME SHOW NETWORK",
-    "lang": "fr",
-    "xmltv_id": "GameShowNetwork.us@East",
-    "logo": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg"
-  },
-  {
-    "site_id": "cook/COOK",
-    "name": "Cooking Channel SD",
-    "lang": "fr",
-    "xmltv_id": "CookingChannel.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cooking_Channel_Canada.png/960px-Cooking_Channel_Canada.png"
-  },
-  {
-    "site_id": "dw/DWTV",
-    "name": "Deutsche Welle",
-    "lang": "fr",
-    "xmltv_id": "DW.de@English",
-    "logo": "https://i.imgur.com/8MRNFb9.png"
-  },
-  {
-    "site_id": "nba/NBAHD",
-    "name": "NBA TV HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tsn/TSN5",
-    "name": "TSN (5)",
-    "lang": "fr",
-    "xmltv_id": "TSN5.ca@SD",
-    "logo": "https://i.imgur.com/HEzHpzz.png"
-  },
-  {
-    "site_id": "2m/2M",
-    "name": "2M",
-    "lang": "fr",
-    "xmltv_id": "2MMonde.ma@SD",
-    "logo": "https://i.imgur.com/MvpntzA.png"
-  },
-  {
-    "site_id": "aptn/APTHD",
-    "name": "APTN HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "art/ART",
-    "name": "Art America",
-    "lang": "fr",
-    "xmltv_id": "ARTAmerica.sa@SD",
-    "logo": "https://i.imgur.com/QFBzdMv.png"
-  },
-  {
-    "site_id": "sc2/SC2",
-    "name": "Super Channel 2",
-    "lang": "fr",
-    "xmltv_id": "SuperChannelHeartHome.ca@SD",
-    "logo": "https://i.imgur.com/Mb1Xmh8.png"
-  },
-  {
-    "site_id": "tcmv/TCMV",
-    "name": "TCM HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "elle/ELLE",
-    "name": "Elle Fictions SD",
-    "lang": "fr",
-    "xmltv_id": "ElleFictions.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Elle_Fictions_logo.png/960px-Elle_Fictions_logo.png"
-  },
-  {
-    "site_id": "evasion/EVAHD",
-    "name": "Évasion HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "sc3/SC3HD",
-    "name": "Super Channel 3 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "par/PAR",
-    "name": "Paramount SD",
-    "lang": "fr",
-    "xmltv_id": "ParamountNetwork.us@East",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png"
-  },
-  {
-    "site_id": "rds/RDS",
-    "name": "RDS",
-    "lang": "fr",
-    "xmltv_id": "RDS.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/960px-RDS_logo.svg.png"
-  },
-  {
-    "site_id": "vie/VIE",
-    "name": "Canal Vie",
-    "lang": "fr",
-    "xmltv_id": "CanalVie.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/CanalVie.svg/960px-CanalVie.svg.png"
-  },
-  {
-    "site_id": "ment/H2HD",
-    "name": "H2 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "oash/NATUR",
-    "name": "Oasis HD",
-    "lang": "fr",
-    "xmltv_id": "LoveNature.ca@SD",
-    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
-  },
-  {
-    "site_id": "qub/QUB",
-    "name": "QUB Radio",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tqc/TQCHD",
-    "name": "CIVM",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ntv/CJON",
-    "name": "CJON",
-    "lang": "fr",
-    "xmltv_id": "CJONDT.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG"
-  },
-  {
-    "site_id": "nw/CBCN",
-    "name": "CBC News Network",
-    "lang": "fr",
-    "xmltv_id": "CBCNewsNetwork.ca@SD",
-    "logo": "https://i.imgur.com/SjTdhvJ.png"
-  },
-  {
-    "site_id": "ytv/YTV",
-    "name": "YTV",
-    "lang": "fr",
-    "xmltv_id": "YTV.ca@East",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png"
-  },
-  {
-    "site_id": "chh/CITYM",
-    "name": "CJNT (Metro 14)",
-    "lang": "fr",
-    "xmltv_id": "CJNTDT.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/960px-Citytv_logo.svg.png"
-  },
-  {
-    "site_id": "cott/COTT",
-    "name": "Cottage Life",
-    "lang": "fr",
-    "xmltv_id": "CottageLife.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/960px-Cottage_Life_Logo.svg.png"
-  },
-  {
-    "site_id": "cw/KTLA",
-    "name": "KTLA",
-    "lang": "fr",
-    "xmltv_id": "KTLADT1.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png"
-  },
-  {
-    "site_id": "historia/HISF",
-    "name": "Historia",
-    "lang": "fr",
-    "xmltv_id": "Historia.ca@SD",
-    "logo": "https://i.imgur.com/TMXYZ3r.png"
-  },
-  {
-    "site_id": "se/SE",
-    "name": "SE",
-    "lang": "fr",
-    "xmltv_id": "SuperEcran1.ca@SD",
-    "logo": "https://i.imgur.com/uaQkxgr.png"
-  },
-  {
-    "site_id": "cour/ID",
-    "name": "Investigation Discovery Canada",
-    "lang": "fr",
-    "xmltv_id": "InvestigationDiscovery.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "adsm/ADSM",
-    "name": "Adult Swim SD",
-    "lang": "fr",
-    "xmltv_id": "AdultSwim.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png"
-  },
-  {
-    "site_id": "artv/ARTHD",
-    "name": "Artv HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "drma/DRMA",
-    "name": "CTV Drama SD",
-    "lang": "fr",
-    "xmltv_id": "CTVDramaChannel.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/960px-CTV_Drama_Channel_2019.svg.png"
-  },
-  {
-    "site_id": "life/SLICE+HD",
-    "name": "Slice HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rnsu/RAI",
-    "name": "RAI Nettuno Sat Uno",
-    "lang": "fr",
-    "xmltv_id": "UniNettunoUniversityTV.it@SD",
-    "logo": "https://i.imgur.com/c9So8nf.png"
-  },
-  {
-    "site_id": "snet/RSNW",
-    "name": "Sports Net West",
-    "lang": "fr",
-    "xmltv_id": "Sportsnet.ca@West",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png"
-  },
-  {
-    "site_id": "tsn/TSN4H",
-    "name": "TSN4 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "besp/BESP",
-    "name": "BeIN Sports ESP SD",
-    "lang": "fr",
-    "xmltv_id": "beINSportsenEspanol.qa@SD",
-    "logo": "https://i.imgur.com/J5aurrb.png"
-  },
-  {
-    "site_id": "hard/PLAYM",
-    "name": "Hard",
-    "lang": "fr",
-    "xmltv_id": "PlaymenTV.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Playmen_TV_logo.png/960px-Playmen_TV_logo.png"
-  },
-  {
-    "site_id": "ici/ICIHD",
-    "name": "ICI Canal international HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "series/SEPHD",
-    "name": "Séries Plus HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "v/NVSMT",
-    "name": "NVSMT",
-    "lang": "fr",
-    "xmltv_id": "Noovo.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Noovo_logo.png/960px-Noovo_logo.png"
-  },
-  {
-    "site_id": "d/D+HD",
-    "name": "D HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "dciv/DISCC",
-    "name": "Discovery Science",
-    "lang": "fr",
-    "xmltv_id": "DiscoveryScience.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"
-  },
-  {
-    "site_id": "lcn/LCN",
-    "name": "LCN",
-    "lang": "fr",
-    "xmltv_id": "LCN.ca@SD",
-    "logo": "https://i.imgur.com/iKDLgOG.png"
-  },
-  {
-    "site_id": "met/METEO",
-    "name": "METEO",
-    "lang": "fr",
-    "xmltv_id": "MeteoMedia.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/MeteoMedia_2011.svg/960px-MeteoMedia_2011.svg.png"
-  },
-  {
-    "site_id": "scla/SCLA",
-    "name": "Classica",
-    "lang": "fr",
-    "xmltv_id": "Classica.us@SD",
-    "logo": "https://i.imgur.com/bLjmQTU.png"
-  },
-  {
-    "site_id": "wpix/WPIX",
-    "name": "WPIX",
-    "lang": "fr",
-    "xmltv_id": "WPIXDT1.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png"
-  },
-  {
-    "site_id": "crtn/CRTS",
-    "name": "Cartoon Network SD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "dciv/DCIV",
-    "name": "Discovery Science HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "famj/FAMJ",
-    "name": "Family Jr SD",
-    "lang": "fr",
-    "xmltv_id": "FamilyJr.ca@SD",
-    "logo": "https://i.imgur.com/6xbK9lv.png"
-  },
-  {
-    "site_id": "ita/ITA",
-    "name": "Mediaset Italia",
-    "lang": "fr",
-    "xmltv_id": "MediasetItalia.ca@SD",
-    "logo": "https://i.imgur.com/F4gyqhw.png"
-  },
-  {
-    "site_id": "sc3/SC3",
-    "name": "Super Channel 3",
-    "lang": "fr",
-    "xmltv_id": "SuperChannelVault.ca@SD",
-    "logo": "https://i.imgur.com/mH8Yv7u.png"
-  },
-  {
-    "site_id": "spar/SPARK",
-    "name": "SPARK",
-    "lang": "fr",
-    "xmltv_id": "ABCSpark.ca@SD",
-    "logo": "https://i.imgur.com/MOU2PAf.png"
   },
   {
     "site_id": "tvs2/TVS2",
@@ -922,66 +64,6 @@
     "lang": "fr"
   },
   {
-    "site_id": "historia/HIAHD",
-    "name": "Historia HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mm/MMUSIC",
-    "name": "MuchMusic",
-    "lang": "fr",
-    "xmltv_id": "Much.ca@SD",
-    "logo": "https://i.imgur.com/JjYki5V.png"
-  },
-  {
-    "site_id": "sc1/SC1HD",
-    "name": "Super Channel 1 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "wthr/WTHR",
-    "name": "WTHR",
-    "lang": "fr",
-    "xmltv_id": "TheWeatherNetwork.ca@SD",
-    "logo": "https://i.imgur.com/V6ZUwUY.png"
-  },
-  {
-    "site_id": "wwe/WWE",
-    "name": "WWE",
-    "lang": "fr",
-    "xmltv_id": "WWENetwork.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png"
-  },
-  {
-    "site_id": "zest/ZESHD",
-    "name": "Zeste HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "disn/DISN",
-    "name": "Disney Channel",
-    "lang": "fr",
-    "xmltv_id": "DisneyChannel.ca@East",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"
-  },
-  {
-    "site_id": "scfi/SCFI",
-    "name": "CTV SCIFI SD",
-    "lang": "fr",
-    "xmltv_id": "CTVSciFiChannel.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CTV_Sci-Fi_Channel_2019.svg/960px-CTV_Sci-Fi_Channel_2019.svg.png"
-  },
-  {
-    "site_id": "tlc/TLCH",
-    "name": "TLC HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "vie/VIEHD",
-    "name": "Canal Vie HD",
-    "lang": "fr"
-  },
-  {
     "site_id": "bbce/BBCE",
     "name": "BBC Earth",
     "lang": "fr",
@@ -989,85 +71,34 @@
     "logo": "https://i.imgur.com/nGSsUd4.png"
   },
   {
-    "site_id": "src/CBFT",
-    "name": "CBFT",
+    "site_id": "bnnb/BNNB",
+    "name": "BNN Bloomberg",
     "lang": "fr",
-    "xmltv_id": "CBFTDT.ca@SD",
-    "logo": "https://i.imgur.com/pFCJGj4.png"
+    "xmltv_id": "BNNBloomberg.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png"
   },
   {
-    "site_id": "animal/ANPL",
-    "name": "Animal Planet",
-    "lang": "fr",
-    "xmltv_id": "AnimalPlanet.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
-  },
-  {
-    "site_id": "cpac/CPAC",
-    "name": "CPAC",
-    "lang": "fr",
-    "xmltv_id": "CPACFrench.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png"
-  },
-  {
-    "site_id": "inve/INVE",
-    "name": "Investigation",
-    "lang": "fr",
-    "xmltv_id": "Investigation.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Investigation.svg/960px-Investigation.svg.png"
-  },
-  {
-    "site_id": "rev/REV",
-    "name": "REV",
-    "lang": "fr",
-    "xmltv_id": "REVTVCanada.ca@SD"
-  },
-  {
-    "site_id": "se/SE4HD",
-    "name": "SE4 HD",
+    "site_id": "d/D+HD",
+    "name": "D HD",
     "lang": "fr"
   },
   {
-    "site_id": "tsn/TSN1H",
-    "name": "TSN1 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "wgn9/WGN9",
-    "name": "WGN9 HD",
+    "site_id": "dciv/DISCC",
+    "name": "Discovery Science",
     "lang": "fr",
-    "xmltv_id": "WGNHD.us@SD",
-    "logo": "https://i.imgur.com/sy2K2Kk.png"
+    "xmltv_id": "DiscoveryScience.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"
   },
   {
-    "site_id": "fox/KCPQ",
-    "name": "KCPQ",
+    "site_id": "mys/CI",
+    "name": "Crime + Investigation",
     "lang": "fr",
-    "xmltv_id": "KCPQDT1.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png"
+    "xmltv_id": "CrimePlusInvestigation.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
   },
   {
-    "site_id": "snet/RSNO",
-    "name": "Sports Net Ontario",
-    "lang": "fr",
-    "xmltv_id": "Sportsnet.ca@Ontario",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png"
-  },
-  {
-    "site_id": "tsn/TSN3",
-    "name": "TSN3",
-    "lang": "fr",
-    "xmltv_id": "TSN3.ca@SD",
-    "logo": "https://i.imgur.com/AYza8KO.png"
-  },
-  {
-    "site_id": "fxc/FXHD",
-    "name": "FX Canada HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "sc2/SC2HD",
-    "name": "Super Channel 2 HD",
+    "site_id": "play/PLBHD",
+    "name": "PLAYBOY HD",
     "lang": "fr"
   },
   {
@@ -1078,106 +109,108 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/960px-Super_%C3%89cran_logo.png"
   },
   {
-    "site_id": "stz/STZ",
-    "name": "STARZ1",
+    "site_id": "cinl/CINEL",
+    "name": "Cine Latino",
     "lang": "fr",
-    "xmltv_id": "Starz1.ca@East",
-    "logo": "https://i.imgur.com/Crc1DgP.png"
+    "xmltv_id": "CineLatino.mx@SD",
+    "logo": "https://i.imgur.com/2V0R0xT.png"
   },
   {
-    "site_id": "cct3/CCT3",
-    "name": "CCT3",
+    "site_id": "play/PLAYBO",
+    "name": "PLAYBOY",
     "lang": "fr",
-    "xmltv_id": "CCTV3.cn@SD",
-    "logo": "https://i.imgur.com/iFlkIuw.png"
+    "xmltv_id": "PlayboyTV.us@SD",
+    "logo": "https://i.imgur.com/clpxgYh.png"
   },
   {
-    "site_id": "life/SLICE",
-    "name": "Slice",
+    "site_id": "sc1/SC1",
+    "name": "Super Channel 1",
     "lang": "fr",
-    "xmltv_id": "Slice.ca@SD",
-    "logo": "https://i.imgur.com/9UzQpum.png"
+    "xmltv_id": "SuperChannelFuse.ca@SD",
+    "logo": "https://i.imgur.com/ZFGjpwo.png"
   },
   {
-    "site_id": "snet/RSNE",
-    "name": "Sports Net EST",
-    "lang": "fr",
-    "xmltv_id": "Sportsnet.ca@East",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png"
-  },
-  {
-    "site_id": "cara/CARA",
-    "name": "Caracol TV",
-    "lang": "fr",
-    "xmltv_id": "CaracolInternacional.co@SD",
-    "logo": "https://i.imgur.com/h7LWbt5.png"
-  },
-  {
-    "site_id": "cctv/CCTV",
-    "name": "CCTV",
-    "lang": "fr",
-    "xmltv_id": "CCTV4America.cn@SD",
-    "logo": "https://i.imgur.com/gBbLyqh.png"
-  },
-  {
-    "site_id": "fr24/FR24",
-    "name": "France 24",
-    "lang": "fr",
-    "xmltv_id": "France24.fr@French",
-    "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "site_id": "golf/GLHD",
-    "name": "GOLF HD",
+    "site_id": "seta/SNETWORLD+",
+    "name": "SNWHD",
     "lang": "fr"
   },
   {
-    "site_id": "nfln/NFL",
-    "name": "NFL Network",
+    "site_id": "adsm/ADSM",
+    "name": "Adult Swim SD",
     "lang": "fr",
-    "xmltv_id": "NFLNetwork.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png"
+    "xmltv_id": "AdultSwim.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png"
   },
   {
-    "site_id": "tva/CFTM",
-    "name": "CFTM",
-    "lang": "fr",
-    "xmltv_id": "CFTMDT.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png"
-  },
-  {
-    "site_id": "tvch/CHILE",
-    "name": "Tv Chile international",
-    "lang": "es",
-    "xmltv_id": "TVChile.cl@SD",
-    "logo": "https://i.imgur.com/oYFto0V.png"
-  },
-  {
-    "site_id": "animal/APLA",
-    "name": "Animal Planet HD",
+    "site_id": "cnnh/CNNH",
+    "name": "CNN Headline News HD",
     "lang": "fr"
   },
   {
-    "site_id": "ctv/CIVT",
-    "name": "CIVT",
+    "site_id": "outv/OUTTV",
+    "name": "Out TV",
     "lang": "fr",
-    "xmltv_id": "CIVTDT.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png"
+    "xmltv_id": "OUTtv.ca@SD",
+    "logo": "https://i.imgur.com/kee5fPT.png"
   },
   {
-    "site_id": "mlle/MOIHD",
-    "name": "MOI ET CIE",
+    "site_id": "tree/TREE",
+    "name": "TREE",
+    "lang": "fr",
+    "xmltv_id": "TreehouseTV.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Treehouse_TV_2013.png"
+  },
+  {
+    "site_id": "tvas/TSPHD",
+    "name": "TVA Sports HD",
     "lang": "fr"
   },
   {
-    "site_id": "otn/OTN",
-    "name": "OTN",
-    "lang": "fr",
-    "xmltv_id": "Odyssey.ca@SD"
+    "site_id": "zest/ZESHD",
+    "name": "Zeste HD",
+    "lang": "fr"
   },
   {
-    "site_id": "snet/SNOHD",
-    "name": "Sports Net One HD",
+    "site_id": "disx/DISX",
+    "name": "Disney XD SD",
+    "lang": "fr",
+    "xmltv_id": "DisneyXD.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg"
+  },
+  {
+    "site_id": "sav/SAV",
+    "name": "SAVM",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ttf/TOONF",
+    "name": "TOONF",
+    "lang": "fr",
+    "xmltv_id": "TeletoonFrench.ca@SD",
+    "logo": "https://i.imgur.com/dg65Odu.png"
+  },
+  {
+    "site_id": "crtn/CRTS",
+    "name": "Cartoon Network SD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "disf/DISF",
+    "name": "La chaîne Disney",
+    "lang": "fr",
+    "xmltv_id": "LaChaineDisney.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/DisneyLaChaine.svg/960px-DisneyLaChaine.svg.png"
+  },
+  {
+    "site_id": "plan/PLAN",
+    "name": "Planète",
+    "lang": "fr",
+    "xmltv_id": "PlanetePlus.fr@SD",
+    "logo": "https://i.imgur.com/RMbMGMg.png"
+  },
+  {
+    "site_id": "spar/SPARKHD",
+    "name": "ABC Sparks HD",
     "lang": "fr"
   },
   {
@@ -1188,15 +221,305 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
   },
   {
-    "site_id": "cbs/WCAX",
-    "name": "WCAX",
+    "site_id": "tqc/CIVM",
+    "name": "CIVM",
     "lang": "fr",
-    "xmltv_id": "WCAXDT1.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png"
+    "xmltv_id": "CIVMDT.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/960px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png"
   },
   {
-    "site_id": "figh/FIGH",
-    "name": "Fight Network HD",
+    "site_id": "unis/UNIS",
+    "name": "UNIS",
+    "lang": "fr",
+    "xmltv_id": "Unis.ca@SD",
+    "logo": "https://i.imgur.com/Ng0mmSg.png"
+  },
+  {
+    "site_id": "cbs/WCAXH",
+    "name": "WCAXDT",
+    "lang": "fr"
+  },
+  {
+    "site_id": "fair/FAIRCH",
+    "name": "FAIR",
+    "lang": "fr",
+    "xmltv_id": "FairchildTV1.ca@East",
+    "logo": "https://i.imgur.com/oKP1he0.png"
+  },
+  {
+    "site_id": "nagw/NATGW",
+    "name": "National Geographic Wild",
+    "lang": "fr",
+    "xmltv_id": "NationalGeographicWild.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
+  },
+  {
+    "site_id": "nat/NGEO",
+    "name": "National Geographic Canada",
+    "lang": "fr",
+    "xmltv_id": "NationalGeographic.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+  },
+  {
+    "site_id": "nba/NBAHD",
+    "name": "NBA TV HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rev/REV",
+    "name": "REV",
+    "lang": "fr",
+    "xmltv_id": "REVTVCanada.ca@SD"
+  },
+  {
+    "site_id": "scor/SN360HD",
+    "name": "The Score HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "spar/SPARK",
+    "name": "SPARK",
+    "lang": "fr",
+    "xmltv_id": "ABCSpark.ca@SD",
+    "logo": "https://i.imgur.com/MOU2PAf.png"
+  },
+  {
+    "site_id": "snet/RSNHD",
+    "name": "Sports Net HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "src/CBUFT",
+    "name": "CBUFT",
+    "lang": "fr",
+    "xmltv_id": "CBUFTDT.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png"
+  },
+  {
+    "site_id": "ssrc/SSCR",
+    "name": "Silver Screen Classics",
+    "lang": "fr",
+    "xmltv_id": "SilverScreenClassics.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Silverscreenclassics.svg/960px-Silverscreenclassics.svg.png"
+  },
+  {
+    "site_id": "tsn/TSN1",
+    "name": "TSN1",
+    "lang": "fr",
+    "xmltv_id": "TSN1.ca@SD",
+    "logo": "https://i.imgur.com/eRFE0jZ.png"
+  },
+  {
+    "site_id": "tvch/CHILE",
+    "name": "Tv Chile international",
+    "lang": "es",
+    "xmltv_id": "TVChile.cl@SD",
+    "logo": "https://i.imgur.com/oYFto0V.png"
+  },
+  {
+    "site_id": "zest/ZESTE",
+    "name": "Zeste",
+    "lang": "fr",
+    "xmltv_id": "Zeste.ca@SD",
+    "logo": "https://i.imgur.com/gS8BioG.png"
+  },
+  {
+    "site_id": "cw/CW",
+    "name": "KTLA HD",
+    "lang": "fr",
+    "xmltv_id": "KTLAHD.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png"
+  },
+  {
+    "site_id": "ownh/OWN",
+    "name": "OWN Canada",
+    "lang": "fr",
+    "xmltv_id": "OWN.ca@SD",
+    "logo": "https://i.imgur.com/POYcupb.png"
+  },
+  {
+    "site_id": "ris/RDSIH",
+    "name": "RDS Info HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cnn/CNNHD",
+    "name": "CNN HD",
+    "lang": "fr",
+    "xmltv_id": "CNN.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png"
+  },
+  {
+    "site_id": "golf/GOLF",
+    "name": "GOLF",
+    "lang": "fr",
+    "xmltv_id": "GolfChannel.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png"
+  },
+  {
+    "site_id": "myst/ADDIK",
+    "name": "addikTV",
+    "lang": "fr",
+    "xmltv_id": "addikTV.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Addik_TV.svg/960px-Addik_TV.svg.png"
+  },
+  {
+    "site_id": "ntv/CJON",
+    "name": "CJON",
+    "lang": "fr",
+    "xmltv_id": "CJONDT.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG"
+  },
+  {
+    "site_id": "salt/SALTL",
+    "name": "Salt + Light TV",
+    "lang": "fr",
+    "xmltv_id": "SaltPlusLightTelevision.ca@SD",
+    "logo": "https://i.imgur.com/4tRoBsj.png"
+  },
+  {
+    "site_id": "seta/SNWL",
+    "name": "Sportsnet World",
+    "lang": "fr",
+    "xmltv_id": "SportsnetWorld.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/960px-SportsnetWorld.svg.png"
+  },
+  {
+    "site_id": "cour/IDHD",
+    "name": "Investigation Discovery Canada HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "enew/ENEW",
+    "name": "Euronews",
+    "lang": "fr",
+    "xmltv_id": "EuronewsEnglish.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
+  },
+  {
+    "site_id": "mmax/MAX",
+    "name": "MAX SD",
+    "lang": "fr",
+    "xmltv_id": "Max.ca@SD",
+    "logo": "https://i.imgur.com/0hSCERL.png"
+  },
+  {
+    "site_id": "tvas/TVASP",
+    "name": "TVA Sports",
+    "lang": "fr",
+    "xmltv_id": "TVASports.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TVASports.svg/960px-TVASports.svg.png"
+  },
+  {
+    "site_id": "raiw/RAIW",
+    "name": "RAI World",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rdi/RDI",
+    "name": "RDI",
+    "lang": "fr",
+    "xmltv_id": "IciRDI.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png"
+  },
+  {
+    "site_id": "se/SE",
+    "name": "SE",
+    "lang": "fr",
+    "xmltv_id": "SuperEcran1.ca@SD",
+    "logo": "https://i.imgur.com/uaQkxgr.png"
+  },
+  {
+    "site_id": "animal/APLA",
+    "name": "Animal Planet HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "hgtv/HGTVH",
+    "name": "HGTV HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nfln/NFLHD",
+    "name": "NFL HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rain/RAIN",
+    "name": "RAI News",
+    "lang": "fr",
+    "xmltv_id": "RaiNews24.it@SD",
+    "logo": "https://i.imgur.com/n2u57y3.png"
+  },
+  {
+    "site_id": "show/SHOW+HD",
+    "name": "Showcase HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "foxn/FOXN",
+    "name": "FOX Newsworld",
+    "lang": "fr",
+    "xmltv_id": "FoxNewsChannel.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
+  },
+  {
+    "site_id": "global/CIIIHD",
+    "name": "CIII (Hull-Ottawa) HD",
+    "lang": "fr",
+    "xmltv_id": "CIIIDT.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Globaltoronto.svg/960px-Globaltoronto.svg.png"
+  },
+  {
+    "site_id": "lcn/LCN",
+    "name": "LCN",
+    "lang": "fr",
+    "xmltv_id": "LCN.ca@SD",
+    "logo": "https://i.imgur.com/iKDLgOG.png"
+  },
+  {
+    "site_id": "nick/NICH",
+    "name": "Nickelodeon HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rds2/RDS2",
+    "name": "RDS2",
+    "lang": "fr",
+    "xmltv_id": "RDS2.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Reseau_Des_Sport_2.svg/960px-Reseau_Des_Sport_2.svg.png"
+  },
+  {
+    "site_id": "ris/RDSI",
+    "name": "RDS Info",
+    "lang": "fr",
+    "xmltv_id": "RDSInfo.ca@SD",
+    "logo": "https://i.imgur.com/VC3c3WY.png"
+  },
+  {
+    "site_id": "tg24/TG24",
+    "name": "TGCOM 24",
+    "lang": "fr",
+    "xmltv_id": "TGCom24.it@SD",
+    "logo": "https://i.imgur.com/fPmvbGH.png"
+  },
+  {
+    "site_id": "tsn/TSN4",
+    "name": "TSN4",
+    "lang": "fr",
+    "xmltv_id": "TSN4.ca@SD",
+    "logo": "https://i.imgur.com/qJyAWU8.png"
+  },
+  {
+    "site_id": "animal/ANPL",
+    "name": "Animal Planet",
+    "lang": "fr",
+    "xmltv_id": "AnimalPlanet.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+  },
+  {
+    "site_id": "chh/CITYMH",
+    "name": "CJNT (Metro 14)",
     "lang": "fr"
   },
   {
@@ -1207,57 +530,148 @@
     "logo": "https://i.imgur.com/9Ul9et7.png"
   },
   {
-    "site_id": "tv5/TV5HD",
-    "name": "TV5 HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ae/A%26amp%3BEHD",
-    "name": "A&E HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cbc/CBCHD",
-    "name": "CBMT",
-    "lang": "fr"
-  },
-  {
-    "site_id": "global/CHAN",
-    "name": "CHAN",
+    "site_id": "cara/CARA",
+    "name": "Caracol TV",
     "lang": "fr",
-    "xmltv_id": "CHANDT1.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Globalbc.svg/960px-Globalbc.svg.png"
+    "xmltv_id": "CaracolInternacional.co@SD",
+    "logo": "https://i.imgur.com/h7LWbt5.png"
   },
   {
-    "site_id": "ltim/LTIM",
-    "name": "LIFETIME SD",
-    "lang": "fr",
-    "xmltv_id": "Lifetime.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
-  },
-  {
-    "site_id": "nick/NICK",
-    "name": "Nickelodeon",
-    "lang": "fr",
-    "xmltv_id": "Nickelodeon.ca@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
-  },
-  {
-    "site_id": "outv/OUTTV",
-    "name": "Out TV",
-    "lang": "fr",
-    "xmltv_id": "OUTtv.ca@SD",
-    "logo": "https://i.imgur.com/kee5fPT.png"
-  },
-  {
-    "site_id": "prise2/P2HD",
-    "name": "Prise 2 HD",
+    "site_id": "historia/HIAHD",
+    "name": "Historia HD",
     "lang": "fr"
   },
   {
-    "site_id": "unic/UNIC",
-    "name": "Univision Canada",
+    "site_id": "inve/INVE",
+    "name": "Investigation",
+    "lang": "fr",
+    "xmltv_id": "Investigation.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Investigation.svg/960px-Investigation.svg.png"
+  },
+  {
+    "site_id": "se/SEHD",
+    "name": "SE HD",
     "lang": "fr"
+  },
+  {
+    "site_id": "tsn/TSN3H",
+    "name": "TSN3 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "boom/BOOMH",
+    "name": "Boomerang HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "dciv/DCIV",
+    "name": "Discovery Science HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tva/TVAHD",
+    "name": "CFTM HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cour/ID",
+    "name": "Investigation Discovery Canada",
+    "lang": "fr",
+    "xmltv_id": "InvestigationDiscovery.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
+    "site_id": "cctv/CCTV",
+    "name": "CCTV",
+    "lang": "fr",
+    "xmltv_id": "CCTV4America.cn@SD",
+    "logo": "https://i.imgur.com/gBbLyqh.png"
+  },
+  {
+    "site_id": "lat/TLAT",
+    "name": "TLAT",
+    "lang": "fr",
+    "xmltv_id": "TLN.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png"
+  },
+  {
+    "site_id": "scfi/SCFI",
+    "name": "CTV SCIFI SD",
+    "lang": "fr",
+    "xmltv_id": "CTVSciFiChannel.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CTV_Sci-Fi_Channel_2019.svg/960px-CTV_Sci-Fi_Channel_2019.svg.png"
+  },
+  {
+    "site_id": "snet/RSNE",
+    "name": "Sports Net EST",
+    "lang": "fr",
+    "xmltv_id": "Sportsnet.ca@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png"
+  },
+  {
+    "site_id": "tv5/TV5",
+    "name": "TV5",
+    "lang": "fr",
+    "xmltv_id": "TV5QuebecCanada.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png"
+  },
+  {
+    "site_id": "tva/CFTM",
+    "name": "CFTM",
+    "lang": "fr",
+    "xmltv_id": "CFTMDT.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png"
+  },
+  {
+    "site_id": "ertw/ERTW",
+    "name": "ERT World OTN2",
+    "lang": "fr",
+    "xmltv_id": "ERTWorld.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/960px-ChannelLogo-ERTWORLD1.png"
+  },
+  {
+    "site_id": "fxx/FXX",
+    "name": "FXX SD",
+    "lang": "fr",
+    "xmltv_id": "FXX.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png"
+  },
+  {
+    "site_id": "ment/H2",
+    "name": "H2",
+    "lang": "fr",
+    "xmltv_id": "History2.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
+  },
+  {
+    "site_id": "rdi/RDIHD",
+    "name": "RDI HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "wgn9/WGN9",
+    "name": "WGN9 HD",
+    "lang": "fr",
+    "xmltv_id": "WGNHD.us@SD",
+    "logo": "https://i.imgur.com/sy2K2Kk.png"
+  },
+  {
+    "site_id": "aptn/APTHD",
+    "name": "APTN HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ctvn/NEWSNT",
+    "name": "CTVN",
+    "lang": "fr",
+    "xmltv_id": "CTVNewsChannel.ca@SD",
+    "logo": "https://i.imgur.com/pRscvrp.png"
+  },
+  {
+    "site_id": "pbs/WCFE",
+    "name": "WCFE",
+    "lang": "fr",
+    "xmltv_id": "WCFEDT1.us@SD"
   },
   {
     "site_id": "abc/WVNY",
@@ -1272,269 +686,58 @@
     "logo": "https://i.imgur.com/fNbra5Y.png"
   },
   {
-    "site_id": "lat/TLAT",
-    "name": "TLAT",
+    "site_id": "drma/DRMA",
+    "name": "CTV Drama SD",
     "lang": "fr",
-    "xmltv_id": "TLN.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png"
+    "xmltv_id": "CTVDramaChannel.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/960px-CTV_Drama_Channel_2019.svg.png"
   },
   {
-    "site_id": "lcn/LCN+HD",
-    "name": "LCN HD",
+    "site_id": "ita/ITA",
+    "name": "Mediaset Italia",
+    "lang": "fr",
+    "xmltv_id": "MediasetItalia.ca@SD",
+    "logo": "https://i.imgur.com/F4gyqhw.png"
+  },
+  {
+    "site_id": "met/METEO",
+    "name": "METEO",
+    "lang": "fr",
+    "xmltv_id": "MeteoMedia.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/MeteoMedia_2011.svg/960px-MeteoMedia_2011.svg.png"
+  },
+  {
+    "site_id": "mlle/MOI",
+    "name": "MOI ET CIE",
+    "lang": "fr",
+    "xmltv_id": "MoietCie.ca@SD",
+    "logo": "https://i.imgur.com/7wYLZjC.png"
+  },
+  {
+    "site_id": "nbc/WPTZH",
+    "name": "WPTZDT",
     "lang": "fr"
   },
   {
-    "site_id": "raze/MTV2",
-    "name": "Razer",
+    "site_id": "otn/OTN",
+    "name": "OTN",
     "lang": "fr",
-    "xmltv_id": "MTV2.ca@SD",
-    "logo": "https://i.imgur.com/ZtJAmBX.png"
+    "xmltv_id": "Odyssey.ca@SD"
   },
   {
-    "site_id": "se/SE+4",
-    "name": "SE 4",
-    "lang": "fr",
-    "xmltv_id": "SuperEcran4.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/960px-Super_%C3%89cran_logo.png"
-  },
-  {
-    "site_id": "tsn/TSN2H",
-    "name": "TSN2 HD",
+    "site_id": "ae/A%26amp%3BEHD",
+    "name": "A\u0026E HD",
     "lang": "fr"
   },
   {
-    "site_id": "wild/WILD",
-    "name": "Wild",
-    "lang": "fr",
-    "xmltv_id": "WildTV.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png"
-  },
-  {
-    "site_id": "cour/IDHD",
-    "name": "Investigation Discovery Canada HD",
+    "site_id": "rds2/RDS2H",
+    "name": "RDS2 HD",
     "lang": "fr"
   },
   {
-    "site_id": "mmax/MAX",
-    "name": "MAX SD",
-    "lang": "fr",
-    "xmltv_id": "Max.ca@SD",
-    "logo": "https://i.imgur.com/0hSCERL.png"
-  },
-  {
-    "site_id": "nagw/NATGW",
-    "name": "National Geographic Wild",
-    "lang": "fr",
-    "xmltv_id": "NationalGeographicWild.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
-  },
-  {
-    "site_id": "nino/NINOS",
-    "name": "TLN Ninos",
-    "lang": "fr",
-    "xmltv_id": "TeleNinos.ca@SD",
-    "logo": "https://i.imgur.com/lOuD2hh.png"
-  },
-  {
-    "site_id": "snet/SNET+ONT+H",
-    "name": "Sportsnet Ontario HD",
+    "site_id": "snet/SNOHD",
+    "name": "Sports Net One HD",
     "lang": "fr"
-  },
-  {
-    "site_id": "ttf/TTF",
-    "name": "TTF HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ltim/LTMH",
-    "name": "LIFETIME HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "sais/SAIS",
-    "name": "Saisons SD",
-    "lang": "fr",
-    "xmltv_id": "SaisonsCanada.ca@SD",
-    "logo": "https://i.imgur.com/HBCKYYL.png"
-  },
-  {
-    "site_id": "tfo/TFOHD",
-    "name": "TFO HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ownh/OWNHD",
-    "name": "OWN HD Canada",
-    "lang": "fr"
-  },
-  {
-    "site_id": "pbs/WCFE",
-    "name": "WCFE",
-    "lang": "fr",
-    "xmltv_id": "WCFEDT1.us@SD"
-  },
-  {
-    "site_id": "speed/FOXSR",
-    "name": "FOX Sports Racing",
-    "lang": "fr",
-    "xmltv_id": "FoxSportsRacing.us@SD",
-    "logo": "https://i.imgur.com/U5al8V3.png"
-  },
-  {
-    "site_id": "vtv/VISION",
-    "name": "VISION",
-    "lang": "fr",
-    "xmltv_id": "VisionTV.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Vision_TV_logo.svg/500px-Vision_TV_logo.svg.png"
-  },
-  {
-    "site_id": "wgn9/WGN",
-    "name": "WGN TV 9",
-    "lang": "fr",
-    "xmltv_id": "WGNDT1.us@SD",
-    "logo": "https://i.imgur.com/gvHrpnf.png"
-  },
-  {
-    "site_id": "dvel/DVEL",
-    "name": "Discovery Velocity",
-    "lang": "fr",
-    "xmltv_id": "DiscoveryVelocity.ca@SD",
-    "logo": "https://i.imgur.com/Q3rtPbl.png"
-  },
-  {
-    "site_id": "fam/FAM",
-    "name": "THE FAMILY CHANNEL HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "se/SE+2",
-    "name": "SE 2",
-    "lang": "fr",
-    "xmltv_id": "SuperEcran2.ca@SD",
-    "logo": "https://i.imgur.com/0FWdZYk.png"
-  },
-  {
-    "site_id": "snet/RSNHD",
-    "name": "Sports Net HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "cbs/WCAXH",
-    "name": "WCAXDT",
-    "lang": "fr"
-  },
-  {
-    "site_id": "hist/HIST",
-    "name": "HISTORY",
-    "lang": "fr",
-    "xmltv_id": "History.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
-  },
-  {
-    "site_id": "ajaz/ALJAZ",
-    "name": "ALJAZEERA",
-    "lang": "fr",
-    "xmltv_id": "AlJazeera.qa@English",
-    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"
-  },
-  {
-    "site_id": "cinl/CINEL",
-    "name": "Cine Latino",
-    "lang": "fr",
-    "xmltv_id": "CineLatino.mx@SD",
-    "logo": "https://i.imgur.com/2V0R0xT.png"
-  },
-  {
-    "site_id": "global/CKMI",
-    "name": "CKMI (Montréal)",
-    "lang": "fr",
-    "xmltv_id": "CKMIDT1.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/960px-Global_Television_Network_Logo.svg.png"
-  },
-  {
-    "site_id": "fxc/FXC",
-    "name": "FX Canada",
-    "lang": "fr",
-    "xmltv_id": "FX.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"
-  },
-  {
-    "site_id": "bbcw/BBCW",
-    "name": "BBC World",
-    "lang": "fr",
-    "xmltv_id": "BBCNews.uk@NorthAmerica",
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "site_id": "cnn/CNN",
-    "name": "CNN",
-    "lang": "fr",
-    "xmltv_id": "CNNInternational.us@NorthAmerica",
-    "logo": "https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "site_id": "nbc/WPTZ",
-    "name": "WPTZ",
-    "lang": "fr",
-    "xmltv_id": "WPTZDT1.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png"
-  },
-  {
-    "site_id": "tcmv/TCM1",
-    "name": "Turner Classic Movie 1",
-    "lang": "fr",
-    "xmltv_id": "TCM.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png"
-  },
-  {
-    "site_id": "tqc/CIVM",
-    "name": "CIVM",
-    "lang": "fr",
-    "xmltv_id": "CIVMDT.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/960px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png"
-  },
-  {
-    "site_id": "cbs/KIRO",
-    "name": "KIRO",
-    "lang": "fr",
-    "xmltv_id": "KIRODT1.us@SD",
-    "logo": "https://i.imgur.com/suvT0TN.png"
-  },
-  {
-    "site_id": "met/MET",
-    "name": "MeteoMedia HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "mm/MUCH+HD",
-    "name": "MuchMusic HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "rds2/RDS2",
-    "name": "RDS2",
-    "lang": "fr",
-    "xmltv_id": "RDS2.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Reseau_Des_Sport_2.svg/960px-Reseau_Des_Sport_2.svg.png"
-  },
-  {
-    "site_id": "rds/RDSHD",
-    "name": "RDS HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "ssrc/SSCR",
-    "name": "Silver Screen Classics",
-    "lang": "fr",
-    "xmltv_id": "SilverScreenClassics.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Silverscreenclassics.svg/960px-Silverscreenclassics.svg.png"
-  },
-  {
-    "site_id": "star/E",
-    "name": "STAR!",
-    "lang": "fr",
-    "xmltv_id": "E.ca@SD",
-    "logo": "https://i.imgur.com/TWFDkap.png"
   },
   {
     "site_id": "stca/STCA",
@@ -1544,86 +747,113 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Studiocanal_2011_logo.svg/960px-Studiocanal_2011_logo.svg.png"
   },
   {
-    "site_id": "global/CIIIHD",
-    "name": "CIII (Hull-Ottawa) HD",
+    "site_id": "tsn/TSN5",
+    "name": "TSN (5)",
     "lang": "fr",
-    "xmltv_id": "CIIIDT.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Globaltoronto.svg/960px-Globaltoronto.svg.png"
+    "xmltv_id": "TSN5.ca@SD",
+    "logo": "https://i.imgur.com/HEzHpzz.png"
   },
   {
-    "site_id": "azmu/AZMU",
-    "name": "AZ Mundo",
-    "lang": "fr",
-    "xmltv_id": "AzMundo.mx@SD",
-    "logo": "https://i.imgur.com/a7Ejid0.png"
-  },
-  {
-    "site_id": "baby/BABY",
-    "name": "Baby TV francophone",
+    "site_id": "figh/FIGH",
+    "name": "Fight Network HD",
     "lang": "fr"
   },
   {
-    "site_id": "mnbc/MSNBC",
-    "name": "MSNBC",
+    "site_id": "par/PAR",
+    "name": "Paramount SD",
     "lang": "fr",
-    "xmltv_id": "MSNBCInternational.us@SD",
-    "logo": "https://i.imgur.com/kGUR6NE.png"
+    "xmltv_id": "ParamountNetwork.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png"
   },
   {
-    "site_id": "nat/NGEO",
-    "name": "National Geographic Canada",
+    "site_id": "rwd/RWD",
+    "name": "Rewind",
     "lang": "fr",
-    "xmltv_id": "NationalGeographic.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+    "xmltv_id": "Rewind.ca@SD",
+    "logo": "https://i.imgur.com/vHVoxQp.png"
   },
   {
-    "site_id": "scor/SN360",
-    "name": "The Score",
+    "site_id": "abc/KOMO",
+    "name": "KOMO",
     "lang": "fr",
-    "xmltv_id": "Sportsnet360.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/960px-SN_360_logo.svg.png"
+    "xmltv_id": "KOMODT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/KOMO-TV_(2021).svg/960px-KOMO-TV_(2021).svg.png"
   },
   {
-    "site_id": "trav/TRAV",
-    "name": "Travel & Escape",
-    "lang": "fr",
-    "xmltv_id": "TPlusE.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/T%2BE_Television.png"
+    "site_id": "cbc/CBCHD",
+    "name": "CBMT",
+    "lang": "fr"
   },
   {
-    "site_id": "tvo/TVO",
-    "name": "CICA",
+    "site_id": "fox/KCPQ",
+    "name": "KCPQ",
     "lang": "fr",
-    "xmltv_id": "CICADT.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/960px-TVO_logo.svg.png"
+    "xmltv_id": "KCPQDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png"
   },
   {
-    "site_id": "city/CITY",
-    "name": "CITY",
+    "site_id": "mm/MMUSIC",
+    "name": "MuchMusic",
     "lang": "fr",
-    "xmltv_id": "CITYDT.ca@SD",
-    "logo": "https://i.imgur.com/OxK7WVD.png"
+    "xmltv_id": "Much.ca@SD",
+    "logo": "https://i.imgur.com/JjYki5V.png"
   },
   {
-    "site_id": "cnbc/CNBC",
-    "name": "CNBC",
+    "site_id": "wwe/WWE",
+    "name": "WWE",
     "lang": "fr",
-    "xmltv_id": "CNBC.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg"
+    "xmltv_id": "WWENetwork.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png"
   },
   {
-    "site_id": "docc/DOC",
-    "name": "Documentary Channel",
+    "site_id": "yoo/YOOPA",
+    "name": "YOOPA",
     "lang": "fr",
-    "xmltv_id": "DocumentaryChannel.ca@SD",
-    "logo": "https://i.imgur.com/4YyMaxh.png"
+    "xmltv_id": "Yoopa.ca@SD",
+    "logo": "https://i.imgur.com/WpGAt2H.png"
   },
   {
-    "site_id": "abc/WVNYH",
-    "name": "WVNDT",
+    "site_id": "fxc/FXC",
+    "name": "FX Canada",
     "lang": "fr",
-    "xmltv_id": "WVNYDT1.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"
+    "xmltv_id": "FX.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"
+  },
+  {
+    "site_id": "mm/MUCH+HD",
+    "name": "MuchMusic HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nagw/NGWHD",
+    "name": "National Geo Wild HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nino/NINOS",
+    "name": "TLN Ninos",
+    "lang": "fr",
+    "xmltv_id": "TeleNinos.ca@SD",
+    "logo": "https://i.imgur.com/lOuD2hh.png"
+  },
+  {
+    "site_id": "se/SE+2",
+    "name": "SE 2",
+    "lang": "fr",
+    "xmltv_id": "SuperEcran2.ca@SD",
+    "logo": "https://i.imgur.com/0FWdZYk.png"
+  },
+  {
+    "site_id": "tsn/TSN2H",
+    "name": "TSN2 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "vox/MATV",
+    "name": "MAMTL",
+    "lang": "fr",
+    "xmltv_id": "MAtv.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MAtv_%28en%29_logo.png/960px-MAtv_%28en%29_logo.png"
   },
   {
     "site_id": "beis/BEIS",
@@ -1633,11 +863,65 @@
     "logo": "https://i.imgur.com/RLrMBlm.png"
   },
   {
-    "site_id": "cw/CW",
-    "name": "KTLA HD",
+    "site_id": "lsta/MTIME",
+    "name": "MovieTime",
     "lang": "fr",
-    "xmltv_id": "KTLAHD.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png"
+    "xmltv_id": "MovieTime.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/960px-Movietime.svg.png"
+  },
+  {
+    "site_id": "series/SEPHD",
+    "name": "Séries Plus HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "stvi/STVI",
+    "name": "STVI",
+    "lang": "fr",
+    "xmltv_id": "StingrayVibe.ca@SD"
+  },
+  {
+    "site_id": "tsn/TSN3",
+    "name": "TSN3",
+    "lang": "fr",
+    "xmltv_id": "TSN3.ca@SD",
+    "logo": "https://i.imgur.com/AYza8KO.png"
+  },
+  {
+    "site_id": "asna/ANAT",
+    "name": "Assemblée Nationale",
+    "lang": "fr"
+  },
+  {
+    "site_id": "baby/BABY",
+    "name": "Baby TV francophone",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cook/COOK",
+    "name": "Cooking Channel SD",
+    "lang": "fr",
+    "xmltv_id": "CookingChannel.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cooking_Channel_Canada.png/960px-Cooking_Channel_Canada.png"
+  },
+  {
+    "site_id": "fr24/FR24",
+    "name": "France 24",
+    "lang": "fr",
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "ltim/LTMH",
+    "name": "LIFETIME HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nick/NICK",
+    "name": "Nickelodeon",
+    "lang": "fr",
+    "xmltv_id": "Nickelodeon.ca@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
   },
   {
     "site_id": "snet/SNONE",
@@ -1647,132 +931,38 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Sportsnetone2011.svg/960px-Sportsnetone2011.svg.png"
   },
   {
-    "site_id": "cnnh/CNNH",
-    "name": "CNN Headline News HD",
+    "site_id": "yoo/YOOHD",
+    "name": "YOOPA HD",
     "lang": "fr"
   },
   {
-    "site_id": "lsta/MTIME",
-    "name": "MovieTime",
-    "lang": "fr",
-    "xmltv_id": "MovieTime.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/960px-Movietime.svg.png"
-  },
-  {
-    "site_id": "mgio/MGIO",
-    "name": "Télémagino SD",
-    "lang": "fr",
-    "xmltv_id": "Telemagino.ca@SD",
-    "logo": "https://i.imgur.com/UZhWqI9.png"
-  },
-  {
-    "site_id": "mys/CI",
-    "name": "Crime + Investigation",
-    "lang": "fr",
-    "xmltv_id": "CrimePlusInvestigation.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
-  },
-  {
-    "site_id": "nat/GEOHD",
-    "name": "National Geographic HD",
+    "site_id": "tcmv/TCMV",
+    "name": "TCM HD",
     "lang": "fr"
   },
   {
-    "site_id": "show/SHOW",
-    "name": "SHOW",
+    "site_id": "cbs/KIRO",
+    "name": "KIRO",
     "lang": "fr",
-    "xmltv_id": "Showcase.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Showcase_Logo_2015.png/960px-Showcase_Logo_2015.png"
+    "xmltv_id": "KIRODT1.us@SD",
+    "logo": "https://i.imgur.com/suvT0TN.png"
   },
   {
-    "site_id": "snet/SNET+PAC+H",
-    "name": "Sports Net Pacifique HD",
+    "site_id": "evasion/EVAHD",
+    "name": "Évasion HD",
     "lang": "fr"
   },
   {
-    "site_id": "cpae/CPAE",
-    "name": "CPAC English",
-    "lang": "en",
-    "xmltv_id": "CPACEnglish.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png"
+    "site_id": "global/CKMI",
+    "name": "CKMI (Montréal)",
+    "lang": "fr",
+    "xmltv_id": "CKMIDT1.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/960px-Global_Television_Network_Logo.svg.png"
   },
   {
-    "site_id": "food/FOODH",
-    "name": "FOOD HD",
+    "site_id": "ownh/OWNHD",
+    "name": "OWN HD Canada",
     "lang": "fr"
-  },
-  {
-    "site_id": "nick/NICH",
-    "name": "Nickelodeon HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "tlc/TLC",
-    "name": "TLC",
-    "lang": "fr",
-    "xmltv_id": "TLC.us@East",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
-  },
-  {
-    "site_id": "ae/AE",
-    "name": "A&E",
-    "lang": "fr",
-    "xmltv_id": "AE.us@East",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"
-  },
-  {
-    "site_id": "alph/ALPH",
-    "name": "ALPHA",
-    "lang": "fr",
-    "xmltv_id": "AlphaSat.gr@SD",
-    "logo": "https://i.imgur.com/Xat0bS4.png"
-  },
-  {
-    "site_id": "artv/ARTV",
-    "name": "Artv",
-    "lang": "fr",
-    "xmltv_id": "IciARTV.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/ICI_ARTV.png"
-  },
-  {
-    "site_id": "myst/ADDIKHD",
-    "name": "addik TV HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "nba/NBATV",
-    "name": "NBA TV",
-    "lang": "fr",
-    "xmltv_id": "NBATV.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"
-  },
-  {
-    "site_id": "ownh/OWN",
-    "name": "OWN Canada",
-    "lang": "fr",
-    "xmltv_id": "OWN.ca@SD",
-    "logo": "https://i.imgur.com/POYcupb.png"
-  },
-  {
-    "site_id": "sc1/SC1",
-    "name": "Super Channel 1",
-    "lang": "fr",
-    "xmltv_id": "SuperChannelFuse.ca@SD",
-    "logo": "https://i.imgur.com/ZFGjpwo.png"
-  },
-  {
-    "site_id": "tg24/TG24",
-    "name": "TGCOM 24",
-    "lang": "fr",
-    "xmltv_id": "TGCom24.it@SD",
-    "logo": "https://i.imgur.com/fPmvbGH.png"
-  },
-  {
-    "site_id": "fam/FAMILY",
-    "name": "FAMILY",
-    "lang": "fr",
-    "xmltv_id": "FamilyChannel.ca@East",
-    "logo": "https://i.imgur.com/zG18942.png"
   },
   {
     "site_id": "snet/SNET+WEST+",
@@ -1780,39 +970,129 @@
     "lang": "fr"
   },
   {
-    "site_id": "ytv/YTV+HD",
-    "name": "YTV HD",
+    "site_id": "ajaz/ALJAZ",
+    "name": "ALJAZEERA",
+    "lang": "fr",
+    "xmltv_id": "AlJazeera.qa@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+  },
+  {
+    "site_id": "bet/BET",
+    "name": "BLACK ENTERTAINMENT",
+    "lang": "fr",
+    "xmltv_id": "BET.ca@SD",
+    "logo": "https://i.imgur.com/KG3CzsF.png"
+  },
+  {
+    "site_id": "cmt/CMT",
+    "name": "COUNTRY MUSIC TELEVISION",
+    "lang": "fr",
+    "xmltv_id": "CMT.ca@SD",
+    "logo": "https://i.imgur.com/wKEIQHi.png"
+  },
+  {
+    "site_id": "cw/KTLA",
+    "name": "KTLA",
+    "lang": "fr",
+    "xmltv_id": "KTLADT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png"
+  },
+  {
+    "site_id": "tmn/HBOCH",
+    "name": "HBO HD",
     "lang": "fr"
   },
   {
-    "site_id": "asna/ANAT",
-    "name": "Assemblée Nationale",
+    "site_id": "chh/CITYM",
+    "name": "CJNT (Metro 14)",
+    "lang": "fr",
+    "xmltv_id": "CJNTDT.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/960px-Citytv_logo.svg.png"
+  },
+  {
+    "site_id": "cnn/CNN",
+    "name": "CNN",
+    "lang": "fr",
+    "xmltv_id": "CNNInternational.us@NorthAmerica",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "d/D",
+    "name": "D",
+    "lang": "fr",
+    "xmltv_id": "CanalD.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/CanalD.svg/960px-CanalD.svg.png"
+  },
+  {
+    "site_id": "unic/UNIC",
+    "name": "Univision Canada",
     "lang": "fr"
   },
   {
-    "site_id": "clif/CLIF",
-    "name": "CTV LIFE SD",
-    "lang": "fr",
-    "xmltv_id": "CTVLifeChannel.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/500px-CTV_Life_Channel_2019.svg.png"
+    "site_id": "expl/EXPHD",
+    "name": "Explora HD",
+    "lang": "fr"
   },
   {
-    "site_id": "golf/GOLF",
-    "name": "GOLF",
+    "site_id": "global/CHAN",
+    "name": "CHAN",
     "lang": "fr",
-    "xmltv_id": "GolfChannel.us@SD",
-    "logo": "https://i.imgur.com/Lgux6Ik.png"
+    "xmltv_id": "CHANDT1.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Globalbc.svg/960px-Globalbc.svg.png"
   },
   {
-    "site_id": "hgtv/HGTV",
-    "name": "HGTV",
-    "lang": "fr",
-    "xmltv_id": "HGTV.ca@SD",
-    "logo": "https://i.imgur.com/YSl9gV3.png"
+    "site_id": "mlle/MOIHD",
+    "name": "MOI ET CIE",
+    "lang": "fr"
   },
   {
-    "site_id": "nagw/NGWHD",
-    "name": "National Geo Wild HD",
+    "site_id": "se/SE4HD",
+    "name": "SE4 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tqc/TQCHD",
+    "name": "CIVM",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ewtn/EWTN",
+    "name": "EWTN",
+    "lang": "fr",
+    "xmltv_id": "EWTN.us@Canada",
+    "logo": "https://i.imgur.com/sua70RO.png"
+  },
+  {
+    "site_id": "figh/FIGHT",
+    "name": "Fight Network",
+    "lang": "fr",
+    "xmltv_id": "FightNetwork.ca@SD",
+    "logo": "https://i.imgur.com/vlKPZHR.png"
+  },
+  {
+    "site_id": "tfo/TFO",
+    "name": "TFO",
+    "lang": "fr",
+    "xmltv_id": "CHLFTV.ca@SD",
+    "logo": "https://i.imgur.com/Jy1XZpN.png"
+  },
+  {
+    "site_id": "tsc/SHOP",
+    "name": "The Shopping Channel",
+    "lang": "fr",
+    "xmltv_id": "TSC.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png"
+  },
+  {
+    "site_id": "mtvc/MTVC",
+    "name": "MTV Canada",
+    "lang": "fr",
+    "xmltv_id": "MTV.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+  },
+  {
+    "site_id": "nw/CNEHD",
+    "name": "CBC News Network HD",
     "lang": "fr"
   },
   {
@@ -1823,30 +1103,120 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/OLN_logo_2012.png"
   },
   {
-    "site_id": "play/PLBHD",
-    "name": "PLAYBOY HD",
+    "site_id": "scla/SCLA",
+    "name": "Classica",
+    "lang": "fr",
+    "xmltv_id": "Classica.us@SD",
+    "logo": "https://i.imgur.com/bLjmQTU.png"
+  },
+  {
+    "site_id": "snet/SNET+ONT+H",
+    "name": "Sportsnet Ontario HD",
     "lang": "fr"
   },
   {
-    "site_id": "cmt/CMT",
-    "name": "COUNTRY MUSIC TELEVISION",
-    "lang": "fr",
-    "xmltv_id": "CMT.ca@SD",
-    "logo": "https://i.imgur.com/wKEIQHi.png"
+    "site_id": "speed/FSRHD",
+    "name": "FOX Sports Racing",
+    "lang": "fr"
   },
   {
-    "site_id": "disj/DISJ",
-    "name": "Disney Jr SD",
+    "site_id": "star/E",
+    "name": "STAR!",
     "lang": "fr",
-    "xmltv_id": "DisneyJunior.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
+    "xmltv_id": "E.ca@SD",
+    "logo": "https://i.imgur.com/TWFDkap.png"
   },
   {
-    "site_id": "foxn/FOXN",
-    "name": "FOX Newsworld",
+    "site_id": "cbs/WCAX",
+    "name": "WCAX",
     "lang": "fr",
-    "xmltv_id": "FoxNewsChannel.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
+    "xmltv_id": "WCAXDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png"
+  },
+  {
+    "site_id": "rds/RDS",
+    "name": "RDS",
+    "lang": "fr",
+    "xmltv_id": "RDS.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/960px-RDS_logo.svg.png"
+  },
+  {
+    "site_id": "sc4/SC4HD",
+    "name": "Super Channel 4 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "snet/RSNP",
+    "name": "Sports Net Pacifique",
+    "lang": "fr",
+    "xmltv_id": "Sportsnet.ca@Pacific",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png"
+  },
+  {
+    "site_id": "ytv/YTV",
+    "name": "YTV",
+    "lang": "fr",
+    "xmltv_id": "YTV.ca@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png"
+  },
+  {
+    "site_id": "cbc/CBMT",
+    "name": "CBVU-TV",
+    "lang": "fr",
+    "xmltv_id": "CBMTDT.ca@SD",
+    "logo": "https://i.imgur.com/OiiM6Mz.png"
+  },
+  {
+    "site_id": "fox/WFFFH",
+    "name": "WFFF",
+    "lang": "fr",
+    "xmltv_id": "WFFFDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png"
+  },
+  {
+    "site_id": "life/SLICE",
+    "name": "Slice",
+    "lang": "fr",
+    "xmltv_id": "Slice.ca@SD",
+    "logo": "https://i.imgur.com/9UzQpum.png"
+  },
+  {
+    "site_id": "lsta/MTIMH",
+    "name": "MovieTime HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tlc/TLC",
+    "name": "TLC",
+    "lang": "fr",
+    "xmltv_id": "TLC.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
+  },
+  {
+    "site_id": "tv5/TV5HD",
+    "name": "TV5 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "vtv/VISION",
+    "name": "VISION",
+    "lang": "fr",
+    "xmltv_id": "VisionTV.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Vision_TV_logo.svg/500px-Vision_TV_logo.svg.png"
+  },
+  {
+    "site_id": "clif/CLIF",
+    "name": "CTV LIFE SD",
+    "lang": "fr",
+    "xmltv_id": "CTVLifeChannel.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/500px-CTV_Life_Channel_2019.svg.png"
+  },
+  {
+    "site_id": "cott/COTT",
+    "name": "Cottage Life",
+    "lang": "fr",
+    "xmltv_id": "CottageLife.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/960px-Cottage_Life_Logo.svg.png"
   },
   {
     "site_id": "fptv/FPTV",
@@ -1856,47 +1226,144 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/FPTV_logo.svg/960px-FPTV_logo.svg.png"
   },
   {
-    "site_id": "tva/TVAHD",
-    "name": "CFTM HD",
+    "site_id": "tdc/DISCH",
+    "name": "Discovery HD",
     "lang": "fr"
   },
   {
-    "site_id": "yoo/YOOPA",
-    "name": "YOOPA",
-    "lang": "fr",
-    "xmltv_id": "Yoopa.ca@SD",
-    "logo": "https://i.imgur.com/WpGAt2H.png"
-  },
-  {
-    "site_id": "sav/SAV",
-    "name": "SAVM",
+    "site_id": "tsn/TSN4H",
+    "name": "TSN4 HD",
     "lang": "fr"
   },
   {
-    "site_id": "tsc/SHOP",
-    "name": "The Shopping Channel",
+    "site_id": "dvel/DVEL",
+    "name": "Discovery Velocity",
     "lang": "fr",
-    "xmltv_id": "TSC.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png"
+    "xmltv_id": "DiscoveryVelocity.ca@SD",
+    "logo": "https://i.imgur.com/Q3rtPbl.png"
   },
   {
-    "site_id": "tsn/TSN1",
-    "name": "TSN1",
+    "site_id": "idee/CASA",
+    "name": "CASA",
     "lang": "fr",
-    "xmltv_id": "TSN1.ca@SD",
-    "logo": "https://i.imgur.com/eRFE0jZ.png"
+    "xmltv_id": "Casa.ca@SD",
+    "logo": "https://i.imgur.com/JFYOl5D.png"
   },
   {
-    "site_id": "tvas/TSPHD",
-    "name": "TVA Sports HD",
+    "site_id": "rds/RDSHD",
+    "name": "RDS HD",
     "lang": "fr"
   },
   {
-    "site_id": "zest/ZESTE",
-    "name": "Zeste",
+    "site_id": "snet/RSNO",
+    "name": "Sports Net Ontario",
     "lang": "fr",
-    "xmltv_id": "Zeste.ca@SD",
-    "logo": "https://i.imgur.com/gS8BioG.png"
+    "xmltv_id": "Sportsnet.ca@Ontario",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png"
+  },
+  {
+    "site_id": "src/SRCHD",
+    "name": "CBFT HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "abc/WVNYH",
+    "name": "WVNDT",
+    "lang": "fr",
+    "xmltv_id": "WVNYDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"
+  },
+  {
+    "site_id": "expl/EXPLO",
+    "name": "Explora",
+    "lang": "fr",
+    "xmltv_id": "IciExplora.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ICI_Explora_logo.svg/960px-ICI_Explora_logo.svg.png"
+  },
+  {
+    "site_id": "game/GSN",
+    "name": "GAME SHOW NETWORK",
+    "lang": "fr",
+    "xmltv_id": "GameShowNetwork.us@East",
+    "logo": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg"
+  },
+  {
+    "site_id": "tsn/TSN1H",
+    "name": "TSN1 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "bbcw/BBCW",
+    "name": "BBC World",
+    "lang": "fr",
+    "xmltv_id": "BBCNews.uk@NorthAmerica",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "crv/CRV",
+    "name": "Crave 1",
+    "lang": "fr",
+    "xmltv_id": "Crave1.ca@SD",
+    "logo": "https://i.imgur.com/ZkRQ0r1.png"
+  },
+  {
+    "site_id": "cmdy/CMDY",
+    "name": "CTV Comedy SD",
+    "lang": "fr",
+    "xmltv_id": "CTVComedyChannel.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/960px-CTV_Comedy_Channel_2019.svg.png"
+  },
+  {
+    "site_id": "raze/MTV2",
+    "name": "Razer",
+    "lang": "fr",
+    "xmltv_id": "MTV2.ca@SD",
+    "logo": "https://i.imgur.com/ZtJAmBX.png"
+  },
+  {
+    "site_id": "snet/RSNW",
+    "name": "Sports Net West",
+    "lang": "fr",
+    "xmltv_id": "Sportsnet.ca@West",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png"
+  },
+  {
+    "site_id": "speed/FOXSR",
+    "name": "FOX Sports Racing",
+    "lang": "fr",
+    "xmltv_id": "FoxSportsRacing.us@SD",
+    "logo": "https://i.imgur.com/U5al8V3.png"
+  },
+  {
+    "site_id": "2m/2M",
+    "name": "2M",
+    "lang": "fr",
+    "xmltv_id": "2MMonde.ma@SD",
+    "logo": "https://i.imgur.com/MvpntzA.png"
+  },
+  {
+    "site_id": "cnbc/CNBC",
+    "name": "CNBC",
+    "lang": "fr",
+    "xmltv_id": "CNBC.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
+  },
+  {
+    "site_id": "ment/H2HD",
+    "name": "H2 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "prise2/P2HD",
+    "name": "Prise 2 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "show/SHOW",
+    "name": "SHOW",
+    "lang": "fr",
+    "xmltv_id": "Showcase.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Showcase_Logo_2015.png/960px-Showcase_Logo_2015.png"
   },
   {
     "site_id": "spmn/SPMN",
@@ -1906,11 +1373,265 @@
     "logo": "https://i.imgur.com/ILNOuVs.png"
   },
   {
-    "site_id": "cbc/CBUT",
-    "name": "CBUT-2",
+    "site_id": "vie/VIEHD",
+    "name": "Canal Vie HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "wild/WILD",
+    "name": "Wild",
     "lang": "fr",
-    "xmltv_id": "CBUTDT.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png"
+    "xmltv_id": "WildTV.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png"
+  },
+  {
+    "site_id": "disn/DISN",
+    "name": "Disney Channel",
+    "lang": "fr",
+    "xmltv_id": "DisneyChannel.ca@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"
+  },
+  {
+    "site_id": "docc/DOC",
+    "name": "Documentary Channel",
+    "lang": "fr",
+    "xmltv_id": "DocumentaryChannel.ca@SD",
+    "logo": "https://i.imgur.com/4YyMaxh.png"
+  },
+  {
+    "site_id": "hist/HIST",
+    "name": "HISTORY",
+    "lang": "fr",
+    "xmltv_id": "History.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
+  },
+  {
+    "site_id": "sc2/SC2HD",
+    "name": "Super Channel 2 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tlc/TLCH",
+    "name": "TLC HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ctv/CTVHD",
+    "name": "CFCF HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "elle/ELLE",
+    "name": "Elle Fictions SD",
+    "lang": "fr",
+    "xmltv_id": "ElleFictions.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Elle_Fictions_logo.png/960px-Elle_Fictions_logo.png"
+  },
+  {
+    "site_id": "oash/NATUR",
+    "name": "Oasis HD",
+    "lang": "fr",
+    "xmltv_id": "LoveNature.ca@SD",
+    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
+  },
+  {
+    "site_id": "plan/PLAHD",
+    "name": "Planète HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "tsn/TSN5H",
+    "name": "TSN HD (5)",
+    "lang": "fr"
+  },
+  {
+    "site_id": "sais/SAIS",
+    "name": "Saisons SD",
+    "lang": "fr",
+    "xmltv_id": "SaisonsCanada.ca@SD",
+    "logo": "https://i.imgur.com/HBCKYYL.png"
+  },
+  {
+    "site_id": "se/SE+4",
+    "name": "SE 4",
+    "lang": "fr",
+    "xmltv_id": "SuperEcran4.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/960px-Super_%C3%89cran_logo.png"
+  },
+  {
+    "site_id": "cpop/POPHD",
+    "name": "Ciné-pop HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ltim/LTIM",
+    "name": "LIFETIME SD",
+    "lang": "fr",
+    "xmltv_id": "Lifetime.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
+  },
+  {
+    "site_id": "mmax/MAXHD",
+    "name": "MAX HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nat/GEOHD",
+    "name": "National Geographic HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "ctv/CFCF",
+    "name": "CFCF",
+    "lang": "fr",
+    "xmltv_id": "CFCFDT.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png"
+  },
+  {
+    "site_id": "fris/FRIS",
+    "name": "Frissons TV SD",
+    "lang": "fr",
+    "xmltv_id": "FrissonsTV.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/07/Frissons_TV_New.png"
+  },
+  {
+    "site_id": "trop/DTOUR",
+    "name": "DTOUR",
+    "lang": "fr",
+    "xmltv_id": "DTour.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dtour_Logo.svg/960px-Dtour_Logo.svg.png"
+  },
+  {
+    "site_id": "tsn/TSN2",
+    "name": "TSN2",
+    "lang": "fr",
+    "xmltv_id": "TSN2.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png"
+  },
+  {
+    "site_id": "vie/VIE",
+    "name": "Canal Vie",
+    "lang": "fr",
+    "xmltv_id": "CanalVie.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/CanalVie.svg/960px-CanalVie.svg.png"
+  },
+  {
+    "site_id": "wpix/WPIX",
+    "name": "WPIX",
+    "lang": "fr",
+    "xmltv_id": "WPIXDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png"
+  },
+  {
+    "site_id": "art/ART",
+    "name": "Art America",
+    "lang": "fr",
+    "xmltv_id": "ARTAmerica.sa@SD",
+    "logo": "https://i.imgur.com/QFBzdMv.png"
+  },
+  {
+    "site_id": "crtn/CRTN",
+    "name": "Cartoon Network HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "fam/FAM",
+    "name": "THE FAMILY CHANNEL HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "met/MET",
+    "name": "MeteoMedia HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "mnbc/MSNBC",
+    "name": "MSNBC",
+    "lang": "fr",
+    "xmltv_id": "MSNBCInternational.us@SD",
+    "logo": "https://i.imgur.com/kGUR6NE.png"
+  },
+  {
+    "site_id": "nbc/KING",
+    "name": "KING",
+    "lang": "fr",
+    "xmltv_id": "KINGDT1.us@SD",
+    "logo": "https://i.imgur.com/fTRLwhP.png"
+  },
+  {
+    "site_id": "pbs/PBS",
+    "name": "WETK HD",
+    "lang": "fr",
+    "xmltv_id": "WETKHD.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"
+  },
+  {
+    "site_id": "life/SLICE+HD",
+    "name": "Slice HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "mgio/MGIO",
+    "name": "Télémagino SD",
+    "lang": "fr",
+    "xmltv_id": "Telemagino.ca@SD",
+    "logo": "https://i.imgur.com/UZhWqI9.png"
+  },
+  {
+    "site_id": "ctv/CIVT",
+    "name": "CIVT",
+    "lang": "fr",
+    "xmltv_id": "CIVTDT.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png"
+  },
+  {
+    "site_id": "mezz/MEZZ",
+    "name": "Mezzo",
+    "lang": "fr",
+    "xmltv_id": "Mezzo.fr@SD",
+    "logo": "https://i.imgur.com/auNdGeW.png"
+  },
+  {
+    "site_id": "nw/CBCN",
+    "name": "CBC News Network",
+    "lang": "fr",
+    "xmltv_id": "CBCNewsNetwork.ca@SD",
+    "logo": "https://i.imgur.com/SjTdhvJ.png"
+  },
+  {
+    "site_id": "tve/TVE",
+    "name": "TVE1",
+    "lang": "fr",
+    "xmltv_id": "TVEInternacionalAmerica.es@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png"
+  },
+  {
+    "site_id": "alph/ALPH",
+    "name": "ALPHA",
+    "lang": "fr",
+    "xmltv_id": "AlphaSat.gr@SD",
+    "logo": "https://i.imgur.com/Xat0bS4.png"
+  },
+  {
+    "site_id": "city/CITY",
+    "name": "CITY",
+    "lang": "fr",
+    "xmltv_id": "CITYDT.ca@SD",
+    "logo": "https://i.imgur.com/OxK7WVD.png"
+  },
+  {
+    "site_id": "famj/FAMJ",
+    "name": "Family Jr SD",
+    "lang": "fr",
+    "xmltv_id": "FamilyJr.ca@SD",
+    "logo": "https://i.imgur.com/6xbK9lv.png"
+  },
+  {
+    "site_id": "pbs/WETK",
+    "name": "WETK",
+    "lang": "fr",
+    "xmltv_id": "WETKDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"
   },
   {
     "site_id": "sc4/SC4",
@@ -1920,15 +1641,281 @@
     "logo": "https://i.imgur.com/6rlGu3V.png"
   },
   {
-    "site_id": "ctvn/NEWSNT",
-    "name": "CTVN",
+    "site_id": "stz/STZ",
+    "name": "STARZ1",
     "lang": "fr",
-    "xmltv_id": "CTVNewsChannel.ca@SD",
-    "logo": "https://i.imgur.com/pRscvrp.png"
+    "xmltv_id": "Starz1.ca@East",
+    "logo": "https://i.imgur.com/Crc1DgP.png"
   },
   {
-    "site_id": "nbc/WPTZH",
-    "name": "WPTZDT",
+    "site_id": "tcmv/TCM1",
+    "name": "Turner Classic Movie 1",
+    "lang": "fr",
+    "xmltv_id": "TCM.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png"
+  },
+  {
+    "site_id": "artv/ARTHD",
+    "name": "Artv HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cbc/CBUT",
+    "name": "CBUT-2",
+    "lang": "fr",
+    "xmltv_id": "CBUTDT.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png"
+  },
+  {
+    "site_id": "ici/ICIHD",
+    "name": "ICI Canal international HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "nba/NBATV",
+    "name": "NBA TV",
+    "lang": "fr",
+    "xmltv_id": "NBATV.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"
+  },
+  {
+    "site_id": "nfln/NFL",
+    "name": "NFL Network",
+    "lang": "fr",
+    "xmltv_id": "NFLNetwork.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png"
+  },
+  {
+    "site_id": "prise2/PR2",
+    "name": "Prise 2",
+    "lang": "fr",
+    "xmltv_id": "Prise2.ca@SD",
+    "logo": "https://i.imgur.com/5wnuHIg.png"
+  },
+  {
+    "site_id": "tmn/HBO",
+    "name": "HBO",
+    "lang": "fr",
+    "xmltv_id": "HBO1.ca@SD",
+    "logo": "https://i.imgur.com/2pD6eN6.png"
+  },
+  {
+    "site_id": "azmu/AZMU",
+    "name": "AZ Mundo",
+    "lang": "fr",
+    "xmltv_id": "AzMundo.mx@SD",
+    "logo": "https://i.imgur.com/a7Ejid0.png"
+  },
+  {
+    "site_id": "cpae/CPAE",
+    "name": "CPAC English",
+    "lang": "en",
+    "xmltv_id": "CPACEnglish.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png"
+  },
+  {
+    "site_id": "fam/FAMILY",
+    "name": "FAMILY",
+    "lang": "fr",
+    "xmltv_id": "FamilyChannel.ca@East",
+    "logo": "https://i.imgur.com/zG18942.png"
+  },
+  {
+    "site_id": "lcn/LCN+HD",
+    "name": "LCN HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "mlbn/MLBN",
+    "name": "MLB Network SD",
+    "lang": "fr",
+    "xmltv_id": "MLBNetwork.us@SD",
+    "logo": "https://i.imgur.com/sA5V39D.png"
+  },
+  {
+    "site_id": "nbc/WPTZ",
+    "name": "WPTZ",
+    "lang": "fr",
+    "xmltv_id": "WPTZDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png"
+  },
+  {
+    "site_id": "sav/SAVH",
+    "name": "SAVM HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "sc1/SC1HD",
+    "name": "Super Channel 1 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "golf/GLHD",
+    "name": "GOLF HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "scor/SN360",
+    "name": "The Score",
+    "lang": "fr",
+    "xmltv_id": "Sportsnet360.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/960px-SN_360_logo.svg.png"
+  },
+  {
+    "site_id": "trav/TRAV",
+    "name": "Travel \u0026 Escape",
+    "lang": "fr",
+    "xmltv_id": "TPlusE.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/T%2BE_Television.png"
+  },
+  {
+    "site_id": "wthr/WTHR",
+    "name": "WTHR",
+    "lang": "fr",
+    "xmltv_id": "TheWeatherNetwork.ca@SD",
+    "logo": "https://i.imgur.com/V6ZUwUY.png"
+  },
+  {
+    "site_id": "myst/ADDIKHD",
+    "name": "addik TV HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "rnsu/RAI",
+    "name": "RAI Nettuno Sat Uno",
+    "lang": "fr",
+    "xmltv_id": "UniNettunoUniversityTV.it@SD",
+    "logo": "https://i.imgur.com/c9So8nf.png"
+  },
+  {
+    "site_id": "tvo/TVO",
+    "name": "CICA",
+    "lang": "fr",
+    "xmltv_id": "CICADT.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/960px-TVO_logo.svg.png"
+  },
+  {
+    "site_id": "ytv/YTV+HD",
+    "name": "YTV HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "disj/DISJ",
+    "name": "Disney Jr SD",
+    "lang": "fr",
+    "xmltv_id": "DisneyJunior.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
+  },
+  {
+    "site_id": "idee/CASAH",
+    "name": "CASA HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "src/CBFT",
+    "name": "CBFT",
+    "lang": "fr",
+    "xmltv_id": "CBFTDT.ca@SD",
+    "logo": "https://i.imgur.com/pFCJGj4.png"
+  },
+  {
+    "site_id": "aptn/APTN",
+    "name": "Aboriginal Peoples Television Network",
+    "lang": "fr"
+  },
+  {
+    "site_id": "cct3/CCT3",
+    "name": "CCT3",
+    "lang": "fr",
+    "xmltv_id": "CCTV3.cn@SD",
+    "logo": "https://i.imgur.com/iFlkIuw.png"
+  },
+  {
+    "site_id": "cpac/CPAC",
+    "name": "CPAC",
+    "lang": "fr",
+    "xmltv_id": "CPACFrench.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png"
+  },
+  {
+    "site_id": "dw/DWTV",
+    "name": "Deutsche Welle",
+    "lang": "fr",
+    "xmltv_id": "DW.de@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png"
+  },
+  {
+    "site_id": "hard/PLAYM",
+    "name": "Hard",
+    "lang": "fr",
+    "xmltv_id": "PlaymenTV.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Playmen_TV_logo.png/960px-Playmen_TV_logo.png"
+  },
+  {
+    "site_id": "hgtv/HGTV",
+    "name": "HGTV",
+    "lang": "fr",
+    "xmltv_id": "HGTV.ca@SD",
+    "logo": "https://i.imgur.com/YSl9gV3.png"
+  },
+  {
+    "site_id": "historia/HISF",
+    "name": "Historia",
+    "lang": "fr",
+    "xmltv_id": "Historia.ca@SD",
+    "logo": "https://i.imgur.com/TMXYZ3r.png"
+  },
+  {
+    "site_id": "tfo/TFOHD",
+    "name": "TFO HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "artv/ARTV",
+    "name": "Artv",
+    "lang": "fr",
+    "xmltv_id": "IciARTV.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/ICI_ARTV.png"
+  },
+  {
+    "site_id": "cgtv/GAMETV",
+    "name": "GAME TV",
+    "lang": "fr",
+    "xmltv_id": "GameTV.ca@SD",
+    "logo": "https://i.imgur.com/9ddVzCC.png"
+  },
+  {
+    "site_id": "food/FOODH",
+    "name": "FOOD HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "sc3/SC3HD",
+    "name": "Super Channel 3 HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "vox/MAHD",
+    "name": "MATV HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "evasion/EVAS",
+    "name": "Évasion",
+    "lang": "fr",
+    "xmltv_id": "Evasion.ca@SD",
+    "logo": "https://i.imgur.com/zC4JKJc.png"
+  },
+  {
+    "site_id": "food/FOOD",
+    "name": "FOOD",
+    "lang": "fr",
+    "xmltv_id": "FoodNetwork.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg"
+  },
+  {
+    "site_id": "fox/WFFF",
+    "name": "WFFF",
     "lang": "fr"
   },
   {
@@ -1939,70 +1926,83 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/960px-Omni_TV_2018.svg.png"
   },
   {
-    "site_id": "plan/PLAN",
-    "name": "Planète",
+    "site_id": "amit/AMIT",
+    "name": "AMI-Télé",
     "lang": "fr",
-    "xmltv_id": "PlanetePlus.fr@SD",
-    "logo": "https://i.imgur.com/RMbMGMg.png"
+    "xmltv_id": "AMItele.ca@SD"
   },
   {
-    "site_id": "seta/SNETWORLD+",
-    "name": "SNWHD",
+    "site_id": "besp/BESP",
+    "name": "BeIN Sports ESP SD",
+    "lang": "fr",
+    "xmltv_id": "beINSportsenEspanol.qa@SD",
+    "logo": "https://i.imgur.com/J5aurrb.png"
+  },
+  {
+    "site_id": "sc2/SC2",
+    "name": "Super Channel 2",
+    "lang": "fr",
+    "xmltv_id": "SuperChannelHeartHome.ca@SD",
+    "logo": "https://i.imgur.com/Mb1Xmh8.png"
+  },
+  {
+    "site_id": "se/SE2HD",
+    "name": "SE 2 HD",
     "lang": "fr"
   },
   {
-    "site_id": "yoo/YOOHD",
-    "name": "YOOPA HD",
+    "site_id": "wsbk/WSBK",
+    "name": "WSBK",
+    "lang": "fr",
+    "xmltv_id": "WSBKDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/WSBK-TV_2015_logo.svg/960px-WSBK-TV_2015_logo.svg.png"
+  },
+  {
+    "site_id": "boom/BOOMS",
+    "name": "Boomrang SD",
     "lang": "fr"
   },
   {
-    "site_id": "mezz/MEZZ",
-    "name": "Mezzo",
-    "lang": "fr",
-    "xmltv_id": "Mezzo.fr@SD",
-    "logo": "https://i.imgur.com/auNdGeW.png"
-  },
-  {
-    "site_id": "ris/RDSI",
-    "name": "RDS Info",
-    "lang": "fr",
-    "xmltv_id": "RDSInfo.ca@SD",
-    "logo": "https://i.imgur.com/VC3c3WY.png"
-  },
-  {
-    "site_id": "sc4/SC4HD",
-    "name": "Super Channel 4 HD",
+    "site_id": "fxc/FXHD",
+    "name": "FX Canada HD",
     "lang": "fr"
   },
   {
-    "site_id": "show/SHOW+HD",
-    "name": "Showcase HD",
+    "site_id": "qub/QUB",
+    "name": "QUB Radio",
     "lang": "fr"
   },
   {
-    "site_id": "unis/UNIS",
-    "name": "UNIS",
+    "site_id": "sc3/SC3",
+    "name": "Super Channel 3",
     "lang": "fr",
-    "xmltv_id": "Unis.ca@SD",
-    "logo": "https://i.imgur.com/Ng0mmSg.png"
+    "xmltv_id": "SuperChannelVault.ca@SD",
+    "logo": "https://i.imgur.com/mH8Yv7u.png"
   },
   {
-    "site_id": "fox/WFFF",
-    "name": "WFFF",
+    "site_id": "snet/SNET+PAC+H",
+    "name": "Sports Net Pacifique HD",
     "lang": "fr"
   },
   {
-    "site_id": "abc/KOMO",
-    "name": "KOMO",
+    "site_id": "wgn9/WGN",
+    "name": "WGN TV 9",
     "lang": "fr",
-    "xmltv_id": "KOMODT1.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/KOMO-TV_%282021%29.svg"
+    "xmltv_id": "WGNDT1.us@SD",
+    "logo": "https://i.imgur.com/gvHrpnf.png"
   },
   {
-    "site_id": "cmdy/CMDY",
-    "name": "CTV Comedy SD",
+    "site_id": "wtn/WTN",
+    "name": "WTN",
     "lang": "fr",
-    "xmltv_id": "CTVComedyChannel.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/960px-CTV_Comedy_Channel_2019.svg.png"
+    "xmltv_id": "WNetwork.ca@East",
+    "logo": "https://i.imgur.com/t7XdBh8.png"
+  },
+  {
+    "site_id": "series/SERP",
+    "name": "Séries Plus",
+    "lang": "fr",
+    "xmltv_id": "SeriesPlus.ca@SD",
+    "logo": "https://i.imgur.com/pXVgaD5.png"
   }
 ]

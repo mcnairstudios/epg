@@ -1,677 +1,11 @@
 [
   {
-    "site_id": "B",
-    "name": "J2",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "J2.hk@SD",
-    "logo": "https://i.imgur.com/lvxtaoM.png"
-  },
-  {
-    "site_id": "CMAM",
-    "name": "Mei Ah Movie Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MeiAhMovieChannel.hk@SD",
-    "logo": "https://i.imgur.com/laGiFM1.png"
-  },
-  {
-    "site_id": "EVT5",
-    "name": "myTV SUPER Live Soccer 5",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "myTVSUPERLiveSoccer5.hk@SD",
-    "logo": "https://i.imgur.com/IBYQt6K.png"
-  },
-  {
-    "site_id": "TVO",
-    "name": "Golden Chinese Drama",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "CJAZ",
-    "name": "半島電視台英語頻道",
-    "lang": "en",
-    "region": "ZH",
-    "xmltv_id": "AlJazeera.qa@English",
-    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"
-  },
-  {
-    "site_id": "LNH",
-    "name": "Love Nature HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "LoveNature.ca@SD",
-    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
-  },
-  {
-    "site_id": "PCC",
-    "name": "鳳凰衛視中文台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "PhoenixChineseChannel.hk@SD",
-    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"
-  },
-  {
-    "site_id": "CCCM",
-    "name": "CCM",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CCM.hk@SD",
-    "logo": "https://i.imgur.com/1VhXilw.png"
-  },
-  {
-    "site_id": "ZOO",
-    "name": "ZooMoo",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ZooMoo.sg@SD",
-    "logo": "https://i.imgur.com/ciTJrnl.png"
-  },
-  {
-    "site_id": "CCNA",
-    "name": "亞洲新聞台",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "CTS1",
-    "name": "無線衛星亞洲台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "TVBSAsia.tw@SD",
-    "logo": "https://i.imgur.com/4S1rkhm.png"
-  },
-  {
-    "site_id": "CTVE",
-    "name": "娛樂新聞台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "EntertainmentNews.hk@SD",
-    "logo": "https://i.imgur.com/I29EZnc.png"
-  },
-  {
-    "site_id": "ZOO",
-    "name": "ZooMoo",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ZooMoo.sg@SD",
-    "logo": "https://i.imgur.com/ciTJrnl.png"
-  },
-  {
-    "site_id": "CKIX",
-    "name": "KIX",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "KIX.hk@SD",
-    "logo": "https://i.imgur.com/zWcUAdb.png"
-  },
-  {
-    "site_id": "CMC",
-    "name": "China Movie Channel",
-    "lang": "zh",
-    "region": "EN",
-    "xmltv_id": "ChinaMovieChannel.cn@SD",
-    "logo": "https://i.imgur.com/9fKBR99.png"
-  },
-  {
-    "site_id": "CRTX",
-    "name": "ROCK Action",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ROCKExtreme.sg@SD",
-    "logo": "https://i.imgur.com/3U1JpHm.png"
-  },
-  {
-    "site_id": "CWIN",
-    "name": "SUPER FREE",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AsianVariety.hk@SD",
-    "logo": "https://i.imgur.com/E1vd9UY.png"
-  },
-  {
-    "site_id": "A",
-    "name": "無綫財經 體育 資訊台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "TVBFinanceSportsInformationChannel.hk@SD",
-    "logo": "https://i.imgur.com/Fkkp7x7.png"
-  },
-  {
-    "site_id": "EVT2",
-    "name": "myTV SUPER直播足球2台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "myTVSUPERLiveSoccer2.hk@SD",
-    "logo": "https://i.imgur.com/ZlMfO3R.png"
-  },
-  {
-    "site_id": "SMS",
-    "name": "Global Trekker",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "GlobalTrekker.sg@SD",
-    "logo": "https://i.imgur.com/5nlmJIw.png"
-  },
-  {
-    "site_id": "CTVS",
-    "name": "Asian Drama",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AsianDrama.hk@SD",
-    "logo": "https://i.imgur.com/wqtN7mH.png"
-  },
-  {
-    "site_id": "EVT3",
-    "name": "myTV SUPER Live Soccer 3",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "myTVSUPERLiveSoccer3.hk@SD",
-    "logo": "https://i.imgur.com/IBYQt6K.png"
-  },
-  {
-    "site_id": "C",
-    "name": "無綫新聞台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "TVBNewsChannel.hk@SD",
-    "logo": "https://i.imgur.com/Gwij0Fj.png"
-  },
-  {
-    "site_id": "CKIX",
-    "name": "KIX",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "KIX.hk@SD",
-    "logo": "https://i.imgur.com/zWcUAdb.png"
-  },
-  {
-    "site_id": "CMAM",
-    "name": "美亞電影台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "MeiAhMovieChannel.hk@SD",
-    "logo": "https://i.imgur.com/laGiFM1.png"
-  },
-  {
-    "site_id": "FBX",
-    "name": "FashionBox",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "C",
-    "name": "TVB News Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TVBNewsChannel.hk@SD",
-    "logo": "https://i.imgur.com/Gwij0Fj.png"
-  },
-  {
-    "site_id": "CNIJR",
-    "name": "Nick Jr",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NickJrAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "LN4",
-    "name": "Love Nature 4K",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "LoveNature.ca@4K",
-    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
-  },
-  {
-    "site_id": "P",
-    "name": "Pearl",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Pearl.hk@SD",
-    "logo": "https://i.imgur.com/UPdcMkW.png"
-  },
-  {
-    "site_id": "PIN",
-    "name": "Phoenix InfoNews Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD",
-    "logo": "https://i.imgur.com/mt4h3VO.png"
-  },
-  {
-    "site_id": "SMS",
-    "name": "Global Trekker",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "GlobalTrekker.sg@SD",
-    "logo": "https://i.imgur.com/5nlmJIw.png"
-  },
-  {
-    "site_id": "J",
-    "name": "翡翠台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "Jade.hk@SD",
-    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"
-  },
-  {
-    "site_id": "P",
-    "name": "明珠台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "Pearl.hk@SD",
-    "logo": "https://i.imgur.com/UPdcMkW.png"
-  },
-  {
-    "site_id": "CCLM",
-    "name": "Classic Movies",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ClassicMovies.hk@SD",
-    "logo": "https://i.imgur.com/PwgiHUQ.png"
-  },
-  {
-    "site_id": "CTVC",
-    "name": "TVB Classic",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TVBClassic.hk@SD",
-    "logo": "https://i.imgur.com/Ly9NTd3.png"
-  },
-  {
-    "site_id": "CRTX",
-    "name": "ROCK Action",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ROCKExtreme.sg@SD",
-    "logo": "https://i.imgur.com/3U1JpHm.png"
-  },
-  {
-    "site_id": "EVT1",
-    "name": "myTV SUPER直播足球1台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "myTVSUPERLiveSoccer1.hk@SD",
-    "logo": "https://i.imgur.com/hs7ReE8.png"
-  },
-  {
-    "site_id": "EVT5",
-    "name": "myTV SUPER直播足球5台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "myTVSUPERLiveSoccer5.hk@SD",
-    "logo": "https://i.imgur.com/IBYQt6K.png"
-  },
-  {
-    "site_id": "PIN",
-    "name": "鳳凰衛視資訊台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD",
-    "logo": "https://i.imgur.com/mt4h3VO.png"
-  },
-  {
-    "site_id": "CMEZ",
-    "name": "Mezzo Live HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MezzoLive.fr@SD",
-    "logo": "https://i.imgur.com/H9ytKPN.png"
-  },
-  {
-    "site_id": "CNHK",
-    "name": "NHK World-Japan",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NHKWorldJapan.jp@SD",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"
-  },
-  {
-    "site_id": "CNIKO",
-    "name": "Nickelodeon",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NickelodeonAsia.sg@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
-  },
-  {
-    "site_id": "CF24",
-    "name": "France 24",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "France24.fr@English",
-    "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "site_id": "CMN1",
-    "name": "神州新聞台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "MainlandNewsChannel.hk@SD",
-    "logo": "https://i.imgur.com/mJwISRk.png"
-  },
-  {
-    "site_id": "C18",
-    "name": "myTV SUPER 18",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "myTVSUPER18.hk@SD",
-    "logo": "https://i.imgur.com/pD2a0rM.png"
-  },
-  {
-    "site_id": "CCOC",
-    "name": "Chinese Opera Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ChineseOperaChannel.hk@SD",
-    "logo": "https://i.imgur.com/S9rAq4T.png"
-  },
-  {
-    "site_id": "PHK",
-    "name": "Phoenix Hong Kong Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "PhoenixHongKongChannel.hk@SD",
-    "logo": "https://i.imgur.com/E0DQnRo.png"
-  },
-  {
-    "site_id": "CDW1",
-    "name": "DW",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "CRE",
-    "name": "創世電視",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CreationTV.hk@SD",
-    "logo": "https://i.imgur.com/f8bTPRn.png"
-  },
-  {
-    "site_id": "GEM",
-    "name": "GEM",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "GEM.sg@SD",
-    "logo": "https://i.imgur.com/DjI6SS1.png"
-  },
-  {
-    "site_id": "CAXN",
-    "name": "AXN",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AXNAsia.sg@HongKong",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
-  },
-  {
-    "site_id": "CJAZ",
-    "name": "Al Jazeera English",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AlJazeera.qa@English",
-    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"
-  },
-  {
-    "site_id": "CMN1",
-    "name": "Mainland News",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MainlandNewsChannel.hk@SD",
-    "logo": "https://i.imgur.com/mJwISRk.png"
-  },
-  {
     "site_id": "CMEZ",
     "name": "Mezzo Live HD",
     "lang": "en",
     "region": "ZH",
     "xmltv_id": "MezzoLive.fr@SD",
     "logo": "https://i.imgur.com/H9ytKPN.png"
-  },
-  {
-    "site_id": "CNHK",
-    "name": "NHK World-Japan",
-    "lang": "en",
-    "region": "ZH",
-    "xmltv_id": "NHKWorldJapan.jp@SD",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"
-  },
-  {
-    "site_id": "CNIJR",
-    "name": "Nick Jr",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "CTVS",
-    "name": "亞洲劇台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "AsianDrama.hk@SD",
-    "logo": "https://i.imgur.com/wqtN7mH.png"
-  },
-  {
-    "site_id": "DTV",
-    "name": "東方衛視國際頻道",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "A",
-    "name": "TVB Finance, Sports & Information Channel",
-    "lang": "zh",
-    "region": "EN",
-    "xmltv_id": "TVBFinanceSportsInformationChannel.hk@SD",
-    "logo": "https://i.imgur.com/Fkkp7x7.png"
-  },
-  {
-    "site_id": "CDR3",
-    "name": "Chinese Drama",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ChineseDrama.hk@SD",
-    "logo": "https://i.imgur.com/OD1dGmg.png"
-  },
-  {
-    "site_id": "CRTE",
-    "name": "ROCK Entertainment",
-    "lang": "zh",
-    "region": "EN",
-    "xmltv_id": "ROCKEntertainment.sg@SD",
-    "logo": "https://i.imgur.com/PWzq0aU.png"
-  },
-  {
-    "site_id": "TVG",
-    "name": "Golden Jade",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "GoldenJade.hk@SD",
-    "logo": "https://i.imgur.com/lPYxsUr.png"
-  },
-  {
-    "site_id": "CJTV",
-    "name": "tvN",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "tvNAsia.hk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
-  },
-  {
-    "site_id": "CWIN",
-    "name": "SUPER FREE",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "AsianVariety.hk@SD",
-    "logo": "https://i.imgur.com/E1vd9UY.png"
-  },
-  {
-    "site_id": "EVT4",
-    "name": "myTV SUPER直播足球4台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "myTVSUPERLiveSoccer4.hk@SD",
-    "logo": "https://i.imgur.com/IBYQt6K.png"
-  },
-  {
-    "site_id": "TVO",
-    "name": "黃金華劇台",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "CTHR",
-    "name": "Thrill",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Thrill.hk@SD",
-    "logo": "https://i.imgur.com/Y282owj.png"
-  },
-  {
-    "site_id": "CANI",
-    "name": "Animax",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AnimaxAsia.sg@HongKong",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"
-  },
-  {
-    "site_id": "CARI",
-    "name": "Arirang TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ArirangTV.kr@SD",
-    "logo": "https://i.imgur.com/Asu5pE9.png"
-  },
-  {
-    "site_id": "CTS1",
-    "name": "TVBS Asia",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TVBSAsia.tw@SD",
-    "logo": "https://i.imgur.com/4S1rkhm.png"
-  },
-  {
-    "site_id": "EVT2",
-    "name": "myTV SUPER Live Soccer 2",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "myTVSUPERLiveSoccer2.hk@SD",
-    "logo": "https://i.imgur.com/ZlMfO3R.png"
-  },
-  {
-    "site_id": "KID",
-    "name": "SUPER Kids Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HandsUpChannel.hk@SD",
-    "logo": "https://i.imgur.com/5JXsWbh.png"
-  },
-  {
-    "site_id": "CCCM",
-    "name": "天映經典頻道",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CCM.hk@SD",
-    "logo": "https://i.imgur.com/1VhXilw.png"
-  },
-  {
-    "site_id": "CMC",
-    "name": "中國電影頻道",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ChinaMovieChannel.cn@SD",
-    "logo": "https://i.imgur.com/9fKBR99.png"
-  },
-  {
-    "site_id": "CDW1",
-    "name": "DW",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DW.de@English",
-    "logo": "https://i.imgur.com/8MRNFb9.png"
-  },
-  {
-    "site_id": "CJTV",
-    "name": "tvN",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "tvNAsia.hk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
-  },
-  {
-    "site_id": "EVT4",
-    "name": "myTV SUPER Live Soccer 4",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "myTVSUPERLiveSoccer4.hk@SD",
-    "logo": "https://i.imgur.com/IBYQt6K.png"
-  },
-  {
-    "site_id": "EVT3",
-    "name": "myTV SUPER直播足球3台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "myTVSUPERLiveSoccer3.hk@SD",
-    "logo": "https://i.imgur.com/IBYQt6K.png"
-  },
-  {
-    "site_id": "KID",
-    "name": "SUPER Kids Channel",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HandsUpChannel.hk@SD",
-    "logo": "https://i.imgur.com/5JXsWbh.png"
-  },
-  {
-    "site_id": "PHK",
-    "name": "鳳凰衛視香港台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "PhoenixHongKongChannel.hk@SD",
-    "logo": "https://i.imgur.com/E0DQnRo.png"
-  },
-  {
-    "site_id": "B",
-    "name": "J2",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "J2.hk@SD",
-    "logo": "https://i.imgur.com/lvxtaoM.png"
-  },
-  {
-    "site_id": "CCNA",
-    "name": "Channel NewsAsia",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CNAInternational.sg@SD",
-    "logo": "https://i.imgur.com/xWglicB.png"
-  },
-  {
-    "site_id": "CRE",
-    "name": "Creation TV",
-    "lang": "zh",
-    "region": "EN",
-    "xmltv_id": "CreationTV.hk@SD",
-    "logo": "https://i.imgur.com/f8bTPRn.png"
-  },
-  {
-    "site_id": "C18",
-    "name": "myTV SUPER 18台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "myTVSUPER18.hk@SD",
-    "logo": "https://i.imgur.com/pD2a0rM.png"
-  },
-  {
-    "site_id": "CAXN",
-    "name": "AXN",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "AXNAsia.sg@HongKong",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
   },
   {
     "site_id": "CTSN",
@@ -682,6 +16,29 @@
     "logo": "https://i.imgur.com/171lwfg.png"
   },
   {
+    "site_id": "CKIX",
+    "name": "KIX",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "KIX.hk@SD",
+    "logo": "https://i.imgur.com/zWcUAdb.png"
+  },
+  {
+    "site_id": "CTS1",
+    "name": "TVBS Asia",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TVBSAsia.tw@SD",
+    "logo": "https://i.imgur.com/4S1rkhm.png"
+  },
+  {
+    "site_id": "CNIJR",
+    "name": "Nick Jr",
+    "lang": "zh",
+    "region": "ZH",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
     "site_id": "LN4",
     "name": "Love Nature 4K",
     "lang": "zh",
@@ -690,42 +47,154 @@
     "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
   },
   {
+    "site_id": "PIN",
+    "name": "鳳凰衛視資訊台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD",
+    "logo": "https://i.imgur.com/mt4h3VO.png"
+  },
+  {
+    "site_id": "TVG",
+    "name": "黃金翡翠台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "GoldenJade.hk@SD",
+    "logo": "https://i.imgur.com/lPYxsUr.png"
+  },
+  {
+    "site_id": "EVT4",
+    "name": "myTV SUPER Live Soccer 4",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "myTVSUPERLiveSoccer4.hk@SD",
+    "logo": "https://i.imgur.com/IBYQt6K.png"
+  },
+  {
+    "site_id": "EVT5",
+    "name": "myTV SUPER Live Soccer 5",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "myTVSUPERLiveSoccer5.hk@SD",
+    "logo": "https://i.imgur.com/IBYQt6K.png"
+  },
+  {
+    "site_id": "C18",
+    "name": "myTV SUPER 18台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "myTVSUPER18.hk@SD",
+    "logo": "https://i.imgur.com/pD2a0rM.png"
+  },
+  {
+    "site_id": "TVO",
+    "name": "黃金華劇台",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "EVT3",
+    "name": "myTV SUPER Live Soccer 3",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "myTVSUPERLiveSoccer3.hk@SD",
+    "logo": "https://i.imgur.com/IBYQt6K.png"
+  },
+  {
+    "site_id": "TVG",
+    "name": "Golden Jade",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "GoldenJade.hk@SD",
+    "logo": "https://i.imgur.com/lPYxsUr.png"
+  },
+  {
+    "site_id": "CRE",
+    "name": "創世電視",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "CreationTV.hk@SD",
+    "logo": "https://i.imgur.com/f8bTPRn.png"
+  },
+  {
+    "site_id": "EVT5",
+    "name": "myTV SUPER直播足球5台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "myTVSUPERLiveSoccer5.hk@SD",
+    "logo": "https://i.imgur.com/IBYQt6K.png"
+  },
+  {
+    "site_id": "C",
+    "name": "TVB News Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TVBNewsChannel.hk@SD",
+    "logo": "https://i.imgur.com/Gwij0Fj.png"
+  },
+  {
+    "site_id": "CAXN",
+    "name": "AXN",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AXNAsia.sg@HongKong",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
+  },
+  {
+    "site_id": "CTVS",
+    "name": "Asian Drama",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AsianDrama.hk@SD",
+    "logo": "https://i.imgur.com/wqtN7mH.png"
+  },
+  {
+    "site_id": "SMS",
+    "name": "Global Trekker",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "GlobalTrekker.sg@SD",
+    "logo": "https://i.imgur.com/5nlmJIw.png"
+  },
+  {
+    "site_id": "CJAZ",
+    "name": "半島電視台英語頻道",
+    "lang": "en",
+    "region": "ZH",
+    "xmltv_id": "AlJazeera.qa@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+  },
+  {
+    "site_id": "SMS",
+    "name": "Global Trekker",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "GlobalTrekker.sg@SD",
+    "logo": "https://i.imgur.com/5nlmJIw.png"
+  },
+  {
     "site_id": "CF24",
     "name": "France 24",
     "lang": "en",
     "region": "EN",
     "xmltv_id": "France24.fr@English",
-    "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
   },
   {
-    "site_id": "CTSN",
-    "name": "TVBS News",
+    "site_id": "CMC",
+    "name": "China Movie Channel",
+    "lang": "zh",
+    "region": "EN",
+    "xmltv_id": "ChinaMovieChannel.cn@SD",
+    "logo": "https://i.imgur.com/9fKBR99.png"
+  },
+  {
+    "site_id": "GEM",
+    "name": "GEM",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "TVBSNews.tw@SD",
-    "logo": "https://i.imgur.com/171lwfg.png"
-  },
-  {
-    "site_id": "CTVE",
-    "name": "Entertainment News",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "EntertainmentNews.hk@SD",
-    "logo": "https://i.imgur.com/I29EZnc.png"
-  },
-  {
-    "site_id": "EVT1",
-    "name": "myTV SUPER Live Soccer 1",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "myTVSUPERLiveSoccer1.hk@SD",
-    "logo": "https://i.imgur.com/hs7ReE8.png"
-  },
-  {
-    "site_id": "FBX",
-    "name": "FashionBox",
-    "lang": "en",
-    "region": "EN"
+    "xmltv_id": "GEM.sg@SD",
+    "logo": "https://i.imgur.com/DjI6SS1.png"
   },
   {
     "site_id": "J",
@@ -736,42 +205,12 @@
     "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"
   },
   {
-    "site_id": "CANI",
-    "name": "Animax",
+    "site_id": "CCCM",
+    "name": "天映經典頻道",
     "lang": "zh",
     "region": "ZH",
-    "xmltv_id": "AnimaxAsia.sg@HongKong",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"
-  },
-  {
-    "site_id": "CCOC",
-    "name": "戲曲台",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ChineseOperaChannel.hk@SD",
-    "logo": "https://i.imgur.com/S9rAq4T.png"
-  },
-  {
-    "site_id": "DTV",
-    "name": "Dragon TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DragonTV.cn@SD",
-    "logo": "https://i.imgur.com/WqM6xnF.png"
-  },
-  {
-    "site_id": "PCC",
-    "name": "Phoenix Chinese Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "PhoenixChineseChannel.hk@SD",
-    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"
-  },
-  {
-    "site_id": "CARI",
-    "name": "Arirang TV",
-    "lang": "zh",
-    "region": "ZH"
+    "xmltv_id": "CCM.hk@SD",
+    "logo": "https://i.imgur.com/1VhXilw.png"
   },
   {
     "site_id": "CCLM",
@@ -790,6 +229,91 @@
     "logo": "https://i.imgur.com/OD1dGmg.png"
   },
   {
+    "site_id": "CWIN",
+    "name": "SUPER FREE",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "AsianVariety.hk@SD",
+    "logo": "https://i.imgur.com/E1vd9UY.png"
+  },
+  {
+    "site_id": "CTSN",
+    "name": "TVBS News",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TVBSNews.tw@SD",
+    "logo": "https://i.imgur.com/171lwfg.png"
+  },
+  {
+    "site_id": "EVT1",
+    "name": "myTV SUPER Live Soccer 1",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "myTVSUPERLiveSoccer1.hk@SD",
+    "logo": "https://i.imgur.com/hs7ReE8.png"
+  },
+  {
+    "site_id": "LNH",
+    "name": "Love Nature HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "LoveNature.ca@SD",
+    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
+  },
+  {
+    "site_id": "DTV",
+    "name": "東方衛視國際頻道",
+    "lang": "zh",
+    "region": "ZH",
+    "logo": "https://i.imgur.com/WqM6xnF.png"
+  },
+  {
+    "site_id": "EVT3",
+    "name": "myTV SUPER直播足球3台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "myTVSUPERLiveSoccer3.hk@SD",
+    "logo": "https://i.imgur.com/IBYQt6K.png"
+  },
+  {
+    "site_id": "LNH",
+    "name": "Love Nature HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "LoveNature.ca@SD",
+    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
+  },
+  {
+    "site_id": "CNHK",
+    "name": "NHK World-Japan",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NHKWorldJapan.jp@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
+  },
+  {
+    "site_id": "CTVC",
+    "name": "TVB Classic",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TVBClassic.hk@SD",
+    "logo": "https://i.imgur.com/Ly9NTd3.png"
+  },
+  {
+    "site_id": "FBX",
+    "name": "FashionBox",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "P",
+    "name": "Pearl",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Pearl.hk@SD",
+    "logo": "https://i.imgur.com/UPdcMkW.png"
+  },
+  {
     "site_id": "CNIKO",
     "name": "Nickelodeon",
     "lang": "zh",
@@ -806,28 +330,99 @@
     "logo": "https://i.imgur.com/PWzq0aU.png"
   },
   {
-    "site_id": "CTHR",
-    "name": "Thrill",
+    "site_id": "EVT1",
+    "name": "myTV SUPER直播足球1台",
     "lang": "zh",
     "region": "ZH",
-    "xmltv_id": "Thrill.hk@SD",
-    "logo": "https://i.imgur.com/Y282owj.png"
+    "xmltv_id": "myTVSUPERLiveSoccer1.hk@SD",
+    "logo": "https://i.imgur.com/hs7ReE8.png"
   },
   {
-    "site_id": "GEM",
-    "name": "GEM",
+    "site_id": "CDR3",
+    "name": "Chinese Drama",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "GEM.sg@SD",
-    "logo": "https://i.imgur.com/DjI6SS1.png"
+    "xmltv_id": "ChineseDrama.hk@SD",
+    "logo": "https://i.imgur.com/OD1dGmg.png"
   },
   {
-    "site_id": "LNH",
-    "name": "Love Nature HD",
+    "site_id": "CCNA",
+    "name": "Channel NewsAsia",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "LoveNature.ca@SD",
-    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
+    "xmltv_id": "CNAInternational.sg@SD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png"
+  },
+  {
+    "site_id": "CRE",
+    "name": "Creation TV",
+    "lang": "zh",
+    "region": "EN",
+    "xmltv_id": "CreationTV.hk@SD",
+    "logo": "https://i.imgur.com/f8bTPRn.png"
+  },
+  {
+    "site_id": "PHK",
+    "name": "Phoenix Hong Kong Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "PhoenixHongKongChannel.hk@SD",
+    "logo": "https://i.imgur.com/E0DQnRo.png"
+  },
+  {
+    "site_id": "CAXN",
+    "name": "AXN",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "AXNAsia.sg@HongKong",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
+  },
+  {
+    "site_id": "CKIX",
+    "name": "KIX",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "KIX.hk@SD",
+    "logo": "https://i.imgur.com/zWcUAdb.png"
+  },
+  {
+    "site_id": "C18",
+    "name": "myTV SUPER 18",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "myTVSUPER18.hk@SD",
+    "logo": "https://i.imgur.com/pD2a0rM.png"
+  },
+  {
+    "site_id": "CTVE",
+    "name": "Entertainment News",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "EntertainmentNews.hk@SD",
+    "logo": "https://i.imgur.com/I29EZnc.png"
+  },
+  {
+    "site_id": "CCNA",
+    "name": "亞洲新聞台",
+    "lang": "zh",
+    "region": "ZH",
+    "logo": "https://i.imgur.com/xWglicB.png"
+  },
+  {
+    "site_id": "CNHK",
+    "name": "NHK World-Japan",
+    "lang": "en",
+    "region": "ZH",
+    "xmltv_id": "NHKWorldJapan.jp@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
+  },
+  {
+    "site_id": "CRTX",
+    "name": "ROCK Action",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ROCKExtreme.sg@SD",
+    "logo": "https://i.imgur.com/3U1JpHm.png"
   },
   {
     "site_id": "CTVC",
@@ -838,11 +433,421 @@
     "logo": "https://i.imgur.com/Ly9NTd3.png"
   },
   {
-    "site_id": "TVG",
-    "name": "黃金翡翠台",
+    "site_id": "EVT4",
+    "name": "myTV SUPER直播足球4台",
     "lang": "zh",
     "region": "ZH",
-    "xmltv_id": "GoldenJade.hk@SD",
-    "logo": "https://i.imgur.com/lPYxsUr.png"
+    "xmltv_id": "myTVSUPERLiveSoccer4.hk@SD",
+    "logo": "https://i.imgur.com/IBYQt6K.png"
+  },
+  {
+    "site_id": "GEM",
+    "name": "GEM",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "GEM.sg@SD",
+    "logo": "https://i.imgur.com/DjI6SS1.png"
+  },
+  {
+    "site_id": "CDW1",
+    "name": "DW",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DW.de@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png"
+  },
+  {
+    "site_id": "CANI",
+    "name": "Animax",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AnimaxAsia.sg@HongKong",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png"
+  },
+  {
+    "site_id": "CARI",
+    "name": "Arirang TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ArirangTV.kr@SD",
+    "logo": "https://i.imgur.com/Asu5pE9.png"
+  },
+  {
+    "site_id": "CRTX",
+    "name": "ROCK Action",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ROCKExtreme.sg@SD",
+    "logo": "https://i.imgur.com/3U1JpHm.png"
+  },
+  {
+    "site_id": "KID",
+    "name": "SUPER Kids Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HandsUpChannel.hk@SD",
+    "logo": "https://i.imgur.com/5JXsWbh.png"
+  },
+  {
+    "site_id": "CJTV",
+    "name": "tvN",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "tvNAsia.hk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
+  },
+  {
+    "site_id": "EVT2",
+    "name": "myTV SUPER直播足球2台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "myTVSUPERLiveSoccer2.hk@SD",
+    "logo": "https://i.imgur.com/ZlMfO3R.png"
+  },
+  {
+    "site_id": "P",
+    "name": "明珠台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "Pearl.hk@SD",
+    "logo": "https://i.imgur.com/UPdcMkW.png"
+  },
+  {
+    "site_id": "CCLM",
+    "name": "Classic Movies",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ClassicMovies.hk@SD",
+    "logo": "https://i.imgur.com/PwgiHUQ.png"
+  },
+  {
+    "site_id": "CJAZ",
+    "name": "Al Jazeera English",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AlJazeera.qa@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+  },
+  {
+    "site_id": "CJTV",
+    "name": "tvN",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "tvNAsia.hk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
+  },
+  {
+    "site_id": "CNIKO",
+    "name": "Nickelodeon",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NickelodeonAsia.sg@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "EVT2",
+    "name": "myTV SUPER Live Soccer 2",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "myTVSUPERLiveSoccer2.hk@SD",
+    "logo": "https://i.imgur.com/ZlMfO3R.png"
+  },
+  {
+    "site_id": "PCC",
+    "name": "Phoenix Chinese Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "PhoenixChineseChannel.hk@SD",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"
+  },
+  {
+    "site_id": "CARI",
+    "name": "Arirang TV",
+    "lang": "zh",
+    "region": "ZH",
+    "logo": "https://i.imgur.com/Asu5pE9.png"
+  },
+  {
+    "site_id": "CTS1",
+    "name": "無線衛星亞洲台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "TVBSAsia.tw@SD",
+    "logo": "https://i.imgur.com/4S1rkhm.png"
+  },
+  {
+    "site_id": "CCOC",
+    "name": "Chinese Opera Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ChineseOperaChannel.hk@SD",
+    "logo": "https://i.imgur.com/S9rAq4T.png"
+  },
+  {
+    "site_id": "CCCM",
+    "name": "CCM",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CCM.hk@SD",
+    "logo": "https://i.imgur.com/1VhXilw.png"
+  },
+  {
+    "site_id": "CWIN",
+    "name": "SUPER FREE",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AsianVariety.hk@SD",
+    "logo": "https://i.imgur.com/E1vd9UY.png"
+  },
+  {
+    "site_id": "PIN",
+    "name": "Phoenix InfoNews Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD",
+    "logo": "https://i.imgur.com/mt4h3VO.png"
+  },
+  {
+    "site_id": "CMAM",
+    "name": "美亞電影台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "MeiAhMovieChannel.hk@SD",
+    "logo": "https://i.imgur.com/laGiFM1.png"
+  },
+  {
+    "site_id": "CMN1",
+    "name": "神州新聞台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "MainlandNewsChannel.hk@SD",
+    "logo": "https://i.imgur.com/mJwISRk.png"
+  },
+  {
+    "site_id": "CTHR",
+    "name": "Thrill",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "Thrill.hk@SD",
+    "logo": "https://i.imgur.com/Y282owj.png"
+  },
+  {
+    "site_id": "CTVS",
+    "name": "亞洲劇台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "AsianDrama.hk@SD",
+    "logo": "https://i.imgur.com/wqtN7mH.png"
+  },
+  {
+    "site_id": "CTVE",
+    "name": "娛樂新聞台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "EntertainmentNews.hk@SD",
+    "logo": "https://i.imgur.com/I29EZnc.png"
+  },
+  {
+    "site_id": "FBX",
+    "name": "FashionBox",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "J",
+    "name": "翡翠台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "Jade.hk@SD",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"
+  },
+  {
+    "site_id": "KID",
+    "name": "SUPER Kids Channel",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HandsUpChannel.hk@SD",
+    "logo": "https://i.imgur.com/5JXsWbh.png"
+  },
+  {
+    "site_id": "PHK",
+    "name": "鳳凰衛視香港台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "PhoenixHongKongChannel.hk@SD",
+    "logo": "https://i.imgur.com/E0DQnRo.png"
+  },
+  {
+    "site_id": "ZOO",
+    "name": "ZooMoo",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ZooMoo.sg@SD",
+    "logo": "https://i.imgur.com/ciTJrnl.png"
+  },
+  {
+    "site_id": "A",
+    "name": "無綫財經 體育 資訊台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "TVBFinanceSportsInformationChannel.hk@SD",
+    "logo": "https://i.imgur.com/Fkkp7x7.png"
+  },
+  {
+    "site_id": "A",
+    "name": "TVB Finance, Sports \u0026 Information Channel",
+    "lang": "zh",
+    "region": "EN",
+    "xmltv_id": "TVBFinanceSportsInformationChannel.hk@SD",
+    "logo": "https://i.imgur.com/Fkkp7x7.png"
+  },
+  {
+    "site_id": "B",
+    "name": "J2",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "J2.hk@SD",
+    "logo": "https://i.imgur.com/lvxtaoM.png"
+  },
+  {
+    "site_id": "CMN1",
+    "name": "Mainland News",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MainlandNewsChannel.hk@SD",
+    "logo": "https://i.imgur.com/mJwISRk.png"
+  },
+  {
+    "site_id": "CNIJR",
+    "name": "Nick Jr",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NickJrAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "TVO",
+    "name": "Golden Chinese Drama",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "C",
+    "name": "無綫新聞台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "TVBNewsChannel.hk@SD",
+    "logo": "https://i.imgur.com/Gwij0Fj.png"
+  },
+  {
+    "site_id": "PCC",
+    "name": "鳳凰衛視中文台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "PhoenixChineseChannel.hk@SD",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"
+  },
+  {
+    "site_id": "CMEZ",
+    "name": "Mezzo Live HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MezzoLive.fr@SD",
+    "logo": "https://i.imgur.com/H9ytKPN.png"
+  },
+  {
+    "site_id": "CRTE",
+    "name": "ROCK Entertainment",
+    "lang": "zh",
+    "region": "EN",
+    "xmltv_id": "ROCKEntertainment.sg@SD",
+    "logo": "https://i.imgur.com/PWzq0aU.png"
+  },
+  {
+    "site_id": "DTV",
+    "name": "Dragon TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DragonTV.cn@SD",
+    "logo": "https://i.imgur.com/WqM6xnF.png"
+  },
+  {
+    "site_id": "LN4",
+    "name": "Love Nature 4K",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "LoveNature.ca@4K",
+    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
+  },
+  {
+    "site_id": "ZOO",
+    "name": "ZooMoo",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ZooMoo.sg@SD",
+    "logo": "https://i.imgur.com/ciTJrnl.png"
+  },
+  {
+    "site_id": "B",
+    "name": "J2",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "J2.hk@SD",
+    "logo": "https://i.imgur.com/lvxtaoM.png"
+  },
+  {
+    "site_id": "CF24",
+    "name": "France 24",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "CMAM",
+    "name": "Mei Ah Movie Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MeiAhMovieChannel.hk@SD",
+    "logo": "https://i.imgur.com/laGiFM1.png"
+  },
+  {
+    "site_id": "CTHR",
+    "name": "Thrill",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Thrill.hk@SD",
+    "logo": "https://i.imgur.com/Y282owj.png"
+  },
+  {
+    "site_id": "CANI",
+    "name": "Animax",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "AnimaxAsia.sg@HongKong",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png"
+  },
+  {
+    "site_id": "CCOC",
+    "name": "戲曲台",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ChineseOperaChannel.hk@SD",
+    "logo": "https://i.imgur.com/S9rAq4T.png"
+  },
+  {
+    "site_id": "CDW1",
+    "name": "DW",
+    "lang": "zh",
+    "region": "ZH",
+    "logo": "https://i.imgur.com/8MRNFb9.png"
+  },
+  {
+    "site_id": "CMC",
+    "name": "中國電影頻道",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ChinaMovieChannel.cn@SD",
+    "logo": "https://i.imgur.com/9fKBR99.png"
   }
 ]

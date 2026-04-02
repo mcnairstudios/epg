@@ -1,16 +1,22 @@
 [
   {
-    "site_id": "206970408437",
-    "name": "ProSieben Maxx",
+    "site_id": "206966312231",
+    "name": "Melodie TV",
     "lang": "de",
-    "xmltv_id": "ProSiebenMaxx.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png"
+    "xmltv_id": "MelodieTV.at@SD",
+    "logo": "https://i.imgur.com/UzsmVhI.png"
   },
   {
-    "site_id": "207381032281",
-    "name": "Fix & Foxi",
+    "site_id": "206965288083",
+    "name": "Magenta HD",
+    "lang": "de"
+  },
+  {
+    "site_id": "206964776277",
+    "name": "Das Erste HD",
     "lang": "de",
-    "xmltv_id": "FixFoxi.de@SD"
+    "xmltv_id": "DasErste.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"
   },
   {
     "site_id": "206965800268",
@@ -20,6 +26,111 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sixx_Austria_Logo.svg/960px-Sixx_Austria_Logo.svg.png"
   },
   {
+    "site_id": "207382568110",
+    "name": "Sky Sport HD 7",
+    "lang": "de",
+    "xmltv_id": "SkySport7.de@HD",
+    "logo": "https://i.imgur.com/XeflUV9.png"
+  },
+  {
+    "site_id": "225895464086",
+    "name": "Ö2 Kärnten",
+    "lang": "de"
+  },
+  {
+    "site_id": "206966312109",
+    "name": "WDR Fernsehen HD",
+    "lang": "de"
+  },
+  {
+    "site_id": "206969384018",
+    "name": "Kinowelt TV HD",
+    "lang": "de",
+    "xmltv_id": "KinoweltTV.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kinowelt_TV_Logo_2020.svg/960px-Kinowelt_TV_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "207382568024",
+    "name": "Crime + Investigation HD",
+    "lang": "de",
+    "xmltv_id": "CrimePlusInvestigation.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
+  },
+  {
+    "site_id": "225896488223",
+    "name": "WDR 2",
+    "lang": "de"
+  },
+  {
+    "site_id": "206965288109",
+    "name": "ATV HD",
+    "lang": "de",
+    "xmltv_id": "ATV.at@HD",
+    "logo": "https://i.imgur.com/1pA0Tid.png"
+  },
+  {
+    "site_id": "206967336325",
+    "name": "ORF 2 Vorarlberg HD",
+    "lang": "de",
+    "xmltv_id": "ORF2Vorarlberg.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
+  },
+  {
+    "site_id": "207381032339",
+    "name": "Sky Cinema Premieren +24 HD",
+    "lang": "de",
+    "xmltv_id": "SkyCinemaPremieren.de@Plus24HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "207382568087",
+    "name": "RTL Passion HD",
+    "lang": "de",
+    "xmltv_id": "RTLPassion.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RTL_Passion_Logo_2021.svg/960px-RTL_Passion_Logo_2021.svg.png"
+  },
+  {
+    "site_id": "225895976074",
+    "name": "SWR 2",
+    "lang": "de"
+  },
+  {
+    "site_id": "225896488138",
+    "name": "RNE 1 Radio Nacional",
+    "lang": "de"
+  },
+  {
+    "site_id": "206965800316",
+    "name": "TLC HD",
+    "lang": "de",
+    "xmltv_id": "TLC.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
+  },
+  {
+    "site_id": "207382568118",
+    "name": "Sky Sport HD 4",
+    "lang": "de",
+    "xmltv_id": "SkySport4.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sky_Sport_4_DE_Logo_2020.svg/960px-Sky_Sport_4_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "224890919993",
+    "name": "Bayern 1",
+    "lang": "de"
+  },
+  {
+    "site_id": "225895464329",
+    "name": "NDR Info",
+    "lang": "de"
+  },
+  {
+    "site_id": "206965800302",
+    "name": "One HD",
+    "lang": "de",
+    "xmltv_id": "One.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/960px-One_2022.svg.png"
+  },
+  {
     "site_id": "206966311961",
     "name": "RTLup HD",
     "lang": "de",
@@ -27,61 +138,56 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RTLup_Logo_2021.svg/960px-RTLup_Logo_2021.svg.png"
   },
   {
-    "site_id": "206966823973",
-    "name": "ARD alpha HD",
+    "site_id": "206966312157",
+    "name": "hr-fernsehen HD",
     "lang": "de",
-    "xmltv_id": "ARDalpha.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png"
+    "xmltv_id": "hrfernsehen.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/960px-HR-Fernsehen_Logo_2023.svg.png"
   },
   {
-    "site_id": "206970408219",
-    "name": "Ländle TV HD",
+    "site_id": "206967336249",
+    "name": "ORF 2 Tirol HD",
     "lang": "de",
-    "xmltv_id": "LandleTV.at@HD",
-    "logo": "https://i.imgur.com/omLVQ4r.png"
+    "xmltv_id": "ORF2Tirol.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
   },
   {
-    "site_id": "206970408290",
-    "name": "Heimatkanal",
+    "site_id": "206968872127",
+    "name": "Eurosport 1",
     "lang": "de",
-    "xmltv_id": "Heimatkanal.de@SD",
-    "logo": "https://i.imgur.com/fngeJ3D.png"
+    "xmltv_id": "Eurosport1.fr@Germany",
+    "logo": "https://i.imgur.com/olQJgm7.png"
   },
   {
-    "site_id": "206964776317",
-    "name": "n-tv HD",
-    "lang": "de",
-    "xmltv_id": "ntv.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/960px-N-tv_logo-september2017.svg.png"
-  },
-  {
-    "site_id": "206966312068",
-    "name": "Okto HD",
-    "lang": "de",
-    "xmltv_id": "Okto.at@HD",
-    "logo": "https://i.imgur.com/9XfhgbS.png"
-  },
-  {
-    "site_id": "206966823986",
-    "name": "MDR Fernsehen HD",
+    "site_id": "225893928399",
+    "name": "Radio Orange 94,0",
     "lang": "de"
   },
   {
-    "site_id": "206969383998",
-    "name": "Universal TV HD",
+    "site_id": "225896488098",
+    "name": "Fritz",
+    "lang": "de"
+  },
+  {
+    "site_id": "206966824029",
+    "name": "SRF info HD",
     "lang": "de",
-    "xmltv_id": "UniversalTV.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"
+    "xmltv_id": "SRFinfo.ch@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png"
   },
   {
-    "site_id": "206969896108",
-    "name": "CGTN",
-    "lang": "de"
+    "site_id": "206966824308",
+    "name": "ORF 2 EUROPE",
+    "lang": "de",
+    "xmltv_id": "ORF2Europe.at@SD",
+    "logo": "https://i.imgur.com/Hmcl4qR.png"
   },
   {
-    "site_id": "225895464322",
-    "name": "NDR2",
-    "lang": "de"
+    "site_id": "206969384080",
+    "name": "France 24 HD",
+    "lang": "de",
+    "xmltv_id": "France24.fr@EnglishHD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
   },
   {
     "site_id": "206970408378",
@@ -91,29 +197,152 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/960px-Neues_Sat._1_Logo_transparent.png"
   },
   {
-    "site_id": "207381032287",
-    "name": "Fashion-TV HD",
+    "site_id": "207381032329",
+    "name": "History HD",
     "lang": "de",
-    "xmltv_id": "FashionTVHD.fr@SD",
-    "logo": "https://i.imgur.com/GFXsreR.png"
+    "xmltv_id": "History.de@HD",
+    "logo": "https://i.imgur.com/P5aKEES.png"
   },
   {
-    "site_id": "207382568011",
-    "name": "MTVhits!",
-    "lang": "de",
-    "xmltv_id": "MTVHitsEurope.uk@SD",
-    "logo": "https://i.imgur.com/zNscEST.png"
+    "site_id": "225895464253",
+    "name": "1 LIVE diggi",
+    "lang": "de"
   },
   {
-    "site_id": "207382568104",
-    "name": "Sky Cinema Fun HD",
-    "lang": "de",
-    "xmltv_id": "SkyCinemaFun.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sky_Cinema_Fun_DE_Logo_2020.svg/960px-Sky_Cinema_Fun_DE_Logo_2020.svg.png"
+    "site_id": "225895464353",
+    "name": "Radio SRF 1",
+    "lang": "de"
   },
   {
-    "site_id": "225893928399",
-    "name": "Radio Orange 94,0",
+    "site_id": "206969384001",
+    "name": "Syfy HD",
+    "lang": "de",
+    "xmltv_id": "SYFY.de@HD",
+    "logo": "https://i.imgur.com/4fMWhUE.png"
+  },
+  {
+    "site_id": "225895464394",
+    "name": "Radio Horeb",
+    "lang": "de"
+  },
+  {
+    "site_id": "234851368438",
+    "name": "eXXpressTV",
+    "lang": "de",
+    "xmltv_id": "eXXpressTV.at@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/EXXpress_logo_%282023%29.svg/960px-EXXpress_logo_%282023%29.svg.png"
+  },
+  {
+    "site_id": "206965800445",
+    "name": "RiC",
+    "lang": "de",
+    "xmltv_id": "RiC.de@SD",
+    "logo": "https://i.imgur.com/4wMZ8Em.png"
+  },
+  {
+    "site_id": "206969895991",
+    "name": "WNTV HD",
+    "lang": "de"
+  },
+  {
+    "site_id": "207381032321",
+    "name": "Baby TV",
+    "lang": "de"
+  },
+  {
+    "site_id": "207381032356",
+    "name": "Nick Junior",
+    "lang": "de"
+  },
+  {
+    "site_id": "207381032386",
+    "name": "Sky One HD",
+    "lang": "de",
+    "xmltv_id": "SkyOne.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_One_-_Logo_2020.png/960px-Sky_One_-_Logo_2020.png"
+  },
+  {
+    "site_id": "207382568085",
+    "name": "Bergblick",
+    "lang": "de",
+    "xmltv_id": "Bergblick.de@SD",
+    "logo": "https://i.imgur.com/j5YiyXc.png"
+  },
+  {
+    "site_id": "225895464225",
+    "name": "Bayern 3",
+    "lang": "de"
+  },
+  {
+    "site_id": "206965288223",
+    "name": "Nitro HD",
+    "lang": "de",
+    "xmltv_id": "Nitro.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png"
+  },
+  {
+    "site_id": "206965800168",
+    "name": "Servus TV HD",
+    "lang": "de",
+    "xmltv_id": "ServusTV.at@HD",
+    "logo": "https://i.imgur.com/6W637Gn.png"
+  },
+  {
+    "site_id": "206966824037",
+    "name": "SR HD",
+    "lang": "de"
+  },
+  {
+    "site_id": "207382568113",
+    "name": "Sky Sport HD 8",
+    "lang": "de",
+    "xmltv_id": "SkySport8.de@HD",
+    "logo": "https://i.imgur.com/2YCQyZm.png"
+  },
+  {
+    "site_id": "207382568152",
+    "name": "Pink Extra",
+    "lang": "de",
+    "xmltv_id": "PinkExtra.rs@SD",
+    "logo": "https://i.imgur.com/CUQEFtP.png"
+  },
+  {
+    "site_id": "225894440291",
+    "name": "Ö2 Niederösterreich",
+    "lang": "de"
+  },
+  {
+    "site_id": "225895464441",
+    "name": "Radio Osttirol",
+    "lang": "de"
+  },
+  {
+    "site_id": "225896488283",
+    "name": "SWR 4 Baden-Württemberg",
+    "lang": "de"
+  },
+  {
+    "site_id": "206966312019",
+    "name": "3sat HD",
+    "lang": "de",
+    "xmltv_id": "3sat.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png"
+  },
+  {
+    "site_id": "206967336053",
+    "name": "SPORTDIGITAL FUSSBALL HD",
+    "lang": "de",
+    "xmltv_id": "SportdigitalFUSSBALL.de@HD",
+    "logo": "https://i.imgur.com/NDbWxqF.png"
+  },
+  {
+    "site_id": "206967847966",
+    "name": "QVC 2 HD",
+    "lang": "de"
+  },
+  {
+    "site_id": "225895464173",
+    "name": "Radio Arabella",
     "lang": "de"
   },
   {
@@ -122,8 +351,323 @@
     "lang": "de"
   },
   {
+    "site_id": "463314984166",
+    "name": "Crime + Investigation",
+    "lang": "de",
+    "xmltv_id": "CrimePlusInvestigation.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
+  },
+  {
+    "site_id": "206965800328",
+    "name": "arte HD",
+    "lang": "de",
+    "xmltv_id": "arte.de@HD",
+    "logo": "https://i.imgur.com/ecXMjNl.png"
+  },
+  {
+    "site_id": "206966824208",
+    "name": "ORF 2 Burgenland HD",
+    "lang": "de",
+    "xmltv_id": "ORF2Burgenland.at@HD",
+    "logo": "https://i.imgur.com/qDdVR6E.png"
+  },
+  {
+    "site_id": "206967848043",
+    "name": "eSports1 HD",
+    "lang": "de",
+    "xmltv_id": "eSports1.de@HD",
+    "logo": "https://i.imgur.com/282zLCo.png"
+  },
+  {
+    "site_id": "207382568108",
+    "name": "Sky Sport HD 6",
+    "lang": "de",
+    "xmltv_id": "SkySport6.de@HD",
+    "logo": "https://i.imgur.com/WfeyX8D.png"
+  },
+  {
+    "site_id": "207382568116",
+    "name": "Sky Sport HD 2",
+    "lang": "de",
+    "xmltv_id": "SkySport2.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sky_Sport_2_DE_Logo_2020.svg/960px-Sky_Sport_2_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "225894952409",
+    "name": "LoungeFM",
+    "lang": "de"
+  },
+  {
+    "site_id": "225896488105",
+    "name": "N-JOY",
+    "lang": "de"
+  },
+  {
+    "site_id": "206967335978",
+    "name": "HSE HD",
+    "lang": "de",
+    "xmltv_id": "HSE.de@HD",
+    "logo": "https://i.imgur.com/IecRNCk.png"
+  },
+  {
+    "site_id": "206969384238",
+    "name": "Nickelodeon",
+    "lang": "de",
+    "xmltv_id": "Nickelodeon.de@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "207381032342",
+    "name": "Sky Krimi HD",
+    "lang": "de",
+    "xmltv_id": "SkyKrimi.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/960px-Sky_Krimi_2020.svg.png"
+  },
+  {
+    "site_id": "207382568039",
+    "name": "MTV 00s",
+    "lang": "de",
+    "xmltv_id": "MTV00s.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
+  },
+  {
+    "site_id": "207382568158",
+    "name": "Sky Sport Austria 3 HD",
+    "lang": "de",
+    "xmltv_id": "SkySportAustria3.at@HD",
+    "logo": "https://i.imgur.com/Kq7lhcY.png"
+  },
+  {
+    "site_id": "225895976033",
+    "name": "hr2-kultur",
+    "lang": "de"
+  },
+  {
+    "site_id": "206964776420",
+    "name": "R9 HD",
+    "lang": "de",
+    "xmltv_id": "R9.at@HD",
+    "logo": "https://i.imgur.com/SVJiXxh.png"
+  },
+  {
+    "site_id": "206966824334",
+    "name": "KT 1",
+    "lang": "de",
+    "xmltv_id": "KT1.at@SD",
+    "logo": "https://i.imgur.com/SyEqyOI.png"
+  },
+  {
+    "site_id": "206969384179",
+    "name": "krone.tv",
+    "lang": "de",
+    "xmltv_id": "kronetv.at@SD",
+    "logo": "https://i.imgur.com/3zN58uH.png"
+  },
+  {
+    "site_id": "206969896174",
+    "name": "n-tv",
+    "lang": "de",
+    "xmltv_id": "ntv.at@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/960px-N-tv_logo-september2017.svg.png"
+  },
+  {
+    "site_id": "225893928312",
+    "name": "Ö2 Vorarlberg",
+    "lang": "de"
+  },
+  {
+    "site_id": "225895976219",
+    "name": "NDR Kultur",
+    "lang": "de"
+  },
+  {
+    "site_id": "206966312237",
+    "name": "QVC HD",
+    "lang": "de",
+    "xmltv_id": "QVC.de@HD",
+    "logo": "https://i.imgur.com/EybRtsI.png"
+  },
+  {
+    "site_id": "206970408273",
+    "name": "Warner TV Serie HD",
+    "lang": "de",
+    "xmltv_id": "WarnerTVSerie.de@HD",
+    "logo": "https://i.imgur.com/QZYRu0I.png"
+  },
+  {
+    "site_id": "207381032325",
+    "name": "Stingray Classica HD",
+    "lang": "de",
+    "xmltv_id": "StingrayClassica.ca@HD",
+    "logo": "https://i.imgur.com/nh1k5RC.png"
+  },
+  {
+    "site_id": "207381032387",
+    "name": "Sky Sport Austria 4 HD",
+    "lang": "de",
+    "xmltv_id": "SkySportAustria4.at@HD",
+    "logo": "https://i.imgur.com/8S1cmCs.png"
+  },
+  {
+    "site_id": "225895464109",
+    "name": "Ö2 Tirol",
+    "lang": "de"
+  },
+  {
+    "site_id": "206966824118",
+    "name": "HSE Extra HD",
+    "lang": "de",
+    "xmltv_id": "HSEExtra.de@HD",
+    "logo": "https://i.imgur.com/nvMpbip.png"
+  },
+  {
+    "site_id": "206968872135",
+    "name": "Sport 1",
+    "lang": "de",
+    "xmltv_id": "Sport1.de@SD",
+    "logo": "https://i.imgur.com/Tsjt7v9.png"
+  },
+  {
+    "site_id": "207382568030",
+    "name": "Sky Bundesliga HD 1",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga1.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/c/ca/Sky_Sport_Bundesliga_2020.svg"
+  },
+  {
+    "site_id": "207382568109",
+    "name": "Cartoonito",
+    "lang": "de",
+    "xmltv_id": "CartoonitoCEE.uk@Germany",
+    "logo": "https://i.imgur.com/9MrzLb1.png"
+  },
+  {
+    "site_id": "207382568056",
+    "name": "BBC Entertainment",
+    "lang": "de",
+    "xmltv_id": "BBCEntertainment.uk@SD",
+    "logo": "https://i.imgur.com/fx2z8M1.png"
+  },
+  {
+    "site_id": "206964776235",
+    "name": "ProSieben HD",
+    "lang": "de"
+  },
+  {
+    "site_id": "206966824225",
+    "name": "ORF 2 Nö HD",
+    "lang": "de",
+    "xmltv_id": "ORF2NO.at@HD",
+    "logo": "https://i.imgur.com/92yKTOD.png"
+  },
+  {
+    "site_id": "206970408317",
+    "name": "CNBC",
+    "lang": "de",
+    "xmltv_id": "CNBCEurope.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
+  },
+  {
+    "site_id": "207381032273",
+    "name": "Sky Bundesliga HD 2",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga2.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png/960px-Sky_Sport_Bundesliga_2_Logo_2020.png"
+  },
+  {
+    "site_id": "207382568013",
+    "name": "Club MTV",
+    "lang": "de",
+    "xmltv_id": "ClubMTVEurope.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/Club_MTV_2021_logo.svg"
+  },
+  {
+    "site_id": "224889384048",
+    "name": "Antenne Bayern",
+    "lang": "de"
+  },
+  {
+    "site_id": "225896488075",
+    "name": "WDR 3",
+    "lang": "de"
+  },
+  {
+    "site_id": "206970919968",
+    "name": "Super RTL",
+    "lang": "de",
+    "xmltv_id": "RTLSuper.de@SD",
+    "logo": "https://i.imgur.com/KbdK8t9.png"
+  },
+  {
+    "site_id": "207381032274",
+    "name": "Sky Bundesliga HD 9",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga9.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Sky_Sport_Bundesliga_9_Logo_2020.png/960px-Sky_Sport_Bundesliga_9_Logo_2020.png"
+  },
+  {
+    "site_id": "207382568012",
+    "name": "MTV 90s",
+    "lang": "de",
+    "xmltv_id": "MTV90s.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/MTV_90s_2022.svg"
+  },
+  {
+    "site_id": "225894440398",
+    "name": "RADIO MARIA",
+    "lang": "de"
+  },
+  {
+    "site_id": "225896488308",
+    "name": "Radio Exterior de Espana",
+    "lang": "de"
+  },
+  {
+    "site_id": "225897000125",
+    "name": "Radio Swiss Classic",
+    "lang": "de"
+  },
+  {
+    "site_id": "206969896072",
+    "name": "euronews HD",
+    "lang": "de",
+    "xmltv_id": "EuronewsGerman.fr@HD",
+    "logo": "https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png"
+  },
+  {
+    "site_id": "207381032279",
+    "name": "Sky Bundesliga HD 8",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga8.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/4/4f/Sky_Sport_Bundesliga_8_Logo_2020.png/960px-Sky_Sport_Bundesliga_8_Logo_2020.png"
+  },
+  {
+    "site_id": "225894952331",
+    "name": "Ö2 Steiermark",
+    "lang": "de"
+  },
+  {
     "site_id": "206965800334",
     "name": "BR Fernsehen HD",
+    "lang": "de"
+  },
+  {
+    "site_id": "207381032347",
+    "name": "Sky Sport Mix HD",
+    "lang": "de",
+    "xmltv_id": "SkySportMix.de@HD",
+    "logo": "https://i.imgur.com/erx02nr.png"
+  },
+  {
+    "site_id": "207382568011",
+    "name": "MTVhits!",
+    "lang": "de",
+    "xmltv_id": "MTVHitsEurope.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg"
+  },
+  {
+    "site_id": "225895464193",
+    "name": "Radio Ö24",
     "lang": "de"
   },
   {
@@ -134,217 +678,30 @@
     "logo": "https://i.imgur.com/vZdNp5S.png"
   },
   {
-    "site_id": "206969896262",
-    "name": "TRT World",
+    "site_id": "206968871991",
+    "name": "Kabel Eins",
     "lang": "de",
-    "xmltv_id": "TRTWorld.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"
+    "xmltv_id": "kabeleins.de@SD",
+    "logo": "https://i.imgur.com/6pulSHZ.png"
   },
   {
-    "site_id": "206970919990",
-    "name": "TLC",
-    "lang": "de",
-    "xmltv_id": "TLC.at@SD",
-    "logo": "https://i.imgur.com/w7W9vqT.png"
-  },
-  {
-    "site_id": "207381032394",
-    "name": "Dubai TV",
-    "lang": "en",
-    "xmltv_id": "DubaiTV.ae@SD",
-    "logo": "https://i.imgur.com/UMmbyHv.png"
-  },
-  {
-    "site_id": "207382568085",
-    "name": "Bergblick",
-    "lang": "de",
-    "xmltv_id": "Bergblick.de@SD",
-    "logo": "https://i.imgur.com/j5YiyXc.png"
-  },
-  {
-    "site_id": "207382568114",
-    "name": "Sky Sport HD 9",
-    "lang": "de",
-    "xmltv_id": "SkySport9.de@HD",
-    "logo": "https://i.imgur.com/NQMl2hn.png"
-  },
-  {
-    "site_id": "225895464407",
-    "name": "BBC English",
+    "site_id": "225895976011",
+    "name": "BR24",
     "lang": "de"
   },
   {
-    "site_id": "206970408317",
-    "name": "CNBC",
+    "site_id": "206966311975",
+    "name": "DMAX HD",
     "lang": "de",
-    "xmltv_id": "CNBCEurope.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg"
+    "xmltv_id": "DMAX.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png"
   },
   {
-    "site_id": "207382568156",
-    "name": "Sky Replay HD",
+    "site_id": "206966312077",
+    "name": "phoenix HD",
     "lang": "de",
-    "xmltv_id": "SkyReplay.de@HD",
-    "logo": "https://i.imgur.com/YBHWMJ5.png"
-  },
-  {
-    "site_id": "225895976033",
-    "name": "hr2-kultur",
-    "lang": "de"
-  },
-  {
-    "site_id": "206964776430",
-    "name": "Kurier TV",
-    "lang": "de",
-    "xmltv_id": "KurierTV.at@SD",
-    "logo": "https://i.imgur.com/c53h8cz.png"
-  },
-  {
-    "site_id": "206966824236",
-    "name": "ORF 2 Oberösterreich HD",
-    "lang": "de",
-    "xmltv_id": "ORF2Oberosterreich.at@HD",
-    "logo": "https://i.imgur.com/Zr8Fp8p.png"
-  },
-  {
-    "site_id": "206969384018",
-    "name": "Kinowelt TV HD",
-    "lang": "de",
-    "xmltv_id": "KinoweltTV.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kinowelt_TV_Logo_2020.svg/960px-Kinowelt_TV_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "207381032275",
-    "name": "Sky Bundesliga HD 4",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga4.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f6/Sky_Sport_Bundesliga_4_Logo_2020.png/960px-Sky_Sport_Bundesliga_4_Logo_2020.png"
-  },
-  {
-    "site_id": "207382568115",
-    "name": "Sky Sport HD 1",
-    "lang": "de",
-    "xmltv_id": "SkySport1.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "206969384112",
-    "name": "ProSieben",
-    "lang": "de",
-    "xmltv_id": "ProSieben.de@SD",
-    "logo": "https://i.imgur.com/zZOk3nh.png"
-  },
-  {
-    "site_id": "207381032310",
-    "name": "Bloomberg TV",
-    "lang": "de",
-    "xmltv_id": "BloombergTV.us@Europe",
-    "logo": "https://i.imgur.com/OuogLHx.png"
-  },
-  {
-    "site_id": "225896488075",
-    "name": "WDR 3",
-    "lang": "de"
-  },
-  {
-    "site_id": "225896488098",
-    "name": "Fritz",
-    "lang": "de"
-  },
-  {
-    "site_id": "206966311993",
-    "name": "Comedy Central HD",
-    "lang": "de",
-    "xmltv_id": "ComedyCentral.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
-  },
-  {
-    "site_id": "206966824059",
-    "name": "Nickelodeon HD",
-    "lang": "de"
-  },
-  {
-    "site_id": "225890344066",
-    "name": "RAI Uno",
-    "lang": "de"
-  },
-  {
-    "site_id": "225895464336",
-    "name": "SWR 3",
-    "lang": "de"
-  },
-  {
-    "site_id": "206965800282",
-    "name": "N24 doku",
-    "lang": "de",
-    "xmltv_id": "N24Doku.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png"
-  },
-  {
-    "site_id": "206966312080",
-    "name": "ZDFinfo HD",
-    "lang": "de",
-    "xmltv_id": "ZDFinfo.de@HD",
-    "logo": "https://i.imgur.com/vtq1IWp.png"
-  },
-  {
-    "site_id": "207381032277",
-    "name": "Sky Bundesliga HD 6",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga6.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/ad/Sky_Sport_Bundesliga_6_Logo_2020.png/960px-Sky_Sport_Bundesliga_6_Logo_2020.png"
-  },
-  {
-    "site_id": "206964776420",
-    "name": "R9 HD",
-    "lang": "de",
-    "xmltv_id": "R9.at@HD",
-    "logo": "https://i.imgur.com/SVJiXxh.png"
-  },
-  {
-    "site_id": "225894440407",
-    "name": "Superfly.fm",
-    "lang": "de"
-  },
-  {
-    "site_id": "306844200112",
-    "name": "Sky Showcase HD",
-    "lang": "de",
-    "xmltv_id": "SkyShowcase.de@HD",
-    "logo": "https://i.imgur.com/7viaZKs.png"
-  },
-  {
-    "site_id": "206964776277",
-    "name": "Das Erste HD",
-    "lang": "de",
-    "xmltv_id": "DasErste.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"
-  },
-  {
-    "site_id": "225896488066",
-    "name": "Bremen Zwei",
-    "lang": "de"
-  },
-  {
-    "site_id": "206963752404",
-    "name": "SAT.1 HD",
-    "lang": "de",
-    "xmltv_id": "SAT1.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/960px-Neues_Sat._1_Logo_transparent.png"
-  },
-  {
-    "site_id": "207381032322",
-    "name": "Bongusto HD",
-    "lang": "de",
-    "xmltv_id": "BonGusto.de@HD",
-    "logo": "https://i.imgur.com/ASzcxJi.png"
-  },
-  {
-    "site_id": "207382568157",
-    "name": "Sky Sport Austria 2 HD",
-    "lang": "de",
-    "xmltv_id": "SkySportAustria2.at@HD",
-    "logo": "https://i.imgur.com/hK1hNlT.png"
+    "xmltv_id": "phoenix.de@HD",
+    "logo": "https://i.imgur.com/T1532t9.png"
   },
   {
     "site_id": "207382568164",
@@ -354,8 +711,259 @@
     "logo": "https://i.imgur.com/o8wOvJ7.png"
   },
   {
-    "site_id": "225897000030",
-    "name": "Deutschlandfunk",
+    "site_id": "225894440332",
+    "name": "Ö2 Oberösterreich",
+    "lang": "de"
+  },
+  {
+    "site_id": "229429288190",
+    "name": "Sky Nature HD",
+    "lang": "de",
+    "xmltv_id": "SkyNature.de@HD",
+    "logo": "https://i.imgur.com/NWKIfXy.png"
+  },
+  {
+    "site_id": "206965288423",
+    "name": "Deluxe Music HD",
+    "lang": "de",
+    "xmltv_id": "DeluxeMusic.de@HD",
+    "logo": "https://i.imgur.com/HimuPPb.png"
+  },
+  {
+    "site_id": "206965800282",
+    "name": "N24 doku",
+    "lang": "de",
+    "xmltv_id": "N24Doku.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png"
+  },
+  {
+    "site_id": "206966312068",
+    "name": "Okto HD",
+    "lang": "de",
+    "xmltv_id": "Okto.at@HD",
+    "logo": "https://i.imgur.com/9XfhgbS.png"
+  },
+  {
+    "site_id": "206969896108",
+    "name": "CGTN",
+    "lang": "de"
+  },
+  {
+    "site_id": "207381032332",
+    "name": "RTL Crime HD",
+    "lang": "de",
+    "xmltv_id": "RTLCrime.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg"
+  },
+  {
+    "site_id": "207381032340",
+    "name": "Sky Cinema Premieren HD",
+    "lang": "de",
+    "xmltv_id": "SkyCinemaPremieren.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "229429799984",
+    "name": "Sky Documentaries HD",
+    "lang": "de",
+    "xmltv_id": "SkyDocumentaries.de@HD",
+    "logo": "https://i.imgur.com/WZVLRoz.png"
+  },
+  {
+    "site_id": "301713448071",
+    "name": "Sky Bundesliga HD 10",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga10.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/2/22/Sky_Sport_Bundesliga_10_Logo_2020.png/960px-Sky_Sport_Bundesliga_10_Logo_2020.png"
+  },
+  {
+    "site_id": "206963752404",
+    "name": "SAT.1 HD",
+    "lang": "de",
+    "xmltv_id": "SAT1.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/960px-Neues_Sat._1_Logo_transparent.png"
+  },
+  {
+    "site_id": "206964776257",
+    "name": "VOX HD",
+    "lang": "de",
+    "xmltv_id": "VOX.at@HD",
+    "logo": "https://i.imgur.com/QPcmfZb.png"
+  },
+  {
+    "site_id": "206966824236",
+    "name": "ORF 2 Oberösterreich HD",
+    "lang": "de",
+    "xmltv_id": "ORF2Oberosterreich.at@HD",
+    "logo": "https://i.imgur.com/Zr8Fp8p.png"
+  },
+  {
+    "site_id": "206969384188",
+    "name": "sixx austria",
+    "lang": "de",
+    "xmltv_id": "sixxAustria.at@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sixx_Austria_Logo.svg/960px-Sixx_Austria_Logo.svg.png"
+  },
+  {
+    "site_id": "206969896113",
+    "name": "PULS 4",
+    "lang": "de",
+    "xmltv_id": "Puls4.at@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/960px-Puls4.svg.png"
+  },
+  {
+    "site_id": "206970919990",
+    "name": "TLC",
+    "lang": "de",
+    "xmltv_id": "TLC.at@SD",
+    "logo": "https://i.imgur.com/w7W9vqT.png"
+  },
+  {
+    "site_id": "207381032322",
+    "name": "Bongusto HD",
+    "lang": "de",
+    "xmltv_id": "BonGusto.de@HD",
+    "logo": "https://i.imgur.com/ASzcxJi.png"
+  },
+  {
+    "site_id": "206966823973",
+    "name": "ARD alpha HD",
+    "lang": "de",
+    "xmltv_id": "ARDalpha.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png"
+  },
+  {
+    "site_id": "207381032388",
+    "name": "Sky Cinema Halloween HD",
+    "lang": "de"
+  },
+  {
+    "site_id": "207381032415",
+    "name": "CCTV4",
+    "lang": "de",
+    "xmltv_id": "CCTV4Europe.cn@SD",
+    "logo": "https://i.imgur.com/HGLFdfk.png"
+  },
+  {
+    "site_id": "207381032418",
+    "name": "Al Jazeera",
+    "lang": "de",
+    "xmltv_id": "AlJazeera.qa@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+  },
+  {
+    "site_id": "207382568104",
+    "name": "Sky Cinema Fun HD",
+    "lang": "de",
+    "xmltv_id": "SkyCinemaFun.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sky_Cinema_Fun_DE_Logo_2020.svg/960px-Sky_Cinema_Fun_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "206963752351",
+    "name": "ORF 2 Wien HD",
+    "lang": "de",
+    "xmltv_id": "ORF2Wien.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
+  },
+  {
+    "site_id": "206966312209",
+    "name": "Disney Channel",
+    "lang": "de",
+    "xmltv_id": "DisneyChannel.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+  },
+  {
+    "site_id": "206966824192",
+    "name": "auto motor und sport channel HD",
+    "lang": "de",
+    "xmltv_id": "automotorundsportchannel.de@HD",
+    "logo": "https://i.imgur.com/o8wOvJ7.png"
+  },
+  {
+    "site_id": "207381032287",
+    "name": "Fashion-TV HD",
+    "lang": "de",
+    "xmltv_id": "FashionTVHD.fr@SD",
+    "logo": "https://i.imgur.com/GFXsreR.png"
+  },
+  {
+    "site_id": "301712936310",
+    "name": "Sky Sport HD 10",
+    "lang": "de",
+    "xmltv_id": "SkySport10.de@HD",
+    "logo": "https://i.imgur.com/ZnUAdGj.png"
+  },
+  {
+    "site_id": "206963752417",
+    "name": "RTLZWEI HD",
+    "lang": "de",
+    "xmltv_id": "RTLZwei.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png"
+  },
+  {
+    "site_id": "206963752441",
+    "name": "SAT.1 Gold HD",
+    "lang": "de",
+    "xmltv_id": "SAT1Gold.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png"
+  },
+  {
+    "site_id": "206966312277",
+    "name": "QVC Style",
+    "lang": "de",
+    "xmltv_id": "QVCStyle.de@SD",
+    "logo": "https://i.imgur.com/DwdkHGj.png"
+  },
+  {
+    "site_id": "206966824149",
+    "name": "Home \u0026 Garden TV",
+    "lang": "de",
+    "xmltv_id": "HGTV.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/960px-HGTV_logo.svg.png"
+  },
+  {
+    "site_id": "207381032285",
+    "name": "GEO Television HD",
+    "lang": "de",
+    "xmltv_id": "GEOTelevision.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Geo_Television_Logo_2014.svg/960px-Geo_Television_Logo_2014.svg.png"
+  },
+  {
+    "site_id": "207382568028",
+    "name": "Sky Bundesliga HD 3",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga3.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/d/de/Sky_Sport_Bundesliga_3_Logo_2020.png/960px-Sky_Sport_Bundesliga_3_Logo_2020.png"
+  },
+  {
+    "site_id": "207382568156",
+    "name": "Sky Replay HD",
+    "lang": "de",
+    "xmltv_id": "SkyReplay.de@HD",
+    "logo": "https://i.imgur.com/YBHWMJ5.png"
+  },
+  {
+    "site_id": "224872488137",
+    "name": "BR-Klassik",
+    "lang": "de"
+  },
+  {
+    "site_id": "206968872008",
+    "name": "oe24.TV",
+    "lang": "de",
+    "xmltv_id": "oe24TV.at@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oe24TV_Logo_2016.svg/960px-Oe24TV_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "206969384112",
+    "name": "ProSieben",
+    "lang": "de",
+    "xmltv_id": "ProSieben.de@SD",
+    "logo": "https://i.imgur.com/zZOk3nh.png"
+  },
+  {
+    "site_id": "225897000046",
+    "name": "Deutschland Radio Kultur",
     "lang": "de"
   },
   {
@@ -366,187 +974,6 @@
     "logo": "https://i.imgur.com/94K94k2.png"
   },
   {
-    "site_id": "206970408431",
-    "name": "RTLup",
-    "lang": "de",
-    "xmltv_id": "RTLup.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RTLup_Logo_2021.svg/960px-RTLup_Logo_2021.svg.png"
-  },
-  {
-    "site_id": "207381032335",
-    "name": "Sky Atlantic HD",
-    "lang": "de",
-    "xmltv_id": "SkyAtlantic.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Sky_Atlantic_-_Logo_2020_%28TV_channel%29.svg/960px-Sky_Atlantic_-_Logo_2020_%28TV_channel%29.svg.png"
-  },
-  {
-    "site_id": "207382568105",
-    "name": "Curiosity Channel",
-    "lang": "de",
-    "xmltv_id": "CuriosityChannel.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png"
-  },
-  {
-    "site_id": "301713448071",
-    "name": "Sky Bundesliga HD 10",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga10.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/2/22/Sky_Sport_Bundesliga_10_Logo_2020.png/960px-Sky_Sport_Bundesliga_10_Logo_2020.png"
-  },
-  {
-    "site_id": "206967848012",
-    "name": "Sport 1 HD",
-    "lang": "de",
-    "xmltv_id": "Sport1.de@HD",
-    "logo": "https://i.imgur.com/Tsjt7v9.png"
-  },
-  {
-    "site_id": "207381032278",
-    "name": "Sky Bundesliga HD 7",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga7.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/e/eb/Sky_Sport_Bundesliga_7_Logo_2020.png/960px-Sky_Sport_Bundesliga_7_Logo_2020.png"
-  },
-  {
-    "site_id": "207382568052",
-    "name": "Pink Plus",
-    "lang": "de",
-    "xmltv_id": "PinkPlus.rs@SD",
-    "logo": "https://i.imgur.com/A3D1RZP.png"
-  },
-  {
-    "site_id": "215440936101",
-    "name": "Sky Sport Austria 6 HD",
-    "lang": "de",
-    "xmltv_id": "SkySportAustria6.at@HD",
-    "logo": "https://i.imgur.com/zNilG3u.png"
-  },
-  {
-    "site_id": "225894952366",
-    "name": "Ö1",
-    "lang": "de"
-  },
-  {
-    "site_id": "229429799984",
-    "name": "Sky Documentaries HD",
-    "lang": "de",
-    "xmltv_id": "SkyDocumentaries.de@HD",
-    "logo": "https://i.imgur.com/WZVLRoz.png"
-  },
-  {
-    "site_id": "206965288223",
-    "name": "Nitro HD",
-    "lang": "de",
-    "xmltv_id": "Nitro.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png"
-  },
-  {
-    "site_id": "206966311964",
-    "name": "ProSieben Maxx HD",
-    "lang": "de",
-    "xmltv_id": "ProSiebenMaxx.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png"
-  },
-  {
-    "site_id": "225894952372",
-    "name": "Ö1 DD",
-    "lang": "de"
-  },
-  {
-    "site_id": "225895976074",
-    "name": "SWR 2",
-    "lang": "de"
-  },
-  {
-    "site_id": "229039144336",
-    "name": "VESTI",
-    "lang": "de",
-    "xmltv_id": "Vesti.rs@SD",
-    "logo": "https://i.imgur.com/lKYqwJQ.png"
-  },
-  {
-    "site_id": "206966312300",
-    "name": "Eurosport 1 HD",
-    "lang": "de",
-    "xmltv_id": "Eurosport1.fr@GermanyHD",
-    "logo": "https://i.imgur.com/olQJgm7.png"
-  },
-  {
-    "site_id": "206966824423",
-    "name": "CNN International",
-    "lang": "de",
-    "xmltv_id": "CNNInternational.us@MENA",
-    "logo": "https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "site_id": "206967336046",
-    "name": "Sport1+ HD",
-    "lang": "de",
-    "xmltv_id": "Sport1Plus.de@HD",
-    "logo": "https://i.imgur.com/wt9oQe4.png"
-  },
-  {
-    "site_id": "206966824334",
-    "name": "KT 1",
-    "lang": "de",
-    "xmltv_id": "KT1.at@SD",
-    "logo": "https://i.imgur.com/SyEqyOI.png"
-  },
-  {
-    "site_id": "206969383991",
-    "name": "13TH STREET HD",
-    "lang": "de",
-    "xmltv_id": "13thStreetUniversal.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/500px-13th_Street_Universal.svg.png"
-  },
-  {
-    "site_id": "207381032358",
-    "name": "Sky Sport Tennis HD",
-    "lang": "de",
-    "xmltv_id": "SkySportTennis.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/960px-Sky_Sport_Tennis.svg.png"
-  },
-  {
-    "site_id": "207382568038",
-    "name": "MTV 80s",
-    "lang": "de",
-    "xmltv_id": "MTV80s.uk@SD",
-    "logo": "https://i.imgur.com/N9e5hv5.png"
-  },
-  {
-    "site_id": "206966312140",
-    "name": "NDR Fernsehen HD",
-    "lang": "de"
-  },
-  {
-    "site_id": "206966312231",
-    "name": "Melodie TV",
-    "lang": "de",
-    "xmltv_id": "MelodieTV.at@SD",
-    "logo": "https://i.imgur.com/UzsmVhI.png"
-  },
-  {
-    "site_id": "206966824208",
-    "name": "ORF 2 Burgenland HD",
-    "lang": "de",
-    "xmltv_id": "ORF2Burgenland.at@HD",
-    "logo": "https://i.imgur.com/qDdVR6E.png"
-  },
-  {
-    "site_id": "206970408401",
-    "name": "Nitro",
-    "lang": "de",
-    "xmltv_id": "Nitro.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png"
-  },
-  {
-    "site_id": "207382568087",
-    "name": "RTL Passion HD",
-    "lang": "de",
-    "xmltv_id": "RTLPassion.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RTL_Passion_Logo_2021.svg/960px-RTL_Passion_Logo_2021.svg.png"
-  },
-  {
     "site_id": "206968871962",
     "name": "Servus TV",
     "lang": "de",
@@ -554,96 +981,39 @@
     "logo": "https://i.imgur.com/6W637Gn.png"
   },
   {
-    "site_id": "206969384250",
-    "name": "W24",
+    "site_id": "206970408431",
+    "name": "RTLup",
     "lang": "de",
-    "xmltv_id": "W24.at@SD",
-    "logo": "https://i.imgur.com/FpVNrxk.png"
+    "xmltv_id": "RTLup.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RTLup_Logo_2021.svg/960px-RTLup_Logo_2021.svg.png"
   },
   {
-    "site_id": "224889384048",
-    "name": "Antenne Bayern",
-    "lang": "de"
-  },
-  {
-    "site_id": "225893928312",
-    "name": "Ö2 Vorarlberg",
-    "lang": "de"
-  },
-  {
-    "site_id": "225897000046",
-    "name": "Deutschland Radio Kultur",
-    "lang": "de"
-  },
-  {
-    "site_id": "229041703980",
-    "name": "Toxic TV HD",
+    "site_id": "207381032276",
+    "name": "Sky Bundesliga HD 5",
     "lang": "de",
-    "xmltv_id": "ToxicTV.rs@HD",
-    "logo": "https://i.imgur.com/w6WuWnS.png"
+    "xmltv_id": "SkySportBundesliga5.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/c/cd/Sky_Sport_Bundesliga_5_Logo_2020.png/960px-Sky_Sport_Bundesliga_5_Logo_2020.png"
   },
   {
-    "site_id": "301712936303",
-    "name": "Sky Sport Premier League HD",
+    "site_id": "207381032334",
+    "name": "Sky Cinema Action HD",
     "lang": "de",
-    "xmltv_id": "SkySportPremierLeague.de@HD",
-    "logo": "https://i.imgur.com/ChWdcRC.png"
+    "xmltv_id": "SkyCinemaAction.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/960px-Sky_Cinema_Action_-_Logo_2021.svg.png"
   },
   {
-    "site_id": "206965800291",
-    "name": "ZDFneo HD",
+    "site_id": "206965288371",
+    "name": "Bibel TV HD",
     "lang": "de",
-    "xmltv_id": "ZDFneo.de@HD",
-    "logo": "https://i.imgur.com/1JIIGgL.png"
+    "xmltv_id": "BibelTV.de@HD",
+    "logo": "https://i.imgur.com/RLwmrk3.png"
   },
   {
-    "site_id": "206966312277",
-    "name": "QVC Style",
+    "site_id": "206965288434",
+    "name": "MTV HD",
     "lang": "de",
-    "xmltv_id": "QVCStyle.de@SD",
-    "logo": "https://i.imgur.com/DwdkHGj.png"
-  },
-  {
-    "site_id": "206966824118",
-    "name": "HSE Extra HD",
-    "lang": "de",
-    "xmltv_id": "HSEExtra.de@HD",
-    "logo": "https://i.imgur.com/nvMpbip.png"
-  },
-  {
-    "site_id": "207381032415",
-    "name": "CCTV4",
-    "lang": "de",
-    "xmltv_id": "CCTV4Europe.cn@SD",
-    "logo": "https://i.imgur.com/HGLFdfk.png"
-  },
-  {
-    "site_id": "207382568039",
-    "name": "MTV 00s",
-    "lang": "de",
-    "xmltv_id": "MTV00s.uk@SD",
-    "logo": "https://i.imgur.com/l5wBRfF.png"
-  },
-  {
-    "site_id": "207382568113",
-    "name": "Sky Sport HD 8",
-    "lang": "de",
-    "xmltv_id": "SkySport8.de@HD",
-    "logo": "https://i.imgur.com/2YCQyZm.png"
-  },
-  {
-    "site_id": "207382568125",
-    "name": "Sky Bundesliga HD",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga.de@HD",
-    "logo": "https://i.imgur.com/UXtjFtd.png"
-  },
-  {
-    "site_id": "206965800316",
-    "name": "TLC HD",
-    "lang": "de",
-    "xmltv_id": "TLC.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
+    "xmltv_id": "MTV.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
   },
   {
     "site_id": "206966824253",
@@ -653,11 +1023,51 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
   },
   {
-    "site_id": "206969896231",
-    "name": "DMAX",
+    "site_id": "207382568106",
+    "name": "Pink Film",
     "lang": "de",
-    "xmltv_id": "DMAX.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png"
+    "xmltv_id": "PinkFilm.rs@SD",
+    "logo": "https://i.imgur.com/i6Il48Y.png"
+  },
+  {
+    "site_id": "207382568117",
+    "name": "Sky Sport HD 3",
+    "lang": "de",
+    "xmltv_id": "SkySport3.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sky_Sport_3_DE_Logo_2020.svg/960px-Sky_Sport_3_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "206964776268",
+    "name": "ORF III HD",
+    "lang": "de",
+    "xmltv_id": "ORFIII.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png"
+  },
+  {
+    "site_id": "206964776430",
+    "name": "Kurier TV",
+    "lang": "de",
+    "xmltv_id": "KurierTV.at@SD",
+    "logo": "https://i.imgur.com/c53h8cz.png"
+  },
+  {
+    "site_id": "206965288121",
+    "name": "PULS 4 HD",
+    "lang": "de",
+    "xmltv_id": "Puls4.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/960px-Puls4.svg.png"
+  },
+  {
+    "site_id": "207381032278",
+    "name": "Sky Bundesliga HD 7",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga7.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/e/eb/Sky_Sport_Bundesliga_7_Logo_2020.png/960px-Sky_Sport_Bundesliga_7_Logo_2020.png"
+  },
+  {
+    "site_id": "207381032393",
+    "name": "Eurosport Türkiye",
+    "lang": "de"
   },
   {
     "site_id": "207382568111",
@@ -665,6 +1075,20 @@
     "lang": "de",
     "xmltv_id": "kabeleinsClassics.de@HD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_Eins_Classics_2021.svg/960px-Kabel_Eins_Classics_2021.svg.png"
+  },
+  {
+    "site_id": "206966311993",
+    "name": "Comedy Central HD",
+    "lang": "de",
+    "xmltv_id": "ComedyCentral.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
+  },
+  {
+    "site_id": "206970408219",
+    "name": "Ländle TV HD",
+    "lang": "de",
+    "xmltv_id": "LandleTV.at@HD",
+    "logo": "https://i.imgur.com/omLVQ4r.png"
   },
   {
     "site_id": "207382568119",
@@ -681,156 +1105,21 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
   },
   {
-    "site_id": "206965288109",
-    "name": "ATV HD",
-    "lang": "de",
-    "xmltv_id": "ATV.at@HD",
-    "logo": "https://i.imgur.com/1pA0Tid.png"
-  },
-  {
-    "site_id": "206967336053",
-    "name": "SPORTDIGITAL FUSSBALL HD",
-    "lang": "de",
-    "xmltv_id": "SportdigitalFUSSBALL.de@HD",
-    "logo": "https://i.imgur.com/NDbWxqF.png"
-  },
-  {
-    "site_id": "206968872008",
-    "name": "oe24.TV",
-    "lang": "de",
-    "xmltv_id": "oe24TV.at@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oe24TV_Logo_2016.svg/960px-Oe24TV_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "207381032392",
-    "name": "Sky Cinema Thriller HD",
-    "lang": "de",
-    "xmltv_id": "SkyCinemaThriller.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/960px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "207381032406",
-    "name": "Duna TV",
-    "lang": "hu",
-    "xmltv_id": "Duna.hu@SD",
-    "logo": "https://i.imgur.com/oPbsSlp.png"
-  },
-  {
-    "site_id": "225895976189",
-    "name": "Radio Swiss Pop",
+    "site_id": "225894952372",
+    "name": "Ö1 DD",
     "lang": "de"
   },
   {
-    "site_id": "206967848086",
-    "name": "ORF 2 Salzburg HD",
-    "lang": "de",
-    "xmltv_id": "ORF2Salzburg.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
-  },
-  {
-    "site_id": "207381032285",
-    "name": "GEO Television HD",
-    "lang": "de",
-    "xmltv_id": "GEOTelevision.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Geo_Television_Logo_2014.svg/960px-Geo_Television_Logo_2014.svg.png"
-  },
-  {
-    "site_id": "207381032342",
-    "name": "Sky Krimi HD",
-    "lang": "de",
-    "xmltv_id": "SkyKrimi.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/960px-Sky_Krimi_2020.svg.png"
-  },
-  {
-    "site_id": "225895464109",
-    "name": "Ö2 Tirol",
+    "site_id": "225895976110",
+    "name": "radioeins",
     "lang": "de"
   },
   {
-    "site_id": "225895976219",
-    "name": "NDR Kultur",
-    "lang": "de"
-  },
-  {
-    "site_id": "206966312077",
-    "name": "phoenix HD",
+    "site_id": "229041703980",
+    "name": "Toxic TV HD",
     "lang": "de",
-    "xmltv_id": "phoenix.de@HD",
-    "logo": "https://i.imgur.com/T1532t9.png"
-  },
-  {
-    "site_id": "206966312362",
-    "name": "ORF 2 Kärnten HD",
-    "lang": "de",
-    "xmltv_id": "ORF2Karnten.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
-  },
-  {
-    "site_id": "206969384229",
-    "name": "Comedy Central",
-    "lang": "de",
-    "xmltv_id": "ComedyCentral.at@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a4/Comedy_Central_Austria_2018.png/960px-Comedy_Central_Austria_2018.png"
-  },
-  {
-    "site_id": "207381032280",
-    "name": "Cartoon Network HD",
-    "lang": "de",
-    "xmltv_id": "CartoonNetworkCEE.uk@GermanyHD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "225895464173",
-    "name": "Radio Arabella",
-    "lang": "de"
-  },
-  {
-    "site_id": "225896488138",
-    "name": "RNE 1 Radio Nacional",
-    "lang": "de"
-  },
-  {
-    "site_id": "206966824407",
-    "name": "ProSieben FUN HD",
-    "lang": "de",
-    "xmltv_id": "ProSiebenFun.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ProSieben_FUN_Logo_2021.svg/960px-ProSieben_FUN_Logo_2021.svg.png"
-  },
-  {
-    "site_id": "206966824417",
-    "name": "BBC News HD",
-    "lang": "de"
-  },
-  {
-    "site_id": "206967336067",
-    "name": "Motorvision+ HD",
-    "lang": "de",
-    "xmltv_id": "MotorvisionPlus.de@HD",
-    "logo": "https://i.imgur.com/5cs5GkJ.png"
-  },
-  {
-    "site_id": "206970408253",
-    "name": "Magenta On Demand",
-    "lang": "de"
-  },
-  {
-    "site_id": "207381032316",
-    "name": "Gute Laune TV",
-    "lang": "de",
-    "xmltv_id": "GuteLauneTV.de@SD",
-    "logo": "https://i.imgur.com/U7rjU7H.png"
-  },
-  {
-    "site_id": "207382568122",
-    "name": "Nat Geo HD",
-    "lang": "de",
-    "xmltv_id": "NationalGeographic.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
-  },
-  {
-    "site_id": "225895464329",
-    "name": "NDR Info",
-    "lang": "de"
+    "xmltv_id": "ToxicTV.rs@HD",
+    "logo": "https://i.imgur.com/w6WuWnS.png"
   },
   {
     "site_id": "206967336020",
@@ -840,258 +1129,11 @@
     "logo": "https://i.imgur.com/qwh2urX.png"
   },
   {
-    "site_id": "207381032413",
-    "name": "TV Polonia",
+    "site_id": "207382568093",
+    "name": "Sky Cinema Classics HD",
     "lang": "de",
-    "xmltv_id": "TVPPolonia.pl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "225894952304",
-    "name": "Ö2 Wien",
-    "lang": "de"
-  },
-  {
-    "site_id": "225895464353",
-    "name": "Radio SRF 1",
-    "lang": "de"
-  },
-  {
-    "site_id": "225895976011",
-    "name": "BR24",
-    "lang": "de"
-  },
-  {
-    "site_id": "229041191972",
-    "name": "Film Klub",
-    "lang": "de",
-    "xmltv_id": "FilmKlub.rs@SD",
-    "logo": "https://i.imgur.com/a6Jq6Qg.png"
-  },
-  {
-    "site_id": "206965800168",
-    "name": "Servus TV HD",
-    "lang": "de",
-    "xmltv_id": "ServusTV.at@HD",
-    "logo": "https://i.imgur.com/6W637Gn.png"
-  },
-  {
-    "site_id": "206966312058",
-    "name": "krone.tv HD",
-    "lang": "de",
-    "xmltv_id": "kronetv.at@HD",
-    "logo": "https://i.imgur.com/3zN58uH.png"
-  },
-  {
-    "site_id": "206968871991",
-    "name": "Kabel Eins",
-    "lang": "de",
-    "xmltv_id": "kabeleins.de@SD",
-    "logo": "https://i.imgur.com/6pulSHZ.png"
-  },
-  {
-    "site_id": "206968872135",
-    "name": "Sport 1",
-    "lang": "de",
-    "xmltv_id": "Sport1.de@SD",
-    "logo": "https://i.imgur.com/Tsjt7v9.png"
-  },
-  {
-    "site_id": "207381032385",
-    "name": "Sky Cinema Spooky HD",
-    "lang": "de"
-  },
-  {
-    "site_id": "207381032386",
-    "name": "Sky One HD",
-    "lang": "de",
-    "xmltv_id": "SkyOne.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_One_-_Logo_2020.png/960px-Sky_One_-_Logo_2020.png"
-  },
-  {
-    "site_id": "224890919986",
-    "name": "Hitradio Ö3",
-    "lang": "de",
-    "xmltv_id": "HitradioO3.at@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png"
-  },
-  {
-    "site_id": "225894952377",
-    "name": "radio klassik Stephansdom",
-    "lang": "de"
-  },
-  {
-    "site_id": "225897000125",
-    "name": "Radio Swiss Classic",
-    "lang": "de"
-  },
-  {
-    "site_id": "206966824149",
-    "name": "Home & Garden TV",
-    "lang": "de",
-    "xmltv_id": "HGTV.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/960px-HGTV_logo.svg.png"
-  },
-  {
-    "site_id": "206967336249",
-    "name": "ORF 2 Tirol HD",
-    "lang": "de",
-    "xmltv_id": "ORF2Tirol.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
-  },
-  {
-    "site_id": "207382568161",
-    "name": "Sky Crime HD",
-    "lang": "de",
-    "xmltv_id": "SkyCrime.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sky_Crime_logo_2020.svg/960px-Sky_Crime_logo_2020.svg.png"
-  },
-  {
-    "site_id": "225894952409",
-    "name": "LoungeFM",
-    "lang": "de"
-  },
-  {
-    "site_id": "225895976140",
-    "name": "MDR Sputnik",
-    "lang": "de"
-  },
-  {
-    "site_id": "206966312157",
-    "name": "hr-fernsehen HD",
-    "lang": "de",
-    "xmltv_id": "hrfernsehen.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/960px-HR-Fernsehen_Logo_2023.svg.png"
-  },
-  {
-    "site_id": "206968871975",
-    "name": "RTL",
-    "lang": "de",
-    "xmltv_id": "RTL.de@SD",
-    "logo": "https://i.imgur.com/94K94k2.png"
-  },
-  {
-    "site_id": "207382568028",
-    "name": "Sky Bundesliga HD 3",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga3.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/d/de/Sky_Sport_Bundesliga_3_Logo_2020.png/960px-Sky_Sport_Bundesliga_3_Logo_2020.png"
-  },
-  {
-    "site_id": "207382568030",
-    "name": "Sky Bundesliga HD 1",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga1.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/c/ca/Sky_Sport_Bundesliga_2020.svg"
-  },
-  {
-    "site_id": "206965800435",
-    "name": "Super RTL HD",
-    "lang": "de"
-  },
-  {
-    "site_id": "206966824154",
-    "name": "ORF Sport+ HD",
-    "lang": "de",
-    "xmltv_id": "ORFSportPlus.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/960px-ORF_Sport%2B.svg.png"
-  },
-  {
-    "site_id": "206968872074",
-    "name": "Kabel Eins Doku",
-    "lang": "de",
-    "xmltv_id": "kabeleinsDoku.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "225890855955",
-    "name": "RAI Due",
-    "lang": "de"
-  },
-  {
-    "site_id": "206965288434",
-    "name": "MTV HD",
-    "lang": "de",
-    "xmltv_id": "MTV.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
-  },
-  {
-    "site_id": "207382568108",
-    "name": "Sky Sport HD 6",
-    "lang": "de",
-    "xmltv_id": "SkySport6.de@HD",
-    "logo": "https://i.imgur.com/WfeyX8D.png"
-  },
-  {
-    "site_id": "225894440332",
-    "name": "Ö2 Oberösterreich",
-    "lang": "de"
-  },
-  {
-    "site_id": "225895976320",
-    "name": "WRN English Europe",
-    "lang": "de"
-  },
-  {
-    "site_id": "206967848043",
-    "name": "eSports1 HD",
-    "lang": "de",
-    "xmltv_id": "eSports1.de@HD",
-    "logo": "https://i.imgur.com/282zLCo.png"
-  },
-  {
-    "site_id": "207381032334",
-    "name": "Sky Cinema Action HD",
-    "lang": "de",
-    "xmltv_id": "SkyCinemaAction.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/960px-Sky_Cinema_Action_-_Logo_2021.svg.png"
-  },
-  {
-    "site_id": "207381032397",
-    "name": "MNE",
-    "lang": "de",
-    "xmltv_id": "TVCGMNE.me@SD",
-    "logo": "https://i.imgur.com/pf8VEwf.png"
-  },
-  {
-    "site_id": "225896488118",
-    "name": "Radio SRF 2 Kultur",
-    "lang": "de"
-  },
-  {
-    "site_id": "206964776306",
-    "name": "oe24.TV HD",
-    "lang": "de",
-    "xmltv_id": "oe24TV.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oe24TV_Logo_2016.svg/960px-Oe24TV_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "207381032276",
-    "name": "Sky Bundesliga HD 5",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga5.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/c/cd/Sky_Sport_Bundesliga_5_Logo_2020.png/960px-Sky_Sport_Bundesliga_5_Logo_2020.png"
-  },
-  {
-    "site_id": "207382568053",
-    "name": "HRT TV1 HD",
-    "lang": "de",
-    "xmltv_id": "HRT1.hr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png"
-  },
-  {
-    "site_id": "207382568118",
-    "name": "Sky Sport HD 4",
-    "lang": "de",
-    "xmltv_id": "SkySport4.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sky_Sport_4_DE_Logo_2020.svg/960px-Sky_Sport_4_DE_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "207382568158",
-    "name": "Sky Sport Austria 3 HD",
-    "lang": "de",
-    "xmltv_id": "SkySportAustria3.at@HD",
-    "logo": "https://i.imgur.com/Kq7lhcY.png"
+    "xmltv_id": "SkyCinemaClassics.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sky_Cinema_Classics_DE_Logo_2020.svg/960px-Sky_Cinema_Classics_DE_Logo_2020.svg.png"
   },
   {
     "site_id": "206964776230",
@@ -1101,237 +1143,40 @@
     "logo": "https://i.imgur.com/rtLb6m9.png"
   },
   {
-    "site_id": "206965288423",
-    "name": "Deluxe Music HD",
+    "site_id": "206964776317",
+    "name": "n-tv HD",
     "lang": "de",
-    "xmltv_id": "DeluxeMusic.de@HD",
-    "logo": "https://i.imgur.com/HimuPPb.png"
+    "xmltv_id": "ntv.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/960px-N-tv_logo-september2017.svg.png"
   },
   {
-    "site_id": "206966824225",
-    "name": "ORF 2 Nö HD",
+    "site_id": "206970408290",
+    "name": "Heimatkanal",
     "lang": "de",
-    "xmltv_id": "ORF2NO.at@HD",
-    "logo": "https://i.imgur.com/92yKTOD.png"
+    "xmltv_id": "Heimatkanal.de@SD",
+    "logo": "https://i.imgur.com/fngeJ3D.png"
   },
   {
-    "site_id": "207381032407",
-    "name": "Klasik TV",
-    "lang": "de",
-    "xmltv_id": "Klasik.hr@SD",
-    "logo": "https://i.imgur.com/C90BYlb.png"
-  },
-  {
-    "site_id": "225410600318",
-    "name": "1LIVE",
+    "site_id": "225893928433",
+    "name": "Bayern 2",
     "lang": "de"
   },
   {
-    "site_id": "229429288190",
-    "name": "Sky Nature HD",
+    "site_id": "207381032413",
+    "name": "TV Polonia",
     "lang": "de",
-    "xmltv_id": "SkyNature.de@HD",
-    "logo": "https://i.imgur.com/NWKIfXy.png"
+    "xmltv_id": "TVPPolonia.pl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png"
   },
   {
-    "site_id": "206965288149",
-    "name": "W24 HD",
-    "lang": "de",
-    "xmltv_id": "W24.at@HD",
-    "logo": "https://i.imgur.com/FpVNrxk.png"
-  },
-  {
-    "site_id": "206966311975",
-    "name": "DMAX HD",
-    "lang": "de",
-    "xmltv_id": "DMAX.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png"
-  },
-  {
-    "site_id": "206966824037",
-    "name": "SR HD",
+    "site_id": "225893928278",
+    "name": "Ö2 Burgenland",
     "lang": "de"
   },
   {
-    "site_id": "207381032391",
-    "name": "Habertürk TV",
-    "lang": "de",
-    "xmltv_id": "HaberturkTV.tr@SD",
-    "logo": "https://i.imgur.com/6Tw3rUp.png"
-  },
-  {
-    "site_id": "207382568110",
-    "name": "Sky Sport HD 7",
-    "lang": "de",
-    "xmltv_id": "SkySport7.de@HD",
-    "logo": "https://i.imgur.com/XeflUV9.png"
-  },
-  {
-    "site_id": "207381032387",
-    "name": "Sky Sport Austria 4 HD",
-    "lang": "de",
-    "xmltv_id": "SkySportAustria4.at@HD",
-    "logo": "https://i.imgur.com/8S1cmCs.png"
-  },
-  {
-    "site_id": "215440936100",
-    "name": "Sky Sport Austria 5 HD",
-    "lang": "de",
-    "xmltv_id": "SkySportAustria5.at@HD",
-    "logo": "https://i.imgur.com/PnI3ZAB.png"
-  },
-  {
-    "site_id": "225894440398",
-    "name": "RADIO MARIA",
+    "site_id": "206966824059",
+    "name": "Nickelodeon HD",
     "lang": "de"
-  },
-  {
-    "site_id": "225895464216",
-    "name": "Klassik Radio",
-    "lang": "de"
-  },
-  {
-    "site_id": "288804392373",
-    "name": "Streamster.tv",
-    "lang": "de",
-    "xmltv_id": "Streamstertv.de@SD",
-    "logo": "https://i.imgur.com/FFPjs87.png"
-  },
-  {
-    "site_id": "206969384154",
-    "name": "RTLZWEI",
-    "lang": "de",
-    "xmltv_id": "RTLZwei.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png"
-  },
-  {
-    "site_id": "206969384183",
-    "name": "Sat.1 Gold",
-    "lang": "de",
-    "xmltv_id": "SAT1Gold.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png"
-  },
-  {
-    "site_id": "206969895991",
-    "name": "WNTV HD",
-    "lang": "de"
-  },
-  {
-    "site_id": "207381032331",
-    "name": "RTL Living HD",
-    "lang": "de",
-    "xmltv_id": "RTLLiving.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTL_Living_Logo_2021.svg/960px-RTL_Living_Logo_2021.svg.png"
-  },
-  {
-    "site_id": "207381032339",
-    "name": "Sky Cinema Premieren +24 HD",
-    "lang": "de",
-    "xmltv_id": "SkyCinemaPremieren.de@Plus24HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "207382568013",
-    "name": "Club MTV",
-    "lang": "de",
-    "xmltv_id": "ClubMTVEurope.uk@SD",
-    "logo": "https://i.imgur.com/FD6eQI3.png"
-  },
-  {
-    "site_id": "206964776235",
-    "name": "ProSieben HD",
-    "lang": "de"
-  },
-  {
-    "site_id": "206965800302",
-    "name": "One HD",
-    "lang": "de",
-    "xmltv_id": "One.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/960px-One_2022.svg.png"
-  },
-  {
-    "site_id": "206967847966",
-    "name": "QVC 2 HD",
-    "lang": "de"
-  },
-  {
-    "site_id": "207381032291",
-    "name": "Sky Sport Austria 1 HD",
-    "lang": "de",
-    "xmltv_id": "SkySportAustria1.at@HD",
-    "logo": "https://i.imgur.com/bB0HZDu.png"
-  },
-  {
-    "site_id": "207381032329",
-    "name": "History HD",
-    "lang": "de",
-    "xmltv_id": "History.de@HD",
-    "logo": "https://i.imgur.com/P5aKEES.png"
-  },
-  {
-    "site_id": "225894952285",
-    "name": "FM4",
-    "lang": "de"
-  },
-  {
-    "site_id": "225895464086",
-    "name": "Ö2 Kärnten",
-    "lang": "de"
-  },
-  {
-    "site_id": "225895464225",
-    "name": "Bayern 3",
-    "lang": "de"
-  },
-  {
-    "site_id": "206965800328",
-    "name": "arte HD",
-    "lang": "de",
-    "xmltv_id": "arte.de@HD",
-    "logo": "https://i.imgur.com/ecXMjNl.png"
-  },
-  {
-    "site_id": "207381032340",
-    "name": "Sky Cinema Premieren HD",
-    "lang": "de",
-    "xmltv_id": "SkyCinemaPremieren.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "207381032393",
-    "name": "Eurosport Türkiye",
-    "lang": "de"
-  },
-  {
-    "site_id": "225894440419",
-    "name": "radio 88.6",
-    "lang": "de"
-  },
-  {
-    "site_id": "225896488354",
-    "name": "Rete Uno",
-    "lang": "de"
-  },
-  {
-    "site_id": "234851368438",
-    "name": "eXXpressTV",
-    "lang": "de",
-    "xmltv_id": "eXXpressTV.at@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/EXXpress_logo_%282023%29.svg/960px-EXXpress_logo_%282023%29.svg.png"
-  },
-  {
-    "site_id": "206965288091",
-    "name": "ORF 1 HD",
-    "lang": "de",
-    "xmltv_id": "ORF1.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg"
-  },
-  {
-    "site_id": "206965800368",
-    "name": "ARCADIA World HD",
-    "lang": "de",
-    "xmltv_id": "ArcadiaWorldHD.at@SD",
-    "logo": "https://i.imgur.com/pGooWxW.png"
   },
   {
     "site_id": "206967848002",
@@ -1341,23 +1186,57 @@
     "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/960px-Sky_Sport_News_2020.svg.png"
   },
   {
-    "site_id": "207381032321",
-    "name": "Baby TV",
+    "site_id": "206966312300",
+    "name": "Eurosport 1 HD",
+    "lang": "de",
+    "xmltv_id": "Eurosport1.fr@GermanyHD",
+    "logo": "https://i.imgur.com/olQJgm7.png"
+  },
+  {
+    "site_id": "207382568047",
+    "name": "MTV live HD",
+    "lang": "de",
+    "xmltv_id": "MTVLive.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
+  },
+  {
+    "site_id": "207382568112",
+    "name": "SAT.1 emotions HD",
+    "lang": "de",
+    "xmltv_id": "SAT1emotions.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SAT.1_emotions_Logo_2019.png/960px-SAT.1_emotions_Logo_2019.png"
+  },
+  {
+    "site_id": "206966823986",
+    "name": "MDR Fernsehen HD",
     "lang": "de"
   },
   {
-    "site_id": "207382568056",
-    "name": "BBC Entertainment",
+    "site_id": "206969384021",
+    "name": "Romance TV HD",
     "lang": "de",
-    "xmltv_id": "BBCEntertainment.uk@SD",
-    "logo": "https://i.imgur.com/fx2z8M1.png"
+    "xmltv_id": "RomanceTV.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/960px-Romance_TV_Logo_10.2019.svg.png"
   },
   {
-    "site_id": "206965800445",
-    "name": "RiC",
+    "site_id": "207381032281",
+    "name": "Fix \u0026 Foxi",
     "lang": "de",
-    "xmltv_id": "RiC.de@SD",
-    "logo": "https://i.imgur.com/4wMZ8Em.png"
+    "xmltv_id": "FixFoxi.de@SD"
+  },
+  {
+    "site_id": "207381032358",
+    "name": "Sky Sport Tennis HD",
+    "lang": "de",
+    "xmltv_id": "SkySportTennis.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/960px-Sky_Sport_Tennis.svg.png"
+  },
+  {
+    "site_id": "206967336067",
+    "name": "Motorvision+ HD",
+    "lang": "de",
+    "xmltv_id": "MotorvisionPlus.de@HD",
+    "logo": "https://i.imgur.com/5cs5GkJ.png"
   },
   {
     "site_id": "206970408368",
@@ -1367,68 +1246,312 @@
     "logo": "https://i.imgur.com/QPcmfZb.png"
   },
   {
-    "site_id": "207382568027",
-    "name": "Spiegel Geschichte HD",
+    "site_id": "207381032407",
+    "name": "Klasik TV",
     "lang": "de",
-    "xmltv_id": "SpiegelGeschichte.de@HD",
-    "logo": "https://i.imgur.com/z2m55no.png"
+    "xmltv_id": "Klasik.hr@SD",
+    "logo": "https://i.imgur.com/C90BYlb.png"
   },
   {
-    "site_id": "207382568116",
-    "name": "Sky Sport HD 2",
+    "site_id": "207382568114",
+    "name": "Sky Sport HD 9",
     "lang": "de",
-    "xmltv_id": "SkySport2.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sky_Sport_2_DE_Logo_2020.svg/960px-Sky_Sport_2_DE_Logo_2020.svg.png"
+    "xmltv_id": "SkySport9.de@HD",
+    "logo": "https://i.imgur.com/NQMl2hn.png"
   },
   {
-    "site_id": "225890344089",
-    "name": "RAI Tre",
+    "site_id": "206965288149",
+    "name": "W24 HD",
+    "lang": "de",
+    "xmltv_id": "W24.at@HD",
+    "logo": "https://i.imgur.com/FpVNrxk.png"
+  },
+  {
+    "site_id": "206965800291",
+    "name": "ZDFneo HD",
+    "lang": "de",
+    "xmltv_id": "ZDFneo.de@HD",
+    "logo": "https://i.imgur.com/1JIIGgL.png"
+  },
+  {
+    "site_id": "206969896262",
+    "name": "TRT World",
+    "lang": "de",
+    "xmltv_id": "TRTWorld.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"
+  },
+  {
+    "site_id": "207381032391",
+    "name": "Habertürk TV",
+    "lang": "de",
+    "xmltv_id": "HaberturkTV.tr@SD",
+    "logo": "https://i.imgur.com/6Tw3rUp.png"
+  },
+  {
+    "site_id": "207382568157",
+    "name": "Sky Sport Austria 2 HD",
+    "lang": "de",
+    "xmltv_id": "SkySportAustria2.at@HD",
+    "logo": "https://i.imgur.com/hK1hNlT.png"
+  },
+  {
+    "site_id": "225894440342",
+    "name": "Ö2 Salzburg",
     "lang": "de"
   },
   {
-    "site_id": "206966312237",
-    "name": "QVC HD",
-    "lang": "de",
-    "xmltv_id": "QVC.de@HD",
-    "logo": "https://i.imgur.com/EybRtsI.png"
-  },
-  {
-    "site_id": "206969896252",
-    "name": "RTS Svet HD",
-    "lang": "de",
-    "xmltv_id": "RTSSvet.rs@HD",
-    "logo": "https://i.imgur.com/LjunOdy.png"
-  },
-  {
-    "site_id": "206965288206",
-    "name": "PULS24 HD",
-    "lang": "de",
-    "xmltv_id": "Puls24.at@HD",
-    "logo": "https://i.imgur.com/zem7JQW.png"
-  },
-  {
-    "site_id": "206970408273",
-    "name": "Warner TV Serie HD",
-    "lang": "de",
-    "xmltv_id": "WarnerTVSerie.de@HD",
-    "logo": "https://i.imgur.com/QZYRu0I.png"
-  },
-  {
-    "site_id": "207381032273",
-    "name": "Sky Bundesliga HD 2",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga2.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png/960px-Sky_Sport_Bundesliga_2_Logo_2020.png"
-  },
-  {
-    "site_id": "207381032388",
-    "name": "Sky Cinema Halloween HD",
+    "site_id": "225895464322",
+    "name": "NDR2",
     "lang": "de"
   },
   {
-    "site_id": "225894440291",
-    "name": "Ö2 Niederösterreich",
+    "site_id": "301709352380",
+    "name": "Sky Sport Golf HD",
+    "lang": "de",
+    "xmltv_id": "SkySportGolf.de@HD",
+    "logo": "https://i.imgur.com/nhhbHvs.png"
+  },
+  {
+    "site_id": "207381032275",
+    "name": "Sky Bundesliga HD 4",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga4.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f6/Sky_Sport_Bundesliga_4_Logo_2020.png/960px-Sky_Sport_Bundesliga_4_Logo_2020.png"
+  },
+  {
+    "site_id": "207382568122",
+    "name": "Nat Geo HD",
+    "lang": "de",
+    "xmltv_id": "NationalGeographic.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+  },
+  {
+    "site_id": "215440936102",
+    "name": "Sky Sport Austria 7 HD",
+    "lang": "de",
+    "xmltv_id": "SkySportAustria7.at@HD",
+    "logo": "https://i.imgur.com/4QH8heA.png"
+  },
+  {
+    "site_id": "225890344066",
+    "name": "RAI Uno",
     "lang": "de"
+  },
+  {
+    "site_id": "225894952285",
+    "name": "FM4",
+    "lang": "de"
+  },
+  {
+    "site_id": "225894952366",
+    "name": "Ö1",
+    "lang": "de"
+  },
+  {
+    "site_id": "225897000030",
+    "name": "Deutschlandfunk",
+    "lang": "de"
+  },
+  {
+    "site_id": "207382568125",
+    "name": "Sky Bundesliga HD",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga.de@HD",
+    "logo": "https://i.imgur.com/UXtjFtd.png"
+  },
+  {
+    "site_id": "206966312266",
+    "name": "123.tv",
+    "lang": "de",
+    "xmltv_id": "123tv.de@SD",
+    "logo": "https://i.imgur.com/slSUDNX.png"
+  },
+  {
+    "site_id": "206969383998",
+    "name": "Universal TV HD",
+    "lang": "de",
+    "xmltv_id": "UniversalTV.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"
+  },
+  {
+    "site_id": "207381032277",
+    "name": "Sky Bundesliga HD 6",
+    "lang": "de",
+    "xmltv_id": "SkySportBundesliga6.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/ad/Sky_Sport_Bundesliga_6_Logo_2020.png/960px-Sky_Sport_Bundesliga_6_Logo_2020.png"
+  },
+  {
+    "site_id": "207381032280",
+    "name": "Cartoon Network HD",
+    "lang": "de",
+    "xmltv_id": "CartoonNetworkCEE.uk@GermanyHD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "site_id": "207381032291",
+    "name": "Sky Sport Austria 1 HD",
+    "lang": "de",
+    "xmltv_id": "SkySportAustria1.at@HD",
+    "logo": "https://i.imgur.com/bB0HZDu.png"
+  },
+  {
+    "site_id": "207381032331",
+    "name": "RTL Living HD",
+    "lang": "de",
+    "xmltv_id": "RTLLiving.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTL_Living_Logo_2021.svg/960px-RTL_Living_Logo_2021.svg.png"
+  },
+  {
+    "site_id": "225894952377",
+    "name": "radio klassik Stephansdom",
+    "lang": "de"
+  },
+  {
+    "site_id": "206966312058",
+    "name": "krone.tv HD",
+    "lang": "de",
+    "xmltv_id": "kronetv.at@HD",
+    "logo": "https://i.imgur.com/3zN58uH.png"
+  },
+  {
+    "site_id": "207382568052",
+    "name": "Pink Plus",
+    "lang": "de",
+    "xmltv_id": "PinkPlus.rs@SD",
+    "logo": "https://i.imgur.com/A3D1RZP.png"
+  },
+  {
+    "site_id": "225410600318",
+    "name": "1LIVE",
+    "lang": "de"
+  },
+  {
+    "site_id": "206966824417",
+    "name": "BBC News HD",
+    "lang": "de"
+  },
+  {
+    "site_id": "206969895972",
+    "name": "Tirol TV HD",
+    "lang": "de",
+    "xmltv_id": "TirolTV.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png"
+  },
+  {
+    "site_id": "206969896231",
+    "name": "DMAX",
+    "lang": "de",
+    "xmltv_id": "DMAX.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png"
+  },
+  {
+    "site_id": "225895975957",
+    "name": "Radio Energy",
+    "lang": "de"
+  },
+  {
+    "site_id": "229039144336",
+    "name": "VESTI",
+    "lang": "de",
+    "xmltv_id": "Vesti.rs@SD",
+    "logo": "https://i.imgur.com/lKYqwJQ.png"
+  },
+  {
+    "site_id": "206970408437",
+    "name": "ProSieben Maxx",
+    "lang": "de",
+    "xmltv_id": "ProSiebenMaxx.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png"
+  },
+  {
+    "site_id": "207381032392",
+    "name": "Sky Cinema Thriller HD",
+    "lang": "de",
+    "xmltv_id": "SkyCinemaThriller.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/960px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "207381032402",
+    "name": "Eurosport 1 Srbija",
+    "lang": "de",
+    "xmltv_id": "Eurosport1.fr@Serbia",
+    "logo": "https://i.imgur.com/olQJgm7.png"
+  },
+  {
+    "site_id": "225895464336",
+    "name": "SWR 3",
+    "lang": "de"
+  },
+  {
+    "site_id": "225896488118",
+    "name": "Radio SRF 2 Kultur",
+    "lang": "de"
+  },
+  {
+    "site_id": "206966312002",
+    "name": "TELE 5",
+    "lang": "de",
+    "xmltv_id": "TELE5.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/500px-Tele_5_Logo_2021.svg.png"
+  },
+  {
+    "site_id": "206966312080",
+    "name": "ZDFinfo HD",
+    "lang": "de",
+    "xmltv_id": "ZDFinfo.de@HD",
+    "logo": "https://i.imgur.com/vtq1IWp.png"
+  },
+  {
+    "site_id": "206966823998",
+    "name": "SWR HD",
+    "lang": "de"
+  },
+  {
+    "site_id": "225894440419",
+    "name": "radio 88.6",
+    "lang": "de"
+  },
+  {
+    "site_id": "301712936303",
+    "name": "Sky Sport Premier League HD",
+    "lang": "de",
+    "xmltv_id": "SkySportPremierLeague.de@HD",
+    "logo": "https://i.imgur.com/ChWdcRC.png"
+  },
+  {
+    "site_id": "206964776306",
+    "name": "oe24.TV HD",
+    "lang": "de",
+    "xmltv_id": "oe24TV.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oe24TV_Logo_2016.svg/960px-Oe24TV_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "206970408401",
+    "name": "Nitro",
+    "lang": "de",
+    "xmltv_id": "Nitro.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png"
+  },
+  {
+    "site_id": "207381032394",
+    "name": "Dubai TV",
+    "lang": "en",
+    "xmltv_id": "DubaiTV.ae@SD",
+    "logo": "https://i.imgur.com/UMmbyHv.png"
+  },
+  {
+    "site_id": "207381032406",
+    "name": "Duna TV",
+    "lang": "hu",
+    "xmltv_id": "Duna.hu@SD",
+    "logo": "https://i.imgur.com/oPbsSlp.png"
+  },
+  {
+    "site_id": "215440936101",
+    "name": "Sky Sport Austria 6 HD",
+    "lang": "de",
+    "xmltv_id": "SkySportAustria6.at@HD",
+    "logo": "https://i.imgur.com/zNilG3u.png"
   },
   {
     "site_id": "225895976120",
@@ -1436,18 +1559,37 @@
     "lang": "de"
   },
   {
-    "site_id": "206963752417",
-    "name": "RTLZWEI HD",
+    "site_id": "206965288091",
+    "name": "ORF 1 HD",
     "lang": "de",
-    "xmltv_id": "RTLZwei.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png"
+    "xmltv_id": "ORF1.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png"
   },
   {
-    "site_id": "206966824377",
-    "name": "Warner TV Comedy HD",
+    "site_id": "206965800368",
+    "name": "ARCADIA World HD",
     "lang": "de",
-    "xmltv_id": "WarnerTVComedy.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/WarnerTV_Comedy_Logo_2021.svg/960px-WarnerTV_Comedy_Logo_2021.svg.png"
+    "xmltv_id": "ArcadiaWorldHD.at@SD",
+    "logo": "https://i.imgur.com/pGooWxW.png"
+  },
+  {
+    "site_id": "206969383991",
+    "name": "13TH STREET HD",
+    "lang": "de",
+    "xmltv_id": "13thStreetUniversal.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/500px-13th_Street_Universal.svg.png"
+  },
+  {
+    "site_id": "206969384183",
+    "name": "Sat.1 Gold",
+    "lang": "de",
+    "xmltv_id": "SAT1Gold.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png"
+  },
+  {
+    "site_id": "206966312315",
+    "name": "Laola1.TV HD",
+    "lang": "de"
   },
   {
     "site_id": "206969384071",
@@ -1457,35 +1599,37 @@
     "logo": "https://i.imgur.com/rPAbMSu.png"
   },
   {
-    "site_id": "206969384179",
-    "name": "krone.tv",
+    "site_id": "207382568163",
+    "name": "Sky Sport F1",
     "lang": "de",
-    "xmltv_id": "kronetv.at@SD",
-    "logo": "https://i.imgur.com/3zN58uH.png"
+    "xmltv_id": "SkySportF1.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png"
   },
   {
-    "site_id": "225893928278",
-    "name": "Ö2 Burgenland",
+    "site_id": "206967848012",
+    "name": "Sport 1 HD",
+    "lang": "de",
+    "xmltv_id": "Sport1.de@HD",
+    "logo": "https://i.imgur.com/Tsjt7v9.png"
+  },
+  {
+    "site_id": "207381032405",
+    "name": "Hayat",
+    "lang": "de",
+    "xmltv_id": "Hayat.ba@SD",
+    "logo": "https://i.imgur.com/JugiLHM.png"
+  },
+  {
+    "site_id": "225896488354",
+    "name": "Rete Uno",
     "lang": "de"
   },
   {
-    "site_id": "225895464394",
-    "name": "Radio Horeb",
-    "lang": "de"
-  },
-  {
-    "site_id": "206964776268",
-    "name": "ORF III HD",
+    "site_id": "206966312362",
+    "name": "ORF 2 Kärnten HD",
     "lang": "de",
-    "xmltv_id": "ORFIII.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png"
-  },
-  {
-    "site_id": "206966312329",
-    "name": "K19",
-    "lang": "de",
-    "xmltv_id": "K19.at@SD",
-    "logo": "https://i.imgur.com/l4atkvs.png"
+    "xmltv_id": "ORF2Karnten.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
   },
   {
     "site_id": "206966824018",
@@ -1498,117 +1642,100 @@
     "lang": "de"
   },
   {
-    "site_id": "206969384238",
-    "name": "Nickelodeon",
+    "site_id": "206969896252",
+    "name": "RTS Svet HD",
     "lang": "de",
-    "xmltv_id": "Nickelodeon.de@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
+    "xmltv_id": "RTSSvet.rs@HD",
+    "logo": "https://i.imgur.com/LjunOdy.png"
   },
   {
-    "site_id": "207381032332",
-    "name": "RTL Crime HD",
+    "site_id": "215440936100",
+    "name": "Sky Sport Austria 5 HD",
     "lang": "de",
-    "xmltv_id": "RTLCrime.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg"
+    "xmltv_id": "SkySportAustria5.at@HD",
+    "logo": "https://i.imgur.com/PnI3ZAB.png"
   },
   {
-    "site_id": "224890919993",
-    "name": "Bayern 1",
+    "site_id": "225895976189",
+    "name": "Radio Swiss Pop",
     "lang": "de"
   },
   {
-    "site_id": "206965288371",
-    "name": "Bibel TV HD",
+    "site_id": "206968872074",
+    "name": "Kabel Eins Doku",
     "lang": "de",
-    "xmltv_id": "BibelTV.de@HD",
-    "logo": "https://i.imgur.com/RLwmrk3.png"
+    "xmltv_id": "kabeleinsDoku.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png"
   },
   {
-    "site_id": "206967335978",
-    "name": "HSE HD",
+    "site_id": "207382568105",
+    "name": "Curiosity Channel",
     "lang": "de",
-    "xmltv_id": "HSE.de@HD",
-    "logo": "https://i.imgur.com/IecRNCk.png"
+    "xmltv_id": "CuriosityChannel.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png"
   },
   {
-    "site_id": "225895975957",
-    "name": "Radio Energy",
+    "site_id": "207382568115",
+    "name": "Sky Sport HD 1",
+    "lang": "de",
+    "xmltv_id": "SkySport1.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "224890919986",
+    "name": "Hitradio Ö3",
+    "lang": "de",
+    "xmltv_id": "HitradioO3.at@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png"
+  },
+  {
+    "site_id": "206966824423",
+    "name": "CNN International",
+    "lang": "de",
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "206967848086",
+    "name": "ORF 2 Salzburg HD",
+    "lang": "de",
+    "xmltv_id": "ORF2Salzburg.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
+  },
+  {
+    "site_id": "206968871975",
+    "name": "RTL",
+    "lang": "de",
+    "xmltv_id": "RTL.de@SD",
+    "logo": "https://i.imgur.com/94K94k2.png"
+  },
+  {
+    "site_id": "206969384250",
+    "name": "W24",
+    "lang": "de",
+    "xmltv_id": "W24.at@SD",
+    "logo": "https://i.imgur.com/FpVNrxk.png"
+  },
+  {
+    "site_id": "206970408253",
+    "name": "Magenta On Demand",
     "lang": "de"
   },
   {
-    "site_id": "206964776257",
-    "name": "VOX HD",
+    "site_id": "207381032318",
+    "name": "Pink Music",
     "lang": "de",
-    "xmltv_id": "VOX.at@HD",
-    "logo": "https://i.imgur.com/QPcmfZb.png"
+    "xmltv_id": "PinkMusic.rs@SD",
+    "logo": "https://i.imgur.com/nf4bzDG.png"
   },
   {
-    "site_id": "206966312002",
-    "name": "TELE 5",
-    "lang": "de",
-    "xmltv_id": "TELE5.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/500px-Tele_5_Logo_2021.svg.png"
-  },
-  {
-    "site_id": "206966312109",
-    "name": "WDR Fernsehen HD",
+    "site_id": "207381032385",
+    "name": "Sky Cinema Spooky HD",
     "lang": "de"
   },
   {
-    "site_id": "206966824029",
-    "name": "SRF info HD",
-    "lang": "de",
-    "xmltv_id": "SRFinfo.ch@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png"
-  },
-  {
-    "site_id": "207382568047",
-    "name": "MTV live HD",
-    "lang": "de",
-    "xmltv_id": "MTVLive.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg"
-  },
-  {
-    "site_id": "206969384188",
-    "name": "sixx austria",
-    "lang": "de",
-    "xmltv_id": "sixxAustria.at@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sixx_Austria_Logo.svg/960px-Sixx_Austria_Logo.svg.png"
-  },
-  {
-    "site_id": "207381032356",
-    "name": "Nick Junior",
-    "lang": "de"
-  },
-  {
-    "site_id": "207382568117",
-    "name": "Sky Sport HD 3",
-    "lang": "de",
-    "xmltv_id": "SkySport3.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sky_Sport_3_DE_Logo_2020.svg/960px-Sky_Sport_3_DE_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "207382568163",
-    "name": "Sky Sport F1",
-    "lang": "de",
-    "xmltv_id": "SkySportF1.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "225894440342",
-    "name": "Ö2 Salzburg",
-    "lang": "de"
-  },
-  {
-    "site_id": "207381032274",
-    "name": "Sky Bundesliga HD 9",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga9.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Sky_Sport_Bundesliga_9_Logo_2020.png/960px-Sky_Sport_Bundesliga_9_Logo_2020.png"
-  },
-  {
-    "site_id": "225894952331",
-    "name": "Ö2 Steiermark",
+    "site_id": "225890855955",
+    "name": "RAI Due",
     "lang": "de"
   },
   {
@@ -1619,54 +1746,54 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/960px-Logo_ATV2.svg.png"
   },
   {
-    "site_id": "206966824192",
-    "name": "auto motor und sport channel HD",
+    "site_id": "206966824407",
+    "name": "ProSieben FUN HD",
     "lang": "de",
-    "xmltv_id": "automotorundsportchannel.de@HD",
-    "logo": "https://i.imgur.com/o8wOvJ7.png"
+    "xmltv_id": "ProSiebenFun.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ProSieben_FUN_Logo_2021.svg/960px-ProSieben_FUN_Logo_2021.svg.png"
   },
   {
-    "site_id": "206969896174",
-    "name": "n-tv",
+    "site_id": "207381032335",
+    "name": "Sky Atlantic HD",
     "lang": "de",
-    "xmltv_id": "ntv.at@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/960px-N-tv_logo-september2017.svg.png"
+    "xmltv_id": "SkyAtlantic.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Sky_Atlantic_-_Logo_2020_%28TV_channel%29.svg/960px-Sky_Atlantic_-_Logo_2020_%28TV_channel%29.svg.png"
   },
   {
-    "site_id": "207381032347",
-    "name": "Sky Sport Mix HD",
+    "site_id": "207382568027",
+    "name": "Spiegel Geschichte HD",
     "lang": "de",
-    "xmltv_id": "SkySportMix.de@HD",
-    "logo": "https://i.imgur.com/erx02nr.png"
+    "xmltv_id": "SpiegelGeschichte.de@HD",
+    "logo": "https://i.imgur.com/z2m55no.png"
   },
   {
-    "site_id": "207382568112",
-    "name": "SAT.1 emotions HD",
-    "lang": "de",
-    "xmltv_id": "SAT1emotions.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SAT.1_emotions_Logo_2019.png/960px-SAT.1_emotions_Logo_2019.png"
-  },
-  {
-    "site_id": "225896488223",
-    "name": "WDR 2",
+    "site_id": "225895464407",
+    "name": "BBC English",
     "lang": "de"
   },
   {
-    "site_id": "207382568152",
-    "name": "Pink Extra",
-    "lang": "de",
-    "xmltv_id": "PinkExtra.rs@SD",
-    "logo": "https://i.imgur.com/CUQEFtP.png"
-  },
-  {
-    "site_id": "225897000223",
-    "name": "ERF Plus",
+    "site_id": "225895976140",
+    "name": "MDR Sputnik",
     "lang": "de"
   },
   {
     "site_id": "206965800213",
     "name": "Kabel Eins HD",
     "lang": "de"
+  },
+  {
+    "site_id": "206966312329",
+    "name": "K19",
+    "lang": "de",
+    "xmltv_id": "K19.at@SD",
+    "logo": "https://i.imgur.com/l4atkvs.png"
+  },
+  {
+    "site_id": "207382568038",
+    "name": "MTV 80s",
+    "lang": "de",
+    "xmltv_id": "MTV80s.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
   },
   {
     "site_id": "206965800383",
@@ -1676,196 +1803,149 @@
     "logo": "https://i.imgur.com/LH0Gctv.png"
   },
   {
-    "site_id": "206966312209",
-    "name": "Disney Channel",
+    "site_id": "206966824377",
+    "name": "Warner TV Comedy HD",
     "lang": "de",
-    "xmltv_id": "DisneyChannel.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+    "xmltv_id": "WarnerTVComedy.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/WarnerTV_Comedy_Logo_2021.svg/960px-WarnerTV_Comedy_Logo_2021.svg.png"
   },
   {
-    "site_id": "206966312266",
-    "name": "123.tv",
+    "site_id": "207382568161",
+    "name": "Sky Crime HD",
     "lang": "de",
-    "xmltv_id": "123tv.de@SD",
-    "logo": "https://i.imgur.com/slSUDNX.png"
+    "xmltv_id": "SkyCrime.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sky_Crime_logo_2020.svg/960px-Sky_Crime_logo_2020.svg.png"
   },
   {
-    "site_id": "206966824308",
-    "name": "ORF 2 EUROPE",
+    "site_id": "306844200112",
+    "name": "Sky Showcase HD",
     "lang": "de",
-    "xmltv_id": "ORF2Europe.at@SD",
-    "logo": "https://i.imgur.com/Hmcl4qR.png"
+    "xmltv_id": "SkyShowcase.de@HD",
+    "logo": "https://i.imgur.com/7viaZKs.png"
   },
   {
-    "site_id": "206969384001",
-    "name": "Syfy HD",
+    "site_id": "206965288206",
+    "name": "PULS24 HD",
     "lang": "de",
-    "xmltv_id": "SYFY.de@HD",
-    "logo": "https://i.imgur.com/4fMWhUE.png"
+    "xmltv_id": "Puls24.at@HD",
+    "logo": "https://i.imgur.com/zem7JQW.png"
   },
   {
-    "site_id": "207382568106",
-    "name": "Pink Film",
+    "site_id": "206965288240",
+    "name": "Kabel Eins Doku HD",
     "lang": "de",
-    "xmltv_id": "PinkFilm.rs@SD",
-    "logo": "https://i.imgur.com/i6Il48Y.png"
+    "xmltv_id": "kabeleinsDoku.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png"
   },
   {
-    "site_id": "225893928433",
-    "name": "Bayern 2",
+    "site_id": "206966312140",
+    "name": "NDR Fernsehen HD",
     "lang": "de"
   },
   {
-    "site_id": "206963752351",
-    "name": "ORF 2 Wien HD",
+    "site_id": "206969384229",
+    "name": "Comedy Central",
     "lang": "de",
-    "xmltv_id": "ORF2Wien.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
+    "xmltv_id": "ComedyCentral.at@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a4/Comedy_Central_Austria_2018.png/960px-Comedy_Central_Austria_2018.png"
   },
   {
-    "site_id": "206968872127",
-    "name": "Eurosport 1",
+    "site_id": "206966824154",
+    "name": "ORF Sport+ HD",
     "lang": "de",
-    "xmltv_id": "Eurosport1.fr@Germany",
-    "logo": "https://i.imgur.com/olQJgm7.png"
+    "xmltv_id": "ORFSportPlus.at@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/960px-ORF_Sport%2B.svg.png"
   },
   {
-    "site_id": "225895464253",
-    "name": "1 LIVE diggi",
+    "site_id": "206967336046",
+    "name": "Sport1+ HD",
+    "lang": "de",
+    "xmltv_id": "Sport1Plus.de@HD",
+    "logo": "https://i.imgur.com/wt9oQe4.png"
+  },
+  {
+    "site_id": "207381032316",
+    "name": "Gute Laune TV",
+    "lang": "de",
+    "xmltv_id": "GuteLauneTV.de@SD",
+    "logo": "https://i.imgur.com/U7rjU7H.png"
+  },
+  {
+    "site_id": "206969384154",
+    "name": "RTLZWEI",
+    "lang": "de",
+    "xmltv_id": "RTLZwei.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png"
+  },
+  {
+    "site_id": "207381032397",
+    "name": "MNE",
+    "lang": "de",
+    "xmltv_id": "TVCGMNE.me@SD",
+    "logo": "https://i.imgur.com/pf8VEwf.png"
+  },
+  {
+    "site_id": "225894952304",
+    "name": "Ö2 Wien",
     "lang": "de"
   },
   {
-    "site_id": "463314984166",
-    "name": "Crime + Investigation",
-    "lang": "de",
-    "xmltv_id": "CrimePlusInvestigation.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
-  },
-  {
-    "site_id": "206965288083",
-    "name": "Magenta HD",
+    "site_id": "225895464216",
+    "name": "Klassik Radio",
     "lang": "de"
   },
   {
-    "site_id": "206969384080",
-    "name": "France 24 HD",
-    "lang": "de",
-    "xmltv_id": "France24.fr@EnglishHD",
-    "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "site_id": "206969895972",
-    "name": "Tirol TV HD",
-    "lang": "de",
-    "xmltv_id": "TirolTV.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png"
-  },
-  {
-    "site_id": "207382568012",
-    "name": "MTV 90s",
-    "lang": "de",
-    "xmltv_id": "MTV90s.uk@SD",
-    "logo": "https://i.imgur.com/au5zhwP.png"
-  },
-  {
-    "site_id": "206963752441",
-    "name": "SAT.1 Gold HD",
-    "lang": "de",
-    "xmltv_id": "SAT1Gold.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png"
-  },
-  {
-    "site_id": "206966823998",
-    "name": "SWR HD",
+    "site_id": "225896488066",
+    "name": "Bremen Zwei",
     "lang": "de"
   },
   {
-    "site_id": "225896488308",
-    "name": "Radio Exterior de Espana",
+    "site_id": "225897000223",
+    "name": "ERF Plus",
     "lang": "de"
   },
   {
-    "site_id": "206969384021",
-    "name": "Romance TV HD",
+    "site_id": "207382568053",
+    "name": "HRT TV1 HD",
     "lang": "de",
-    "xmltv_id": "RomanceTV.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/960px-Romance_TV_Logo_10.2019.svg.png"
+    "xmltv_id": "HRT1.hr@HD",
+    "logo": "https://i.imgur.com/lDSctzX.png"
   },
   {
-    "site_id": "206969896072",
-    "name": "euronews HD",
-    "lang": "de",
-    "xmltv_id": "EuronewsGerman.fr@HD",
-    "logo": "https://i.imgur.com/8t9mdg9.png"
-  },
-  {
-    "site_id": "206970919968",
-    "name": "Super RTL",
-    "lang": "de",
-    "xmltv_id": "RTLSuper.de@SD",
-    "logo": "https://i.imgur.com/KbdK8t9.png"
-  },
-  {
-    "site_id": "207381032418",
-    "name": "Al Jazeera",
-    "lang": "de",
-    "xmltv_id": "AlJazeera.qa@English",
-    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"
-  },
-  {
-    "site_id": "225895464441",
-    "name": "Radio Osttirol",
+    "site_id": "225890344089",
+    "name": "RAI Tre",
     "lang": "de"
   },
   {
-    "site_id": "206967336325",
-    "name": "ORF 2 Vorarlberg HD",
-    "lang": "de",
-    "xmltv_id": "ORF2Vorarlberg.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png"
-  },
-  {
-    "site_id": "207381032318",
-    "name": "Pink Music",
-    "lang": "de",
-    "xmltv_id": "PinkMusic.rs@SD",
-    "logo": "https://i.imgur.com/nf4bzDG.png"
-  },
-  {
-    "site_id": "207382568024",
-    "name": "Crime + Investigation HD",
-    "lang": "de",
-    "xmltv_id": "CrimePlusInvestigation.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
-  },
-  {
-    "site_id": "224872488137",
-    "name": "BR-Klassik",
+    "site_id": "225895976320",
+    "name": "WRN English Europe",
     "lang": "de"
   },
   {
-    "site_id": "225895464193",
-    "name": "Radio Ö24",
+    "site_id": "229041191972",
+    "name": "Film Klub",
+    "lang": "de",
+    "xmltv_id": "FilmKlub.rs@SD",
+    "logo": "https://i.imgur.com/a6Jq6Qg.png"
+  },
+  {
+    "site_id": "206965800435",
+    "name": "Super RTL HD",
     "lang": "de"
   },
   {
-    "site_id": "206966312315",
-    "name": "Laola1.TV HD",
-    "lang": "de"
+    "site_id": "206966311964",
+    "name": "ProSieben Maxx HD",
+    "lang": "de",
+    "xmltv_id": "ProSiebenMaxx.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png"
   },
   {
-    "site_id": "206969896113",
-    "name": "PULS 4",
+    "site_id": "207381032310",
+    "name": "Bloomberg TV",
     "lang": "de",
-    "xmltv_id": "Puls4.at@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/960px-Puls4.svg.png"
-  },
-  {
-    "site_id": "207381032279",
-    "name": "Sky Bundesliga HD 8",
-    "lang": "de",
-    "xmltv_id": "SkySportBundesliga8.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/4/4f/Sky_Sport_Bundesliga_8_Logo_2020.png/960px-Sky_Sport_Bundesliga_8_Logo_2020.png"
+    "xmltv_id": "BloombergTV.us@Europe",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
   },
   {
     "site_id": "207381032336",
@@ -1875,60 +1955,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sky_Cinema_Best_Of_DE_Logo_2020.svg/960px-Sky_Cinema_Best_Of_DE_Logo_2020.svg.png"
   },
   {
-    "site_id": "207382568093",
-    "name": "Sky Cinema Classics HD",
-    "lang": "de",
-    "xmltv_id": "SkyCinemaClassics.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sky_Cinema_Classics_DE_Logo_2020.svg/960px-Sky_Cinema_Classics_DE_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "215440936102",
-    "name": "Sky Sport Austria 7 HD",
-    "lang": "de",
-    "xmltv_id": "SkySportAustria7.at@HD",
-    "logo": "https://i.imgur.com/4QH8heA.png"
-  },
-  {
-    "site_id": "225895976110",
-    "name": "radioeins",
-    "lang": "de"
-  },
-  {
-    "site_id": "225896488283",
-    "name": "SWR 4 Baden-Württemberg",
-    "lang": "de"
-  },
-  {
-    "site_id": "206966312019",
-    "name": "3sat HD",
-    "lang": "de",
-    "xmltv_id": "3sat.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png"
-  },
-  {
-    "site_id": "207381032402",
-    "name": "Eurosport 1 Srbija",
-    "lang": "de",
-    "xmltv_id": "Eurosport1.fr@Serbia",
-    "logo": "https://i.imgur.com/olQJgm7.png"
-  },
-  {
-    "site_id": "207381032405",
-    "name": "Hayat",
-    "lang": "de",
-    "xmltv_id": "Hayat.ba@SD",
-    "logo": "https://i.imgur.com/JugiLHM.png"
-  },
-  {
-    "site_id": "207382568109",
-    "name": "Cartoonito",
-    "lang": "de",
-    "xmltv_id": "CartoonitoCEE.uk@Germany",
-    "logo": "https://i.imgur.com/9MrzLb1.png"
-  },
-  {
-    "site_id": "225896488105",
-    "name": "N-JOY",
+    "site_id": "225894440407",
+    "name": "Superfly.fm",
     "lang": "de"
   },
   {
@@ -1937,38 +1965,10 @@
     "lang": "de"
   },
   {
-    "site_id": "301712936310",
-    "name": "Sky Sport HD 10",
+    "site_id": "288804392373",
+    "name": "Streamster.tv",
     "lang": "de",
-    "xmltv_id": "SkySport10.de@HD",
-    "logo": "https://i.imgur.com/ZnUAdGj.png"
-  },
-  {
-    "site_id": "206965288121",
-    "name": "PULS 4 HD",
-    "lang": "de",
-    "xmltv_id": "Puls4.at@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/960px-Puls4.svg.png"
-  },
-  {
-    "site_id": "207381032325",
-    "name": "Stingray Classica HD",
-    "lang": "de",
-    "xmltv_id": "StingrayClassica.ca@HD",
-    "logo": "https://i.imgur.com/nh1k5RC.png"
-  },
-  {
-    "site_id": "301709352380",
-    "name": "Sky Sport Golf HD",
-    "lang": "de",
-    "xmltv_id": "SkySportGolf.de@HD",
-    "logo": "https://i.imgur.com/nhhbHvs.png"
-  },
-  {
-    "site_id": "206965288240",
-    "name": "Kabel Eins Doku HD",
-    "lang": "de",
-    "xmltv_id": "kabeleinsDoku.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png"
+    "xmltv_id": "Streamstertv.de@SD",
+    "logo": "https://i.imgur.com/FFPjs87.png"
   }
 ]

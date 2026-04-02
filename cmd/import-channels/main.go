@@ -302,7 +302,7 @@ func main() {
 
 			logo := ch.Logo
 			if logo == "" && ch.XmltvID != "" {
-				logo = logosByID[ch.XmltvID]
+				logo = lookupLogo(logosByID, ch.XmltvID)
 			}
 
 			key := ch.SiteID + "|" + ch.Lang + "|" + region
@@ -326,8 +326,13 @@ func main() {
 			continue
 		}
 
+		existingLogos := loadExistingLogos(filepath.Join(pluginDir, "channels.json"))
+
 		entries := make([]channelEntry, 0, len(channelMap))
 		for _, e := range channelMap {
+			if e.Logo == "" && e.SiteID != "" {
+				e.Logo = existingLogos[e.SiteID]
+			}
 			entries = append(entries, e)
 		}
 
@@ -381,14 +386,14 @@ func loadLogosFromDB(path string) (map[string]string, error) {
 	idCol, logoCol := -1, -1
 	for i, h := range header {
 		switch h {
-		case "id":
+		case "id", "channel":
 			idCol = i
-		case "logo":
+		case "logo", "url":
 			logoCol = i
 		}
 	}
 	if idCol < 0 || logoCol < 0 {
-		return nil, fmt.Errorf("channels.csv missing 'id' or 'logo' column")
+		return nil, fmt.Errorf("CSV missing channel ID column ('id'/'channel') or logo column ('logo'/'url')")
 	}
 
 	logos := make(map[string]string)
@@ -410,6 +415,34 @@ func loadLogosFromDB(path string) (map[string]string, error) {
 		}
 	}
 	return logos, nil
+}
+
+func lookupLogo(logos map[string]string, xmltvID string) string {
+	if l := logos[xmltvID]; l != "" {
+		return l
+	}
+	if idx := strings.Index(xmltvID, "@"); idx >= 0 {
+		return logos[xmltvID[:idx]]
+	}
+	return ""
+}
+
+func loadExistingLogos(path string) map[string]string {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return nil
+	}
+	var entries []channelEntry
+	if err := json.Unmarshal(data, &entries); err != nil {
+		return nil
+	}
+	m := make(map[string]string, len(entries))
+	for _, e := range entries {
+		if e.Logo != "" {
+			m[e.SiteID] = e.Logo
+		}
+	}
+	return m
 }
 
 func extractRegion(filename string) string {

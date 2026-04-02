@@ -1,12 +1,5 @@
 [
   {
-    "site_id": "1014453176",
-    "name": "REV'N Mountain",
-    "lang": "en",
-    "xmltv_id": "REVN.us@Mountain",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/960px-Rev%27n_logo.jpg"
-  },
-  {
     "site_id": "1722195092",
     "name": "REV'N Central",
     "lang": "en",
@@ -32,6 +25,13 @@
     "name": "REV'N Pacific",
     "lang": "en",
     "xmltv_id": "REVN.us@Pacific",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/960px-Rev%27n_logo.jpg"
+  },
+  {
+    "site_id": "1014453176",
+    "name": "REV'N Mountain",
+    "lang": "en",
+    "xmltv_id": "REVN.us@Mountain",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/960px-Rev%27n_logo.jpg"
   }
 ]

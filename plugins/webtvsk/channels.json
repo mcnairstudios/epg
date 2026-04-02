@@ -1,522 +1,7 @@
 [
   {
-    "site_id": "jim_jam",
-    "name": "JimJam",
-    "lang": "sk"
-  },
-  {
-    "site_id": "joj_svet",
-    "name": "JOJ Svet",
-    "lang": "sk"
-  },
-  {
-    "site_id": "360_tunebox",
-    "name": "360 TuneBox",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ct_1",
-    "name": "ČT1",
-    "lang": "sk"
-  },
-  {
-    "site_id": "filmbox_arthouse",
-    "name": "Filmbox Arthouse",
-    "lang": "sk"
-  },
-  {
-    "site_id": "golf_channel",
-    "name": "Golf Channel",
-    "lang": "sk"
-  },
-  {
-    "site_id": "gttv",
-    "name": "GTTV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "investigation_discovery",
-    "name": "ID",
-    "lang": "sk"
-  },
-  {
-    "site_id": "filmbox",
-    "name": "FilmBox",
-    "lang": "sk"
-  },
-  {
-    "site_id": "food_network",
-    "name": "Food Network",
-    "lang": "sk"
-  },
-  {
-    "site_id": "life_tv",
-    "name": "Life TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "miestna_tv_trebisov",
-    "name": "Miestna TV Trebišov",
-    "lang": "sk"
-  },
-  {
-    "site_id": "polar",
-    "name": "Polar TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "regio_tv",
-    "name": "Régió TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "regionalni_televize",
-    "name": "A11",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ric_tv",
-    "name": "RiK TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "amc",
-    "name": "AMC",
-    "lang": "sk"
-  },
-  {
-    "site_id": "hbo",
-    "name": "HBO",
-    "lang": "sk"
-  },
-  {
-    "site_id": "rik",
-    "name": "Jojko",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ta_3",
-    "name": "TA3",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_pianko",
-    "name": "TV Piánko",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_severka",
-    "name": "TV Kežmarok",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tvp_info",
-    "name": "TVP Info",
-    "lang": "sk"
-  },
-  {
-    "site_id": "cgtn",
-    "name": "CGTN",
-    "lang": "sk"
-  },
-  {
-    "site_id": "cinemax",
-    "name": "Cinemax",
-    "lang": "sk"
-  },
-  {
-    "site_id": "current_time",
-    "name": "Current Time",
-    "lang": "sk"
-  },
-  {
-    "site_id": "disney_channel",
-    "name": "Disney Channel",
-    "lang": "sk"
-  },
-  {
-    "site_id": "france24",
-    "name": "France 24",
-    "lang": "sk"
-  },
-  {
-    "site_id": "markiza",
-    "name": "Markíza",
-    "lang": "sk"
-  },
-  {
-    "site_id": "nova_sport_2_hd",
-    "name": "Nova Sport 2",
-    "lang": "sk"
-  },
-  {
-    "site_id": "rvtv",
-    "name": "RVTV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "fightbox_hd",
-    "name": "FightBox",
-    "lang": "sk"
-  },
-  {
-    "site_id": "love_nature",
-    "name": "Love Nature",
-    "lang": "sk"
-  },
-  {
-    "site_id": "rai_tre",
-    "name": "Rai Tre",
-    "lang": "sk"
-  },
-  {
-    "site_id": "super_yacht_tv",
-    "name": "SuperYacht TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_vega",
-    "name": "Tv Vega",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tvp_world",
-    "name": "TVP World",
-    "lang": "sk"
-  },
-  {
-    "site_id": "up_network",
-    "name": "Kanal1",
-    "lang": "sk"
-  },
-  {
     "site_id": "lingo_toons",
     "name": "Lingo Toons",
-    "lang": "sk"
-  },
-  {
-    "site_id": "moldava_tv",
-    "name": "Moldava TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "prima_love_sk",
-    "name": "Prima Love SK",
-    "lang": "sk"
-  },
-  {
-    "site_id": "infokanal_tango",
-    "name": "Antik Info TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "joj_sport_2",
-    "name": "JOJ Šport 2",
-    "lang": "sk"
-  },
-  {
-    "site_id": "slagr_2",
-    "name": "Šláger Muzika",
-    "lang": "sk"
-  },
-  {
-    "site_id": "stv_3",
-    "name": ":24",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_sen",
-    "name": "TV SEN",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_zemplin",
-    "name": "TV Zemplín",
-    "lang": "sk"
-  },
-  {
-    "site_id": "cgtn_documentary",
-    "name": "CGTN Documentary",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ct_2",
-    "name": "ČT2",
-    "lang": "sk"
-  },
-  {
-    "site_id": "docubox_hd",
-    "name": "DocuBox",
-    "lang": "sk"
-  },
-  {
-    "site_id": "hn_tv",
-    "name": "HN TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "turbo_tv",
-    "name": "Turbo TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "armenia_1_tv",
-    "name": "Armenia 1 TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "barrandov_plus",
-    "name": "Barrandov Krimi",
-    "lang": "sk"
-  },
-  {
-    "site_id": "hbo_3",
-    "name": "HBO 3",
-    "lang": "sk"
-  },
-  {
-    "site_id": "lala_tv",
-    "name": "LALA TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "prima_plus_hd",
-    "name": "Prima SK",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_nitricka",
-    "name": "TV Nitrička",
-    "lang": "sk"
-  },
-  {
-    "site_id": "axn_white",
-    "name": "AXN White",
-    "lang": "sk"
-  },
-  {
-    "site_id": "cetv",
-    "name": "CETV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "coronavirus_info_tv",
-    "name": "HaHa TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "nhk_world_hd",
-    "name": "NHK World Japan",
-    "lang": "sk"
-  },
-  {
-    "site_id": "pohoda_rebel",
-    "name": "Rebel",
-    "lang": "sk"
-  },
-  {
-    "site_id": "eclutch_2",
-    "name": "eClutch 2",
-    "lang": "sk"
-  },
-  {
-    "site_id": "epsreso_tv",
-    "name": "Espreso TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "kitchen",
-    "name": "Kitchen TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "locall",
-    "name": "TV LocAll",
-    "lang": "sk"
-  },
-  {
-    "site_id": "national_geographic_channel_hd",
-    "name": "National Geographic Channel",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ocko",
-    "name": "Óčko",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tanecnesutaze",
-    "name": "Tanečné súťaže",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_8",
-    "name": "TV8",
-    "lang": "sk"
-  },
-  {
-    "site_id": "euronews",
-    "name": "Euronews",
-    "lang": "sk"
-  },
-  {
-    "site_id": "filmbox_extra_hd",
-    "name": "FilmBox Extra",
-    "lang": "sk"
-  },
-  {
-    "site_id": "mistral",
-    "name": "TV Mistral",
-    "lang": "sk"
-  },
-  {
-    "site_id": "nickelodeon",
-    "name": "Nickelodeon",
-    "lang": "sk"
-  },
-  {
-    "site_id": "noe",
-    "name": "NOE",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_ruzinov",
-    "name": "TV Ružinov",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tvp_polonia",
-    "name": "TVP Polonia",
-    "lang": "sk"
-  },
-  {
-    "site_id": "filmbox_family",
-    "name": "FilmBox Family",
-    "lang": "sk"
-  },
-  {
-    "site_id": "filmbox_plus",
-    "name": "FilmBox Stars",
-    "lang": "sk"
-  },
-  {
-    "site_id": "joj_24",
-    "name": "JOJ 24",
-    "lang": "sk"
-  },
-  {
-    "site_id": "joj_cinema_plus_jedna",
-    "name": "JOJ Cinema +1",
-    "lang": "sk"
-  },
-  {
-    "site_id": "kino_barrandov",
-    "name": "Kino Barrandov",
-    "lang": "sk"
-  },
-  {
-    "site_id": "stv_2",
-    "name": "Dvojka",
-    "lang": "sk"
-  },
-  {
-    "site_id": "arena_sport_2",
-    "name": "Arena Sport 2",
-    "lang": "sk"
-  },
-  {
-    "site_id": "disney_junior",
-    "name": "Disney Junior",
-    "lang": "sk"
-  },
-  {
-    "site_id": "history_2",
-    "name": "History 2",
-    "lang": "sk"
-  },
-  {
-    "site_id": "joj_plus",
-    "name": "JOJ Plus",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ocko_black_hd",
-    "name": "Óčko Black",
-    "lang": "sk"
-  },
-  {
-    "site_id": "skvele",
-    "name": "Skvelé TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_romana",
-    "name": "TV Romana",
-    "lang": "sk"
-  },
-  {
-    "site_id": "auto_motor_und_sport",
-    "name": "Auto Motor und Sport",
-    "lang": "sk"
-  },
-  {
-    "site_id": "csr_tv",
-    "name": "ČSRTV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "doma",
-    "name": "Doma",
-    "lang": "sk"
-  },
-  {
-    "site_id": "eurosport_2",
-    "name": "Eurosport 2",
-    "lang": "sk"
-  },
-  {
-    "site_id": "hbo_2",
-    "name": "HBO 2",
-    "lang": "sk"
-  },
-  {
-    "site_id": "seznam_tv",
-    "name": "Seznam.cz TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "sky_news",
-    "name": "Sky News",
-    "lang": "sk"
-  },
-  {
-    "site_id": "padel_time",
-    "name": "Padel Time",
-    "lang": "sk"
-  },
-  {
-    "site_id": "park_tv",
-    "name": "PARK TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "prima_news",
-    "name": "CNN Prima News",
-    "lang": "sk"
-  },
-  {
-    "site_id": "senzi",
-    "name": "Senzi",
-    "lang": "sk"
-  },
-  {
-    "site_id": "sport_1",
-    "name": "Sport 1",
-    "lang": "sk"
-  },
-  {
-    "site_id": "atv_ziar",
-    "name": "ATV Žiar",
     "lang": "sk"
   },
   {
@@ -525,143 +10,8 @@
     "lang": "sk"
   },
   {
-    "site_id": "spektrum",
-    "name": "Spektrum",
-    "lang": "sk"
-  },
-  {
-    "site_id": "al_jazeera",
-    "name": "Al Jazeera",
-    "lang": "sk"
-  },
-  {
-    "site_id": "arena_sport_1",
-    "name": "Arena Sport 1",
-    "lang": "sk"
-  },
-  {
-    "site_id": "crime_investigation",
-    "name": "Crime \u0026 Investigation",
-    "lang": "sk"
-  },
-  {
-    "site_id": "lux",
-    "name": "TV LUX",
-    "lang": "sk"
-  },
-  {
-    "site_id": "markiza_krimi",
-    "name": "Markíza Krimi",
-    "lang": "sk"
-  },
-  {
-    "site_id": "prima_cool_sk",
-    "name": "Prima Cool SK",
-    "lang": "sk"
-  },
-  {
-    "site_id": "slager_premium",
-    "name": "PREMIUM",
-    "lang": "sk"
-  },
-  {
-    "site_id": "trt_world",
-    "name": "TRT World",
-    "lang": "sk"
-  },
-  {
-    "site_id": "folklorika",
-    "name": "Folklorika",
-    "lang": "sk"
-  },
-  {
-    "site_id": "travel_channel_hd",
-    "name": "Travel Channel",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_bratislava",
-    "name": "TV Bratislava",
-    "lang": "sk"
-  },
-  {
-    "site_id": "duck_tv",
-    "name": "Duck TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "eurosport_1",
-    "name": "Eurosport 1",
-    "lang": "sk"
-  },
-  {
-    "site_id": "fashion_tv",
-    "name": "Fashion TV Czech \u0026 Slovak",
-    "lang": "sk"
-  },
-  {
-    "site_id": "mestska_tv_kosice",
-    "name": "Mestská Tv Košice",
-    "lang": "sk"
-  },
-  {
-    "site_id": "national_geographic_wild",
-    "name": "National Geographic Wild",
-    "lang": "sk"
-  },
-  {
-    "site_id": "nick_jr",
-    "name": "Nick Jr",
-    "lang": "sk"
-  },
-  {
-    "site_id": "slagr_tv",
-    "name": "Šláger Originál",
-    "lang": "sk"
-  },
-  {
-    "site_id": "zstv",
-    "name": "Televízia Slovensko",
-    "lang": "sk"
-  },
-  {
-    "site_id": "axn",
-    "name": "AXN",
-    "lang": "sk"
-  },
-  {
-    "site_id": "doktor_tv",
-    "name": "Doktor TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ocko_star",
-    "name": "Óčko Star",
-    "lang": "sk"
-  },
-  {
-    "site_id": "axn_black",
-    "name": "AXN Black",
-    "lang": "sk"
-  },
-  {
-    "site_id": "cinemax_2",
-    "name": "Cinemax 2",
-    "lang": "sk"
-  },
-  {
-    "site_id": "eclutch_1",
-    "name": "eClutch 1",
-    "lang": "sk"
-  },
-  {
-    "site_id": "lang_lab",
-    "name": "LangLab",
-    "lang": "sk"
-  },
-  {
-    "site_id": "markiza_plus_jedna",
-    "name": "Markíza +1",
+    "site_id": "mestska_televizia_trnava",
+    "name": "Mestská Televízia Trnava",
     "lang": "sk"
   },
   {
@@ -670,118 +20,28 @@
     "lang": "sk"
   },
   {
-    "site_id": "tv9",
-    "name": "TV 9",
+    "site_id": "trt_world",
+    "name": "TRT World",
     "lang": "sk"
   },
   {
-    "site_id": "tv_nove_zamky",
-    "name": "TV Nové Zámky",
+    "site_id": "tv_sen",
+    "name": "TV SEN",
     "lang": "sk"
   },
   {
-    "site_id": "arirang_tv",
-    "name": "Arirang TV",
+    "site_id": "armenia_1_tv",
+    "name": "Armenia 1 TV",
     "lang": "sk"
   },
   {
-    "site_id": "joj_cinema",
-    "name": "JOJ Cinema",
+    "site_id": "doma",
+    "name": "Doma",
     "lang": "sk"
   },
   {
-    "site_id": "tv7",
-    "name": "TV7",
-    "lang": "sk"
-  },
-  {
-    "site_id": "barrandov",
-    "name": "Barrandov",
-    "lang": "sk"
-  },
-  {
-    "site_id": "btv",
-    "name": "BTV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "retro_music_television",
-    "name": "Retro Music Television",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tlc",
-    "name": "TLC",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_reduta",
-    "name": "TV Reduta",
-    "lang": "sk"
-  },
-  {
-    "site_id": "stingray_iconcerts",
-    "name": "STINGRAY iConcerts",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_raj",
-    "name": "TV RAJ",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ct_detem_ct_art",
-    "name": "ČT :D - ČT art",
-    "lang": "sk"
-  },
-  {
-    "site_id": "fashionbox_hd",
-    "name": "FashionBox",
-    "lang": "sk"
-  },
-  {
-    "site_id": "mestska_televizia_trnava",
-    "name": "Mestská Televízia Trnava",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ocko_expres",
-    "name": "Óčko Expres",
-    "lang": "sk"
-  },
-  {
-    "site_id": "france_24_english",
-    "name": "France 24 English",
-    "lang": "sk"
-  },
-  {
-    "site_id": "prima_krimi_sk",
-    "name": "Prima Krimi SK",
-    "lang": "sk"
-  },
-  {
-    "site_id": "spektrum_home",
-    "name": "Spektrum Home",
-    "lang": "sk"
-  },
-  {
-    "site_id": "stv_sport",
-    "name": ":Šport",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_paprika",
-    "name": "TV Paprika",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ua_tv",
-    "name": "UA TV",
-    "lang": "sk"
-  },
-  {
-    "site_id": "wau",
-    "name": "WAU",
+    "site_id": "euronews",
+    "name": "Euronews",
     "lang": "sk"
   },
   {
@@ -790,28 +50,143 @@
     "lang": "sk"
   },
   {
-    "site_id": "joj_sport",
-    "name": "JOJ Šport",
+    "site_id": "prima_plus_hd",
+    "name": "Prima SK",
     "lang": "sk"
   },
   {
-    "site_id": "animal_planet",
-    "name": "Animal Planet",
+    "site_id": "regio_tv",
+    "name": "Régió TV",
     "lang": "sk"
   },
   {
-    "site_id": "fast_and_funbox_hd",
-    "name": "Fast and Funbox",
+    "site_id": "tv_pianko",
+    "name": "TV Piánko",
     "lang": "sk"
   },
   {
-    "site_id": "joj",
-    "name": "JOJ",
+    "site_id": "tvp_polonia",
+    "name": "TVP Polonia",
     "lang": "sk"
   },
   {
-    "site_id": "joj_plus_jedna",
-    "name": "JOJ +1",
+    "site_id": "amc",
+    "name": "AMC",
+    "lang": "sk"
+  },
+  {
+    "site_id": "doktor_tv",
+    "name": "Doktor TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "eurosport_2",
+    "name": "Eurosport 2",
+    "lang": "sk"
+  },
+  {
+    "site_id": "nova_sport_2_hd",
+    "name": "Nova Sport 2",
+    "lang": "sk"
+  },
+  {
+    "site_id": "prima_love_sk",
+    "name": "Prima Love SK",
+    "lang": "sk"
+  },
+  {
+    "site_id": "ric_tv",
+    "name": "RiK TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "skvele",
+    "name": "Skvelé TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "gttv",
+    "name": "GTTV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "lux",
+    "name": "TV LUX",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_romana",
+    "name": "TV Romana",
+    "lang": "sk"
+  },
+  {
+    "site_id": "filmbox_arthouse",
+    "name": "Filmbox Arthouse",
+    "lang": "sk"
+  },
+  {
+    "site_id": "folklorika",
+    "name": "Folklorika",
+    "lang": "sk"
+  },
+  {
+    "site_id": "joj_plus",
+    "name": "JOJ Plus",
+    "lang": "sk"
+  },
+  {
+    "site_id": "markiza_krimi",
+    "name": "Markíza Krimi",
+    "lang": "sk"
+  },
+  {
+    "site_id": "ocko",
+    "name": "Óčko",
+    "lang": "sk"
+  },
+  {
+    "site_id": "prima_cool_sk",
+    "name": "Prima Cool SK",
+    "lang": "sk"
+  },
+  {
+    "site_id": "rik",
+    "name": "Jojko",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tanecnesutaze",
+    "name": "Tanečné súťaže",
+    "lang": "sk"
+  },
+  {
+    "site_id": "cgtn_documentary",
+    "name": "CGTN Documentary",
+    "lang": "sk"
+  },
+  {
+    "site_id": "ct_detem_ct_art",
+    "name": "ČT :D - ČT art",
+    "lang": "sk"
+  },
+  {
+    "site_id": "markiza_plus_jedna",
+    "name": "Markíza +1",
+    "lang": "sk"
+  },
+  {
+    "site_id": "nova_international",
+    "name": "Nova International",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tvp_info",
+    "name": "TVP Info",
+    "lang": "sk"
+  },
+  {
+    "site_id": "ct_1",
+    "name": "ČT1",
     "lang": "sk"
   },
   {
@@ -820,18 +195,178 @@
     "lang": "sk"
   },
   {
+    "site_id": "park_tv",
+    "name": "PARK TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "senzi",
+    "name": "Senzi",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_nove_zamky",
+    "name": "TV Nové Zámky",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_panorama",
+    "name": "TV Panoráma",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_reduta",
+    "name": "TV Reduta",
+    "lang": "sk"
+  },
+  {
+    "site_id": "arena_sport_1",
+    "name": "Arena Sport 1",
+    "lang": "sk"
+  },
+  {
+    "site_id": "fast_and_funbox_hd",
+    "name": "Fast and Funbox",
+    "lang": "sk"
+  },
+  {
+    "site_id": "miestna_tv_trebisov",
+    "name": "Miestna TV Trebišov",
+    "lang": "sk"
+  },
+  {
+    "site_id": "moldava_tv",
+    "name": "Moldava TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "ocko_black_hd",
+    "name": "Óčko Black",
+    "lang": "sk"
+  },
+  {
+    "site_id": "retro_music_television",
+    "name": "Retro Music Television",
+    "lang": "sk"
+  },
+  {
+    "site_id": "filmbox",
+    "name": "FilmBox",
+    "lang": "sk"
+  },
+  {
+    "site_id": "france_24_english",
+    "name": "France 24 English",
+    "lang": "sk"
+  },
+  {
+    "site_id": "life_tv",
+    "name": "Life TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "national_geographic_channel_hd",
+    "name": "National Geographic Channel",
+    "lang": "sk"
+  },
+  {
+    "site_id": "pohoda_rebel",
+    "name": "Rebel",
+    "lang": "sk"
+  },
+  {
+    "site_id": "polar",
+    "name": "Polar TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "spektrum_home",
+    "name": "Spektrum Home",
+    "lang": "sk"
+  },
+  {
+    "site_id": "ua_tv",
+    "name": "UA TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "ct_2",
+    "name": "ČT2",
+    "lang": "sk"
+  },
+  {
+    "site_id": "lala_tv",
+    "name": "LALA TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv9",
+    "name": "TV 9",
+    "lang": "sk"
+  },
+  {
+    "site_id": "axn",
+    "name": "AXN",
+    "lang": "sk"
+  },
+  {
+    "site_id": "cetv",
+    "name": "CETV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "fashionbox_hd",
+    "name": "FashionBox",
+    "lang": "sk"
+  },
+  {
+    "site_id": "slager_premium",
+    "name": "PREMIUM",
+    "lang": "sk"
+  },
+  {
+    "site_id": "stv_sport",
+    "name": ":Šport",
+    "lang": "sk"
+  },
+  {
+    "site_id": "cinemax",
+    "name": "Cinemax",
+    "lang": "sk"
+  },
+  {
+    "site_id": "filmbox_extra_hd",
+    "name": "FilmBox Extra",
+    "lang": "sk"
+  },
+  {
+    "site_id": "national_geographic_wild",
+    "name": "National Geographic Wild",
+    "lang": "sk"
+  },
+  {
+    "site_id": "nhk_world_hd",
+    "name": "NHK World Japan",
+    "lang": "sk"
+  },
+  {
     "site_id": "rai_uno",
     "name": "Rai Uno",
     "lang": "sk"
   },
   {
-    "site_id": "tv_povazie",
-    "name": "TV Považie",
+    "site_id": "regionalni_televize",
+    "name": "A11",
     "lang": "sk"
   },
   {
-    "site_id": "tv_vita",
-    "name": "Godzone TV",
+    "site_id": "spektrum",
+    "name": "Spektrum",
+    "lang": "sk"
+  },
+  {
+    "site_id": "disney_channel",
+    "name": "Disney Channel",
     "lang": "sk"
   },
   {
@@ -845,63 +380,13 @@
     "lang": "sk"
   },
   {
-    "site_id": "minimax",
-    "name": "Minimax",
+    "site_id": "slagr_tv",
+    "name": "Šláger Originál",
     "lang": "sk"
   },
   {
-    "site_id": "sport_2",
-    "name": "Sport 2",
-    "lang": "sk"
-  },
-  {
-    "site_id": "al_jazeera_english",
-    "name": "Al Jazeera English",
-    "lang": "sk"
-  },
-  {
-    "site_id": "duck_tv_plus",
-    "name": "Duck TV Plus",
-    "lang": "sk"
-  },
-  {
-    "site_id": "nova_international",
-    "name": "Nova International",
-    "lang": "sk"
-  },
-  {
-    "site_id": "nova_sport_1_hd",
-    "name": "Nova Sport 1",
-    "lang": "sk"
-  },
-  {
-    "site_id": "stv_1",
-    "name": "Jednotka",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_panorama",
-    "name": "TV Panoráma",
-    "lang": "sk"
-  },
-  {
-    "site_id": "tv_poprad",
-    "name": "TV Poprad",
-    "lang": "sk"
-  },
-  {
-    "site_id": "ct_24",
-    "name": "ČT24",
-    "lang": "sk"
-  },
-  {
-    "site_id": "discovery",
-    "name": "Discovery",
-    "lang": "sk"
-  },
-  {
-    "site_id": "english_club_tv",
-    "name": "English Club TV",
+    "site_id": "eclutch_1",
+    "name": "eClutch 1",
     "lang": "sk"
   },
   {
@@ -910,13 +395,218 @@
     "lang": "sk"
   },
   {
+    "site_id": "food_network",
+    "name": "Food Network",
+    "lang": "sk"
+  },
+  {
+    "site_id": "joj_cinema",
+    "name": "JOJ Cinema",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_nitricka",
+    "name": "TV Nitrička",
+    "lang": "sk"
+  },
+  {
+    "site_id": "axn_white",
+    "name": "AXN White",
+    "lang": "sk"
+  },
+  {
+    "site_id": "eclutch_2",
+    "name": "eClutch 2",
+    "lang": "sk"
+  },
+  {
+    "site_id": "noe",
+    "name": "NOE",
+    "lang": "sk"
+  },
+  {
+    "site_id": "stv_1",
+    "name": "Jednotka",
+    "lang": "sk"
+  },
+  {
+    "site_id": "stv_3",
+    "name": ":24",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_severka",
+    "name": "TV Kežmarok",
+    "lang": "sk"
+  },
+  {
+    "site_id": "epsreso_tv",
+    "name": "Espreso TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_zemplin",
+    "name": "TV Zemplín",
+    "lang": "sk"
+  },
+  {
+    "site_id": "infokanal_tango",
+    "name": "Antik Info TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "joj_sport_2",
+    "name": "JOJ Šport 2",
+    "lang": "sk"
+  },
+  {
+    "site_id": "locall",
+    "name": "TV LocAll",
+    "lang": "sk"
+  },
+  {
+    "site_id": "mistral",
+    "name": "TV Mistral",
+    "lang": "sk"
+  },
+  {
+    "site_id": "seznam_tv",
+    "name": "Seznam.cz TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_paprika",
+    "name": "TV Paprika",
+    "lang": "sk"
+  },
+  {
+    "site_id": "auto_motor_und_sport",
+    "name": "Auto Motor und Sport",
+    "lang": "sk"
+  },
+  {
+    "site_id": "disney_junior",
+    "name": "Disney Junior",
+    "lang": "sk"
+  },
+  {
+    "site_id": "nova_sport_1_hd",
+    "name": "Nova Sport 1",
+    "lang": "sk"
+  },
+  {
+    "site_id": "rai_tre",
+    "name": "Rai Tre",
+    "lang": "sk"
+  },
+  {
+    "site_id": "stingray_iconcerts",
+    "name": "STINGRAY iConcerts",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tlc",
+    "name": "TLC",
+    "lang": "sk"
+  },
+  {
+    "site_id": "axn_black",
+    "name": "AXN Black",
+    "lang": "sk"
+  },
+  {
+    "site_id": "english_club_tv",
+    "name": "English Club TV",
+    "lang": "sk"
+  },
+  {
     "site_id": "fishing_and_hunting",
     "name": "Fishing\u0026Hunting",
     "lang": "sk"
   },
   {
-    "site_id": "hgtv",
-    "name": "HGTV",
+    "site_id": "france24",
+    "name": "France 24",
+    "lang": "sk"
+  },
+  {
+    "site_id": "kino_barrandov",
+    "name": "Kino Barrandov",
+    "lang": "sk"
+  },
+  {
+    "site_id": "super_yacht_tv",
+    "name": "SuperYacht TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "turbo_tv",
+    "name": "Turbo TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tvp_world",
+    "name": "TVP World",
+    "lang": "sk"
+  },
+  {
+    "site_id": "btv",
+    "name": "BTV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "duck_tv_plus",
+    "name": "Duck TV Plus",
+    "lang": "sk"
+  },
+  {
+    "site_id": "joj_plus_jedna",
+    "name": "JOJ +1",
+    "lang": "sk"
+  },
+  {
+    "site_id": "love_nature",
+    "name": "Love Nature",
+    "lang": "sk"
+  },
+  {
+    "site_id": "ta_3",
+    "name": "TA3",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_vega",
+    "name": "Tv Vega",
+    "lang": "sk"
+  },
+  {
+    "site_id": "zstv",
+    "name": "Televízia Slovensko",
+    "lang": "sk"
+  },
+  {
+    "site_id": "joj_cinema_plus_jedna",
+    "name": "JOJ Cinema +1",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv7",
+    "name": "TV7",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_ruzinov",
+    "name": "TV Ružinov",
+    "lang": "sk"
+  },
+  {
+    "site_id": "investigation_discovery",
+    "name": "ID",
+    "lang": "sk"
+  },
+  {
+    "site_id": "mestska_tv_kosice",
+    "name": "Mestská Tv Košice",
     "lang": "sk"
   },
   {
@@ -925,8 +615,318 @@
     "lang": "sk"
   },
   {
+    "site_id": "ocko_expres",
+    "name": "Óčko Expres",
+    "lang": "sk"
+  },
+  {
+    "site_id": "ocko_star",
+    "name": "Óčko Star",
+    "lang": "sk"
+  },
+  {
+    "site_id": "sky_news",
+    "name": "Sky News",
+    "lang": "sk"
+  },
+  {
+    "site_id": "csr_tv",
+    "name": "ČSRTV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "barrandov_plus",
+    "name": "Barrandov Krimi",
+    "lang": "sk"
+  },
+  {
+    "site_id": "crime_investigation",
+    "name": "Crime \u0026 Investigation",
+    "lang": "sk"
+  },
+  {
+    "site_id": "current_time",
+    "name": "Current Time",
+    "lang": "sk"
+  },
+  {
+    "site_id": "joj_svet",
+    "name": "JOJ Svet",
+    "lang": "sk"
+  },
+  {
+    "site_id": "lang_lab",
+    "name": "LangLab",
+    "lang": "sk"
+  },
+  {
+    "site_id": "prima_news",
+    "name": "CNN Prima News",
+    "lang": "sk"
+  },
+  {
+    "site_id": "sport_2",
+    "name": "Sport 2",
+    "lang": "sk"
+  },
+  {
+    "site_id": "animal_planet",
+    "name": "Animal Planet",
+    "lang": "sk"
+  },
+  {
+    "site_id": "docubox_hd",
+    "name": "DocuBox",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_raj",
+    "name": "TV RAJ",
+    "lang": "sk"
+  },
+  {
+    "site_id": "al_jazeera",
+    "name": "Al Jazeera",
+    "lang": "sk"
+  },
+  {
+    "site_id": "arirang_tv",
+    "name": "Arirang TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "eurosport_1",
+    "name": "Eurosport 1",
+    "lang": "sk"
+  },
+  {
+    "site_id": "history_2",
+    "name": "History 2",
+    "lang": "sk"
+  },
+  {
+    "site_id": "nickelodeon",
+    "name": "Nickelodeon",
+    "lang": "sk"
+  },
+  {
+    "site_id": "prima_krimi_sk",
+    "name": "Prima Krimi SK",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_bratislava",
+    "name": "TV Bratislava",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_vita",
+    "name": "Godzone TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "ct_24",
+    "name": "ČT24",
+    "lang": "sk"
+  },
+  {
+    "site_id": "kitchen",
+    "name": "Kitchen TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "minimax",
+    "name": "Minimax",
+    "lang": "sk"
+  },
+  {
+    "site_id": "travel_channel_hd",
+    "name": "Travel Channel",
+    "lang": "sk"
+  },
+  {
+    "site_id": "hbo_3",
+    "name": "HBO 3",
+    "lang": "sk"
+  },
+  {
+    "site_id": "hn_tv",
+    "name": "HN TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "slagr_2",
+    "name": "Šláger Muzika",
+    "lang": "sk"
+  },
+  {
+    "site_id": "sport_1",
+    "name": "Sport 1",
+    "lang": "sk"
+  },
+  {
+    "site_id": "up_network",
+    "name": "Kanal1",
+    "lang": "sk"
+  },
+  {
+    "site_id": "al_jazeera_english",
+    "name": "Al Jazeera English",
+    "lang": "sk"
+  },
+  {
+    "site_id": "discovery",
+    "name": "Discovery",
+    "lang": "sk"
+  },
+  {
+    "site_id": "joj_sport",
+    "name": "JOJ Šport",
+    "lang": "sk"
+  },
+  {
+    "site_id": "barrandov",
+    "name": "Barrandov",
+    "lang": "sk"
+  },
+  {
+    "site_id": "fightbox_hd",
+    "name": "FightBox",
+    "lang": "sk"
+  },
+  {
+    "site_id": "hbo_2",
+    "name": "HBO 2",
+    "lang": "sk"
+  },
+  {
+    "site_id": "joj",
+    "name": "JOJ",
+    "lang": "sk"
+  },
+  {
+    "site_id": "nick_jr",
+    "name": "Nick Jr",
+    "lang": "sk"
+  },
+  {
+    "site_id": "stv_2",
+    "name": "Dvojka",
+    "lang": "sk"
+  },
+  {
+    "site_id": "360_tunebox",
+    "name": "360 TuneBox",
+    "lang": "sk"
+  },
+  {
+    "site_id": "arena_sport_2",
+    "name": "Arena Sport 2",
+    "lang": "sk"
+  },
+  {
+    "site_id": "hbo",
+    "name": "HBO",
+    "lang": "sk"
+  },
+  {
+    "site_id": "markiza",
+    "name": "Markíza",
+    "lang": "sk"
+  },
+  {
+    "site_id": "padel_time",
+    "name": "Padel Time",
+    "lang": "sk"
+  },
+  {
+    "site_id": "rvtv",
+    "name": "RVTV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_8",
+    "name": "TV8",
+    "lang": "sk"
+  },
+  {
+    "site_id": "wau",
+    "name": "WAU",
+    "lang": "sk"
+  },
+  {
+    "site_id": "atv_ziar",
+    "name": "ATV Žiar",
+    "lang": "sk"
+  },
+  {
+    "site_id": "cinemax_2",
+    "name": "Cinemax 2",
+    "lang": "sk"
+  },
+  {
+    "site_id": "filmbox_plus",
+    "name": "FilmBox Stars",
+    "lang": "sk"
+  },
+  {
+    "site_id": "golf_channel",
+    "name": "Golf Channel",
+    "lang": "sk"
+  },
+  {
+    "site_id": "jim_jam",
+    "name": "JimJam",
+    "lang": "sk"
+  },
+  {
     "site_id": "pohoda_relax",
     "name": "Relax",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_poprad",
+    "name": "TV Poprad",
+    "lang": "sk"
+  },
+  {
+    "site_id": "tv_povazie",
+    "name": "TV Považie",
+    "lang": "sk"
+  },
+  {
+    "site_id": "cgtn",
+    "name": "CGTN",
+    "lang": "sk"
+  },
+  {
+    "site_id": "coronavirus_info_tv",
+    "name": "HaHa TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "duck_tv",
+    "name": "Duck TV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "fashion_tv",
+    "name": "Fashion TV Czech \u0026 Slovak",
+    "lang": "sk"
+  },
+  {
+    "site_id": "filmbox_family",
+    "name": "FilmBox Family",
+    "lang": "sk"
+  },
+  {
+    "site_id": "hgtv",
+    "name": "HGTV",
+    "lang": "sk"
+  },
+  {
+    "site_id": "joj_24",
+    "name": "JOJ 24",
     "lang": "sk"
   }
 ]
