@@ -32,7 +32,7 @@ func TestRollingGrabberNoStatsTriggersGrab(t *testing.T) {
 
 	s := store.New("")
 	g := grabber.New(s, 1, 1, zerolog.Nop())
-	rg := scheduler.NewRollingGrabber(g, s, 1, zerolog.Nop())
+	rg := scheduler.NewRollingGrabber(g, s, store.NewDisabledStore(""), 1, zerolog.Nop())
 
 	if stats := s.GetGrabStats(); len(stats) != 0 {
 		t.Fatalf("expected no grab stats initially, got %d", len(stats))
@@ -80,7 +80,7 @@ func TestRollingGrabberGrabbedTodaySkipped(t *testing.T) {
 		t.Fatal("expected grab stats to be set before run")
 	}
 
-	rg := scheduler.NewRollingGrabber(g, s, 1, zerolog.Nop())
+	rg := scheduler.NewRollingGrabber(g, s, store.NewDisabledStore(""), 1, zerolog.Nop())
 	rg.Start()
 	time.Sleep(500 * time.Millisecond)
 	rg.Stop()
@@ -95,6 +95,27 @@ func TestRollingGrabberGrabbedTodaySkipped(t *testing.T) {
 
 	if !grabAfter.Equal(grabBefore) {
 		t.Fatalf("expected grab to be skipped for source grabbed today: before=%v after=%v", grabBefore, grabAfter)
+	}
+}
+
+func TestRollingGrabberDisabledSourceSkipped(t *testing.T) {
+	plugin.Reset()
+	plugin.Register(&rollingTestProvider{})
+
+	s := store.New("")
+	g := grabber.New(s, 1, 1, zerolog.Nop())
+	disabled := store.NewDisabledStore("")
+	if err := disabled.Disable("rolling-test"); err != nil {
+		t.Fatalf("failed to disable source: %v", err)
+	}
+
+	rg := scheduler.NewRollingGrabber(g, s, disabled, 1, zerolog.Nop())
+	rg.Start()
+	time.Sleep(500 * time.Millisecond)
+	rg.Stop()
+
+	if stats := s.GetGrabStats(); len(stats) != 0 {
+		t.Fatalf("expected disabled source to be skipped, got %d grab stats", len(stats))
 	}
 }
 
@@ -132,7 +153,7 @@ func TestRollingGrabberGrabbedYesterdayRescheduled(t *testing.T) {
 		t.Fatal("expected grab stats to be pre-set")
 	}
 
-	rg := scheduler.NewRollingGrabber(g, s, 1, zerolog.Nop())
+	rg := scheduler.NewRollingGrabber(g, s, store.NewDisabledStore(""), 1, zerolog.Nop())
 	rg.Start()
 	time.Sleep(500 * time.Millisecond)
 	rg.Stop()

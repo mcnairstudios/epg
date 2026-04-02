@@ -337,7 +337,7 @@ func main() {
 
 	var rg *scheduler.RollingGrabber
 	if *rolling {
-		rg = scheduler.NewRollingGrabber(g, s, *rollingParallel, logger)
+		rg = scheduler.NewRollingGrabber(g, s, disabled, *rollingParallel, logger)
 		rg.Start()
 	}
 

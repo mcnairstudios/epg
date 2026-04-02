@@ -17,6 +17,7 @@ const refreshThreshold = 20 * time.Hour
 type RollingGrabber struct {
 	grabber     *grabber.Grabber
 	store       *store.Store
+	disabled    *store.DisabledStore
 	mu          sync.Mutex
 	running     bool
 	stopCh      chan struct{}
@@ -27,13 +28,14 @@ type RollingGrabber struct {
 	log         zerolog.Logger
 }
 
-func NewRollingGrabber(g *grabber.Grabber, s *store.Store, maxParallel int, logger zerolog.Logger) *RollingGrabber {
+func NewRollingGrabber(g *grabber.Grabber, s *store.Store, disabled *store.DisabledStore, maxParallel int, logger zerolog.Logger) *RollingGrabber {
 	if maxParallel < 1 {
 		maxParallel = 2
 	}
 	return &RollingGrabber{
 		grabber:     g,
 		store:       s,
+		disabled:    disabled,
 		maxParallel: maxParallel,
 		log:         logger,
 	}
@@ -91,6 +93,8 @@ func (r *RollingGrabber) loop() {
 }
 
 func (r *RollingGrabber) checkAndGrab(ctx context.Context) {
+	disabled := r.disabled.List()
+
 	grabStats := make(map[string]time.Time)
 	for _, gs := range r.store.GetGrabStats() {
 		grabStats[gs.Source] = gs.LastGrab
@@ -101,6 +105,9 @@ func (r *RollingGrabber) checkAndGrab(ctx context.Context) {
 
 	for _, p := range plugin.List() {
 		name := p.Name()
+		if disabled[name] {
+			continue
+		}
 
 		tz := plugin.Timezone(p)
 		loc, err := time.LoadLocation(tz)
