@@ -14,7 +14,9 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/api"
 	"github.com/gavinmcnair/epg/internal/auth"
+	"github.com/gavinmcnair/epg/internal/bandwidth"
 	"github.com/gavinmcnair/epg/internal/grabber"
+	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/logocache"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"github.com/gavinmcnair/epg/internal/scheduler"
@@ -311,12 +313,15 @@ func main() {
 		}
 	}
 
+	bw := bandwidth.New()
+	httpclient.SetTracker(bw)
+
 	g := grabber.New(s, *maxConn, *days)
 
 	logos := logocache.New(filepath.Join(*dataDir, "logos"))
 	logos.Index(s.GetChannels())
 
-	srv := api.NewServer(s, g, ext, users, disabled, logos)
+	srv := api.NewServer(s, g, ext, users, disabled, logos, bw)
 
 	var sched *scheduler.Scheduler
 	if *schedule != "" {

@@ -72,7 +72,7 @@ func setupTestServer() (*api.Server, *store.Store, string) {
 	sessionToken := users.CreateSession(admin.ID)
 
 	disabled := store.NewDisabledStore("")
-	srv := api.NewServer(s, g, ext, users, disabled, logocache.New(""))
+	srv := api.NewServer(s, g, ext, users, disabled, logocache.New(""), nil)
 	return srv, s, sessionToken
 }
 
@@ -198,7 +198,7 @@ func TestReadAPIWithBearerToken(t *testing.T) {
 	// Token auth should work for read-only endpoints
 	users := auth.NewUserStore("")
 	apiUser, _ := users.Create("apiuser", "viewer")
-	srvToken := api.NewServer(store.New(""), grabber.New(store.New(""), 1, 1), source.NewExternalSourceManager(""), users, store.NewDisabledStore(""), logocache.New(""))
+	srvToken := api.NewServer(store.New(""), grabber.New(store.New(""), 1, 1), source.NewExternalSourceManager(""), users, store.NewDisabledStore(""), logocache.New(""), nil)
 
 	req := httptest.NewRequest(http.MethodGet, "/api/v1/sources", nil)
 	req.Header.Set("Authorization", "Bearer "+apiUser.Token)

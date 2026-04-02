@@ -6,8 +6,6 @@ import (
 	"time"
 )
 
-var Global = New()
-
 type sample struct {
 	t time.Time
 	n int64
@@ -38,11 +36,18 @@ func (t *Tracker) Add(n int64) {
 func (t *Tracker) Rate() float64 {
 	t.mu.Lock()
 	defer t.mu.Unlock()
+	if len(t.samples) == 0 {
+		return 0
+	}
 	var sum int64
 	for _, s := range t.samples {
 		sum += s.n
 	}
-	return float64(sum) / 5.0
+	window := time.Since(t.samples[0].t).Seconds()
+	if window <= 0 {
+		return 0
+	}
+	return float64(sum) / window
 }
 
 func (t *Tracker) Total() int64 {

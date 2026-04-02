@@ -14,6 +14,12 @@ import (
 	"github.com/gavinmcnair/epg/internal/bandwidth"
 )
 
+var tracker *bandwidth.Tracker
+
+func SetTracker(t *bandwidth.Tracker) {
+	tracker = t
+}
+
 var (
 	once         sync.Once
 	instance     *http.Client
@@ -98,8 +104,8 @@ type countingReadCloser struct {
 
 func (c *countingReadCloser) Read(p []byte) (n int, err error) {
 	n, err = c.ReadCloser.Read(p)
-	if n > 0 {
-		bandwidth.Global.Add(int64(n))
+	if n > 0 && tracker != nil {
+		tracker.Add(int64(n))
 	}
 	return
 }

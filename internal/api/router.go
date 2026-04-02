@@ -7,6 +7,7 @@ import (
 	"github.com/go-chi/chi/v5/middleware"
 
 	"github.com/gavinmcnair/epg/internal/auth"
+	"github.com/gavinmcnair/epg/internal/bandwidth"
 	"github.com/gavinmcnair/epg/internal/grabber"
 	"github.com/gavinmcnair/epg/internal/logocache"
 	"github.com/gavinmcnair/epg/internal/source"
@@ -21,10 +22,11 @@ type Server struct {
 	users           *auth.UserStore
 	disabled        *store.DisabledStore
 	logoCache       *logocache.Cache
+	bandwidth       *bandwidth.Tracker
 	router          chi.Router
 }
 
-func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, disabled *store.DisabledStore, logos *logocache.Cache) *Server {
+func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, disabled *store.DisabledStore, logos *logocache.Cache, bw *bandwidth.Tracker) *Server {
 	srv := &Server{
 		store:           s,
 		grabber:         g,
@@ -32,6 +34,7 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		users:           users,
 		disabled:        disabled,
 		logoCache:       logos,
+		bandwidth:       bw,
 		router:          chi.NewRouter(),
 	}
 
