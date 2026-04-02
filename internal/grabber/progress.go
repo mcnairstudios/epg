@@ -17,6 +17,7 @@ type ProgressTracker struct {
 	mu      sync.Mutex
 	sources map[string]*SourceProgress
 	done    chan struct{}
+	once    sync.Once
 }
 
 func NewProgressTracker() *ProgressTracker {
@@ -27,7 +28,7 @@ func NewProgressTracker() *ProgressTracker {
 }
 
 func (t *ProgressTracker) Close() {
-	close(t.done)
+	t.once.Do(func() { close(t.done) })
 }
 
 func (t *ProgressTracker) Start(source string, total int) {
