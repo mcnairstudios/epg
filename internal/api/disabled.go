@@ -14,8 +14,7 @@ func (s *Server) listDisabled(w http.ResponseWriter, r *http.Request) {
 
 func (s *Server) disableSource(w http.ResponseWriter, r *http.Request) {
 	name, _ := url.PathUnescape(chi.URLParam(r, "name"))
-	s.disabled.Disable(name)
-	if err := s.disabled.Save(); err != nil {
+	if err := s.disabled.Disable(name); err != nil {
 		jsonError(w, "failed to persist", http.StatusInternalServerError)
 		return
 	}
@@ -24,8 +23,7 @@ func (s *Server) disableSource(w http.ResponseWriter, r *http.Request) {
 
 func (s *Server) enableSource(w http.ResponseWriter, r *http.Request) {
 	name, _ := url.PathUnescape(chi.URLParam(r, "name"))
-	s.disabled.Enable(name)
-	if err := s.disabled.Save(); err != nil {
+	if err := s.disabled.Enable(name); err != nil {
 		jsonError(w, "failed to persist", http.StatusInternalServerError)
 		return
 	}

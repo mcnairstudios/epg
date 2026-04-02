@@ -20,16 +20,18 @@ func NewDisabledStore(path string) *DisabledStore {
 	}
 }
 
-func (s *DisabledStore) Disable(name string) {
+func (s *DisabledStore) Disable(name string) error {
 	s.mu.Lock()
-	defer s.mu.Unlock()
 	s.disabled[name] = true
+	s.mu.Unlock()
+	return s.Save()
 }
 
-func (s *DisabledStore) Enable(name string) {
+func (s *DisabledStore) Enable(name string) error {
 	s.mu.Lock()
-	defer s.mu.Unlock()
 	delete(s.disabled, name)
+	s.mu.Unlock()
+	return s.Save()
 }
 
 func (s *DisabledStore) IsDisabled(name string) bool {
