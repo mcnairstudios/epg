@@ -2,10 +2,10 @@ package scheduler
 
 import (
 	"context"
-	"log"
 	"sync"
 
 	"github.com/robfig/cron/v3"
+	"github.com/rs/zerolog"
 
 	"github.com/gavinmcnair/epg/internal/grabber"
 	"github.com/gavinmcnair/epg/internal/store"
@@ -21,9 +21,10 @@ type Scheduler struct {
 	entryID  cron.EntryID
 	ctx      context.Context
 	cancel   context.CancelFunc
+	log      zerolog.Logger
 }
 
-func New(g *grabber.Grabber, s *store.Store, disabled *store.DisabledStore) *Scheduler {
+func New(g *grabber.Grabber, s *store.Store, disabled *store.DisabledStore, logger zerolog.Logger) *Scheduler {
 	ctx, cancel := context.WithCancel(context.Background())
 	return &Scheduler{
 		cron:     cron.New(),
@@ -32,6 +33,7 @@ func New(g *grabber.Grabber, s *store.Store, disabled *store.DisabledStore) *Sch
 		disabled: disabled,
 		ctx:      ctx,
 		cancel:   cancel,
+		log:      logger,
 	}
 }
 
@@ -53,7 +55,7 @@ func (s *Scheduler) Start(schedule string) error {
 	s.entryID = id
 	s.running = true
 	s.cron.Start()
-	log.Printf("scheduler started with schedule: %s", schedule)
+	s.log.Info().Str("schedule", schedule).Msg("scheduler started")
 	return nil
 }
 
@@ -65,7 +67,7 @@ func (s *Scheduler) Stop() {
 		s.cancel()
 		<-s.cron.Stop().Done()
 		s.running = false
-		log.Println("scheduler stopped")
+		s.log.Info().Msg("scheduler stopped")
 	}
 }
 
@@ -76,7 +78,7 @@ func (s *Scheduler) IsRunning() bool {
 }
 
 func (s *Scheduler) runGrabAll() {
-	log.Println("scheduled grab starting...")
+	s.log.Info().Msg("scheduled grab starting")
 	results := s.grabber.GrabAll(s.ctx, s.disabled.List())
 
 	total := 0
@@ -89,8 +91,8 @@ func (s *Scheduler) runGrabAll() {
 	}
 
 	if err := s.store.Save(); err != nil {
-		log.Printf("scheduled grab: failed to save: %v", err)
+		s.log.Error().Err(err).Msg("scheduled grab: failed to save")
 	}
 
-	log.Printf("scheduled grab complete: %d programs, %d errors", total, errors)
+	s.log.Info().Int("programs", total).Int("errors", errors).Msg("scheduled grab complete")
 }

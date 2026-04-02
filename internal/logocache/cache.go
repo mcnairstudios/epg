@@ -3,13 +3,14 @@ package logocache
 import (
 	"bytes"
 	"io"
-	"log"
 	"net/http"
 	"os"
 	"path/filepath"
 	"strings"
 	"sync"
 	"time"
+
+	"github.com/rs/zerolog"
 
 	"github.com/gavinmcnair/epg/internal/domain"
 )
@@ -22,12 +23,13 @@ type cached struct {
 type Cache struct {
 	dir    string
 	mu     sync.RWMutex
-	index  map[string]string // safeBase -> source URL
-	files  map[string]cached // safeBase -> cached entry
+	index  map[string]string
+	files  map[string]cached
 	client *http.Client
+	log    zerolog.Logger
 }
 
-func New(dir string) *Cache {
+func New(dir string, logger zerolog.Logger) *Cache {
 	c := &Cache{
 		dir:    dir,
 		index:  make(map[string]string),
@@ -35,6 +37,7 @@ func New(dir string) *Cache {
 		client: &http.Client{
 			Timeout: 30 * time.Second,
 		},
+		log: logger,
 	}
 	if dir != "" {
 		os.MkdirAll(dir, 0755)
@@ -59,7 +62,7 @@ func (c *Cache) scanDir() {
 		key := strings.TrimSuffix(name, ext)
 		c.files[key] = cached{filename: name, contentType: contentTypeForExt(ext)}
 	}
-	log.Printf("logo cache: found %d cached logos in %s", len(c.files), c.dir)
+	c.log.Info().Int("count", len(c.files)).Str("dir", c.dir).Msg("logo cache: scanned")
 }
 
 func (c *Cache) Index(channels []domain.Channel) {
@@ -108,7 +111,7 @@ func (c *Cache) Serve(w http.ResponseWriter, r *http.Request, xmltvID string) {
 
 	data, contentType, ext, err := c.fetch(sourceURL)
 	if err != nil {
-		log.Printf("logo cache: fetch failed for %s (%s): %v", key, sourceURL, err)
+		c.log.Error().Err(err).Str("key", key).Str("url", sourceURL).Msg("logo cache: fetch failed")
 		http.NotFound(w, r)
 		return
 	}
@@ -117,7 +120,7 @@ func (c *Cache) Serve(w http.ResponseWriter, r *http.Request, xmltvID string) {
 	if c.dir != "" {
 		dest := filepath.Join(c.dir, filename)
 		if writeErr := os.WriteFile(dest, data, 0644); writeErr != nil {
-			log.Printf("logo cache: write failed for %s: %v", dest, writeErr)
+			c.log.Error().Err(writeErr).Str("dest", dest).Msg("logo cache: write failed")
 		} else {
 			c.mu.Lock()
 			c.files[key] = cached{filename: filename, contentType: contentType}

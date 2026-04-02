@@ -2,9 +2,11 @@ package api
 
 import (
 	"net/http"
+	"time"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
+	"github.com/rs/zerolog"
 
 	"github.com/gavinmcnair/epg/internal/auth"
 	"github.com/gavinmcnair/epg/internal/bandwidth"
@@ -23,10 +25,11 @@ type Server struct {
 	disabled        *store.DisabledStore
 	logoCache       *logocache.Cache
 	bandwidth       *bandwidth.Tracker
+	log             zerolog.Logger
 	router          chi.Router
 }
 
-func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, disabled *store.DisabledStore, logos *logocache.Cache, bw *bandwidth.Tracker) *Server {
+func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, disabled *store.DisabledStore, logos *logocache.Cache, logger zerolog.Logger, bw *bandwidth.Tracker) *Server {
 	srv := &Server{
 		store:           s,
 		grabber:         g,
@@ -34,11 +37,12 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		users:           users,
 		disabled:        disabled,
 		logoCache:       logos,
+		log:             logger,
 		bandwidth:       bw,
 		router:          chi.NewRouter(),
 	}
 
-	srv.router.Use(middleware.Logger)
+	srv.router.Use(requestLogger(logger))
 	srv.router.Use(middleware.Recoverer)
 
 	srv.router.Get("/health", func(w http.ResponseWriter, r *http.Request) {
@@ -109,6 +113,22 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 	})
 
 	return srv
+}
+
+func requestLogger(log zerolog.Logger) func(http.Handler) http.Handler {
+	return func(next http.Handler) http.Handler {
+		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+			ww := middleware.NewWrapResponseWriter(w, r.ProtoMajor)
+			start := time.Now()
+			next.ServeHTTP(ww, r)
+			log.Info().
+				Str("method", r.Method).
+				Str("path", r.URL.Path).
+				Int("status", ww.Status()).
+				Dur("duration", time.Since(start)).
+				Msg("request")
+		})
+	}
 }
 
 func (s *Server) ServeHTTP(w http.ResponseWriter, r *http.Request) {

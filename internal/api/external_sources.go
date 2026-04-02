@@ -2,7 +2,6 @@ package api
 
 import (
 	"encoding/json"
-	"log"
 	"net/http"
 	"time"
 
@@ -87,10 +86,8 @@ func (s *Server) grabExternalSource(w http.ResponseWriter, r *http.Request) {
 	duration := time.Since(start)
 
 	if err != nil {
-		log.Printf("external grab %s failed: %v", name, err)
-		w.Header().Set("Content-Type", "application/json")
-		w.WriteHeader(http.StatusBadRequest)
-		json.NewEncoder(w).Encode(map[string]string{"error": err.Error()})
+		s.log.Error().Err(err).Str("source", name).Msg("external grab failed")
+		jsonError(w, err.Error(), http.StatusBadRequest)
 		return
 	}
 

@@ -3,7 +3,6 @@ package main
 import (
 	"context"
 	"flag"
-	"log"
 	"net/http"
 	"os"
 	"os/signal"
@@ -11,6 +10,8 @@ import (
 	"sync"
 	"syscall"
 	"time"
+
+	"github.com/rs/zerolog"
 
 	"github.com/gavinmcnair/epg/internal/api"
 	"github.com/gavinmcnair/epg/internal/auth"
@@ -268,72 +269,75 @@ func main() {
 	rollingParallel := flag.Int("rolling-parallel", 2, "max parallel grabs for rolling grabber")
 	flag.Parse()
 
+	logger := zerolog.New(os.Stdout).With().Timestamp().Logger()
+
 	s := store.New(filepath.Join(*dataDir, "providers"))
 	if err := s.Load(); err != nil {
-		log.Printf("warning: failed to load data: %v", err)
+		logger.Warn().Err(err).Msg("failed to load data")
 	}
 
-	for _, p := range plugin.List() {
+	plugins := plugin.List()
+	for _, p := range plugins {
 		channels, err := p.Channels()
 		if err != nil {
-			log.Printf("warning: failed to load channels for %s: %v", p.Name(), err)
+			logger.Warn().Err(err).Str("plugin", p.Name()).Msg("failed to load channels")
 			continue
 		}
 		s.SetChannels(channels)
 	}
-	log.Printf("loaded channels from %d plugins", len(plugin.List()))
+	logger.Info().Int("plugins", len(plugins)).Msg("loaded channels from plugins")
 
 	ext := source.NewExternalSourceManager(filepath.Join(*dataDir, "sources.gob"))
 	if err := ext.Load(); err != nil {
-		log.Printf("warning: failed to load external sources: %v", err)
+		logger.Warn().Err(err).Msg("failed to load external sources")
 	}
 
 	if added := seed.SeedExternalSources(ext); added > 0 {
-		log.Printf("seeded %d external sources", added)
+		logger.Info().Int("count", added).Msg("seeded external sources")
 	}
 
 	disabled := store.NewDisabledStore(filepath.Join(*dataDir, "disabled.gob"))
 	if err := disabled.Load(); err != nil {
-		log.Printf("warning: failed to load disabled sources: %v", err)
+		logger.Warn().Err(err).Msg("failed to load disabled sources")
 	}
 
 	users := auth.NewUserStore(filepath.Join(*dataDir, "users.gob"))
 	if err := users.Load(); err != nil {
-		log.Printf("warning: failed to load users: %v", err)
+		logger.Warn().Err(err).Msg("failed to load users")
 	}
 
 	if !users.HasAdminWithPassword() {
 		if err := users.EnsureAdmin("admin", "admin"); err != nil {
-			log.Printf("warning: failed to create admin user: %v", err)
+			logger.Warn().Err(err).Msg("failed to create admin user")
 		} else {
 			if err := users.Save(); err != nil {
-				log.Printf("warning: failed to save admin user: %v", err)
+				logger.Warn().Err(err).Msg("failed to save admin user")
 			}
-			log.Printf("default admin credentials: admin / admin")
+			logger.Info().Msg("default admin credentials: admin / admin")
 		}
 	}
 
 	bw := bandwidth.New()
 	httpclient.SetTracker(bw)
 
-	g := grabber.New(s, *maxConn, *days)
+	g := grabber.New(s, *maxConn, *days, logger)
 
-	logos := logocache.New(filepath.Join(*dataDir, "logos"))
+	logos := logocache.New(filepath.Join(*dataDir, "logos"), logger)
 	logos.Index(s.GetChannels())
 
-	srv := api.NewServer(s, g, ext, users, disabled, logos, bw)
+	srv := api.NewServer(s, g, ext, users, disabled, logos, logger, bw)
 
 	var sched *scheduler.Scheduler
 	if *schedule != "" {
-		sched = scheduler.New(g, s, disabled)
+		sched = scheduler.New(g, s, disabled, logger)
 		if err := sched.Start(*schedule); err != nil {
-			log.Fatalf("failed to start scheduler: %v", err)
+			logger.Fatal().Err(err).Msg("failed to start scheduler")
 		}
 	}
 
 	var rg *scheduler.RollingGrabber
 	if *rolling {
-		rg = scheduler.NewRollingGrabber(g, s, *rollingParallel)
+		rg = scheduler.NewRollingGrabber(g, s, *rollingParallel, logger)
 		rg.Start()
 	}
 
@@ -346,15 +350,15 @@ func main() {
 	signal.Notify(sigCh, syscall.SIGINT, syscall.SIGTERM)
 	go func() {
 		<-sigCh
-		log.Println("signal received, shutting down...")
+		logger.Info().Msg("signal received, shutting down")
 		shutdownCtx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 		defer cancel()
 		server.Shutdown(shutdownCtx)
 	}()
 
-	log.Printf("starting EPG server on %s", *addr)
+	logger.Info().Str("addr", *addr).Msg("starting EPG server")
 	if err := server.ListenAndServe(); err != nil && err != http.ErrServerClosed {
-		log.Fatal(err)
+		logger.Fatal().Err(err).Msg("server error")
 	}
 
 	var drainWg sync.WaitGroup
@@ -370,16 +374,16 @@ func main() {
 
 	s.Close()
 
-	log.Println("saving data...")
+	logger.Info().Msg("saving data")
 	s.Save()
 	if err := ext.Save(); err != nil {
-		log.Printf("warning: failed to save external sources: %v", err)
+		logger.Warn().Err(err).Msg("failed to save external sources")
 	}
 	if err := users.Save(); err != nil {
-		log.Printf("warning: failed to save users: %v", err)
+		logger.Warn().Err(err).Msg("failed to save users")
 	}
 	if err := disabled.Save(); err != nil {
-		log.Printf("warning: failed to save disabled sources: %v", err)
+		logger.Warn().Err(err).Msg("failed to save disabled sources")
 	}
-	log.Println("shutdown complete")
+	logger.Info().Msg("shutdown complete")
 }

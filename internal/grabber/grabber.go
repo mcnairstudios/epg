@@ -3,9 +3,10 @@ package grabber
 import (
 	"context"
 	"fmt"
-	"log"
 	"sync"
 	"time"
+
+	"github.com/rs/zerolog"
 
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/plugin"
@@ -19,9 +20,10 @@ type Grabber struct {
 	progress       *ProgressTracker
 	grabbingMu     sync.Mutex
 	grabbing       map[string]bool
+	log            zerolog.Logger
 }
 
-func New(s *store.Store, maxConnections, days int) *Grabber {
+func New(s *store.Store, maxConnections, days int, logger zerolog.Logger) *Grabber {
 	if maxConnections < 1 {
 		maxConnections = 1
 	}
@@ -34,6 +36,7 @@ func New(s *store.Store, maxConnections, days int) *Grabber {
 		days:           days,
 		progress:       NewProgressTracker(),
 		grabbing:       make(map[string]bool),
+		log:            logger,
 	}
 }
 
@@ -206,7 +209,7 @@ func (g *Grabber) grabChannels(ctx context.Context, p plugin.Provider, channels 
 			}
 
 			if err != nil {
-				log.Printf("[%s] fetch error ch=%s date=%s: %v", p.Name(), j.channel.ID, j.date.Format("2006-01-02"), err)
+				g.log.Error().Err(err).Str("source", p.Name()).Str("channel", j.channel.ID).Str("date", j.date.Format("2006-01-02")).Msg("fetch error")
 			} else if len(programs) > 0 {
 				results[idx].Count = len(programs)
 				g.store.SetPrograms(j.channel.ID, programs)

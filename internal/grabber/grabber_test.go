@@ -5,6 +5,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/rs/zerolog"
+
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/grabber"
 	"github.com/gavinmcnair/epg/internal/plugin"
@@ -45,7 +47,7 @@ func TestGrabSource(t *testing.T) {
 	plugin.Register(fp)
 
 	s := store.New("")
-	g := grabber.New(s, 1, 1)
+	g := grabber.New(s, 1, 1, zerolog.Nop())
 
 	results, err := g.GrabSource(context.Background(), "test-source")
 	if err != nil {
@@ -77,7 +79,7 @@ func TestGrabSourceUnknown(t *testing.T) {
 	plugin.Reset()
 
 	s := store.New("")
-	g := grabber.New(s, 1, 1)
+	g := grabber.New(s, 1, 1, zerolog.Nop())
 
 	_, err := g.GrabSource(context.Background(), "nonexistent")
 	if err == nil {
@@ -100,7 +102,7 @@ func TestGrabSourceDedup(t *testing.T) {
 	plugin.Register(fp)
 
 	s := store.New("")
-	g := grabber.New(s, 1, 1)
+	g := grabber.New(s, 1, 1, zerolog.Nop())
 
 	if g.IsGrabbing("dedup-source") {
 		t.Fatal("should not be grabbing initially")
@@ -144,7 +146,7 @@ func TestGrabAll(t *testing.T) {
 	})
 
 	s := store.New("")
-	g := grabber.New(s, 2, 1)
+	g := grabber.New(s, 2, 1, zerolog.Nop())
 
 	results := g.GrabAll(context.Background(), nil)
 	if len(results) != 2 {
@@ -169,7 +171,7 @@ func TestGrabConcurrency(t *testing.T) {
 	plugin.Register(fp)
 
 	s := store.New("")
-	g := grabber.New(s, 3, 2)
+	g := grabber.New(s, 3, 2, zerolog.Nop())
 
 	results, err := g.GrabSource(context.Background(), "concurrent-test")
 	if err != nil {

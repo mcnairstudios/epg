@@ -4,6 +4,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/rs/zerolog"
+
 	"github.com/gavinmcnair/epg/internal/domain"
 	"github.com/gavinmcnair/epg/internal/grabber"
 	"github.com/gavinmcnair/epg/internal/plugin"
@@ -27,8 +29,8 @@ func TestSchedulerStartStop(t *testing.T) {
 	plugin.Register(&fakeProvider{})
 
 	s := store.New("")
-	g := grabber.New(s, 1, 1)
-	sched := scheduler.New(g, s, store.NewDisabledStore(""))
+	g := grabber.New(s, 1, 1, zerolog.Nop())
+	sched := scheduler.New(g, s, store.NewDisabledStore(""), zerolog.Nop())
 
 	if sched.IsRunning() {
 		t.Fatal("scheduler should not be running initially")
@@ -53,8 +55,8 @@ func TestSchedulerInvalidCron(t *testing.T) {
 	plugin.Reset()
 
 	s := store.New("")
-	g := grabber.New(s, 1, 1)
-	sched := scheduler.New(g, s, store.NewDisabledStore(""))
+	g := grabber.New(s, 1, 1, zerolog.Nop())
+	sched := scheduler.New(g, s, store.NewDisabledStore(""), zerolog.Nop())
 
 	if err := sched.Start("invalid cron expression"); err == nil {
 		t.Fatal("expected error on invalid cron expression")

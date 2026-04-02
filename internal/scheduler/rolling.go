@@ -2,9 +2,10 @@ package scheduler
 
 import (
 	"context"
-	"log"
 	"sync"
 	"time"
+
+	"github.com/rs/zerolog"
 
 	"github.com/gavinmcnair/epg/internal/grabber"
 	"github.com/gavinmcnair/epg/internal/plugin"
@@ -23,9 +24,10 @@ type RollingGrabber struct {
 	maxParallel int
 	ctx         context.Context
 	cancel      context.CancelFunc
+	log         zerolog.Logger
 }
 
-func NewRollingGrabber(g *grabber.Grabber, s *store.Store, maxParallel int) *RollingGrabber {
+func NewRollingGrabber(g *grabber.Grabber, s *store.Store, maxParallel int, logger zerolog.Logger) *RollingGrabber {
 	if maxParallel < 1 {
 		maxParallel = 2
 	}
@@ -36,6 +38,7 @@ func NewRollingGrabber(g *grabber.Grabber, s *store.Store, maxParallel int) *Rol
 		maxParallel: maxParallel,
 		ctx:         ctx,
 		cancel:      cancel,
+		log:         logger,
 	}
 }
 
@@ -51,7 +54,7 @@ func (r *RollingGrabber) Start() {
 	r.mu.Unlock()
 
 	go r.loop()
-	log.Println("rolling grabber started")
+	r.log.Info().Msg("rolling grabber started")
 }
 
 func (r *RollingGrabber) Stop() {
@@ -67,7 +70,7 @@ func (r *RollingGrabber) Stop() {
 	r.mu.Unlock()
 
 	<-doneCh
-	log.Println("rolling grabber stopped")
+	r.log.Info().Msg("rolling grabber stopped")
 }
 
 func (r *RollingGrabber) loop() {
@@ -118,7 +121,7 @@ func (r *RollingGrabber) checkAndGrab(ctx context.Context) {
 		return
 	}
 
-	log.Printf("rolling grab: %d sources due", len(toGrab))
+	r.log.Info().Int("count", len(toGrab)).Msg("rolling grab: sources due")
 
 	sem := make(chan struct{}, r.maxParallel)
 	var wg sync.WaitGroup
@@ -138,17 +141,17 @@ func (r *RollingGrabber) checkAndGrab(ctx context.Context) {
 				return
 			}
 
-			log.Printf("rolling grab: starting %s", source)
+			r.log.Info().Str("source", source).Msg("rolling grab starting")
 			results, err := r.grabber.GrabSource(ctx, source)
 			if err != nil {
-				log.Printf("rolling grab: %s failed: %v", source, err)
+				r.log.Error().Err(err).Str("source", source).Msg("rolling grab failed")
 				return
 			}
 
 			summary := grabber.Summarize(results)
 			r.store.RecordGrabStats(source, summary.TotalChannels, summary.ChannelsWithData, summary.Programs, summary.Errors, 0)
 			r.store.SaveSource(source)
-			log.Printf("rolling grab: %s done (%d programs, %d errors)", source, summary.Programs, summary.Errors)
+			r.log.Info().Str("source", source).Int("programs", summary.Programs).Int("errors", summary.Errors).Msg("rolling grab done")
 		}(name)
 	}
 
