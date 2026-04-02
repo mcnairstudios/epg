@@ -31,13 +31,10 @@ func NewRollingGrabber(g *grabber.Grabber, s *store.Store, maxParallel int, logg
 	if maxParallel < 1 {
 		maxParallel = 2
 	}
-	ctx, cancel := context.WithCancel(context.Background())
 	return &RollingGrabber{
 		grabber:     g,
 		store:       s,
 		maxParallel: maxParallel,
-		ctx:         ctx,
-		cancel:      cancel,
 		log:         logger,
 	}
 }
@@ -48,6 +45,9 @@ func (r *RollingGrabber) Start() {
 		r.mu.Unlock()
 		return
 	}
+	ctx, cancel := context.WithCancel(context.Background())
+	r.ctx = ctx
+	r.cancel = cancel
 	r.running = true
 	r.stopCh = make(chan struct{})
 	r.doneCh = make(chan struct{})
