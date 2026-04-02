@@ -198,11 +198,15 @@ func (s *UserStore) CreateSession(userID string) string {
 }
 
 func (s *UserStore) ValidateSession(token string) (User, bool) {
-	s.mu.RLock()
-	defer s.mu.RUnlock()
+	s.mu.Lock()
+	defer s.mu.Unlock()
 
 	sess, ok := s.sessions[token]
-	if !ok || time.Now().After(sess.Expires) {
+	if !ok {
+		return User{}, false
+	}
+	if time.Now().After(sess.Expires) {
+		delete(s.sessions, token)
 		return User{}, false
 	}
 
@@ -216,8 +220,12 @@ func (s *UserStore) DeleteSession(token string) {
 	delete(s.sessions, token)
 }
 
-// Middleware authenticates via Bearer token or ?token= query param.
-// Also accepts valid session cookies so the admin UI can access read endpoints.
+func (s *UserStore) hasUsers() bool {
+	s.mu.RLock()
+	defer s.mu.RUnlock()
+	return len(s.users) > 0
+}
+
 func (s *UserStore) Middleware(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		if cookie, err := r.Cookie("epg_session"); err == nil {
@@ -227,7 +235,7 @@ func (s *UserStore) Middleware(next http.Handler) http.Handler {
 			}
 		}
 
-		if len(s.users) == 0 {
+		if !s.hasUsers() {
 			next.ServeHTTP(w, r)
 			return
 		}
@@ -252,7 +260,6 @@ func (s *UserStore) Middleware(next http.Handler) http.Handler {
 	})
 }
 
-// AdminAPIMiddleware requires a valid session cookie. Returns 401 JSON on failure.
 func (s *UserStore) AdminAPIMiddleware(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		cookie, err := r.Cookie("epg_session")
@@ -272,7 +279,6 @@ func (s *UserStore) AdminAPIMiddleware(next http.Handler) http.Handler {
 	})
 }
 
-// AdminMiddleware requires a valid session cookie. Redirects to /login on failure.
 func (s *UserStore) AdminMiddleware(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		cookie, err := r.Cookie("epg_session")
