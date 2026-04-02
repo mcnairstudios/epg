@@ -6,6 +6,7 @@ import (
 	"net"
 	"net/http"
 	"sync"
+	"sync/atomic"
 	"time"
 
 	utls "github.com/refraction-networking/utls"
@@ -14,10 +15,10 @@ import (
 	"github.com/gavinmcnair/epg/internal/bandwidth"
 )
 
-var tracker *bandwidth.Tracker
+var trackerPtr atomic.Pointer[bandwidth.Tracker]
 
 func SetTracker(t *bandwidth.Tracker) {
-	tracker = t
+	trackerPtr.Store(t)
 }
 
 var (
@@ -104,8 +105,10 @@ type countingReadCloser struct {
 
 func (c *countingReadCloser) Read(p []byte) (n int, err error) {
 	n, err = c.ReadCloser.Read(p)
-	if n > 0 && tracker != nil {
-		tracker.Add(int64(n))
+	if n > 0 {
+		if t := trackerPtr.Load(); t != nil {
+			t.Add(int64(n))
+		}
 	}
 	return
 }
