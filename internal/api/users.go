@@ -24,12 +24,12 @@ func (s *Server) listUsers(w http.ResponseWriter, r *http.Request) {
 func (s *Server) createUser(w http.ResponseWriter, r *http.Request) {
 	var req createUserRequest
 	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
-		http.Error(w, `{"error":"invalid request body"}`, http.StatusBadRequest)
+		jsonError(w, "invalid request body", http.StatusBadRequest)
 		return
 	}
 
 	if req.Username == "" {
-		http.Error(w, `{"error":"username is required"}`, http.StatusBadRequest)
+		jsonError(w, "username is required", http.StatusBadRequest)
 		return
 	}
 
@@ -39,12 +39,12 @@ func (s *Server) createUser(w http.ResponseWriter, r *http.Request) {
 
 	user, err := s.users.Create(req.Username, req.Role)
 	if err != nil {
-		http.Error(w, `{"error":"`+err.Error()+`"}`, http.StatusConflict)
+		jsonError(w, err.Error(), http.StatusConflict)
 		return
 	}
 
 	if err := s.users.Save(); err != nil {
-		http.Error(w, `{"error":"failed to persist"}`, http.StatusInternalServerError)
+		jsonError(w, "failed to persist", http.StatusInternalServerError)
 		return
 	}
 
@@ -57,22 +57,22 @@ func (s *Server) changePassword(w http.ResponseWriter, r *http.Request) {
 
 	var req changePasswordRequest
 	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
-		http.Error(w, `{"error":"invalid request body"}`, http.StatusBadRequest)
+		jsonError(w, "invalid request body", http.StatusBadRequest)
 		return
 	}
 
 	if req.Password == "" {
-		http.Error(w, `{"error":"password is required"}`, http.StatusBadRequest)
+		jsonError(w, "password is required", http.StatusBadRequest)
 		return
 	}
 
 	if err := s.users.SetPassword(id, req.Password); err != nil {
-		http.Error(w, `{"error":"`+err.Error()+`"}`, http.StatusNotFound)
+		jsonError(w, err.Error(), http.StatusNotFound)
 		return
 	}
 
 	if err := s.users.Save(); err != nil {
-		http.Error(w, `{"error":"failed to persist"}`, http.StatusInternalServerError)
+		jsonError(w, "failed to persist", http.StatusInternalServerError)
 		return
 	}
 
@@ -83,12 +83,12 @@ func (s *Server) deleteUser(w http.ResponseWriter, r *http.Request) {
 	id := chi.URLParam(r, "id")
 
 	if err := s.users.Delete(id); err != nil {
-		http.Error(w, `{"error":"`+err.Error()+`"}`, http.StatusNotFound)
+		jsonError(w, err.Error(), http.StatusNotFound)
 		return
 	}
 
 	if err := s.users.Save(); err != nil {
-		http.Error(w, `{"error":"failed to persist"}`, http.StatusInternalServerError)
+		jsonError(w, "failed to persist", http.StatusInternalServerError)
 		return
 	}
 

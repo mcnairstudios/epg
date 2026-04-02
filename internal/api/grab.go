@@ -19,12 +19,12 @@ type grabResponse struct {
 func (s *Server) triggerGrab(w http.ResponseWriter, r *http.Request) {
 	var req grabRequest
 	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
-		http.Error(w, `{"error":"invalid request body"}`, http.StatusBadRequest)
+		jsonError(w, "invalid request body", http.StatusBadRequest)
 		return
 	}
 
 	if req.Source == "" {
-		http.Error(w, `{"error":"source is required"}`, http.StatusBadRequest)
+		jsonError(w, "source is required", http.StatusBadRequest)
 		return
 	}
 
@@ -33,7 +33,7 @@ func (s *Server) triggerGrab(w http.ResponseWriter, r *http.Request) {
 	duration := time.Since(start)
 
 	if err != nil {
-		http.Error(w, `{"error":"`+err.Error()+`"}`, http.StatusBadRequest)
+		jsonError(w, err.Error(), http.StatusBadRequest)
 		return
 	}
 
@@ -56,7 +56,7 @@ func (s *Server) triggerGrab(w http.ResponseWriter, r *http.Request) {
 	s.store.RecordGrabStats(req.Source, len(totalChannelSet), len(channelSet), resp.Results, resp.Errors, duration)
 
 	if err := s.store.SaveSource(req.Source); err != nil {
-		http.Error(w, `{"error":"failed to persist data"}`, http.StatusInternalServerError)
+		jsonError(w, "failed to persist data", http.StatusInternalServerError)
 		return
 	}
 

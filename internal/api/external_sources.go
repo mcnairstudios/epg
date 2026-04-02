@@ -40,22 +40,22 @@ func (s *Server) listExternalSources(w http.ResponseWriter, r *http.Request) {
 func (s *Server) addExternalSource(w http.ResponseWriter, r *http.Request) {
 	var req addSourceRequest
 	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
-		http.Error(w, `{"error":"invalid request body"}`, http.StatusBadRequest)
+		jsonError(w, "invalid request body", http.StatusBadRequest)
 		return
 	}
 
 	if req.Name == "" || req.URL == "" {
-		http.Error(w, `{"error":"name and url are required"}`, http.StatusBadRequest)
+		jsonError(w, "name and url are required", http.StatusBadRequest)
 		return
 	}
 
 	if err := s.externalSources.Add(req.Name, req.URL); err != nil {
-		http.Error(w, `{"error":"`+err.Error()+`"}`, http.StatusConflict)
+		jsonError(w, err.Error(), http.StatusConflict)
 		return
 	}
 
 	if err := s.externalSources.Save(); err != nil {
-		http.Error(w, `{"error":"failed to persist"}`, http.StatusInternalServerError)
+		jsonError(w, "failed to persist", http.StatusInternalServerError)
 		return
 	}
 
@@ -67,12 +67,12 @@ func (s *Server) removeExternalSource(w http.ResponseWriter, r *http.Request) {
 	name := chi.URLParam(r, "name")
 
 	if err := s.externalSources.Remove(name); err != nil {
-		http.Error(w, `{"error":"`+err.Error()+`"}`, http.StatusNotFound)
+		jsonError(w, err.Error(), http.StatusNotFound)
 		return
 	}
 
 	if err := s.externalSources.Save(); err != nil {
-		http.Error(w, `{"error":"failed to persist"}`, http.StatusInternalServerError)
+		jsonError(w, "failed to persist", http.StatusInternalServerError)
 		return
 	}
 
@@ -120,7 +120,7 @@ func (s *Server) grabExternalSource(w http.ResponseWriter, r *http.Request) {
 	s.store.RecordGrabStats(name, len(channels), channelsWithData, len(programs), 0, duration)
 
 	if err := s.store.SaveSource(name); err != nil {
-		http.Error(w, `{"error":"failed to persist data"}`, http.StatusInternalServerError)
+		jsonError(w, "failed to persist data", http.StatusInternalServerError)
 		return
 	}
 
