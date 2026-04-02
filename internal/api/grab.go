@@ -81,8 +81,9 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 
 	if err := s.store.Save(); err != nil {
 		s.log.Error().Err(err).Msg("grab-all: failed to persist")
+		jsonError(w, "failed to persist grab results", http.StatusInternalServerError)
+		return
 	}
-
 	json.NewEncoder(w).Encode(resp)
 }
 
