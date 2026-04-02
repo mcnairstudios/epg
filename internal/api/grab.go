@@ -35,7 +35,7 @@ func (s *Server) triggerGrab(w http.ResponseWriter, r *http.Request) {
 	duration := time.Since(start)
 
 	if err != nil {
-		jsonError(w, err.Error(), http.StatusBadRequest)
+		jsonError(w, "grab failed", http.StatusBadRequest)
 		return
 	}
 

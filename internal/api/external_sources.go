@@ -87,7 +87,7 @@ func (s *Server) grabExternalSource(w http.ResponseWriter, r *http.Request) {
 
 	if err != nil {
 		s.log.Error().Err(err).Str("source", name).Msg("external grab failed")
-		jsonError(w, err.Error(), http.StatusBadRequest)
+		jsonError(w, "failed to fetch external source", http.StatusBadRequest)
 		return
 	}
 
