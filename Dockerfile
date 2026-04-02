@@ -15,4 +15,4 @@ EXPOSE 8080
 VOLUME ["/data"]
 
 ENTRYPOINT ["./epg-server"]
-CMD ["-addr", ":8080", "-data-dir", "/data", "-max-connections", "10", "-rolling", "-rolling-parallel", "10"]
+CMD ["-addr", ":8080", "-data-dir", "/data", "-max-connections", "3", "-rolling", "-rolling-parallel", "3"]
