@@ -150,7 +150,9 @@ func (r *RollingGrabber) checkAndGrab(ctx context.Context) {
 
 			summary := grabber.Summarize(results)
 			r.store.RecordGrabStats(source, summary.TotalChannels, summary.ChannelsWithData, summary.Programs, summary.Errors, 0)
-			r.store.SaveSource(source)
+			if err := r.store.SaveSource(source); err != nil {
+				r.log.Error().Err(err).Str("source", source).Msg("failed to persist source data")
+			}
 			r.log.Info().Str("source", source).Int("programs", summary.Programs).Int("errors", summary.Errors).Msg("rolling grab done")
 		}(name)
 	}

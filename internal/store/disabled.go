@@ -72,7 +72,11 @@ func (s *DisabledStore) Save() error {
 		os.Remove(tmpPath)
 		return err
 	}
-	tmp.Sync()
+	if err := tmp.Sync(); err != nil {
+		tmp.Close()
+		os.Remove(tmpPath)
+		return err
+	}
 	tmp.Close()
 
 	return os.Rename(tmpPath, s.path)
