@@ -53,6 +53,10 @@ type browserTransport struct {
 }
 
 func (t *browserTransport) RoundTrip(req *http.Request) (*http.Response, error) {
+	if req.URL.Scheme == "http" {
+		return http.DefaultTransport.RoundTrip(req)
+	}
+
 	port := req.URL.Port()
 	if port == "" {
 		port = "443"
@@ -76,11 +80,12 @@ func (t *browserTransport) RoundTrip(req *http.Request) (*http.Response, error) 
 	if tlsConn.ConnectionState().NegotiatedProtocol == "h2" {
 		h2Conn, err := (&http2.Transport{}).NewClientConn(tlsConn)
 		if err != nil {
-			conn.Close()
+			tlsConn.Close()
 			return nil, err
 		}
 		resp, err = h2Conn.RoundTrip(req)
 		if err != nil {
+			tlsConn.Close()
 			return nil, err
 		}
 	} else {
