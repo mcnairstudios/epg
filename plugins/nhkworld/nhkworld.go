@@ -135,3 +135,5 @@ type episode struct {
 	Schedule     string `json:"schedule"`
 	Period       string `json:"period"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Tokyo" }

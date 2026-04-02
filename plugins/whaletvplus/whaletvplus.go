@@ -192,3 +192,5 @@ type programItem struct {
 	PrgTitle string `json:"prgTitle"`
 	PrgchID  string `json:"prgchId"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Seoul" }

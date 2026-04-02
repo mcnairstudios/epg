@@ -246,3 +246,5 @@ func usDSTEnd(year int) string {
 	}
 	return t.Format("2006-01-02T15:04Z")
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

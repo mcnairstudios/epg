@@ -137,3 +137,5 @@ type qoeData struct {
 type thumbnails struct {
 	Standard string `json:"standard"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Athens" }

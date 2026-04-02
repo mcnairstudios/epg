@@ -151,3 +151,5 @@ type programme struct {
 	StartAt string `json:"startAt"`
 	EndAt   string `json:"endAt"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Tallinn" }

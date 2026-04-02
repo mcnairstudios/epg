@@ -109,3 +109,5 @@ type programItem struct {
 	StartTime int64  `json:"startTime"`
 	EndTime   int64  `json:"endTime"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Shanghai" }

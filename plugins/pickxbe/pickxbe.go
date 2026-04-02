@@ -143,3 +143,5 @@ type program struct {
 	EpisodeNumber       int               `json:"episodeNumber"`
 	TranslatedCategory  map[string]string `json:"translatedCategory"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Brussels" }

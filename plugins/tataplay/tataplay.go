@@ -128,3 +128,5 @@ type epgItem struct {
 	Category      string `json:"category"`
 	BoxCoverImage string `json:"boxCoverImage"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Kolkata" }

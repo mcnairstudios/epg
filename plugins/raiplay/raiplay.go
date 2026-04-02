@@ -175,3 +175,5 @@ type Event struct {
 type RaiProgram struct {
 	Name string `json:"name"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Rome" }

@@ -203,3 +203,5 @@ type program struct {
 	EndTimeString   string `json:"endTimeString"`
 	ImageURL        string `json:"imageUrl"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

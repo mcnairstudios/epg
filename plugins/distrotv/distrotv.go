@@ -131,3 +131,5 @@ type slotData struct {
 	Start       string `json:"start"`
 	End         string `json:"end"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

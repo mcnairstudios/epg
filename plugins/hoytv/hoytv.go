@@ -148,3 +148,5 @@ type episodeInfo struct {
 	EpisodeIndex           string `xml:"EpisodeIndex"`
 	EpisodeLongDescription string `xml:"EpisodeLongDescription"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Hong_Kong" }

@@ -145,3 +145,5 @@ type primaryImage struct {
 	BasePath string `json:"base_path"`
 	Hash     string `json:"hash"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Zurich" }

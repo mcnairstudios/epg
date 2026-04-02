@@ -158,3 +158,5 @@ type programme struct {
 type programmeType struct {
 	Name string `xml:"name"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Prague" }

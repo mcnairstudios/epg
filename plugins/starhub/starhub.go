@@ -184,3 +184,5 @@ type picture struct {
 	URL  string `json:"url"`
 	Type int    `json:"type"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Singapore" }

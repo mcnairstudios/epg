@@ -236,3 +236,5 @@ func (fs *flexStrSlice) UnmarshalJSON(data []byte) error {
 	}
 	return nil
 }
+
+func (p *provider) Timezone() string { return "Europe/Bucharest" }

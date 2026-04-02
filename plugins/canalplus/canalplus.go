@@ -236,3 +236,5 @@ type Rating struct {
 	System string
 	Value  string
 }
+
+func (p *provider) Timezone() string { return "Europe/Paris" }

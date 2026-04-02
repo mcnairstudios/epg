@@ -157,3 +157,5 @@ type ScheduleItem struct {
 	PublishedStartTime string `json:"publishedStartTime"`
 	PublishedDuration  int    `json:"publishedDuration"`
 }
+
+func (p *provider) Timezone() string { return "Europe/London" }

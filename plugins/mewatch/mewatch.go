@@ -141,3 +141,5 @@ type scheduleItem struct {
 type images struct {
 	Tile string `json:"tile"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Singapore" }

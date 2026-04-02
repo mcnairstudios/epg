@@ -167,3 +167,5 @@ type mediaCategory struct {
 type imageEntry struct {
 	Src string `json:"src"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Helsinki" }

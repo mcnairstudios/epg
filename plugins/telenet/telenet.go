@@ -226,3 +226,5 @@ type ProgramDetail struct {
 	Genres          []string `json:"genres"`
 	Actors          []string `json:"actors"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Brussels" }

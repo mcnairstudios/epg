@@ -285,3 +285,5 @@ type programDetails struct {
 	ThumbnailURI string   `json:"ThumbnailUri"`
 	SubGenres    []string `json:"SubGenres"`
 }
+
+func (p *provider) Timezone() string { return "Africa/Johannesburg" }

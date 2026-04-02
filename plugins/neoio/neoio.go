@@ -107,3 +107,5 @@ type show struct {
 	Summary   string `json:"summary"`
 	Thumbnail string `json:"thumbnail"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Ljubljana" }

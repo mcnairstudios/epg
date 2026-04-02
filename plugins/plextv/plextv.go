@@ -171,3 +171,5 @@ type media struct {
 	BeginsAt int64 `json:"beginsAt"`
 	EndsAt   int64 `json:"endsAt"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

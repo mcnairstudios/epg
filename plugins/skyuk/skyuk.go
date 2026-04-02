@@ -143,3 +143,5 @@ type event struct {
 	SeasonNumber   int    `json:"seasonnumber"`
 	EpisodeNumber  int    `json:"episodenumber"`
 }
+
+func (p *provider) Timezone() string { return "Europe/London" }

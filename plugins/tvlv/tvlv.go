@@ -128,3 +128,5 @@ type programme struct {
 	StartUnix      int64  `json:"start_unix"`
 	StopUnix       int64  `json:"stop_unix"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Riga" }

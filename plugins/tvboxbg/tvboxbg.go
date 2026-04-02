@@ -145,3 +145,5 @@ type eventData struct {
 	EndAt      string `json:"end_at"`
 	Categories string `json:"categories"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Sofia" }

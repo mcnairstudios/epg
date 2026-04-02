@@ -427,3 +427,5 @@ func cleanText(s string) string {
 	}
 	return strings.TrimSpace(s)
 }
+
+func (p *provider) Timezone() string { return "Europe/London" }

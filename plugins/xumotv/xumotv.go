@@ -204,3 +204,5 @@ type MergedItem struct {
 	EpisodeTitle string
 	Descriptions *Descriptions
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

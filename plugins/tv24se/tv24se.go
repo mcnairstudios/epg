@@ -398,3 +398,5 @@ type TestableProvider struct{}
 func (tp *TestableProvider) Channels() ([]domain.Channel, error) {
 	return channels.Load(channelsData, "tv24.se")
 }
+
+func (p *provider) Timezone() string { return "Europe/Stockholm" }

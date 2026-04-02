@@ -335,3 +335,5 @@ type statusText struct {
 type image struct {
 	TemplateURL string `json:"templateUrl"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Brussels" }

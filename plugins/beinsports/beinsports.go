@@ -125,3 +125,5 @@ type apiItem struct {
 	StartDate   string `json:"startDate"`
 	EndDate     string `json:"endDate"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Qatar" }

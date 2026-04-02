@@ -124,3 +124,5 @@ type ScheduleItem struct {
 	TotalDivWidth int    `json:"TotalDivWidth"`
 	StartDateTime string `json:"StartDateTime"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Dubai" }

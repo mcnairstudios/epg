@@ -276,3 +276,5 @@ func getAttr(n *html.Node, key string) string {
 	}
 	return ""
 }
+
+func (p *provider) Timezone() string { return "Europe/Dublin" }

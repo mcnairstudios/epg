@@ -193,3 +193,5 @@ func splitSiteID(siteID string) (string, string, bool) {
 	}
 	return parts[0], parts[1], true
 }
+
+func (p *provider) Timezone() string { return "Pacific/Auckland" }

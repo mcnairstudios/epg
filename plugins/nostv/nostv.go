@@ -145,3 +145,5 @@ type metadata struct {
 type image struct {
 	URL string `json:"Url"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Lisbon" }

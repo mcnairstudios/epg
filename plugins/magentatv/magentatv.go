@@ -298,3 +298,5 @@ type cast struct {
 	Adaptor  string `json:"adaptor"`
 	Actor    string `json:"actor"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Berlin" }

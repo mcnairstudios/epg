@@ -138,3 +138,5 @@ type images struct {
 	LogoHD          string `json:"LOGO_HD"`
 	Logo            string `json:"LOGO"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Kolkata" }

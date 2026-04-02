@@ -150,3 +150,5 @@ type cover struct {
 	Format string `json:"format"`
 	URL    string `json:"url"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Paris" }

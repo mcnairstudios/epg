@@ -142,3 +142,5 @@ type element struct {
 	EN   string `json:"en"`
 	PU   string `json:"pu"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Berlin" }

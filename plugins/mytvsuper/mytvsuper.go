@@ -155,3 +155,5 @@ type epgItem struct {
 	EpisodeSynopsisEN string `json:"episode_synopsis_en"`
 	EpisodeNo         string `json:"episode_no"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Hong_Kong" }

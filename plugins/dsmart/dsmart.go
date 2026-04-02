@@ -188,3 +188,5 @@ type schedule struct {
 	Description string `json:"description"`
 	Genre       string `json:"genre"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Istanbul" }

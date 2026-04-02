@@ -180,3 +180,5 @@ type attachment struct {
 	Name  string `json:"name"`
 	Value string `json:"value"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Madrid" }

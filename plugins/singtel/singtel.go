@@ -126,3 +126,5 @@ type program struct {
 	Category    string `json:"category"`
 	SubCategory string `json:"subCategory"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Singapore" }

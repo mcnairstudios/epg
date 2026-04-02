@@ -142,3 +142,5 @@ type programEntry struct {
 type picture struct {
 	URL string `json:"url"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Belgrade" }

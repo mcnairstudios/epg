@@ -156,3 +156,5 @@ type series struct {
 type tile struct {
 	Path string `json:"path"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

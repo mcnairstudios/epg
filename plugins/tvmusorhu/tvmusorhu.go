@@ -146,3 +146,5 @@ type eventItem struct {
 	J string `json:"j"`
 	Z string `json:"z"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Budapest" }

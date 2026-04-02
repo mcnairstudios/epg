@@ -159,3 +159,5 @@ type broadcast struct {
 		AvailabilityEnd   string `json:"AvailabilityEnd"`
 	} `json:"Availabilities"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Zurich" }

@@ -273,3 +273,5 @@ func ParseProgramDescription(data []byte) string {
 
 	return desc
 }
+
+func (p *provider) Timezone() string { return "Europe/Madrid" }

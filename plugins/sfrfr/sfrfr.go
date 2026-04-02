@@ -141,3 +141,5 @@ type imageItem struct {
 	URL  string `json:"url"`
 	Type string `json:"type"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Paris" }

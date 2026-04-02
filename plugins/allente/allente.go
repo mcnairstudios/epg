@@ -145,3 +145,5 @@ type eventDetail struct {
 	Categories  []string `json:"categories"`
 	Duration    int      `json:"duration,string"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Oslo" }

@@ -279,3 +279,5 @@ func textContentExcluding(n *html.Node, excludeClass string) string {
 	}
 	return buf.String()
 }
+
+func (p *provider) Timezone() string { return "Europe/Rome" }

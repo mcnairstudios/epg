@@ -161,3 +161,5 @@ type epgItem struct {
 type imageItem struct {
 	Src string `json:"src"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Lisbon" }

@@ -203,3 +203,5 @@ func directText(n *html.Node) string {
 	}
 	return sb.String()
 }
+
+func (p *provider) Timezone() string { return "America/Los_Angeles" }

@@ -173,3 +173,5 @@ type event struct {
 	Start      string `json:"start"`
 	CategoryID int    `json:"category_id"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Moscow" }

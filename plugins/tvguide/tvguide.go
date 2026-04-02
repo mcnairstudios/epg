@@ -254,3 +254,5 @@ type itemDetails struct {
 type genre struct {
 	Name string `json:"name"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

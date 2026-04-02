@@ -149,3 +149,5 @@ type programItem struct {
 type restriction struct {
 	Category string `json:"category"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Budapest" }

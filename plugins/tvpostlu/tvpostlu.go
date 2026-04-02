@@ -129,3 +129,5 @@ type programme struct {
 	ProgramType string `json:"program_type"`
 	ImageURL    string `json:"image_url"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Luxembourg" }

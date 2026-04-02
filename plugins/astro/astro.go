@@ -142,3 +142,5 @@ type scheduleItem struct {
 	Duration      string `json:"duration"`
 	SiTrafficKey  string `json:"siTrafficKey"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Kuala_Lumpur" }

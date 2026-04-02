@@ -254,3 +254,5 @@ type ProgramDetail struct {
 	Description string `json:"description"`
 	ReleaseYear string `json:"releaseYear"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

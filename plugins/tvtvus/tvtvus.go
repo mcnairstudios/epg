@@ -126,3 +126,5 @@ type gridItem struct {
 	Subtitle  string `json:"subtitle"`
 	ProgramID string `json:"programId"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

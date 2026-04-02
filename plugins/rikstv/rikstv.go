@@ -122,3 +122,5 @@ type scheduleItem struct {
 	BroadcastedTime   string   `json:"broadcastedTime"`
 	BroadcastedTimeEnd string  `json:"broadcastedTimeEnd"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Oslo" }

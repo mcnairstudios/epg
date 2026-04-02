@@ -156,3 +156,5 @@ type listing struct {
 	SeriesNum    int      `json:"series_num"`
 	EpisodeNum   int      `json:"episode_num"`
 }
+
+func (p *provider) Timezone() string { return "Australia/Sydney" }

@@ -122,3 +122,5 @@ type epgItem struct {
 	StartEpoch    int64  `json:"startEpoch"`
 	EndEpoch      int64  `json:"endEpoch"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Kolkata" }

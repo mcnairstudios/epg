@@ -117,3 +117,5 @@ type apiItem struct {
 	StartTimestamp string `json:"startTimestamp"`
 	EndTimestamp   string `json:"endTimestamp"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Tbilisi" }
