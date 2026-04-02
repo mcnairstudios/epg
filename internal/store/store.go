@@ -206,6 +206,12 @@ func (s *Store) GetGrabStats() []GrabStats {
 	return result
 }
 
+func (s *Store) SetGrabStatsForTest(source string, gs GrabStats) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	s.grabStats[source] = gs
+}
+
 func (s *Store) SaveSource(source string) error {
 	s.mu.RLock()
 	defer s.mu.RUnlock()
