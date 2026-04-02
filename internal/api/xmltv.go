@@ -47,6 +47,14 @@ func (s *Server) getSourceXMLTV(w http.ResponseWriter, r *http.Request) {
 func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filter) {
 	disabled := s.disabled.List()
 
+	scheme := "https"
+	if r.TLS == nil && r.Header.Get("X-Forwarded-Proto") == "" {
+		scheme = "http"
+	} else if proto := r.Header.Get("X-Forwarded-Proto"); proto != "" {
+		scheme = proto
+	}
+	base := scheme + "://" + r.Host
+
 	allChannels := s.store.GetChannels(f)
 	channels := make([]domain.Channel, 0, len(allChannels))
 	for _, ch := range allChannels {
@@ -54,13 +62,11 @@ func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filt
 			continue
 		}
 		if ch.Logo != "" {
-			scheme := "https"
-			if r.TLS == nil && r.Header.Get("X-Forwarded-Proto") == "" {
-				scheme = "http"
-			} else if proto := r.Header.Get("X-Forwarded-Proto"); proto != "" {
-				scheme = proto
-			}
-			ch.Logo = scheme + "://" + r.Host + "/logos/" + logoKey(ch.XmltvID)
+			ch.Logo = base + "/logos/" + logoKey(ch.XmltvID)
+		} else if ch.IsRadio() {
+			ch.Logo = base + "/logos/placeholder-radio"
+		} else {
+			ch.Logo = base + "/logos/placeholder-tv"
 		}
 		channels = append(channels, ch)
 	}

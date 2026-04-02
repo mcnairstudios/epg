@@ -3,6 +3,7 @@ package logocache
 import (
 	"bytes"
 	"context"
+	_ "embed"
 	"io"
 	"net/http"
 	"os"
@@ -15,6 +16,12 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/domain"
 )
+
+//go:embed placeholder_tv.svg
+var placeholderTV []byte
+
+//go:embed placeholder_radio.svg
+var placeholderRadio []byte
 
 type cached struct {
 	filename    string
@@ -93,6 +100,19 @@ func (c *Cache) Has(xmltvID string) bool {
 }
 
 func (c *Cache) Serve(w http.ResponseWriter, r *http.Request, xmltvID string) {
+	switch xmltvID {
+	case "placeholder-tv":
+		w.Header().Set("Content-Type", "image/svg+xml")
+		w.Header().Set("Cache-Control", "public, max-age=86400")
+		w.Write(placeholderTV)
+		return
+	case "placeholder-radio":
+		w.Header().Set("Content-Type", "image/svg+xml")
+		w.Header().Set("Cache-Control", "public, max-age=86400")
+		w.Write(placeholderRadio)
+		return
+	}
+
 	key := safeBase(xmltvID)
 
 	c.mu.RLock()
