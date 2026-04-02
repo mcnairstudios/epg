@@ -130,38 +130,37 @@ func (r *RollingGrabber) checkAndGrab(ctx context.Context) {
 
 	r.log.Info().Int("count", len(toGrab)).Msg("rolling grab: sources due")
 
-	sem := make(chan struct{}, r.maxParallel)
-	var wg sync.WaitGroup
-
+	work := make(chan string, len(toGrab))
 	for _, name := range toGrab {
+		work <- name
+	}
+	close(work)
+
+	var wg sync.WaitGroup
+	for i := 0; i < r.maxParallel; i++ {
 		wg.Add(1)
-		go func(source string) {
+		go func() {
 			defer wg.Done()
-			select {
-			case sem <- struct{}{}:
-			case <-ctx.Done():
-				return
-			}
-			defer func() { <-sem }()
+			for source := range work {
+				if ctx.Err() != nil {
+					return
+				}
 
-			if ctx.Err() != nil {
-				return
-			}
+				r.log.Info().Str("source", source).Msg("rolling grab starting")
+				results, err := r.grabber.GrabSource(ctx, source)
+				if err != nil {
+					r.log.Error().Err(err).Str("source", source).Msg("rolling grab failed")
+					continue
+				}
 
-			r.log.Info().Str("source", source).Msg("rolling grab starting")
-			results, err := r.grabber.GrabSource(ctx, source)
-			if err != nil {
-				r.log.Error().Err(err).Str("source", source).Msg("rolling grab failed")
-				return
+				summary := grabber.Summarize(results)
+				r.store.RecordGrabStats(source, summary.TotalChannels, summary.ChannelsWithData, summary.Programs, summary.Errors, 0)
+				if err := r.store.SaveSource(source); err != nil {
+					r.log.Error().Err(err).Str("source", source).Msg("failed to persist source data")
+				}
+				r.log.Info().Str("source", source).Int("programs", summary.Programs).Int("errors", summary.Errors).Msg("rolling grab done")
 			}
-
-			summary := grabber.Summarize(results)
-			r.store.RecordGrabStats(source, summary.TotalChannels, summary.ChannelsWithData, summary.Programs, summary.Errors, 0)
-			if err := r.store.SaveSource(source); err != nil {
-				r.log.Error().Err(err).Str("source", source).Msg("failed to persist source data")
-			}
-			r.log.Info().Str("source", source).Int("programs", summary.Programs).Int("errors", summary.Errors).Msg("rolling grab done")
-		}(name)
+		}()
 	}
 
 	wg.Wait()
