@@ -124,3 +124,5 @@ type epgItem struct {
 	Stop        string   `json:"Stop"`
 	Genres      []string `json:"Genres"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Bratislava" }

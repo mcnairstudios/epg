@@ -154,3 +154,5 @@ type epgObject struct {
 	StartDate   int64  `json:"startDate"`
 	EndDate     int64  `json:"endDate"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Lisbon" }

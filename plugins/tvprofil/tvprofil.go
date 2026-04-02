@@ -301,3 +301,5 @@ func buildQuery(siteID string, date time.Time) string {
 
 	return params.Encode()
 }
+
+func (p *provider) Timezone() string { return "Europe/Belgrade" }

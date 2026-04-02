@@ -229,3 +229,5 @@ func hasClass(n *html.Node, class string) bool {
 	}
 	return false
 }
+
+func (p *provider) Timezone() string { return "Europe/Rome" }

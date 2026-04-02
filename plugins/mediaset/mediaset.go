@@ -211,3 +211,5 @@ type thumbnail struct {
 	Width  int    `json:"width"`
 	Height int    `json:"height"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Rome" }

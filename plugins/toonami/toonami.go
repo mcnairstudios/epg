@@ -186,3 +186,5 @@ type mediaInfo struct {
 	Episode string `json:"episode"`
 	Image   string `json:"image"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

@@ -165,3 +165,5 @@ type entry struct {
 	StartTime       string `json:"startTime"`
 	EndTime         string `json:"endTime"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Jakarta" }

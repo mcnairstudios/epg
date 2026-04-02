@@ -114,3 +114,5 @@ type scheduleItem struct {
 	Seria       int    `json:"seria"`
 	Thattur     int    `json:"thattur"`
 }
+
+func (p *provider) Timezone() string { return "Atlantic/Reykjavik" }

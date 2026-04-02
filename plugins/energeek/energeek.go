@@ -169,3 +169,5 @@ type xmlText struct {
 type xmlIcon struct {
 	Src string `xml:"src,attr"`
 }
+
+func (p *provider) Timezone() string { return "America/Santiago" }

@@ -133,3 +133,5 @@ type scheduleEvent struct {
 	StartTimeFriendly  string `json:"start_time_friendly"`
 	EndTimeFriendly    string `json:"end_time_friendly"`
 }
+
+func (p *provider) Timezone() string { return "Atlantic/Reykjavik" }

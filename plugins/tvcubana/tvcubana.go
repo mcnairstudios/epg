@@ -105,3 +105,5 @@ type apiItem struct {
 	EventInitialDateTime string `json:"eventInitialDateTime"`
 	EventEndDateTime     string `json:"eventEndDateTime"`
 }
+
+func (p *provider) Timezone() string { return "America/Havana" }

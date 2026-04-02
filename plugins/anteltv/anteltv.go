@@ -165,3 +165,5 @@ type epgItem struct {
 	FechaHoraInicio     string `json:"fecha_hora_inicio"`
 	FechaHoraFin        string `json:"fecha_hora_fin"`
 }
+
+func (p *provider) Timezone() string { return "America/Montevideo" }

@@ -251,3 +251,5 @@ type genreEntry struct {
 	ID   string `json:"id"`
 	Name string `json:"name"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Zagreb" }

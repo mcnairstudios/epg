@@ -131,3 +131,5 @@ type doc struct {
 	DhInicio string `json:"dh_inicio"`
 	DhFim    string `json:"dh_fim"`
 }
+
+func (p *provider) Timezone() string { return "America/Sao_Paulo" }

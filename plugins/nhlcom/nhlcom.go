@@ -108,3 +108,5 @@ type broadcast struct {
 	Title       string `json:"title"`
 	Description string `json:"description"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

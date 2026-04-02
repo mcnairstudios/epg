@@ -140,3 +140,5 @@ type mediaInfo struct {
 type thumbnail struct {
 	URL string `json:"url"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Almaty" }

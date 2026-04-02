@@ -200,3 +200,5 @@ type localeName struct {
 type imageEntry struct {
 	URL string `json:"url"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Seoul" }

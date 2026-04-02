@@ -150,3 +150,5 @@ type program struct {
 	Start string `json:"c"`
 	Stop  string `json:"d"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Istanbul" }

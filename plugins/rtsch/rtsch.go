@@ -143,3 +143,5 @@ type programItem struct {
 type show struct {
 	Description string `json:"description"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Zurich" }

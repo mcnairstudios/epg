@@ -159,3 +159,5 @@ type genre struct {
 type image struct {
 	URL string `json:"url"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Ho_Chi_Minh" }

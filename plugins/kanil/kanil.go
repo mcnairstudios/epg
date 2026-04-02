@@ -127,3 +127,5 @@ type kanItem struct {
 	LiveDesc    string `json:"live_desc"`
 	PictureCode string `json:"picture_code"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Jerusalem" }

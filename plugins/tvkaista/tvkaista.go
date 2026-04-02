@@ -343,3 +343,5 @@ func textContent(n *html.Node) string {
 	}
 	return buf.String()
 }
+
+func (p *provider) Timezone() string { return "Europe/Helsinki" }

@@ -255,3 +255,5 @@ type programDetail struct {
 	GuestActors        string `json:"guest_actors"`
 	Image              string `json:"image"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Madrid" }

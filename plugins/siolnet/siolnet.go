@@ -334,3 +334,5 @@ type eventEntry struct {
 	Duration      int      `json:"duration"`
 	Date          string   `json:"date"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Ljubljana" }

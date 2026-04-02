@@ -200,3 +200,5 @@ func textContent(n *html.Node) string {
 	}
 	return sb.String()
 }
+
+func (p *provider) Timezone() string { return "Atlantic/Faroe" }

@@ -140,3 +140,5 @@ type locContent struct {
 	Title    string `json:"tit"`
 	Synopsis string `json:"syn"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Jakarta" }

@@ -188,3 +188,5 @@ type imageMap struct {
 type imageURL struct {
 	URL string `json:"url"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Rome" }

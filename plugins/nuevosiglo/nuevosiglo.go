@@ -205,3 +205,5 @@ type programDetail struct {
 	ParentalRating string `json:"parental_rating"`
 	Actors         string `json:"actors"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

@@ -224,3 +224,5 @@ func parseSeasonFromTitle(title string) int {
 	n, _ := strconv.Atoi(matches[1])
 	return n
 }
+
+func (p *provider) Timezone() string { return "Asia/Jakarta" }

@@ -243,3 +243,5 @@ func findNodeWithClass(n *html.Node, tag, class string) *html.Node {
 	}
 	return nil
 }
+
+func (p *provider) Timezone() string { return "America/Sao_Paulo" }

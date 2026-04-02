@@ -121,3 +121,5 @@ type event struct {
 	ActualTime   string `json:"actual_time"`
 	EndTime      string `json:"end_time"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Athens" }

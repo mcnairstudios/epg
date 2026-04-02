@@ -140,3 +140,5 @@ type scheduleItem struct {
 	Duration  string `json:"duration"`
 	Date      string `json:"date"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Colombo" }

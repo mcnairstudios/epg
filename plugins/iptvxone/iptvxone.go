@@ -179,3 +179,5 @@ type xmlText struct {
 	Lang  string `xml:"lang,attr,omitempty"`
 	Value string `xml:",chardata"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Moscow" }

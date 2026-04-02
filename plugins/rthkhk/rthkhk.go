@@ -285,3 +285,5 @@ type resultItem struct {
 	Key  interface{} `json:"key"`
 	Data string      `json:"data"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Hong_Kong" }

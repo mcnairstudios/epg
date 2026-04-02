@@ -133,3 +133,5 @@ type feedItem struct {
 	Start string `json:"start"`
 	End   string `json:"end"`
 }
+
+func (p *provider) Timezone() string { return "Pacific/Guam" }

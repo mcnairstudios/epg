@@ -126,3 +126,5 @@ type programme struct {
 	GenreTitle     string `json:"genreTitle"`
 	Synopsis       string `json:"synopsis"`
 }
+
+func (p *provider) Timezone() string { return "Australia/Sydney" }

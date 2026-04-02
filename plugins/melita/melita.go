@@ -187,3 +187,5 @@ type seriesEntry struct {
 	ID    string `json:"id"`
 	Title string `json:"title"`
 }
+
+func (p *provider) Timezone() string { return "Europe/London" }

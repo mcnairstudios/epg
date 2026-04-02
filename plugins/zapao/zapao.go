@@ -112,3 +112,5 @@ type eventItem struct {
 	UTCBeginDate       int    `json:"utcBeginDate"`
 	UTCEndDate         int    `json:"utcEndDate"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Lisbon" }

@@ -150,3 +150,5 @@ type programmeAttrs struct {
 	Start string `json:"start"`
 	Stop  string `json:"stop"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Skopje" }

@@ -135,3 +135,5 @@ type images struct {
 	Tile      string `json:"tile"`
 	Wallpaper string `json:"wallpaper"`
 }
+
+func (p *provider) Timezone() string { return "America/Toronto" }

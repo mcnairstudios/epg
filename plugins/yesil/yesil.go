@@ -120,3 +120,5 @@ type item struct {
 	Ends        string `json:"ends"`
 	ChannelID   string `json:"channelId"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Jerusalem" }

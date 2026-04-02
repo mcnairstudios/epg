@@ -155,3 +155,5 @@ type Broadcast struct {
 	StartTime int64 `json:"startTime"`
 	EndTime   int64 `json:"endTime"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Stockholm" }

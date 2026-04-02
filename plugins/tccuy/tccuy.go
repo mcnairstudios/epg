@@ -209,3 +209,5 @@ type imageEntry struct {
 type imageMedia struct {
 	File string `json:"file"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

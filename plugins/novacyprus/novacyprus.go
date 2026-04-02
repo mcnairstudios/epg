@@ -126,3 +126,5 @@ type node struct {
 type mediaItem struct {
 	CdnURL string `json:"CdnUrl"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Athens" }

@@ -138,3 +138,5 @@ type scheduleJSON struct {
 	SecondarySynopsis string `json:"secondarySynopsis"`
 	EpisodeName       string `json:"episodeName"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Jakarta" }

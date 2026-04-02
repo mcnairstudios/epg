@@ -131,3 +131,5 @@ type scheduleItem struct {
 	CategoryName string `json:"categoryName"`
 	AgeRating    string `json:"ageRating"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Taipei" }

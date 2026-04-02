@@ -116,3 +116,5 @@ type video struct {
 	Header     string   `json:"header"`
 	Categories []string `json:"categories"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Oslo" }

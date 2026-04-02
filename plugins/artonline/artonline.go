@@ -167,3 +167,5 @@ type apiItem struct {
 	AddDate     string `json:"adddate"`
 	Duration    string `json:"duration"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Riyadh" }

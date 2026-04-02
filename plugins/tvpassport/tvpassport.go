@@ -213,3 +213,5 @@ func collectDataAttrs(n *html.Node) map[string]string {
 	}
 	return attrs
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

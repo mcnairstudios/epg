@@ -127,3 +127,5 @@ type program struct {
 	Ini int64  `json:"ini"`
 	Fin int64  `json:"fin"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

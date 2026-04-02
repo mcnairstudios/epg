@@ -121,3 +121,5 @@ type epgItem struct {
 	SeasonNumber     int    `json:"seasonNumber"`
 	EpisodeNumber    int    `json:"episodeNumber"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Zagreb" }

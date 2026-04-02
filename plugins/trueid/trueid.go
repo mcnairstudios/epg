@@ -203,3 +203,5 @@ type epgItem struct {
 	EndDate   string                 `json:"end_date"`
 	Info      map[string]interface{} `json:"info"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Bangkok" }

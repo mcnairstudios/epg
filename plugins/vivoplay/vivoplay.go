@@ -111,3 +111,5 @@ type contentItem struct {
 	SeasonNumber  int    `json:"SeasonNumber"`
 	EpisodeNumber int    `json:"EpisodeNumber"`
 }
+
+func (p *provider) Timezone() string { return "America/Sao_Paulo" }

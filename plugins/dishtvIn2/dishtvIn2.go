@@ -208,3 +208,5 @@ type regionData struct {
 	Desc         string `json:"desc"`
 	Genre        string `json:"genre"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Kolkata" }

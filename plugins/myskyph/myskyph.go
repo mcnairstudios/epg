@@ -128,3 +128,5 @@ type event struct {
 type userData struct {
 	Description string `json:"description"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Manila" }

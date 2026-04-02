@@ -193,3 +193,5 @@ type attributes struct {
 	Description       string `json:"description"`
 	ImageLandscapeURL string `json:"image_landscape_url"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Jakarta" }

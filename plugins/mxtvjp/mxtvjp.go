@@ -132,3 +132,5 @@ type epgItem struct {
 	StartTime string `json:"Start_time"`
 	Duration  string `json:"Duration"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Tokyo" }

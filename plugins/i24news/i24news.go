@@ -134,3 +134,5 @@ type show struct {
 type showImage struct {
 	Href string `json:"href"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Jerusalem" }

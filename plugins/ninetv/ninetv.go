@@ -211,3 +211,5 @@ func findAllElements(n *html.Node, tag string) []*html.Node {
 	}
 	return results
 }
+
+func (p *provider) Timezone() string { return "Asia/Jerusalem" }

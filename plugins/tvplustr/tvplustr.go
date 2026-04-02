@@ -203,3 +203,5 @@ type schedule struct {
 	Introduce  string `json:"introduce"`
 	SeasonInfo string `json:"seasonInfo"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Istanbul" }

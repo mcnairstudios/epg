@@ -187,3 +187,5 @@ type guideItem struct {
 type detailResponse struct {
 	Description string `json:"description"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Amsterdam" }

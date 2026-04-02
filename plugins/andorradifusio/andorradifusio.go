@@ -192,3 +192,5 @@ type scheduleItem struct {
 	SubTitle          string `json:"subtitle"`
 	MainImage         string `json:"main_image"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Andorra" }

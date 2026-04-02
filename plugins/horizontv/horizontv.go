@@ -249,3 +249,5 @@ type programDetail struct {
 type category struct {
 	Title string `json:"title"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Prague" }

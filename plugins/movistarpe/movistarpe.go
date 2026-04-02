@@ -101,3 +101,5 @@ type contentItem struct {
 	Start       int64  `json:"Start"`
 	End         int64  `json:"End"`
 }
+
+func (p *provider) Timezone() string { return "America/Lima" }

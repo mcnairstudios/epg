@@ -138,3 +138,5 @@ type apiItem struct {
 	M string `json:"m"`
 	O int    `json:"o"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

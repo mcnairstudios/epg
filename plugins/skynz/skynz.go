@@ -127,3 +127,5 @@ type event struct {
 	Genres   []string `json:"genres"`
 	Rating   string   `json:"rating"`
 }
+
+func (p *provider) Timezone() string { return "Pacific/Auckland" }

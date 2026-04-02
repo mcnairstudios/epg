@@ -208,3 +208,5 @@ func extractText(n *html.Node) string {
 	walk(n)
 	return strings.TrimSpace(sb.String())
 }
+
+func (p *provider) Timezone() string { return "Asia/Jakarta" }

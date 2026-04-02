@@ -173,3 +173,5 @@ type programDetail struct {
 	CountryOfOrigin  string   `json:"countryOfOrigin"`
 	ProductionDate   string   `json:"productionDate"`
 }
+
+func (p *provider) Timezone() string { return "Europe/London" }

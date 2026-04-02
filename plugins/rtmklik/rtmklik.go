@@ -113,3 +113,5 @@ type scheduleItem struct {
 	DateTimeStart string `json:"dateTimeStart"`
 	DateTimeEnd   string `json:"dateTimeEnd"`
 }
+
+func (p *provider) Timezone() string { return "Asia/Kuala_Lumpur" }

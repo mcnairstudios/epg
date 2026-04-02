@@ -138,3 +138,5 @@ type show struct {
 	Icon     string `json:"icon"`
 	TMS      string `json:"tms"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

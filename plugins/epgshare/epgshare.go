@@ -167,3 +167,5 @@ type xmlText struct {
 	Lang  string `xml:"lang,attr"`
 	Value string `xml:",chardata"`
 }
+
+func (p *provider) Timezone() string { return "America/New_York" }

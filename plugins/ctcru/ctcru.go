@@ -136,3 +136,5 @@ type widget struct {
 	IsPremiere     bool   `json:"isPremiere"`
 	AgeLimit       *int   `json:"ageLimit"`
 }
+
+func (p *provider) Timezone() string { return "Europe/Moscow" }
