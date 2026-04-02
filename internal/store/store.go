@@ -140,11 +140,6 @@ func (s *Store) GetPrograms(filters ...Filter) []domain.Program {
 			s.lastAccess[src] = time.Now()
 		}
 	}
-	s.mu.Unlock()
-
-	s.mu.RLock()
-	defer s.mu.RUnlock()
-
 	var result []domain.Program
 	for _, progs := range s.programs {
 		for _, p := range progs {
@@ -153,6 +148,7 @@ func (s *Store) GetPrograms(filters ...Filter) []domain.Program {
 			}
 		}
 	}
+	s.mu.Unlock()
 
 	sort.Slice(result, func(i, j int) bool {
 		if result[i].Channel != result[j].Channel {
@@ -313,8 +309,6 @@ func (s *Store) Load() error {
 	return nil
 }
 
-// ensureLoaded loads programs for a source from disk if not already in memory.
-// Must be called with the write lock held.
 func (s *Store) ensureLoaded(source string) {
 	if s.loaded[source] || s.dir == "" {
 		return
