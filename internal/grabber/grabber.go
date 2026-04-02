@@ -44,6 +44,10 @@ func (g *Grabber) Progress() *ProgressTracker {
 	return g.progress
 }
 
+func (g *Grabber) Close() {
+	g.progress.Close()
+}
+
 func (g *Grabber) tryLock(source string) bool {
 	g.grabbingMu.Lock()
 	defer g.grabbingMu.Unlock()

@@ -372,6 +372,7 @@ func main() {
 	}
 	drainWg.Wait()
 
+	g.Close()
 	s.Close()
 
 	logger.Info().Msg("saving data")

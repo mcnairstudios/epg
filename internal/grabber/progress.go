@@ -16,12 +16,18 @@ type SourceProgress struct {
 type ProgressTracker struct {
 	mu      sync.Mutex
 	sources map[string]*SourceProgress
+	done    chan struct{}
 }
 
 func NewProgressTracker() *ProgressTracker {
 	return &ProgressTracker{
 		sources: make(map[string]*SourceProgress),
+		done:    make(chan struct{}),
 	}
+}
+
+func (t *ProgressTracker) Close() {
+	close(t.done)
 }
 
 func (t *ProgressTracker) Start(source string, total int) {
@@ -56,10 +62,13 @@ func (t *ProgressTracker) Finish(source string) {
 	t.mu.Unlock()
 
 	go func() {
-		time.Sleep(30 * time.Second)
-		t.mu.Lock()
-		delete(t.sources, source)
-		t.mu.Unlock()
+		select {
+		case <-time.After(30 * time.Second):
+			t.mu.Lock()
+			delete(t.sources, source)
+			t.mu.Unlock()
+		case <-t.done:
+		}
 	}()
 }
 
