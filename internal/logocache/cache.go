@@ -2,6 +2,7 @@ package logocache
 
 import (
 	"bytes"
+	"context"
 	"io"
 	"net/http"
 	"os"
@@ -109,7 +110,7 @@ func (c *Cache) Serve(w http.ResponseWriter, r *http.Request, xmltvID string) {
 		return
 	}
 
-	data, contentType, ext, err := c.fetch(sourceURL)
+	data, contentType, ext, err := c.fetch(r.Context(), sourceURL)
 	if err != nil {
 		c.log.Error().Err(err).Str("key", key).Str("url", sourceURL).Msg("logo cache: fetch failed")
 		http.NotFound(w, r)
@@ -133,8 +134,8 @@ func (c *Cache) Serve(w http.ResponseWriter, r *http.Request, xmltvID string) {
 	w.Write(data)
 }
 
-func (c *Cache) fetch(sourceURL string) ([]byte, string, string, error) {
-	req, err := http.NewRequest(http.MethodGet, sourceURL, nil)
+func (c *Cache) fetch(ctx context.Context, sourceURL string) ([]byte, string, string, error) {
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, sourceURL, nil)
 	if err != nil {
 		return nil, "", "", err
 	}

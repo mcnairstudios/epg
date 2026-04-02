@@ -5,10 +5,11 @@ import (
 	"encoding/xml"
 	"flag"
 	"fmt"
-	"log"
 	"os"
 	"path/filepath"
 	"strings"
+
+	"github.com/rs/zerolog"
 )
 
 type xmlChannels struct {
@@ -244,13 +245,15 @@ func main() {
 	pluginsDir := flag.String("plugins", "", "path to epg plugins directory")
 	flag.Parse()
 
+	log := zerolog.New(os.Stdout).With().Timestamp().Logger()
+
 	if *sitesDir == "" || *pluginsDir == "" {
-		log.Fatal("usage: import-channels --sites /path/to/sites --plugins /path/to/plugins")
+		log.Fatal().Msg("usage: import-channels --sites /path/to/sites --plugins /path/to/plugins")
 	}
 
 	files, err := filepath.Glob(filepath.Join(*sitesDir, "*", "*.channels.xml"))
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal().Err(err).Msg("failed to glob sites")
 	}
 
 	merged := make(map[string]map[string]channelEntry)
@@ -312,12 +315,12 @@ func main() {
 		outPath := filepath.Join(pluginDir, "channels.json")
 		outData, err := json.MarshalIndent(entries, "", "  ")
 		if err != nil {
-			log.Printf("failed to marshal %s: %v", pluginName, err)
+			log.Error().Err(err).Str("plugin", pluginName).Msg("failed to marshal channels")
 			continue
 		}
 
 		if err := os.WriteFile(outPath, outData, 0644); err != nil {
-			log.Printf("failed to write %s: %v", outPath, err)
+			log.Error().Err(err).Str("path", outPath).Msg("failed to write channels")
 			continue
 		}
 

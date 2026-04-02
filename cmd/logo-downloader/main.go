@@ -5,13 +5,14 @@ import (
 	"flag"
 	"fmt"
 	"io"
-	"log"
 	"net/http"
 	"os"
 	"path/filepath"
 	"strings"
 	"sync"
 	"time"
+
+	"github.com/rs/zerolog"
 
 	"github.com/gavinmcnair/epg/internal/logocache"
 
@@ -249,15 +250,17 @@ func main() {
 	workers := flag.Int("workers", 20, "number of concurrent download workers")
 	flag.Parse()
 
+	log := zerolog.New(os.Stdout).With().Timestamp().Logger()
+
 	if err := os.MkdirAll(*outDir, 0755); err != nil {
-		log.Fatalf("failed to create output dir: %v", err)
+		log.Fatal().Err(err).Msg("failed to create output dir")
 	}
 
 	seen := make(map[string]string)
 	for _, p := range plugin.List() {
 		channels, err := p.Channels()
 		if err != nil {
-			log.Printf("warning: %s: %v", p.Name(), err)
+			log.Warn().Err(err).Str("plugin", p.Name()).Msg("failed to load channels")
 			continue
 		}
 		for _, ch := range channels {
@@ -273,7 +276,7 @@ func main() {
 			}
 		}
 	}
-	log.Printf("found %d unique logo keys across all plugins", len(seen))
+	log.Info().Int("count", len(seen)).Msg("found unique logo keys")
 
 	jobs := make(chan job, len(seen))
 	for k, u := range seen {
@@ -297,7 +300,7 @@ func main() {
 			for j := range jobs {
 				filename, err := downloadLogo(client, *outDir, j.key, j.logoURL)
 				if err != nil {
-					log.Printf("skip %s: %v", j.key, err)
+					log.Warn().Err(err).Str("key", j.key).Msg("skipping logo")
 					continue
 				}
 				results <- result{key: j.key, filename: filename}
@@ -318,17 +321,17 @@ func main() {
 	manifestPath := filepath.Join(*outDir, "manifest.json")
 	f, err := os.Create(manifestPath)
 	if err != nil {
-		log.Fatalf("failed to create manifest: %v", err)
+		log.Fatal().Err(err).Msg("failed to create manifest")
 	}
 	enc := json.NewEncoder(f)
 	enc.SetIndent("", "  ")
 	if err := enc.Encode(manifest); err != nil {
 		f.Close()
-		log.Fatalf("failed to write manifest: %v", err)
+		log.Fatal().Err(err).Msg("failed to write manifest")
 	}
 	f.Close()
 
-	log.Printf("downloaded %d logos, manifest written to %s", len(manifest), manifestPath)
+	log.Info().Int("downloaded", len(manifest)).Str("manifest", manifestPath).Msg("done")
 }
 
 func downloadLogo(client *http.Client, outDir, key, logoURL string) (string, error) {
