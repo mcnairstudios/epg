@@ -92,11 +92,11 @@ func (c *Cache) Serve(w http.ResponseWriter, r *http.Request, xmltvID string) {
 	key := safeBase(xmltvID)
 
 	c.mu.RLock()
-	entry, cached := c.files[key]
+	entry, found := c.files[key]
 	sourceURL := c.index[key]
 	c.mu.RUnlock()
 
-	if cached && c.dir != "" {
+	if found && c.dir != "" {
 		serveFile(w, filepath.Join(c.dir, entry.filename), entry.contentType)
 		return
 	}
@@ -120,10 +120,7 @@ func (c *Cache) Serve(w http.ResponseWriter, r *http.Request, xmltvID string) {
 			log.Printf("logo cache: write failed for %s: %v", dest, writeErr)
 		} else {
 			c.mu.Lock()
-			c.files[key] = struct {
-				filename    string
-				contentType string
-			}{filename, contentType}
+			c.files[key] = cached{filename: filename, contentType: contentType}
 			c.mu.Unlock()
 		}
 	}

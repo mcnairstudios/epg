@@ -18,12 +18,14 @@ type statsResponse struct {
 }
 
 func (s *Server) getStats(w http.ResponseWriter, r *http.Request) {
+	plugins := plugin.List()
+	externalSources := s.externalSources.List()
 	resp := statsResponse{
-		Sources:         len(plugin.List()) + len(s.externalSources.List()),
+		Sources:         len(plugins) + len(externalSources),
 		Channels:        s.store.ChannelCount(),
 		Programs:        s.store.ProgramCount(),
-		Plugins:         len(plugin.List()),
-		ExternalSources: len(s.externalSources.List()),
+		Plugins:         len(plugins),
+		ExternalSources: len(externalSources),
 		GrabStats:       s.store.GetGrabStats(),
 	}
 	json.NewEncoder(w).Encode(resp)
