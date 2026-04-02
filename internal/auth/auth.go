@@ -16,6 +16,11 @@ import (
 	"golang.org/x/crypto/bcrypt"
 )
 
+var dummyHash = func() []byte {
+	h, _ := bcrypt.GenerateFromPassword([]byte("dummy-constant-placeholder"), bcrypt.DefaultCost)
+	return h
+}()
+
 type User struct {
 	ID           string    `json:"id"`
 	Username     string    `json:"username"`
@@ -95,18 +100,24 @@ func (s *UserStore) SetPassword(id, password string) error {
 
 func (s *UserStore) ValidatePassword(username, password string) (User, bool) {
 	s.mu.RLock()
-	defer s.mu.RUnlock()
-
+	var match *User
 	for _, u := range s.users {
-		if u.Username != username || u.PasswordHash == "" {
-			continue
+		if u.Username == username && u.PasswordHash != "" {
+			cp := u
+			match = &cp
+			break
 		}
-		if bcrypt.CompareHashAndPassword([]byte(u.PasswordHash), []byte(password)) == nil {
-			return u, true
-		}
+	}
+	s.mu.RUnlock()
+
+	if match == nil {
+		bcrypt.CompareHashAndPassword(dummyHash, []byte(password))
 		return User{}, false
 	}
-	return User{}, false
+	if bcrypt.CompareHashAndPassword([]byte(match.PasswordHash), []byte(password)) != nil {
+		return User{}, false
+	}
+	return *match, true
 }
 
 func (s *UserStore) HasAdminWithPassword() bool {
