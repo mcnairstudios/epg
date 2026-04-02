@@ -79,7 +79,9 @@ func (s *Server) triggerGrabAll(w http.ResponseWriter, r *http.Request) {
 		s.store.RecordGrabStats(name, summary.TotalChannels, summary.ChannelsWithData, sr.Results, sr.Errors, duration)
 	}
 
-	s.store.Save()
+	if err := s.store.Save(); err != nil {
+		s.log.Error().Err(err).Msg("grab-all: failed to persist")
+	}
 
 	json.NewEncoder(w).Encode(resp)
 }

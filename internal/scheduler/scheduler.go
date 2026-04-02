@@ -25,14 +25,11 @@ type Scheduler struct {
 }
 
 func New(g *grabber.Grabber, s *store.Store, disabled *store.DisabledStore, logger zerolog.Logger) *Scheduler {
-	ctx, cancel := context.WithCancel(context.Background())
 	return &Scheduler{
 		cron:     cron.New(),
 		grabber:  g,
 		store:    s,
 		disabled: disabled,
-		ctx:      ctx,
-		cancel:   cancel,
 		log:      logger,
 	}
 }
@@ -52,6 +49,9 @@ func (s *Scheduler) Start(schedule string) error {
 		return err
 	}
 
+	ctx, cancel := context.WithCancel(context.Background())
+	s.ctx = ctx
+	s.cancel = cancel
 	s.entryID = id
 	s.running = true
 	s.cron.Start()
