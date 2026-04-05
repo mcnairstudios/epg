@@ -10,7 +10,8 @@
     "site_id": "cnn-international-hd",
     "name": "CNN International HD",
     "lang": "sv",
-    "xmltv_id": "CNNInternational.us@AsiaPacific"
+    "xmltv_id": "CNNInternational.us@AsiaPacific",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "disney-xd",
@@ -22,7 +23,8 @@
     "site_id": "nautical-channel-hd",
     "name": "Nautical Channel HD",
     "lang": "sv",
-    "xmltv_id": "NauticalChannel.it@SD"
+    "xmltv_id": "NauticalChannel.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/nautical-channel-int.png"
   },
   {
     "site_id": "rtr-planeta",
@@ -143,7 +145,8 @@
     "site_id": "kanal-11-hd",
     "name": "Kanal 11 HD",
     "lang": "sv",
-    "xmltv_id": "Kanal11.se@SD"
+    "xmltv_id": "Kanal11.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/nordic/sweden/kanal-11-se.png"
   },
   {
     "site_id": "tvp-polonia",
@@ -260,7 +263,8 @@
     "site_id": "svt-barn-hd",
     "name": "SVT Barn HD",
     "lang": "sv",
-    "xmltv_id": "SVTBarn.se@SD"
+    "xmltv_id": "SVTBarn.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/nordic/sweden/svt-barn-se.png"
   },
   {
     "site_id": "svtbsvt24-hd-text",
@@ -310,7 +314,7 @@
   },
   {
     "site_id": "horse-country",
-    "name": "Horse \u0026 Country (UK)",
+    "name": "Horse & Country (UK)",
     "lang": "en",
     "xmltv_id": "HorseCountryTV.uk@SD",
     "logo": "https://i.imgur.com/1x6zYZr.png"
@@ -354,7 +358,8 @@
     "site_id": "v-sport-vinter-hd",
     "name": "V Sport Vinter HD",
     "lang": "sv",
-    "xmltv_id": "VSportVinter.se@SD"
+    "xmltv_id": "VSportVinter.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/nordic/sweden/v-sport-vinter-se.png"
   },
   {
     "site_id": "euronews-hd",
@@ -445,7 +450,8 @@
     "site_id": "mtv-hd",
     "name": "MTV HD",
     "lang": "sv",
-    "xmltv_id": "MTV.se"
+    "xmltv_id": "MTV.se",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/mtv-00s-eu.png"
   },
   {
     "site_id": "eurosport-1",
@@ -472,7 +478,8 @@
     "site_id": "cnbc-hd",
     "name": "CNBC HD",
     "lang": "sv",
-    "xmltv_id": "CNBC.us@SD"
+    "xmltv_id": "CNBC.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnbc-us.png"
   },
   {
     "site_id": "nrk1-hd",
@@ -792,7 +799,8 @@
     "site_id": "nickelodeon-hd",
     "name": "Nickelodeon HD",
     "lang": "sv",
-    "xmltv_id": "Nickelodeon.se@SD"
+    "xmltv_id": "Nickelodeon.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/nickelodeon-lam.png"
   },
   {
     "site_id": "super-rtl",
@@ -893,11 +901,12 @@
     "site_id": "v-sport-extra-hd",
     "name": "V Sport Extra HD",
     "lang": "sv",
-    "xmltv_id": "VSportExtra.se@SD"
+    "xmltv_id": "VSportExtra.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/nordic/sweden/v-sport-extra-se.png"
   },
   {
     "site_id": "yle-teema-fem-hd",
-    "name": "Yle Teema \u0026 Fem HD",
+    "name": "Yle Teema & Fem HD",
     "lang": "fi",
     "xmltv_id": "YleTeemaFem.fi@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png"
@@ -997,7 +1006,8 @@
     "site_id": "duna-tv-hd",
     "name": "Duna TV HD",
     "lang": "sv",
-    "xmltv_id": "Duna.hu@SD"
+    "xmltv_id": "Duna.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/duna-hu.png"
   },
   {
     "site_id": "tv4-fotboll",
@@ -1040,7 +1050,7 @@
   },
   {
     "site_id": "yle-teema-fem",
-    "name": "Yle Teema \u0026 Fem",
+    "name": "Yle Teema & Fem",
     "lang": "sv",
     "xmltv_id": "YleTeemaFem.fi@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png"
@@ -1238,7 +1248,7 @@
   },
   {
     "site_id": "horse-country-tv",
-    "name": "Horse \u0026 Country TV",
+    "name": "Horse & Country TV",
     "lang": "sv",
     "xmltv_id": "HorseCountryTV.uk@SD",
     "logo": "https://i.imgur.com/1x6zYZr.png"
@@ -1287,7 +1297,8 @@
     "site_id": "kanal-5-hd",
     "name": "Kanal 5 HD",
     "lang": "sv",
-    "xmltv_id": "Kanal5.se@SD"
+    "xmltv_id": "Kanal5.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/nordic/sweden/kanal-5-se.png"
   },
   {
     "site_id": "mtv-aitio",
@@ -1559,7 +1570,8 @@
     "site_id": "tv3-hd",
     "name": "TV3 HD",
     "lang": "sv",
-    "xmltv_id": "TV3.es@SD"
+    "xmltv_id": "TV3.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/laliga-tv-3-por-movistar-plus-es.png"
   },
   {
     "site_id": "v-film-family",
@@ -1643,7 +1655,8 @@
     "site_id": "sjuan-hd",
     "name": "Sjuan HD",
     "lang": "sv",
-    "xmltv_id": "Sjuan.se@SD"
+    "xmltv_id": "Sjuan.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/nordic/sweden/sjuan-se.png"
   },
   {
     "site_id": "sky-history-2-hd",
@@ -1807,7 +1820,8 @@
     "site_id": "kunskapskanalen-hd",
     "name": "Kunskapskanalen HD",
     "lang": "sv",
-    "xmltv_id": "Kunskapskanalen.se@SD"
+    "xmltv_id": "Kunskapskanalen.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/nordic/sweden/kunskapskanalen-se.png"
   },
   {
     "site_id": "national-geographic-hd-1",
@@ -1841,7 +1855,8 @@
     "site_id": "france-2-hd",
     "name": "France 2 HD",
     "lang": "sv",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "oppna-kanalen-stockholm",
@@ -1860,7 +1875,8 @@
     "site_id": "v-series-hd",
     "name": "V Series HD",
     "lang": "sv",
-    "xmltv_id": "VSeries.se@SD"
+    "xmltv_id": "VSeries.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/nordic/sweden/v-series-se.png"
   },
   {
     "site_id": "animal-planet",
@@ -2039,7 +2055,8 @@
     "site_id": "kanal-9-hd",
     "name": "Kanal 9 HD",
     "lang": "sv",
-    "xmltv_id": "Kanal9.se@SD"
+    "xmltv_id": "Kanal9.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/nordic/sweden/kanal-9-se.png"
   },
   {
     "site_id": "motorvision-tv",

@@ -43,7 +43,8 @@
     "site_id": "dvb://233a..4500",
     "name": "Channel 4 HD",
     "lang": "en",
-    "xmltv_id": "Channel4.uk@UK"
+    "xmltv_id": "Channel4.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/channel-4-uk.png"
   },
   {
     "site_id": "http://bds.tv/services/BT_757355_1409_HD",
@@ -422,7 +423,8 @@
     "site_id": "http://bds.tv/services/BT_769095",
     "name": "Sky Sports Box Office HD",
     "lang": "en",
-    "xmltv_id": "TNTSportsBoxOffice.uk@HD"
+    "xmltv_id": "TNTSportsBoxOffice.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-box-office-uk.png"
   },
   {
     "site_id": "http://bds.tv/services/BT_750608_1857_SD",
@@ -661,7 +663,7 @@
   },
   {
     "site_id": "http://bds.tv/services/BT_758030_1807_HD",
-    "name": "Sky Cinema Sci-Fi \u0026 Horror HD",
+    "name": "Sky Cinema Sci-Fi & Horror HD",
     "lang": "en",
     "xmltv_id": "SkyCinemaSciFiHorror.uk@HD",
     "logo": "https://i.imgur.com/Plz70jD.png"
@@ -753,7 +755,8 @@
     "site_id": "http://bds.tv/services/BT_758727_1811_HD",
     "name": "Sky Cinema Best of 2023 HD",
     "lang": "en",
-    "xmltv_id": "SkyCinemaSelect.uk"
+    "xmltv_id": "SkyCinemaSelect.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png"
   },
   {
     "site_id": "http://bds.tv/services/BT_767454",
@@ -980,7 +983,7 @@
   },
   {
     "site_id": "dvb://233a..5b20",
-    "name": "Create \u0026 Craft",
+    "name": "Create & Craft",
     "lang": "en",
     "xmltv_id": "CreateandCraft.uk@SD",
     "logo": "https://i.imgur.com/n65sk4L.png"
@@ -1328,7 +1331,7 @@
   },
   {
     "site_id": "http://bds.tv/services/BT_727786_1807_SD",
-    "name": "Sky Cinema Sci-Fi \u0026 Horror",
+    "name": "Sky Cinema Sci-Fi & Horror",
     "lang": "en",
     "xmltv_id": "SkyCinemaSciFiHorror.uk@SD",
     "logo": "https://i.imgur.com/Plz70jD.png"
@@ -1610,7 +1613,8 @@
     "site_id": "http://bds.tv/services/BT_758029_1816_HD",
     "name": "Sky Cinema Christmas HD",
     "lang": "en",
-    "xmltv_id": "SkyCinemaDrama.uk@HD"
+    "xmltv_id": "SkyCinemaDrama.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-drama-uk.png"
   },
   {
     "site_id": "http://bds.tv/services/BT_768613",

@@ -59,7 +59,7 @@
   },
   {
     "site_id": "SamsungTVPlus/fr#FRBD2600002CR",
-    "name": "Maison \u0026amp; Travaux",
+    "name": "Maison &amp; Travaux",
     "lang": "fr",
     "region": "SAMSUNG"
   },
@@ -154,7 +154,8 @@
     "name": "TBD",
     "lang": "en",
     "region": "STIRR",
-    "xmltv_id": "Roar.us"
+    "xmltv_id": "Roar.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/roar-us.png"
   },
   {
     "site_id": "au/Hobart/epg#mjh-cas31-FAST",
@@ -190,7 +191,7 @@
   },
   {
     "site_id": "PlutoTV/us#5fb5836fe745b600070fc743",
-    "name": "BBC Home \u0026amp; Garden",
+    "name": "BBC Home &amp; Garden",
     "lang": "en",
     "region": "PLUTO",
     "xmltv_id": "BBCHomeGarden.us@SD"
@@ -366,7 +367,8 @@
     "name": "Deluxe Lounge HD",
     "lang": "es",
     "region": "SAMSUNG",
-    "xmltv_id": "DeluxeLounge.de@SD"
+    "xmltv_id": "DeluxeLounge.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/deluxe-lounge-de.png"
   },
   {
     "site_id": "SamsungTVPlus/us#USBD700022M5",
@@ -380,14 +382,16 @@
     "name": "Bravo Plus 1",
     "lang": "en",
     "region": "SKYGO",
-    "xmltv_id": "Bravo.nz@Plus1"
+    "xmltv_id": "Bravo.nz@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/bravo-nz.png"
   },
   {
     "site_id": "au/Perth/epg#mjh-gusto-FAST",
     "name": "Gusto",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "eden.nz"
+    "xmltv_id": "eden.nz",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/eden-nz.png"
   },
   {
     "site_id": "PlutoTV/mx#5efb8c19b2678b000780d032",
@@ -424,7 +428,7 @@
   },
   {
     "site_id": "SamsungTVPlus/us#USBB3200001MG",
-    "name": "REELZ Famous \u0026amp; Infamous",
+    "name": "REELZ Famous &amp; Infamous",
     "lang": "en",
     "region": "SAMSUNG"
   },
@@ -453,7 +457,8 @@
     "name": "FUEL TV",
     "lang": "pt",
     "region": "PLUTO",
-    "xmltv_id": "FUELTV.pt@EMEA"
+    "xmltv_id": "FUELTV.pt@EMEA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/fueltv-pt.png"
   },
   {
     "site_id": "PlutoTV/dk#61c19af83fae0a00078c8918",
@@ -606,7 +611,8 @@
     "name": "GEM (HD)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "GEM.sg@SD"
+    "xmltv_id": "GEM.sg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/singapore/gem-sg.png"
   },
   {
     "site_id": "au/Melbourne/epg#mjh-10-mtv-drama",
@@ -716,7 +722,8 @@
     "name": "Travelxp [FR]",
     "lang": "de",
     "region": "SAMSUNG",
-    "xmltv_id": "Travelxp.in@SD"
+    "xmltv_id": "Travelxp.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/travelxp-in.png"
   },
   {
     "site_id": "SamsungTVPlus/gb#GBBC900011EC",
@@ -767,7 +774,8 @@
     "name": "Realmadrid TV",
     "lang": "pt",
     "region": "PLUTO",
-    "xmltv_id": "RealMadridTV.es@SD"
+    "xmltv_id": "RealMadridTV.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/real-madrid-tv-es.png"
   },
   {
     "site_id": "PlutoTV/de#6447de7bd3fdde0008f1ef98",
@@ -791,7 +799,7 @@
   },
   {
     "site_id": "Roku/epg#roku-08973e5adc625d15aaa9c4c13cfb0307",
-    "name": "Hallmark Movies \u0026amp; More",
+    "name": "Hallmark Movies &amp; More",
     "lang": "en",
     "region": "ROKU"
   },
@@ -1188,7 +1196,7 @@
   },
   {
     "site_id": "SamsungTVPlus/de#DEBA33000419P",
-    "name": "Horse \u0026amp; Country",
+    "name": "Horse &amp; Country",
     "lang": "de",
     "region": "SAMSUNG"
   },
@@ -1310,14 +1318,16 @@
     "name": "Mixible",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "ETLive.us@SD"
+    "xmltv_id": "ETLive.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/et-live-us.png"
   },
   {
     "site_id": "PlutoTV/us#5eceb0d4065c240007688ec6",
     "name": "CBS News Texas",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "CBSNewsDFW.us@SD"
+    "xmltv_id": "CBSNewsDFW.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-dfw-dallas-fort-worth-us.png"
   },
   {
     "site_id": "Roku/epg#roku-522ffbcdab305b67955fa7cbafd97c65",
@@ -1356,7 +1366,8 @@
     "name": "MovieSphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-sbs-nitv",
@@ -1393,7 +1404,8 @@
     "name": "TVNZ 2 +1",
     "lang": "en",
     "region": "SKYGO",
-    "xmltv_id": "TVNZ2.nz@Plus1"
+    "xmltv_id": "TVNZ2.nz@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/tvnz-2-nz.png"
   },
   {
     "site_id": "au/Canberra/epg#mjh-abc-90-seconds-news",
@@ -1498,7 +1510,8 @@
     "name": "PGA Tour",
     "lang": "ko",
     "region": "SAMSUNG",
-    "xmltv_id": "PGATour.us@SD"
+    "xmltv_id": "PGATour.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/pga-tour-live-us.png"
   },
   {
     "site_id": "au/Melbourne/epg#mjh-wsl-FAST",
@@ -1630,7 +1643,8 @@
     "name": "ABC ME",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "ABCEntertains.au"
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/abc-entertains-au.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-61f9a611c68d91e31d4cc86c",
@@ -1821,11 +1835,12 @@
     "name": "Bravo PLUS 1",
     "lang": "en",
     "region": "NZ",
-    "xmltv_id": "Bravo.nz@Plus1"
+    "xmltv_id": "Bravo.nz@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/bravo-nz.png"
   },
   {
     "site_id": "PlutoTV/cl#6489c45766e48500083cceb6",
-    "name": "Starsky \u0026amp; Hutch",
+    "name": "Starsky &amp; Hutch",
     "lang": "es",
     "region": "PLUTO"
   },
@@ -1996,7 +2011,8 @@
     "name": "MovieSphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "PBS/all#KPBT",
@@ -2301,14 +2317,16 @@
     "name": "Moviesphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "au/Canberra/epg#mjh-redbull-tv",
     "name": "Redbull TV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "RedBullTV.at@SD"
+    "xmltv_id": "RedBullTV.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/red-bull-tv-int.png"
   },
   {
     "site_id": "PlutoTV/br#5f9b05a99547eb0007676b02",
@@ -2633,7 +2651,7 @@
   },
   {
     "site_id": "Roku/epg#roku-27900677348759d1a6b7c3d1709538e9",
-    "name": "Warner Bros. TV Love \u0026amp; Marriage",
+    "name": "Warner Bros. TV Love &amp; Marriage",
     "lang": "en",
     "region": "ROKU"
   },
@@ -2693,7 +2711,7 @@
   },
   {
     "site_id": "PlutoTV/us#628e685ba3811100070551a8",
-    "name": "Hallmark Movies \u0026amp; More",
+    "name": "Hallmark Movies &amp; More",
     "lang": "en",
     "region": "PLUTO"
   },
@@ -2722,7 +2740,8 @@
     "name": "TED",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "TED.us@SD"
+    "xmltv_id": "TED.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/busted-us.png"
   },
   {
     "site_id": "au/Darwin/epg#mjh-amc-FAST",
@@ -2769,7 +2788,8 @@
     "name": "Redbull TV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "RedBullTV.at@SD"
+    "xmltv_id": "RedBullTV.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/red-bull-tv-int.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d6",
@@ -3279,7 +3299,7 @@
   },
   {
     "site_id": "Roku/epg#roku-60db737695c95b599dad50d2c5595fe3",
-    "name": "Vevo Reggaeton \u0026amp; Trap",
+    "name": "Vevo Reggaeton &amp; Trap",
     "lang": "en",
     "region": "ROKU",
     "xmltv_id": "VevoReggaetonTrap.us@SD"
@@ -3384,7 +3404,7 @@
   },
   {
     "site_id": "SamsungTVPlus/at#ATBA33000209C",
-    "name": "Comedy \u0026amp; Shows",
+    "name": "Comedy &amp; Shows",
     "lang": "de",
     "region": "SAMSUNG"
   },
@@ -3396,7 +3416,7 @@
   },
   {
     "site_id": "SamsungTVPlus/us#USBC600017FG",
-    "name": "BBC Home \u0026amp; Garden",
+    "name": "BBC Home &amp; Garden",
     "lang": "en",
     "region": "SAMSUNG",
     "xmltv_id": "BBCHomeGarden.us@SD"
@@ -3505,7 +3525,8 @@
     "name": "RedeTV!",
     "lang": "pt",
     "region": "PLUTO",
-    "xmltv_id": "RedeTV.br@SD"
+    "xmltv_id": "RedeTV.br@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/rede-tv-br.png"
   },
   {
     "site_id": "PlutoTV/fr#5f914f9dccb4de0007df8bc4",
@@ -3758,7 +3779,8 @@
     "name": "GEM (HD)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "GEM.sg@SD"
+    "xmltv_id": "GEM.sg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/singapore/gem-sg.png"
   },
   {
     "site_id": "au/Darwin/epg#mjh-10-the-graham-norton-show",
@@ -3834,7 +3856,8 @@
     "name": "MeTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MeTV.us@SD"
+    "xmltv_id": "MeTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/me-tv-us.png"
   },
   {
     "site_id": "PlutoTV/us#60f5d389985a0c0007357304",
@@ -3897,7 +3920,8 @@
     "name": "CBS News Philadelphia",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "CBSNewsPhilly.us@SD"
+    "xmltv_id": "CBSNewsPhilly.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-philly-us.png"
   },
   {
     "site_id": "PlutoTV/us#62cdc75b1a1cbd0007ed45dc",
@@ -3924,7 +3948,8 @@
     "name": "MeTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MeTV.us@SD"
+    "xmltv_id": "MeTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/me-tv-us.png"
   },
   {
     "site_id": "PBS/all#WFYI",
@@ -4469,7 +4494,8 @@
     "name": "ONE HD (Mandarin)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "ONE.sg@SD"
+    "xmltv_id": "ONE.sg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/singapore/one-sg.png"
   },
   {
     "site_id": "PlutoTV/es#5f1abf097eb06300079b30f7",
@@ -4673,7 +4699,7 @@
   },
   {
     "site_id": "Roku/epg#roku-65506c44c9535b3787d255f333e7b1f7",
-    "name": "Places \u0026amp; Spaces",
+    "name": "Places &amp; Spaces",
     "lang": "en",
     "region": "ROKU"
   },
@@ -4919,7 +4945,8 @@
     "name": "Mzansi Wethu HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "MzansiWethu.za@SD"
+    "xmltv_id": "MzansiWethu.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/mzansi-wethu-za.png"
   },
   {
     "site_id": "PBS/all#WGTE",
@@ -5275,7 +5302,7 @@
   },
   {
     "site_id": "PlutoTV/dk#64e87ce528cec700088cec55",
-    "name": "Hoarders \u0026amp; Dirty Home Rescue",
+    "name": "Hoarders &amp; Dirty Home Rescue",
     "lang": "da",
     "region": "PLUTO"
   },
@@ -5478,14 +5505,16 @@
     "name": "Moviesphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-good-dot",
     "name": "GOOD.",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "GOOD.au@SD"
+    "xmltv_id": "GOOD.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/good-tv-au.png"
   },
   {
     "site_id": "PlutoTV/es#64db35b44c5ed80008f6a3ed",
@@ -5533,7 +5562,7 @@
   },
   {
     "site_id": "SamsungTVPlus/it#ITBC210000200",
-    "name": "Vevo '90s \u0026amp; '00s",
+    "name": "Vevo '90s &amp; '00s",
     "lang": "it",
     "region": "SAMSUNG"
   },
@@ -5564,7 +5593,8 @@
     "name": "Gusto",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "eden.nz"
+    "xmltv_id": "eden.nz",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/eden-nz.png"
   },
   {
     "site_id": "au/Hobart/epg#mjh-abc-90-seconds-business",
@@ -5577,7 +5607,8 @@
     "name": "MeTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MeTV.us@SD"
+    "xmltv_id": "MeTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/me-tv-us.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-10-hawaii_five_o",
@@ -5693,7 +5724,8 @@
     "name": "BABY FIRST",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "BabyFirst.us@US"
+    "xmltv_id": "BabyFirst.us@US",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/baby-first-tv-us.png"
   },
   {
     "site_id": "SkyGo/epg#sky.210",
@@ -6031,7 +6063,8 @@
     "name": "IGN",
     "lang": "fr",
     "region": "PLUTO",
-    "xmltv_id": "IGN.us@France"
+    "xmltv_id": "IGN.us@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hd/hbo-signature-hd-us.png"
   },
   {
     "site_id": "au/Hobart/epg#mjh-10-wicked-tuna",
@@ -6438,7 +6471,7 @@
   },
   {
     "site_id": "SamsungTVPlus/fr#FRBD1900013CB",
-    "name": "Vevo '90s \u0026amp; '00s",
+    "name": "Vevo '90s &amp; '00s",
     "lang": "fr",
     "region": "SAMSUNG"
   },
@@ -6642,7 +6675,8 @@
     "name": "Dove",
     "lang": "en",
     "region": "STIRR",
-    "xmltv_id": "DoveChannel.us@SD"
+    "xmltv_id": "DoveChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/dove-channel-us.png"
   },
   {
     "site_id": "PBS/all#KEDT",
@@ -7085,7 +7119,8 @@
     "name": "Gusto",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "eden.nz"
+    "xmltv_id": "eden.nz",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/eden-nz.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-al-jazeera",
@@ -7195,7 +7230,8 @@
     "name": "Outside",
     "lang": "en",
     "region": "PLEX",
-    "xmltv_id": "OutsideTV.us@SD"
+    "xmltv_id": "OutsideTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/outside-tv-us.png"
   },
   {
     "site_id": "PlutoTV/ca#63da370e2e477400081cf8b6",
@@ -7786,11 +7822,12 @@
     "name": "IGN",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "IGN.us@US"
+    "xmltv_id": "IGN.us@US",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hd/hbo-signature-hd-us.png"
   },
   {
     "site_id": "SamsungTVPlus/us#USBC3900009K5",
-    "name": "Vevo R\u0026amp;B",
+    "name": "Vevo R&amp;B",
     "lang": "en",
     "region": "SAMSUNG",
     "xmltv_id": "VevoRB.us@SD"
@@ -7850,7 +7887,7 @@
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75",
-    "name": "QwestTV Jazz \u0026 Beyond",
+    "name": "QwestTV Jazz & Beyond",
     "lang": "en",
     "region": "PLEX",
     "xmltv_id": "QwestTVJazzBeyond.fr@SD"
@@ -7890,7 +7927,7 @@
   },
   {
     "site_id": "SamsungTVPlus/es#ESBD3200002V5",
-    "name": "Heidi \u0026amp; Maya",
+    "name": "Heidi &amp; Maya",
     "lang": "es",
     "region": "SAMSUNG"
   },
@@ -7924,7 +7961,8 @@
     "name": "SABC 1 HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "SABC1.za@SD"
+    "xmltv_id": "SABC1.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/sabc-1-za.png"
   },
   {
     "site_id": "PlutoTV/br#5fa1612a669ba0000702017b",
@@ -7956,7 +7994,7 @@
   },
   {
     "site_id": "SamsungTVPlus/ch#CHBB4900003F5",
-    "name": "Spannung \u0026amp; Emotionen",
+    "name": "Spannung &amp; Emotionen",
     "lang": "de",
     "region": "SAMSUNG"
   },
@@ -8056,7 +8094,8 @@
     "name": "TalkTV",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "TalkTV.uk@SD"
+    "xmltv_id": "TalkTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/talk-tv-uk.png"
   },
   {
     "site_id": "SamsungTVPlus/us#USBD700010XU",
@@ -8247,7 +8286,8 @@
     "name": "Sky Racing - Thoroughbred Central",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SkyThoroughbredCentral.au@SD"
+    "xmltv_id": "SkyThoroughbredCentral.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-thoroughbred-central-au.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-abc-kids",
@@ -8505,7 +8545,8 @@
     "name": "maa movies",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "StarMaaMovies.in@SD"
+    "xmltv_id": "StarMaaMovies.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-maa-movies-hd-in.png"
   },
   {
     "site_id": "Singtel/epg#6126",
@@ -8553,7 +8594,8 @@
     "name": "eden+1",
     "lang": "en",
     "region": "SKYGO",
-    "xmltv_id": "eden.nz@Plus1"
+    "xmltv_id": "eden.nz@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/eden-nz.png"
   },
   {
     "site_id": "SamsungTVPlus/de#DEBA2200001LP",
@@ -8579,7 +8621,8 @@
     "name": "eMovies HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "eMovies.za@SD"
+    "xmltv_id": "eMovies.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/e-movies-za.png"
   },
   {
     "site_id": "PlutoTV/gb#620f6c60b994540007ddd74b",
@@ -8612,7 +8655,8 @@
     "name": "GOOD.",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "GOOD.au@SD"
+    "xmltv_id": "GOOD.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/good-tv-au.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6",
@@ -9074,7 +9118,8 @@
     "name": "Sky Racing - Thoroughbred Central",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SkyThoroughbredCentral.au@SD"
+    "xmltv_id": "SkyThoroughbredCentral.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-thoroughbred-central-au.png"
   },
   {
     "site_id": "Binge/epg#67434",
@@ -9325,7 +9370,8 @@
     "name": "MTV Classics",
     "lang": "fr",
     "region": "SAMSUNG",
-    "xmltv_id": "MTVClassic.us@France"
+    "xmltv_id": "MTVClassic.us@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-classic-us.png"
   },
   {
     "site_id": "SamsungTVPlus/us#USBB5200022PY",
@@ -9335,7 +9381,7 @@
   },
   {
     "site_id": "PlutoTV/fr#63b578b524f0cf00072f2a52",
-    "name": "Echappées Belles \u0026amp; Co",
+    "name": "Echappées Belles &amp; Co",
     "lang": "fr",
     "region": "PLUTO"
   },
@@ -9409,21 +9455,24 @@
     "name": "VIA HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "VIA.za@SD"
+    "xmltv_id": "VIA.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/via-za.png"
   },
   {
     "site_id": "nz/epg#mjh-three-plus1",
     "name": "ThreePlus1",
     "lang": "en",
     "region": "NZ",
-    "xmltv_id": "Three.nz@Plus1"
+    "xmltv_id": "Three.nz@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/three-nz.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-60bfcd2c7c60b7002c9765dc",
     "name": "PeopleTV",
     "lang": "en",
     "region": "PLEX",
-    "xmltv_id": "PeopleTV.us@SD"
+    "xmltv_id": "PeopleTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/people-tv-us.png"
   },
   {
     "site_id": "PlutoTV/dk#62bd9a23e7b6ab00070cf8ab",
@@ -9536,7 +9585,7 @@
   },
   {
     "site_id": "PlutoTV/us#5d51ddf0369acdb278dfb05e",
-    "name": "Love \u0026amp; Hip Hop",
+    "name": "Love &amp; Hip Hop",
     "lang": "en",
     "region": "PLUTO",
     "xmltv_id": "LoveHipHop.us@SD"
@@ -9712,7 +9761,8 @@
     "name": "Redbull TV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "RedBullTV.at@SD"
+    "xmltv_id": "RedBullTV.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/red-bull-tv-int.png"
   },
   {
     "site_id": "nz/epg#mjh-ch200",
@@ -10247,7 +10297,8 @@
     "name": "News18 India",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "News18India.in@SD"
+    "xmltv_id": "News18India.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/news-18-india-in.png"
   },
   {
     "site_id": "au/Adelaide/epg#mjh-medicalnrescue-FAST",
@@ -10266,7 +10317,8 @@
     "name": "ABC ME",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "ABCEntertains.au"
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/abc-entertains-au.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd",
@@ -10370,7 +10422,8 @@
     "name": "CBS Justice HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "CBSJustice.uk"
+    "xmltv_id": "CBSJustice.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/cbs-justice-uk.png"
   },
   {
     "site_id": "PlutoTV/se#642aedfeb065d900086681ea",
@@ -10400,7 +10453,7 @@
   },
   {
     "site_id": "Roku/epg#roku-2ad914601dfb5a61afc37a654f273f25",
-    "name": "Warner Bros. TV Love \u0026amp; Desire",
+    "name": "Warner Bros. TV Love &amp; Desire",
     "lang": "en",
     "region": "ROKU"
   },
@@ -11253,7 +11306,7 @@
   },
   {
     "site_id": "Binge/epg#15450",
-    "name": "A\u0026amp;E",
+    "name": "A&amp;E",
     "lang": "en",
     "region": "BINGE",
     "xmltv_id": "AE.au@SD",
@@ -11363,7 +11416,8 @@
     "name": "Astro Prima HD",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "AstroPrima.my@SD"
+    "xmltv_id": "AstroPrima.my@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/astro-prima-my.png"
   },
   {
     "site_id": "Stirr/all#dco",
@@ -12024,7 +12078,8 @@
     "name": "Cars",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "CarsTV.us@SD"
+    "xmltv_id": "CarsTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cars-tv-us.png"
   },
   {
     "site_id": "PlutoTV/cl#63eb907651f5d000085e4778",
@@ -12042,7 +12097,7 @@
   },
   {
     "site_id": "SamsungTVPlus/us#USBD330000948",
-    "name": "XITE R\u0026amp;B Classic Jams",
+    "name": "XITE R&amp;B Classic Jams",
     "lang": "en",
     "region": "SAMSUNG"
   },
@@ -12189,7 +12244,7 @@
   },
   {
     "site_id": "Roku/epg#roku-98c49becb09c53f2b3a34b274570ca08",
-    "name": "iHeartRadio R\u0026amp;B Jams",
+    "name": "iHeartRadio R&amp;B Jams",
     "lang": "en",
     "region": "ROKU"
   },
@@ -12500,7 +12555,7 @@
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e",
-    "name": "Hip-Hop/R\u0026B",
+    "name": "Hip-Hop/R&B",
     "lang": "en",
     "region": "PLEX"
   },
@@ -12519,7 +12574,7 @@
   },
   {
     "site_id": "PlutoTV/gb#63e23143a8b22700082b0a65",
-    "name": "Pluto TV Cops \u0026amp; Convicts",
+    "name": "Pluto TV Cops &amp; Convicts",
     "lang": "en",
     "region": "PLUTO"
   },
@@ -12588,7 +12643,8 @@
     "name": "ABC ME",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "ABCEntertains.au"
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/abc-entertains-au.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-61ddcc6023daf618ed44c29f",
@@ -12869,7 +12925,8 @@
     "name": "MovieSphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-10-mtv-love",
@@ -12922,7 +12979,8 @@
     "name": "Sky Racing - Thoroughbred Central",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SkyThoroughbredCentral.au@SD"
+    "xmltv_id": "SkyThoroughbredCentral.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-thoroughbred-central-au.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018",
@@ -13396,7 +13454,7 @@
   },
   {
     "site_id": "au/Brisbane/epg#mjh-cas29-FAST",
-    "name": "Cooking \u0026amp; Culture",
+    "name": "Cooking &amp; Culture",
     "lang": "en",
     "region": "AU"
   },
@@ -13504,7 +13562,8 @@
     "name": "GOOD.",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "GOOD.au@SD"
+    "xmltv_id": "GOOD.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/good-tv-au.png"
   },
   {
     "site_id": "Kayo/epg#53210",
@@ -13619,7 +13678,7 @@
   },
   {
     "site_id": "SamsungTVPlus/gb#GBBC2100002HP",
-    "name": "Vevo '90s \u0026amp; '00s",
+    "name": "Vevo '90s &amp; '00s",
     "lang": "en",
     "region": "SAMSUNG"
   },
@@ -13746,7 +13805,8 @@
     "name": "Redbull TV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "RedBullTV.at@SD"
+    "xmltv_id": "RedBullTV.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/red-bull-tv-int.png"
   },
   {
     "site_id": "PlutoTV/us#599375885ceaac3cabccbed7",
@@ -13767,7 +13827,8 @@
     "name": "Real America's Voice",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "RealAmericasVoice.us@SD"
+    "xmltv_id": "RealAmericasVoice.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/real-americas-voice-us.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-10-bellator",
@@ -13780,7 +13841,8 @@
     "name": "TRACE URBAN HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "TraceUrban.fr@SD"
+    "xmltv_id": "TraceUrban.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/trace-urban-fr.png"
   },
   {
     "site_id": "PBS/all#KAWE",
@@ -13882,7 +13944,8 @@
     "name": "PGA TOUR",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "PGATour.us@SD"
+    "xmltv_id": "PGATour.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/pga-tour-live-us.png"
   },
   {
     "site_id": "PlutoTV/us#5f4d878d3d19b30007d2e782",
@@ -14294,7 +14357,8 @@
     "name": "PGA Tour",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "PGATour.us@SD"
+    "xmltv_id": "PGATour.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/pga-tour-live-us.png"
   },
   {
     "site_id": "SamsungTVPlus/it#ITBC4000028E",
@@ -14477,7 +14541,8 @@
     "name": "Sky Racing - Thoroughbred Central",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SkyThoroughbredCentral.au@SD"
+    "xmltv_id": "SkyThoroughbredCentral.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-thoroughbred-central-au.png"
   },
   {
     "site_id": "au/Hobart/epg#mjh-10-mission_impossible",
@@ -14951,7 +15016,8 @@
     "name": "ABC ME",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "ABCEntertains.au"
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/abc-entertains-au.png"
   },
   {
     "site_id": "PlutoTV/ca#62ea3f8a38acc80007072d26",
@@ -15006,7 +15072,8 @@
     "name": "GOLF",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "GolfChannel.us@SD"
+    "xmltv_id": "GolfChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nbc-golf-channel-us.png"
   },
   {
     "site_id": "SamsungTVPlus/gb#GBAJ49000197P",
@@ -15303,7 +15370,8 @@
     "name": "MovieSphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "DStv/za#GOS",
@@ -15457,7 +15525,8 @@
     "name": "ABC ME",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "ABCEntertains.au"
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/abc-entertains-au.png"
   },
   {
     "site_id": "au/Adelaide/epg#mjh-wsl-FAST",
@@ -15632,7 +15701,8 @@
     "name": "Redbull TV",
     "lang": "en",
     "region": "NZ",
-    "xmltv_id": "RedBullTV.at@SD"
+    "xmltv_id": "RedBullTV.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/red-bull-tv-int.png"
   },
   {
     "site_id": "PlutoTV/cl#645952687cb4b100084ed52e",
@@ -15691,7 +15761,7 @@
   },
   {
     "site_id": "Roku/epg#roku-f0e3b9d58cc6555c9e693bf00e205077",
-    "name": "CINEVAULT: Murder \u0026amp; Mayhem",
+    "name": "CINEVAULT: Murder &amp; Mayhem",
     "lang": "en",
     "region": "ROKU"
   },
@@ -15979,7 +16049,8 @@
     "name": "Redbull TV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "RedBullTV.at@SD"
+    "xmltv_id": "RedBullTV.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/red-bull-tv-int.png"
   },
   {
     "site_id": "au/Melbourne/epg#mjh-betterhomesandgardens-FAST",
@@ -16066,7 +16137,7 @@
   },
   {
     "site_id": "au/Sydney/epg#mjh-cas29-FAST",
-    "name": "Cooking \u0026amp; Culture",
+    "name": "Cooking &amp; Culture",
     "lang": "en",
     "region": "AU"
   },
@@ -16264,7 +16335,8 @@
     "name": "Gusto",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "eden.nz"
+    "xmltv_id": "eden.nz",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/eden-nz.png"
   },
   {
     "site_id": "PlutoTV/ca#62cbf7439cb58900088dc77b",
@@ -16325,7 +16397,8 @@
     "name": "Dove",
     "lang": "en",
     "region": "ROKU",
-    "xmltv_id": "DoveChannel.us@SD"
+    "xmltv_id": "DoveChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/dove-channel-us.png"
   },
   {
     "site_id": "SamsungTVPlus/at#ATAJ0500456A",
@@ -16782,7 +16855,7 @@
   },
   {
     "site_id": "Roku/epg#roku-8ba514251e1a58b7b53368177baa1041",
-    "name": "Law \u0026amp; Crime",
+    "name": "Law &amp; Crime",
     "lang": "en",
     "region": "ROKU",
     "xmltv_id": "LawCrime.us@SD"
@@ -17202,7 +17275,7 @@
   },
   {
     "site_id": "SamsungTVPlus/ca#CABD1200012B8",
-    "name": "BBC Home \u0026amp; Garden",
+    "name": "BBC Home &amp; Garden",
     "lang": "en",
     "region": "SAMSUNG",
     "xmltv_id": "BBCHomeGarden.us@SD"
@@ -17462,7 +17535,8 @@
     "name": "Moviesphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "au/Darwin/epg#mjh-10-masterchef",
@@ -17583,13 +17657,13 @@
   },
   {
     "site_id": "SamsungTVPlus/it#ITBD3200007SZ",
-    "name": "Heidi \u0026amp; Maya",
+    "name": "Heidi &amp; Maya",
     "lang": "it",
     "region": "SAMSUNG"
   },
   {
     "site_id": "PlutoTV/br#5ffcc5130fd98c0007f2e216",
-    "name": "Kenan \u0026amp; Kel",
+    "name": "Kenan &amp; Kel",
     "lang": "pt",
     "region": "PLUTO"
   },
@@ -17615,7 +17689,7 @@
   },
   {
     "site_id": "SamsungTVPlus/fr#FRBC2100002JA",
-    "name": "Vevo Hip-Hop \u0026amp; R\u0026amp;B",
+    "name": "Vevo Hip-Hop &amp; R&amp;B",
     "lang": "fr",
     "region": "SAMSUNG"
   },
@@ -17642,7 +17716,8 @@
     "name": "ONE HD (Malay)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "ONE.sg@SD"
+    "xmltv_id": "ONE.sg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/singapore/one-sg.png"
   },
   {
     "site_id": "Stirr/all#externallinearfeed-01-15-2020-201540715-01-15-2020",
@@ -17766,7 +17841,8 @@
     "name": "Redbull TV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "RedBullTV.at@SD"
+    "xmltv_id": "RedBullTV.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/red-bull-tv-int.png"
   },
   {
     "site_id": "DStv/za#MCH",
@@ -17800,7 +17876,8 @@
     "name": "MTV CLASSICS",
     "lang": "fr",
     "region": "PLUTO",
-    "xmltv_id": "MTVClassic.us@France"
+    "xmltv_id": "MTVClassic.us@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-classic-us.png"
   },
   {
     "site_id": "PlutoTV/fr#62f3e0522443200008c567d7",
@@ -17860,7 +17937,8 @@
     "name": "PGA TOUR",
     "lang": "en",
     "region": "ROKU",
-    "xmltv_id": "PGATour.us@SD"
+    "xmltv_id": "PGATour.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/pga-tour-live-us.png"
   },
   {
     "site_id": "SamsungTVPlus/ca#CABC52000127S",
@@ -17903,7 +17981,7 @@
   },
   {
     "site_id": "SamsungTVPlus/ch#CHBB4900004VT",
-    "name": "Comedy \u0026amp; Shows",
+    "name": "Comedy &amp; Shows",
     "lang": "de",
     "region": "SAMSUNG"
   },
@@ -18030,7 +18108,8 @@
     "name": "Gusto",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "eden.nz"
+    "xmltv_id": "eden.nz",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/eden-nz.png"
   },
   {
     "site_id": "hgtv_go/epg#167",
@@ -18063,7 +18142,8 @@
     "name": "Deluxe Lounge HD",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "DeluxeLounge.de@SD"
+    "xmltv_id": "DeluxeLounge.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/deluxe-lounge-de.png"
   },
   {
     "site_id": "SkyGo/epg#sky.421",
@@ -18215,7 +18295,7 @@
   },
   {
     "site_id": "SamsungTVPlus/gb#GBBD1900009UD",
-    "name": "Vevo '70s \u0026amp; '80s",
+    "name": "Vevo '70s &amp; '80s",
     "lang": "en",
     "region": "SAMSUNG"
   },
@@ -18586,7 +18666,8 @@
     "name": "GOOD.",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "GOOD.au@SD"
+    "xmltv_id": "GOOD.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/good-tv-au.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-10-prisoner",
@@ -18801,7 +18882,8 @@
     "name": "MovieSphere by Lionsgate",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "MovieSphere.us"
+    "xmltv_id": "MovieSphere.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "Roku/epg#roku-75ff2c061db65f4e812cfbe6b1480752",
@@ -18829,7 +18911,8 @@
     "name": "MovieSphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "PlutoTV/cl#620ac814864949000724fb77",
@@ -18951,7 +19034,8 @@
     "name": "GOOD.",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "GOOD.au@SD"
+    "xmltv_id": "GOOD.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/good-tv-au.png"
   },
   {
     "site_id": "DStv/za#F26",
@@ -19135,7 +19219,8 @@
     "name": "TVB Jade (HD)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "Jade.hk@SD"
+    "xmltv_id": "Jade.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/tvb-jade-hk.png"
   },
   {
     "site_id": "au/Perth/epg#mjh-10-seasonal_movies",
@@ -19189,7 +19274,8 @@
     "name": "Sky Racing - Thoroughbred Central",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SkyThoroughbredCentral.au@SD"
+    "xmltv_id": "SkyThoroughbredCentral.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-thoroughbred-central-au.png"
   },
   {
     "site_id": "PlutoTV/dk#6400bc50953da40008b94668",
@@ -19283,7 +19369,7 @@
   },
   {
     "site_id": "SamsungTVPlus/ch#CHBA3300031AD",
-    "name": "Horse \u0026amp; Country",
+    "name": "Horse &amp; Country",
     "lang": "de",
     "region": "SAMSUNG"
   },
@@ -19645,7 +19731,8 @@
     "name": "ThreePlus1",
     "lang": "en",
     "region": "SKYGO",
-    "xmltv_id": "Three.nz@Plus1"
+    "xmltv_id": "Three.nz@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/three-nz.png"
   },
   {
     "site_id": "Stirr/all#externallinearfeed-12-15-2021-12-15-2021",
@@ -19968,7 +20055,8 @@
     "name": "MeTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MeTV.us@SD"
+    "xmltv_id": "MeTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/me-tv-us.png"
   },
   {
     "site_id": "Binge/epg#15465",
@@ -20079,7 +20167,7 @@
   },
   {
     "site_id": "Roku/epg#roku-b04b170e5f085586985358512adbdb9f",
-    "name": "BBC Home \u0026amp; Garden",
+    "name": "BBC Home &amp; Garden",
     "lang": "en",
     "region": "ROKU",
     "xmltv_id": "BBCHomeGarden.us@SD"
@@ -20380,7 +20468,8 @@
     "name": "Localish",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "Localish.us"
+    "xmltv_id": "Localish.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/abc-localish-us.png"
   },
   {
     "site_id": "SkyGo/epg#sky.75",
@@ -20474,7 +20563,7 @@
   },
   {
     "site_id": "SamsungTVPlus/in#INBC4300006K2",
-    "name": "Cook \u0026amp; Bake",
+    "name": "Cook &amp; Bake",
     "lang": "en",
     "region": "SAMSUNG"
   },
@@ -20581,7 +20670,7 @@
   },
   {
     "site_id": "PlutoTV/fr#6304979e62d51c000722df46",
-    "name": "Starsky \u0026amp; Hutch",
+    "name": "Starsky &amp; Hutch",
     "lang": "fr",
     "region": "PLUTO"
   },
@@ -21331,7 +21420,7 @@
   },
   {
     "site_id": "PlutoTV/se#64e771ac9b414d000841080c",
-    "name": "Hoarders \u0026amp; Dirty Home Rescue",
+    "name": "Hoarders &amp; Dirty Home Rescue",
     "lang": "sv",
     "region": "PLUTO"
   },
@@ -21750,7 +21839,8 @@
     "name": "MovieSphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "au/Adelaide/epg#mjh-paa-FAST",
@@ -21841,7 +21931,8 @@
     "name": "Golazo Network",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "CBSSportsGolazoNetwork.us@SD"
+    "xmltv_id": "CBSSportsGolazoNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-sports-golazo-network-us.png"
   },
   {
     "site_id": "SamsungTVPlus/de#DEBD1500001VJ",
@@ -21854,7 +21945,8 @@
     "name": "GOOD.",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "GOOD.au@SD"
+    "xmltv_id": "GOOD.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/good-tv-au.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-5ef51c802ddee5003f1c0225",
@@ -21892,7 +21984,7 @@
   },
   {
     "site_id": "Stirr/all#externallinearfeed-03-22-2019-03-22-2019",
-    "name": "Law \u0026amp; Crime",
+    "name": "Law &amp; Crime",
     "lang": "en",
     "region": "STIRR",
     "xmltv_id": "LawCrime.us@SD"
@@ -22178,7 +22270,8 @@
     "name": "Trace Sportstars",
     "lang": "es",
     "region": "SAMSUNG",
-    "xmltv_id": "TraceSportStars.fr@HD"
+    "xmltv_id": "TraceSportStars.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/trace-sport-stars-fr.png"
   },
   {
     "site_id": "SamsungTVPlus/es#ESBD3400001AA",
@@ -22257,7 +22350,8 @@
     "name": "ABC ME",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "ABCEntertains.au"
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/abc-entertains-au.png"
   },
   {
     "site_id": "DStv/za#POP",
@@ -22358,7 +22452,8 @@
     "name": "Stingray Classica Stream",
     "lang": "en",
     "region": "PLEX",
-    "xmltv_id": "StingrayClassica.ca@SD"
+    "xmltv_id": "StingrayClassica.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/stingray-classica-ca.png"
   },
   {
     "site_id": "PlutoTV/us#5f4d86f519358a00072b978e",
@@ -22399,7 +22494,8 @@
     "name": "CNN International HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "CNNInternational.us@AsiaPacific"
+    "xmltv_id": "CNNInternational.us@AsiaPacific",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "PBS/all#WLVT",
@@ -22451,7 +22547,7 @@
   },
   {
     "site_id": "Roku/epg#roku-ca27e73ea5315dd59ad7a75feff46b25",
-    "name": "Warner Bros. TV Paws \u0026amp; Claws",
+    "name": "Warner Bros. TV Paws &amp; Claws",
     "lang": "en",
     "region": "ROKU"
   },
@@ -22619,7 +22715,7 @@
   },
   {
     "site_id": "SamsungTVPlus/gb#GBBA2200008YU",
-    "name": "Horse \u0026amp; Country",
+    "name": "Horse &amp; Country",
     "lang": "en",
     "region": "SAMSUNG"
   },
@@ -22679,7 +22775,8 @@
     "name": "Mixible",
     "lang": "en",
     "region": "ROKU",
-    "xmltv_id": "ETLive.us@SD"
+    "xmltv_id": "ETLive.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/et-live-us.png"
   },
   {
     "site_id": "au/Adelaide/epg#mjh-10-bellator",
@@ -22689,7 +22786,7 @@
   },
   {
     "site_id": "au/Darwin/epg#mjh-cas29-FAST",
-    "name": "Cooking \u0026amp; Culture",
+    "name": "Cooking &amp; Culture",
     "lang": "en",
     "region": "AU"
   },
@@ -22838,7 +22935,8 @@
     "name": "Babyfirst",
     "lang": "pt",
     "region": "PLUTO",
-    "xmltv_id": "BabyFirst.us@Brazil"
+    "xmltv_id": "BabyFirst.us@Brazil",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/baby-first-tv-us.png"
   },
   {
     "site_id": "PlutoTV/br#633dcebd80386500074a2461",
@@ -23357,7 +23455,8 @@
     "name": "CNN News18",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "CNNNews18.in@SD"
+    "xmltv_id": "CNNNews18.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/cnn-news-18-in.png"
   },
   {
     "site_id": "SamsungTVPlus/it#ITBC30000017U",
@@ -23393,7 +23492,8 @@
     "name": "Sky Racing - Thoroughbred Central",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SkyThoroughbredCentral.au@SD"
+    "xmltv_id": "SkyThoroughbredCentral.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-thoroughbred-central-au.png"
   },
   {
     "site_id": "au/Melbourne/epg#mjh-10-bold-and-the-beautiful-classics",
@@ -23495,7 +23595,8 @@
     "name": "Mzansi Magic HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "MzansiMagic.za@SD"
+    "xmltv_id": "MzansiMagic.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/mzansi-magic-za.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-629141f6a0ed9c2b6ae63bb0",
@@ -23710,7 +23811,7 @@
   },
   {
     "site_id": "PlutoTV/es#6304f530440dc90007f514d3",
-    "name": "Poirot \u0026amp; Miss Marple",
+    "name": "Poirot &amp; Miss Marple",
     "lang": "es",
     "region": "PLUTO"
   },
@@ -23779,7 +23880,8 @@
     "name": "M Movies 1",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "MNetMovies1.za@SD"
+    "xmltv_id": "MNetMovies1.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/m-net-movies-1-za.png"
   },
   {
     "site_id": "PlutoTV/fr#60549e98061b5f000776866a",
@@ -23930,7 +24032,8 @@
     "name": "Business Day",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "BusinessDayTV.za@SD"
+    "xmltv_id": "BusinessDayTV.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/business-day-tv-za.png"
   },
   {
     "site_id": "Foxtel/epg#CNN",
@@ -24092,7 +24195,7 @@
   },
   {
     "site_id": "SamsungTVPlus/fr#FRBC3500002E4",
-    "name": "Echappées belles \u0026amp; co",
+    "name": "Echappées belles &amp; co",
     "lang": "fr",
     "region": "SAMSUNG"
   },
@@ -24353,7 +24456,8 @@
     "name": "Moviesphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "PlutoTV/cl#5fceaab478f2af00080ff51f",
@@ -24383,7 +24487,7 @@
   },
   {
     "site_id": "SamsungTVPlus/it#ITBD1100005LL",
-    "name": "Travel \u0026amp; Living by DOVE",
+    "name": "Travel &amp; Living by DOVE",
     "lang": "it",
     "region": "SAMSUNG"
   },
@@ -24392,7 +24496,8 @@
     "name": "Sky Racing - Thoroughbred Central",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SkyThoroughbredCentral.au@SD"
+    "xmltv_id": "SkyThoroughbredCentral.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-thoroughbred-central-au.png"
   },
   {
     "site_id": "au/Canberra/epg#mjh-10-nsw",
@@ -24431,7 +24536,8 @@
     "name": "Deluxe Lounge HD",
     "lang": "fr",
     "region": "SAMSUNG",
-    "xmltv_id": "DeluxeLounge.de@SD"
+    "xmltv_id": "DeluxeLounge.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/deluxe-lounge-de.png"
   },
   {
     "site_id": "SamsungTVPlus/us#USBB1000003HL",
@@ -24453,7 +24559,8 @@
     "name": "eden+1",
     "lang": "en",
     "region": "NZ",
-    "xmltv_id": "eden.nz@Plus1"
+    "xmltv_id": "eden.nz@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/eden-nz.png"
   },
   {
     "site_id": "PBS/all#WKYU",
@@ -24686,7 +24793,8 @@
     "name": "GOOD.",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "GOOD.au@SD"
+    "xmltv_id": "GOOD.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/good-tv-au.png"
   },
   {
     "site_id": "au/Canberra/epg#mjh-10-becker",
@@ -24735,7 +24843,8 @@
     "name": "Gusto",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "eden.nz"
+    "xmltv_id": "eden.nz",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/eden-nz.png"
   },
   {
     "site_id": "au/Hobart/epg#mjh-heki-FAST",
@@ -24905,13 +25014,13 @@
   },
   {
     "site_id": "SamsungTVPlus/at#ATBC30000021Q",
-    "name": "Spannung \u0026amp; Emotionen",
+    "name": "Spannung &amp; Emotionen",
     "lang": "de",
     "region": "SAMSUNG"
   },
   {
     "site_id": "SamsungTVPlus/de#DEBC2200001EO",
-    "name": "Spannung \u0026amp; Emotionen",
+    "name": "Spannung &amp; Emotionen",
     "lang": "de",
     "region": "SAMSUNG"
   },
@@ -25105,7 +25214,8 @@
     "name": "IGN",
     "lang": "es",
     "region": "PLUTO",
-    "xmltv_id": "IGN.us@Spain"
+    "xmltv_id": "IGN.us@Spain",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hd/hbo-signature-hd-us.png"
   },
   {
     "site_id": "PlutoTV/us#61326275b3c86a00078e4833",
@@ -25279,7 +25389,8 @@
     "name": "SABC 3 HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "SABC3.za@SD"
+    "xmltv_id": "SABC3.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/sabc-3-za.png"
   },
   {
     "site_id": "PlutoTV/br#61f2c6969fcc3800076ef8af",
@@ -25425,7 +25536,8 @@
     "name": "TVB Xing He (HD)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "TVBXingHe.hk@SD"
+    "xmltv_id": "TVBXingHe.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/tvb-xing-he-hk.png"
   },
   {
     "site_id": "au/Perth/epg#mjh-hockeyreplays-FAST",
@@ -25489,7 +25601,8 @@
     "name": "Dove",
     "lang": "en",
     "region": "PLEX",
-    "xmltv_id": "DoveChannel.us@SD"
+    "xmltv_id": "DoveChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/dove-channel-us.png"
   },
   {
     "site_id": "PlutoTV/de#64be745340962900080b55e7",
@@ -25518,7 +25631,7 @@
   },
   {
     "site_id": "Roku/epg#roku-ec301dd9a1055384965de1122464c4eb",
-    "name": "Barney \u0026amp; Friends",
+    "name": "Barney &amp; Friends",
     "lang": "en",
     "region": "ROKU"
   },
@@ -25549,7 +25662,8 @@
     "name": "Sol Música",
     "lang": "es",
     "region": "SAMSUNG",
-    "xmltv_id": "SolMusica.es@SD"
+    "xmltv_id": "SolMusica.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/sol-musica-es.png"
   },
   {
     "site_id": "SamsungTVPlus/gb#GBBA220000751",
@@ -25614,7 +25728,7 @@
   },
   {
     "site_id": "SamsungTVPlus/us#USBD270001633",
-    "name": "Hallmark Movies \u0026amp; More",
+    "name": "Hallmark Movies &amp; More",
     "lang": "en",
     "region": "SAMSUNG"
   },
@@ -25673,7 +25787,8 @@
     "name": "MeTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MeTV.us@SD"
+    "xmltv_id": "MeTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/me-tv-us.png"
   },
   {
     "site_id": "Foxtel/epg#SR2",
@@ -25856,7 +25971,8 @@
     "name": "TED",
     "lang": "ko",
     "region": "SAMSUNG",
-    "xmltv_id": "TED.us@SD"
+    "xmltv_id": "TED.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/busted-us.png"
   },
   {
     "site_id": "au/Darwin/epg#mjh-abc-90-seconds-news",
@@ -26012,7 +26128,8 @@
     "name": "MeTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MeTV.us@SD"
+    "xmltv_id": "MeTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/me-tv-us.png"
   },
   {
     "site_id": "Foxtel/epg#SHY",
@@ -26129,7 +26246,8 @@
     "name": "Outside",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "OutsideTV.us@SD"
+    "xmltv_id": "OutsideTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/outside-tv-us.png"
   },
   {
     "site_id": "SamsungTVPlus/in#INBA4900010X3",
@@ -26143,7 +26261,8 @@
     "name": "ABC ME",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "ABCEntertains.au"
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/abc-entertains-au.png"
   },
   {
     "site_id": "nz/epg#mjh-discovery-fast5",
@@ -26190,7 +26309,8 @@
     "name": "Deluxe Lounge HD",
     "lang": "de",
     "region": "SAMSUNG",
-    "xmltv_id": "DeluxeLounge.de@SD"
+    "xmltv_id": "DeluxeLounge.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/deluxe-lounge-de.png"
   },
   {
     "site_id": "SamsungTVPlus/ca#CABB2500021YQ",
@@ -26219,7 +26339,8 @@
     "name": "IGN",
     "lang": "en",
     "region": "FLASH",
-    "xmltv_id": "IGN.us@US"
+    "xmltv_id": "IGN.us@US",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hd/hbo-signature-hd-us.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6",
@@ -26579,7 +26700,8 @@
     "name": "Deluxe Lounge HD",
     "lang": "de",
     "region": "SAMSUNG",
-    "xmltv_id": "DeluxeLounge.de@SD"
+    "xmltv_id": "DeluxeLounge.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/deluxe-lounge-de.png"
   },
   {
     "site_id": "SamsungTVPlus/es#ESBD3700001S0",
@@ -26696,7 +26818,8 @@
     "name": "Discovery Family HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "DiscoveryFamily.us@SD"
+    "xmltv_id": "DiscoveryFamily.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/discovery-family-us.png"
   },
   {
     "site_id": "DStv/za#SSH",
@@ -26720,7 +26843,7 @@
   },
   {
     "site_id": "PlutoTV/gb#62ac405b3874370007419b7f",
-    "name": "Barney \u0026amp; Friends",
+    "name": "Barney &amp; Friends",
     "lang": "en",
     "region": "PLUTO"
   },
@@ -26754,7 +26877,8 @@
     "name": "MeTV",
     "lang": "en",
     "region": "NZ",
-    "xmltv_id": "MeTV.us@SD"
+    "xmltv_id": "MeTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/me-tv-us.png"
   },
   {
     "site_id": "PlutoTV/cl#6489c42e976ee90008547503",
@@ -27114,7 +27238,8 @@
     "name": "France24",
     "lang": "en",
     "region": "FLASH",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "Flash/epg#rea",
@@ -27135,7 +27260,8 @@
     "name": "SPIEGEL TV",
     "lang": "de",
     "region": "SAMSUNG",
-    "xmltv_id": "CuriosityChannel.de@SD"
+    "xmltv_id": "CuriosityChannel.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/curiosity-channel-de.png"
   },
   {
     "site_id": "SamsungTVPlus/ch#CHBA22000080G",
@@ -27215,7 +27341,8 @@
     "name": "Moviesphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "au/Hobart/epg#mjh-cas15-FAST",
@@ -27236,11 +27363,12 @@
     "name": "Channel O HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "ChannelO.za@SD"
+    "xmltv_id": "ChannelO.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/channel-o-za.png"
   },
   {
     "site_id": "PlutoTV/it#6465fef47cb4b100086ee7bd",
-    "name": "VH1+ Hip Hop \u0026amp; Rap",
+    "name": "VH1+ Hip Hop &amp; Rap",
     "lang": "it",
     "region": "PLUTO"
   },
@@ -27260,7 +27388,7 @@
   },
   {
     "site_id": "au/Adelaide/epg#mjh-cas29-FAST",
-    "name": "Cooking \u0026amp; Culture",
+    "name": "Cooking &amp; Culture",
     "lang": "en",
     "region": "AU"
   },
@@ -27462,7 +27590,8 @@
     "name": "Living",
     "lang": "en",
     "region": "SKYGO",
-    "xmltv_id": "Living.nz@SD"
+    "xmltv_id": "Living.nz@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/fine-living-int.png"
   },
   {
     "site_id": "au/Canberra/epg#mjh-bordersecurityaustralia-FAST",
@@ -27817,7 +27946,7 @@
   },
   {
     "site_id": "PlutoTV/us#63335d36a1cd8c000765466c",
-    "name": "Hallmark Movies \u0026amp; More",
+    "name": "Hallmark Movies &amp; More",
     "lang": "en",
     "region": "PLUTO"
   },
@@ -28271,14 +28400,16 @@
     "name": "CBS News Philadelphia",
     "lang": "en",
     "region": "ROKU",
-    "xmltv_id": "CBSNewsPhilly.us@SD"
+    "xmltv_id": "CBSNewsPhilly.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-philly-us.png"
   },
   {
     "site_id": "SamsungTVPlus/ca#CABB2500020SS",
     "name": "TED",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "TED.us@SD"
+    "xmltv_id": "TED.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/busted-us.png"
   },
   {
     "site_id": "SamsungTVPlus/kr#KRBB4200017HA",
@@ -28381,7 +28512,8 @@
     "name": "Deluxe Lounge HD",
     "lang": "it",
     "region": "SAMSUNG",
-    "xmltv_id": "DeluxeLounge.de@SD"
+    "xmltv_id": "DeluxeLounge.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/deluxe-lounge-de.png"
   },
   {
     "site_id": "au/Canberra/epg#mjh-onthecase-FAST",
@@ -28493,7 +28625,7 @@
   },
   {
     "site_id": "SamsungTVPlus/ca#CAAJ3400002DI",
-    "name": "Law\u0026amp;Crime",
+    "name": "Law&amp;Crime",
     "lang": "en",
     "region": "SAMSUNG",
     "xmltv_id": "LawCrime.us@SD"
@@ -28588,7 +28720,7 @@
   },
   {
     "site_id": "Roku/epg#roku-6be3083b8ec2508495684e5087f8f86a",
-    "name": "Vevo R\u0026amp;B",
+    "name": "Vevo R&amp;B",
     "lang": "en",
     "region": "ROKU",
     "xmltv_id": "VevoRB.us@SD"
@@ -28813,7 +28945,8 @@
     "name": "Moviesphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "PlutoTV/fr#602cf8963b4bc90007454541",
@@ -28858,7 +28991,7 @@
   },
   {
     "site_id": "au/Canberra/epg#mjh-cas29-FAST",
-    "name": "Cooking \u0026amp; Culture",
+    "name": "Cooking &amp; Culture",
     "lang": "en",
     "region": "AU"
   },
@@ -29160,7 +29293,7 @@
   },
   {
     "site_id": "au/Perth/epg#mjh-cas29-FAST",
-    "name": "Cooking \u0026amp; Culture",
+    "name": "Cooking &amp; Culture",
     "lang": "en",
     "region": "AU"
   },
@@ -29747,7 +29880,7 @@
   },
   {
     "site_id": "PlutoTV/ca#62fb6a4feb32e8000708f4d0",
-    "name": "Max \u0026amp; Ruby",
+    "name": "Max &amp; Ruby",
     "lang": "en",
     "region": "PLUTO"
   },
@@ -30044,7 +30177,7 @@
   },
   {
     "site_id": "SamsungTVPlus/es#ESBD230000289",
-    "name": "Vevo '70s \u0026amp; '80s",
+    "name": "Vevo '70s &amp; '80s",
     "lang": "es",
     "region": "SAMSUNG"
   },
@@ -30085,7 +30218,7 @@
   },
   {
     "site_id": "PlutoTV/us#5da0d83f66c9700009b96d0e",
-    "name": "Vevo R\u0026amp;B",
+    "name": "Vevo R&amp;B",
     "lang": "en",
     "region": "PLUTO",
     "xmltv_id": "VevoRB.us@SD"
@@ -30481,7 +30614,8 @@
     "name": "MOVIESPHERE",
     "lang": "en",
     "region": "PLEX",
-    "xmltv_id": "MovieSphere.us@SD"
+    "xmltv_id": "MovieSphere.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "PlutoTV/ca#64b52e907d9341000802f886",
@@ -30527,7 +30661,8 @@
     "name": "ESPN2",
     "lang": "en",
     "region": "SKYGO",
-    "xmltv_id": "ESPN2.au@SD"
+    "xmltv_id": "ESPN2.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/espn-2-au.png"
   },
   {
     "site_id": "au/Brisbane/epg#mjh-racing-FAST",
@@ -31153,11 +31288,12 @@
     "name": "Gusto",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "eden.nz"
+    "xmltv_id": "eden.nz",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/eden-nz.png"
   },
   {
     "site_id": "au/Melbourne/epg#mjh-cas29-FAST",
-    "name": "Cooking \u0026amp; Culture",
+    "name": "Cooking &amp; Culture",
     "lang": "en",
     "region": "AU"
   },
@@ -31198,7 +31334,8 @@
     "name": "Republic Bharat",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "RepublicBharat.in@SD"
+    "xmltv_id": "RepublicBharat.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/republic-bharat-tv-in.png"
   },
   {
     "site_id": "au/Melbourne/epg#mjh-blueheelers-FAST",
@@ -31371,7 +31508,8 @@
     "name": "Moviesphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "DStv/za#TEL",
@@ -31403,7 +31541,7 @@
   },
   {
     "site_id": "Roku/epg#roku-07f663ee06b95f669422528604ad3147",
-    "name": "Roku Channel Movies \u0026amp; TV",
+    "name": "Roku Channel Movies &amp; TV",
     "lang": "en",
     "region": "ROKU"
   },
@@ -31435,13 +31573,13 @@
   },
   {
     "site_id": "SamsungTVPlus/at#ATBA3300030EZ",
-    "name": "Horse \u0026amp; Country",
+    "name": "Horse &amp; Country",
     "lang": "de",
     "region": "SAMSUNG"
   },
   {
     "site_id": "SamsungTVPlus/de#DEBC2200002E7",
-    "name": "Comedy \u0026amp; Shows",
+    "name": "Comedy &amp; Shows",
     "lang": "de",
     "region": "SAMSUNG"
   },
@@ -31513,7 +31651,7 @@
   },
   {
     "site_id": "SamsungTVPlus/us#USAK3508710A",
-    "name": "Law \u0026amp; Crime",
+    "name": "Law &amp; Crime",
     "lang": "en",
     "region": "SAMSUNG",
     "xmltv_id": "LawCrime.us@SD"
@@ -31697,7 +31835,8 @@
     "name": "MOVIESPHERE by Lionsgate",
     "lang": "en",
     "region": "ROKU",
-    "xmltv_id": "MovieSphere.us"
+    "xmltv_id": "MovieSphere.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "SamsungTVPlus/gb#GBAJ700001FH",
@@ -31919,7 +32058,7 @@
   },
   {
     "site_id": "SamsungTVPlus/us#USBD1200009JI",
-    "name": "History \u0026amp; Warfare Now",
+    "name": "History &amp; Warfare Now",
     "lang": "en",
     "region": "SAMSUNG"
   },
@@ -32001,7 +32140,7 @@
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514",
-    "name": "Hallmark Movies \u0026 More",
+    "name": "Hallmark Movies & More",
     "lang": "en",
     "region": "PLEX",
     "xmltv_id": "HallmarkMoviesMore.us@SD"
@@ -32336,14 +32475,16 @@
     "name": "MovieSphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "DStv/za#MZM",
     "name": "Mzansi Music",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "MzansiMagicMusic.za@SD"
+    "xmltv_id": "MzansiMagicMusic.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/mzansi-magic-music-za.png"
   },
   {
     "site_id": "PlutoTV/se#6391e2514625e50007a0fcbd",
@@ -32416,7 +32557,8 @@
     "name": "Moviesphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "Roku/epg#roku-aee4056540505e84a2196b4d2263b745",
@@ -32634,7 +32776,7 @@
   },
   {
     "site_id": "SamsungTVPlus/ca#CABC5200015Q1",
-    "name": "Vevo R\u0026amp;B",
+    "name": "Vevo R&amp;B",
     "lang": "en",
     "region": "SAMSUNG",
     "xmltv_id": "VevoRB.us@SD"
@@ -32874,7 +33016,7 @@
   },
   {
     "site_id": "PlutoTV/gb#62a069bfd88ef000073f6775",
-    "name": "Garfield \u0026amp; Friends",
+    "name": "Garfield &amp; Friends",
     "lang": "en",
     "region": "PLUTO"
   },
@@ -32907,7 +33049,8 @@
     "name": "Redbull TV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "RedBullTV.at@SD"
+    "xmltv_id": "RedBullTV.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/red-bull-tv-int.png"
   },
   {
     "site_id": "au/Perth/epg#mjh-10-happy_days",
@@ -32921,7 +33064,8 @@
     "name": "SABC 2 HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "SABC2.za@SD"
+    "xmltv_id": "SABC2.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/sabc-2-za.png"
   },
   {
     "site_id": "PlutoTV/br#613fd0043ffa39000736bb2b",
@@ -33159,7 +33303,7 @@
   },
   {
     "site_id": "SamsungTVPlus/ch#CHBC40000027S",
-    "name": "Echappées belles \u0026amp; co [FR]",
+    "name": "Echappées belles &amp; co [FR]",
     "lang": "de",
     "region": "SAMSUNG"
   },
@@ -33187,7 +33331,7 @@
   },
   {
     "site_id": "PlutoTV/br#6489c4a066e48500083ccf97",
-    "name": "Starsky \u0026amp; Hutch - Justiça em Dobro",
+    "name": "Starsky &amp; Hutch - Justiça em Dobro",
     "lang": "pt",
     "region": "PLUTO"
   },
@@ -33232,7 +33376,8 @@
     "name": "Sky Racing - Thoroughbred Central",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SkyThoroughbredCentral.au@SD"
+    "xmltv_id": "SkyThoroughbredCentral.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-thoroughbred-central-au.png"
   },
   {
     "site_id": "PlutoTV/de#5ad9b7ffe738977e2c312133",
@@ -33249,7 +33394,7 @@
   },
   {
     "site_id": "PlutoTV/us#5f32f397795b750007706448",
-    "name": "Vevo Reggaeton \u0026amp; Trap",
+    "name": "Vevo Reggaeton &amp; Trap",
     "lang": "en",
     "region": "PLUTO",
     "xmltv_id": "VevoReggaetonTrap.us@SD"
@@ -33410,7 +33555,7 @@
   },
   {
     "site_id": "Foxtel/epg#AES",
-    "name": "A\u0026amp;E",
+    "name": "A&amp;E",
     "lang": "en",
     "region": "FOXTEL",
     "xmltv_id": "AE.au@SD",
@@ -33712,7 +33857,8 @@
     "name": "Astro Ria HD",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "AstroRia.my@SD"
+    "xmltv_id": "AstroRia.my@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/astro-ria-my.png"
   },
   {
     "site_id": "au/Brisbane/epg#mjh-aliennation-FAST",
@@ -33968,7 +34114,8 @@
     "name": "TVNZ 1 +1",
     "lang": "en",
     "region": "SKYGO",
-    "xmltv_id": "TVNZ1.nz@Plus1"
+    "xmltv_id": "TVNZ1.nz@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/tvnz-1-nz.png"
   },
   {
     "site_id": "PlutoTV/us#5dcf059646c0cf000a293edd",
@@ -34272,7 +34419,7 @@
   },
   {
     "site_id": "Roku/epg#roku-b0d5db7f498f56fcaf1f8289eea6ea4d",
-    "name": "Spark TV - Luz \u0026amp; Amor",
+    "name": "Spark TV - Luz &amp; Amor",
     "lang": "en",
     "region": "ROKU"
   },
@@ -34291,7 +34438,7 @@
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-614a11bfa6f839154ee3306d",
-    "name": "Spark TV Light \u0026 Love",
+    "name": "Spark TV Light & Love",
     "lang": "en",
     "region": "PLEX",
     "xmltv_id": "SparkTVLightLove.us@SD"
@@ -34352,7 +34499,7 @@
   },
   {
     "site_id": "SamsungTVPlus/it#ITBD1900010JL",
-    "name": "Vevo '70s \u0026amp; '80s",
+    "name": "Vevo '70s &amp; '80s",
     "lang": "it",
     "region": "SAMSUNG"
   },
@@ -34595,7 +34742,8 @@
     "name": "Deluxe Lounge HD",
     "lang": "it",
     "region": "PLUTO",
-    "xmltv_id": "DeluxeLounge.de@SD"
+    "xmltv_id": "DeluxeLounge.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/deluxe-lounge-de.png"
   },
   {
     "site_id": "SamsungTVPlus/de#DEAK0500445A",
@@ -35130,7 +35278,8 @@
     "name": "Bloomberg Originals",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "BloombergQuicktake.us@SD"
+    "xmltv_id": "BloombergQuicktake.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bloomberg-quicktake-us.png"
   },
   {
     "site_id": "PlutoTV/us#62fa81ccd1a7e90007c1ada0",
@@ -35383,7 +35532,7 @@
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-6308eda9ac9983739c8a29bb",
-    "name": "BBC Home \u0026 Garden",
+    "name": "BBC Home & Garden",
     "lang": "en",
     "region": "PLEX",
     "xmltv_id": "BBCHomeGarden.us@SD"
@@ -35494,7 +35643,8 @@
     "name": "More U",
     "lang": "en",
     "region": "PLEX",
-    "xmltv_id": "MoreU.us"
+    "xmltv_id": "MoreU.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-baltimore-us.png"
   },
   {
     "site_id": "SamsungTVPlus/in#INBC2800002WJ",
@@ -35572,7 +35722,7 @@
   },
   {
     "site_id": "Roku/epg#roku-7826e04665115efa804afd2785f52c93",
-    "name": "Redbox Faith \u0026amp; Family",
+    "name": "Redbox Faith &amp; Family",
     "lang": "en",
     "region": "ROKU"
   },
@@ -35794,7 +35944,7 @@
   },
   {
     "site_id": "PlutoTV/ca#62fb5f68741416000755b0a1",
-    "name": "Reno \u0026amp; Flip",
+    "name": "Reno &amp; Flip",
     "lang": "en",
     "region": "PLUTO"
   },
@@ -35912,7 +36062,7 @@
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-63489fcd1159f6a5ce819b7d",
-    "name": "Moconomy - Economy \u0026 Finance Infotainment",
+    "name": "Moconomy - Economy & Finance Infotainment",
     "lang": "en",
     "region": "PLEX"
   },
@@ -36057,7 +36207,8 @@
     "name": "eMovies Extra HD",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "eMoviesExtra.za"
+    "xmltv_id": "eMoviesExtra.za",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/e-movies-extra-za.png"
   },
   {
     "site_id": "SamsungTVPlus/kr#KRBB500037T3",
@@ -36104,7 +36255,8 @@
     "name": "Deluxe Lounge HD",
     "lang": "de",
     "region": "SAMSUNG",
-    "xmltv_id": "DeluxeLounge.de@SD"
+    "xmltv_id": "DeluxeLounge.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/deluxe-lounge-de.png"
   },
   {
     "site_id": "au/Melbourne/epg#mjh-10-mtv-the-shores",
@@ -36158,7 +36310,7 @@
   },
   {
     "site_id": "PlutoTV/no#64e7708a44fe100009c89007",
-    "name": "Hoarders \u0026amp; Dirty Home Rescue",
+    "name": "Hoarders &amp; Dirty Home Rescue",
     "lang": "no",
     "region": "PLUTO"
   },
@@ -36813,14 +36965,16 @@
     "name": "MeTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MeTV.us@SD"
+    "xmltv_id": "MeTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/me-tv-us.png"
   },
   {
     "site_id": "au/Darwin/epg#mjh-abc-me",
     "name": "ABC ME",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "ABCEntertains.au"
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/abc-entertains-au.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-sky-racing-1",
@@ -37828,7 +37982,8 @@
     "name": "Gusto",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "eden.nz"
+    "xmltv_id": "eden.nz",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/eden-nz.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-amc-FAST",
@@ -37876,7 +38031,8 @@
     "name": "Discovery Ch (HD)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "DiscoveryChannel.it@Plus1"
+    "xmltv_id": "DiscoveryChannel.it@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/discovery-channel-it.png"
   },
   {
     "site_id": "PlutoTV/de#5d767b1c126c65d0a307355f",
@@ -37986,7 +38142,7 @@
   },
   {
     "site_id": "PlutoTV/ca#62b97c5f0d8c8e0007cf48b9",
-    "name": "Life \u0026amp; Legend of Wyatt Earp",
+    "name": "Life &amp; Legend of Wyatt Earp",
     "lang": "en",
     "region": "PLUTO"
   },
@@ -38045,7 +38201,7 @@
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d",
-    "name": "Law \u0026 Crime",
+    "name": "Law & Crime",
     "lang": "en",
     "region": "PLEX",
     "xmltv_id": "LawCrime.us@SD"
@@ -38086,7 +38242,7 @@
   },
   {
     "site_id": "PlutoTV/mx#6489c45766e48500083cceb6",
-    "name": "Starsky \u0026amp; Hutch",
+    "name": "Starsky &amp; Hutch",
     "lang": "es",
     "region": "PLUTO"
   },
@@ -38136,7 +38292,8 @@
     "name": "KBS World (HD)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "KBSWorld.kr@SD"
+    "xmltv_id": "KBSWorld.kr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/kbs-world-int.png"
   },
   {
     "site_id": "au/Darwin/epg#mjh-onthecase-FAST",
@@ -38416,7 +38573,7 @@
   },
   {
     "site_id": "SamsungTVPlus/gb#GBBD2300001C0",
-    "name": "Vevo Hip Hop \u0026amp; R\u0026amp;B",
+    "name": "Vevo Hip Hop &amp; R&amp;B",
     "lang": "en",
     "region": "SAMSUNG"
   },
@@ -38506,7 +38663,8 @@
     "name": "SET (HINDI)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "SonyEntertainmentTelevision.in@SD"
+    "xmltv_id": "SonyEntertainmentTelevision.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/sony-entertainment-television-in.png"
   },
   {
     "site_id": "au/Brisbane/epg#mjh-10-survivor",
@@ -38710,7 +38868,7 @@
   },
   {
     "site_id": "SamsungTVPlus/gb#GBBD260000189",
-    "name": "Crime \u0026amp; Justice",
+    "name": "Crime &amp; Justice",
     "lang": "en",
     "region": "SAMSUNG"
   },
@@ -38747,7 +38905,8 @@
     "name": "SPIEGEL TV",
     "lang": "de",
     "region": "SAMSUNG",
-    "xmltv_id": "CuriosityChannel.de@SD"
+    "xmltv_id": "CuriosityChannel.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/curiosity-channel-de.png"
   },
   {
     "site_id": "SamsungTVPlus/it#ITBD1000002HF",
@@ -38816,7 +38975,8 @@
     "name": "IGN",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "IGN.us@US"
+    "xmltv_id": "IGN.us@US",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hd/hbo-signature-hd-us.png"
   },
   {
     "site_id": "PlutoTV/no#63c6a1c46d126a000760b91c",
@@ -39009,7 +39169,8 @@
     "name": "now Jelli (HD)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "nowJelli.hk@SD"
+    "xmltv_id": "nowJelli.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-jelli-hk.png"
   },
   {
     "site_id": "PlutoTV/ca#62e90db65e8e770007382a50",
@@ -39087,7 +39248,7 @@
   },
   {
     "site_id": "PlutoTV/de#5e8b5ba20af628000707cee3",
-    "name": "Sam \u0026amp; Cat",
+    "name": "Sam &amp; Cat",
     "lang": "de",
     "region": "PLUTO"
   },
@@ -39175,7 +39336,7 @@
   },
   {
     "site_id": "PlutoTV/gb#62d556fe2888ce000764b3fa",
-    "name": "16 \u0026amp; Pregnant",
+    "name": "16 &amp; Pregnant",
     "lang": "en",
     "region": "PLUTO"
   },
@@ -39403,7 +39564,8 @@
     "name": "MovieSphere",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MovieSphere.us@AU"
+    "xmltv_id": "MovieSphere.us@AU",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "Foxtel/epg#FIS",
@@ -39525,7 +39687,8 @@
     "name": "TRACE Sport Stars HD",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "TraceSportStars.fr@HD"
+    "xmltv_id": "TraceSportStars.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/trace-sport-stars-fr.png"
   },
   {
     "site_id": "Foxtel/epg#FOD",
@@ -39686,7 +39849,7 @@
   },
   {
     "site_id": "au/Hobart/epg#mjh-cas29-FAST",
-    "name": "Cooking \u0026amp; Culture",
+    "name": "Cooking &amp; Culture",
     "lang": "en",
     "region": "AU"
   },
@@ -39933,7 +40096,8 @@
     "name": "Redbull TV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "RedBullTV.at@SD"
+    "xmltv_id": "RedBullTV.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/red-bull-tv-int.png"
   },
   {
     "site_id": "DStv/za#HDE",
@@ -40083,7 +40247,7 @@
   },
   {
     "site_id": "SamsungTVPlus/us#USBA300020WC",
-    "name": "Love \u0026amp; Hip Hop",
+    "name": "Love &amp; Hip Hop",
     "lang": "en",
     "region": "SAMSUNG",
     "xmltv_id": "LoveHipHop.us@SD"
@@ -40300,7 +40464,8 @@
     "name": "France 24 (French)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "Singtel/epg#5113",
@@ -40570,7 +40735,8 @@
     "name": "SPIEGEL TV",
     "lang": "de",
     "region": "SAMSUNG",
-    "xmltv_id": "CuriosityChannel.de@SD"
+    "xmltv_id": "CuriosityChannel.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/curiosity-channel-de.png"
   },
   {
     "site_id": "Singtel/epg#6236",
@@ -40609,7 +40775,8 @@
     "name": "MeTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "MeTV.us@SD"
+    "xmltv_id": "MeTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/me-tv-us.png"
   },
   {
     "site_id": "au/Sydney/epg#mjh-cas33-FAST",
@@ -41480,7 +41647,8 @@
     "name": "CBS News Texas",
     "lang": "en",
     "region": "ROKU",
-    "xmltv_id": "CBSNewsDFW.us@SD"
+    "xmltv_id": "CBSNewsDFW.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-dfw-dallas-fort-worth-us.png"
   },
   {
     "site_id": "SamsungTVPlus/fr#FRBA3300063FP",
@@ -41506,7 +41674,8 @@
     "name": "Star Plus Hindi",
     "lang": "en",
     "region": "SKYGO",
-    "xmltv_id": "StarPlus.in@SD"
+    "xmltv_id": "StarPlus.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-plus-in.png"
   },
   {
     "site_id": "au/Brisbane/epg#mjh-10-mtv-the-shores",
@@ -41815,7 +41984,8 @@
     "name": "Crime - Rakuten TV",
     "lang": "fr",
     "region": "SAMSUNG",
-    "xmltv_id": "Crime.au@SD"
+    "xmltv_id": "Crime.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/crime-au.png"
   },
   {
     "site_id": "au/Hobart/epg#mjh-10bold-vic",
@@ -42210,21 +42380,24 @@
     "name": "eToonz",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "eToonz.za@SD"
+    "xmltv_id": "eToonz.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/e-toonz-za.png"
   },
   {
     "site_id": "DStv/za#GAU",
     "name": "GauTV",
     "lang": "en",
     "region": "DSTV",
-    "xmltv_id": "GauTV.za@SD"
+    "xmltv_id": "GauTV.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/gau-tv-za.png"
   },
   {
     "site_id": "PlutoTV/us#645e7828e1979c00087b75b4",
     "name": "MovieSphere by Lionsgate",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "MovieSphere.us"
+    "xmltv_id": "MovieSphere.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
   },
   {
     "site_id": "Roku/epg#roku-b5fe4277ff365ccda0a7d43028d53d90",
@@ -42255,7 +42428,7 @@
   },
   {
     "site_id": "DStv/za#K30",
-    "name": "Kyk NET \u0026amp; Kie HD",
+    "name": "Kyk NET &amp; Kie HD",
     "lang": "en",
     "region": "DSTV"
   },
@@ -42426,7 +42599,8 @@
     "name": "IGN",
     "lang": "it",
     "region": "PLUTO",
-    "xmltv_id": "IGN.us@Italy"
+    "xmltv_id": "IGN.us@Italy",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hd/hbo-signature-hd-us.png"
   },
   {
     "site_id": "PlutoTV/us#5f4ec10ed9636f00089b8c89",
@@ -42685,7 +42859,8 @@
     "name": "TED",
     "lang": "en",
     "region": "PLEX",
-    "xmltv_id": "TED.us@SD"
+    "xmltv_id": "TED.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/busted-us.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-611152a48f945c002c40021a",
@@ -42705,7 +42880,8 @@
     "name": "PGA Tour",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "PGATour.us@SD"
+    "xmltv_id": "PGATour.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/pga-tour-live-us.png"
   },
   {
     "site_id": "SamsungTVPlus/us#USBD1200021JM",
@@ -42725,14 +42901,16 @@
     "name": "GOOD.",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "GOOD.au@SD"
+    "xmltv_id": "GOOD.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/good-tv-au.png"
   },
   {
     "site_id": "SamsungTVPlus/us#USBA3700002JF",
     "name": "Mixible",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "ETLive.us@SD"
+    "xmltv_id": "ETLive.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/et-live-us.png"
   },
   {
     "site_id": "au/Brisbane/epg#mjh-10-diagnosismurder",

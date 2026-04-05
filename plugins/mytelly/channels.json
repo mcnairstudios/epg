@@ -96,7 +96,7 @@
   },
   {
     "site_id": "13/bbc-one-north-east-cumbria",
-    "name": "BBC One North East \u0026 Cumbria",
+    "name": "BBC One North East & Cumbria",
     "lang": "en",
     "xmltv_id": "BBCOne.uk@NorthEastCumbria",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
@@ -257,7 +257,8 @@
     "site_id": "2377/talk",
     "name": "Talk",
     "lang": "en",
-    "xmltv_id": "TalkTV.uk@SD"
+    "xmltv_id": "TalkTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/talk-tv-uk.png"
   },
   {
     "site_id": "10/bbc-one-east-midlands",
@@ -352,7 +353,7 @@
   },
   {
     "site_id": "2251/create-craft",
-    "name": "Create \u0026 Craft",
+    "name": "Create & Craft",
     "lang": "en",
     "xmltv_id": "CreateandCraft.uk@SD",
     "logo": "https://i.imgur.com/n65sk4L.png"
@@ -387,7 +388,7 @@
   },
   {
     "site_id": "899/ugold-1",
-    "name": "U\u0026Gold +1",
+    "name": "U&Gold +1",
     "lang": "en",
     "xmltv_id": "UGold.uk@Plus1",
     "logo": "https://i.imgur.com/SUwg1sn.png"
@@ -485,7 +486,7 @@
   },
   {
     "site_id": "1441/uw",
-    "name": "U\u0026W",
+    "name": "U&W",
     "lang": "en",
     "xmltv_id": "UW.uk@SD",
     "logo": "https://i.imgur.com/puBkpGj.png"
@@ -520,7 +521,7 @@
   },
   {
     "site_id": "1658/uw-hd",
-    "name": "U\u0026W HD",
+    "name": "U&W HD",
     "lang": "en"
   },
   {
@@ -639,7 +640,8 @@
     "site_id": "2089/sky-sports-hd",
     "name": "Sky Sports + HD",
     "lang": "en",
-    "xmltv_id": "SkySportsArena.uk@HD"
+    "xmltv_id": "SkySportsArena.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-arena-uk.png"
   },
   {
     "site_id": "64/mtv",
@@ -760,7 +762,7 @@
   },
   {
     "site_id": "2375/bbc-one-yorkshire-lincolnshire-hd",
-    "name": "BBC One Yorkshire \u0026 Lincolnshire HD",
+    "name": "BBC One Yorkshire & Lincolnshire HD",
     "lang": "en",
     "xmltv_id": "BBCOne.uk@YorkshireLincolnshireHD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
@@ -802,7 +804,7 @@
   },
   {
     "site_id": "1068/uyesterday-1",
-    "name": "U\u0026Yesterday +1",
+    "name": "U&Yesterday +1",
     "lang": "en",
     "xmltv_id": "UYesterday.uk@Plus1",
     "logo": "https://i.imgur.com/r3pqSHl.png"
@@ -885,7 +887,7 @@
   },
   {
     "site_id": "1659/udave-hd",
-    "name": "U\u0026Dave HD",
+    "name": "U&Dave HD",
     "lang": "en"
   },
   {
@@ -1007,7 +1009,7 @@
   },
   {
     "site_id": "1079/udave-ja-vu",
-    "name": "U\u0026Dave ja vu",
+    "name": "U&Dave ja vu",
     "lang": "en",
     "xmltv_id": "UDaveJaVu.uk@SD",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2320.png"
@@ -1208,7 +1210,7 @@
   },
   {
     "site_id": "2275/udrama-1",
-    "name": "U\u0026Drama +1",
+    "name": "U&Drama +1",
     "lang": "en",
     "xmltv_id": "UDrama.uk@Plus1"
   },
@@ -1228,7 +1230,7 @@
   },
   {
     "site_id": "2411/create-craft-hd",
-    "name": "Create \u0026 Craft HD",
+    "name": "Create & Craft HD",
     "lang": "en",
     "xmltv_id": "CreateandCraft.uk@HD",
     "logo": "https://i.imgur.com/n65sk4L.png"
@@ -1276,7 +1278,7 @@
   },
   {
     "site_id": "134/ugold",
-    "name": "U\u0026Gold",
+    "name": "U&Gold",
     "lang": "en",
     "xmltv_id": "UGold.uk@SD",
     "logo": "https://i.imgur.com/SUwg1sn.png"
@@ -1421,7 +1423,8 @@
     "site_id": "2403/bbc-alba-hd",
     "name": "BBC Alba HD",
     "lang": "en",
-    "xmltv_id": "BBCAlba.uk@HD"
+    "xmltv_id": "BBCAlba.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png"
   },
   {
     "site_id": "1172/sky-mix",
@@ -1439,7 +1442,7 @@
   },
   {
     "site_id": "1798/udrama",
-    "name": "U\u0026Drama",
+    "name": "U&Drama",
     "lang": "en",
     "logo": "https://i.imgur.com/cGBJx59.png"
   },
@@ -1568,11 +1571,12 @@
     "site_id": "1538/dmax-1",
     "name": "DMAX +1",
     "lang": "en",
-    "xmltv_id": "DMAX.uk@UKPlus1"
+    "xmltv_id": "DMAX.uk@UKPlus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dmax-uk.png"
   },
   {
     "site_id": "1603/ueden-hd",
-    "name": "U\u0026Eden HD",
+    "name": "U&Eden HD",
     "lang": "en",
     "xmltv_id": "UEden.uk@SD"
   },
@@ -1676,7 +1680,7 @@
   },
   {
     "site_id": "908/uyesterday",
-    "name": "U\u0026Yesterday",
+    "name": "U&Yesterday",
     "lang": "en",
     "xmltv_id": "UYesterday.uk@SD",
     "logo": "https://i.imgur.com/r3pqSHl.png"
@@ -1785,7 +1789,7 @@
   },
   {
     "site_id": "1739/ualibi-hd",
-    "name": "U\u0026Alibi HD",
+    "name": "U&Alibi HD",
     "lang": "en"
   },
   {
@@ -1834,7 +1838,8 @@
     "site_id": "2448/itv1-channel-television-hd",
     "name": "ITV1 Channel Television HD",
     "lang": "en",
-    "xmltv_id": "ITV1.uk@ChannelTelevision"
+    "xmltv_id": "ITV1.uk@ChannelTelevision",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-1-uk.png"
   },
   {
     "site_id": "9/bbc-one-east",
@@ -1854,7 +1859,8 @@
     "site_id": "2270/premier-sports-2-hd",
     "name": "Premier Sports 2 HD",
     "lang": "en",
-    "xmltv_id": "PremierSports2.ph@SD"
+    "xmltv_id": "PremierSports2.ph@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/philippines/premier-sports-2-ph.png"
   },
   {
     "site_id": "36/itv1-yorkshire",
@@ -1865,7 +1871,7 @@
   },
   {
     "site_id": "154/ualibi",
-    "name": "U\u0026Alibi",
+    "name": "U&Alibi",
     "lang": "en",
     "xmltv_id": "UAlibi.uk@SD",
     "logo": "https://i.imgur.com/uazjv8g.png"
@@ -1923,7 +1929,8 @@
     "site_id": "2449/itv1-border-scotland-hd",
     "name": "ITV1 Border Scotland HD",
     "lang": "en",
-    "xmltv_id": "ITV1.uk@BorderScotland"
+    "xmltv_id": "ITV1.uk@BorderScotland",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-1-uk.png"
   },
   {
     "site_id": "188/nickelodeon",
@@ -1981,7 +1988,7 @@
   },
   {
     "site_id": "1003/ueden-1",
-    "name": "U\u0026Eden +1",
+    "name": "U&Eden +1",
     "lang": "en",
     "xmltv_id": "UEden.uk@Plus1",
     "logo": "https://i.imgur.com/K1GKUug.png"
@@ -2112,7 +2119,8 @@
     "site_id": "1437/legend-xtra-1",
     "name": "Legend Xtra +1",
     "lang": "en",
-    "xmltv_id": "LegendXtra.uk@Plus1"
+    "xmltv_id": "LegendXtra.uk@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/legend-xtra-uk.png"
   },
   {
     "site_id": "1810/sony-sab",
@@ -2152,9 +2160,10 @@
   },
   {
     "site_id": "1665/bbc-one-yorkshire-lincolnshire",
-    "name": "BBC One Yorkshire \u0026 Lincolnshire",
+    "name": "BBC One Yorkshire & Lincolnshire",
     "lang": "en",
-    "xmltv_id": "BBCOne.uk@YorkshireLincolnshireHD"
+    "xmltv_id": "BBCOne.uk@YorkshireLincolnshireHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
   },
   {
     "site_id": "706/discovery-channel-1",
@@ -2349,7 +2358,7 @@
   },
   {
     "site_id": "1218/ualibi-1",
-    "name": "U\u0026Alibi +1",
+    "name": "U&Alibi +1",
     "lang": "en",
     "xmltv_id": "UAlibi.uk@Plus1",
     "logo": "https://i.imgur.com/uazjv8g.png"
@@ -2473,7 +2482,8 @@
     "site_id": "2057/blaze-1-freeview",
     "name": "Blaze +1 (Freeview)",
     "lang": "en",
-    "xmltv_id": "Blaze.uk@Plus1"
+    "xmltv_id": "Blaze.uk@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/blaze-uk.png"
   },
   {
     "site_id": "2340/gb-news-hd",
@@ -2673,7 +2683,7 @@
   },
   {
     "site_id": "2393/udrama-hd",
-    "name": "U\u0026Drama HD",
+    "name": "U&Drama HD",
     "lang": "en"
   },
   {
@@ -2699,7 +2709,7 @@
   },
   {
     "site_id": "2108/ugold-hd",
-    "name": "U\u0026Gold HD",
+    "name": "U&Gold HD",
     "lang": "en"
   },
   {
@@ -2711,7 +2721,7 @@
   },
   {
     "site_id": "2367/bbc-one-north-east-cumbria-hd",
-    "name": "BBC One North East \u0026 Cumbria HD",
+    "name": "BBC One North East & Cumbria HD",
     "lang": "en",
     "xmltv_id": "BBCOne.uk@NorthEastCumbriaHD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
@@ -2754,7 +2764,8 @@
     "site_id": "2451/sky-sports-tennis-hd",
     "name": "Sky Sports Tennis HD",
     "lang": "en",
-    "xmltv_id": "SkySportsTennis.uk"
+    "xmltv_id": "SkySportsTennis.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png"
   },
   {
     "site_id": "48/itv1-west-country",
@@ -2771,7 +2782,7 @@
   },
   {
     "site_id": "74/udave",
-    "name": "U\u0026Dave",
+    "name": "U&Dave",
     "lang": "en",
     "xmltv_id": "UDave.uk@SD",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png"
@@ -2844,7 +2855,7 @@
   },
   {
     "site_id": "2380/uyesterday-hd",
-    "name": "U\u0026Yesterday HD",
+    "name": "U&Yesterday HD",
     "lang": "en",
     "xmltv_id": "UYesterday.uk@SD"
   },
@@ -2906,7 +2917,7 @@
   },
   {
     "site_id": "1451/uw-1",
-    "name": "U\u0026W +1",
+    "name": "U&W +1",
     "lang": "en",
     "xmltv_id": "UW.uk@Plus1",
     "logo": "https://i.imgur.com/puBkpGj.png"
@@ -3024,7 +3035,7 @@
   },
   {
     "site_id": "993/ueden",
-    "name": "U\u0026Eden",
+    "name": "U&Eden",
     "lang": "en",
     "xmltv_id": "UEden.uk@SD",
     "logo": "https://i.imgur.com/K1GKUug.png"
@@ -3136,7 +3147,8 @@
     "site_id": "1856/rte-one-hd",
     "name": "RTE One HD",
     "lang": "en",
-    "xmltv_id": "RTEOne.ie@HD"
+    "xmltv_id": "RTEOne.ie@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ireland/rte-one-ie.png"
   },
   {
     "site_id": "1956/tnt-sports-6",
@@ -3175,7 +3187,7 @@
   },
   {
     "site_id": "1944/tyne-wear-tv",
-    "name": "Tyne \u0026 Wear TV",
+    "name": "Tyne & Wear TV",
     "lang": "en",
     "xmltv_id": "TalkTyneWear.uk",
     "logo": "https://i.imgur.com/PdPVwqx.png"

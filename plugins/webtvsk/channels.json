@@ -53,7 +53,7 @@
   },
   {
     "site_id": "fashion_tv",
-    "name": "Fashion TV Czech \u0026 Slovak",
+    "name": "Fashion TV Czech & Slovak",
     "lang": "sk"
   },
   {
@@ -81,7 +81,8 @@
     "site_id": "dajto",
     "name": "DajTo",
     "lang": "sk",
-    "xmltv_id": "MarkizaDajto.sk@SD"
+    "xmltv_id": "MarkizaDajto.sk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/slovakia/markiza-dajto-sk.png"
   },
   {
     "site_id": "tv_paprika",
@@ -107,7 +108,8 @@
     "site_id": "noe",
     "name": "NOE",
     "lang": "sk",
-    "xmltv_id": "TVNoe.cz@SD"
+    "xmltv_id": "TVNoe.cz@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/tv-noe-cz.png"
   },
   {
     "site_id": "tv_romana",
@@ -118,7 +120,7 @@
   },
   {
     "site_id": "fishing_and_hunting",
-    "name": "Fishing\u0026Hunting",
+    "name": "Fishing&Hunting",
     "lang": "sk",
     "xmltv_id": "TheFishingHuntingChannel.hu@SD"
   },
@@ -151,7 +153,8 @@
     "site_id": "markiza_plus_jedna",
     "name": "Markíza +1",
     "lang": "sk",
-    "xmltv_id": "Markiza.sk@SD"
+    "xmltv_id": "Markiza.sk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/slovakia/markiza-sk.png"
   },
   {
     "site_id": "polar",
@@ -809,7 +812,7 @@
   },
   {
     "site_id": "crime_investigation",
-    "name": "Crime \u0026 Investigation",
+    "name": "Crime & Investigation",
     "lang": "sk",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
   },
@@ -905,7 +908,8 @@
     "site_id": "joj_cinema_plus_jedna",
     "name": "JOJ Cinema +1",
     "lang": "sk",
-    "xmltv_id": "JOJCinema.sk@SD"
+    "xmltv_id": "JOJCinema.sk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/slovakia/joj-cinema-sk.png"
   },
   {
     "site_id": "retro_music_television",
@@ -1166,7 +1170,8 @@
     "site_id": "ua_tv",
     "name": "UA TV",
     "lang": "sk",
-    "xmltv_id": "FREEDOM.ua@SD"
+    "xmltv_id": "FREEDOM.ua@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/freedom-ua.png"
   },
   {
     "site_id": "food_network",

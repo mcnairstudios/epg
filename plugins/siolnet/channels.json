@@ -356,7 +356,8 @@
     "site_id": "istra",
     "name": "TV RI",
     "lang": "sl",
-    "xmltv_id": "TVRI.id@HD"
+    "xmltv_id": "TVRI.id@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/indonesia/tvri-id.png"
   },
   {
     "site_id": "pinkreality",
@@ -504,7 +505,8 @@
     "site_id": "rtlhrvatska",
     "name": "RTL Hrvaška",
     "lang": "sl",
-    "xmltv_id": "RTL.hr@SD"
+    "xmltv_id": "RTL.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/rtl-hr.png"
   },
   {
     "site_id": "rtlhrvatska2",
@@ -588,7 +590,8 @@
     "site_id": "folx",
     "name": "Folx",
     "lang": "sl",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "infotv",
@@ -728,7 +731,8 @@
     "site_id": "dugans",
     "name": "TV Duga Novi sad",
     "lang": "sl",
-    "xmltv_id": "TVDugaPlus.rs@SD"
+    "xmltv_id": "TVDugaPlus.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/tv-duga-plus-rs.png"
   },
   {
     "site_id": "eltatv",
@@ -741,7 +745,8 @@
     "site_id": "superonehd",
     "name": "Super One HD",
     "lang": "sl",
-    "xmltv_id": "SuperONE.hu@HD"
+    "xmltv_id": "SuperONE.hu@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/super-one-hu.png"
   },
   {
     "site_id": "telecafe",
@@ -754,7 +759,8 @@
     "site_id": "tringvp",
     "name": "Tring Vizion+",
     "lang": "sl",
-    "xmltv_id": "VizionPlus.al@SD"
+    "xmltv_id": "VizionPlus.al@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/albania/vizion-plus-al.png"
   },
   {
     "site_id": "tvgolica",
@@ -826,7 +832,8 @@
     "site_id": "prvakick",
     "name": "TV Prva Kick",
     "lang": "sl",
-    "xmltv_id": "PrvaKick.rs@SD"
+    "xmltv_id": "PrvaKick.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/prva-kick-rs.png"
   },
   {
     "site_id": "tvpetelin",
@@ -879,7 +886,8 @@
     "site_id": "cartoon",
     "name": "Cartoon",
     "lang": "sl",
-    "xmltv_id": "CartoonNetwork.us@HD"
+    "xmltv_id": "CartoonNetwork.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoon-network-us.png"
   },
   {
     "site_id": "h2",
@@ -1091,7 +1099,7 @@
   },
   {
     "site_id": "cinestaraction",
-    "name": "CineStar TV Action \u0026 Thriller",
+    "name": "CineStar TV Action & Thriller",
     "lang": "sl",
     "xmltv_id": "CineStarTVAction.si@SD"
   },

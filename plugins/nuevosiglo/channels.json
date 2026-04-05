@@ -112,7 +112,8 @@
     "site_id": "HBO PLUS HD",
     "name": "HBO PLUS HD",
     "lang": "es",
-    "xmltv_id": "HBOPlus.br@SD"
+    "xmltv_id": "HBOPlus.br@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/hbo-plus-br.png"
   },
   {
     "site_id": "NICK JR",
@@ -228,7 +229,8 @@
     "site_id": "MAS CHIC HD",
     "name": "MAS CHIC HD",
     "lang": "es",
-    "xmltv_id": "MasChic.ar@Panregional"
+    "xmltv_id": "MasChic.ar@Panregional",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/mas-chic-ar.png"
   },
   {
     "site_id": "PASIONES",
@@ -284,7 +286,8 @@
     "site_id": "UNIVERSAL REALITY HD",
     "name": "UNIVERSAL REALITY HD",
     "lang": "es",
-    "xmltv_id": "UniversalReality.us@SD"
+    "xmltv_id": "UniversalReality.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/universal-reality-lam.png"
   },
   {
     "site_id": "CANAL 5",
@@ -404,7 +407,8 @@
     "site_id": "WARNER HD",
     "name": "WARNER HD",
     "lang": "es",
-    "xmltv_id": "WarnerChannel.us@Venezuela"
+    "xmltv_id": "WarnerChannel.us@Venezuela",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/warner-channel-lam.png"
   },
   {
     "site_id": "BABY TV",
@@ -505,7 +509,8 @@
     "site_id": "WARNER",
     "name": "WARNER",
     "lang": "es",
-    "xmltv_id": "WarnerChannel.us@Venezuela"
+    "xmltv_id": "WarnerChannel.us@Venezuela",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/warner-channel-lam.png"
   },
   {
     "site_id": "ESPN HD",
@@ -525,7 +530,8 @@
     "site_id": "UNIVERSAL CINEMA HD",
     "name": "UNIVERSAL CINEMA HD",
     "lang": "es",
-    "xmltv_id": "UniversalCinema.us@SD"
+    "xmltv_id": "UniversalCinema.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/universal-cinema-lam.png"
   },
   {
     "site_id": "BLOOMBERG",
@@ -556,7 +562,8 @@
     "site_id": "TRU TV HD",
     "name": "TRU TV HD",
     "lang": "es",
-    "xmltv_id": "truTV.us@East"
+    "xmltv_id": "truTV.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tru-tv-us.png"
   },
   {
     "site_id": "CARTOON NETWORK",
@@ -594,7 +601,8 @@
     "site_id": "PENTHOUSE",
     "name": "PENTHOUSE",
     "lang": "es",
-    "xmltv_id": "PenthouseTV.us@SD"
+    "xmltv_id": "PenthouseTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/penthouse-tv-us.png"
   },
   {
     "site_id": "REDE RECORD",
@@ -659,7 +667,8 @@
     "site_id": "UNIVERSAL COMEDY HD",
     "name": "UNIVERSAL COMEDY HD",
     "lang": "es",
-    "xmltv_id": "UniversalComedy.us@SD"
+    "xmltv_id": "UniversalComedy.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/universal-comedy-lam.png"
   },
   {
     "site_id": "A24",
@@ -710,7 +719,8 @@
     "site_id": "UNIVERSAL PREMIERE HD",
     "name": "UNIVERSAL PREMIERE HD",
     "lang": "es",
-    "xmltv_id": "UniversalPremiere.us@East"
+    "xmltv_id": "UniversalPremiere.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/universal-premiere-lam.png"
   },
   {
     "site_id": "C5N",
@@ -743,7 +753,8 @@
     "site_id": "NAT GEO HD",
     "name": "NAT GEO HD",
     "lang": "es",
-    "xmltv_id": "NationalGeographic.es@SD"
+    "xmltv_id": "NationalGeographic.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/national-geographic-es.png"
   },
   {
     "site_id": "SPACE HD",
@@ -807,7 +818,8 @@
     "site_id": "EL GOURMET HD",
     "name": "EL GOURMET HD",
     "lang": "es",
-    "xmltv_id": "ElGourmet.ar@South"
+    "xmltv_id": "ElGourmet.ar@South",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/el-gourmet-ar.png"
   },
   {
     "site_id": "HBO XTREME HD",
@@ -847,8 +859,8 @@
     "lang": "es"
   },
   {
-    "site_id": "A\u0026E MUNDO HD",
-    "name": "A\u0026E MUNDO HD",
+    "site_id": "A&E MUNDO HD",
+    "name": "A&E MUNDO HD",
     "lang": "es"
   },
   {
@@ -931,8 +943,8 @@
     "lang": "es"
   },
   {
-    "site_id": "FILM\u0026ARTS HD",
-    "name": "FILM\u0026ARTS HD",
+    "site_id": "FILM&ARTS HD",
+    "name": "FILM&ARTS HD",
     "lang": "es",
     "xmltv_id": "FilmArts.ar@Panregional"
   },
@@ -945,11 +957,12 @@
     "site_id": "UNIVERSAL CRIME HD",
     "name": "UNIVERSAL CRIME HD",
     "lang": "es",
-    "xmltv_id": "UniversalCrime.us@East"
+    "xmltv_id": "UniversalCrime.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/universal-crime-lam.png"
   },
   {
-    "site_id": "A\u0026E MUNDO",
-    "name": "A\u0026E MUNDO",
+    "site_id": "A&E MUNDO",
+    "name": "A&E MUNDO",
     "lang": "es"
   },
   {
@@ -1014,7 +1027,8 @@
     "site_id": "DISCOVERY HD",
     "name": "DISCOVERY HD",
     "lang": "es",
-    "xmltv_id": "DiscoveryChannel.es@SD"
+    "xmltv_id": "DiscoveryChannel.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/discovery-channel-es.png"
   },
   {
     "site_id": "DISCOVERY HD THEATER",
@@ -1069,7 +1083,8 @@
     "site_id": "ESPN EXTRA HD",
     "name": "ESPN EXTRA HD",
     "lang": "es",
-    "xmltv_id": "ESPNExtra.br@SD"
+    "xmltv_id": "ESPNExtra.br@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/espn-extra-br.png"
   },
   {
     "site_id": "SONY MOVIES HD",
@@ -1097,8 +1112,8 @@
     "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/ewtn-ar.png"
   },
   {
-    "site_id": "FILM\u0026ARTS",
-    "name": "FILM\u0026ARTS",
+    "site_id": "FILM&ARTS",
+    "name": "FILM&ARTS",
     "lang": "es",
     "xmltv_id": "FilmArts.ar@Panregional"
   }

@@ -25,7 +25,8 @@
     "name": "Paramount+ with SHOWTIME (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Showtime.us@East"
+    "xmltv_id": "Showtime.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/showtime-us.png"
   },
   {
     "site_id": "us#69049896/showtime-familyzone-east",
@@ -101,11 +102,12 @@
     "name": "HBO Family HDTV (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "HBOFamily.us@East"
+    "xmltv_id": "HBOFamily.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hbo-family-us.png"
   },
   {
     "site_id": "us#69047890/starz-kids-family-east",
-    "name": "Starz Kids \u0026 Family (East)",
+    "name": "Starz Kids & Family (East)",
     "lang": "en",
     "region": "US",
     "xmltv_id": "StarzKidsFamily.us@East",
@@ -146,7 +148,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#2722/9life",
@@ -388,7 +391,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "ca#10679750928/stingray-kids-stuff-b",
@@ -876,7 +880,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2478/tvsn",
@@ -1372,7 +1377,8 @@
     "name": "Toon-A-Vision HD",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "ToonAVision.ca"
+    "xmltv_id": "ToonAVision.ca",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/toon-a-vision-ca.png"
   },
   {
     "site_id": "us#1174499288/ntv-bangla",
@@ -1385,7 +1391,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69027073/tgcom-24",
@@ -1420,7 +1427,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2932/southern-cross-10-hd",
@@ -1680,7 +1688,7 @@
   },
   {
     "site_id": "ca#69022501/consumer-news-business-channel-canada",
-    "name": "Consumer News \u0026 Business Channel Canada",
+    "name": "Consumer News & Business Channel Canada",
     "lang": "en",
     "region": "CA"
   },
@@ -1693,7 +1701,7 @@
   },
   {
     "site_id": "ca#69048883/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -1775,7 +1783,7 @@
   },
   {
     "site_id": "us#69047310/music-choice-rb-soul",
-    "name": "Music Choice R\u0026B Soul",
+    "name": "Music Choice R&B Soul",
     "lang": "en",
     "region": "US",
     "xmltv_id": "MusicChoiceRBSoul.us@SD",
@@ -1876,7 +1884,7 @@
   },
   {
     "site_id": "au#3150/ae-hd",
-    "name": "A\u0026E HD",
+    "name": "A&E HD",
     "lang": "en",
     "region": "AU",
     "xmltv_id": "AE.au"
@@ -1924,7 +1932,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#5654205407/wtic-true-crime-network",
@@ -1939,7 +1948,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69042403/chex-ctv-global-peterborough-hdtv",
@@ -1952,7 +1962,8 @@
     "name": "Hallmark Channel (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "HallmarkChannel.us@East"
+    "xmltv_id": "HallmarkChannel.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hallmark-channel-us.png"
   },
   {
     "site_id": "us#69033127/wuvc-hdtv-univision-40",
@@ -2127,7 +2138,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "ca#69022537/ctv-atlantic-moncton-ns",
@@ -2223,14 +2235,16 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2634/aspiretv",
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#3428/9life",
@@ -2299,7 +2313,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2706/sbs-food",
@@ -2340,7 +2355,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2964/abc-tv-hd",
@@ -2374,7 +2390,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69046992/the-filipino-channel-west",
@@ -2388,7 +2405,8 @@
     "name": "Cinemax (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Cinemax.us@East"
+    "xmltv_id": "Cinemax.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cinemax-us.png"
   },
   {
     "site_id": "us#368523426/wqpx-grit",
@@ -2488,7 +2506,8 @@
     "name": "Family Jr. (HD)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "FamilyJr.ca@SD"
+    "xmltv_id": "FamilyJr.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/family-jr-ca.png"
   },
   {
     "site_id": "ca#4612500581/the-beat-montreal-925-ckbe",
@@ -2699,7 +2718,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69021452/cktv-ici-radio-canada-saguenay",
@@ -2738,7 +2758,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69027431/sportsman-channel-canada",
@@ -2815,7 +2836,7 @@
   },
   {
     "site_id": "ca#69048887/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -2874,7 +2895,7 @@
   },
   {
     "site_id": "ca#10642145452/bell-fibe-tv-english-premium-vod-barker-channel",
-    "name": "Bell Fibe TV English Premium \u0026 VOD Barker Channel",
+    "name": "Bell Fibe TV English Premium & VOD Barker Channel",
     "lang": "en",
     "region": "CA"
   },
@@ -2943,14 +2964,16 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69035783/cinemax-west",
     "name": "Cinemax (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Cinemax.us@West"
+    "xmltv_id": "Cinemax.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cinemax-us.png"
   },
   {
     "site_id": "us#3651586876/pacvia",
@@ -3033,7 +3056,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#3507/7bravo",
@@ -3068,7 +3092,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#3154/arena",
@@ -3104,7 +3129,7 @@
   },
   {
     "site_id": "us#69029449/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -3302,7 +3327,8 @@
     "name": "The Movie Channel (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "TheMovieChannel.us@East"
+    "xmltv_id": "TheMovieChannel.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/the-movie-channel-us.png"
   },
   {
     "site_id": "us#69027518/aguila-xm-satellite-radio",
@@ -3797,7 +3823,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "ca#69038398/sportsnet-one-hdtv",
@@ -3831,7 +3858,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69032241/sportsnet-one-hockey-canucks-sd-satellite",
@@ -3895,7 +3923,8 @@
     "name": "ESPN Classic Canada",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "ESPNClassic.ca@SD"
+    "xmltv_id": "ESPNClassic.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/espn-classic-ca.png"
   },
   {
     "site_id": "ca#69027292/cfmj-radio",
@@ -3917,7 +3946,7 @@
   },
   {
     "site_id": "us#656543531/wwor-heroes-icons",
-    "name": "WWOR Heroes \u0026 Icons",
+    "name": "WWOR Heroes & Icons",
     "lang": "en",
     "region": "US"
   },
@@ -4031,7 +4060,7 @@
   },
   {
     "site_id": "us#69048886/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -4069,7 +4098,7 @@
   },
   {
     "site_id": "ca#69035931/home-garden-television-canada",
-    "name": "Home \u0026 Garden Television Canada",
+    "name": "Home & Garden Television Canada",
     "lang": "en",
     "region": "CA"
   },
@@ -4119,7 +4148,7 @@
   },
   {
     "site_id": "us#69034617/altitude-sports-entertainment-colorado-hdtv-247",
-    "name": "Altitude Sports \u0026 Entertainment (Colorado) HDTV 24/7",
+    "name": "Altitude Sports & Entertainment (Colorado) HDTV 24/7",
     "lang": "en",
     "region": "US"
   },
@@ -4320,7 +4349,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2866/racingcom",
@@ -4430,7 +4460,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69048367/fox",
@@ -4504,7 +4535,8 @@
     "name": "Travel Channel (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "TravelChannel.us@East"
+    "xmltv_id": "TravelChannel.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/travel-channel-us.png"
   },
   {
     "site_id": "us#69045382/nyc-tv-25",
@@ -4607,7 +4639,8 @@
     "name": "HBO 1 HD",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "HBO1.ca"
+    "xmltv_id": "HBO1.ca",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/hbo-1-ca.png"
   },
   {
     "site_id": "ca#69043800/talent-vision-tv",
@@ -4933,7 +4966,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#2723/9life",
@@ -5057,14 +5091,16 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2645/aspiretv",
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#2857/racingcom",
@@ -5145,7 +5181,7 @@
   },
   {
     "site_id": "ca#69031023/super-channel-heart-home-canada-hdtv",
-    "name": "Super Channel Heart \u0026 Home (Canada) HDTV",
+    "name": "Super Channel Heart & Home (Canada) HDTV",
     "lang": "en",
     "region": "CA"
   },
@@ -5197,7 +5233,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2687/sbs-food",
@@ -5271,7 +5308,8 @@
     "name": "Bravo (IP)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Bravo.us@East"
+    "xmltv_id": "Bravo.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bravo-us.png"
   },
   {
     "site_id": "au#2716/9life",
@@ -5321,7 +5359,8 @@
     "name": "CMT (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "CMT.us@East"
+    "xmltv_id": "CMT.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cmt-us.png"
   },
   {
     "site_id": "au#2218/win",
@@ -5355,7 +5394,8 @@
     "name": "Hallmark Channel (IP)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "HallmarkChannel.us"
+    "xmltv_id": "HallmarkChannel.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hallmark-channel-us.png"
   },
   {
     "site_id": "au#2284/prime-south",
@@ -5456,7 +5496,8 @@
     "name": "Fuse (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Fuse.us@East"
+    "xmltv_id": "Fuse.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fuse-us.png"
   },
   {
     "site_id": "us#69025368/wuvg-hdtv-univision-34",
@@ -5821,7 +5862,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3346/nickelodeon",
@@ -5982,7 +6024,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2566/nitv",
@@ -6101,7 +6144,7 @@
   },
   {
     "site_id": "us#69046797/tv-globo-internacional-latam-united-states",
-    "name": "TV Globo Internacional (LATAM \u0026 United States)",
+    "name": "TV Globo Internacional (LATAM & United States)",
     "lang": "en",
     "region": "US",
     "xmltv_id": "TVGloboInternacionalAmericas.br@SD"
@@ -6278,7 +6321,8 @@
     "name": "Smithsonian Channel Canada",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "SmithsonianChannel.ca@SD"
+    "xmltv_id": "SmithsonianChannel.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/smithsonian-channel-ca.png"
   },
   {
     "site_id": "us#69037735/pop-hdtv-east",
@@ -6358,7 +6402,7 @@
   },
   {
     "site_id": "ca#69039106/home-garden-television-canada-hdtv",
-    "name": "Home \u0026 Garden Television Canada HDTV",
+    "name": "Home & Garden Television Canada HDTV",
     "lang": "en",
     "region": "CA"
   },
@@ -6473,7 +6517,8 @@
     "name": "USA (IP)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "USANetwork.us@East"
+    "xmltv_id": "USANetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/usa-network-lam.png"
   },
   {
     "site_id": "us#4824183051/palestine-live",
@@ -6584,7 +6629,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "ca#69029786/jiangsu-international-tv-channel-chinese-mandarin",
@@ -6659,7 +6705,8 @@
     "name": "Cartoon Network (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "CartoonNetwork.us@West"
+    "xmltv_id": "CartoonNetwork.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoon-network-us.png"
   },
   {
     "site_id": "us#8714103238/wcau-nbc-lx-home",
@@ -6674,7 +6721,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2810/winhd",
@@ -6896,7 +6944,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#5525401091/omni-on-demand-canada",
@@ -6909,7 +6958,8 @@
     "name": "Fox Weather (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "FoxWeather.us@SD"
+    "xmltv_id": "FoxWeather.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-weather-us.png"
   },
   {
     "site_id": "ca#69026574/cbc-toronto-hdtv",
@@ -6973,7 +7023,7 @@
   },
   {
     "site_id": "ca#69048884/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -6990,7 +7040,8 @@
     "name": "LBCI",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "LBCInternational.lb@SD"
+    "xmltv_id": "LBCInternational.lb@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/lebanon/lbc-international-lb.png"
   },
   {
     "site_id": "us#4308068974/wivt-ion-mystery",
@@ -7100,7 +7151,8 @@
     "name": "Magnolia Network [East]",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "MagnoliaNetwork.us@East"
+    "xmltv_id": "MagnoliaNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/magnolia-network-us.png"
   },
   {
     "site_id": "au#1674/7two",
@@ -7210,7 +7262,7 @@
   },
   {
     "site_id": "ca#324377047/aehd-network-canada",
-    "name": "A\u0026EHD Network Canada",
+    "name": "A&EHD Network Canada",
     "lang": "en",
     "region": "CA"
   },
@@ -7254,14 +7306,16 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2589/sbs-hd",
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69046801/great-american-family",
@@ -7428,7 +7482,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69047075/rogers-sportsnet-east",
@@ -7480,7 +7535,8 @@
     "name": "MTV (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "MTV.us@East"
+    "xmltv_id": "MTV.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-us.png"
   },
   {
     "site_id": "us#848435746/starz-encore-black-east",
@@ -7505,7 +7561,7 @@
   },
   {
     "site_id": "us#69023728/torneos-y-competencias-usa-mexico",
-    "name": "Torneos y Competencias (USA \u0026 Mexico)",
+    "name": "Torneos y Competencias (USA & Mexico)",
     "lang": "en",
     "region": "US"
   },
@@ -7619,7 +7675,7 @@
   },
   {
     "site_id": "ca#5227914687/the-sports-network-2-hdtv-toronto-ottawa-only",
-    "name": "The Sports Network 2 HDTV (Toronto \u0026 Ottawa Only)",
+    "name": "The Sports Network 2 HDTV (Toronto & Ottawa Only)",
     "lang": "en",
     "region": "CA"
   },
@@ -7641,7 +7697,7 @@
   },
   {
     "site_id": "us#69021465/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -7738,7 +7794,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69028577/cbl-radio",
@@ -8130,7 +8187,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69025826/nbc-sports-chicago",
@@ -8145,7 +8203,8 @@
     "name": "USA Network (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "USANetwork.us@East"
+    "xmltv_id": "USANetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/usa-network-lam.png"
   },
   {
     "site_id": "us#830938388/wqpx-truereal",
@@ -8381,7 +8440,8 @@
     "name": "GAME+ (Canada Feed)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "GamePlus.ca"
+    "xmltv_id": "GamePlus.ca",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/game-plus-ca.png"
   },
   {
     "site_id": "us#69049289/boomerang",
@@ -8402,7 +8462,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69029813/atn-cricket-plus-channel",
@@ -8549,7 +8610,8 @@
     "name": "Food Network (Canada)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "FoodNetwork.ca"
+    "xmltv_id": "FoodNetwork.ca",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/food-network-ca.png"
   },
   {
     "site_id": "ca#966563058/bein-sports-canada-spanish",
@@ -8632,7 +8694,8 @@
     "name": "Oxygen (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Oxygen.us@East"
+    "xmltv_id": "Oxygen.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/oxygen-us.png"
   },
   {
     "site_id": "au#2758/7flix",
@@ -8696,7 +8759,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69042517/chex-global-durham-hdtv",
@@ -8727,7 +8791,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69022243/noovo-riviere-du-loup-sd",
@@ -8936,7 +9001,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3436/sbs-worldwatch",
@@ -8974,14 +9040,16 @@
     "name": "Paramount+ with SHOWTIME (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Showtime.us@East"
+    "xmltv_id": "Showtime.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/showtime-us.png"
   },
   {
     "site_id": "us#69048275/discovery-life-channel",
     "name": "Discovery Life Channel",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "DiscoveryLife.us@SD"
+    "xmltv_id": "DiscoveryLife.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/discovery-life-us.png"
   },
   {
     "site_id": "au#2067/abc-kids-abc-tv-plus",
@@ -9031,7 +9099,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2549/nitv",
@@ -9045,7 +9114,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#2779/7flix",
@@ -9185,7 +9255,8 @@
     "name": "STARZ 1 (EAST)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "Starz1.ca@East"
+    "xmltv_id": "Starz1.ca@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/starz-1-ca.png"
   },
   {
     "site_id": "us#69031958/e-entertainment-television-hdtv-east",
@@ -9252,7 +9323,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "ca#69021567/w-network-west",
@@ -9504,7 +9576,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69024578/wxxi-hdtv",
@@ -9616,7 +9689,8 @@
     "name": "MTV2 (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "MTV2.us@East"
+    "xmltv_id": "MTV2.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-2-us.png"
   },
   {
     "site_id": "us#69047135/the-weather-channel",
@@ -9631,7 +9705,8 @@
     "name": "Pop (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Pop.us@East"
+    "xmltv_id": "Pop.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/pop-us.png"
   },
   {
     "site_id": "au#2274/prime-north",
@@ -9687,7 +9762,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69022624/citl",
@@ -9742,7 +9818,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69048302/local-access-programming",
@@ -9963,7 +10040,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#5734253981/cgtn-francais",
@@ -9981,7 +10059,7 @@
   },
   {
     "site_id": "us#69047247/music-choice-rb-classics",
-    "name": "Music Choice R\u0026B Classics",
+    "name": "Music Choice R&B Classics",
     "lang": "en",
     "region": "US",
     "xmltv_id": "MusicChoiceRBClassics.us@SD",
@@ -10049,7 +10127,7 @@
   },
   {
     "site_id": "ca#5265073917/the-sports-network-2-toronto-ottawa-only",
-    "name": "The Sports Network 2 (Toronto \u0026 Ottawa Only)",
+    "name": "The Sports Network 2 (Toronto & Ottawa Only)",
     "lang": "en",
     "region": "CA"
   },
@@ -10289,7 +10367,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2950/southern-cross-10-hd",
@@ -10573,7 +10652,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2728/9life",
@@ -10590,7 +10670,7 @@
   },
   {
     "site_id": "us#69024079/muzak-piano-guitar",
-    "name": "Muzak: Piano \u0026 Guitar",
+    "name": "Muzak: Piano & Guitar",
     "lang": "en",
     "region": "US"
   },
@@ -10624,7 +10704,7 @@
   },
   {
     "site_id": "ca#10637697616/home-garden-television-canada-descriptive-video",
-    "name": "Home \u0026 Garden Television Canada (Descriptive Video)",
+    "name": "Home & Garden Television Canada (Descriptive Video)",
     "lang": "en",
     "region": "CA"
   },
@@ -10664,7 +10744,8 @@
     "name": "AMC (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "AMC.us@West"
+    "xmltv_id": "AMC.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/amc-us.png"
   },
   {
     "site_id": "us#69037946/univision-network-hdtv",
@@ -10703,7 +10784,7 @@
   },
   {
     "site_id": "ca#384254591/moicie-hdtv",
-    "name": "Moi\u0026Cie HDTV",
+    "name": "Moi&Cie HDTV",
     "lang": "en",
     "region": "CA"
   },
@@ -10765,7 +10846,7 @@
   },
   {
     "site_id": "us#69047068/ae-network-east",
-    "name": "A\u0026E Network (East)",
+    "name": "A&E Network (East)",
     "lang": "en",
     "region": "US"
   },
@@ -10828,11 +10909,12 @@
     "name": "Super Channel Fuse (Canada)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "SuperChannelFuse.ca"
+    "xmltv_id": "SuperChannelFuse.ca",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/super-channel-fuse-tv-ca.png"
   },
   {
     "site_id": "ca#69048889/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -10844,7 +10926,7 @@
   },
   {
     "site_id": "us#69029451/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -11050,7 +11132,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69027006/gma-pinoy-tv-east",
@@ -11085,7 +11168,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#1935/10-peach",
@@ -11112,7 +11196,8 @@
     "name": "The NFL Network HDTV (Canada)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "NFLNetwork.us@SD"
+    "xmltv_id": "NFLNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nfl-network-us.png"
   },
   {
     "site_id": "us#69027886/americas-auction-channel",
@@ -11385,7 +11470,7 @@
   },
   {
     "site_id": "us#69028671/ae-network-hdtv",
-    "name": "A\u0026E Network HDTV",
+    "name": "A&E Network HDTV",
     "lang": "en",
     "region": "US"
   },
@@ -11440,7 +11525,7 @@
   },
   {
     "site_id": "us#69049600/consumer-news-business-channel-world-hdtv",
-    "name": "Consumer News \u0026 Business Channel World HDTV",
+    "name": "Consumer News & Business Channel World HDTV",
     "lang": "en",
     "region": "US"
   },
@@ -11488,7 +11573,7 @@
   },
   {
     "site_id": "us#1226188354/great-american-faith-living",
-    "name": "Great American Faith \u0026 Living",
+    "name": "Great American Faith & Living",
     "lang": "en",
     "region": "US"
   },
@@ -11614,7 +11699,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2428/10-bold",
@@ -11628,7 +11714,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2743/9life",
@@ -11769,7 +11856,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "ca#69022475/omni1",
@@ -12211,7 +12299,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3055/viceland-hd",
@@ -12294,7 +12383,7 @@
   },
   {
     "site_id": "us#69027571/heart-soul-sirius-satellite-radio",
-    "name": "Heart \u0026 Soul (Sirius Satellite Radio)",
+    "name": "Heart & Soul (Sirius Satellite Radio)",
     "lang": "en",
     "region": "US"
   },
@@ -12416,7 +12505,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3466/sbs-worldwatch",
@@ -12551,7 +12641,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2719/9life",
@@ -12603,7 +12694,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "ca#10585589974/nhl10-high-definition-centre-ice",
@@ -12714,7 +12806,8 @@
     "name": "STARZ 2 (EAST)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "Starz2.ca@East"
+    "xmltv_id": "Starz2.ca@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/starz-2-ca.png"
   },
   {
     "site_id": "ca#335041721/zee-salaam",
@@ -12842,7 +12935,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2368/sbs-world-movies",
@@ -13077,7 +13171,8 @@
     "name": "YTV (West)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "YTV.ca@East"
+    "xmltv_id": "YTV.ca@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/ytv-ca.png"
   },
   {
     "site_id": "us#69023871/et-drama-channel",
@@ -13105,7 +13200,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3472/sbs-worldwatch",
@@ -13168,7 +13264,8 @@
     "name": "Justice Central",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "JusticeCentralTV.us@SD"
+    "xmltv_id": "JusticeCentralTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/justice-central-tv-us.png"
   },
   {
     "site_id": "au#1838/gem",
@@ -13356,7 +13453,8 @@
     "name": "BBC News North America",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "BBCNews.uk@NorthAmerica"
+    "xmltv_id": "BBCNews.uk@NorthAmerica",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "us#69023268/outdoor-channel",
@@ -13501,7 +13599,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69031436/cmt-hdtv-east",
@@ -13772,7 +13871,8 @@
     "name": "Crave 4 (East)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "Crave4.ca@SD"
+    "xmltv_id": "Crave4.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/crave-4-ca.png"
   },
   {
     "site_id": "ca#10628057911/dv-one-sdtv",
@@ -13811,7 +13911,7 @@
   },
   {
     "site_id": "ca#69021747/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -13983,7 +14083,7 @@
   },
   {
     "site_id": "us#69030629/starz-kids-family-hd-east",
-    "name": "STARZ Kids \u0026 Family HD (East)",
+    "name": "STARZ Kids & Family HD (East)",
     "lang": "en",
     "region": "US",
     "xmltv_id": "StarzKidsFamily.us@East",
@@ -14086,7 +14186,8 @@
     "name": "SundanceTV (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "SundanceTV.us@East"
+    "xmltv_id": "SundanceTV.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/sundance-tv-us.png"
   },
   {
     "site_id": "us#69030799/acoustic-crossroads",
@@ -14224,7 +14325,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3025/viceland-hd",
@@ -14542,7 +14644,8 @@
     "name": "The Movie Channel Xtra (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "TheMovieChannelXtra.us@East"
+    "xmltv_id": "TheMovieChannelXtra.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/the-movie-channel-xtra-us.png"
   },
   {
     "site_id": "au#2957/wdt-nine",
@@ -14567,7 +14670,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3152/animal-planet",
@@ -14655,7 +14759,8 @@
     "name": "Nickelodeon (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Nickelodeon.us@West"
+    "xmltv_id": "Nickelodeon.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nickelodeon-us.png"
   },
   {
     "site_id": "us#698850482/logo-hdtv-east",
@@ -14711,7 +14816,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2502/tvsn",
@@ -14841,7 +14947,8 @@
     "name": "Comedy Central (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "ComedyCentral.us@East"
+    "xmltv_id": "ComedyCentral.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/comedy-central-us.png"
   },
   {
     "site_id": "us#69044018/wnep",
@@ -15067,14 +15174,16 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2583/sbs-hd",
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#999277100/ncaa-sports-package-hdtv",
@@ -15113,7 +15222,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3496/7bravo",
@@ -15148,7 +15258,8 @@
     "name": "Disney XD Canada HD",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "DisneyXD.ca@SD"
+    "xmltv_id": "DisneyXD.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/disney-xd-ca.png"
   },
   {
     "site_id": "ca#4315357875/wbts-nbc-boston",
@@ -15191,7 +15302,7 @@
   },
   {
     "site_id": "us#69033327/att-u-verse-front-row",
-    "name": "AT\u0026T U-verse Front Row",
+    "name": "AT&T U-verse Front Row",
     "lang": "en",
     "region": "US"
   },
@@ -15200,7 +15311,8 @@
     "name": "MGM+ (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "MGMPlus.us@West"
+    "xmltv_id": "MGMPlus.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mgm-plus-us.png"
   },
   {
     "site_id": "us#69040855/mediaset-italia-us",
@@ -15226,14 +15338,16 @@
     "name": "The Weather Network (National)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "TheWeatherNetwork.ca"
+    "xmltv_id": "TheWeatherNetwork.ca",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/the-weather-network-ca.png"
   },
   {
     "site_id": "ca#10637609032/cbc-news-network-hdtv-rogers-feed",
     "name": "CBC News Network HDTV (Rogers Feed)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "CBCNewsNetwork.ca@SD"
+    "xmltv_id": "CBCNewsNetwork.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/cbc-news-network-ca.png"
   },
   {
     "site_id": "us#69022002/kunw-univision-2",
@@ -15324,7 +15438,8 @@
     "name": "Foxtel Movies Greats HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "FoxtelMoviesGreats.au"
+    "xmltv_id": "FoxtelMoviesGreats.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/foxtel-movies/foxtel-movies-greats-au.png"
   },
   {
     "site_id": "us#69029782/grt-gba-satellite-tv",
@@ -15513,7 +15628,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#753430202/apna-punjabi-radio",
@@ -15596,7 +15712,8 @@
     "name": "LMN HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "LifetimeMovies.us@East"
+    "xmltv_id": "LifetimeMovies.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/lifetime-movies-us.png"
   },
   {
     "site_id": "ca#69037772/telemagino",
@@ -16068,7 +16185,8 @@
     "name": "Boomerang (Canada)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "Boomerang.uk@SD"
+    "xmltv_id": "Boomerang.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/boomerang-uk.png"
   },
   {
     "site_id": "ca#10635676310/dv-cbwt-sd-descriptive-video",
@@ -16170,7 +16288,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3321/fox-one",
@@ -16391,7 +16510,8 @@
     "name": "UNIVERSO (IP)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "NBCUniverso.us@East"
+    "xmltv_id": "NBCUniverso.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nbc-universo-us.png"
   },
   {
     "site_id": "au#3449/sbs-worldwatch",
@@ -16461,7 +16581,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69029783/dragon-tv-network",
@@ -16567,7 +16688,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69043764/ctv-reseau-des-sports-2-hdtv",
@@ -16825,7 +16947,8 @@
     "name": "STARZ 1 (WEST)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "Starz1.ca@West"
+    "xmltv_id": "Starz1.ca@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/starz-1-ca.png"
   },
   {
     "site_id": "ca#3642505189/crave-tv-on-demand",
@@ -16920,7 +17043,8 @@
     "name": "The Cooking Channel (Canada)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "CookingChannel.us@SD"
+    "xmltv_id": "CookingChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cooking-channel-us.png"
   },
   {
     "site_id": "ca#295630262/ptv-global",
@@ -16961,7 +17085,8 @@
     "name": "GAME+ (US feed)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "GamePlus.ca"
+    "xmltv_id": "GamePlus.ca",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/game-plus-ca.png"
   },
   {
     "site_id": "au#1887/10",
@@ -17017,7 +17142,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#10709584913/ohl-action-pak-1",
@@ -17033,13 +17159,13 @@
   },
   {
     "site_id": "us#69048883/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
   {
     "site_id": "us#69048885/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -17091,7 +17217,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2665/sbs-food",
@@ -17540,7 +17667,7 @@
   },
   {
     "site_id": "us#69048887/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -17556,7 +17683,8 @@
     "name": "Justice Central",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "JusticeCentralTV.us@SD"
+    "xmltv_id": "JusticeCentralTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/justice-central-tv-us.png"
   },
   {
     "site_id": "ca#69034985/citytv-vancouver-hdtv",
@@ -17603,7 +17731,8 @@
     "name": "Zee Tamizh",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "ZeeTamil.in@SD"
+    "xmltv_id": "ZeeTamil.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-tamil-in.png"
   },
   {
     "site_id": "us#1922365932/comet-tv",
@@ -17632,7 +17761,8 @@
     "name": "Foxtel Movies Family HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "FoxtelMoviesFamily.au"
+    "xmltv_id": "FoxtelMoviesFamily.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/foxtel-movies/foxtel-movies-family-au.png"
   },
   {
     "site_id": "ca#69030789/shaw-hd-ppv-1",
@@ -17902,7 +18032,7 @@
   },
   {
     "site_id": "ca#69048888/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -18123,7 +18253,8 @@
     "name": "Love Nature 4K HD (Canada)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "LoveNature.ca@4K"
+    "xmltv_id": "LoveNature.ca@4K",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/love-nature-ca.png"
   },
   {
     "site_id": "us#69043357/bolivia-tv",
@@ -18157,7 +18288,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3157/bbc-news",
@@ -18404,7 +18536,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3040/viceland-hd",
@@ -18563,7 +18696,8 @@
     "name": "IFC (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "IFC.us@East"
+    "xmltv_id": "IFC.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/ifc-us.png"
   },
   {
     "site_id": "us#69031662/disney-xd-hdtv-east",
@@ -18636,7 +18770,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2904/southern-cross-10",
@@ -18736,7 +18871,7 @@
   },
   {
     "site_id": "us#69029452/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -18780,18 +18915,20 @@
     "name": "YTV (West) (Descriptive Video)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "YTV.ca@East"
+    "xmltv_id": "YTV.ca@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/ytv-ca.png"
   },
   {
     "site_id": "us#69021566/the-cooking-channel",
     "name": "The Cooking Channel",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "CookingChannel.us@SD"
+    "xmltv_id": "CookingChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cooking-channel-us.png"
   },
   {
     "site_id": "us#69021747/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -18958,7 +19095,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2732/9life",
@@ -18995,7 +19133,7 @@
   },
   {
     "site_id": "au#3164/crime-investigation-network",
-    "name": "Crime \u0026 Investigation Network",
+    "name": "Crime & Investigation Network",
     "lang": "en",
     "region": "AU"
   },
@@ -19043,7 +19181,7 @@
   },
   {
     "site_id": "us#69048888/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -19052,14 +19190,16 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2651/aspiretv",
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#3167/cartoon-network",
@@ -19168,7 +19308,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "us#69021376/dtv-cinema",
@@ -19271,7 +19412,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2823/winhd",
@@ -19395,7 +19537,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#1334112541/meteomedia-in-hdtv",
@@ -19536,7 +19679,8 @@
     "name": "BabyFirst TV",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "BabyFirst.us@US"
+    "xmltv_id": "BabyFirst.us@US",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/baby-first-tv-us.png"
   },
   {
     "site_id": "us#3915142490/nyctv-government",
@@ -19556,7 +19700,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69041146/newfoundland-television-hdtv",
@@ -19745,7 +19890,7 @@
   },
   {
     "site_id": "us#69033301/star-life-usa-canada",
-    "name": "Star Life (USA \u0026 Canada)",
+    "name": "Star Life (USA & Canada)",
     "lang": "en",
     "region": "US"
   },
@@ -19754,7 +19899,8 @@
     "name": "Disney XD (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "DisneyXD.us@East"
+    "xmltv_id": "DisneyXD.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/disney-xd-us.png"
   },
   {
     "site_id": "us#4426262574/zee-24-taas-sling",
@@ -19767,7 +19913,8 @@
     "name": "Foxtel Movies Romance HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "FoxtelMoviesRomance.au"
+    "xmltv_id": "FoxtelMoviesRomance.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/foxtel-movies/foxtel-movies-romance-au.png"
   },
   {
     "site_id": "ca#69022511/cbht",
@@ -19789,11 +19936,12 @@
     "name": "Cartoon Network (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "CartoonNetwork.us@East"
+    "xmltv_id": "CartoonNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoon-network-us.png"
   },
   {
     "site_id": "us#3749826251/tv-globo-internacional-hdtv-latam-united-states",
-    "name": "TV Globo Internacional HDTV (LATAM \u0026 United States)",
+    "name": "TV Globo Internacional HDTV (LATAM & United States)",
     "lang": "en",
     "region": "US"
   },
@@ -19928,7 +20076,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3328/9rush",
@@ -20023,7 +20172,7 @@
   },
   {
     "site_id": "au#3240/ae",
-    "name": "A\u0026E",
+    "name": "A&E",
     "lang": "en",
     "region": "AU",
     "xmltv_id": "AE.au@SD",
@@ -20424,7 +20573,7 @@
   },
   {
     "site_id": "us#69047760/tve-internacional-north-south-america",
-    "name": "TVE Internacional (North \u0026 South America)",
+    "name": "TVE Internacional (North & South America)",
     "lang": "en",
     "region": "US"
   },
@@ -20473,7 +20622,8 @@
     "name": "STARZ 2 (WEST)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "Starz2.ca@West"
+    "xmltv_id": "Starz2.ca@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/starz-2-ca.png"
   },
   {
     "site_id": "ca#317907389/bein-sports-english",
@@ -20499,7 +20649,8 @@
     "name": "MTV Classic (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "MTVClassic.us@East"
+    "xmltv_id": "MTVClassic.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-classic-us.png"
   },
   {
     "site_id": "us#822266561/tvb2",
@@ -20993,11 +21144,12 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#698680949/consumer-news-business-channel-canada-hdtv",
-    "name": "Consumer News \u0026 Business Channel Canada HDTV",
+    "name": "Consumer News & Business Channel Canada HDTV",
     "lang": "en",
     "region": "CA"
   },
@@ -21028,7 +21180,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69025390/kwex-hdtv-univision-41",
@@ -21169,7 +21322,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2963/abc-tv-hd",
@@ -21208,7 +21362,8 @@
     "name": "NFL RedZone HDTV",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "NFLRedZone.us@SD"
+    "xmltv_id": "NFLRedZone.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nfl-red-zone-us.png"
   },
   {
     "site_id": "au#2564/nitv",
@@ -21615,7 +21770,7 @@
   },
   {
     "site_id": "us#1765780020/wwor-heroes-icons",
-    "name": "WWOR Heroes \u0026 Icons",
+    "name": "WWOR Heroes & Icons",
     "lang": "en",
     "region": "US"
   },
@@ -21673,7 +21828,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3387/nickelodeon",
@@ -21691,7 +21847,7 @@
   },
   {
     "site_id": "ca#69048885/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -21700,7 +21856,8 @@
     "name": "Crave 1 (West)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "Crave1.ca@SD"
+    "xmltv_id": "Crave1.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/crave-1-ca.png"
   },
   {
     "site_id": "ca#335041760/atn-bangla",
@@ -21832,7 +21989,8 @@
     "name": "Home Shopping Network",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "HSN.us@East"
+    "xmltv_id": "HSN.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hsn-us.png"
   },
   {
     "site_id": "us#69031884/hbo-latino-hdtv-west",
@@ -21915,7 +22073,8 @@
     "name": "Nickelodeon (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Nickelodeon.us@East"
+    "xmltv_id": "Nickelodeon.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nickelodeon-us.png"
   },
   {
     "site_id": "us#69032335/wvit-nbc-lx-home",
@@ -22222,7 +22381,8 @@
     "name": "Crave 1 (East)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "Crave1.ca@SD"
+    "xmltv_id": "Crave1.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/crave-1-ca.png"
   },
   {
     "site_id": "us#69030954/nhl-network-us-hdtv",
@@ -22235,7 +22395,8 @@
     "name": "The Movie Channel Xtra (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "TheMovieChannelXtra.us@East"
+    "xmltv_id": "TheMovieChannelXtra.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/the-movie-channel-xtra-us.png"
   },
   {
     "site_id": "us#1187849210/atn-news",
@@ -22286,14 +22447,16 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2330/sbs-one",
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69025189/wroc-hdtv",
@@ -22401,7 +22564,8 @@
     "name": "FXX (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "FXX.us@East"
+    "xmltv_id": "FXX.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fxx-us.png"
   },
   {
     "site_id": "us#4880731579/comedytv-hdtv",
@@ -22593,7 +22757,8 @@
     "name": "Télétoon (Canada-East)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "TeletoonPlus.fr@SD"
+    "xmltv_id": "TeletoonPlus.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/teletoon-plus-fr.png"
   },
   {
     "site_id": "au#1954/10-peach",
@@ -22693,7 +22858,7 @@
   },
   {
     "site_id": "ca#69048882/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -22761,7 +22926,7 @@
   },
   {
     "site_id": "ca#69023215/ae-network-canada",
-    "name": "A\u0026E Network Canada",
+    "name": "A&E Network Canada",
     "lang": "en",
     "region": "CA"
   },
@@ -22914,7 +23079,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69043391/the-cooking-channel-hdtv-canada",
@@ -22991,7 +23157,8 @@
     "name": "Foxtel Movies Action HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "FoxtelMoviesAction.au"
+    "xmltv_id": "FoxtelMoviesAction.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/foxtel-movies/foxtel-movies-action-au.png"
   },
   {
     "site_id": "ca#69021244/out-tv",
@@ -23028,7 +23195,8 @@
     "name": "Teletoon (East) (Descriptive Video)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "CartoonNetwork.ca"
+    "xmltv_id": "CartoonNetwork.ca",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/cartoon-network-ca.png"
   },
   {
     "site_id": "us#371340535/unimas-hdtv-east",
@@ -23238,7 +23406,7 @@
   },
   {
     "site_id": "ca#69031003/super-channel-heart-home-canada",
-    "name": "Super Channel Heart \u0026 Home (Canada)",
+    "name": "Super Channel Heart & Home (Canada)",
     "lang": "en",
     "region": "CA",
     "xmltv_id": "SuperChannelHeartHome.ca"
@@ -23394,7 +23562,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#3171/discovery-hd",
@@ -23475,7 +23644,7 @@
   },
   {
     "site_id": "us#69047307/music-choice-hip-hop-and-rb",
-    "name": "Music Choice Hip-Hop and R\u0026B",
+    "name": "Music Choice Hip-Hop and R&B",
     "lang": "en",
     "region": "US",
     "xmltv_id": "MusicChoiceHipHopandRB.us@SD",
@@ -23515,7 +23684,8 @@
     "name": "HBO Comedy HDTV (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "HBOComedy.us@East"
+    "xmltv_id": "HBOComedy.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hbo-comedy-us.png"
   },
   {
     "site_id": "us#69033446/bally-sports-florida",
@@ -23530,7 +23700,8 @@
     "name": "NFL RedZone HDTV (without NFL Fantasy Live pregame show)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "NFLRedZone.us@SD"
+    "xmltv_id": "NFLRedZone.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nfl-red-zone-us.png"
   },
   {
     "site_id": "au#1870/gem",
@@ -23573,7 +23744,7 @@
   },
   {
     "site_id": "us#7489010541/consumer-news-business-channel-world",
-    "name": "Consumer News \u0026 Business Channel World",
+    "name": "Consumer News & Business Channel World",
     "lang": "en",
     "region": "US"
   },
@@ -23632,7 +23803,8 @@
     "name": "Military History Channel",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "MilitaryHistory.us@SD"
+    "xmltv_id": "MilitaryHistory.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/military-history-us.png"
   },
   {
     "site_id": "us#69046622/pac-12-washington-hdtv",
@@ -23665,7 +23837,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#3147/uktv",
@@ -23687,7 +23860,8 @@
     "name": "Future TV (Arabic)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "FutureTV.lb"
+    "xmltv_id": "FutureTV.lb",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/lebanon/future-tv-lb.png"
   },
   {
     "site_id": "ca#69032795/accessible-media-inc-amitv-east",
@@ -23754,7 +23928,8 @@
     "name": "NatGeo WILD",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "NationalGeographicWild.us@East"
+    "xmltv_id": "NationalGeographicWild.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hd/national-geographic-wild-hd-us.png"
   },
   {
     "site_id": "us#3176449974/tvb-chinese",
@@ -23803,7 +23978,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3447/sbs-worldwatch",
@@ -24043,7 +24219,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2528/nitv",
@@ -24118,7 +24295,7 @@
   },
   {
     "site_id": "us#69033328/att-u-verse-movies",
-    "name": "AT\u0026T U-verse Movies",
+    "name": "AT&T U-verse Movies",
     "lang": "en",
     "region": "US"
   },
@@ -24246,7 +24423,7 @@
   },
   {
     "site_id": "us#7693245556/law-crime",
-    "name": "Law \u0026 Crime",
+    "name": "Law & Crime",
     "lang": "en",
     "region": "US",
     "xmltv_id": "LawCrime.us@SD",
@@ -24271,7 +24448,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#3513/7bravo",
@@ -25094,7 +25272,7 @@
   },
   {
     "site_id": "us#69048884/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -25393,7 +25571,8 @@
     "name": "FX (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "FX.us@East"
+    "xmltv_id": "FX.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fx-us.png"
   },
   {
     "site_id": "au#3027/viceland-hd",
@@ -25509,7 +25688,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#1918/10-peach",
@@ -25523,14 +25703,16 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "ca#69030398/big-ten-network-national",
     "name": "Big Ten Network (National)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "BigTenNetwork.us@SD"
+    "xmltv_id": "BigTenNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/big-ten-network-us.png"
   },
   {
     "site_id": "us#69026984/wapa-america",
@@ -25671,7 +25853,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69023757/vision-tv-canada",
@@ -25714,7 +25897,8 @@
     "name": "FOX8 HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Fox8.au@SD"
+    "xmltv_id": "Fox8.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/fox-8-au.png"
   },
   {
     "site_id": "au#3421/sky-news-regional",
@@ -25751,7 +25935,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "us#69028270/food-network-hdtv-east",
@@ -26071,7 +26256,8 @@
     "name": "STARZ 1 HD (EAST)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "Starz1.ca@East"
+    "xmltv_id": "Starz1.ca@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/starz-1-ca.png"
   },
   {
     "site_id": "ca#10637695528/history-television-east-descriptive-video",
@@ -26118,7 +26304,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2740/9life",
@@ -26225,14 +26412,16 @@
     "name": "Super Ecran",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "SuperEcran1.ca@SD"
+    "xmltv_id": "SuperEcran1.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/super-ecran-1-ca.png"
   },
   {
     "site_id": "us#69046887/universo-east",
     "name": "UNIVERSO (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "NBCUniverso.us@East"
+    "xmltv_id": "NBCUniverso.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nbc-universo-us.png"
   },
   {
     "site_id": "us#4461109453/sikh-channel-sling",
@@ -26253,7 +26442,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2661/sbs-food",
@@ -26416,7 +26606,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69030674/mlb-extra-inningsnba-league-pass",
@@ -26451,7 +26642,8 @@
     "name": "Flix (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Flix.us@East"
+    "xmltv_id": "Flix.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/flix-us.png"
   },
   {
     "site_id": "us#69037619/discovery-family-channel-hdtv",
@@ -26582,7 +26774,8 @@
     "name": "Freeform (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Freeform.us@East"
+    "xmltv_id": "Freeform.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/freeform-us.png"
   },
   {
     "site_id": "ca#10583937451/shaw-direct-alberta-bookmark-channel",
@@ -26657,7 +26850,7 @@
   },
   {
     "site_id": "us#1226188356/great-american-faith-living-hdtv",
-    "name": "Great American Faith \u0026 Living HDTV",
+    "name": "Great American Faith & Living HDTV",
     "lang": "en",
     "region": "US"
   },
@@ -26721,7 +26914,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3243/fox-showcase",
@@ -26785,7 +26979,8 @@
     "name": "STARZ 1 HD (WEST)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "Starz1.ca@East"
+    "xmltv_id": "Starz1.ca@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/starz-1-ca.png"
   },
   {
     "site_id": "us#69022106/dtv-cinema-hdtv",
@@ -26973,7 +27168,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69025698/wabc-localish-hdtv",
@@ -27017,7 +27213,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3298/7two-queensland",
@@ -27123,7 +27320,8 @@
     "name": "DOGTV",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "DogTV.us@SD"
+    "xmltv_id": "DogTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/dog-tv-us.png"
   },
   {
     "site_id": "us#7568243423/wlny-charge",
@@ -27268,7 +27466,7 @@
   },
   {
     "site_id": "ca#69048886/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -27510,7 +27708,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69031635/hbo-2-hdtv-east",
@@ -27590,7 +27789,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2814/winhd",
@@ -27634,7 +27834,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2554/nitv",
@@ -27655,7 +27856,8 @@
     "name": "Foxtel Movies Comedy HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "FoxtelMoviesComedy.au"
+    "xmltv_id": "FoxtelMoviesComedy.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/foxtel-movies/foxtel-movies-comedy-au.png"
   },
   {
     "site_id": "ca#69043599/cksh-ici-radio-canada-sherbrooke",
@@ -27808,7 +28010,7 @@
   },
   {
     "site_id": "us#69027868/home-garden-television-hdtv-east",
-    "name": "Home \u0026 Garden Television HDTV (East)",
+    "name": "Home & Garden Television HDTV (East)",
     "lang": "en",
     "region": "US"
   },
@@ -27817,7 +28019,8 @@
     "name": "InSync (Sling)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Insync.in"
+    "xmltv_id": "Insync.in",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/insync-in.png"
   },
   {
     "site_id": "ca#69023296/ckpg",
@@ -27848,7 +28051,8 @@
     "name": "TVA Sports 2 HD",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "TVASports2.ca@SD"
+    "xmltv_id": "TVASports2.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/tva-sports-2-ca.png"
   },
   {
     "site_id": "us#69045892/wnyw",
@@ -27901,7 +28105,7 @@
   },
   {
     "site_id": "us#69038481/consumer-news-business-channel",
-    "name": "Consumer News \u0026 Business Channel",
+    "name": "Consumer News & Business Channel",
     "lang": "en",
     "region": "US"
   },
@@ -27980,7 +28184,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2529/nitv",
@@ -28003,7 +28208,7 @@
   },
   {
     "site_id": "ca#6308454160/crave-movies-hbo-canada",
-    "name": "Crave Movies \u0026 HBO (Canada)",
+    "name": "Crave Movies & HBO (Canada)",
     "lang": "en",
     "region": "CA"
   },
@@ -28282,7 +28487,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2725/9life",
@@ -28310,7 +28516,8 @@
     "name": "NFL RedZone HDTV",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "NFLRedZone.us@SD"
+    "xmltv_id": "NFLRedZone.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nfl-red-zone-us.png"
   },
   {
     "site_id": "us#940199397/teleformula-us-feed",
@@ -28407,7 +28614,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "us#69031491/wcct-grit",
@@ -28477,7 +28685,8 @@
     "name": "Syfy (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Syfy.us@East"
+    "xmltv_id": "Syfy.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/syfy-us.png"
   },
   {
     "site_id": "us#69026019/afn-familyafn-pulse",
@@ -28666,7 +28875,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "au#2816/winhd",
@@ -29084,7 +29294,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69045147/kiit-hdtv",
@@ -29129,7 +29340,8 @@
     "name": "Toon-A-Vision (Bell TV)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "ToonAVision.ca"
+    "xmltv_id": "ToonAVision.ca",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/toon-a-vision-ca.png"
   },
   {
     "site_id": "us#69025967/dtv-cinema-hdtv",
@@ -29156,7 +29368,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2812/winhd",
@@ -29246,7 +29459,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "us#69025340/wnyw-fox-weather",
@@ -29346,7 +29560,7 @@
   },
   {
     "site_id": "us#4169506398/tv",
-    "name": "\u0026 TV",
+    "name": "& TV",
     "lang": "en",
     "region": "US",
     "logo": "https://i.imgur.com/7RtGcfY.png"
@@ -29360,7 +29574,7 @@
   },
   {
     "site_id": "ca#69039032/wbbz-heroes-icons",
-    "name": "WBBZ Heroes \u0026 Icons",
+    "name": "WBBZ Heroes & Icons",
     "lang": "en",
     "region": "CA"
   },
@@ -29452,7 +29666,7 @@
   },
   {
     "site_id": "ca#384254590/moicie",
-    "name": "Moi\u0026Cie",
+    "name": "Moi&Cie",
     "lang": "en",
     "region": "CA"
   },
@@ -29501,7 +29715,8 @@
     "name": "TV Land (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "TVLand.us@East"
+    "xmltv_id": "TVLand.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tv-land-us.png"
   },
   {
     "site_id": "us#69047006/univision-network-east",
@@ -29608,7 +29823,7 @@
   },
   {
     "site_id": "ca#69029449/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -29853,11 +30068,12 @@
     "name": "Food Network (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "FoodNetwork.us@East"
+    "xmltv_id": "FoodNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/food-network-us.png"
   },
   {
     "site_id": "us#1227773578/heroes-icons-national-feed",
-    "name": "Heroes \u0026 Icons (National Feed)",
+    "name": "Heroes & Icons (National Feed)",
     "lang": "en",
     "region": "US",
     "xmltv_id": "HeroesIcons.us"
@@ -29892,7 +30108,7 @@
   },
   {
     "site_id": "ca#1226188354/great-american-faith-living",
-    "name": "Great American Faith \u0026 Living",
+    "name": "Great American Faith & Living",
     "lang": "en",
     "region": "CA"
   },
@@ -29947,7 +30163,8 @@
     "name": "CTV DRAMA Channel SD (Descriptive Video)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "CTVDramaChannel.ca@SD"
+    "xmltv_id": "CTVDramaChannel.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/ctv-drama-channel-ca.png"
   },
   {
     "site_id": "us#69030616/frequency",
@@ -29968,14 +30185,16 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2617/sbs-hd",
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#888925225/ici-reseau-de-linformation-hdtv",
@@ -30067,7 +30286,7 @@
   },
   {
     "site_id": "us#69030991/consumer-news-business-channel-hdtv",
-    "name": "Consumer News \u0026 Business Channel HDTV",
+    "name": "Consumer News & Business Channel HDTV",
     "lang": "en",
     "region": "US"
   },
@@ -30185,7 +30404,8 @@
     "name": "Disney XD (East)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "DisneyXD.us@East"
+    "xmltv_id": "DisneyXD.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/disney-xd-us.png"
   },
   {
     "site_id": "ca#69049070/evasion",
@@ -30247,7 +30467,7 @@
   },
   {
     "site_id": "us#4461075363/4fun-fit-dance-sling",
-    "name": "4fun Fit \u0026 Dance (Sling)",
+    "name": "4fun Fit & Dance (Sling)",
     "lang": "en",
     "region": "US"
   },
@@ -30371,7 +30591,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#9368299991/rfd-hdtv-canada",
@@ -30796,7 +31017,7 @@
   },
   {
     "site_id": "us#4172722923/ge-tv",
-    "name": "G\u0026E TV",
+    "name": "G&E TV",
     "lang": "en",
     "region": "US"
   },
@@ -30842,7 +31063,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69033181/ctv-calgary-hdtv",
@@ -30855,7 +31077,8 @@
     "name": "Magnolia Network Canada (SD)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "MagnoliaNetwork.us@East"
+    "xmltv_id": "MagnoliaNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/magnolia-network-us.png"
   },
   {
     "site_id": "us#1707850647/wxny-daystar-reflections",
@@ -30868,14 +31091,16 @@
     "name": "Foxtel Movies Premiere HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "FoxtelMoviesPremiere.au"
+    "xmltv_id": "FoxtelMoviesPremiere.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/foxtel-movies/foxtel-movies-premiere-au.png"
   },
   {
     "site_id": "ca#69021538/investigation-discovery-canada",
     "name": "Investigation Discovery (Canada)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "InvestigationDiscovery.ca@SD"
+    "xmltv_id": "InvestigationDiscovery.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/investigation-discovery-ca.png"
   },
   {
     "site_id": "ca#69032736/mtv-india",
@@ -30898,7 +31123,8 @@
     "name": "Magnolia Network Canada (HD)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "MagnoliaNetwork.us@East"
+    "xmltv_id": "MagnoliaNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/magnolia-network-us.png"
   },
   {
     "site_id": "au#1982/abc-tv",
@@ -30967,7 +31193,8 @@
     "name": "Pop (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Pop.us@East"
+    "xmltv_id": "Pop.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/pop-us.png"
   },
   {
     "site_id": "au#2152/abc-news",
@@ -31096,7 +31323,8 @@
     "name": "Family Jr. (SD)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "FamilyJr.ca@SD"
+    "xmltv_id": "FamilyJr.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/family-jr-ca.png"
   },
   {
     "site_id": "us#69021649/teleritmo",
@@ -31435,7 +31663,7 @@
   },
   {
     "site_id": "us#69048889/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -31450,7 +31678,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2559/nitv",
@@ -31588,7 +31817,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69033920/tv5-quebec-canada-hdtv",
@@ -31718,7 +31948,7 @@
   },
   {
     "site_id": "us#69047058/home-garden-television-east",
-    "name": "Home \u0026 Garden Television (East)",
+    "name": "Home & Garden Television (East)",
     "lang": "en",
     "region": "US"
   },
@@ -31829,7 +32059,7 @@
   },
   {
     "site_id": "us#69033330/att-u-verse-buzz",
-    "name": "AT\u0026T U-verse Buzz",
+    "name": "AT&T U-verse Buzz",
     "lang": "en",
     "region": "US"
   },
@@ -31856,7 +32086,8 @@
     "name": "MoviePlex East",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "MoviePlex.us@East"
+    "xmltv_id": "MoviePlex.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-plex-us.png"
   },
   {
     "site_id": "us#707050791/inspirational-network-hd-east",
@@ -32054,7 +32285,8 @@
     "name": "Foxtel Movies Thriller HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "FoxtelMoviesThriller.au"
+    "xmltv_id": "FoxtelMoviesThriller.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/foxtel-movies/foxtel-movies-thriller-au.png"
   },
   {
     "site_id": "au#3445/sbs-worldwatch",
@@ -32096,7 +32328,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2829/winhd",
@@ -32486,7 +32719,8 @@
     "name": "MGM+ (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "MGMPlus.us@East"
+    "xmltv_id": "MGMPlus.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mgm-plus-us.png"
   },
   {
     "site_id": "us#69044316/kalaignar-tv",
@@ -32649,7 +32883,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#2900/southern-cross-10",
@@ -32756,7 +32991,7 @@
   },
   {
     "site_id": "ca#69029450/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -32923,7 +33158,7 @@
   },
   {
     "site_id": "us#69029450/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -33037,7 +33272,8 @@
     "name": "RaiNews 24",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "RaiNews24.it@SD"
+    "xmltv_id": "RaiNews24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-news-24-it.png"
   },
   {
     "site_id": "au#1912/10",
@@ -33051,7 +33287,8 @@
     "name": "Foxtel Movies Drama HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "FoxtelMoviesDrama.au"
+    "xmltv_id": "FoxtelMoviesDrama.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/foxtel-movies/foxtel-movies-drama-au.png"
   },
   {
     "site_id": "us#69048475/nba-league-pass",
@@ -33087,7 +33324,7 @@
   },
   {
     "site_id": "us#69025822/altitude-sports-entertainment-colorado",
-    "name": "Altitude Sports \u0026 Entertainment (Colorado)",
+    "name": "Altitude Sports & Entertainment (Colorado)",
     "lang": "en",
     "region": "US"
   },
@@ -33199,7 +33436,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3474/sbs-worldwatch",
@@ -33348,7 +33586,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "us#69031686/lifetime-television-hdtv-east",
@@ -33532,7 +33771,7 @@
   },
   {
     "site_id": "ca#69025845/crave-movies-hbo-on-demand",
-    "name": "Crave Movies \u0026 HBO On Demand",
+    "name": "Crave Movies & HBO On Demand",
     "lang": "en",
     "region": "CA"
   },
@@ -33589,7 +33828,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69041496/global-calgary",
@@ -33696,7 +33936,8 @@
     "name": "Paramount Network (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "ParamountNetwork.us@East"
+    "xmltv_id": "ParamountNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/paramount-network-us.png"
   },
   {
     "site_id": "us#383554609/mgm-marquee-hdtv-east",
@@ -33735,7 +33976,8 @@
     "name": "SBS One",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au@Sydney"
+    "xmltv_id": "SBS.au@Sydney",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "ca#69049069/z",
@@ -33795,7 +34037,8 @@
     "name": "The Movie Channel (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "TheMovieChannel.us@West"
+    "xmltv_id": "TheMovieChannel.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/the-movie-channel-us.png"
   },
   {
     "site_id": "us#3740269895/jus-punjabi",
@@ -33885,7 +34128,8 @@
     "name": "ReelzChannel",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Reelz.us@SD"
+    "xmltv_id": "Reelz.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/reelz-us.png"
   },
   {
     "site_id": "us#1250360770/sneha-tv-india",
@@ -34198,14 +34442,16 @@
     "name": "Bravo (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Bravo.us@East"
+    "xmltv_id": "Bravo.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bravo-us.png"
   },
   {
     "site_id": "us#69047004/paramount-with-showtime-east",
     "name": "Paramount+ with SHOWTIME (East)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Showtime.us@East"
+    "xmltv_id": "Showtime.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/showtime-us.png"
   },
   {
     "site_id": "us#893698748/interactive-advertising-channel-hdtv",
@@ -34351,7 +34597,8 @@
     "name": "SBS HD",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "SBS.au"
+    "xmltv_id": "SBS.au",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
   },
   {
     "site_id": "au#3028/viceland-hd",
@@ -34378,11 +34625,12 @@
     "name": "YTV HD (West)",
     "lang": "en",
     "region": "CA",
-    "xmltv_id": "YTV.ca@East"
+    "xmltv_id": "YTV.ca@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/ytv-ca.png"
   },
   {
     "site_id": "us#69024083/muzak-50s-60s-hits",
-    "name": "Muzak: 50's \u0026 60's Hits",
+    "name": "Muzak: 50's & 60's Hits",
     "lang": "en",
     "region": "US"
   },
@@ -34576,7 +34824,7 @@
   },
   {
     "site_id": "ca#69029451/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "CA"
   },
@@ -34639,7 +34887,8 @@
     "name": "Freeform (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "Freeform.us@West"
+    "xmltv_id": "Freeform.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/freeform-us.png"
   },
   {
     "site_id": "us#69039265/et-financial-news-channel",
@@ -34947,7 +35196,7 @@
     "lang": "en",
     "region": "US",
     "xmltv_id": "Foro.mx@SD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw\u0026s"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s"
   },
   {
     "site_id": "us#4461112682/total-tv-sling",
@@ -34961,7 +35210,8 @@
     "name": "AspireTV",
     "lang": "en",
     "region": "AU",
-    "xmltv_id": "Aspire.us@SD"
+    "xmltv_id": "Aspire.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/aspire-tv-us.png"
   },
   {
     "site_id": "ca#69021275/animal-planet-canada",
@@ -34993,7 +35243,8 @@
     "name": "BBC News North America",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "BBCNews.uk@NorthAmerica"
+    "xmltv_id": "BBCNews.uk@NorthAmerica",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "ca#372325204/super-channel-vault-hdtv",
@@ -35092,7 +35343,7 @@
   },
   {
     "site_id": "us#69048882/nhl-center-ice-mlb-extra-innings",
-    "name": "NHL Center Ice \u0026 MLB Extra Innings",
+    "name": "NHL Center Ice & MLB Extra Innings",
     "lang": "en",
     "region": "US"
   },
@@ -35180,7 +35431,8 @@
     "name": "Hallmark Channel (West)",
     "lang": "en",
     "region": "US",
-    "xmltv_id": "HallmarkChannel.us@West"
+    "xmltv_id": "HallmarkChannel.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hallmark-channel-us.png"
   },
   {
     "site_id": "au#2893/7-hd",

@@ -13,7 +13,7 @@
   },
   {
     "site_id": "gb/tvschedule#yesterday",
-    "name": "U\u0026Yesterday",
+    "name": "U&Yesterday",
     "lang": "en",
     "xmltv_id": "UYesterday.uk@SD",
     "logo": "https://i.imgur.com/r3pqSHl.png"
@@ -115,7 +115,8 @@
     "site_id": "de/tvprogramm#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "de",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "es/programacion-tv#baby-tv-es",
@@ -274,7 +275,8 @@
     "site_id": "tvprogram#maxsport-3",
     "name": "MAXSport 3",
     "lang": "hr",
-    "xmltv_id": "MaxSport3.bg@SD"
+    "xmltv_id": "MaxSport3.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/max-sport-3-bg.png"
   },
   {
     "site_id": "de/tvprogramm#teve2",
@@ -294,7 +296,8 @@
     "site_id": "rs/tvprogram#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "sr",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "tvprogram#tvn24",
@@ -333,7 +336,8 @@
     "site_id": "fr/programme-tv#france-24-arabic",
     "name": "France24 Arabic",
     "lang": "fr",
-    "xmltv_id": "France24.fr@Arabic"
+    "xmltv_id": "France24.fr@Arabic",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "fr/programme-tv#rai-news-24",
@@ -508,7 +512,8 @@
     "site_id": "ro/program-tv#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "ro",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "al/programacioni#nuta-gold",
@@ -599,7 +604,8 @@
     "site_id": "ch/tv-programm#cnn-turk-tv",
     "name": "CNN Türk TV",
     "lang": "de",
-    "xmltv_id": "CNNTurk.tr@SD"
+    "xmltv_id": "CNNTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/cnn-turk-tr.png"
   },
   {
     "site_id": "de/tvprogramm#kanal-d-tr",
@@ -697,7 +703,8 @@
     "site_id": "ro/program-tv#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "ro",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "si/tvspored#moviesmart-turk",
@@ -722,7 +729,8 @@
     "site_id": "mk/tv-raspored#france-24-franch",
     "name": "France 24 French",
     "lang": "mk",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "tr/tv-rehberi#ntv-tr",
@@ -965,7 +973,7 @@
   },
   {
     "site_id": "ks/programacioni#cinestar-action-thriller-rs",
-    "name": "CineStar Action\u0026Thriller RS",
+    "name": "CineStar Action&Thriller RS",
     "lang": "sq",
     "xmltv_id": "CineStarTVAction.rs@SD"
   },
@@ -1005,7 +1013,8 @@
     "site_id": "fr/programme-tv#france-24-franch",
     "name": "France 24 French",
     "lang": "fr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "ro/program-tv#rai-world-premium",
@@ -1030,7 +1039,7 @@
   },
   {
     "site_id": "ch/tv-programm#dave",
-    "name": "U\u0026Dave",
+    "name": "U&Dave",
     "lang": "de",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png"
   },
@@ -1067,7 +1076,8 @@
     "site_id": "si/tvspored#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "sl",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "hu/tvmusor#filmbox-hu",
@@ -1086,7 +1096,8 @@
     "site_id": "mk/tv-raspored#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "mk",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "si/tvspored#tv-vijesti",
@@ -1186,7 +1197,7 @@
   },
   {
     "site_id": "ie/tvschedule#alibi",
-    "name": "U\u0026Alibi",
+    "name": "U&Alibi",
     "lang": "en",
     "logo": "https://i.imgur.com/uazjv8g.png"
   },
@@ -1212,7 +1223,8 @@
     "site_id": "tr/tv-rehberi#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "tr",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "ba/tvprogram#televizija-alfa",
@@ -1329,7 +1341,8 @@
     "site_id": "hu/tvmusor#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "hu",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "it/guida-tv#axn-polska",
@@ -1407,7 +1420,8 @@
     "site_id": "bg/tv-programa#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "bg",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "ks/programacioni#pink-western",
@@ -1766,7 +1780,8 @@
     "site_id": "at/tvprogramm#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "de",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "ch/tv-programm#pro-7",
@@ -1785,7 +1800,8 @@
     "site_id": "ro/program-tv#private-spice",
     "name": "Brazzers TV (ex. Private Spice)",
     "lang": "ro",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/brazzers-tv-europe-eu.png"
   },
   {
     "site_id": "al/programacioni#tring-kanal-7",
@@ -2208,7 +2224,8 @@
     "site_id": "pl/program#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "pl",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "al/programacioni#axn-spin-pl",
@@ -2317,13 +2334,15 @@
     "site_id": "de/tvprogramm#trt-arabic",
     "name": "TRT Arapça",
     "lang": "de",
-    "xmltv_id": "TRTArabi.tr@SD"
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
   },
   {
     "site_id": "fr/programme-tv#kbs-world-hd",
     "name": "KBS World HD",
     "lang": "fr",
-    "xmltv_id": "KBSWorld.kr@SD"
+    "xmltv_id": "KBSWorld.kr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/kbs-world-int.png"
   },
   {
     "site_id": "me/tvprogram#disney-junior",
@@ -2536,7 +2555,8 @@
     "site_id": "tr/tv-rehberi#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "tr",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "ie/tvschedule#filmbox-arthouse",
@@ -2556,7 +2576,8 @@
     "site_id": "ch/tv-programm#tv-net",
     "name": "TV Net",
     "lang": "de",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "tvprogram#adventure-hd",
@@ -2736,7 +2757,8 @@
     "site_id": "ba/tvprogram#sinematv",
     "name": "SinemaTV",
     "lang": "bs",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "ch/tv-programm#pink-kids",
@@ -2793,7 +2815,8 @@
     "site_id": "si/tvspored#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "sl",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "al/programacioni#mcn-24",
@@ -2804,7 +2827,8 @@
     "site_id": "ch/tv-programm#bbc-news",
     "name": "BBC News Channel",
     "lang": "de",
-    "xmltv_id": "BBCNews.uk@Africa"
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "gb/tvschedule#al-jazeera-arabic",
@@ -2849,7 +2873,8 @@
     "site_id": "rs/tvprogram#folx-tv",
     "name": "Folx TV",
     "lang": "sr",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "al/programacioni#dmax-de",
@@ -2938,7 +2963,8 @@
     "site_id": "ie/tvschedule#sky-movies-family",
     "name": "Sky Family",
     "lang": "en",
-    "xmltv_id": "SkyCinemaFamily.uk@HD"
+    "xmltv_id": "SkyCinemaFamily.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png"
   },
   {
     "site_id": "me/tvprogram#sinema-komedi-2",
@@ -3050,7 +3076,8 @@
     "site_id": "tvprogram#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "hr",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "al/programacioni#my-music",
@@ -3217,7 +3244,8 @@
     "site_id": "gb/tvschedule#bbc2",
     "name": "BBC2",
     "lang": "en",
-    "xmltv_id": "BBCTwo.uk@England"
+    "xmltv_id": "BBCTwo.uk@England",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
   },
   {
     "site_id": "mk/tv-raspored#axn",
@@ -3262,7 +3290,8 @@
     "site_id": "gb/tvschedule#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "en",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "fr/programme-tv#planete-crime",
@@ -3275,7 +3304,8 @@
     "site_id": "it/guida-tv#rai-3-bis",
     "name": "RAI 3 Bis",
     "lang": "it",
-    "xmltv_id": "Rai3.it@BISFJK"
+    "xmltv_id": "Rai3.it@BISFJK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "gb/tvschedule#nick-jr-too-uk",
@@ -3438,7 +3468,8 @@
     "site_id": "ie/tvschedule#bbc4",
     "name": "BBC4",
     "lang": "en",
-    "xmltv_id": "BBCFour.uk@UK"
+    "xmltv_id": "BBCFour.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-four-uk.png"
   },
   {
     "site_id": "mk/tv-raspored#rtl-kockica",
@@ -3490,7 +3521,8 @@
     "site_id": "rs/tvprogram#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "sr",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "tvprogram#nowa-tv",
@@ -3708,7 +3740,8 @@
     "site_id": "ie/tvschedule#together-uk",
     "name": "Together",
     "lang": "en",
-    "xmltv_id": "TogetherTV.uk@SD"
+    "xmltv_id": "TogetherTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/together-tv-uk.png"
   },
   {
     "site_id": "ks/programacioni#tvp-hd",
@@ -3743,7 +3776,8 @@
     "site_id": "es/programacion-tv#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "es",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "fr/programme-tv#sinema-yerli",
@@ -3774,7 +3808,8 @@
     "site_id": "rs/tvprogram#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "sr",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "me/tvprogram#face-tv",
@@ -3889,7 +3924,8 @@
     "site_id": "at/tvprogramm#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "de",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "at/tvprogramm#ndr-mecklenburg-vorpommern",
@@ -4042,7 +4078,8 @@
     "site_id": "de/tvprogramm#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "de",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "gb/tvschedule#canal-plus-kuchnia",
@@ -4072,7 +4109,8 @@
     "site_id": "fr/programme-tv#rtp3",
     "name": "RTP3",
     "lang": "fr",
-    "xmltv_id": "RTPNoticias.pt"
+    "xmltv_id": "RTPNoticias.pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/rtp-noticias-pt.png"
   },
   {
     "site_id": "pl/program#sinema-aksiyon-2",
@@ -4221,7 +4259,8 @@
     "site_id": "fr/programme-tv#canal-sport360",
     "name": "CANAL+SPORT360",
     "lang": "fr",
-    "xmltv_id": "CanalPlusSport360.fr@SD"
+    "xmltv_id": "CanalPlusSport360.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-plus-sport-360-fr.png"
   },
   {
     "site_id": "it/guida-tv#lci",
@@ -4265,7 +4304,8 @@
     "site_id": "ch/tv-programm#france24",
     "name": "France24",
     "lang": "de",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "ks/programacioni#euronews",
@@ -4413,7 +4453,8 @@
     "site_id": "fr/programme-tv#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "fr",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "es/programacion-tv#nick-junior-es",
@@ -4460,7 +4501,7 @@
   },
   {
     "site_id": "ro/program-tv#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "ro",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -4696,7 +4737,8 @@
     "site_id": "tr/tv-rehberi#trt-arabic",
     "name": "TRT Arapça",
     "lang": "tr",
-    "xmltv_id": "TRTArabi.tr@SD"
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
   },
   {
     "site_id": "al/programacioni#trt-eba-tv-ortaokul",
@@ -4932,7 +4974,8 @@
     "site_id": "pl/program#munchen-tv",
     "name": "münchen.tv",
     "lang": "pl",
-    "xmltv_id": "MunchenTV.de@SD"
+    "xmltv_id": "MunchenTV.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/munchen-tv-de.png"
   },
   {
     "site_id": "si/tvspored#canale-5",
@@ -5007,7 +5050,8 @@
     "site_id": "pt/programacao#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "pt",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "gb/tvschedule#adventure-hd",
@@ -5040,7 +5084,8 @@
     "site_id": "pt/programacao#rtp2",
     "name": "RTP2",
     "lang": "pt",
-    "xmltv_id": "RTP2.pt@SD"
+    "xmltv_id": "RTP2.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/rtp-2-pt.png"
   },
   {
     "site_id": "ro/program-tv#comedy-central-ro",
@@ -5085,7 +5130,8 @@
     "site_id": "at/tvprogramm#folx-tv",
     "name": "Folx TV",
     "lang": "de",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "it/guida-tv#planete-plus-pl",
@@ -5264,7 +5310,8 @@
     "site_id": "me/tvprogram#vojvodina-2",
     "name": "RT Vojvodina 2",
     "lang": "en",
-    "xmltv_id": "RTV2.rs@SD"
+    "xmltv_id": "RTV2.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtv-2-rs.png"
   },
   {
     "site_id": "mk/tv-raspored#super-rtl",
@@ -5326,7 +5373,8 @@
     "site_id": "pl/program#folx-tv",
     "name": "Folx TV",
     "lang": "pl",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "pt/programacao#mcm-top",
@@ -5453,7 +5501,8 @@
     "site_id": "mk/tv-raspored#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "mk",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "tr/tv-rehberi#rai-yoyo",
@@ -5496,7 +5545,7 @@
   },
   {
     "site_id": "tr/tv-rehberi#bein-home-entertainment",
-    "name": "beIN HOME \u0026 ENTERTAINMENT",
+    "name": "beIN HOME & ENTERTAINMENT",
     "lang": "tr"
   },
   {
@@ -5626,7 +5675,8 @@
     "site_id": "it/guida-tv#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "it",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "pl/program#stingnray-cmusic",
@@ -5651,13 +5701,15 @@
     "site_id": "it/guida-tv#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "it",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "mk/tv-raspored#kitchentv",
     "name": "KitchenTV",
     "lang": "mk",
-    "xmltv_id": "KitchenTV.rs@SD"
+    "xmltv_id": "KitchenTV.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/kitchen-tv-rs.png"
   },
   {
     "site_id": "pl/program#polsat-sport-fight",
@@ -5848,13 +5900,15 @@
     "site_id": "hu/tvmusor#sinematv",
     "name": "SinemaTV",
     "lang": "hu",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "ie/tvschedule#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "en",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "gb/tvschedule#kix",
@@ -5894,7 +5948,8 @@
     "site_id": "it/guida-tv#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "it",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "pl/program#belsat-tv",
@@ -6025,7 +6080,8 @@
     "site_id": "gb/tvschedule#sky-movies-family",
     "name": "Sky Family",
     "lang": "en",
-    "xmltv_id": "SkyCinemaFamily.uk@HD"
+    "xmltv_id": "SkyCinemaFamily.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png"
   },
   {
     "site_id": "ks/programacioni#show-tv",
@@ -6829,7 +6885,8 @@
     "site_id": "me/tvprogram#folx-tv",
     "name": "Folx TV",
     "lang": "en",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "ro/program-tv#m4-sport",
@@ -6877,7 +6934,8 @@
     "site_id": "de/tvprogramm#show-turk",
     "name": "Show Türk",
     "lang": "de",
-    "xmltv_id": "ShowTurk.tr@SD"
+    "xmltv_id": "ShowTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/show-turk-tr.png"
   },
   {
     "site_id": "me/tvprogram#euro-cinema-4",
@@ -6954,13 +7012,15 @@
     "site_id": "bg/tv-programa#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "bg",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "de/tvprogramm#cnn",
     "name": "CNN Europe",
     "lang": "de",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "pl/program#polsat-sport-premium-ppv4",
@@ -7019,7 +7079,8 @@
     "site_id": "al/programacioni#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "sq",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "de/tvprogramm#ulke-tv",
@@ -7443,7 +7504,8 @@
     "site_id": "ie/tvschedule#itv2-plus-1",
     "name": "ITV2+1",
     "lang": "en",
-    "xmltv_id": "ITV2.uk@Plus1"
+    "xmltv_id": "ITV2.uk@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-2-uk.png"
   },
   {
     "site_id": "pt/programacao#24kitchen",
@@ -7477,7 +7539,8 @@
     "site_id": "gb/tvschedule#together-uk",
     "name": "Together",
     "lang": "en",
-    "xmltv_id": "TogetherTV.uk@SD"
+    "xmltv_id": "TogetherTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/together-tv-uk.png"
   },
   {
     "site_id": "gb/tvschedule#trt-eba-tv-ilkokul",
@@ -7604,7 +7667,8 @@
     "site_id": "tvprogram#supertennis-hd",
     "name": "Supertennis HD",
     "lang": "hr",
-    "xmltv_id": "SuperTennis.it@HD"
+    "xmltv_id": "SuperTennis.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/super-tennis-it.png"
   },
   {
     "site_id": "es/programacion-tv#iberalia-pesca",
@@ -7628,7 +7692,8 @@
     "site_id": "rs/tvprogram#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "sr",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "ba/tvprogram#vh1-classic-europe",
@@ -7994,7 +8059,8 @@
     "site_id": "de/tvprogramm#sky-sport-bundesliga-uhd",
     "name": "Sky Sport Bundesliga UHD",
     "lang": "de",
-    "xmltv_id": "SkySportBundesliga.de@UHD"
+    "xmltv_id": "SkySportBundesliga.de@UHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sky-sport/old/sky-sport-bundesliga-de.png"
   },
   {
     "site_id": "ie/tvschedule#mtv-classic",
@@ -8043,7 +8109,8 @@
     "site_id": "pt/programacao#bbc-news",
     "name": "BBC News Channel",
     "lang": "pt",
-    "xmltv_id": "BBCNews.uk@Africa"
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "ro/program-tv#sinema-komedi-2",
@@ -8072,7 +8139,8 @@
     "site_id": "ch/tv-programm#trt-arabic",
     "name": "TRT Arapça",
     "lang": "de",
-    "xmltv_id": "TRTArabi.tr@SD"
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
   },
   {
     "site_id": "gb/tvschedule#polsat-seriale",
@@ -8119,7 +8187,8 @@
     "site_id": "tr/tv-rehberi#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "tr",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "al/programacioni#ndihma-e-klientit",
@@ -8161,7 +8230,8 @@
     "site_id": "es/programacion-tv#folx-tv",
     "name": "Folx TV",
     "lang": "es",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "fr/programme-tv#ab3",
@@ -8362,7 +8432,8 @@
     "site_id": "it/guida-tv#20-mediaset",
     "name": "20 Mediaset",
     "lang": "it",
-    "xmltv_id": "20.it@SD"
+    "xmltv_id": "20.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/20-it.png"
   },
   {
     "site_id": "me/tvprogram#zdfinfo",
@@ -8400,7 +8471,8 @@
     "site_id": "bg/tv-programa#trt-arabic",
     "name": "TRT Arapça",
     "lang": "bg",
-    "xmltv_id": "TRTArabi.tr@SD"
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
   },
   {
     "site_id": "hu/tvmusor#polsat-music",
@@ -8556,7 +8628,8 @@
     "site_id": "ie/tvschedule#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "en",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "ro/program-tv#comedy-central-pl",
@@ -8597,7 +8670,8 @@
     "site_id": "pl/program#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "pl",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "pt/programacao#cnbc",
@@ -8610,7 +8684,8 @@
     "site_id": "at/tvprogramm#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "de",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "ba/tvprogram#al-jazeera-arabic",
@@ -8666,7 +8741,8 @@
     "site_id": "bg/tv-programa#sinematv",
     "name": "SinemaTV",
     "lang": "bg",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "ks/programacioni#pink-movies-2",
@@ -8855,7 +8931,8 @@
     "site_id": "bg/tv-programa#cnn",
     "name": "CNN Europe",
     "lang": "bg",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "es/programacion-tv#sinema-komedi-2",
@@ -8881,7 +8958,8 @@
     "site_id": "tr/tv-rehberi#tv-net",
     "name": "TV Net",
     "lang": "tr",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "at/tvprogramm#motorvision-tv",
@@ -8923,7 +9001,8 @@
     "site_id": "ks/programacioni#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "sq",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "si/tvspored#puls4",
@@ -9044,7 +9123,7 @@
   },
   {
     "site_id": "ie/tvschedule#dave",
-    "name": "U\u0026Dave",
+    "name": "U&Dave",
     "lang": "en",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png"
   },
@@ -9085,7 +9164,8 @@
     "site_id": "it/guida-tv#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "it",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "ks/programacioni#mtv-rocks-international",
@@ -9101,7 +9181,8 @@
     "site_id": "mk/tv-raspored#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "mk",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "mk/tv-raspored#syri-tv",
@@ -9311,7 +9392,8 @@
     "site_id": "ro/program-tv#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "ro",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "rs/tvprogram#rts-nauka",
@@ -9324,7 +9406,8 @@
     "site_id": "tvprogram#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "hr",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "mk/tv-raspored#arena-sport-2-premium",
@@ -9364,7 +9447,8 @@
     "site_id": "it/guida-tv#supertennis-hd",
     "name": "Supertennis HD",
     "lang": "it",
-    "xmltv_id": "SuperTennis.it@HD"
+    "xmltv_id": "SuperTennis.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/super-tennis-it.png"
   },
   {
     "site_id": "mk/tv-raspored#tv-duga-sat",
@@ -9493,7 +9577,7 @@
   },
   {
     "site_id": "gb/tvschedule#alibi",
-    "name": "U\u0026Alibi",
+    "name": "U&Alibi",
     "lang": "en",
     "logo": "https://i.imgur.com/uazjv8g.png"
   },
@@ -9614,7 +9698,8 @@
     "site_id": "fr/programme-tv#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "fr",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "gb/tvschedule#tvp-seriale",
@@ -9720,7 +9805,8 @@
     "site_id": "at/tvprogramm#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "de",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "fr/programme-tv#sic",
@@ -9990,7 +10076,8 @@
     "site_id": "es/programacion-tv#cnn",
     "name": "CNN Europe",
     "lang": "es",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "me/tvprogram#euronews",
@@ -10125,13 +10212,15 @@
     "site_id": "ch/tv-programm#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "de",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "ro/program-tv#sinematv",
     "name": "SinemaTV",
     "lang": "ro",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "fr/programme-tv#tvp-seriale",
@@ -10270,7 +10359,7 @@
   },
   {
     "site_id": "hu/tvmusor#home-uk",
-    "name": "Home \u0026 Garden Television UK",
+    "name": "Home & Garden Television UK",
     "lang": "hu"
   },
   {
@@ -10863,7 +10952,8 @@
     "site_id": "ch/tv-programm#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "de",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "ro/program-tv#tvp-3",
@@ -10879,7 +10969,7 @@
   },
   {
     "site_id": "ch/tv-programm#fix-foxi",
-    "name": "Fix \u0026 Foxi",
+    "name": "Fix & Foxi",
     "lang": "de",
     "xmltv_id": "FixFoxi.de@SD"
   },
@@ -10919,7 +11009,8 @@
     "site_id": "ch/tv-programm#show-turk",
     "name": "Show Türk",
     "lang": "de",
-    "xmltv_id": "ShowTurk.tr@SD"
+    "xmltv_id": "ShowTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/show-turk-tr.png"
   },
   {
     "site_id": "fr/programme-tv#tvs",
@@ -11014,7 +11105,8 @@
     "site_id": "tr/tv-rehberi#cnn",
     "name": "CNN Europe",
     "lang": "tr",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "es/programacion-tv#movistar-deportes-1",
@@ -11055,13 +11147,15 @@
     "site_id": "tr/tv-rehberi#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "tr",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "tvprogram#cnn",
     "name": "CNN Europe",
     "lang": "hr",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "hu/tvmusor#4fun-gold",
@@ -11239,7 +11333,8 @@
     "site_id": "ch/tv-programm#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "de",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "ch/tv-programm#s1-tv-ch",
@@ -11329,7 +11424,8 @@
     "site_id": "de/tvprogramm#sky-sport-bundesliga-hd",
     "name": "Sky Sport Bundesliga HD",
     "lang": "de",
-    "xmltv_id": "SkySportBundesliga.de@HD"
+    "xmltv_id": "SkySportBundesliga.de@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sky-sport/old/sky-sport-bundesliga-de.png"
   },
   {
     "site_id": "gb/tvschedule#power-tv-pl",
@@ -11345,7 +11441,7 @@
   },
   {
     "site_id": "rs/tvprogram#pink-movies-3",
-    "name": "Pink SCI FI \u0026 Fantasy",
+    "name": "Pink SCI FI & Fantasy",
     "lang": "sr",
     "xmltv_id": "PinkSciFiFantasy.rs@SD"
   },
@@ -11556,7 +11652,8 @@
     "site_id": "ba/tvprogram#cnn",
     "name": "CNN Europe",
     "lang": "bs",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "bg/tv-programa#diema-sport-2",
@@ -11925,7 +12022,8 @@
     "site_id": "mk/tv-raspored#tv-klan",
     "name": "Klan TV HD",
     "lang": "mk",
-    "xmltv_id": "TVKlan.al@SD"
+    "xmltv_id": "TVKlan.al@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/albania/tv-klan-al.png"
   },
   {
     "site_id": "ro/program-tv#kiss-tv-ro",
@@ -12002,7 +12100,8 @@
     "site_id": "es/programacion-tv#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "es",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "it/guida-tv#dizi-smart-premium",
@@ -12055,7 +12154,8 @@
     "site_id": "al/programacioni#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "sq",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "me/tvprogram#pink-kids",
@@ -12178,7 +12278,8 @@
     "site_id": "bg/tv-programa#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "bg",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "si/tvspored#tvcg1",
@@ -12390,7 +12491,8 @@
     "site_id": "me/tvprogram#pink-lol",
     "name": "Pink LOL",
     "lang": "en",
-    "xmltv_id": "LOL.rs@SD"
+    "xmltv_id": "LOL.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/lol-rs.png"
   },
   {
     "site_id": "ba/tvprogram#atv2",
@@ -12488,7 +12590,7 @@
   },
   {
     "site_id": "ch/tv-programm#drama-uk",
-    "name": "U\u0026Drama",
+    "name": "U&Drama",
     "lang": "de",
     "logo": "https://i.imgur.com/cGBJx59.png"
   },
@@ -13231,7 +13333,8 @@
     "site_id": "ie/tvschedule#folx-tv",
     "name": "Folx TV",
     "lang": "en",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "rs/tvprogram#pink-erotic-5",
@@ -13286,7 +13389,8 @@
     "site_id": "de/tvprogramm#munchen-tv",
     "name": "münchen.tv",
     "lang": "de",
-    "xmltv_id": "MunchenTV.de@SD"
+    "xmltv_id": "MunchenTV.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/munchen-tv-de.png"
   },
   {
     "site_id": "me/tvprogram#grand-narodna-tv",
@@ -13368,7 +13472,8 @@
     "site_id": "rs/tvprogram#vojvodina-2",
     "name": "RT Vojvodina 2",
     "lang": "sr",
-    "xmltv_id": "RTV2.rs@SD"
+    "xmltv_id": "RTV2.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtv-2-rs.png"
   },
   {
     "site_id": "bg/tv-programa#jimjam-bg",
@@ -13701,7 +13806,7 @@
   },
   {
     "site_id": "me/tvprogram#pink-movies-3",
-    "name": "Pink SCI FI \u0026 Fantasy",
+    "name": "Pink SCI FI & Fantasy",
     "lang": "en",
     "xmltv_id": "PinkSciFiFantasy.rs@SD"
   },
@@ -13849,7 +13954,7 @@
     "name": "HIT TV",
     "lang": "hr",
     "xmltv_id": "HITTV.es@SD",
-    "logo": "https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236\u0026ssl=1"
+    "logo": "https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1"
   },
   {
     "site_id": "fr/programme-tv#canal-24h",
@@ -13869,7 +13974,7 @@
   },
   {
     "site_id": "gb/tvschedule#drama-uk",
-    "name": "U\u0026Drama",
+    "name": "U&Drama",
     "lang": "en",
     "logo": "https://i.imgur.com/cGBJx59.png"
   },
@@ -13883,7 +13988,8 @@
     "site_id": "ie/tvschedule#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "en",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "pl/program#tvp-hd",
@@ -13958,7 +14064,7 @@
   },
   {
     "site_id": "de/tvprogramm#fix-foxi",
-    "name": "Fix \u0026 Foxi",
+    "name": "Fix & Foxi",
     "lang": "de",
     "xmltv_id": "FixFoxi.de@SD"
   },
@@ -13972,7 +14078,8 @@
     "site_id": "tvprogram#sinematv",
     "name": "SinemaTV",
     "lang": "hr",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "de/tvprogramm#sinema-yerli-2",
@@ -14001,7 +14108,7 @@
   },
   {
     "site_id": "rs/tvprogram#hgtv",
-    "name": "Home \u0026 Garden Television",
+    "name": "Home & Garden Television",
     "lang": "sr",
     "xmltv_id": "HGTV.uk@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
@@ -14034,7 +14141,8 @@
     "site_id": "bg/tv-programa#tv-rodina-bg",
     "name": "Родина",
     "lang": "bg",
-    "xmltv_id": "TVRodina.bg@SD"
+    "xmltv_id": "TVRodina.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/tv-rodina-bg.png"
   },
   {
     "site_id": "ks/programacioni#pink-erotic-1",
@@ -14059,7 +14167,8 @@
     "site_id": "al/programacioni#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "sq",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "bg/tv-programa#prosieben-maxx",
@@ -14207,7 +14316,8 @@
     "site_id": "me/tvprogram#private-spice",
     "name": "Brazzers TV (ex. Private Spice)",
     "lang": "en",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/brazzers-tv-europe-eu.png"
   },
   {
     "site_id": "si/tvspored#nautical-channel",
@@ -14303,13 +14413,13 @@
   },
   {
     "site_id": "tvprogram#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "hr",
     "xmltv_id": "FastFunBox.nl@SD"
   },
   {
     "site_id": "de/tvprogramm#crime-investigation-de",
-    "name": "Crime \u0026 Investigation DE",
+    "name": "Crime & Investigation DE",
     "lang": "de"
   },
   {
@@ -14348,7 +14458,8 @@
     "site_id": "de/tvprogramm#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "de",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "hu/tvmusor#tv5",
@@ -14372,7 +14483,8 @@
     "site_id": "pl/program#tvn-fabula",
     "name": "TVN Fabuła",
     "lang": "pl",
-    "xmltv_id": "TVNFabula.pl@SD"
+    "xmltv_id": "TVNFabula.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvn-fabula-pl.png"
   },
   {
     "site_id": "pt/programacao#nautical-channel",
@@ -14705,7 +14817,8 @@
     "site_id": "pt/programacao#cnn",
     "name": "CNN Europe",
     "lang": "pt",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "ro/program-tv#discovery-science",
@@ -15028,7 +15141,8 @@
     "site_id": "ie/tvschedule#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "en",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "ks/programacioni#pink-hits",
@@ -15235,7 +15349,8 @@
     "site_id": "tvprogram#maxsport-4",
     "name": "MAXSport 4",
     "lang": "hr",
-    "xmltv_id": "MaxSport4.bg@SD"
+    "xmltv_id": "MaxSport4.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/max-sport-4-bg.png"
   },
   {
     "site_id": "tvprogram#sony-movies-christmas",
@@ -15385,7 +15500,8 @@
     "site_id": "de/tvprogramm#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "de",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "hu/tvmusor#canal-plus-kuchnia",
@@ -15459,7 +15575,8 @@
     "site_id": "al/programacioni#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "sq",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "ba/tvprogram#ttv",
@@ -15945,7 +16062,8 @@
     "site_id": "pt/programacao#folx-tv",
     "name": "Folx TV",
     "lang": "pt",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "si/tvspored#tvn24",
@@ -16182,7 +16300,8 @@
     "site_id": "tvprogram#maxsport-2",
     "name": "MAXSport 2",
     "lang": "hr",
-    "xmltv_id": "MaxSport2.bg@SD"
+    "xmltv_id": "MaxSport2.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/max-sport-2-bg.png"
   },
   {
     "site_id": "at/tvprogramm#tvp-kobieta",
@@ -16345,7 +16464,8 @@
     "site_id": "mk/tv-raspored#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "mk",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "pl/program#tvp3-rzeszow",
@@ -16371,7 +16491,8 @@
     "site_id": "hu/tvmusor#bbc-news",
     "name": "BBC News Channel",
     "lang": "hu",
-    "xmltv_id": "BBCNews.uk@Africa"
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "it/guida-tv#disco-polo-music-pl",
@@ -16389,7 +16510,8 @@
     "site_id": "de/tvprogramm#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "de",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "pt/programacao#discovery-animal",
@@ -16487,7 +16609,8 @@
     "site_id": "ch/tv-programm#cnn",
     "name": "CNN Europe",
     "lang": "de",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "fr/programme-tv#tmc",
@@ -16531,7 +16654,8 @@
     "site_id": "tr/tv-rehberi#sinematv",
     "name": "SinemaTV",
     "lang": "tr",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "at/tvprogramm#insight-tv",
@@ -16575,7 +16699,8 @@
     "site_id": "me/tvprogram#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "en",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "pl/program#tagesschau24",
@@ -16735,7 +16860,8 @@
     "site_id": "al/programacioni#sinematv",
     "name": "SinemaTV",
     "lang": "sq",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "ba/tvprogram#my-tv",
@@ -16860,7 +16986,8 @@
     "site_id": "tvprogram#folx-tv",
     "name": "Folx TV",
     "lang": "hr",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "al/programacioni#vizion-plus",
@@ -17010,7 +17137,8 @@
     "site_id": "si/tvspored#cnn",
     "name": "CNN Europe",
     "lang": "sl",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "tvprogram#pink-film",
@@ -17056,7 +17184,7 @@
   },
   {
     "site_id": "at/tvprogramm#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "de",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -17437,7 +17565,7 @@
   },
   {
     "site_id": "ks/programacioni#pink-action-3",
-    "name": "Pink Crime \u0026 Mystery",
+    "name": "Pink Crime & Mystery",
     "lang": "sq",
     "xmltv_id": "PinkCrimeMystery.rs@SD",
     "logo": "https://i.imgur.com/zqUqfMs.png"
@@ -17635,7 +17763,7 @@
   },
   {
     "site_id": "al/programacioni#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "hr",
     "xmltv_id": "FastFunBox.nl@SD",
     "logo": "https://i.imgur.com/a9ZtP17.png"
@@ -17677,14 +17805,15 @@
     "site_id": "pt/programacao#sport-tv1-pt",
     "name": "Sport TV1.pt",
     "lang": "pt",
-    "xmltv_id": "SportTV1.pt@SD"
+    "xmltv_id": "SportTV1.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/sport-tv-1-pt.png"
   },
   {
     "site_id": "fr/programme-tv#tv5monde-asia",
     "name": "TV5Monde Asia",
     "lang": "fr",
     "xmltv_id": "TV5MondeAsia.fr@SD",
-    "logo": "https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025\u0026path-prefix=vi"
+    "logo": "https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025&path-prefix=vi"
   },
   {
     "site_id": "gb/tvschedule#food-network-uk",
@@ -17786,7 +17915,8 @@
     "site_id": "tr/tv-rehberi#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "tr",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "tvprogram#filmbox-premium",
@@ -17939,7 +18069,8 @@
     "site_id": "pl/program#france24",
     "name": "France24",
     "lang": "pl",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "ro/program-tv#digi-world-ro",
@@ -18029,7 +18160,8 @@
     "site_id": "ks/programacioni#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "sq",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "ro/program-tv#kino-polska-muzyka",
@@ -18088,7 +18220,8 @@
     "site_id": "ba/tvprogram#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "bs",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "ch/tv-programm#srf-info",
@@ -18136,13 +18269,15 @@
     "site_id": "ks/programacioni#private-spice",
     "name": "Brazzers TV (ex. Private Spice)",
     "lang": "sq",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/brazzers-tv-europe-eu.png"
   },
   {
     "site_id": "mk/tv-raspored#trt-spor-2",
     "name": "TRT Spor Yıldız",
     "lang": "mk",
-    "xmltv_id": "TRTSporYildiz.tr@SD"
+    "xmltv_id": "TRTSporYildiz.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png"
   },
   {
     "site_id": "es/programacion-tv#trt-cocuk",
@@ -18378,7 +18513,8 @@
     "site_id": "tvprogram#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "hr",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "ba/tvprogram#discovery-europe",
@@ -18611,7 +18747,8 @@
     "site_id": "ba/tvprogram#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "bs",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "bg/tv-programa#2x2",
@@ -18734,7 +18871,8 @@
     "site_id": "it/guida-tv#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "it",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "rs/tvprogram#ttv",
@@ -18767,7 +18905,8 @@
     "site_id": "gb/tvschedule#france-24-arabic",
     "name": "France24 Arabic",
     "lang": "en",
-    "xmltv_id": "France24.fr@Arabic"
+    "xmltv_id": "France24.fr@Arabic",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "me/tvprogram#fokus-tv",
@@ -18815,7 +18954,7 @@
   },
   {
     "site_id": "ks/programacioni#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "sq",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -19077,7 +19216,8 @@
     "site_id": "ks/programacioni#sinematv",
     "name": "SinemaTV",
     "lang": "sq",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "pl/program#canal-plus-kuchnia",
@@ -19103,7 +19243,8 @@
     "site_id": "ks/programacioni#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "sq",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "ba/tvprogram#happytv",
@@ -19584,7 +19725,8 @@
     "site_id": "pt/programacao#sinematv",
     "name": "SinemaTV",
     "lang": "pt",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "ro/program-tv#ducktv",
@@ -19811,7 +19953,7 @@
   },
   {
     "site_id": "mk/tv-raspored#crime-investigation",
-    "name": "Crime \u0026 Investigation Channel",
+    "name": "Crime & Investigation Channel",
     "lang": "mk",
     "xmltv_id": "CrimePlusInvestigation.uk@SD"
   },
@@ -20046,7 +20188,8 @@
     "site_id": "pt/programacao#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "pt",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "si/tvspored#tv-silesia",
@@ -20085,7 +20228,8 @@
     "site_id": "me/tvprogram#20-mediaset",
     "name": "20 Mediaset",
     "lang": "en",
-    "xmltv_id": "20.it@SD"
+    "xmltv_id": "20.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/20-it.png"
   },
   {
     "site_id": "si/tvspored#bn-sat",
@@ -20118,7 +20262,8 @@
     "site_id": "pt/programacao#tv-net",
     "name": "TV Net",
     "lang": "pt",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "rs/tvprogram#golica-tv",
@@ -20381,7 +20526,8 @@
     "site_id": "gb/tvschedule#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "en",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "gb/tvschedule#qvc-beauty",
@@ -20588,7 +20734,8 @@
     "site_id": "es/programacion-tv#tv-canaria",
     "name": "TV Canaria",
     "lang": "es",
-    "xmltv_id": "TelevisionCanaria.es@SD"
+    "xmltv_id": "TelevisionCanaria.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/television-canaria-es.png"
   },
   {
     "site_id": "hu/tvmusor#tvp-info",
@@ -20632,7 +20779,7 @@
   },
   {
     "site_id": "bg/tv-programa#hgtv",
-    "name": "Home \u0026 Garden Television",
+    "name": "Home & Garden Television",
     "lang": "bg",
     "xmltv_id": "HGTV.uk@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
@@ -20690,7 +20837,8 @@
     "site_id": "ch/tv-programm#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "de",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "rs/tvprogram#adult-channel-2",
@@ -20828,7 +20976,8 @@
     "site_id": "al/programacioni#20-mediaset",
     "name": "20 Mediaset",
     "lang": "sq",
-    "xmltv_id": "20.it@SD"
+    "xmltv_id": "20.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/20-it.png"
   },
   {
     "site_id": "de/tvprogramm#tvp-regionalna",
@@ -20883,7 +21032,8 @@
     "site_id": "es/programacion-tv#trt-arabic",
     "name": "TRT Arapça",
     "lang": "es",
-    "xmltv_id": "TRTArabi.tr@SD"
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
   },
   {
     "site_id": "ie/tvschedule#dizi-smart-premium",
@@ -20962,7 +21112,8 @@
     "site_id": "es/programacion-tv#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "es",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "tr/tv-rehberi#wydarzenia24",
@@ -21082,7 +21233,8 @@
     "site_id": "tr/tv-rehberi#folx-tv",
     "name": "Folx TV",
     "lang": "tr",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "ba/tvprogram#ftv",
@@ -21107,7 +21259,8 @@
     "site_id": "de/tvprogramm#folx-tv",
     "name": "Folx TV",
     "lang": "de",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "pl/program#nick-jr-pl",
@@ -21159,7 +21312,8 @@
     "site_id": "ba/tvprogram#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "bs",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "bg/tv-programa#24kitchen",
@@ -21171,7 +21325,8 @@
     "site_id": "gb/tvschedule#bbc-one-wales",
     "name": "BBC 1 Wales",
     "lang": "en",
-    "xmltv_id": "BBCOne.uk@Wales"
+    "xmltv_id": "BBCOne.uk@Wales",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
   },
   {
     "site_id": "ks/programacioni#red-carpet-tv-pl",
@@ -21383,7 +21538,8 @@
     "site_id": "tvprogram#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "hr",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "ie/tvschedule#polsat-film",
@@ -21511,7 +21667,7 @@
     "name": "CANAL+ GRAND ECRAN",
     "lang": "fr",
     "xmltv_id": "CanalPlusGrandEcran.fr@SD",
-    "logo": "https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509\u0026ssl=1"
+    "logo": "https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1"
   },
   {
     "site_id": "gb/tvschedule#eska-tv",
@@ -21617,7 +21773,8 @@
     "site_id": "pt/programacao#cinemundo",
     "name": "Cinemundo",
     "lang": "pt",
-    "xmltv_id": "CineMundo.pt@SD"
+    "xmltv_id": "CineMundo.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/cine-mundo-pt.png"
   },
   {
     "site_id": "rs/tvprogram#moja-happy-zemlja",
@@ -21841,7 +21998,8 @@
     "site_id": "si/tvspored#sinematv",
     "name": "SinemaTV",
     "lang": "sl",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "tvprogram#hustler-tv",
@@ -22004,11 +22162,12 @@
     "site_id": "es/programacion-tv#clan-tve",
     "name": "Clan TVE",
     "lang": "es",
-    "xmltv_id": "Clan.es@SD"
+    "xmltv_id": "Clan.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/clan-es.png"
   },
   {
     "site_id": "ba/tvprogram#crime-investigation",
-    "name": "Crime \u0026 Investigation Channel",
+    "name": "Crime & Investigation Channel",
     "lang": "bs",
     "xmltv_id": "CrimePlusInvestigation.uk@SD"
   },
@@ -22265,7 +22424,8 @@
     "site_id": "tvprogram#maxsport-1",
     "name": "MAXSport 1",
     "lang": "hr",
-    "xmltv_id": "MaxSport1.bg@SD"
+    "xmltv_id": "MaxSport1.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/max-sport-1-bg.png"
   },
   {
     "site_id": "ba/tvprogram#comedy-central-pl",
@@ -22522,11 +22682,12 @@
     "site_id": "rs/tvprogram#cooltv",
     "name": "CoolTV",
     "lang": "sr",
-    "xmltv_id": "CoolTV.hu@SD"
+    "xmltv_id": "CoolTV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/cool-tv-hu.png"
   },
   {
     "site_id": "si/tvspored#hgtv",
-    "name": "Home \u0026 Garden Television",
+    "name": "Home & Garden Television",
     "lang": "sl",
     "xmltv_id": "HGTV.uk@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
@@ -22601,7 +22762,7 @@
   },
   {
     "site_id": "de/tvprogramm#hgtv",
-    "name": "Home \u0026 Garden Television",
+    "name": "Home & Garden Television",
     "lang": "de",
     "xmltv_id": "HGTV.uk@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
@@ -22610,7 +22771,8 @@
     "site_id": "fr/programme-tv#rmc-sport-live-4",
     "name": "RMC Sport Live 4",
     "lang": "fr",
-    "xmltv_id": "RMCSport4.fr@SD"
+    "xmltv_id": "RMCSport4.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-4-fr.png"
   },
   {
     "site_id": "mk/tv-raspored#tele-1",
@@ -22666,7 +22828,8 @@
     "site_id": "me/tvprogram#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "en",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "mk/tv-raspored#tring-desire",
@@ -22732,7 +22895,8 @@
     "site_id": "si/tvspored#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "sl",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "al/programacioni#deutchewelle",
@@ -22838,7 +23002,8 @@
     "site_id": "pl/program#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "pl",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "ro/program-tv#dizi-smart-premium",
@@ -22890,7 +23055,8 @@
     "site_id": "fr/programme-tv#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "fr",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "hu/tvmusor#vox",
@@ -22992,7 +23158,7 @@
   },
   {
     "site_id": "pl/program#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "pl",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -23382,7 +23548,8 @@
     "site_id": "gb/tvschedule#tv-net",
     "name": "TV Net",
     "lang": "en",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "ro/program-tv#warner-tv-ro",
@@ -23408,7 +23575,8 @@
     "site_id": "pl/program#bbc-news",
     "name": "BBC News Channel",
     "lang": "pl",
-    "xmltv_id": "BBCNews.uk@Africa"
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "pt/programacao#nat-geo-wild-es",
@@ -23419,7 +23587,8 @@
     "site_id": "al/programacioni#cnn-turk-tv",
     "name": "CNN Türk TV",
     "lang": "sq",
-    "xmltv_id": "CNNTurk.tr@SD"
+    "xmltv_id": "CNNTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/cnn-turk-tr.png"
   },
   {
     "site_id": "at/tvprogramm#trt-eba-tv-lise",
@@ -23743,7 +23912,8 @@
     "site_id": "pt/programacao#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "pt",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "si/tvspored#fox-pl",
@@ -23920,7 +24090,8 @@
     "site_id": "de/tvprogramm#tv-klan",
     "name": "Klan TV HD",
     "lang": "de",
-    "xmltv_id": "TVKlan.al@SD"
+    "xmltv_id": "TVKlan.al@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/albania/tv-klan-al.png"
   },
   {
     "site_id": "es/programacion-tv#trt-3",
@@ -24010,7 +24181,8 @@
     "site_id": "ch/tv-programm#rtp3",
     "name": "RTP3",
     "lang": "de",
-    "xmltv_id": "RTPNoticias.pt"
+    "xmltv_id": "RTPNoticias.pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/rtp-noticias-pt.png"
   },
   {
     "site_id": "hu/tvmusor#minimax",
@@ -24200,7 +24372,8 @@
     "site_id": "fr/programme-tv#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "fr",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "ie/tvschedule#fox-comedy-pl",
@@ -24248,7 +24421,8 @@
     "site_id": "rs/tvprogram#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "sr",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "rs/tvprogram#pink-folk-2",
@@ -24557,7 +24731,8 @@
     "site_id": "mk/tv-raspored#sinematv",
     "name": "SinemaTV",
     "lang": "mk",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "tvprogram#discovery-animal",
@@ -24737,7 +24912,8 @@
     "site_id": "ch/tv-programm#bbc4",
     "name": "BBC4",
     "lang": "de",
-    "xmltv_id": "BBCFour.uk@UK"
+    "xmltv_id": "BBCFour.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-four-uk.png"
   },
   {
     "site_id": "ch/tv-programm#focus",
@@ -24760,7 +24936,8 @@
     "site_id": "ks/programacioni#trt-spor-2",
     "name": "TRT Spor Yıldız",
     "lang": "sq",
-    "xmltv_id": "TRTSporYildiz.tr@SD"
+    "xmltv_id": "TRTSporYildiz.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png"
   },
   {
     "site_id": "me/tvprogram#happytv",
@@ -24829,7 +25006,8 @@
     "site_id": "ro/program-tv#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "ro",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "ba/tvprogram#valentino-music",
@@ -24851,7 +25029,8 @@
     "site_id": "it/guida-tv#folx-tv",
     "name": "Folx TV",
     "lang": "it",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "pl/program#leo-tv",
@@ -24884,13 +25063,15 @@
     "site_id": "bg/tv-programa#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "bg",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "es/programacion-tv#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "es",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "pl/program#tele-5-de",
@@ -24959,7 +25140,8 @@
     "site_id": "rs/tvprogram#pink-lol",
     "name": "Pink LOL",
     "lang": "sr",
-    "xmltv_id": "LOL.rs@SD"
+    "xmltv_id": "LOL.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/lol-rs.png"
   },
   {
     "site_id": "tvprogram#eurochannel",
@@ -25137,7 +25319,7 @@
   },
   {
     "site_id": "gb/tvschedule#uk-gold",
-    "name": "U\u0026Gold",
+    "name": "U&Gold",
     "lang": "en",
     "logo": "https://i.imgur.com/SUwg1sn.png"
   },
@@ -25229,7 +25411,8 @@
     "site_id": "pt/programacao#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "pt",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "rs/tvprogram#sinema-komedi-2",
@@ -25240,7 +25423,8 @@
     "site_id": "fr/programme-tv#folx-tv",
     "name": "Folx TV",
     "lang": "fr",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "gb/tvschedule#eska-tv-extra",
@@ -25292,7 +25476,8 @@
     "site_id": "hu/tvmusor#folx-tv",
     "name": "Folx TV",
     "lang": "hu",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "me/tvprogram#polo-tv",
@@ -25419,7 +25604,7 @@
   },
   {
     "site_id": "mk/tv-raspored#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "mk",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -25465,7 +25650,8 @@
     "site_id": "ch/tv-programm#trt-spor-2",
     "name": "TRT Spor Yıldız",
     "lang": "de",
-    "xmltv_id": "TRTSporYildiz.tr@SD"
+    "xmltv_id": "TRTSporYildiz.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png"
   },
   {
     "site_id": "de/tvprogramm#swr-baden-wurttemberg",
@@ -25476,7 +25662,8 @@
     "site_id": "ks/programacioni#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "sq",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "rs/tvprogram#romania-tv",
@@ -25639,7 +25826,8 @@
     "site_id": "at/tvprogramm#trt-arabic",
     "name": "TRT Arapça",
     "lang": "de",
-    "xmltv_id": "TRTArabi.tr@SD"
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
   },
   {
     "site_id": "me/tvprogram#axn-white-pl",
@@ -25858,7 +26046,8 @@
     "site_id": "fr/programme-tv#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "fr",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "fr/programme-tv#fox-comedy-pl",
@@ -25883,7 +26072,8 @@
     "site_id": "de/tvprogramm#tv-net",
     "name": "TV Net",
     "lang": "de",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "fr/programme-tv#mtv-hits-international",
@@ -26044,7 +26234,8 @@
     "site_id": "tvprogram#private-spice",
     "name": "Brazzers TV (ex. Private Spice)",
     "lang": "hr",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/brazzers-tv-europe-eu.png"
   },
   {
     "site_id": "tvprogram#ucankus-tv",
@@ -26561,7 +26752,8 @@
     "site_id": "pl/program#private-spice",
     "name": "Brazzers TV (ex. Private Spice)",
     "lang": "pl",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/brazzers-tv-europe-eu.png"
   },
   {
     "site_id": "si/tvspored#tvp-kultura",
@@ -26587,7 +26779,8 @@
     "site_id": "de/tvprogramm#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "de",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "ro/program-tv#focus",
@@ -26643,11 +26836,12 @@
     "site_id": "fr/programme-tv#trt-arabic",
     "name": "TRT Arapça",
     "lang": "fr",
-    "xmltv_id": "TRTArabi.tr@SD"
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
   },
   {
     "site_id": "ie/tvschedule#yesterday",
-    "name": "U\u0026Yesterday",
+    "name": "U&Yesterday",
     "lang": "en",
     "xmltv_id": "UYesterday.uk@SD",
     "logo": "https://i.imgur.com/r3pqSHl.png"
@@ -26697,7 +26891,8 @@
     "site_id": "tr/tv-rehberi#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "tr",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "fr/programme-tv#tv-8",
@@ -26766,7 +26961,8 @@
     "site_id": "ch/tv-programm#sinematv",
     "name": "SinemaTV",
     "lang": "de",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "hu/tvmusor#hbo-hu",
@@ -27060,7 +27256,7 @@
   },
   {
     "site_id": "tvprogram#crime-investigation",
-    "name": "Crime \u0026 Investigation Channel",
+    "name": "Crime & Investigation Channel",
     "lang": "hr",
     "xmltv_id": "CrimePlusInvestigation.uk@SD"
   },
@@ -27075,7 +27271,8 @@
     "site_id": "ba/tvprogram#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "bs",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "es/programacion-tv#ewtn-pl",
@@ -27281,7 +27478,7 @@
   },
   {
     "site_id": "ba/tvprogram#pink-action-3",
-    "name": "Pink Crime \u0026 Mystery",
+    "name": "Pink Crime & Mystery",
     "lang": "hr",
     "xmltv_id": "PinkCrimeMystery.rs@SD",
     "logo": "https://i.imgur.com/zqUqfMs.png"
@@ -27343,14 +27540,14 @@
   },
   {
     "site_id": "ba/tvprogram#hgtv",
-    "name": "Home \u0026 Garden Television",
+    "name": "Home & Garden Television",
     "lang": "hr",
     "xmltv_id": "HGTV.uk@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png"
   },
   {
     "site_id": "ch/tv-programm#yesterday",
-    "name": "U\u0026Yesterday",
+    "name": "U&Yesterday",
     "lang": "de",
     "xmltv_id": "UYesterday.uk@SD",
     "logo": "https://i.imgur.com/r3pqSHl.png"
@@ -27466,13 +27663,15 @@
     "site_id": "ro/program-tv#comedy-central-hu",
     "name": "Comedy Central HU",
     "lang": "ro",
-    "xmltv_id": "ComedyCentral.hu@SD"
+    "xmltv_id": "ComedyCentral.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/comedy-central-family-hu.png"
   },
   {
     "site_id": "rs/tvprogram#france-24-franch",
     "name": "France 24 French",
     "lang": "sr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "rs/tvprogram#nova-s",
@@ -27524,7 +27723,8 @@
     "site_id": "mk/tv-raspored#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "mk",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "pl/program#disney-xd-pl",
@@ -27666,7 +27866,8 @@
     "site_id": "de/tvprogramm#trt-spor-2",
     "name": "TRT Spor Yıldız",
     "lang": "de",
-    "xmltv_id": "TRTSporYildiz.tr@SD"
+    "xmltv_id": "TRTSporYildiz.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png"
   },
   {
     "site_id": "mk/tv-raspored#fox-comedy-pl",
@@ -27793,7 +27994,8 @@
     "site_id": "tvprogram#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "hr",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "at/tvprogramm#sky-sport-10-de",
@@ -28039,7 +28241,7 @@
   },
   {
     "site_id": "bg/tv-programa#fix-foxi",
-    "name": "Fix \u0026 Foxi",
+    "name": "Fix & Foxi",
     "lang": "bg",
     "xmltv_id": "FixFoxi.de@SD"
   },
@@ -28499,7 +28701,8 @@
     "site_id": "rs/tvprogram#cnn",
     "name": "CNN Europe",
     "lang": "sr",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "at/tvprogramm#ducktv",
@@ -28883,7 +29086,8 @@
     "site_id": "gb/tvschedule#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "en",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "tvprogram#filmbox-family-pl",
@@ -29016,7 +29220,8 @@
     "site_id": "me/tvprogram#sinematv",
     "name": "SinemaTV",
     "lang": "en",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "ch/tv-programm#voxup",
@@ -29146,7 +29351,8 @@
     "site_id": "hu/tvmusor#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "hu",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "ie/tvschedule#polo-tv",
@@ -29210,7 +29416,8 @@
     "site_id": "rs/tvprogram#comedy-central-hu",
     "name": "Comedy Central HU",
     "lang": "sr",
-    "xmltv_id": "ComedyCentral.hu@SD"
+    "xmltv_id": "ComedyCentral.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/comedy-central-family-hu.png"
   },
   {
     "site_id": "at/tvprogramm#eska-tv",
@@ -29223,7 +29430,8 @@
     "site_id": "ba/tvprogram#france-24-franch",
     "name": "France 24 French",
     "lang": "bs",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "it/guida-tv#mezzo-live-hd",
@@ -29482,7 +29690,7 @@
   },
   {
     "site_id": "pt/programacao#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "pt",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -29791,7 +29999,8 @@
     "site_id": "rs/tvprogram#private-spice",
     "name": "Brazzers TV (ex. Private Spice)",
     "lang": "sr",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/brazzers-tv-europe-eu.png"
   },
   {
     "site_id": "tvprogram#red-carpet-tv-pl",
@@ -29827,7 +30036,7 @@
     "name": "HIT TV",
     "lang": "sl",
     "xmltv_id": "HITTV.es@SD",
-    "logo": "https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236\u0026ssl=1"
+    "logo": "https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1"
   },
   {
     "site_id": "tr/tv-rehberi#sat-1-at",
@@ -30010,7 +30219,8 @@
     "site_id": "me/tvprogram#france-24-franch",
     "name": "France 24 French",
     "lang": "en",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "me/tvprogram#zdrava-televizija",
@@ -30041,7 +30251,8 @@
     "site_id": "fr/programme-tv#sinematv",
     "name": "SinemaTV",
     "lang": "fr",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "hu/tvmusor#axn-polska",
@@ -30280,7 +30491,8 @@
     "site_id": "mk/tv-raspored#folx-tv",
     "name": "Folx TV",
     "lang": "mk",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "pl/program#discovery-science-pl",
@@ -30384,7 +30596,7 @@
   },
   {
     "site_id": "ba/tvprogram#cinestar-action-thriller",
-    "name": "CineStar Action\u0026Thriller",
+    "name": "CineStar Action&Thriller",
     "lang": "hr",
     "xmltv_id": "CineStarTVAction.hr@SD",
     "logo": "https://i.imgur.com/bTf7A9J.png"
@@ -30548,7 +30760,8 @@
     "site_id": "ch/tv-programm#france-info",
     "name": "France Info",
     "lang": "de",
-    "xmltv_id": "Franceinfo.fr@SD"
+    "xmltv_id": "Franceinfo.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/franceinfo-fr.png"
   },
   {
     "site_id": "ch/tv-programm#trt-eba-tv-lise",
@@ -30575,7 +30788,7 @@
   },
   {
     "site_id": "tr/tv-rehberi#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "tr",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -30762,7 +30975,8 @@
     "site_id": "al/programacioni#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "sq",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "at/tvprogramm#polsat-film",
@@ -30827,7 +31041,8 @@
     "site_id": "me/tvprogram#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "en",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "ro/program-tv#polsat-viasat-explore",
@@ -31134,7 +31349,8 @@
     "site_id": "bg/tv-programa#folx-tv",
     "name": "Folx TV",
     "lang": "bg",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "ch/tv-programm#polonia1",
@@ -31303,7 +31519,8 @@
     "site_id": "me/tvprogram#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "en",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "pt/programacao#skyshowtime-1",
@@ -31560,11 +31777,12 @@
     "site_id": "gb/tvschedule#bbc1-northern-ireland",
     "name": "BBC1 Northern Ireland",
     "lang": "en",
-    "xmltv_id": "BBCOne.uk@NorthernIreland"
+    "xmltv_id": "BBCOne.uk@NorthernIreland",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
   },
   {
     "site_id": "hu/tvmusor#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "hu",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -31929,7 +32147,8 @@
     "site_id": "bg/tv-programa#france24",
     "name": "France24",
     "lang": "bg",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "es/programacion-tv#trt-2",
@@ -31966,7 +32185,8 @@
     "site_id": "rs/tvprogram#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "sr",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "rs/tvprogram#ard",
@@ -31989,11 +32209,12 @@
     "site_id": "ba/tvprogram#folx-tv",
     "name": "Folx TV",
     "lang": "bs",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "hu/tvmusor#hgtv",
-    "name": "Home \u0026 Garden Television",
+    "name": "Home & Garden Television",
     "lang": "hu",
     "xmltv_id": "HGTV.uk@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
@@ -32015,7 +32236,7 @@
   },
   {
     "site_id": "gb/tvschedule#w-uk",
-    "name": "U\u0026W",
+    "name": "U&W",
     "lang": "en",
     "logo": "https://i.imgur.com/puBkpGj.png"
   },
@@ -32155,7 +32376,8 @@
     "site_id": "ie/tvschedule#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "en",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "ks/programacioni#cinestar-tv-fantasy",
@@ -32217,7 +32439,8 @@
     "site_id": "ks/programacioni#cnn",
     "name": "CNN Europe",
     "lang": "sq",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "si/tvspored#national-geographic-wild",
@@ -32234,7 +32457,7 @@
   },
   {
     "site_id": "at/tvprogramm#crime-investigation",
-    "name": "Crime \u0026 Investigation Channel",
+    "name": "Crime & Investigation Channel",
     "lang": "de",
     "xmltv_id": "CrimePlusInvestigation.uk@SD"
   },
@@ -32515,7 +32738,8 @@
     "site_id": "at/tvprogramm#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "de",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "fr/programme-tv#show-tv",
@@ -33041,7 +33265,8 @@
     "site_id": "it/guida-tv#trt-arabic",
     "name": "TRT Arapça",
     "lang": "it",
-    "xmltv_id": "TRTArabi.tr@SD"
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
   },
   {
     "site_id": "it/guida-tv#xtreme-tv",
@@ -33095,7 +33320,8 @@
     "site_id": "fr/programme-tv#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "fr",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "fr/programme-tv#telebarn",
@@ -33250,7 +33476,8 @@
     "site_id": "hu/tvmusor#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "hu",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "pl/program#eleven-sports-2-pl",
@@ -33331,7 +33558,8 @@
     "site_id": "me/tvprogram#vojvodina-1",
     "name": "RT Vojvodina 1",
     "lang": "en",
-    "xmltv_id": "RTV1.rs@SD"
+    "xmltv_id": "RTV1.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtv-1-rs.png"
   },
   {
     "site_id": "mk/tv-raspored#tv-arena-sport-3",
@@ -33596,7 +33824,8 @@
     "site_id": "gb/tvschedule#trt-spor-2",
     "name": "TRT Spor Yıldız",
     "lang": "en",
-    "xmltv_id": "TRTSporYildiz.tr@SD"
+    "xmltv_id": "TRTSporYildiz.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png"
   },
   {
     "site_id": "it/guida-tv#rai-sport",
@@ -33738,7 +33967,7 @@
   },
   {
     "site_id": "gb/tvschedule#dave",
-    "name": "U\u0026Dave",
+    "name": "U&Dave",
     "lang": "en",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png"
   },
@@ -33939,7 +34168,7 @@
   },
   {
     "site_id": "rs/tvprogram#pink-action-3",
-    "name": "Pink Crime \u0026 Mystery",
+    "name": "Pink Crime & Mystery",
     "lang": "sr",
     "xmltv_id": "PinkCrimeMystery.rs@SD",
     "logo": "https://i.imgur.com/zqUqfMs.png"
@@ -34058,7 +34287,8 @@
     "site_id": "pl/program#trt-arabic",
     "name": "TRT Arapça",
     "lang": "pl",
-    "xmltv_id": "TRTArabi.tr@SD"
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
   },
   {
     "site_id": "pl/program#tvp3-lodz",
@@ -34068,7 +34298,7 @@
   },
   {
     "site_id": "ro/program-tv#crime-investigation",
-    "name": "Crime \u0026 Investigation Channel",
+    "name": "Crime & Investigation Channel",
     "lang": "ro",
     "xmltv_id": "CrimePlusInvestigation.uk@SD"
   },
@@ -34076,7 +34306,8 @@
     "site_id": "ro/program-tv#pro4",
     "name": "Mozi plusz TV",
     "lang": "ro",
-    "xmltv_id": "MoziPlus.hu@SD"
+    "xmltv_id": "MoziPlus.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/mozi-plus-hu.png"
   },
   {
     "site_id": "si/tvspored#mtv-rocks-international",
@@ -34156,7 +34387,8 @@
     "site_id": "ie/tvschedule#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "en",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "me/tvprogram#rtl",
@@ -34174,7 +34406,8 @@
     "site_id": "tr/tv-rehberi#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "tr",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "it/guida-tv#kanal-24-tr",
@@ -34191,7 +34424,8 @@
     "site_id": "pt/programacao#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "pt",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "al/programacioni#tgrt-belgesel",
@@ -34316,7 +34550,8 @@
     "site_id": "hu/tvmusor#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "hu",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "si/tvspored#bbc-world",
@@ -34558,7 +34793,8 @@
     "site_id": "pt/programacao#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "pt",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "tvprogram#hema-tv",
@@ -34672,7 +34908,8 @@
     "site_id": "fr/programme-tv#tv-net",
     "name": "TV Net",
     "lang": "fr",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "it/guida-tv#sportitalia",
@@ -34841,11 +35078,12 @@
     "site_id": "ro/program-tv#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "ro",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "si/tvspored#crime-investigation",
-    "name": "Crime \u0026 Investigation Channel",
+    "name": "Crime & Investigation Channel",
     "lang": "sl",
     "xmltv_id": "CrimePlusInvestigation.uk@SD"
   },
@@ -35215,7 +35453,8 @@
     "site_id": "rs/tvprogram#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "sr",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "tvprogram#tv-vijesti",
@@ -35323,13 +35562,15 @@
     "site_id": "es/programacion-tv#tv-net",
     "name": "TV Net",
     "lang": "es",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "tvprogram#vojvodina-1",
     "name": "RT Vojvodina 1",
     "lang": "hr",
-    "xmltv_id": "RTV1.rs@SD"
+    "xmltv_id": "RTV1.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtv-1-rs.png"
   },
   {
     "site_id": "es/programacion-tv#la-1-cataluna",
@@ -35358,7 +35599,8 @@
     "site_id": "ro/program-tv#tv-net",
     "name": "TV Net",
     "lang": "ro",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "si/tvspored#n-tv",
@@ -35408,7 +35650,8 @@
     "site_id": "es/programacion-tv#sinematv",
     "name": "SinemaTV",
     "lang": "es",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "gb/tvschedule#polsat",
@@ -35470,7 +35713,8 @@
     "site_id": "al/programacioni#tv-net",
     "name": "TV Net",
     "lang": "sq",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "bg/tv-programa#bnt-4",
@@ -35561,7 +35805,8 @@
     "site_id": "mk/tv-raspored#private-spice",
     "name": "Brazzers TV (ex. Private Spice)",
     "lang": "mk",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/brazzers-tv-europe-eu.png"
   },
   {
     "site_id": "si/tvspored#disco-polo-music-pl",
@@ -35738,7 +35983,7 @@
   },
   {
     "site_id": "ie/tvschedule#w-uk",
-    "name": "U\u0026W",
+    "name": "U&W",
     "lang": "en",
     "logo": "https://i.imgur.com/puBkpGj.png"
   },
@@ -35771,7 +36016,8 @@
     "site_id": "si/tvspored#rai-3-bis",
     "name": "RAI 3 Bis",
     "lang": "sl",
-    "xmltv_id": "Rai3.it@BISFJK"
+    "xmltv_id": "Rai3.it@BISFJK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "bg/tv-programa#supertoons",
@@ -35820,7 +36066,8 @@
     "site_id": "es/programacion-tv#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "es",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "gb/tvschedule#cartoon-network-uk",
@@ -36169,7 +36416,8 @@
     "site_id": "si/tvspored#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "sl",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "ba/tvprogram#tvdr",
@@ -36233,7 +36481,8 @@
     "site_id": "at/tvprogramm#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "de",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "de/tvprogramm#insight-tv",
@@ -36246,7 +36495,8 @@
     "site_id": "ie/tvschedule#bbc1-northern-ireland",
     "name": "BBC1 Northern Ireland",
     "lang": "en",
-    "xmltv_id": "BBCOne.uk@NorthernIreland"
+    "xmltv_id": "BBCOne.uk@NorthernIreland",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
   },
   {
     "site_id": "rs/tvprogram#axn-spin",
@@ -36295,7 +36545,8 @@
     "site_id": "gb/tvschedule#trt-arabic",
     "name": "TRT Arapça",
     "lang": "en",
-    "xmltv_id": "TRTArabi.tr@SD"
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
   },
   {
     "site_id": "ks/programacioni#powerturk-tv",
@@ -36414,7 +36665,8 @@
     "site_id": "bg/tv-programa#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "bg",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "ba/tvprogram#pink-ha-ha",
@@ -36432,7 +36684,7 @@
   },
   {
     "site_id": "me/tvprogram#crime-investigation",
-    "name": "Crime \u0026 Investigation Channel",
+    "name": "Crime & Investigation Channel",
     "lang": "en",
     "xmltv_id": "CrimePlusInvestigation.uk@SD"
   },
@@ -36472,7 +36724,8 @@
     "site_id": "gb/tvschedule#folx-tv",
     "name": "Folx TV",
     "lang": "en",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "me/tvprogram#sinema-komedi",
@@ -36495,7 +36748,8 @@
     "site_id": "pt/programacao#rtp1",
     "name": "RTP1",
     "lang": "pt",
-    "xmltv_id": "RTP1.pt@SD"
+    "xmltv_id": "RTP1.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/rtp-1-pt.png"
   },
   {
     "site_id": "mk/tv-raspored#tv-sarajevo",
@@ -36526,7 +36780,8 @@
     "site_id": "it/guida-tv#tv-net",
     "name": "TV Net",
     "lang": "it",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "ba/tvprogram#national-geographic-rs",
@@ -36580,7 +36835,8 @@
     "site_id": "fr/programme-tv#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "fr",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "hu/tvmusor#a-haber",
@@ -37152,7 +37408,8 @@
     "site_id": "mk/tv-raspored#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "mk",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "ba/tvprogram#playboy-tv",
@@ -37210,7 +37467,8 @@
     "site_id": "pt/programacao#france-24-franch",
     "name": "France 24 French",
     "lang": "pt",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "pt/programacao#mezzo-live-hd",
@@ -37229,7 +37487,8 @@
     "site_id": "pl/program#france-info",
     "name": "France Info",
     "lang": "pl",
-    "xmltv_id": "Franceinfo.fr@SD"
+    "xmltv_id": "Franceinfo.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/franceinfo-fr.png"
   },
   {
     "site_id": "si/tvspored#tvp-kobieta",
@@ -37304,7 +37563,8 @@
     "site_id": "fr/programme-tv#rmc-sport-uhd",
     "name": "RMC Sport Live 3",
     "lang": "fr",
-    "xmltv_id": "RMCSport3.fr@SD"
+    "xmltv_id": "RMCSport3.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-3-fr.png"
   },
   {
     "site_id": "ro/program-tv#a-news",
@@ -37409,7 +37669,8 @@
     "site_id": "de/tvprogramm#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "de",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "me/tvprogram#dizi-pl",
@@ -37502,7 +37763,8 @@
     "site_id": "al/programacioni#folx-tv",
     "name": "Folx TV",
     "lang": "sq",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "ba/tvprogram#tv-arena-sport-1-hr",
@@ -37533,7 +37795,8 @@
     "site_id": "gb/tvschedule#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "en",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "ie/tvschedule#tvn-7",
@@ -37559,7 +37822,8 @@
     "site_id": "me/tvprogram#tv-net",
     "name": "TV Net",
     "lang": "en",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "mk/tv-raspored#vizion-plus",
@@ -37617,7 +37881,7 @@
   },
   {
     "site_id": "si/tvspored#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "sl",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -37902,7 +38166,7 @@
   },
   {
     "site_id": "ba/tvprogram#pink-movies-3",
-    "name": "Pink SCI FI \u0026 Fantasy",
+    "name": "Pink SCI FI & Fantasy",
     "lang": "hr",
     "xmltv_id": "PinkSciFiFantasy.rs@SD",
     "logo": "https://i.imgur.com/TJS8j5F.png"
@@ -37986,7 +38250,8 @@
     "site_id": "ie/tvschedule#cnn",
     "name": "CNN Europe",
     "lang": "en",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "it/guida-tv#kanal-7",
@@ -38120,7 +38385,8 @@
     "site_id": "rs/tvprogram#bbc-news",
     "name": "BBC News Channel",
     "lang": "sr",
-    "xmltv_id": "BBCNews.uk@Africa"
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "tr/tv-rehberi#trt-eba-tv-ilkokul",
@@ -38143,7 +38409,8 @@
     "site_id": "hu/tvmusor#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "hu",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "me/tvprogram#sixx-at",
@@ -38199,7 +38466,8 @@
     "site_id": "me/tvprogram#cnn",
     "name": "CNN Europe",
     "lang": "en",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "si/tvspored#kopernikus",
@@ -38354,7 +38622,8 @@
     "site_id": "at/tvprogramm#tv-net",
     "name": "TV Net",
     "lang": "de",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "gb/tvschedule#polsat-news",
@@ -38416,7 +38685,7 @@
   },
   {
     "site_id": "ks/programacioni#crime-investigation",
-    "name": "Crime \u0026 Investigation Channel",
+    "name": "Crime & Investigation Channel",
     "lang": "sq",
     "xmltv_id": "CrimePlusInvestigation.uk@SD"
   },
@@ -38947,7 +39216,8 @@
     "site_id": "me/tvprogram#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "en",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "pl/program#france-4",
@@ -38964,7 +39234,8 @@
     "site_id": "pl/program#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "pl",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "tr/tv-rehberi#insight-tv",
@@ -39065,7 +39336,8 @@
     "site_id": "it/guida-tv#sky-sport24-hd",
     "name": "Sky Sport24 HD",
     "lang": "it",
-    "xmltv_id": "SkySport24.it@SD"
+    "xmltv_id": "SkySport24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-sport-24-it.png"
   },
   {
     "site_id": "pt/programacao#atv1",
@@ -39097,7 +39369,8 @@
     "site_id": "bg/tv-programa#france-24-franch",
     "name": "France 24 French",
     "lang": "bg",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "bg/tv-programa#rtl-de",
@@ -39225,7 +39498,8 @@
     "site_id": "rs/tvprogram#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "sr",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "at/tvprogramm#auto-motor-und-sport",
@@ -39248,7 +39522,8 @@
     "site_id": "ks/programacioni#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "sq",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "al/programacioni#klan-plus",
@@ -39343,7 +39618,8 @@
     "site_id": "rs/tvprogram#kitchentv",
     "name": "KitchenTV",
     "lang": "sr",
-    "xmltv_id": "KitchenTV.rs@SD"
+    "xmltv_id": "KitchenTV.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/kitchen-tv-rs.png"
   },
   {
     "site_id": "rs/tvprogram#polsat-viasat-nature",
@@ -39361,7 +39637,8 @@
     "site_id": "ch/tv-programm#20-mediaset",
     "name": "20 Mediaset",
     "lang": "de",
-    "xmltv_id": "20.it@SD"
+    "xmltv_id": "20.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/20-it.png"
   },
   {
     "site_id": "ie/tvschedule#virgin-media-two",
@@ -39502,7 +39779,8 @@
     "site_id": "si/tvspored#folx-tv",
     "name": "Folx TV",
     "lang": "sl",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "tvprogram#tv-4",
@@ -39568,7 +39846,7 @@
   },
   {
     "site_id": "rs/tvprogram#cinestar-action-thriller-rs",
-    "name": "CineStar Action\u0026Thriller RS",
+    "name": "CineStar Action&Thriller RS",
     "lang": "sr",
     "xmltv_id": "CineStarTVAction.rs@SD"
   },
@@ -39588,7 +39866,8 @@
     "site_id": "ch/tv-programm#folx-tv",
     "name": "Folx TV",
     "lang": "de",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "mk/tv-raspored#kanal-24-tr",
@@ -39646,7 +39925,8 @@
     "site_id": "de/tvprogramm#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "de",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "mk/tv-raspored#vox",
@@ -39658,7 +39938,8 @@
     "site_id": "ro/program-tv#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "ro",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "rs/tvprogram#n1-hr",
@@ -39671,13 +39952,15 @@
     "site_id": "si/tvspored#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "sl",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "tvprogram#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "hr",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "gb/tvschedule#red-carpet-tv-pl",
@@ -40010,7 +40293,7 @@
     "name": "Music Box Polska",
     "lang": "pl",
     "xmltv_id": "MusicBoxPolska.pl",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E\u0026s=10"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10"
   },
   {
     "site_id": "pl/program#hse24",
@@ -40060,7 +40343,7 @@
   },
   {
     "site_id": "me/tvprogram#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "en",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -40861,7 +41144,8 @@
     "site_id": "bg/tv-programa#private-spice",
     "name": "Brazzers TV (ex. Private Spice)",
     "lang": "bg",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/brazzers-tv-europe-eu.png"
   },
   {
     "site_id": "fr/programme-tv#euro-star",
@@ -40962,7 +41246,8 @@
     "site_id": "ie/tvschedule#sinematv",
     "name": "SinemaTV",
     "lang": "en",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "pl/program#kanal-d-tr",
@@ -40973,7 +41258,7 @@
   },
   {
     "site_id": "ro/program-tv#hgtv",
-    "name": "Home \u0026 Garden Television",
+    "name": "Home & Garden Television",
     "lang": "ro",
     "xmltv_id": "HGTV.uk@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
@@ -40996,7 +41281,8 @@
     "site_id": "it/guida-tv#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "it",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "pl/program#kanal-7",
@@ -41204,7 +41490,8 @@
     "site_id": "hu/tvmusor#cnn",
     "name": "CNN Europe",
     "lang": "hu",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "ks/programacioni#dmsat",
@@ -41264,7 +41551,7 @@
   },
   {
     "site_id": "at/tvprogramm#crime-investigation-de",
-    "name": "Crime \u0026 Investigation DE",
+    "name": "Crime & Investigation DE",
     "lang": "de"
   },
   {
@@ -41488,7 +41775,8 @@
     "site_id": "bg/tv-programa#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "bg",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "si/tvspored#novelas",
@@ -41507,7 +41795,8 @@
     "site_id": "tr/tv-rehberi#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "tr",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "al/programacioni#krt-tv",
@@ -41568,7 +41857,8 @@
     "site_id": "bg/tv-programa#skat-tv",
     "name": "Skat TV",
     "lang": "bg",
-    "xmltv_id": "SKAT.bg@SD"
+    "xmltv_id": "SKAT.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/skat-bg.png"
   },
   {
     "site_id": "rs/tvprogram#disney-channel-hu",
@@ -41651,7 +41941,8 @@
     "site_id": "at/tvprogramm#cnn",
     "name": "CNN Europe",
     "lang": "de",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "at/tvprogramm#ucankus-tv",
@@ -41696,7 +41987,7 @@
   },
   {
     "site_id": "si/tvspored#cinestar-action-thriller",
-    "name": "CineStar Action\u0026Thriller",
+    "name": "CineStar Action&Thriller",
     "lang": "sl"
   },
   {
@@ -41919,7 +42210,8 @@
     "site_id": "hu/tvmusor#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "hu",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "ks/programacioni#babytv",
@@ -41957,7 +42249,8 @@
     "site_id": "pl/program#sinematv",
     "name": "SinemaTV",
     "lang": "pl",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "si/tvspored#sport-klub-5",
@@ -42097,7 +42390,8 @@
     "site_id": "tvprogram#kitchentv",
     "name": "KitchenTV",
     "lang": "hr",
-    "xmltv_id": "KitchenTV.rs@SD"
+    "xmltv_id": "KitchenTV.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/kitchen-tv-rs.png"
   },
   {
     "site_id": "de/tvprogramm#hamburg-1",
@@ -42244,7 +42538,8 @@
     "site_id": "pl/program#cnn",
     "name": "CNN Europe",
     "lang": "pl",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "pt/programacao#history-channel-pt",
@@ -42291,13 +42586,15 @@
     "site_id": "ch/tv-programm#bbc2",
     "name": "BBC2",
     "lang": "de",
-    "xmltv_id": "BBCTwo.uk@England"
+    "xmltv_id": "BBCTwo.uk@England",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
   },
   {
     "site_id": "fr/programme-tv#france-info",
     "name": "France Info",
     "lang": "fr",
-    "xmltv_id": "Franceinfo.fr@SD"
+    "xmltv_id": "Franceinfo.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/franceinfo-fr.png"
   },
   {
     "site_id": "hu/tvmusor#extreme-sports",
@@ -42367,7 +42664,8 @@
     "site_id": "pt/programacao#rtp3",
     "name": "RTP3",
     "lang": "pt",
-    "xmltv_id": "RTPNoticias.pt"
+    "xmltv_id": "RTPNoticias.pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/rtp-noticias-pt.png"
   },
   {
     "site_id": "tvprogram#mrt-sat",
@@ -42383,7 +42681,8 @@
     "site_id": "ks/programacioni#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "sq",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "me/tvprogram#rts-nauka",
@@ -42402,7 +42701,8 @@
     "site_id": "pl/program#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "pl",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "al/programacioni#fax-news",
@@ -42483,13 +42783,15 @@
     "site_id": "ch/tv-programm#france-24-franch",
     "name": "France 24 French",
     "lang": "de",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "ie/tvschedule#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "en",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "me/tvprogram#axn-polska",
@@ -42599,7 +42901,8 @@
     "site_id": "rs/tvprogram#tv-net",
     "name": "TV Net",
     "lang": "sr",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "at/tvprogramm#kabel-eins-at",
@@ -42699,7 +43002,8 @@
     "site_id": "hu/tvmusor#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "hu",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "ks/programacioni#cbs-reality",
@@ -42790,7 +43094,8 @@
     "site_id": "rs/tvprogram#sinematv",
     "name": "SinemaTV",
     "lang": "sr",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "rs/tvprogram#tv-trwam",
@@ -42988,7 +43293,8 @@
     "site_id": "at/tvprogramm#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "de",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "ie/tvschedule#sinema-yerli-2",
@@ -43341,7 +43647,8 @@
     "site_id": "fr/programme-tv#show-turk",
     "name": "Show Türk",
     "lang": "fr",
-    "xmltv_id": "ShowTurk.tr@SD"
+    "xmltv_id": "ShowTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/show-turk-tr.png"
   },
   {
     "site_id": "it/guida-tv#mtv-music-it",
@@ -43397,13 +43704,15 @@
     "site_id": "at/tvprogramm#sinematv",
     "name": "SinemaTV",
     "lang": "de",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "fr/programme-tv#cnn",
     "name": "CNN Europe",
     "lang": "fr",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "gb/tvschedule#djazz-tv",
@@ -43422,7 +43731,8 @@
     "site_id": "mk/tv-raspored#tv-net",
     "name": "TV Net",
     "lang": "mk",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "pl/program#top-kids-pl",
@@ -43780,7 +44090,8 @@
     "site_id": "tr/tv-rehberi#cnn-turk-tv",
     "name": "CNN Türk TV",
     "lang": "tr",
-    "xmltv_id": "CNNTurk.tr@SD"
+    "xmltv_id": "CNNTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/cnn-turk-tr.png"
   },
   {
     "site_id": "al/programacioni#apollon-tv",
@@ -43921,7 +44232,8 @@
     "site_id": "ro/program-tv#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "ro",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "si/tvspored#zdrava-televizija",
@@ -43934,7 +44246,8 @@
     "site_id": "es/programacion-tv#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "es",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "hu/tvmusor#polsat-play",
@@ -44080,7 +44393,8 @@
     "site_id": "ba/tvprogram#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "bs",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "es/programacion-tv#tpa7",
@@ -44173,7 +44487,8 @@
     "site_id": "ie/tvschedule#bbc2",
     "name": "BBC2",
     "lang": "en",
-    "xmltv_id": "BBCTwo.uk@England"
+    "xmltv_id": "BBCTwo.uk@England",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
   },
   {
     "site_id": "ie/tvschedule#bt-sport-europe",
@@ -44253,7 +44568,8 @@
     "site_id": "tr/tv-rehberi#trt-spor-2",
     "name": "TRT Spor Yıldız",
     "lang": "tr",
-    "xmltv_id": "TRTSporYildiz.tr@SD"
+    "xmltv_id": "TRTSporYildiz.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png"
   },
   {
     "site_id": "ba/tvprogram#pink-erotic-6",
@@ -44369,7 +44685,8 @@
     "site_id": "ch/tv-programm#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "de",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "gb/tvschedule#sky-nature-uk",
@@ -44492,7 +44809,8 @@
     "site_id": "gb/tvschedule#cnn-turk-tv",
     "name": "CNN Türk TV",
     "lang": "en",
-    "xmltv_id": "CNNTurk.tr@SD"
+    "xmltv_id": "CNNTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/cnn-turk-tr.png"
   },
   {
     "site_id": "al/programacioni#filmbox-arthouse",
@@ -44600,7 +44918,8 @@
     "site_id": "ks/programacioni#tv-net",
     "name": "TV Net",
     "lang": "sq",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "fr/programme-tv#moviesmart-classic",
@@ -44698,7 +45017,8 @@
     "site_id": "ro/program-tv#film-plus-hu",
     "name": "Film+ HU",
     "lang": "ro",
-    "xmltv_id": "FilmPlus.hu@SD"
+    "xmltv_id": "FilmPlus.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/film-plus-hu.png"
   },
   {
     "site_id": "rs/tvprogram#novosadska-tv",
@@ -44834,13 +45154,15 @@
     "site_id": "at/tvprogramm#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "de",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "me/tvprogram#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "en",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "rs/tvprogram#sinema-2",
@@ -44929,7 +45251,8 @@
     "site_id": "hu/tvmusor#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "hu",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "hu/tvmusor#trt-eba-tv-ilkokul",
@@ -45183,7 +45506,8 @@
     "site_id": "gb/tvschedule#itv2-plus-1",
     "name": "ITV2+1",
     "lang": "en",
-    "xmltv_id": "ITV2.uk@Plus1"
+    "xmltv_id": "ITV2.uk@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-2-uk.png"
   },
   {
     "site_id": "rs/tvprogram#balkanika",
@@ -45293,7 +45617,8 @@
     "site_id": "ba/tvprogram#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "bs",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "de/tvprogramm#hr3",
@@ -45413,7 +45738,8 @@
     "site_id": "es/programacion-tv#france24",
     "name": "France24",
     "lang": "es",
-    "xmltv_id": "France24.fr@Spanish"
+    "xmltv_id": "France24.fr@Spanish",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "si/tvspored#arena-sport-1-si",
@@ -45459,7 +45785,8 @@
     "site_id": "it/guida-tv#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "it",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "ks/programacioni#da-vinci-learning",
@@ -45522,7 +45849,7 @@
   },
   {
     "site_id": "me/tvprogram#pink-action-3",
-    "name": "Pink Crime \u0026 Mystery",
+    "name": "Pink Crime & Mystery",
     "lang": "en",
     "xmltv_id": "PinkCrimeMystery.rs@SD",
     "logo": "https://i.imgur.com/zqUqfMs.png"
@@ -45605,7 +45932,8 @@
     "site_id": "me/tvprogram#kitchentv",
     "name": "KitchenTV",
     "lang": "en",
-    "xmltv_id": "KitchenTV.rs@SD"
+    "xmltv_id": "KitchenTV.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/kitchen-tv-rs.png"
   },
   {
     "site_id": "me/tvprogram#rtv-budva",
@@ -45616,7 +45944,8 @@
     "site_id": "mk/tv-raspored#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "mk",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "pt/programacao#sundance-tv-pl",
@@ -45864,7 +46193,8 @@
     "site_id": "bg/tv-programa#tv-net",
     "name": "TV Net",
     "lang": "bg",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "fr/programme-tv#nbc-news",
@@ -46064,7 +46394,8 @@
     "site_id": "si/tvspored#tv-net",
     "name": "TV Net",
     "lang": "sl",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "at/tvprogramm#bibel-tv",
@@ -46090,7 +46421,8 @@
     "site_id": "pl/program#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "pl",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "pt/programacao#tv-8-5",
@@ -46110,7 +46442,8 @@
     "site_id": "de/tvprogramm#france24",
     "name": "France24",
     "lang": "de",
-    "xmltv_id": "France24.fr@EnglishHD"
+    "xmltv_id": "France24.fr@EnglishHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "mk/tv-raspored#brainz-tv",
@@ -46243,7 +46576,8 @@
     "site_id": "me/tvprogram#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "en",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "pl/program#golf-channel-pl",
@@ -46395,7 +46729,8 @@
     "site_id": "gb/tvschedule#bbc-news",
     "name": "BBC News Channel",
     "lang": "en",
-    "xmltv_id": "BBCNews.uk@Africa"
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "tr/tv-rehberi#oe24-tv",
@@ -46508,7 +46843,8 @@
     "site_id": "de/tvprogramm#france-24-franch",
     "name": "France 24 French",
     "lang": "de",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "es/programacion-tv#ewtn-es",
@@ -46569,7 +46905,8 @@
     "site_id": "ch/tv-programm#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "de",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "hu/tvmusor#sport-1-hu",
@@ -46832,7 +47169,8 @@
     "site_id": "ks/programacioni#vojvodina-1",
     "name": "RT Vojvodina 1",
     "lang": "sq",
-    "xmltv_id": "RTV1.rs@SD"
+    "xmltv_id": "RTV1.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtv-1-rs.png"
   },
   {
     "site_id": "ro/program-tv#polsat-games",
@@ -46845,7 +47183,8 @@
     "site_id": "si/tvspored#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "sl",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "at/tvprogramm#telezuri",
@@ -46863,7 +47202,8 @@
     "site_id": "ks/programacioni#pink-lol",
     "name": "Pink LOL",
     "lang": "sq",
-    "xmltv_id": "LOL.rs@SD"
+    "xmltv_id": "LOL.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/lol-rs.png"
   },
   {
     "site_id": "ro/program-tv#eurosport",
@@ -46955,7 +47295,7 @@
   },
   {
     "site_id": "rs/tvprogram#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "sr",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -47108,7 +47448,8 @@
     "site_id": "ro/program-tv#magyar-slager-tv",
     "name": "Magyar Sláger TV",
     "lang": "ro",
-    "xmltv_id": "SlagerTV.hu@SD"
+    "xmltv_id": "SlagerTV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/slager-tv-hu.png"
   },
   {
     "site_id": "at/tvprogramm#tv-2-tr",
@@ -47134,7 +47475,8 @@
     "site_id": "es/programacion-tv#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "es",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "gb/tvschedule#itv1",
@@ -47158,7 +47500,7 @@
   },
   {
     "site_id": "rs/tvprogram#crime-investigation",
-    "name": "Crime \u0026 Investigation Channel",
+    "name": "Crime & Investigation Channel",
     "lang": "sr",
     "xmltv_id": "CrimePlusInvestigation.uk@SD"
   },
@@ -47212,7 +47554,8 @@
     "site_id": "de/tvprogramm#sinematv",
     "name": "SinemaTV",
     "lang": "de",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "ba/tvprogram#24vesti",
@@ -47305,7 +47648,8 @@
     "site_id": "es/programacion-tv#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "es",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "it/guida-tv#tvt-pl",
@@ -47551,7 +47895,8 @@
     "site_id": "gb/tvschedule#bbc4",
     "name": "BBC4",
     "lang": "en",
-    "xmltv_id": "BBCFour.uk@UK"
+    "xmltv_id": "BBCFour.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-four-uk.png"
   },
   {
     "site_id": "me/tvprogram#tay-tv",
@@ -47902,7 +48247,8 @@
     "site_id": "si/tvspored#france-24-franch",
     "name": "France 24 French",
     "lang": "sl",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "fr/programme-tv#bein-movies-premiere-tr",
@@ -47943,7 +48289,8 @@
     "site_id": "ks/programacioni#tv-klan",
     "name": "Klan TV HD",
     "lang": "sq",
-    "xmltv_id": "TVKlan.al@SD"
+    "xmltv_id": "TVKlan.al@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/albania/tv-klan-al.png"
   },
   {
     "site_id": "ro/program-tv#nat-geo-wild-ro",
@@ -48264,7 +48611,8 @@
     "site_id": "hu/tvmusor#tv-net",
     "name": "TV Net",
     "lang": "hu",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "pl/program#tv-regionalna-pl",
@@ -48394,7 +48742,7 @@
   },
   {
     "site_id": "gb/tvschedule#home-uk",
-    "name": "Home \u0026 Garden Television UK",
+    "name": "Home & Garden Television UK",
     "lang": "en"
   },
   {
@@ -48441,7 +48789,7 @@
   },
   {
     "site_id": "ie/tvschedule#uk-gold",
-    "name": "U\u0026Gold",
+    "name": "U&Gold",
     "lang": "en",
     "logo": "https://i.imgur.com/SUwg1sn.png"
   },
@@ -48479,7 +48827,8 @@
     "site_id": "rs/tvprogram#vojvodina-1",
     "name": "RT Vojvodina 1",
     "lang": "sr",
-    "xmltv_id": "RTV1.rs@SD"
+    "xmltv_id": "RTV1.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtv-1-rs.png"
   },
   {
     "site_id": "me/tvprogram#toggo-plus",
@@ -48677,7 +49026,7 @@
   },
   {
     "site_id": "at/tvprogramm#fix-foxi",
-    "name": "Fix \u0026 Foxi",
+    "name": "Fix & Foxi",
     "lang": "de",
     "xmltv_id": "FixFoxi.de@SD"
   },
@@ -48803,7 +49152,7 @@
   },
   {
     "site_id": "me/tvprogram#hgtv",
-    "name": "Home \u0026 Garden Television",
+    "name": "Home & Garden Television",
     "lang": "en",
     "xmltv_id": "HGTV.uk@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
@@ -48905,7 +49254,7 @@
   },
   {
     "site_id": "ks/programacioni#pink-movies-3",
-    "name": "Pink SCI FI \u0026 Fantasy",
+    "name": "Pink SCI FI & Fantasy",
     "lang": "sq",
     "xmltv_id": "PinkSciFiFantasy.rs@SD"
   },
@@ -48939,7 +49288,7 @@
   },
   {
     "site_id": "ie/tvschedule#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "en",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -48987,7 +49336,8 @@
     "site_id": "bg/tv-programa#bbc-news",
     "name": "BBC News Channel",
     "lang": "bg",
-    "xmltv_id": "BBCNews.uk@Africa"
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "ch/tv-programm#rtl-de",
@@ -49013,11 +49363,12 @@
     "site_id": "ba/tvprogram#tv-net",
     "name": "TV Net",
     "lang": "bs",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "bg/tv-programa#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "bg",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -49211,7 +49562,8 @@
     "site_id": "pl/program#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "pl",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "rs/tvprogram#supersat-tv",
@@ -49247,13 +49599,15 @@
     "site_id": "bg/tv-programa#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "bg",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "pl/program#tv-net",
     "name": "TV Net",
     "lang": "pl",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "ro/program-tv#mooz-dance",
@@ -49549,7 +49903,8 @@
     "site_id": "tr/tv-rehberi#france-24-franch",
     "name": "France 24 French",
     "lang": "tr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "tvprogram#tvp-kobieta",
@@ -49562,7 +49917,8 @@
     "site_id": "al/programacioni#sinema-aile",
     "name": "SinemaTV Aile",
     "lang": "sq",
-    "xmltv_id": "SinemaAile.tr@SD"
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
   },
   {
     "site_id": "fr/programme-tv#al-arabiya",
@@ -49627,7 +49983,7 @@
   },
   {
     "site_id": "ba/tvprogram#fast-funbox-hd",
-    "name": "Fast\u0026FunBox HD",
+    "name": "Fast&FunBox HD",
     "lang": "bs",
     "xmltv_id": "FastFunBox.nl@SD"
   },
@@ -50260,7 +50616,8 @@
     "site_id": "ro/program-tv#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "ro",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "rs/tvprogram#rts-poletarac",
@@ -50664,7 +51021,8 @@
     "site_id": "tr/tv-rehberi#show-turk",
     "name": "Show Türk",
     "lang": "tr",
-    "xmltv_id": "ShowTurk.tr@SD"
+    "xmltv_id": "ShowTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/show-turk-tr.png"
   },
   {
     "site_id": "at/tvprogramm#krone-tv",
@@ -50883,7 +51241,8 @@
     "site_id": "si/tvspored#private-spice",
     "name": "Brazzers TV (ex. Private Spice)",
     "lang": "sl",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/brazzers-tv-europe-eu.png"
   },
   {
     "site_id": "al/programacioni#sinema-yerli-2",
@@ -50985,7 +51344,8 @@
     "site_id": "mk/tv-raspored#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "mk",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "pt/programacao#polsat-games",
@@ -51251,7 +51611,7 @@
   },
   {
     "site_id": "ie/tvschedule#drama-uk",
-    "name": "U\u0026Drama",
+    "name": "U&Drama",
     "lang": "en",
     "logo": "https://i.imgur.com/cGBJx59.png"
   },
@@ -51277,7 +51637,7 @@
   },
   {
     "site_id": "bg/tv-programa#crime-investigation",
-    "name": "Crime \u0026 Investigation Channel",
+    "name": "Crime & Investigation Channel",
     "lang": "bg",
     "xmltv_id": "CrimePlusInvestigation.uk@SD"
   },
@@ -51441,7 +51801,8 @@
     "site_id": "rs/tvprogram#pink-fight",
     "name": "Pink Fight Network",
     "lang": "sr",
-    "xmltv_id": "FightNetwork.ca@SD"
+    "xmltv_id": "FightNetwork.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/fight-network-ca.png"
   },
   {
     "site_id": "ba/tvprogram#fightbox-hd",
@@ -51809,7 +52170,8 @@
     "site_id": "fr/programme-tv#private-spice",
     "name": "Brazzers TV (ex. Private Spice)",
     "lang": "fr",
-    "xmltv_id": "BrazzersTVEurope.us@SD"
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-europe/brazzers-tv-europe-eu.png"
   },
   {
     "site_id": "ie/tvschedule#dreamturk-tv",
@@ -51834,7 +52196,8 @@
     "site_id": "ro/program-tv#cnn",
     "name": "CNN Europe",
     "lang": "ro",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "ro/program-tv#skynews",
@@ -51906,7 +52269,7 @@
   },
   {
     "site_id": "tvprogram#cinestar-action-thriller",
-    "name": "CineStar Action\u0026Thriller",
+    "name": "CineStar Action&Thriller",
     "lang": "hr"
   },
   {
@@ -51931,7 +52294,8 @@
     "site_id": "tvprogram#20-mediaset",
     "name": "20 Mediaset",
     "lang": "hr",
-    "xmltv_id": "20.it@SD"
+    "xmltv_id": "20.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/20-it.png"
   },
   {
     "site_id": "de/tvprogramm#ndr-niedersachsen",
@@ -52483,7 +52847,7 @@
   },
   {
     "site_id": "ie/tvschedule#home-uk",
-    "name": "Home \u0026 Garden Television UK",
+    "name": "Home & Garden Television UK",
     "lang": "en"
   },
   {
@@ -52530,7 +52894,8 @@
     "site_id": "ie/tvschedule#bbc-news",
     "name": "BBC News Channel",
     "lang": "en",
-    "xmltv_id": "BBCNews.uk@Africa"
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "ba/tvprogram#kino-polska",
@@ -52649,7 +53014,8 @@
     "site_id": "ks/programacioni#kitchentv",
     "name": "KitchenTV",
     "lang": "sq",
-    "xmltv_id": "KitchenTV.rs@SD"
+    "xmltv_id": "KitchenTV.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/kitchen-tv-rs.png"
   },
   {
     "site_id": "mk/tv-raspored#tvp-abc",
@@ -52966,7 +53332,8 @@
     "site_id": "bg/tv-programa#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "bg",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "fr/programme-tv#trt-world",
@@ -53315,7 +53682,8 @@
     "site_id": "ch/tv-programm#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "de",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "ks/programacioni#bang-bang",
@@ -53328,7 +53696,8 @@
     "site_id": "ro/program-tv#folx-tv",
     "name": "Folx TV",
     "lang": "ro",
-    "xmltv_id": "FolxMusicTelevision.de@SD"
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
   },
   {
     "site_id": "tr/tv-rehberi#tvp-kultura",
@@ -53462,7 +53831,8 @@
     "site_id": "it/guida-tv#sinematv",
     "name": "SinemaTV",
     "lang": "it",
-    "xmltv_id": "SinemaTV.tr@SD"
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
   },
   {
     "site_id": "tr/tv-rehberi#babytv-tr",
@@ -53650,7 +54020,8 @@
     "site_id": "mk/tv-raspored#cnn",
     "name": "CNN Europe",
     "lang": "mk",
-    "xmltv_id": "CNNInternational.us@MENA"
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
   },
   {
     "site_id": "pl/program#epic-drama-pl",
@@ -53872,7 +54243,8 @@
     "site_id": "tvprogram#tv-net",
     "name": "TV Net",
     "lang": "hr",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "bg/tv-programa#motowizja",
@@ -54074,7 +54446,8 @@
     "site_id": "si/tvspored#20-mediaset",
     "name": "20 Mediaset",
     "lang": "sl",
-    "xmltv_id": "20.it@SD"
+    "xmltv_id": "20.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/20-it.png"
   },
   {
     "site_id": "ch/tv-programm#tf1",
@@ -54299,7 +54672,8 @@
     "site_id": "ks/programacioni#vojvodina-2",
     "name": "RT Vojvodina 2",
     "lang": "sq",
-    "xmltv_id": "RTV2.rs@SD"
+    "xmltv_id": "RTV2.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtv-2-rs.png"
   },
   {
     "site_id": "me/tvprogram#pink-music",
@@ -54452,7 +54826,8 @@
     "site_id": "at/tvprogramm#france-24-franch",
     "name": "France 24 French",
     "lang": "de",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "at/tvprogramm#sonnenklar-tv",
@@ -54605,7 +54980,8 @@
     "site_id": "tvprogram#france-24-franch",
     "name": "France 24 French",
     "lang": "hr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "ba/tvprogram#reality-kings",
@@ -54735,7 +55111,7 @@
   },
   {
     "site_id": "tvprogram#hgtv",
-    "name": "Home \u0026 Garden Television",
+    "name": "Home & Garden Television",
     "lang": "hr",
     "xmltv_id": "HGTV.uk@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
@@ -54897,7 +55273,8 @@
     "site_id": "fr/programme-tv#game-one-1",
     "name": "Game One+1",
     "lang": "fr",
-    "xmltv_id": "GameOne.fr@Plus1"
+    "xmltv_id": "GameOne.fr@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/game-one-fr.png"
   },
   {
     "site_id": "it/guida-tv#sky-sport-f1-it",
@@ -54935,7 +55312,8 @@
     "site_id": "ch/tv-programm#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "de",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "fr/programme-tv#euronews",
@@ -54954,7 +55332,8 @@
     "site_id": "ie/tvschedule#tv-net",
     "name": "TV Net",
     "lang": "en",
-    "xmltv_id": "TVNET.tr@SD"
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
   },
   {
     "site_id": "rs/tvprogram#euro-cinema-2",
@@ -55409,7 +55788,8 @@
     "site_id": "pl/program#sinema-1002",
     "name": "SinemaTV 1002",
     "lang": "pl",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "pl/program#tvn",
@@ -55461,7 +55841,8 @@
     "site_id": "pt/programacao#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "pt",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "bg/tv-programa#discovery-historia",
@@ -55690,7 +56071,8 @@
     "site_id": "si/tvspored#tbn-polska",
     "name": "TBN Polska HD",
     "lang": "sl",
-    "xmltv_id": "TBNPolska.pl@SD"
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
   },
   {
     "site_id": "ie/tvschedule#history-channel",
@@ -55728,7 +56110,8 @@
     "site_id": "fr/programme-tv#cnn-turk-tv",
     "name": "CNN Türk TV",
     "lang": "fr",
-    "xmltv_id": "CNNTurk.tr@SD"
+    "xmltv_id": "CNNTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/cnn-turk-tr.png"
   },
   {
     "site_id": "gb/tvschedule#sky-sports-news",
@@ -55817,7 +56200,8 @@
     "site_id": "fr/programme-tv#deutchewelle",
     "name": "Deutsche Welle English",
     "lang": "fr",
-    "xmltv_id": "DW.de@English"
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
   },
   {
     "site_id": "hu/tvmusor#moziverzum",
@@ -56258,7 +56642,8 @@
     "site_id": "ba/tvprogram#sinema-aksiyon",
     "name": "SinemaTV Aksiyon",
     "lang": "bs",
-    "xmltv_id": "SinemaAksiyon.tr@SD"
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
   },
   {
     "site_id": "ch/tv-programm#tvp-2",
@@ -56470,7 +56855,8 @@
     "site_id": "ba/tvprogram#wpolsce-pl",
     "name": "wPolsce PL",
     "lang": "bs",
-    "xmltv_id": "WPolscePL.pl@SD"
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
   },
   {
     "site_id": "bg/tv-programa#ewtn-pl",
@@ -56751,7 +57137,8 @@
     "site_id": "tvprogram#nuta-tv",
     "name": "NUTA.TV HD",
     "lang": "hr",
-    "xmltv_id": "NutaTV.pl@SD"
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
   },
   {
     "site_id": "bg/tv-programa#bg-dnes",
@@ -56915,7 +57302,7 @@
   },
   {
     "site_id": "me/tvprogram#cinestar-action-thriller-rs",
-    "name": "CineStar Action\u0026Thriller RS",
+    "name": "CineStar Action&Thriller RS",
     "lang": "hr",
     "xmltv_id": "CineStarTVAction.rs@SD",
     "logo": "https://i.imgur.com/rjtrRv8.png"
@@ -57070,7 +57457,8 @@
     "site_id": "me/tvprogram#sinema-1001",
     "name": "SinemaTV 1001",
     "lang": "en",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "mk/tv-raspored#tvp-kultura",

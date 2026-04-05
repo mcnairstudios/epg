@@ -758,7 +758,7 @@
   },
   {
     "site_id": "206966824149",
-    "name": "Home \u0026 Garden TV",
+    "name": "Home & Garden TV",
     "lang": "de",
     "xmltv_id": "HGTV.de@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/960px-HGTV_logo.svg.png"
@@ -884,7 +884,8 @@
     "site_id": "206966824417",
     "name": "BBC News HD",
     "lang": "de",
-    "xmltv_id": "BBCNews.uk@Europe"
+    "xmltv_id": "BBCNews.uk@Europe",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "215440936100",
@@ -1010,7 +1011,8 @@
     "site_id": "206966824059",
     "name": "Nickelodeon HD",
     "lang": "de",
-    "xmltv_id": "Nickelodeon.de@SD"
+    "xmltv_id": "Nickelodeon.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/nickelodeon-de.png"
   },
   {
     "site_id": "206966312266",
@@ -1429,7 +1431,8 @@
     "site_id": "206966824018",
     "name": "rbb HD",
     "lang": "de",
-    "xmltv_id": "RBBBerlin.de@Berlin"
+    "xmltv_id": "RBBBerlin.de@Berlin",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/rbb-berlin-de.png"
   },
   {
     "site_id": "207381032277",
@@ -1485,7 +1488,7 @@
   },
   {
     "site_id": "207381032281",
-    "name": "Fix \u0026 Foxi",
+    "name": "Fix & Foxi",
     "lang": "de",
     "xmltv_id": "FixFoxi.de@SD"
   },
