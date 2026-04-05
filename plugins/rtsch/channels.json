@@ -1,12 +1,5 @@
 [
   {
-    "site_id": "5d332a26e06d08eec8ad385d566187df72955623",
-    "name": "RTS Info",
-    "lang": "fr",
-    "xmltv_id": "RTSInfo.ch@SD",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/rts-info-ch.png"
-  },
-  {
     "site_id": "143932a79bb5a123a646b68b1d1188d7ae493e5b",
     "name": "RTS 1",
     "lang": "fr",
@@ -19,5 +12,12 @@
     "lang": "fr",
     "xmltv_id": "RTS2.ch@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/960px-RTS_2_logo_2019.svg.png"
+  },
+  {
+    "site_id": "5d332a26e06d08eec8ad385d566187df72955623",
+    "name": "RTS Info",
+    "lang": "fr",
+    "xmltv_id": "RTSInfo.ch@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/switzerland/rts-info-ch.png"
   }
 ]

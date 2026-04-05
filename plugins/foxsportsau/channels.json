@@ -1,31 +1,10 @@
 [
   {
-    "site_id": "3",
-    "name": "FOX Sports 503",
-    "lang": "en",
-    "xmltv_id": "FoxSports503.au@SD",
-    "logo": "https://i.imgur.com/pBY6i2q.png"
-  },
-  {
-    "site_id": "10",
-    "name": "FOX Footy",
-    "lang": "en",
-    "xmltv_id": "FoxFooty.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/960px-Fox_Footy_logo_%282015%29.svg.png"
-  },
-  {
-    "site_id": "11",
-    "name": "FOX Sports 505",
-    "lang": "en",
-    "xmltv_id": "FoxSports505.au@SD",
-    "logo": "https://i.imgur.com/sbooXpg.png"
-  },
-  {
     "site_id": "12",
     "name": "FOX Sports 506",
     "lang": "en",
     "xmltv_id": "FoxSports506.au@SD",
-    "logo": "https://i.imgur.com/sbooXpg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/fox-sports-506-au.png"
   },
   {
     "site_id": "13",
@@ -47,5 +26,26 @@
     "lang": "en",
     "xmltv_id": "FoxLeague.au@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/960px-Fox_league.svg.png"
+  },
+  {
+    "site_id": "3",
+    "name": "FOX Sports 503",
+    "lang": "en",
+    "xmltv_id": "FoxSports503.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/fox-sports-503-au.png"
+  },
+  {
+    "site_id": "10",
+    "name": "FOX Footy",
+    "lang": "en",
+    "xmltv_id": "FoxFooty.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/960px-Fox_Footy_logo_%282015%29.svg.png"
+  },
+  {
+    "site_id": "11",
+    "name": "FOX Sports 505",
+    "lang": "en",
+    "xmltv_id": "FoxSports505.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/fox-sports-505-au.png"
   }
 ]

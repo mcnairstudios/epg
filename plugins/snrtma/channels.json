@@ -1,5 +1,15 @@
 [
   {
+    "site_id": "4076",
+    "name": "Alidaa alwatania",
+    "lang": "ar"
+  },
+  {
+    "site_id": "4077",
+    "name": "Chaine Inter",
+    "lang": "ar"
+  },
+  {
     "site_id": "1208",
     "name": "Al Aoula",
     "lang": "ar",
@@ -7,18 +17,18 @@
     "logo": "https://i.imgur.com/nq53d2N.png"
   },
   {
+    "site_id": "4069",
+    "name": "Laâyoune",
+    "lang": "ar",
+    "xmltv_id": "LaayouneTV.ma@SD",
+    "logo": "https://www.snrt.ma/sites/default/files/2023-04/laayoune.png"
+  },
+  {
     "site_id": "4070",
     "name": "Arryadia",
     "lang": "ar",
     "xmltv_id": "Arryadia.ma@HD",
     "logo": "https://i.imgur.com/XjzK3gZ.png"
-  },
-  {
-    "site_id": "4071",
-    "name": "Athaqafia",
-    "lang": "ar",
-    "xmltv_id": "Athaqafia.ma@SD",
-    "logo": "https://i.imgur.com/mrwFI2L.png"
   },
   {
     "site_id": "4072",
@@ -35,30 +45,6 @@
     "logo": "https://i.imgur.com/un6qTGO.png"
   },
   {
-    "site_id": "4075",
-    "name": "Tamazight",
-    "lang": "ar",
-    "xmltv_id": "TamazightTV.ma@SD",
-    "logo": "https://i.imgur.com/fm6S7we.png"
-  },
-  {
-    "site_id": "4076",
-    "name": "Alidaa alwatania",
-    "lang": "ar"
-  },
-  {
-    "site_id": "4077",
-    "name": "Chaine Inter",
-    "lang": "ar"
-  },
-  {
-    "site_id": "4069",
-    "name": "Laâyoune",
-    "lang": "ar",
-    "xmltv_id": "LaayouneTV.ma@SD",
-    "logo": "https://www.snrt.ma/sites/default/files/2023-04/laayoune.png"
-  },
-  {
     "site_id": "4078",
     "name": "Idaât Mohammed Assadiss",
     "lang": "ar"
@@ -67,5 +53,19 @@
     "site_id": "4079",
     "name": "Alidaâ Alamazighia",
     "lang": "ar"
+  },
+  {
+    "site_id": "4071",
+    "name": "Athaqafia",
+    "lang": "ar",
+    "xmltv_id": "Athaqafia.ma@SD",
+    "logo": "https://i.imgur.com/mrwFI2L.png"
+  },
+  {
+    "site_id": "4075",
+    "name": "Tamazight",
+    "lang": "ar",
+    "xmltv_id": "TamazightTV.ma@SD",
+    "logo": "https://i.imgur.com/fm6S7we.png"
   }
 ]

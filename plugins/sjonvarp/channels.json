@@ -1,12 +1,5 @@
 [
   {
-    "site_id": "STOD3",
-    "name": "Stöð 2 Fjölskylda",
-    "lang": "is",
-    "xmltv_id": "Stod2Fjolskylda.is@SD",
-    "logo": "https://i.imgur.com/cI6ECDy.png"
-  },
-  {
     "site_id": "RUV",
     "name": "RÚV",
     "lang": "is",
@@ -26,6 +19,13 @@
     "lang": "is",
     "xmltv_id": "SjonvarpSimans.is@SD",
     "logo": "https://i.imgur.com/b94TVdj.png"
+  },
+  {
+    "site_id": "S1SPORT",
+    "name": "Síminn Sport",
+    "lang": "is",
+    "xmltv_id": "SiminnSport.is@SD",
+    "logo": "https://i.imgur.com/JjAGBms.png"
   },
   {
     "site_id": "S2ESPORT",
@@ -49,27 +49,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St%C3%B6%C3%B0-2-Logo.svg/960px-St%C3%B6%C3%B0-2-Logo.svg.png"
   },
   {
-    "site_id": "SYN",
-    "name": "Stöð 2 Sport",
-    "lang": "is",
-    "xmltv_id": "Stod2Sport.is@SD",
-    "logo": "https://i.imgur.com/JD5nyED.png"
-  },
-  {
-    "site_id": "GOLF",
-    "name": "Stöð 2 Golf",
-    "lang": "is",
-    "xmltv_id": "Stod2Golf.is@SD",
-    "logo": "https://i.imgur.com/JJFQdoB.png"
-  },
-  {
-    "site_id": "S1SPORT",
-    "name": "Síminn Sport",
-    "lang": "is",
-    "xmltv_id": "SiminnSport.is@SD",
-    "logo": "https://i.imgur.com/JjAGBms.png"
-  },
-  {
     "site_id": "S1SPORT2",
     "name": "Síminn Sport 2",
     "lang": "is",
@@ -89,5 +68,26 @@
     "lang": "is",
     "xmltv_id": "Stod2Sport2.is@SD",
     "logo": "https://i.imgur.com/isXJASk.png"
+  },
+  {
+    "site_id": "STOD3",
+    "name": "Stöð 2 Fjölskylda",
+    "lang": "is",
+    "xmltv_id": "Stod2Fjolskylda.is@SD",
+    "logo": "https://i.imgur.com/cI6ECDy.png"
+  },
+  {
+    "site_id": "SYN",
+    "name": "Stöð 2 Sport",
+    "lang": "is",
+    "xmltv_id": "Stod2Sport.is@SD",
+    "logo": "https://i.imgur.com/JD5nyED.png"
+  },
+  {
+    "site_id": "GOLF",
+    "name": "Stöð 2 Golf",
+    "lang": "is",
+    "xmltv_id": "Stod2Golf.is@SD",
+    "logo": "https://i.imgur.com/JJFQdoB.png"
   }
 ]

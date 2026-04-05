@@ -1,670 +1,10 @@
 [
   {
-    "site_id": "dvb://233a..6dc0",
-    "name": "W",
-    "lang": "en",
-    "xmltv_id": "UW.uk",
-    "logo": "https://i.imgur.com/puBkpGj.png"
-  },
-  {
-    "site_id": "dvb://233a..57c0",
-    "name": "Film4+1",
-    "lang": "en",
-    "xmltv_id": "Film4.uk@Plus1",
-    "logo": "https://i.imgur.com/MTSgoGI.png"
-  },
-  {
-    "site_id": "dvb://233a..1240",
-    "name": "CBeebies",
-    "lang": "en",
-    "xmltv_id": "CBeebies.uk@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "dvb://233a..3890",
-    "name": "Legend",
-    "lang": "en",
-    "xmltv_id": "Legend.uk@SD",
-    "logo": "https://i.imgur.com/dN2OsIT.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_762673_2501_HD",
-    "name": "MTV HD",
-    "lang": "en",
-    "xmltv_id": "MTV.uk@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_758031_1815_HD",
-    "name": "Sky Cinema Favourites HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_759234_1322_HD",
-    "name": "Sky Sports Golf HD",
-    "lang": "en",
-    "xmltv_id": "SkySportsGolf.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767457",
-    "name": "TNT Sports 7 HD",
-    "lang": "en",
-    "xmltv_id": "TNTSports7.uk@HD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-7-uk.png?raw=true"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767936",
-    "name": "TNT Sports 8",
-    "lang": "en",
-    "xmltv_id": "TNTSports8.uk@SD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-8-uk.png?raw=true"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_770645",
-    "name": "Colors Cineplex",
-    "lang": "en",
-    "xmltv_id": "ColorsCineplex.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_93_1404_SD",
-    "name": "Sky News.",
-    "lang": "en",
-    "xmltv_id": "SkyNews.uk",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"
-  },
-  {
-    "site_id": "dvb://233a..3fec",
-    "name": "Together TV",
-    "lang": "en",
-    "xmltv_id": "TogetherTV.uk@SD",
-    "logo": "https://i.imgur.com/wf62HhM.png"
-  },
-  {
-    "site_id": "dvb://233a..6c40",
-    "name": "Al Jazeera Eng",
-    "lang": "en",
-    "xmltv_id": "AlJazeera.qa@English",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
-  },
-  {
-    "site_id": "dvb://233a..6d20",
-    "name": "That's TV (UK)",
-    "lang": "en",
-    "xmltv_id": "ThatsTV.uk@SD",
-    "logo": "https://i.imgur.com/rmdfcyG.png"
-  },
-  {
-    "site_id": "dvb://233a..20c0",
-    "name": "Channel 4",
-    "lang": "en",
-    "xmltv_id": "Channel4.uk@UK",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png"
-  },
-  {
-    "site_id": "dvb://233a..208a",
-    "name": "ITV4",
-    "lang": "en",
-    "xmltv_id": "ITV4.uk@SD",
-    "logo": "https://i.imgur.com/DYI4IA2.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_758547_2201_HD",
-    "name": "Sky Witness HD",
-    "lang": "en",
-    "xmltv_id": "SkyWitness.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2201.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767456",
-    "name": "TNT Sports 6 HD",
-    "lang": "en",
-    "xmltv_id": "TNTSports6.uk@HD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-6-uk.png?raw=true"
-  },
-  {
-    "site_id": "dvb://233a..4ec0",
-    "name": "TBN UK",
-    "lang": "en",
-    "xmltv_id": "TBNUK.uk@SD",
-    "logo": "https://i.imgur.com/vFllwLd.png"
-  },
-  {
-    "site_id": "dvb://233a..56d2",
-    "name": "Challenge",
-    "lang": "en",
-    "xmltv_id": "Challenge.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2202.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_750600_1409_SD",
-    "name": "Sky Cinema Premiere",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaPremiere.uk@SD",
-    "logo": "https://i.imgur.com/Di39qLn.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_760136_5601_HD",
-    "name": "Cartoon Network HD",
-    "lang": "en",
-    "xmltv_id": "CartoonNetwork.uk@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772170_1875_SD",
-    "name": "Sky History",
-    "lang": "en",
-    "xmltv_id": "SkyHistory.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1875.png"
-  },
-  {
-    "site_id": "dvb://233a..3290",
-    "name": "TalkTV",
-    "lang": "en",
-    "xmltv_id": "TalkTV.uk@SD",
-    "logo": "https://i.imgur.com/KxHWpQB.png"
-  },
-  {
-    "site_id": "dvb://233a..4680",
-    "name": "BBC Four HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772614",
-    "name": "Utsav Gold HD",
-    "lang": "en",
-    "xmltv_id": "UtsavGold.in@HD",
-    "logo": "https://i.imgur.com/7pTZm9O.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_RBM61990_1147_SD",
-    "name": "Sky Kids",
-    "lang": "en",
-    "xmltv_id": "SkyKids.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1147.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_770512",
-    "name": "Netflix",
-    "lang": "en",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/netflix-int.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_771058_2304_HD",
-    "name": "GOLD HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "dvb://233a..6cc0",
-    "name": "Hobby Maker",
-    "lang": "en",
-    "xmltv_id": "HobbyMaker.uk@SD",
-    "logo": "https://i.imgur.com/VWHp5Tl.png"
-  },
-  {
-    "site_id": "dvb://233a..2066",
-    "name": "ITV3",
-    "lang": "en",
-    "xmltv_id": "ITV3.uk@SD",
-    "logo": "https://i.imgur.com/JuyM2z5.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767454",
-    "name": "TNT Sports 5 HD",
-    "lang": "en",
-    "xmltv_id": "TNTSports5.uk@HD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true"
-  },
-  {
-    "site_id": "dvb://233a..3fce",
-    "name": "Mech +",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_758027_1001_HD",
-    "name": "Sky Cinema Action HD",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaAction.uk@HD",
-    "logo": "https://i.imgur.com/2JjZG7g.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772384",
-    "name": "Sky Sports Box Office 2 HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "dvb://233a..8200",
-    "name": "POP",
-    "lang": "en",
-    "xmltv_id": "Pop.uk@SD",
-    "logo": "https://i.imgur.com/fGUlCY3.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772168_1194_SD",
-    "name": "Sky Nature",
-    "lang": "en",
-    "xmltv_id": "SkyNature.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_727785_1815_SD",
-    "name": "Sky Cinema Favourites",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_770161_1857_HD",
-    "name": "Nick Junior HD",
-    "lang": "en",
-    "xmltv_id": "NickJr.uk@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "dvb://233a..3ef0",
-    "name": "5ACTION",
-    "lang": "en",
-    "xmltv_id": "5Action.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/960px-5Action_logo.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..1100",
-    "name": "BBC News Channel",
-    "lang": "en",
-    "xmltv_id": "BBCNews.uk@Africa",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "dvb://233a..3298",
-    "name": "YAAAS!",
-    "lang": "en",
-    "xmltv_id": "YAAAS.uk",
-    "logo": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png"
-  },
-  {
-    "site_id": "dvb://233a..3834",
-    "name": "Blaze+1",
-    "lang": "en",
-    "xmltv_id": "Blaze.uk@Plus1",
-    "logo": "https://i.imgur.com/6UcPWP9.png"
-  },
-  {
-    "site_id": "dvb://233a..8240",
-    "name": "POP MAX",
-    "lang": "en",
-    "xmltv_id": "PopMax.uk@SD",
-    "logo": "https://i.imgur.com/Z7XTTod.png"
-  },
-  {
-    "site_id": "dvb://233a..6d40",
-    "name": "PBS America",
-    "lang": "en",
-    "xmltv_id": "PBSAmerica.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PBS_America_2022.svg/960px-PBS_America_2022.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..6ea0",
-    "name": "GREAT! movies extra",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_758026_1002_HD",
-    "name": "Sky Cinema Comedy HD",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaComedy.uk@HD",
-    "logo": "https://i.imgur.com/Gd9DuRH.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_768064_1303_SD",
-    "name": "Sky Sports Premier League",
-    "lang": "en",
-    "xmltv_id": "SkySportsPremierLeague.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png"
-  },
-  {
-    "site_id": "dvb://233a..6b00",
-    "name": "Together TV",
-    "lang": "en",
-    "xmltv_id": "TogetherTV.uk@SD",
-    "logo": "https://i.imgur.com/wf62HhM.png"
-  },
-  {
-    "site_id": "dvb://233a..6ec0",
-    "name": "GREAT! tv +1",
-    "lang": "en",
-    "xmltv_id": "GREATtv.uk@Plus1",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4266.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_750608_1857_SD",
-    "name": "Nick Junior",
-    "lang": "en",
-    "xmltv_id": "NickJr.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772612_1039_SD",
-    "name": "NBC News Now",
-    "lang": "en",
-    "xmltv_id": "NBCNewsNOW.us@SD",
-    "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png"
-  },
-  {
-    "site_id": "dvb://233a..3878",
-    "name": "True Crime Xtra",
-    "lang": "en",
-    "xmltv_id": "TrueCrimeXtra.uk",
-    "logo": "https://i.imgur.com/17govRf.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_763999",
-    "name": "TNT Sports 1 HD",
-    "lang": "en",
-    "xmltv_id": "TNTSports1.uk@HD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_768613",
-    "name": "TNT Sports 3 HD",
-    "lang": "en",
-    "xmltv_id": "TNTSports3.uk@HD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true"
-  },
-  {
-    "site_id": "dvb://233a..6d60",
-    "name": "HGTV",
-    "lang": "en",
-    "xmltv_id": "HGTV.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..56c0",
-    "name": "Sky Mix",
-    "lang": "en",
-    "xmltv_id": "SkyMix.uk@SD",
-    "logo": "https://i.imgur.com/hHEz5rq.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_771438_4091_HD",
-    "name": "Sky Sports Mix HD",
-    "lang": "en",
-    "xmltv_id": "SkySportsMix.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png"
-  },
-  {
-    "site_id": "dvb://233a..11c0",
-    "name": "BBC Four",
-    "lang": "en",
-    "xmltv_id": "BBCFour.uk@UK",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..32c0",
-    "name": "5USA",
-    "lang": "en",
-    "xmltv_id": "5USA.uk@SD",
-    "logo": "https://i.imgur.com/Pi7so2l.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_763478",
-    "name": "Eurosport 2 HD",
-    "lang": "en",
-    "xmltv_id": "Eurosport2.fr@UKHD",
-    "logo": "https://i.imgur.com/f56dHgR.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772171_1194_HD",
-    "name": "Sky Nature HD",
-    "lang": "en",
-    "xmltv_id": "SkyNature.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772613_1039_HD",
-    "name": "NBC News Now HD",
-    "lang": "en",
-    "xmltv_id": "NBCNewsNOW.us@HD",
-    "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_751764_1849_SD",
-    "name": "Nicktoons",
-    "lang": "en",
-    "xmltv_id": "Nicktoons.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767935",
-    "name": "TNT Sports 7",
-    "lang": "en",
-    "xmltv_id": "TNTSports7.uk@SD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-7-uk.png?raw=true"
-  },
-  {
-    "site_id": "dvb://233a..2094",
-    "name": "ITVBe",
-    "lang": "en",
-    "xmltv_id": "ITVBe.uk@SD",
-    "logo": "https://i.imgur.com/98U4KjU.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772175_1198_HD",
-    "name": "Sky Cinema Animation HD",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaAnimation.uk@HD",
-    "logo": "https://i.imgur.com/oWQ5qan.png"
-  },
-  {
-    "site_id": "dvb://233a..3ad8",
-    "name": "On Demand 365",
-    "lang": "en"
-  },
-  {
-    "site_id": "dvb://233a..6aa0",
-    "name": "GREAT! Christmas",
-    "lang": "en",
-    "xmltv_id": "GREATromance.uk@UK",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png"
-  },
-  {
-    "site_id": "dvb://233a..20fa",
-    "name": "More 4",
-    "lang": "en",
-    "xmltv_id": "More4.uk@SD",
-    "logo": "https://i.imgur.com/cx5YcAU.png"
-  },
-  {
-    "site_id": "dvb://233a..82c0",
-    "name": "Tiny Pop",
-    "lang": "en",
-    "xmltv_id": "TinyPop.uk@SD",
-    "logo": "https://i.imgur.com/zCTf71x.png"
-  },
-  {
-    "site_id": "dvb://233a..3870",
-    "name": "True Crime",
-    "lang": "en",
-    "xmltv_id": "TrueCrime.uk",
-    "logo": "https://i.imgur.com/LK2NFst.png"
-  },
-  {
-    "site_id": "dvb://233a..4480",
-    "name": "BBC One London HD",
-    "lang": "en",
-    "xmltv_id": "BBCOne.uk@LondonHD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_255_1402_SD",
-    "name": "Sky Max",
-    "lang": "en",
-    "xmltv_id": "SkyMax.uk@SD",
-    "logo": "https://i.imgur.com/yGZnTh7.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_751621_1354_SD",
-    "name": "Sky Sports Racing",
-    "lang": "en",
-    "xmltv_id": "SkySportsRacing.uk@UK",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1354.png"
-  },
-  {
-    "site_id": "dvb://233a..5a00",
-    "name": "Food Network",
-    "lang": "en",
-    "xmltv_id": "FoodNetwork.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png"
-  },
-  {
-    "site_id": "dvb://233a..6ac0",
-    "name": "QUEST",
-    "lang": "en",
-    "xmltv_id": "Quest.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb6761.png"
-  },
-  {
-    "site_id": "dvb://233a..4700",
-    "name": "CBeebies HD",
-    "lang": "en",
-    "xmltv_id": "CBeebies.uk@HD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_758174_2505_HD",
-    "name": "Sky Sci-Fi HD",
-    "lang": "en",
-    "xmltv_id": "SkySciFi.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2505.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_759443_1846_HD",
-    "name": "Nickelodeon HD",
-    "lang": "en",
-    "xmltv_id": "Nickelodeon.uk@HD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_764001",
-    "name": "TNT Sports 2",
-    "lang": "en",
-    "xmltv_id": "TNTSports2.uk@SD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true"
-  },
-  {
-    "site_id": "dvb://233a..5cc0",
-    "name": "Quest Red",
-    "lang": "en",
-    "xmltv_id": "QuestRed.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb2411.png"
-  },
-  {
-    "site_id": "dvb://233a..3880",
-    "name": "WildEarth",
-    "lang": "en",
-    "xmltv_id": "WildEarth.uk@SD",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_727783_1808_SD",
-    "name": "Sky Cinema Family",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaFamily.uk@SD",
-    "logo": "https://i.imgur.com/vKZSotN.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_RBM61991_1147_HD",
-    "name": "Sky Kids HD",
-    "lang": "en",
-    "xmltv_id": "SkyKids.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1147.png"
-  },
-  {
-    "site_id": "dvb://233a..5760",
-    "name": "E4 Extra",
-    "lang": "en",
-    "xmltv_id": "E4Extra.uk@SD",
-    "logo": "https://i.imgur.com/vA2j0YP.png"
-  },
-  {
-    "site_id": "dvb://233a..3e50",
-    "name": "ITV2 +1",
-    "lang": "en",
-    "xmltv_id": "ITV2.uk@Plus1",
-    "logo": "https://i.imgur.com/2BpUK0W.png"
-  },
-  {
-    "site_id": "dvb://233a..32d0",
-    "name": "Dave Ja Vu",
-    "lang": "en",
-    "xmltv_id": "UDaveJaVu.uk",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2320.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_154279_2201_SD",
-    "name": "Sky Witness",
-    "lang": "en",
-    "xmltv_id": "SkyWitness.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2201.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_753644_1212_SD",
-    "name": "Sky Crime",
-    "lang": "en",
-    "xmltv_id": "SkyCrime.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2207.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_759054_1404_HD",
-    "name": "Sky News HD",
-    "lang": "en",
-    "xmltv_id": "SkyNews.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"
-  },
-  {
-    "site_id": "dvb://233a..3f50",
-    "name": "Drama",
-    "lang": "en",
-    "xmltv_id": "UDrama.uk",
-    "logo": "https://i.imgur.com/cGBJx59.png"
-  },
-  {
-    "site_id": "dvb://233a..4440",
-    "name": "BBC Two HD",
-    "lang": "en",
-    "xmltv_id": "BBCTwo.uk@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..1140",
-    "name": "BBC Red Button",
+    "site_id": "dvb://233a..1c00",
+    "name": "BBC RB 1",
     "lang": "en",
     "xmltv_id": "BBCRedButton1.uk@SD",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2051.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_756532_1301_HD",
-    "name": "Sky Sports Main Event HD",
-    "lang": "en",
-    "xmltv_id": "SkySportsMainEvent.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_759077_2510_HD",
-    "name": "Comedy Central HD",
-    "lang": "en",
-    "xmltv_id": "ComedyCentral.uk@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772169_1127_SD",
-    "name": "Sky Documentaries",
-    "lang": "en",
-    "xmltv_id": "SkyDocumentaries.uk@SD",
-    "logo": "https://i.imgur.com/bCJZZo6.png"
-  },
-  {
-    "site_id": "dvb://233a..6ee0",
-    "name": "GREAT! Christmas mix",
-    "lang": "en"
   },
   {
     "site_id": "dvb://233a..2100",
@@ -674,571 +14,23 @@
     "logo": "https://i.imgur.com/22MfjF4.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_759963_1306_SD",
-    "name": "Sky Sports F1",
-    "lang": "en",
-    "xmltv_id": "SkySportsF1.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png"
-  },
-  {
-    "site_id": "dvb://233a..44c4",
-    "name": "ITV1 HD",
-    "lang": "en",
-    "xmltv_id": "ITV1.uk@London",
-    "logo": "https://i.imgur.com/xwPekCF.png"
-  },
-  {
-    "site_id": "dvb://233a..1280",
-    "name": "BBC Parliament",
-    "lang": "en",
-    "xmltv_id": "BBCParliament.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_157644_5601_SD",
-    "name": "Cartoon Network",
-    "lang": "en",
-    "xmltv_id": "CartoonNetwork.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..4f20",
-    "name": "5Select",
-    "lang": "en",
-    "xmltv_id": "5SELECT.uk@SD",
-    "logo": "https://i.imgur.com/WJ9xR6l.png"
-  },
-  {
-    "site_id": "dvb://233a..64c0",
-    "name": "Yesterday",
-    "lang": "en",
-    "xmltv_id": "UYesterday.uk",
-    "logo": "https://i.imgur.com/r3pqSHl.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_768612",
-    "name": "TNT Sports 3",
-    "lang": "en",
-    "xmltv_id": "TNTSports3.uk@SD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_770332_4091_SD",
-    "name": "Sky Sports Mix",
-    "lang": "en",
-    "xmltv_id": "SkySportsMix.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772314",
-    "name": "Zee TV HD",
-    "lang": "en",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-tv-hd-in.png"
-  },
-  {
-    "site_id": "dvb://233a..6a20",
-    "name": "GREAT! tv",
-    "lang": "en",
-    "xmltv_id": "GREATtv.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4266.png"
-  },
-  {
-    "site_id": "dvb://233a..6a60",
-    "name": "EarthxTV",
-    "lang": "en",
-    "xmltv_id": "EarthxTV.us@SD",
-    "logo": "https://i.imgur.com/ZWWqiCb.png"
-  },
-  {
-    "site_id": "dvb://233a..210a",
-    "name": "E4+1",
-    "lang": "en",
-    "xmltv_id": "E4.uk@Plus1",
-    "logo": "https://i.imgur.com/22MfjF4.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_758466",
-    "name": "TNT Sports 4 HD",
-    "lang": "en",
-    "xmltv_id": "TNTSports4.uk@HD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_764003",
-    "name": "TNT Sports 2 HD",
-    "lang": "en",
-    "xmltv_id": "TNTSports2.uk@HD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true"
-  },
-  {
-    "site_id": "dvb://233a..6ce0",
-    "name": "GREAT! movies",
-    "lang": "en",
-    "xmltv_id": "GREATmovies.uk@UK",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png"
-  },
-  {
-    "site_id": "dvb://233a..5800",
-    "name": "4seven",
-    "lang": "en",
-    "xmltv_id": "4seven.uk@SD",
-    "logo": "https://i.imgur.com/Fpaxyop.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_769621_5609_HD",
-    "name": "Boomerang HD",
-    "lang": "en",
-    "xmltv_id": "Boomerang.uk@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..5d60",
-    "name": "That's 90s",
-    "lang": "en",
-    "xmltv_id": "Thats90s.uk@SD",
-    "logo": "https://i.imgur.com/6mwtpRD.png"
-  },
-  {
-    "site_id": "dvb://233a..6ae0",
-    "name": "GB News",
-    "lang": "en",
-    "xmltv_id": "GBNews.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..1200",
-    "name": "CBBC",
-    "lang": "en",
-    "xmltv_id": "CBBC.uk@SD",
-    "logo": "https://i.imgur.com/tk8G4CU.png"
-  },
-  {
-    "site_id": "dvb://233a..2045",
-    "name": "ITV1 London",
-    "lang": "en",
-    "xmltv_id": "ITV1.uk@London",
-    "logo": "https://i.imgur.com/xwPekCF.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_727788_1814_HD",
-    "name": "Sky Cinema Hits HD",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaHits.uk@SD",
-    "logo": "https://i.imgur.com/6qYnSaA.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_756518_1752_HD",
-    "name": "Sky Arts HD",
-    "lang": "en",
-    "xmltv_id": "SkyArts.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1752.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_771052_3838_SD",
-    "name": "Sky Sports Football",
-    "lang": "en",
-    "xmltv_id": "SkySportsFootball.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772488_1276_HD",
-    "name": "Sky Showcase HD",
-    "lang": "en",
-    "xmltv_id": "SkyShowcase.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1276.png"
-  },
-  {
-    "site_id": "dvb://233a..1c00",
-    "name": "BBC RB 1",
-    "lang": "en",
-    "xmltv_id": "BBCRedButton1.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2051.png"
-  },
-  {
-    "site_id": "dvb://233a..5a70",
-    "name": "That's Christmas",
-    "lang": "en",
-    "xmltv_id": "Thats70s.uk@SD",
-    "logo": "https://i.imgur.com/j2q53JQ.png"
-  },
-  {
-    "site_id": "dvb://233a..5ca0",
-    "name": "Really",
-    "lang": "en",
-    "xmltv_id": "Really.uk@SD",
-    "logo": "https://i.imgur.com/lY5sFgo.png"
-  },
-  {
-    "site_id": "dvb://233a..32e0",
-    "name": "Channel 5+1",
-    "lang": "en",
-    "xmltv_id": "Channel5.uk@Plus1",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png"
-  },
-  {
-    "site_id": "dvb://233a..5740",
-    "name": "Drama+1",
+    "site_id": "dvb://233a..5780",
+    "name": "ADULT smileTV3",
     "lang": "en"
   },
   {
-    "site_id": "http://bds.tv/services/BT_750602_1816_SD",
-    "name": "Sky Cinema Christmas",
+    "site_id": "http://bds.tv/services/BT_772169_1127_SD",
+    "name": "Sky Documentaries",
     "lang": "en",
-    "xmltv_id": "SkyCinemaDrama.uk",
-    "logo": "https://i.imgur.com/bCVpVKE.png"
+    "xmltv_id": "SkyDocumentaries.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-documentaries-uk.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_767461",
-    "name": "TNT Sports 10 HD",
+    "site_id": "dvb://233a..4480",
+    "name": "BBC One London HD",
     "lang": "en",
-    "xmltv_id": "TNTSports10.uk@HD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-10-uk.png?raw=true"
-  },
-  {
-    "site_id": "dvb://233a..10bf",
-    "name": "BBC Two England",
-    "lang": "en",
-    "xmltv_id": "BBCTwo.uk@England",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..2134",
-    "name": "Channel 5",
-    "lang": "en",
-    "xmltv_id": "Channel5.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_397065_1333_SD",
-    "name": "Sky Sports NFL",
-    "lang": "en",
-    "xmltv_id": "SkySportsNFL.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_750989_2510_SD",
-    "name": "Comedy Central",
-    "lang": "en",
-    "xmltv_id": "ComedyCentral.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_763997",
-    "name": "TNT Sports 1",
-    "lang": "en",
-    "xmltv_id": "TNTSports1.uk@SD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767460",
-    "name": "TNT Sports 9 HD",
-    "lang": "en",
-    "xmltv_id": "TNTSports9.uk@HD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-9-uk.png?raw=true"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772313",
-    "name": "Sony Max HD",
-    "lang": "en",
-    "xmltv_id": "SonyMax.uk@HD",
-    "logo": "https://i.imgur.com/LBICKI5.png"
-  },
-  {
-    "site_id": "dvb://233a..1044",
-    "name": "BBC One London",
-    "lang": "en",
-    "xmltv_id": "BBCOne.uk@London",
+    "xmltv_id": "BBCOne.uk@LondonHD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_771075_3839_HD",
-    "name": "Sky Sports Arena HD",
-    "lang": "en",
-    "xmltv_id": "SkySportsArena.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png"
-  },
-  {
-    "site_id": "dvb://233a..20a9",
-    "name": "ITV1 +1 London",
-    "lang": "en",
-    "xmltv_id": "ITV1.uk@LondonPlus1",
-    "logo": "https://i.imgur.com/xwPekCF.png"
-  },
-  {
-    "site_id": "dvb://233a..5d40",
-    "name": "Yesterday+1",
-    "lang": "en"
-  },
-  {
-    "site_id": "dvb://233a..6d00",
-    "name": "ADULT Babestn",
-    "lang": "en",
-    "xmltv_id": "Babestation.uk@SD",
-    "logo": "https://i.imgur.com/Rcr0XF0.png"
-  },
-  {
-    "site_id": "dvb://233a..6540",
-    "name": "Ideal World",
-    "lang": "en",
-    "xmltv_id": "IdealWorldTV.uk@SD",
-    "logo": "https://i.imgur.com/su6GH7i.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_759409_1412_SD",
-    "name": "Sky Atlantic",
-    "lang": "en",
-    "xmltv_id": "SkyAtlantic.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1412.png"
-  },
-  {
-    "site_id": "dvb://233a..46c0",
-    "name": "CBBC HD",
-    "lang": "en",
-    "xmltv_id": "CBBC.uk@HD",
-    "logo": "https://i.imgur.com/tk8G4CU.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772173_1875_HD",
-    "name": "Sky History HD",
-    "lang": "en",
-    "xmltv_id": "SkyHistory.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1875.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772065_1212_HD",
-    "name": "Sky Crime HD",
-    "lang": "en",
-    "xmltv_id": "SkyCrime.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2207.png"
-  },
-  {
-    "site_id": "dvb://233a..4600",
-    "name": "BBC Three HD",
-    "lang": "en",
-    "xmltv_id": "BBCThree.uk@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..2104",
-    "name": "Channel 4 +1",
-    "lang": "en"
-  },
-  {
-    "site_id": "dvb://233a..3280",
-    "name": "5STAR",
-    "lang": "en",
-    "xmltv_id": "5STAR.uk@SD",
-    "logo": "https://i.imgur.com/PI11s9s.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_727787_1811_SD",
-    "name": "Sky Cinema Best of 2023",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaSelect.uk",
-    "logo": "https://i.imgur.com/l97n20v.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_768397",
-    "name": "TNT Sports Ultimate",
-    "lang": "en",
-    "xmltv_id": "TNTSportsUltimate.uk@SD",
-    "logo": "https://i.imgur.com/fAyvqdH.png"
-  },
-  {
-    "site_id": "dvb://233a..3ce8",
-    "name": "TJC",
-    "lang": "en",
-    "xmltv_id": "TJC.uk@SD",
-    "logo": "https://i.imgur.com/fk5rEje.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_750598_1322_SD",
-    "name": "Sky Sports Golf",
-    "lang": "en",
-    "xmltv_id": "SkySportsGolf.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_750973_1752_SD",
-    "name": "Sky Arts.",
-    "lang": "en",
-    "xmltv_id": "SkyArts.uk",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1752.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_756787",
-    "name": "Discovery HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767938",
-    "name": "TNT Sports 10",
-    "lang": "en",
-    "xmltv_id": "TNTSports10.uk@SD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-10-uk.png?raw=true"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_91_1002_SD",
-    "name": "Sky Cinema Comedy",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaComedy.uk@SD",
-    "logo": "https://i.imgur.com/Gd9DuRH.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_755657_1402_HD",
-    "name": "Sky Max HD",
-    "lang": "en",
-    "xmltv_id": "SkyMax.uk@HD",
-    "logo": "https://i.imgur.com/yGZnTh7.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_760101",
-    "name": "EE TV Preview",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_756491_1818_SD",
-    "name": "Sky Cinema Thriller",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaThriller.uk@SD",
-    "logo": "https://i.imgur.com/4Z1oKde.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_771051_3839_SD",
-    "name": "Sky Sports Arena",
-    "lang": "en",
-    "xmltv_id": "SkySportsArena.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_771076_3838_HD",
-    "name": "Sky Sports Football HD",
-    "lang": "en",
-    "xmltv_id": "SkySportsFootball.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772172_1127_HD",
-    "name": "Sky Documentaries HD",
-    "lang": "en",
-    "xmltv_id": "SkyDocumentaries.uk@HD",
-    "logo": "https://i.imgur.com/bCJZZo6.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772174_1198_SD",
-    "name": "Sky Cinema Animation",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaAnimation.uk@SD",
-    "logo": "https://i.imgur.com/oWQ5qan.png"
-  },
-  {
-    "site_id": "dvb://233a..5b20",
-    "name": "Create \u0026 Craft",
-    "lang": "en",
-    "xmltv_id": "CreateandCraft.uk@SD",
-    "logo": "https://i.imgur.com/n65sk4L.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_757355_1409_HD",
-    "name": "Sky Cinema Premiere HD",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaPremiere.uk@HD",
-    "logo": "https://i.imgur.com/Di39qLn.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767933",
-    "name": "TNT Sports 5",
-    "lang": "en",
-    "xmltv_id": "TNTSports5.uk@SD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true"
-  },
-  {
-    "site_id": "dvb://233a..8540",
-    "name": "Legend Xtra",
-    "lang": "en",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/legend-xtra-uk.png"
-  },
-  {
-    "site_id": "dvb://233a..32a0",
-    "name": "POP Player",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_81523_2304_SD",
-    "name": "GOLD",
-    "lang": "en",
-    "xmltv_id": "UGold.uk",
-    "logo": "https://i.imgur.com/SUwg1sn.png"
-  },
-  {
-    "site_id": "dvb://233a..3e30",
-    "name": "ITV4 +1",
-    "lang": "en",
-    "xmltv_id": "ITV4.uk@Plus1",
-    "logo": "https://i.imgur.com/DYI4IA2.png"
-  },
-  {
-    "site_id": "dvb://233a..5f80",
-    "name": "Gems TV",
-    "lang": "en",
-    "xmltv_id": "GemsTV.uk@SD",
-    "logo": "https://i.imgur.com/WgaJufI.png"
-  },
-  {
-    "site_id": "dvb://233a..5700",
-    "name": "Dave",
-    "lang": "en",
-    "xmltv_id": "UDave.uk",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_750611",
-    "name": "Eurosport 1",
-    "lang": "en",
-    "xmltv_id": "Eurosport1.fr@UK",
-    "logo": "https://i.imgur.com/olQJgm7.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_755087_1818_HD",
-    "name": "Sky Cinema Thriller HD",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaThriller.uk@HD",
-    "logo": "https://i.imgur.com/4Z1oKde.png"
-  },
-  {
-    "site_id": "dvb://233a..6a40",
-    "name": "Jewellery Maker",
-    "lang": "en",
-    "xmltv_id": "JewelleryMaker.uk@SD",
-    "logo": "https://i.imgur.com/O7SdkBh.png"
-  },
-  {
-    "site_id": "dvb://233a..2085",
-    "name": "ITV2",
-    "lang": "en",
-    "xmltv_id": "ITV2.uk@SD",
-    "logo": "https://i.imgur.com/2BpUK0W.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_750650_5609_SD",
-    "name": "Boomerang",
-    "lang": "en",
-    "xmltv_id": "Boomerang.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_757365_1333_HD",
-    "name": "Sky Sports NFL HD",
-    "lang": "en",
-    "xmltv_id": "SkySportsNFL.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767459",
-    "name": "TNT Sports 8 HD",
-    "lang": "en",
-    "xmltv_id": "TNTSports8.uk@HD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-8-uk.png?raw=true"
   },
   {
     "site_id": "http://bds.tv/services/BT_768067_1303_HD",
@@ -1250,33 +42,183 @@
   {
     "site_id": "dvb://233a..4500",
     "name": "Channel 4 HD",
+    "lang": "en",
+    "xmltv_id": "Channel4.uk@UK"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_757355_1409_HD",
+    "name": "Sky Cinema Premiere HD",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaPremiere.uk@HD",
+    "logo": "https://i.imgur.com/Di39qLn.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_758466",
+    "name": "TNT Sports 4 HD",
+    "lang": "en",
+    "xmltv_id": "TNTSports4.uk@HD",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true"
+  },
+  {
+    "site_id": "dvb://233a..6e40",
+    "name": "Talking Pictures TV",
+    "lang": "en",
+    "xmltv_id": "TalkingPicturesTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..2134",
+    "name": "Channel 5",
+    "lang": "en",
+    "xmltv_id": "Channel5.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/channel-5-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..3ad8",
+    "name": "On Demand 365",
     "lang": "en"
   },
   {
-    "site_id": "dvb://233a..5680",
-    "name": "Sky Arts",
+    "site_id": "dvb://233a..6a40",
+    "name": "Jewellery Maker",
     "lang": "en",
-    "xmltv_id": "SkyArts.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1752.png"
+    "xmltv_id": "JewelleryMaker.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/jewellery-maker-uk.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_509198_3825_SD",
-    "name": "Alibi",
+    "site_id": "http://bds.tv/services/BT_81523_2304_SD",
+    "name": "GOLD",
     "lang": "en",
-    "xmltv_id": "UAlibi.uk",
-    "logo": "https://i.imgur.com/uazjv8g.png"
+    "xmltv_id": "UGold.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/gold-uk.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_758029_1816_HD",
-    "name": "Sky Cinema Christmas HD",
+    "site_id": "http://bds.tv/services/BT_727785_1815_SD",
+    "name": "Sky Cinema Favourites",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaSalvation.uk@SD"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_770161_1857_HD",
+    "name": "Nick Junior HD",
+    "lang": "en",
+    "xmltv_id": "NickJr.uk@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "dvb://233a..1044",
+    "name": "BBC One London",
+    "lang": "en",
+    "xmltv_id": "BBCOne.uk@London",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
+  },
+  {
+    "site_id": "dvb://233a..2085",
+    "name": "ITV2",
+    "lang": "en",
+    "xmltv_id": "ITV2.uk@SD",
+    "logo": "https://i.imgur.com/2BpUK0W.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_318488_2505_SD",
+    "name": "Sky Sci-Fi",
+    "lang": "en",
+    "xmltv_id": "SkySciFi.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sci-fi-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_756532_1301_HD",
+    "name": "Sky Sports Main Event HD",
+    "lang": "en",
+    "xmltv_id": "SkySportsMainEvent.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_759443_1846_HD",
+    "name": "Nickelodeon HD",
+    "lang": "en",
+    "xmltv_id": "Nickelodeon.uk@HD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "dvb://233a..20a9",
+    "name": "ITV1 +1 London",
+    "lang": "en",
+    "xmltv_id": "ITV1.uk@LondonPlus1",
+    "logo": "https://i.imgur.com/xwPekCF.png"
+  },
+  {
+    "site_id": "dvb://233a..2045",
+    "name": "ITV1 London",
+    "lang": "en",
+    "xmltv_id": "ITV1.uk@London",
+    "logo": "https://i.imgur.com/xwPekCF.png"
+  },
+  {
+    "site_id": "dvb://233a..6ae0",
+    "name": "GB News",
+    "lang": "en",
+    "xmltv_id": "GBNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/gb-news-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_91_1002_SD",
+    "name": "Sky Cinema Comedy",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaComedy.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_756491_1818_SD",
+    "name": "Sky Cinema Thriller",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaThriller.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_764001",
+    "name": "TNT Sports 2",
+    "lang": "en",
+    "xmltv_id": "TNTSports2.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..4ec0",
+    "name": "TBN UK",
+    "lang": "en",
+    "xmltv_id": "TBNUK.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tbn-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..32a0",
+    "name": "POP Player",
     "lang": "en"
   },
   {
-    "site_id": "dvb://233a..3830",
-    "name": "Blaze",
+    "site_id": "dvb://233a..1240",
+    "name": "CBeebies",
     "lang": "en",
-    "xmltv_id": "Blaze.uk@SD",
-    "logo": "https://i.imgur.com/6UcPWP9.png"
+    "xmltv_id": "CBeebies.uk@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "dvb://233a..4600",
+    "name": "BBC Three HD",
+    "lang": "en",
+    "xmltv_id": "BBCThree.uk@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_154279_2201_SD",
+    "name": "Sky Witness",
+    "lang": "en",
+    "xmltv_id": "SkyWitness.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-witness-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_771750_1354_HD",
+    "name": "Sky Sports Racing HD",
+    "lang": "en"
   },
   {
     "site_id": "dvb://233a..3850",
@@ -1286,218 +228,112 @@
     "logo": "https://i.imgur.com/ZBHtqk1.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_760040_3825_HD",
-    "name": "Alibi HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "dvb://233a..5780",
-    "name": "ADULT smileTV3",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_758727_1811_HD",
-    "name": "Sky Cinema Best of 2023 HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772057_1177_SD",
-    "name": "Sky Comedy",
+    "site_id": "dvb://233a..3878",
+    "name": "True Crime Xtra",
     "lang": "en",
-    "xmltv_id": "SkyComedy.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/960px-Sky_Comedy_logo_2020.svg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/true-crime-xtra-uk.png"
   },
   {
-    "site_id": "dvb://233a..3f48",
-    "name": "KetchupTv",
+    "site_id": "http://bds.tv/services/BT_772612_1039_SD",
+    "name": "NBC News Now",
     "lang": "en",
-    "xmltv_id": "KetchupTV.us@SD",
-    "logo": "https://i.imgur.com/XRGioQX.png"
+    "xmltv_id": "NBCNewsNOW.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nbc-news-now-us.png"
   },
   {
-    "site_id": "dvb://233a..10c0",
-    "name": "BBC Three",
+    "site_id": "dvb://233a..5cc0",
+    "name": "Quest Red",
     "lang": "en",
-    "xmltv_id": "BBCThree.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png"
-  },
-  {
-    "site_id": "dvb://233a..4540",
-    "name": "Channel 5 HD",
-    "lang": "en",
-    "xmltv_id": "Channel5.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_727786_1807_SD",
-    "name": "Sky Cinema Sci-Fi \u0026 Horror",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaSciFiHorror.uk@SD",
-    "logo": "https://i.imgur.com/Plz70jD.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_755542_1371_SD",
-    "name": "Cartoonito",
-    "lang": "en",
-    "xmltv_id": "Cartoonito.uk@SD",
-    "logo": "https://i.imgur.com/B29D2s1.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_758030_1807_HD",
-    "name": "Sky Cinema Sci-Fi \u0026 Horror HD",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaSciFiHorror.uk@HD",
-    "logo": "https://i.imgur.com/Plz70jD.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767937",
-    "name": "TNT Sports 9",
-    "lang": "en",
-    "xmltv_id": "TNTSports9.uk@SD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-9-uk.png?raw=true"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_771276",
-    "name": "TNT Sports Box Office HD",
-    "lang": "en",
-    "xmltv_id": "TNTSportsBoxOffice.uk@HD",
-    "logo": "https://i.imgur.com/I3XB6LS.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772315",
-    "name": "Zee Cinema HD",
-    "lang": "en",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-cinema-hd-in.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_92_1001_SD",
-    "name": "Sky Cinema Action",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaAction.uk@SD",
-    "logo": "https://i.imgur.com/2JjZG7g.png"
-  },
-  {
-    "site_id": "dvb://233a..3898",
-    "name": "TCC",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_57005_2501_SD",
-    "name": "MTV",
-    "lang": "en",
-    "xmltv_id": "MTV.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_318488_2505_SD",
-    "name": "Sky Sci-Fi",
-    "lang": "en",
-    "xmltv_id": "SkySciFi.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2505.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_756489_1814_SD",
-    "name": "Sky Cinema Hits",
-    "lang": "en",
-    "xmltv_id": "SkyCinemaHits.uk@SD",
-    "logo": "https://i.imgur.com/6qYnSaA.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_770515",
-    "name": "Prime Video",
-    "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_750823",
-    "name": "Eurosport 2",
-    "lang": "en",
-    "xmltv_id": "Eurosport2.fr@UK",
-    "logo": "https://i.imgur.com/f56dHgR.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_771750_1354_HD",
-    "name": "Sky Sports Racing HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "dvb://233a..6d80",
-    "name": "That's 60s",
-    "lang": "en",
-    "xmltv_id": "Thats60s.uk@SD",
-    "logo": "https://i.imgur.com/kLLgU4N.png"
-  },
-  {
-    "site_id": "dvb://233a..6e40",
-    "name": "Talking Pictures TV",
-    "lang": "en",
-    "xmltv_id": "TalkingPicturesTV.uk@SD",
-    "logo": "https://i.imgur.com/S1zoIp7.png"
-  },
-  {
-    "site_id": "dvb://233a..3340",
-    "name": "QVC",
-    "lang": "en",
-    "xmltv_id": "QVC.uk@SD",
-    "logo": "https://i.imgur.com/6TWUVrh.png"
+    "xmltv_id": "QuestRed.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/quest-red-uk.png"
   },
   {
     "site_id": "dvb://233a..6c20",
     "name": "DMAX",
     "lang": "en",
     "xmltv_id": "DMAX.uk@UK",
-    "logo": "https://i.imgur.com/CDsoyjN.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dmax-uk.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_769095",
-    "name": "Sky Sports Box Office HD",
+    "site_id": "dvb://233a..6ce0",
+    "name": "GREAT! movies",
+    "lang": "en",
+    "xmltv_id": "GREATmovies.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-movies-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..20c1",
+    "name": "Film4",
+    "lang": "en",
+    "xmltv_id": "Film4.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/film4-hu.png"
+  },
+  {
+    "site_id": "dvb://233a..82c0",
+    "name": "Tiny Pop",
+    "lang": "en",
+    "xmltv_id": "TinyPop.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tiny-pop-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_727787_1811_SD",
+    "name": "Sky Cinema Best of 2023",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaSelect.uk",
+    "logo": "https://i.imgur.com/l97n20v.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_750602_1816_SD",
+    "name": "Sky Cinema Christmas",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sky-cinema-christmas-de.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_750611",
+    "name": "Eurosport 1",
+    "lang": "en",
+    "xmltv_id": "Eurosport1.fr@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
+  },
+  {
+    "site_id": "dvb://233a..3ef0",
+    "name": "5ACTION",
+    "lang": "en",
+    "xmltv_id": "5Action.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/960px-5Action_logo.svg.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772171_1194_HD",
+    "name": "Sky Nature HD",
+    "lang": "en",
+    "xmltv_id": "SkyNature.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772172_1127_HD",
+    "name": "Sky Documentaries HD",
+    "lang": "en",
+    "xmltv_id": "SkyDocumentaries.uk@HD",
+    "logo": "https://i.imgur.com/bCJZZo6.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772384",
+    "name": "Sky Sports Box Office 2 HD",
     "lang": "en"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_772066_1177_HD",
-    "name": "Sky Comedy HD",
-    "lang": "en",
-    "xmltv_id": "SkyComedy.uk@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/960px-Sky_Comedy_logo_2020.svg.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_503_1301_SD",
-    "name": "Sky Sports Main Event",
-    "lang": "en",
-    "xmltv_id": "SkySportsMainEvent.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_760134_1306_HD",
-    "name": "Sky Sports F1 HD",
-    "lang": "en",
-    "xmltv_id": "SkySportsF1.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_767934",
-    "name": "TNT Sports 6",
-    "lang": "en",
-    "xmltv_id": "TNTSports6.uk@SD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-6-uk.png?raw=true"
   },
   {
     "site_id": "http://bds.tv/services/BT_772487_1276_SD",
     "name": "Sky Showcase",
     "lang": "en",
     "xmltv_id": "SkyShowcase.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1276.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-showcase-uk.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_772615",
-    "name": "Sony TV HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "dvb://233a..3e90",
-    "name": "ITV3 +1",
+    "site_id": "http://bds.tv/services/BT_RBM61990_1147_SD",
+    "name": "Sky Kids",
     "lang": "en",
-    "xmltv_id": "ITV3.uk@Plus1",
-    "logo": "https://i.imgur.com/JuyM2z5.png"
+    "xmltv_id": "SkyKids.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-kids-uk.png"
   },
   {
     "site_id": "dvb://233a..6c00",
@@ -1507,18 +343,1128 @@
     "logo": "https://i.imgur.com/p4RR9GM.png"
   },
   {
+    "site_id": "http://bds.tv/services/BT_767460",
+    "name": "TNT Sports 9 HD",
+    "lang": "en",
+    "xmltv_id": "TNTSports9.uk@HD",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-9-uk.png?raw=true"
+  },
+  {
+    "site_id": "dvb://233a..208a",
+    "name": "ITV4",
+    "lang": "en",
+    "xmltv_id": "ITV4.uk@SD",
+    "logo": "https://i.imgur.com/DYI4IA2.png"
+  },
+  {
+    "site_id": "dvb://233a..1200",
+    "name": "CBBC",
+    "lang": "en",
+    "xmltv_id": "CBBC.uk@SD",
+    "logo": "https://i.imgur.com/tk8G4CU.png"
+  },
+  {
+    "site_id": "dvb://233a..3e90",
+    "name": "ITV3 +1",
+    "lang": "en",
+    "xmltv_id": "ITV3.uk@Plus1",
+    "logo": "https://i.imgur.com/JuyM2z5.png"
+  },
+  {
+    "site_id": "dvb://233a..10c0",
+    "name": "BBC Three",
+    "lang": "en",
+    "xmltv_id": "BBCThree.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-three-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..5640",
+    "name": "Sky News",
+    "lang": "en",
+    "xmltv_id": "SkyNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-news-uk-au.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767937",
+    "name": "TNT Sports 9",
+    "lang": "en",
+    "xmltv_id": "TNTSports9.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-9-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_771052_3838_SD",
+    "name": "Sky Sports Football",
+    "lang": "en",
+    "xmltv_id": "SkySportsFootball.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_771058_2304_HD",
+    "name": "GOLD HD",
+    "lang": "en",
+    "xmltv_id": "UGold.uk"
+  },
+  {
+    "site_id": "dvb://233a..11c0",
+    "name": "BBC Four",
+    "lang": "en",
+    "xmltv_id": "BBCFour.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-four-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_223160_1302_SD",
+    "name": "Sky Sports Cricket",
+    "lang": "en",
+    "xmltv_id": "SkySportsCricket.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_769095",
+    "name": "Sky Sports Box Office HD",
+    "lang": "en",
+    "xmltv_id": "TNTSportsBoxOffice.uk@HD"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_750608_1857_SD",
+    "name": "Nick Junior",
+    "lang": "en",
+    "xmltv_id": "NickJr.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_751621_1354_SD",
+    "name": "Sky Sports Racing",
+    "lang": "en",
+    "xmltv_id": "SkySportsRacing.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-racing-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_755087_1818_HD",
+    "name": "Sky Cinema Thriller HD",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaThriller.uk@HD",
+    "logo": "https://i.imgur.com/4Z1oKde.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_758174_2505_HD",
+    "name": "Sky Sci-Fi HD",
+    "lang": "en",
+    "xmltv_id": "SkySciFi.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2505.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_760040_3825_HD",
+    "name": "Alibi HD",
+    "lang": "en",
+    "xmltv_id": "UAlibi.uk"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_57005_2501_SD",
+    "name": "MTV",
+    "lang": "en",
+    "xmltv_id": "MTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/mtv-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_727783_1808_SD",
+    "name": "Sky Cinema Family",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaFamily.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_750598_1322_SD",
+    "name": "Sky Sports Golf",
+    "lang": "en",
+    "xmltv_id": "SkySportsGolf.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767457",
+    "name": "TNT Sports 7 HD",
+    "lang": "en",
+    "xmltv_id": "TNTSports7.uk@HD",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-7-uk.png?raw=true"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_771438_4091_HD",
+    "name": "Sky Sports Mix HD",
+    "lang": "en",
+    "xmltv_id": "SkySportsMix.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png"
+  },
+  {
+    "site_id": "dvb://233a..3fce",
+    "name": "Mech +",
+    "lang": "en"
+  },
+  {
+    "site_id": "dvb://233a..8200",
+    "name": "POP",
+    "lang": "en",
+    "xmltv_id": "Pop.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/pop-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..6540",
+    "name": "Ideal World",
+    "lang": "en",
+    "xmltv_id": "IdealWorldTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/ideal-world-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..3e30",
+    "name": "ITV4 +1",
+    "lang": "en",
+    "xmltv_id": "ITV4.uk@Plus1",
+    "logo": "https://i.imgur.com/DYI4IA2.png"
+  },
+  {
+    "site_id": "dvb://233a..5ca0",
+    "name": "Really",
+    "lang": "en",
+    "xmltv_id": "Really.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/really-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..56d2",
+    "name": "Challenge",
+    "lang": "en",
+    "xmltv_id": "Challenge.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/challenge-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..3290",
+    "name": "TalkTV",
+    "lang": "en",
+    "xmltv_id": "TalkTV.uk@SD",
+    "logo": "https://i.imgur.com/KxHWpQB.png"
+  },
+  {
+    "site_id": "dvb://233a..4700",
+    "name": "CBeebies HD",
+    "lang": "en",
+    "xmltv_id": "CBeebies.uk@HD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "dvb://233a..8240",
+    "name": "POP MAX",
+    "lang": "en",
+    "xmltv_id": "PopMax.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/pop-max-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_751764_1849_SD",
+    "name": "Nicktoons",
+    "lang": "en",
+    "xmltv_id": "Nicktoons.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_769621_5609_HD",
+    "name": "Boomerang HD",
+    "lang": "en",
+    "xmltv_id": "Boomerang.uk@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png"
+  },
+  {
+    "site_id": "dvb://233a..6d00",
+    "name": "ADULT Babestn",
+    "lang": "en",
+    "xmltv_id": "Babestation.uk@SD",
+    "logo": "https://i.imgur.com/Rcr0XF0.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_759235_1314_HD",
+    "name": "Sky Sports News HD",
+    "lang": "en",
+    "xmltv_id": "SkySportsNews.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_771075_3839_HD",
+    "name": "Sky Sports Arena HD",
+    "lang": "en",
+    "xmltv_id": "SkySportsArena.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772168_1194_SD",
+    "name": "Sky Nature",
+    "lang": "en",
+    "xmltv_id": "SkyNature.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-nature-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772314",
+    "name": "Zee TV HD",
+    "lang": "en",
+    "xmltv_id": "ZeeTVUK.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-tv-hd-in.png"
+  },
+  {
+    "site_id": "dvb://233a..3340",
+    "name": "QVC",
+    "lang": "en",
+    "xmltv_id": "QVC.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/qvc-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_608791",
+    "name": "Discovery",
+    "lang": "en",
+    "xmltv_id": "DiscoveryChannel.uk@UK",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_758026_1002_HD",
+    "name": "Sky Cinema Comedy HD",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaComedy.uk@HD",
+    "logo": "https://i.imgur.com/Gd9DuRH.png"
+  },
+  {
+    "site_id": "dvb://233a..3ce8",
+    "name": "TJC",
+    "lang": "en",
+    "xmltv_id": "TJC.uk@SD",
+    "logo": "https://i.imgur.com/fk5rEje.png"
+  },
+  {
+    "site_id": "dvb://233a..6ac0",
+    "name": "QUEST",
+    "lang": "en",
+    "xmltv_id": "Quest.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/quest-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..210a",
+    "name": "E4+1",
+    "lang": "en",
+    "xmltv_id": "E4.uk@Plus1",
+    "logo": "https://i.imgur.com/22MfjF4.png"
+  },
+  {
+    "site_id": "dvb://233a..1100",
+    "name": "BBC News Channel",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "dvb://233a..1280",
+    "name": "BBC Parliament",
+    "lang": "en",
+    "xmltv_id": "BBCParliament.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_758030_1807_HD",
+    "name": "Sky Cinema Sci-Fi \u0026 Horror HD",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaSciFiHorror.uk@HD",
+    "logo": "https://i.imgur.com/Plz70jD.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772175_1198_HD",
+    "name": "Sky Cinema Animation HD",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaAnimation.uk@HD",
+    "logo": "https://i.imgur.com/oWQ5qan.png"
+  },
+  {
+    "site_id": "dvb://233a..6a60",
+    "name": "EarthxTV",
+    "lang": "en",
+    "xmltv_id": "EarthxTV.us@SD",
+    "logo": "https://i.imgur.com/ZWWqiCb.png"
+  },
+  {
+    "site_id": "dvb://233a..3e50",
+    "name": "ITV2 +1",
+    "lang": "en",
+    "xmltv_id": "ITV2.uk@Plus1",
+    "logo": "https://i.imgur.com/2BpUK0W.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_770332_4091_SD",
+    "name": "Sky Sports Mix",
+    "lang": "en",
+    "xmltv_id": "SkySportsMix.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..3f50",
+    "name": "Drama",
+    "lang": "en",
+    "xmltv_id": "UDrama.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/drama-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..3890",
+    "name": "Legend",
+    "lang": "en",
+    "xmltv_id": "Legend.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/legend-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_771051_3839_SD",
+    "name": "Sky Sports Arena",
+    "lang": "en",
+    "xmltv_id": "SkySportsArena.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-arena-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_771076_3838_HD",
+    "name": "Sky Sports Football HD",
+    "lang": "en",
+    "xmltv_id": "SkySportsFootball.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772066_1177_HD",
+    "name": "Sky Comedy HD",
+    "lang": "en",
+    "xmltv_id": "SkyComedy.uk@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/960px-Sky_Comedy_logo_2020.svg.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_93_1404_SD",
+    "name": "Sky News.",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-news-au.png"
+  },
+  {
     "site_id": "http://bds.tv/services/BT_154274_1846_SD",
     "name": "Nickelodeon",
     "lang": "en",
     "xmltv_id": "Nickelodeon.uk@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/nickelodeon-uk.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_631679_1314_SD",
-    "name": "Sky Sports News",
+    "site_id": "http://bds.tv/services/BT_758547_2201_HD",
+    "name": "Sky Witness HD",
     "lang": "en",
-    "xmltv_id": "SkySportsNews.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png"
+    "xmltv_id": "SkyWitness.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2201.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_758727_1811_HD",
+    "name": "Sky Cinema Best of 2023 HD",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaSelect.uk"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767454",
+    "name": "TNT Sports 5 HD",
+    "lang": "en",
+    "xmltv_id": "TNTSports5.uk@HD",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_750989_2510_SD",
+    "name": "Comedy Central",
+    "lang": "en",
+    "xmltv_id": "ComedyCentral.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/comedy-central-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772313",
+    "name": "Sony Max HD",
+    "lang": "en",
+    "xmltv_id": "SonyMax.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/sony-max-hd-in.png"
+  },
+  {
+    "site_id": "dvb://233a..6cc0",
+    "name": "Hobby Maker",
+    "lang": "en",
+    "xmltv_id": "HobbyMaker.uk@SD",
+    "logo": "https://i.imgur.com/VWHp5Tl.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_770512",
+    "name": "Netflix",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/netflix-int.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_770737",
+    "name": "Colors HD",
+    "lang": "en",
+    "xmltv_id": "ColorsMENA.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/colors-hd-in.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772057_1177_SD",
+    "name": "Sky Comedy",
+    "lang": "en",
+    "xmltv_id": "SkyComedy.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772174_1198_SD",
+    "name": "Sky Cinema Animation",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaAnimation.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772315",
+    "name": "Zee Cinema HD",
+    "lang": "en",
+    "xmltv_id": "ZeeCinema.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-cinema-hd-in.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_RBM61991_1147_HD",
+    "name": "Sky Kids HD",
+    "lang": "en",
+    "xmltv_id": "SkyKids.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1147.png"
+  },
+  {
+    "site_id": "dvb://233a..5d40",
+    "name": "Yesterday+1",
+    "lang": "en",
+    "xmltv_id": "UYesterday.uk"
+  },
+  {
+    "site_id": "dvb://233a..6c40",
+    "name": "Al Jazeera Eng",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+  },
+  {
+    "site_id": "dvb://233a..44c4",
+    "name": "ITV1 HD",
+    "lang": "en",
+    "xmltv_id": "ITV1.uk@London",
+    "logo": "https://i.imgur.com/xwPekCF.png"
+  },
+  {
+    "site_id": "dvb://233a..5800",
+    "name": "4seven",
+    "lang": "en",
+    "xmltv_id": "4seven.uk@SD",
+    "logo": "https://i.imgur.com/Fpaxyop.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_92_1001_SD",
+    "name": "Sky Cinema Action",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaAction.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_760356",
+    "name": "Utsav Plus HD",
+    "lang": "en",
+    "xmltv_id": "UtsavPlus.uk@HD",
+    "logo": "https://i.imgur.com/TERVtWT.png"
+  },
+  {
+    "site_id": "dvb://233a..5f80",
+    "name": "Gems TV",
+    "lang": "en",
+    "xmltv_id": "GemsTV.uk@SD",
+    "logo": "https://i.imgur.com/WgaJufI.png"
+  },
+  {
+    "site_id": "dvb://233a..5d00",
+    "name": "QUEST+1",
+    "lang": "en",
+    "xmltv_id": "Quest.uk@Plus1",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb6761.png"
+  },
+  {
+    "site_id": "dvb://233a..6d40",
+    "name": "PBS America",
+    "lang": "en",
+    "xmltv_id": "PBSAmerica.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/pbs-america-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..1140",
+    "name": "BBC Red Button",
+    "lang": "en",
+    "xmltv_id": "BBCRedButton1.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-red-button-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..3830",
+    "name": "Blaze",
+    "lang": "en",
+    "xmltv_id": "Blaze.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/blaze-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_755657_1402_HD",
+    "name": "Sky Max HD",
+    "lang": "en",
+    "xmltv_id": "SkyMax.uk@HD",
+    "logo": "https://i.imgur.com/yGZnTh7.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_756787",
+    "name": "Discovery HD",
+    "lang": "en"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_758031_1815_HD",
+    "name": "Sky Cinema Favourites HD",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaSalvation.uk@HD"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_770515",
+    "name": "Prime Video",
+    "lang": "en"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772065_1212_HD",
+    "name": "Sky Crime HD",
+    "lang": "en",
+    "xmltv_id": "SkyCrime.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2207.png"
+  },
+  {
+    "site_id": "dvb://233a..6d60",
+    "name": "HGTV",
+    "lang": "en",
+    "xmltv_id": "HGTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/hgtv-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..20fa",
+    "name": "More 4",
+    "lang": "en",
+    "xmltv_id": "More4.uk@SD",
+    "logo": "https://i.imgur.com/cx5YcAU.png"
+  },
+  {
+    "site_id": "dvb://233a..5760",
+    "name": "E4 Extra",
+    "lang": "en",
+    "xmltv_id": "E4Extra.uk@SD",
+    "logo": "https://i.imgur.com/vA2j0YP.png"
+  },
+  {
+    "site_id": "dvb://233a..8540",
+    "name": "Legend Xtra",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/legend-xtra-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_509198_3825_SD",
+    "name": "Alibi",
+    "lang": "en",
+    "xmltv_id": "UAlibi.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/alibi-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_750650_5609_SD",
+    "name": "Boomerang",
+    "lang": "en",
+    "xmltv_id": "Boomerang.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/boomerang-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..4f20",
+    "name": "5Select",
+    "lang": "en",
+    "xmltv_id": "5SELECT.uk@SD",
+    "logo": "https://i.imgur.com/WJ9xR6l.png"
+  },
+  {
+    "site_id": "dvb://233a..5b20",
+    "name": "Create \u0026 Craft",
+    "lang": "en",
+    "xmltv_id": "CreateandCraft.uk@SD",
+    "logo": "https://i.imgur.com/n65sk4L.png"
+  },
+  {
+    "site_id": "dvb://233a..46c0",
+    "name": "CBBC HD",
+    "lang": "en",
+    "xmltv_id": "CBBC.uk@HD",
+    "logo": "https://i.imgur.com/tk8G4CU.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_157644_5601_SD",
+    "name": "Cartoon Network",
+    "lang": "en",
+    "xmltv_id": "CartoonNetwork.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/cartoon-network-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_756489_1814_SD",
+    "name": "Sky Cinema Hits",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaHits.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-hits-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767456",
+    "name": "TNT Sports 6 HD",
+    "lang": "en",
+    "xmltv_id": "TNTSports6.uk@HD",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-6-uk.png?raw=true"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_764003",
+    "name": "TNT Sports 2 HD",
+    "lang": "en",
+    "xmltv_id": "TNTSports2.uk@HD",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_770645",
+    "name": "Colors Cineplex",
+    "lang": "en",
+    "xmltv_id": "ColorsCineplex.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/colors-cineplex-in.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772170_1875_SD",
+    "name": "Sky History",
+    "lang": "en",
+    "xmltv_id": "SkyHistory.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-history-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..5700",
+    "name": "Dave",
+    "lang": "en",
+    "xmltv_id": "UDave.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dave-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..6ea0",
+    "name": "GREAT! movies extra",
+    "lang": "en"
+  },
+  {
+    "site_id": "dvb://233a..6ec0",
+    "name": "GREAT! tv +1",
+    "lang": "en",
+    "xmltv_id": "GREATtv.uk@Plus1",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4266.png"
+  },
+  {
+    "site_id": "dvb://233a..6ee0",
+    "name": "GREAT! Christmas mix",
+    "lang": "en"
+  },
+  {
+    "site_id": "dvb://233a..4440",
+    "name": "BBC Two HD",
+    "lang": "en",
+    "xmltv_id": "BBCTwo.uk@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_768397",
+    "name": "TNT Sports Ultimate",
+    "lang": "en",
+    "xmltv_id": "TNTSportsUltimate.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-ultimate-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767459",
+    "name": "TNT Sports 8 HD",
+    "lang": "en",
+    "xmltv_id": "TNTSports8.uk@HD",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-8-uk.png?raw=true"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772613_1039_HD",
+    "name": "NBC News Now HD",
+    "lang": "en",
+    "xmltv_id": "NBCNewsNOW.us@HD",
+    "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png"
+  },
+  {
+    "site_id": "dvb://233a..3870",
+    "name": "True Crime",
+    "lang": "en",
+    "xmltv_id": "TrueCrime.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/true-crime-uk-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_397065_1333_SD",
+    "name": "Sky Sports NFL",
+    "lang": "en",
+    "xmltv_id": "SkySportsNFL.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-nfl-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767938",
+    "name": "TNT Sports 10",
+    "lang": "en",
+    "xmltv_id": "TNTSports10.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-10-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..6a20",
+    "name": "GREAT! tv",
+    "lang": "en",
+    "xmltv_id": "GREATtv.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-tv-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..10bf",
+    "name": "BBC Two England",
+    "lang": "en",
+    "xmltv_id": "BBCTwo.uk@England",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"
+  },
+  {
+    "site_id": "dvb://233a..2066",
+    "name": "ITV3",
+    "lang": "en",
+    "xmltv_id": "ITV3.uk@SD",
+    "logo": "https://i.imgur.com/JuyM2z5.png"
+  },
+  {
+    "site_id": "dvb://233a..5740",
+    "name": "Drama+1",
+    "lang": "en"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_760134_1306_HD",
+    "name": "Sky Sports F1 HD",
+    "lang": "en",
+    "xmltv_id": "SkySportsF1.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_768064_1303_SD",
+    "name": "Sky Sports Premier League",
+    "lang": "en",
+    "xmltv_id": "SkySportsPremierLeague.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..20c0",
+    "name": "Channel 4",
+    "lang": "en",
+    "xmltv_id": "Channel4.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/channel-4-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_750823",
+    "name": "Eurosport 2",
+    "lang": "en",
+    "xmltv_id": "Eurosport2.fr@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_763999",
+    "name": "TNT Sports 1 HD",
+    "lang": "en",
+    "xmltv_id": "TNTSports1.uk@HD",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true"
+  },
+  {
+    "site_id": "dvb://233a..3cd8",
+    "name": "GREAT! action",
+    "lang": "en",
+    "xmltv_id": "GREATaction.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-action-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..3fec",
+    "name": "Together TV",
+    "lang": "en",
+    "xmltv_id": "TogetherTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/together-tv-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..2104",
+    "name": "Channel 4 +1",
+    "lang": "en"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772488_1276_HD",
+    "name": "Sky Showcase HD",
+    "lang": "en",
+    "xmltv_id": "SkyShowcase.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1276.png"
+  },
+  {
+    "site_id": "dvb://233a..3880",
+    "name": "WildEarth",
+    "lang": "en",
+    "xmltv_id": "WildEarth.uk@SD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_755542_1371_SD",
+    "name": "Cartoonito",
+    "lang": "en",
+    "xmltv_id": "Cartoonito.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/cartoonito-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_759077_2510_HD",
+    "name": "Comedy Central HD",
+    "lang": "en",
+    "xmltv_id": "ComedyCentral.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/comedy-central-hd-es.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_762673_2501_HD",
+    "name": "MTV HD",
+    "lang": "en",
+    "xmltv_id": "MTV.uk@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772173_1875_HD",
+    "name": "Sky History HD",
+    "lang": "en",
+    "xmltv_id": "SkyHistory.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1875.png"
+  },
+  {
+    "site_id": "dvb://233a..57c0",
+    "name": "Film4+1",
+    "lang": "en",
+    "xmltv_id": "Film4.uk@Plus1",
+    "logo": "https://i.imgur.com/MTSgoGI.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_750600_1409_SD",
+    "name": "Sky Cinema Premiere",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaPremiere.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_756518_1752_HD",
+    "name": "Sky Arts HD",
+    "lang": "en",
+    "xmltv_id": "SkyArts.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1752.png"
+  },
+  {
+    "site_id": "dvb://233a..3f48",
+    "name": "KetchupTv",
+    "lang": "en",
+    "xmltv_id": "KetchupTV.us@SD",
+    "logo": "https://i.imgur.com/XRGioQX.png"
+  },
+  {
+    "site_id": "dvb://233a..32d0",
+    "name": "Dave Ja Vu",
+    "lang": "en",
+    "xmltv_id": "UDaveJaVu.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dave-ja-vu-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_750973_1752_SD",
+    "name": "Sky Arts.",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-arts-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_758027_1001_HD",
+    "name": "Sky Cinema Action HD",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaAction.uk@HD",
+    "logo": "https://i.imgur.com/2JjZG7g.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_758028_1808_HD",
+    "name": "Sky Cinema Family HD",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaFamily.uk@HD",
+    "logo": "https://i.imgur.com/vKZSotN.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_758465",
+    "name": "TNT Sports 4",
+    "lang": "en",
+    "xmltv_id": "TNTSports4.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767461",
+    "name": "TNT Sports 10 HD",
+    "lang": "en",
+    "xmltv_id": "TNTSports10.uk@HD",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-10-uk.png?raw=true"
+  },
+  {
+    "site_id": "dvb://233a..5a00",
+    "name": "Food Network",
+    "lang": "en",
+    "xmltv_id": "FoodNetwork.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/food-network-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..3834",
+    "name": "Blaze+1",
+    "lang": "en",
+    "xmltv_id": "Blaze.uk@Plus1",
+    "logo": "https://i.imgur.com/6UcPWP9.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_759079",
+    "name": "Eurosport 1 HD",
+    "lang": "en",
+    "xmltv_id": "Eurosport1.fr@UKHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/eurosport-1-hd-nl.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_255_1402_SD",
+    "name": "Sky Max",
+    "lang": "en",
+    "xmltv_id": "SkyMax.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-max-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_727786_1807_SD",
+    "name": "Sky Cinema Sci-Fi \u0026 Horror",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaSciFiHorror.uk@SD",
+    "logo": "https://i.imgur.com/Plz70jD.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_760101",
+    "name": "EE TV Preview",
+    "lang": "en"
+  },
+  {
+    "site_id": "dvb://233a..3280",
+    "name": "5STAR",
+    "lang": "en",
+    "xmltv_id": "5STAR.uk@SD",
+    "logo": "https://i.imgur.com/PI11s9s.png"
+  },
+  {
+    "site_id": "dvb://233a..3898",
+    "name": "TCC",
+    "lang": "en"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_759963_1306_SD",
+    "name": "Sky Sports F1",
+    "lang": "en",
+    "xmltv_id": "SkySportsF1.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..6aa0",
+    "name": "GREAT! Christmas",
+    "lang": "en",
+    "xmltv_id": "GREATromance.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-christmas-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_757365_1333_HD",
+    "name": "Sky Sports NFL HD",
+    "lang": "en",
+    "xmltv_id": "SkySportsNFL.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_763478",
+    "name": "Eurosport 2 HD",
+    "lang": "en",
+    "xmltv_id": "Eurosport2.fr@UKHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/eurosport-2-hd-nl.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772614",
+    "name": "Utsav Gold HD",
+    "lang": "en",
+    "xmltv_id": "UtsavGold.in@HD",
+    "logo": "https://i.imgur.com/7pTZm9O.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_759234_1322_HD",
+    "name": "Sky Sports Golf HD",
+    "lang": "en",
+    "xmltv_id": "SkySportsGolf.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_760136_5601_HD",
+    "name": "Cartoon Network HD",
+    "lang": "en",
+    "xmltv_id": "CartoonNetwork.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cartoon-network-hd-int.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767935",
+    "name": "TNT Sports 7",
+    "lang": "en",
+    "xmltv_id": "TNTSports7.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-7-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767933",
+    "name": "TNT Sports 5",
+    "lang": "en",
+    "xmltv_id": "TNTSports5.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-5-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767936",
+    "name": "TNT Sports 8",
+    "lang": "en",
+    "xmltv_id": "TNTSports8.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-8-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..64c0",
+    "name": "Yesterday",
+    "lang": "en",
+    "xmltv_id": "UYesterday.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/yesterday-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_772615",
+    "name": "Sony TV HD",
+    "lang": "en",
+    "xmltv_id": "SonyEntertainmentTelevisionAsia.in@HD"
+  },
+  {
+    "site_id": "dvb://233a..3df8",
+    "name": "ITVBe +1",
+    "lang": "en",
+    "xmltv_id": "ITVBe.uk@Plus1",
+    "logo": "https://i.imgur.com/98U4KjU.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_759054_1404_HD",
+    "name": "Sky News HD",
+    "lang": "en",
+    "xmltv_id": "SkyNews.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-news-hd-au.png"
+  },
+  {
+    "site_id": "dvb://233a..5a70",
+    "name": "That's Christmas",
+    "lang": "en",
+    "xmltv_id": "Thats70s.uk@SD",
+    "logo": "https://i.imgur.com/j2q53JQ.png"
+  },
+  {
+    "site_id": "dvb://233a..6b00",
+    "name": "Together TV",
+    "lang": "en",
+    "xmltv_id": "TogetherTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/together-tv-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..4680",
+    "name": "BBC Four HD",
+    "lang": "en"
   },
   {
     "site_id": "http://bds.tv/services/BT_756533_1302_HD",
@@ -1528,11 +1474,81 @@
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_759079",
-    "name": "Eurosport 1 HD",
+    "site_id": "dvb://233a..3298",
+    "name": "YAAAS!",
     "lang": "en",
-    "xmltv_id": "Eurosport1.fr@UKHD",
-    "logo": "https://i.imgur.com/olQJgm7.png"
+    "xmltv_id": "YAAAS.uk",
+    "logo": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png"
+  },
+  {
+    "site_id": "dvb://233a..4540",
+    "name": "Channel 5 HD",
+    "lang": "en",
+    "xmltv_id": "Channel5.uk@HD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_727788_1814_HD",
+    "name": "Sky Cinema Hits HD",
+    "lang": "en",
+    "xmltv_id": "SkyCinemaHits.uk@SD",
+    "logo": "https://i.imgur.com/6qYnSaA.png"
+  },
+  {
+    "site_id": "dvb://233a..5680",
+    "name": "Sky Arts",
+    "lang": "en",
+    "xmltv_id": "SkyArts.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-arts-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_631679_1314_SD",
+    "name": "Sky Sports News",
+    "lang": "en",
+    "xmltv_id": "SkySportsNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_767934",
+    "name": "TNT Sports 6",
+    "lang": "en",
+    "xmltv_id": "TNTSports6.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-6-uk.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_768612",
+    "name": "TNT Sports 3",
+    "lang": "en",
+    "xmltv_id": "TNTSports3.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png"
+  },
+  {
+    "site_id": "dvb://233a..6d20",
+    "name": "That's TV (UK)",
+    "lang": "en",
+    "xmltv_id": "ThatsTV.uk@SD",
+    "logo": "https://i.imgur.com/rmdfcyG.png"
+  },
+  {
+    "site_id": "dvb://233a..6dc0",
+    "name": "W",
+    "lang": "en",
+    "xmltv_id": "ChW.kr@SD",
+    "logo": "https://i.imgur.com/puBkpGj.png"
+  },
+  {
+    "site_id": "dvb://233a..32c0",
+    "name": "5USA",
+    "lang": "en",
+    "xmltv_id": "5USA.uk@SD",
+    "logo": "https://i.imgur.com/Pi7so2l.png"
+  },
+  {
+    "site_id": "http://bds.tv/services/BT_503_1301_SD",
+    "name": "Sky Sports Main Event",
+    "lang": "en",
+    "xmltv_id": "SkySportsMainEvent.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png"
   },
   {
     "site_id": "http://bds.tv/services/BT_759410_1412_HD",
@@ -1549,87 +1565,79 @@
     "logo": "https://i.imgur.com/P73SKc4.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_758028_1808_HD",
-    "name": "Sky Cinema Family HD",
+    "site_id": "dvb://233a..32e0",
+    "name": "Channel 5+1",
     "lang": "en",
-    "xmltv_id": "SkyCinemaFamily.uk@HD",
-    "logo": "https://i.imgur.com/vKZSotN.png"
+    "xmltv_id": "Channel5.uk@Plus1",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png"
   },
   {
-    "site_id": "dvb://233a..3cd8",
-    "name": "GREAT! action",
+    "site_id": "http://bds.tv/services/BT_763997",
+    "name": "TNT Sports 1",
     "lang": "en",
-    "xmltv_id": "GREATaction.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3708.png"
+    "xmltv_id": "TNTSports1.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png"
   },
   {
-    "site_id": "dvb://233a..3df8",
-    "name": "ITVBe +1",
+    "site_id": "dvb://233a..2094",
+    "name": "ITVBe",
     "lang": "en",
-    "xmltv_id": "ITVBe.uk@Plus1",
+    "xmltv_id": "ITVBe.uk@SD",
     "logo": "https://i.imgur.com/98U4KjU.png"
   },
   {
-    "site_id": "dvb://233a..5640",
-    "name": "Sky News",
+    "site_id": "http://bds.tv/services/BT_753644_1212_SD",
+    "name": "Sky Crime",
     "lang": "en",
-    "xmltv_id": "SkyNews.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"
+    "xmltv_id": "SkyCrime.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-crime-uk.png"
   },
   {
-    "site_id": "dvb://233a..20c1",
-    "name": "Film4",
+    "site_id": "http://bds.tv/services/BT_771276",
+    "name": "TNT Sports Box Office HD",
     "lang": "en",
-    "xmltv_id": "Film4.uk@SD",
-    "logo": "https://i.imgur.com/MTSgoGI.png"
+    "xmltv_id": "TNTSportsBoxOffice.uk@HD",
+    "logo": "https://i.imgur.com/I3XB6LS.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_223160_1302_SD",
-    "name": "Sky Sports Cricket",
+    "site_id": "dvb://233a..56c0",
+    "name": "Sky Mix",
     "lang": "en",
-    "xmltv_id": "SkySportsCricket.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png"
+    "xmltv_id": "SkyMix.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-mix-uk.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_608791",
-    "name": "Discovery",
+    "site_id": "http://bds.tv/services/BT_758029_1816_HD",
+    "name": "Sky Cinema Christmas HD",
     "lang": "en",
-    "xmltv_id": "DiscoveryChannel.uk@UK",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png"
+    "xmltv_id": "SkyCinemaDrama.uk@HD"
   },
   {
-    "site_id": "http://bds.tv/services/BT_759235_1314_HD",
-    "name": "Sky Sports News HD",
+    "site_id": "http://bds.tv/services/BT_768613",
+    "name": "TNT Sports 3 HD",
     "lang": "en",
-    "xmltv_id": "SkySportsNews.uk@HD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png"
+    "xmltv_id": "TNTSports3.uk@HD",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true"
   },
   {
-    "site_id": "dvb://233a..5d00",
-    "name": "QUEST+1",
+    "site_id": "dvb://233a..5d60",
+    "name": "That's 90s",
     "lang": "en",
-    "xmltv_id": "Quest.uk@Plus1",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb6761.png"
+    "xmltv_id": "Thats90s.uk@SD",
+    "logo": "https://i.imgur.com/6mwtpRD.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_758465",
-    "name": "TNT Sports 4",
+    "site_id": "dvb://233a..6d80",
+    "name": "That's 60s",
     "lang": "en",
-    "xmltv_id": "TNTSports4.uk@SD",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true"
+    "xmltv_id": "Thats60s.uk@SD",
+    "logo": "https://i.imgur.com/kLLgU4N.png"
   },
   {
-    "site_id": "http://bds.tv/services/BT_760356",
-    "name": "Utsav Plus HD",
+    "site_id": "http://bds.tv/services/BT_759409_1412_SD",
+    "name": "Sky Atlantic",
     "lang": "en",
-    "xmltv_id": "UtsavPlus.uk@HD",
-    "logo": "https://i.imgur.com/TERVtWT.png"
-  },
-  {
-    "site_id": "http://bds.tv/services/BT_770737",
-    "name": "Colors HD",
-    "lang": "en",
-    "xmltv_id": "ColorsMENA.in@HD",
-    "logo": "https://i.imgur.com/LjNFTdC.png"
+    "xmltv_id": "SkyAtlantic.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-atlantic-uk.png"
   }
 ]

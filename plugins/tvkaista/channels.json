@@ -1,36 +1,122 @@
 [
   {
-    "site_id": "france-2",
-    "name": "France 2",
-    "lang": "fi",
-    "xmltv_id": "France2.fr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png"
+    "site_id": "v-sport-2-suomi",
+    "name": "V sport 2 Suomi",
+    "lang": "fi"
   },
   {
-    "site_id": "v-sport-live-3",
-    "name": "V sport live 3",
+    "site_id": "v-sport-vinter",
+    "name": "V sport Vinter",
     "lang": "fi",
-    "xmltv_id": "VSportLive3.se",
-    "logo": "https://i.imgur.com/enr8IAy.png"
+    "xmltv_id": "VSportVinter.se@SD",
+    "logo": "https://i.imgur.com/1vtjktv.png"
   },
   {
-    "site_id": "v-sport-live-4",
-    "name": "V sport live 4",
+    "site_id": "yle-tv2",
+    "name": "Yle TV2",
     "lang": "fi",
-    "xmltv_id": "VSportLive4.se",
-    "logo": "https://i.imgur.com/yjIXL9k.png"
+    "xmltv_id": "YleTV2.fi@SD",
+    "logo": "https://i.imgur.com/4xkc6PL.png"
+  },
+  {
+    "site_id": "etv",
+    "name": "ETV",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/qTO3g37.png"
+  },
+  {
+    "site_id": "liiga-1",
+    "name": "Liiga 1",
+    "lang": "fi"
+  },
+  {
+    "site_id": "nelonen",
+    "name": "Nelonen",
+    "lang": "fi",
+    "xmltv_id": "Nelonen.fi@SD",
+    "logo": "https://i.imgur.com/BFbCyfY.png"
+  },
+  {
+    "site_id": "svt-barn-24",
+    "name": "SVT Barn/SVT24",
+    "lang": "fi",
+    "xmltv_id": "SVTBarnSVT24.se@SD",
+    "logo": "https://i.imgur.com/uMEwuTH.png"
+  },
+  {
+    "site_id": "tv6-se",
+    "name": "TV6 Sverige",
+    "lang": "fi"
+  },
+  {
+    "site_id": "zdf",
+    "name": "ZDF",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/zdf-de.png"
+  },
+  {
+    "site_id": "ftv-uhd",
+    "name": "FashionTV UHD",
+    "lang": "fi",
+    "xmltv_id": "FashionTVUHD.fr@SD",
+    "logo": "https://i.imgur.com/vQuyyWO.png"
+  },
+  {
+    "site_id": "horse-tv",
+    "name": "Horse TV",
+    "lang": "fi",
+    "xmltv_id": "HorseTV.it",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/horse-tv-it.png"
+  },
+  {
+    "site_id": "mtv-hits",
+    "name": "MTV Hits",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/mtv-hits-ar.png"
+  },
+  {
+    "site_id": "sf-kanalen",
+    "name": "SF-kanalen",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/YpnN63k.png"
+  },
+  {
+    "site_id": "tv3-se",
+    "name": "TV3 Sverige",
+    "lang": "fi"
+  },
+  {
+    "site_id": "v-sport-live-2",
+    "name": "V sport live 2",
+    "lang": "fi",
+    "xmltv_id": "VSportLive2.se@SD",
+    "logo": "https://i.imgur.com/mrYUeKy.png"
+  },
+  {
+    "site_id": "viasat-nature",
+    "name": "Viasat Nature",
+    "lang": "fi",
+    "xmltv_id": "ViasatNature.fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/viasat-nature-hr.png"
   },
   {
     "site_id": "animal-planet",
     "name": "Animal Planet",
     "lang": "fi",
-    "xmltv_id": "AnimalPlanet.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+    "xmltv_id": "AnimalPlanetNordic.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/animal-planet-uk.png"
   },
   {
-    "site_id": "liiga-uhd",
-    "name": "Liiga UHD",
-    "lang": "fi"
+    "site_id": "cnn",
+    "name": "CNN",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnn-us.png"
+  },
+  {
+    "site_id": "mtv-live",
+    "name": "MTV Live",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/mtv-live-rs.png"
   },
   {
     "site_id": "tapahtumatv-eveo",
@@ -40,54 +126,23 @@
     "logo": "https://i.imgur.com/fFIq7tY.png"
   },
   {
-    "site_id": "v-sport-2-suomi",
-    "name": "V sport 2 Suomi",
-    "lang": "fi"
-  },
-  {
-    "site_id": "c-more-sport-1",
-    "name": "C More Sport 1",
+    "site_id": "cnbc",
+    "name": "CNBC",
     "lang": "fi",
-    "xmltv_id": "MTVUrheilu1.fi",
-    "logo": "https://i.imgur.com/b9jZgbd.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnbc-us.png"
   },
   {
-    "site_id": "discovery",
-    "name": "Discovery Channel",
+    "site_id": "extreme-sports-channel",
+    "name": "Extreme Sports Channel",
     "lang": "fi",
-    "xmltv_id": "DiscoveryChannel.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+    "xmltv_id": "ExtremeSportsChannel.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/extreme-sports-channel-nl.png"
   },
   {
-    "site_id": "motorvision-tv",
-    "name": "Motorvision TV",
+    "site_id": "investigation-discovery",
+    "name": "Investigation Discovery",
     "lang": "fi",
-    "xmltv_id": "Motorvision.de",
-    "logo": "https://i.imgur.com/v4kj8pI.png"
-  },
-  {
-    "site_id": "rai-1",
-    "name": "Rai 1",
-    "lang": "fi",
-    "xmltv_id": "Rai1.it",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "v-sport-1-suomi",
-    "name": "V sport 1 Suomi",
-    "lang": "fi"
-  },
-  {
-    "site_id": "bloomberg",
-    "name": "Bloomberg",
-    "lang": "fi"
-  },
-  {
-    "site_id": "c-more-stars",
-    "name": "C More Stars",
-    "lang": "fi",
-    "xmltv_id": "TV4Stars.se",
-    "logo": "https://i.imgur.com/Sn7QnZa.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/investigation-discovery-ca.png"
   },
   {
     "site_id": "jim",
@@ -97,316 +152,17 @@
     "logo": "https://i.imgur.com/PkMgY0K.png"
   },
   {
-    "site_id": "mezzo-live",
-    "name": "Mezzo Live",
-    "lang": "fi",
-    "xmltv_id": "MezzoLive.fr",
-    "logo": "https://i.imgur.com/H9ytKPN.png"
-  },
-  {
-    "site_id": "mtv-hits",
-    "name": "MTV Hits",
-    "lang": "fi",
-    "xmltv_id": "MTVHits.au",
-    "logo": "https://i.imgur.com/x1zYoCW.png"
-  },
-  {
-    "site_id": "v-sport-live-1",
-    "name": "V sport live 1",
-    "lang": "fi",
-    "xmltv_id": "VSportLive1.se",
-    "logo": "https://i.imgur.com/KGm37xW.png"
-  },
-  {
-    "site_id": "dr-1",
-    "name": "DR1",
-    "lang": "fi",
-    "xmltv_id": "DR1.dk",
-    "logo": "https://i.imgur.com/OETzsOI.png"
-  },
-  {
-    "site_id": "kutonen",
-    "name": "Kutonen",
-    "lang": "fi",
-    "xmltv_id": "Kutonen.fi",
-    "logo": "https://i.imgur.com/OiB7Opu.png"
-  },
-  {
-    "site_id": "tv8-se",
-    "name": "TV8 Sverige",
-    "lang": "fi"
-  },
-  {
-    "site_id": "discovery-science",
-    "name": "Discovery Science",
-    "lang": "fi",
-    "xmltv_id": "DiscoveryScience.ca",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"
-  },
-  {
-    "site_id": "love-nature-4k",
-    "name": "Love Nature 4K",
-    "lang": "fi",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/love-nature-4k-ca.png"
-  },
-  {
     "site_id": "nrk-2",
     "name": "NRK2",
     "lang": "fi",
-    "xmltv_id": "NRK2.no",
     "logo": "https://i.imgur.com/SiAdoK9.png"
   },
   {
-    "site_id": "v-sport-1",
-    "name": "V sport 1",
+    "site_id": "v-sport-uhd",
+    "name": "V Sport Ultra HD",
     "lang": "fi",
-    "xmltv_id": "VSport1.se",
-    "logo": "https://i.imgur.com/ERWOdjs.png"
-  },
-  {
-    "site_id": "aljazeera",
-    "name": "Al Jazeera",
-    "lang": "fi",
-    "xmltv_id": "AlJazeera.qa",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
-  },
-  {
-    "site_id": "disney-channel",
-    "name": "Disney Channel",
-    "lang": "fi",
-    "xmltv_id": "DisneyChannel.be",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "site_id": "v-sport-golf",
-    "name": "V sport Golf",
-    "lang": "fi",
-    "xmltv_id": "VSportGolf.se",
-    "logo": "https://i.imgur.com/wCw8Pmz.png"
-  },
-  {
-    "site_id": "national-geographic",
-    "name": "National Geographic",
-    "lang": "fi",
-    "xmltv_id": "NationalGeographic.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
-  },
-  {
-    "site_id": "nrk-1",
-    "name": "NRK1",
-    "lang": "fi",
-    "xmltv_id": "NRK1.no",
-    "logo": "https://i.imgur.com/9tj8ds7.png"
-  },
-  {
-    "site_id": "v-film-hits",
-    "name": "V film hits",
-    "lang": "fi",
-    "xmltv_id": "VFilmHits.se",
-    "logo": "https://i.imgur.com/ga6EOsb.png"
-  },
-  {
-    "site_id": "alfa",
-    "name": "Alfa",
-    "lang": "fi"
-  },
-  {
-    "site_id": "mtv-00s",
-    "name": "MTV 00s",
-    "lang": "fi",
-    "xmltv_id": "MTV00s.uk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
-  },
-  {
-    "site_id": "tv10-se",
-    "name": "TV10 Sverige",
-    "lang": "fi"
-  },
-  {
-    "site_id": "c-more-series",
-    "name": "C More Series",
-    "lang": "fi",
-    "xmltv_id": "MTVViihde.se",
-    "logo": "https://i.imgur.com/gW2qMCs.png"
-  },
-  {
-    "site_id": "history",
-    "name": "History",
-    "lang": "fi",
-    "xmltv_id": "History.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png"
-  },
-  {
-    "site_id": "liiga-2",
-    "name": "Liiga 2",
-    "lang": "fi"
-  },
-  {
-    "site_id": "nautical-channel",
-    "name": "Nautical Channel",
-    "lang": "fi",
-    "xmltv_id": "Moyastikhiya.ru",
-    "logo": "https://i.imgur.com/Sl8c9eB.png"
-  },
-  {
-    "site_id": "nhk-world-japan",
-    "name": "NHK World Japan",
-    "lang": "fi",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/nhk-world-japan-int.png"
-  },
-  {
-    "site_id": "tlc",
-    "name": "TLC",
-    "lang": "fi",
-    "xmltv_id": "TelevisionLocaleduCholetais.fr",
-    "logo": "https://i.imgur.com/UdLeLar.jpg"
-  },
-  {
-    "site_id": "c-more-max-2",
-    "name": "C More Max 2",
-    "lang": "fi"
-  },
-  {
-    "site_id": "cartoon-network",
-    "name": "Cartoon Network",
-    "lang": "fi",
-    "xmltv_id": "CartoonNetwork.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "eurochannel",
-    "name": "Eurochannel",
-    "lang": "fi",
-    "xmltv_id": "Eurochannel.uk",
-    "logo": "https://i.imgur.com/yXAtmI6.png"
-  },
-  {
-    "site_id": "investigation-discovery",
-    "name": "Investigation Discovery",
-    "lang": "fi",
-    "xmltv_id": "InvestigationDiscovery.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "kunskapskanalen",
-    "name": "Kunskapskanalen",
-    "lang": "fi",
-    "xmltv_id": "Kunskapskanalen.se",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/960px-Kunskapskanalen_2017.svg.png"
-  },
-  {
-    "site_id": "liiga-7",
-    "name": "Liiga 7",
-    "lang": "fi"
-  },
-  {
-    "site_id": "svt-barn-24",
-    "name": "SVT Barn/SVT24",
-    "lang": "fi",
-    "xmltv_id": "SVTBarnSVT24.se",
-    "logo": "https://i.imgur.com/uMEwuTH.png"
-  },
-  {
-    "site_id": "tv3-se",
-    "name": "TV3 Sverige",
-    "lang": "fi"
-  },
-  {
-    "site_id": "cnbc",
-    "name": "CNBC",
-    "lang": "fi",
-    "xmltv_id": "CNBC.us",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
-  },
-  {
-    "site_id": "elisa-viihde-sport-3",
-    "name": "Elisa Viihde Sport 3",
-    "lang": "fi"
-  },
-  {
-    "site_id": "one-way-tv",
-    "name": "One Way TV",
-    "lang": "fi",
-    "xmltv_id": "OneWayTV.fi",
-    "logo": "https://i.imgur.com/kgy3DV9.png"
-  },
-  {
-    "site_id": "sky-news",
-    "name": "Sky News",
-    "lang": "fi",
-    "xmltv_id": "SkyNews.ie",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"
-  },
-  {
-    "site_id": "trt-world",
-    "name": "TRT World",
-    "lang": "fi",
-    "xmltv_id": "TRTWorld.tr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"
-  },
-  {
-    "site_id": "v-film-action",
-    "name": "V film action",
-    "lang": "fi",
-    "xmltv_id": "VFilmAction.se",
-    "logo": "https://i.imgur.com/So0mOF8.png"
-  },
-  {
-    "site_id": "deutsche-welle",
-    "name": "Deutsche Welle (English)",
-    "lang": "fi"
-  },
-  {
-    "site_id": "liiga-1",
-    "name": "Liiga 1",
-    "lang": "fi"
-  },
-  {
-    "site_id": "mtv-80s",
-    "name": "MTV 80s",
-    "lang": "fi",
-    "xmltv_id": "MTV80s.uk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
-  },
-  {
-    "site_id": "nelonen",
-    "name": "Nelonen",
-    "lang": "fi",
-    "xmltv_id": "Nelonen.fi",
-    "logo": "https://i.imgur.com/BFbCyfY.png"
-  },
-  {
-    "site_id": "filmbox-arthouse",
-    "name": "Filmbox Arthouse",
-    "lang": "fi",
-    "xmltv_id": "FilmBoxArthouse.nl",
-    "logo": "https://i.imgur.com/hDg35ne.png"
-  },
-  {
-    "site_id": "liiga-3",
-    "name": "Liiga 3",
-    "lang": "fi"
-  },
-  {
-    "site_id": "nat-geo-wild",
-    "name": "Nat Geo Wild",
-    "lang": "fi",
-    "xmltv_id": "NationalGeographicWild.au",
-    "logo": "https://i.imgur.com/HoeaQJC.png"
-  },
-  {
-    "site_id": "svt-1",
-    "name": "SVT1",
-    "lang": "fi",
-    "xmltv_id": "SVT1.se",
-    "logo": "https://i.imgur.com/j6KusQX.png"
-  },
-  {
-    "site_id": "ginx-esports-tv",
-    "name": "Ginx eSports TV",
-    "lang": "fi",
-    "xmltv_id": "GINXTV.uk",
-    "logo": "https://i.imgur.com/diw20TN.png"
+    "xmltv_id": "VSportUltraHD.se@SD",
+    "logo": "https://i.imgur.com/17OHnMi.png"
   },
   {
     "site_id": "aljazeera-english",
@@ -414,286 +170,17 @@
     "lang": "fi"
   },
   {
-    "site_id": "elisa-viihde-sport-1",
-    "name": "Elisa Viihde Sport 1",
-    "lang": "fi"
-  },
-  {
-    "site_id": "eurosport-2",
-    "name": "Eurosport 2",
+    "site_id": "cartoon-network",
+    "name": "Cartoon Network",
     "lang": "fi",
-    "xmltv_id": "Eurosport2.fr",
-    "logo": "https://i.imgur.com/f56dHgR.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/cartoon-network-ar.png"
   },
   {
-    "site_id": "fashion-tv",
-    "name": "FashionTV",
+    "site_id": "nautical-channel",
+    "name": "Nautical Channel",
     "lang": "fi",
-    "xmltv_id": "FashionTV.br",
-    "logo": "https://i.imgur.com/cZWKyuM.png"
-  },
-  {
-    "site_id": "fight-sports",
-    "name": "Fight Sports",
-    "lang": "fi",
-    "xmltv_id": "FightSports.us",
-    "logo": "https://i.imgur.com/nV55veq.png"
-  },
-  {
-    "site_id": "ftv-uhd",
-    "name": "FashionTV UHD",
-    "lang": "fi",
-    "xmltv_id": "FashionTVUHD.fr",
-    "logo": "https://i.imgur.com/vQuyyWO.png"
-  },
-  {
-    "site_id": "svt-2",
-    "name": "SVT2",
-    "lang": "fi",
-    "xmltv_id": "SVT2.se",
-    "logo": "https://i.imgur.com/pGWvCxp.png"
-  },
-  {
-    "site_id": "tv4-se",
-    "name": "TV4 Sverige",
-    "lang": "fi"
-  },
-  {
-    "site_id": "tv5-monde",
-    "name": "TV5Monde",
-    "lang": "fi",
-    "xmltv_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr",
-    "logo": "https://i.imgur.com/WmRbudc.png"
-  },
-  {
-    "site_id": "tv7",
-    "name": "Taivas TV7",
-    "lang": "fi",
-    "xmltv_id": "TaivasTV7.fi",
-    "logo": "https://i.imgur.com/JyJNiXy.png"
-  },
-  {
-    "site_id": "tve-internacional",
-    "name": "TVE Internacional",
-    "lang": "fi",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/tve-internacional-int.png"
-  },
-  {
-    "site_id": "food-network",
-    "name": "Food Network",
-    "lang": "fi",
-    "xmltv_id": "FoodNetwork.ca",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg"
-  },
-  {
-    "site_id": "liiga-4",
-    "name": "Liiga 4",
-    "lang": "fi"
-  },
-  {
-    "site_id": "mtv-live",
-    "name": "MTV Live",
-    "lang": "fi",
-    "xmltv_id": "MTVLive.uk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
-  },
-  {
-    "site_id": "v-film-premiere",
-    "name": "V film premiere",
-    "lang": "fi",
-    "xmltv_id": "VFilmPremiere.se",
-    "logo": "https://i.imgur.com/QdFKe21.png"
-  },
-  {
-    "site_id": "v-sport-vinter",
-    "name": "V sport Vinter",
-    "lang": "fi",
-    "xmltv_id": "VSportVinter.se",
-    "logo": "https://i.imgur.com/1vtjktv.png"
-  },
-  {
-    "site_id": "yle-teema-fem",
-    "name": "Yle Teema Fem",
-    "lang": "fi",
-    "xmltv_id": "YleTeemaFem.fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png"
-  },
-  {
-    "site_id": "elisa-viihde-sport-2",
-    "name": "Elisa Viihde Sport 2",
-    "lang": "fi"
-  },
-  {
-    "site_id": "euronews",
-    "name": "Euronews",
-    "lang": "fi",
-    "xmltv_id": "Euronews.pl",
-    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg"
-  },
-  {
-    "site_id": "mezzo",
-    "name": "Mezzo",
-    "lang": "fi",
-    "xmltv_id": "Mezzo.fr",
-    "logo": "https://i.imgur.com/auNdGeW.png"
-  },
-  {
-    "site_id": "nick-jr",
-    "name": "Nick Jr.",
-    "lang": "fi",
-    "xmltv_id": "NickJr.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "viasat-explore",
-    "name": "Viasat Explore",
-    "lang": "fi",
-    "xmltv_id": "ViasatExplore.bg",
-    "logo": "https://i.imgur.com/R270aef.png"
-  },
-  {
-    "site_id": "viasat-nature",
-    "name": "Viasat Nature",
-    "lang": "fi",
-    "xmltv_id": "ViasatNature.bg",
-    "logo": "https://i.imgur.com/mhyK4v1.png"
-  },
-  {
-    "site_id": "wild-tv",
-    "name": "Wild TV",
-    "lang": "fi",
-    "xmltv_id": "WildTV.ca",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png"
-  },
-  {
-    "site_id": "frii",
-    "name": "Frii",
-    "lang": "fi",
-    "xmltv_id": "Frii.fi",
-    "logo": "https://i.imgur.com/h3BAOAC.png"
-  },
-  {
-    "site_id": "liiga-5",
-    "name": "Liiga 5",
-    "lang": "fi"
-  },
-  {
-    "site_id": "bbc-brit",
-    "name": "BBC Brit",
-    "lang": "fi",
-    "xmltv_id": "BBCBrit.uk",
-    "logo": "https://i.imgur.com/i4remZo.png"
-  },
-  {
-    "site_id": "c-more-hits",
-    "name": "C More Hits",
-    "lang": "fi",
-    "xmltv_id": "TV4Hits.se",
-    "logo": "https://i.imgur.com/EPYOSwZ.png"
-  },
-  {
-    "site_id": "ftv-hd",
-    "name": "FashionTV HD",
-    "lang": "fi"
-  },
-  {
-    "site_id": "c-more-max",
-    "name": "C More Max",
-    "lang": "fi",
-    "xmltv_id": "MTVMax.fi",
-    "logo": "https://i.imgur.com/0QB3OK1.png"
-  },
-  {
-    "site_id": "france24",
-    "name": "France24",
-    "lang": "fi"
-  },
-  {
-    "site_id": "kanal-10-se",
-    "name": "Kanal 10 Sverige",
-    "lang": "fi"
-  },
-  {
-    "site_id": "travel-channel",
-    "name": "Travel Channel",
-    "lang": "fi",
-    "xmltv_id": "TravelChannel.au",
-    "logo": "https://i.imgur.com/6RhQKyU.png"
-  },
-  {
-    "site_id": "etv",
-    "name": "ETV",
-    "lang": "fi",
-    "xmltv_id": "eTV.bg",
-    "logo": "https://i.imgur.com/qTO3g37.png"
-  },
-  {
-    "site_id": "hero",
-    "name": "Hero",
-    "lang": "fi",
-    "xmltv_id": "Hero.fi",
-    "logo": "https://i.imgur.com/4t5JQLY.png"
-  },
-  {
-    "site_id": "v-sport-uhd",
-    "name": "V Sport Ultra HD",
-    "lang": "fi",
-    "xmltv_id": "VSportUltraHD.se",
-    "logo": "https://i.imgur.com/17OHnMi.png"
-  },
-  {
-    "site_id": "c-more-sport-2",
-    "name": "C More Sport 2",
-    "lang": "fi",
-    "xmltv_id": "MTVUrheilu2.fi",
-    "logo": "https://i.imgur.com/tgezMDk.png"
-  },
-  {
-    "site_id": "himlen-tv7",
-    "name": "Himlen TV7",
-    "lang": "fi",
-    "xmltv_id": "HimlenTV7.fi",
-    "logo": "https://i.imgur.com/k8a7KNn.png"
-  },
-  {
-    "site_id": "history-2",
-    "name": "History 2",
-    "lang": "fi",
-    "xmltv_id": "H2.bg",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
-  },
-  {
-    "site_id": "mtv",
-    "name": "MTV",
-    "lang": "fi",
-    "xmltv_id": "MTV.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
-  },
-  {
-    "site_id": "das-erste",
-    "name": "Das Erste",
-    "lang": "fi",
-    "xmltv_id": "DasErste.de",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"
-  },
-  {
-    "site_id": "extreme-sports-channel",
-    "name": "Extreme Sports Channel",
-    "lang": "fi",
-    "xmltv_id": "ExtremeSportsChannel.nl",
-    "logo": "https://i.imgur.com/m7IC01U.png"
-  },
-  {
-    "site_id": "france-24-fr",
-    "name": "France 24 Français",
-    "lang": "fi"
-  },
-  {
-    "site_id": "sf-kanalen",
-    "name": "SF-kanalen",
-    "lang": "fi",
-    "xmltv_id": "SFkanalen.fi",
-    "logo": "https://i.imgur.com/YpnN63k.png"
+    "xmltv_id": "NauticalChannel.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/nautical-channel-int.png"
   },
   {
     "site_id": "tototv",
@@ -701,181 +188,16 @@
     "lang": "fi"
   },
   {
-    "site_id": "24-horas",
-    "name": "24 Horas",
-    "lang": "fi",
-    "xmltv_id": "24Horas.cl",
-    "logo": "https://i.imgur.com/CEE9zPe.png"
-  },
-  {
-    "site_id": "onnitv",
-    "name": "OnniTV",
-    "lang": "fi"
-  },
-  {
-    "site_id": "rtl-television",
-    "name": "RTL",
-    "lang": "fi",
-    "xmltv_id": "RTL.de",
-    "logo": "https://i.imgur.com/94K94k2.png"
-  },
-  {
-    "site_id": "tv6-se",
-    "name": "TV6 Sverige",
-    "lang": "fi"
-  },
-  {
-    "site_id": "v-sport-live-5",
-    "name": "V sport live 5",
-    "lang": "fi",
-    "xmltv_id": "VSportLive5.se",
-    "logo": "https://i.imgur.com/DToZTJK.png"
-  },
-  {
-    "site_id": "3sat",
-    "name": "3sat",
-    "lang": "fi",
-    "xmltv_id": "3sat.de",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png"
-  },
-  {
-    "site_id": "club-mtv",
-    "name": "Club MTV",
-    "lang": "fi",
-    "xmltv_id": "ClubMTV.au",
-    "logo": "https://i.imgur.com/FD6eQI3.png"
-  },
-  {
-    "site_id": "iconcerts",
-    "name": "iConcerts",
-    "lang": "fi"
-  },
-  {
-    "site_id": "v-sport-live-2",
-    "name": "V sport live 2",
-    "lang": "fi",
-    "xmltv_id": "VSportLive2.se",
-    "logo": "https://i.imgur.com/mrYUeKy.png"
-  },
-  {
-    "site_id": "viasat-history",
-    "name": "Viasat History",
-    "lang": "fi",
-    "xmltv_id": "ViasatHistory.bg",
-    "logo": "https://i.imgur.com/AnYgIvZ.png"
-  },
-  {
-    "site_id": "english-club-tv",
-    "name": "English Club TV",
-    "lang": "fi",
-    "xmltv_id": "EnglishClass.ru",
-    "logo": "https://i.imgur.com/gst7wW7.png"
-  },
-  {
-    "site_id": "horse-tv",
-    "name": "Horse TV",
-    "lang": "fi",
-    "xmltv_id": "HorseTV.it",
-    "logo": "https://i.imgur.com/nK4UUX4.png"
-  },
-  {
-    "site_id": "v-sport-football",
-    "name": "V sport Football",
-    "lang": "fi",
-    "xmltv_id": "VSportFootball.se",
-    "logo": "https://i.imgur.com/8zupSOw.png"
-  },
-  {
-    "site_id": "v-sport-motor",
-    "name": "V sport Motor",
-    "lang": "fi",
-    "xmltv_id": "VSportMotor.se",
-    "logo": "https://i.imgur.com/zspl8AY.png"
-  },
-  {
-    "site_id": "stingray-classica",
-    "name": "Stingray Classica",
-    "lang": "fi",
-    "xmltv_id": "StingrayClassica.ca",
-    "logo": "https://i.imgur.com/nh1k5RC.png"
-  },
-  {
-    "site_id": "c-more-first",
-    "name": "C More First",
-    "lang": "fi",
-    "xmltv_id": "CMoreFirst.se",
-    "logo": "https://i.imgur.com/CTFZtlX.png"
-  },
-  {
-    "site_id": "eurosport-1",
-    "name": "Eurosport 1",
-    "lang": "fi",
-    "xmltv_id": "Eurosport1.fr",
-    "logo": "https://i.imgur.com/olQJgm7.png"
-  },
-  {
-    "site_id": "fuel-tv",
-    "name": "Fuel TV",
-    "lang": "fi",
-    "xmltv_id": "FUELTV.pt",
-    "logo": "https://i.imgur.com/I8mviBy.png"
-  },
-  {
-    "site_id": "mtv3",
-    "name": "MTV3",
-    "lang": "fi",
-    "xmltv_id": "MTV3.fi",
-    "logo": "https://i.imgur.com/C5rQbBM.png"
-  },
-  {
     "site_id": "v-sport-plus-suomi",
     "name": "V sport+ Suomi",
     "lang": "fi"
   },
   {
-    "site_id": "yle-tv1",
-    "name": "Yle TV1",
+    "site_id": "c-more-hits",
+    "name": "C More Hits",
     "lang": "fi",
-    "xmltv_id": "YleTV1.fi",
-    "logo": "https://i.imgur.com/6yXZwUL.png"
-  },
-  {
-    "site_id": "yle-tv2",
-    "name": "Yle TV2",
-    "lang": "fi",
-    "xmltv_id": "YleTV2.fi",
-    "logo": "https://i.imgur.com/4xkc6PL.png"
-  },
-  {
-    "site_id": "ava",
-    "name": "AVA",
-    "lang": "fi",
-    "xmltv_id": "MTVAva.fi",
-    "logo": "https://i.imgur.com/WxNCiAk.png"
-  },
-  {
-    "site_id": "elisa-viihde-sport-4",
-    "name": "Elisa Viihde Sport 4",
-    "lang": "fi"
-  },
-  {
-    "site_id": "star-channel",
-    "name": "Star Channel",
-    "lang": "fi",
-    "xmltv_id": "StarChannel.bg",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"
-  },
-  {
-    "site_id": "liiga-6",
-    "name": "Liiga 6",
-    "lang": "fi"
-  },
-  {
-    "site_id": "liv",
-    "name": "Liv",
-    "lang": "fi",
-    "xmltv_id": "Liv.fi",
-    "logo": "https://i.imgur.com/k6NsXBj.png"
+    "xmltv_id": "TV4Hits.se",
+    "logo": "https://i.imgur.com/EPYOSwZ.png"
   },
   {
     "site_id": "sub",
@@ -888,22 +210,608 @@
     "site_id": "france-5",
     "name": "France 5",
     "lang": "fi",
-    "xmltv_id": "France5.fr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-5-fr.png"
   },
   {
-    "site_id": "godare",
-    "name": "Godare",
+    "site_id": "ftv-hd",
+    "name": "FashionTV HD",
+    "lang": "fi"
+  },
+  {
+    "site_id": "love-nature-4k",
+    "name": "Love Nature 4K",
     "lang": "fi",
-    "xmltv_id": "Godare.se",
-    "logo": "https://i.imgur.com/F0k9nIc.png"
+    "xmltv_id": "LoveNature.ca@4K",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/love-nature-4k-ca.png"
+  },
+  {
+    "site_id": "travel-channel",
+    "name": "Travel Channel",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/travel-channel-int.png"
+  },
+  {
+    "site_id": "v-film-family",
+    "name": "V film family",
+    "lang": "fi",
+    "xmltv_id": "VFilmFamily.se@SD",
+    "logo": "https://i.imgur.com/K6fQ8pe.png"
+  },
+  {
+    "site_id": "disney-channel",
+    "name": "Disney Channel",
+    "lang": "fi",
+    "xmltv_id": "DisneyChannelScandinavia.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/disney-channel-uk.png"
+  },
+  {
+    "site_id": "filmbox-arthouse",
+    "name": "Filmbox Arthouse",
+    "lang": "fi",
+    "xmltv_id": "FilmBoxArthouse.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/filmbox-arthouse-hr.png"
+  },
+  {
+    "site_id": "history",
+    "name": "History",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/history-de.png"
+  },
+  {
+    "site_id": "liiga-2",
+    "name": "Liiga 2",
+    "lang": "fi"
+  },
+  {
+    "site_id": "mezzo-live",
+    "name": "Mezzo Live",
+    "lang": "fi",
+    "xmltv_id": "MezzoLive.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mezzo-live-fr.png"
+  },
+  {
+    "site_id": "bbc-world-news",
+    "name": "BBC World News",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/bbc-world-news-int.png"
+  },
+  {
+    "site_id": "bloomberg",
+    "name": "Bloomberg",
+    "lang": "fi"
+  },
+  {
+    "site_id": "mtv-90s",
+    "name": "MTV 90s",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/mtv-90s-nl.png"
+  },
+  {
+    "site_id": "yle-tv1",
+    "name": "Yle TV1",
+    "lang": "fi",
+    "xmltv_id": "YleTV1.fi@SD",
+    "logo": "https://i.imgur.com/6yXZwUL.png"
+  },
+  {
+    "site_id": "aljazeera",
+    "name": "Al Jazeera",
+    "lang": "fi",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+  },
+  {
+    "site_id": "liiga-5",
+    "name": "Liiga 5",
+    "lang": "fi"
+  },
+  {
+    "site_id": "svt-2",
+    "name": "SVT2",
+    "lang": "fi",
+    "xmltv_id": "SVT2.se@SD",
+    "logo": "https://i.imgur.com/pGWvCxp.png"
+  },
+  {
+    "site_id": "v-sport-live-3",
+    "name": "V sport live 3",
+    "lang": "fi",
+    "xmltv_id": "VSportLive3.se@SD",
+    "logo": "https://i.imgur.com/enr8IAy.png"
+  },
+  {
+    "site_id": "wild-tv",
+    "name": "Wild TV",
+    "lang": "fi",
+    "xmltv_id": "WildTV.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/wild-tv-ca.png"
+  },
+  {
+    "site_id": "bbc-brit",
+    "name": "BBC Brit",
+    "lang": "fi",
+    "xmltv_id": "BBCBrit.uk@Poland",
+    "logo": "https://i.imgur.com/i4remZo.png"
+  },
+  {
+    "site_id": "kunskapskanalen",
+    "name": "Kunskapskanalen",
+    "lang": "fi",
+    "xmltv_id": "Kunskapskanalen.se@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/960px-Kunskapskanalen_2017.svg.png"
+  },
+  {
+    "site_id": "c-more-max",
+    "name": "C More Max",
+    "lang": "fi",
+    "xmltv_id": "MTVMax.fi",
+    "logo": "https://i.imgur.com/0QB3OK1.png"
+  },
+  {
+    "site_id": "discovery",
+    "name": "Discovery Channel",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/discovery-channel-ar.png"
+  },
+  {
+    "site_id": "discovery-science",
+    "name": "Discovery Science",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/discovery-science-ar.png"
+  },
+  {
+    "site_id": "elisa-viihde-sport-3",
+    "name": "Elisa Viihde Sport 3",
+    "lang": "fi"
   },
   {
     "site_id": "boomerang",
     "name": "Boomerang",
     "lang": "fi",
-    "xmltv_id": "Boomerang.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/boomerang-ar.png"
+  },
+  {
+    "site_id": "c-more-first",
+    "name": "C More First",
+    "lang": "fi",
+    "xmltv_id": "CMoreFirst.se",
+    "logo": "https://i.imgur.com/CTFZtlX.png"
+  },
+  {
+    "site_id": "elisa-viihde-sport-2",
+    "name": "Elisa Viihde Sport 2",
+    "lang": "fi"
+  },
+  {
+    "site_id": "food-network",
+    "name": "Food Network",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/food-network-ar.png"
+  },
+  {
+    "site_id": "kanal-10-se",
+    "name": "Kanal 10 Sverige",
+    "lang": "fi"
+  },
+  {
+    "site_id": "v-sport-1-suomi",
+    "name": "V sport 1 Suomi",
+    "lang": "fi"
+  },
+  {
+    "site_id": "euronews",
+    "name": "Euronews",
+    "lang": "fi",
+    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg"
+  },
+  {
+    "site_id": "fuel-tv",
+    "name": "Fuel TV",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/I8mviBy.png"
+  },
+  {
+    "site_id": "liiga-6",
+    "name": "Liiga 6",
+    "lang": "fi"
+  },
+  {
+    "site_id": "liiga-7",
+    "name": "Liiga 7",
+    "lang": "fi"
+  },
+  {
+    "site_id": "liiga-uhd",
+    "name": "Liiga UHD",
+    "lang": "fi"
+  },
+  {
+    "site_id": "tv4-se",
+    "name": "TV4 Sverige",
+    "lang": "fi"
+  },
+  {
+    "site_id": "deutsche-welle",
+    "name": "Deutsche Welle (English)",
+    "lang": "fi",
+    "xmltv_id": "DW.de@English"
+  },
+  {
+    "site_id": "tlc",
+    "name": "TLC",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/tlc-ar.png"
+  },
+  {
+    "site_id": "tv10-se",
+    "name": "TV10 Sverige",
+    "lang": "fi"
+  },
+  {
+    "site_id": "nat-geo-wild",
+    "name": "Nat Geo Wild",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/nat-geo-wild-de.png"
+  },
+  {
+    "site_id": "c-more-series",
+    "name": "C More Series",
+    "lang": "fi",
+    "xmltv_id": "MTVViihde.se",
+    "logo": "https://i.imgur.com/gW2qMCs.png"
+  },
+  {
+    "site_id": "france-2",
+    "name": "France 2",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
+  },
+  {
+    "site_id": "liv",
+    "name": "Liv",
+    "lang": "fi",
+    "xmltv_id": "Liv.fi",
+    "logo": "https://i.imgur.com/k6NsXBj.png"
+  },
+  {
+    "site_id": "tv5",
+    "name": "TV5",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/philippines/tv5-ph.png"
+  },
+  {
+    "site_id": "sky-news",
+    "name": "Sky News",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-news-au.png"
+  },
+  {
+    "site_id": "star-channel",
+    "name": "Star Channel",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/star-channel-ar.png"
+  },
+  {
+    "site_id": "svt-1",
+    "name": "SVT1",
+    "lang": "fi",
+    "xmltv_id": "SVT1.se@SD",
+    "logo": "https://i.imgur.com/j6KusQX.png"
+  },
+  {
+    "site_id": "das-erste",
+    "name": "Das Erste",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/das-erste-de.png"
+  },
+  {
+    "site_id": "fashion-tv",
+    "name": "FashionTV",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/cZWKyuM.png"
+  },
+  {
+    "site_id": "kutonen",
+    "name": "Kutonen",
+    "lang": "fi",
+    "xmltv_id": "Kutonen.fi",
+    "logo": "https://i.imgur.com/OiB7Opu.png"
+  },
+  {
+    "site_id": "nick-jr",
+    "name": "Nick Jr.",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/nick-jr-ar.png"
+  },
+  {
+    "site_id": "tv8-se",
+    "name": "TV8 Sverige",
+    "lang": "fi"
+  },
+  {
+    "site_id": "viasat-history",
+    "name": "Viasat History",
+    "lang": "fi",
+    "xmltv_id": "ViasatHistory.fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/viasat-history-hr.png"
+  },
+  {
+    "site_id": "alfa",
+    "name": "Alfa",
+    "lang": "fi"
+  },
+  {
+    "site_id": "club-mtv",
+    "name": "Club MTV",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/FD6eQI3.png"
+  },
+  {
+    "site_id": "dr-1",
+    "name": "DR1",
+    "lang": "fi",
+    "xmltv_id": "DR1.dk@SD",
+    "logo": "https://i.imgur.com/OETzsOI.png"
+  },
+  {
+    "site_id": "eurochannel",
+    "name": "Eurochannel",
+    "lang": "fi",
+    "xmltv_id": "Eurochannel.uk@SD",
+    "logo": "https://i.imgur.com/yXAtmI6.png"
+  },
+  {
+    "site_id": "nrk-1",
+    "name": "NRK1",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/9tj8ds7.png"
+  },
+  {
+    "site_id": "stingray-classica",
+    "name": "Stingray Classica",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/stingray-classica-ca.png"
+  },
+  {
+    "site_id": "v-film-premiere",
+    "name": "V film premiere",
+    "lang": "fi",
+    "xmltv_id": "VFilmPremiere.se@SD",
+    "logo": "https://i.imgur.com/QdFKe21.png"
+  },
+  {
+    "site_id": "v-sport-golf",
+    "name": "V sport Golf",
+    "lang": "fi",
+    "xmltv_id": "VSportGolf.se@SD",
+    "logo": "https://i.imgur.com/wCw8Pmz.png"
+  },
+  {
+    "site_id": "elisa-viihde-sport-4",
+    "name": "Elisa Viihde Sport 4",
+    "lang": "fi"
+  },
+  {
+    "site_id": "frii",
+    "name": "Frii",
+    "lang": "fi",
+    "xmltv_id": "Frii.fi",
+    "logo": "https://i.imgur.com/h3BAOAC.png"
+  },
+  {
+    "site_id": "history-2",
+    "name": "History 2",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
+  },
+  {
+    "site_id": "mtv-00s",
+    "name": "MTV 00s",
+    "lang": "fi",
+    "xmltv_id": "MTV00s.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/mtv-00s-uk.png"
+  },
+  {
+    "site_id": "v-film-action",
+    "name": "V film action",
+    "lang": "fi",
+    "xmltv_id": "VFilmAction.se@SD",
+    "logo": "https://i.imgur.com/So0mOF8.png"
+  },
+  {
+    "site_id": "v-sport-football",
+    "name": "V sport Football",
+    "lang": "fi",
+    "xmltv_id": "VSportFootball.se@SD",
+    "logo": "https://i.imgur.com/8zupSOw.png"
+  },
+  {
+    "site_id": "v-sport-premium",
+    "name": "V sport Premium",
+    "lang": "fi",
+    "xmltv_id": "VSportPremium.se@SD",
+    "logo": "https://i.imgur.com/BGXq2a4.png"
+  },
+  {
+    "site_id": "viasat-explore",
+    "name": "Viasat Explore",
+    "lang": "fi",
+    "xmltv_id": "ViasatExplore.fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/viasat-explore-hr.png"
+  },
+  {
+    "site_id": "arte",
+    "name": "ARTE",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/arte-fr.png"
+  },
+  {
+    "site_id": "c-more-max-2",
+    "name": "C More Max 2",
+    "lang": "fi"
+  },
+  {
+    "site_id": "c-more-sport-2",
+    "name": "C More Sport 2",
+    "lang": "fi",
+    "xmltv_id": "MTVUrheilu2.fi",
+    "logo": "https://i.imgur.com/tgezMDk.png"
+  },
+  {
+    "site_id": "france24",
+    "name": "France24",
+    "lang": "fi"
+  },
+  {
+    "site_id": "iconcerts",
+    "name": "iConcerts",
+    "lang": "fi",
+    "xmltv_id": "StingrayiConcerts.ca@SD"
+  },
+  {
+    "site_id": "mtv3",
+    "name": "MTV3",
+    "lang": "fi",
+    "xmltv_id": "MTV3.fi@SD",
+    "logo": "https://i.imgur.com/C5rQbBM.png"
+  },
+  {
+    "site_id": "v-film-hits",
+    "name": "V film hits",
+    "lang": "fi",
+    "xmltv_id": "VFilmHits.se@SD",
+    "logo": "https://i.imgur.com/ga6EOsb.png"
+  },
+  {
+    "site_id": "3sat",
+    "name": "3sat",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+  },
+  {
+    "site_id": "24-horas",
+    "name": "24 Horas",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/CEE9zPe.png"
+  },
+  {
+    "site_id": "c-more-stars",
+    "name": "C More Stars",
+    "lang": "fi",
+    "xmltv_id": "TV4Stars.se",
+    "logo": "https://i.imgur.com/Sn7QnZa.png"
+  },
+  {
+    "site_id": "eurosport-2",
+    "name": "Eurosport 2",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
+  },
+  {
+    "site_id": "himlen-tv7",
+    "name": "Himlen TV7",
+    "lang": "fi",
+    "xmltv_id": "HimlenTV7.fi",
+    "logo": "https://i.imgur.com/k8a7KNn.png"
+  },
+  {
+    "site_id": "liiga-4",
+    "name": "Liiga 4",
+    "lang": "fi"
+  },
+  {
+    "site_id": "mtv-80s",
+    "name": "MTV 80s",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/mtv-80s-rs.png"
+  },
+  {
+    "site_id": "elisa-viihde-sport-1",
+    "name": "Elisa Viihde Sport 1",
+    "lang": "fi"
+  },
+  {
+    "site_id": "liiga-3",
+    "name": "Liiga 3",
+    "lang": "fi"
+  },
+  {
+    "site_id": "mtv",
+    "name": "MTV",
+    "lang": "fi",
+    "xmltv_id": "MTV.fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/mtv-ar.png"
+  },
+  {
+    "site_id": "onnitv",
+    "name": "OnniTV",
+    "lang": "fi"
+  },
+  {
+    "site_id": "v-sport-motor",
+    "name": "V sport Motor",
+    "lang": "fi",
+    "xmltv_id": "VSportMotor.se@SD",
+    "logo": "https://i.imgur.com/zspl8AY.png"
+  },
+  {
+    "site_id": "ava",
+    "name": "AVA",
+    "lang": "fi",
+    "xmltv_id": "MTVAva.fi",
+    "logo": "https://i.imgur.com/WxNCiAk.png"
+  },
+  {
+    "site_id": "one-way-tv",
+    "name": "One Way TV",
+    "lang": "fi",
+    "xmltv_id": "OneWayTV.fi",
+    "logo": "https://i.imgur.com/kgy3DV9.png"
+  },
+  {
+    "site_id": "trt-world",
+    "name": "TRT World",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-world-tr.png"
+  },
+  {
+    "site_id": "tve-internacional",
+    "name": "TVE Internacional",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/tve-internacional-int.png"
+  },
+  {
+    "site_id": "v-sport-live-5",
+    "name": "V sport live 5",
+    "lang": "fi",
+    "xmltv_id": "VSportLive5.se@SD",
+    "logo": "https://i.imgur.com/DToZTJK.png"
+  },
+  {
+    "site_id": "godare",
+    "name": "Godare",
+    "lang": "fi",
+    "xmltv_id": "Godare.se@SD",
+    "logo": "https://i.imgur.com/F0k9nIc.png"
+  },
+  {
+    "site_id": "c-more-sport-1",
+    "name": "C More Sport 1",
+    "lang": "fi",
+    "xmltv_id": "MTVUrheilu1.fi",
+    "logo": "https://i.imgur.com/b9jZgbd.png"
+  },
+  {
+    "site_id": "national-geographic",
+    "name": "National Geographic",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/national-geographic-ar.png"
+  },
+  {
+    "site_id": "v-sport-live-1",
+    "name": "V sport live 1",
+    "lang": "fi",
+    "xmltv_id": "VSportLive1.se@SD",
+    "logo": "https://i.imgur.com/KGm37xW.png"
   },
   {
     "site_id": "c-more-juniori",
@@ -913,63 +821,112 @@
     "logo": "https://i.imgur.com/UrgQHbo.png"
   },
   {
-    "site_id": "zdf",
-    "name": "ZDF",
-    "lang": "fi",
-    "xmltv_id": "ZDF.de",
-    "logo": "https://i.imgur.com/rtLb6m9.png"
-  },
-  {
-    "site_id": "cnn",
-    "name": "CNN",
-    "lang": "fi",
-    "xmltv_id": "CNN.us",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png"
-  },
-  {
     "site_id": "liiga-tv",
     "name": "Liiga TV",
     "lang": "fi"
   },
   {
-    "site_id": "mtv-90s",
-    "name": "MTV 90s",
+    "site_id": "tv5-monde",
+    "name": "TV5Monde",
     "lang": "fi",
-    "xmltv_id": "MTV90s.uk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/MTV_90s_2022.svg"
+    "logo": "https://i.imgur.com/WmRbudc.png"
   },
   {
-    "site_id": "tv5",
-    "name": "TV5",
+    "site_id": "v-sport-live-4",
+    "name": "V sport live 4",
     "lang": "fi",
-    "xmltv_id": "ChannelFive.ge",
-    "logo": "https://i.imgur.com/L2XfQG0.png"
+    "xmltv_id": "VSportLive4.se@SD",
+    "logo": "https://i.imgur.com/yjIXL9k.png"
   },
   {
-    "site_id": "v-film-family",
-    "name": "V film family",
+    "site_id": "yle-teema-fem",
+    "name": "Yle Teema Fem",
     "lang": "fi",
-    "xmltv_id": "VFilmFamily.se",
-    "logo": "https://i.imgur.com/K6fQ8pe.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png"
   },
   {
-    "site_id": "v-sport-premium",
-    "name": "V sport Premium",
+    "site_id": "english-club-tv",
+    "name": "English Club TV",
     "lang": "fi",
-    "xmltv_id": "VSportPremium.se",
-    "logo": "https://i.imgur.com/BGXq2a4.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/english-club-tv-pl.png"
   },
   {
-    "site_id": "arte",
-    "name": "ARTE",
+    "site_id": "eurosport-1",
+    "name": "Eurosport 1",
     "lang": "fi",
-    "xmltv_id": "arte.de",
-    "logo": "https://i.imgur.com/ecXMjNl.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
-    "site_id": "bbc-world-news",
-    "name": "BBC World News",
+    "site_id": "ginx-esports-tv",
+    "name": "Ginx eSports TV",
     "lang": "fi",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/bbc-world-news-int.png"
+    "xmltv_id": "GINXTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/ginx-esports-tv-ca.png"
+  },
+  {
+    "site_id": "hero",
+    "name": "Hero",
+    "lang": "fi",
+    "xmltv_id": "Hero.fi",
+    "logo": "https://i.imgur.com/4t5JQLY.png"
+  },
+  {
+    "site_id": "mezzo",
+    "name": "Mezzo",
+    "lang": "fi",
+    "xmltv_id": "Mezzo.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mezzo-fr.png"
+  },
+  {
+    "site_id": "nhk-world-japan",
+    "name": "NHK World Japan",
+    "lang": "fi",
+    "xmltv_id": "NHKWorldJapan.jp@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/nhk-world-japan-int.png"
+  },
+  {
+    "site_id": "rtl-television",
+    "name": "RTL",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/rtl-hr.png"
+  },
+  {
+    "site_id": "tv7",
+    "name": "Taivas TV7",
+    "lang": "fi",
+    "xmltv_id": "TaivasTV7.fi",
+    "logo": "https://i.imgur.com/JyJNiXy.png"
+  },
+  {
+    "site_id": "fight-sports",
+    "name": "Fight Sports",
+    "lang": "fi",
+    "xmltv_id": "FightSports.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/fight-sports-es.png"
+  },
+  {
+    "site_id": "france-24-fr",
+    "name": "France 24 Français",
+    "lang": "fi",
+    "xmltv_id": "France24.fr@French"
+  },
+  {
+    "site_id": "motorvision-tv",
+    "name": "Motorvision TV",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/motorvision-tv-fr.png"
+  },
+  {
+    "site_id": "rai-1",
+    "name": "Rai 1",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
+  },
+  {
+    "site_id": "v-sport-1",
+    "name": "V sport 1",
+    "lang": "fi",
+    "xmltv_id": "VSport1.se@Sweden",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/nordic/v-sport-1-nordic.png"
   }
 ]

@@ -1,87 +1,29 @@
 [
   {
-    "site_id": "4014#644",
-    "name": "WBS원음방송",
+    "site_id": "4014#779",
+    "name": "STB상생방송",
+    "lang": "ko",
+    "xmltv_id": "STB.kr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/stb-ua.png"
+  },
+  {
+    "site_id": "4003#794",
+    "name": "SBS",
+    "lang": "ko",
+    "xmltv_id": "SBS.kr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sbs-au.png"
+  },
+  {
+    "site_id": "4006#693",
+    "name": "디원",
     "lang": "ko"
   },
   {
-    "site_id": "4006#976",
-    "name": "Asia N",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#142",
-    "name": "스마일TV+",
+    "site_id": "4011#537",
+    "name": "MBC NET",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4009#627",
-    "name": "채널A플러스",
-    "lang": "ko",
-    "xmltv_id": "ChannelA.kr",
-    "logo": "https://i.imgur.com/W9laHPD.png"
-  },
-  {
-    "site_id": "4011#409",
-    "name": "KTV",
-    "lang": "ko",
-    "xmltv_id": "KTV.kr",
-    "logo": "https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png"
-  },
-  {
-    "site_id": "4012#949",
-    "name": "뽀요TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4014#156",
-    "name": "CBSTV",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4004#159",
-    "name": "CCTV4",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/gBbLyqh.png"
-  },
-  {
-    "site_id": "4004#171",
-    "name": "한국경제TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4005#847",
-    "name": "OCN",
-    "lang": "ko",
-    "xmltv_id": "OCN.kr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/960px-OCN_Logo.svg.png"
-  },
-  {
-    "site_id": "4007#109",
-    "name": "SPOTV",
-    "lang": "ko",
-    "xmltv_id": "SPOTV.kr",
-    "logo": "https://i.imgur.com/HaoVsm5.png"
-  },
-  {
-    "site_id": "4009#638",
-    "name": "다문화TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4011#735",
-    "name": "쿠키건강TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
+    "xmltv_id": "MBCNet.kr",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/960px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png"
   },
   {
     "site_id": "4014#52",
@@ -91,252 +33,38 @@
     "logo": "https://i.imgur.com/sOoS7RQ.png"
   },
   {
-    "site_id": "4006#915",
-    "name": "CH.U",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4008#708",
-    "name": "KT알파쇼핑",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#57",
-    "name": "I.net",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4003#564",
-    "name": "채널A",
-    "lang": "ko",
-    "xmltv_id": "ChannelA.kr",
-    "logo": "https://i.imgur.com/W9laHPD.png"
-  },
-  {
-    "site_id": "4009#556",
-    "name": "라이프타임",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4012#23",
-    "name": "JEI재능TV",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4006#96",
-    "name": "MBC ON",
-    "lang": "ko",
-    "xmltv_id": "MBCOn.kr",
-    "logo": "https://i.imgur.com/AQzgnKD.png"
-  },
-  {
-    "site_id": "4007#553",
-    "name": "tvN SPORTS",
-    "lang": "ko",
-    "xmltv_id": "tvNSports.kr",
-    "logo": "https://i.imgur.com/NUKYwPr.png"
-  },
-  {
-    "site_id": "4009#500",
-    "name": "skyUHD",
-    "lang": "ko",
-    "xmltv_id": "skyUHD.kr",
-    "logo": "https://i.imgur.com/WPoAok9.png"
-  },
-  {
-    "site_id": "4017#999998",
-    "name": "Satio 홈클래식",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#9999922",
-    "name": "KISS 탑골 K-POP",
+    "site_id": "4017#9999911",
+    "name": "Satio 추억의 올드 팝송",
     "lang": "ko"
   },
   {
     "site_id": "4017#9999930",
     "name": "KISS 듣기 편한 팝",
     "lang": "ko",
+    "xmltv_id": "KissTV.uk@SD",
     "logo": "https://i.imgur.com/cmwa5Wh.png"
   },
   {
-    "site_id": "4008#548",
-    "name": "LOTTE OneTV",
-    "lang": "ko",
-    "xmltv_id": "LotteOneTV.kr",
-    "logo": "https://i.imgur.com/bXe7tYE.png"
-  },
-  {
-    "site_id": "4004#566",
-    "name": "연합뉴스TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4008#497",
-    "name": "GS SHOP",
-    "lang": "ko",
-    "xmltv_id": "GSShop.kr",
-    "logo": "https://i.imgur.com/F7QDbEy.png"
-  },
-  {
-    "site_id": "4009#108",
-    "name": "E채널",
-    "lang": "ko",
-    "xmltv_id": "EChannel.kr",
-    "logo": "https://i.imgur.com/dXaJ37Z.png"
-  },
-  {
-    "site_id": "4010#1001",
-    "name": "TLC여행레저채널",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/UdLeLar.jpg"
-  },
-  {
-    "site_id": "4017#9999931",
-    "name": "KISS 2010년대 가요",
+    "site_id": "4017#9999932",
+    "name": "Satio 7080 히트가요",
     "lang": "ko"
   },
   {
-    "site_id": "4003#798",
-    "name": "EBS",
-    "lang": "ko",
-    "xmltv_id": "EBS.kr",
-    "logo": "https://i.imgur.com/jX26YYt.png"
-  },
-  {
-    "site_id": "4005#916",
-    "name": "스크린",
+    "site_id": "4007#685",
+    "name": "SBS Golf2",
     "lang": "ko"
   },
   {
-    "site_id": "4006#706",
-    "name": "Ch.NOW",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4008#619",
-    "name": "CJ 온스타일플러스",
+    "site_id": "4009#627",
+    "name": "채널A플러스",
     "lang": "ko",
-    "xmltv_id": "CJOnStyle.kr",
-    "logo": "https://i.imgur.com/JiSfEBv.png"
+    "logo": "https://i.imgur.com/W9laHPD.png"
   },
   {
-    "site_id": "4009#139",
-    "name": "UMAX",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#662",
-    "name": "HQplus",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#575",
-    "name": "히스토리",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4005#105",
-    "name": "CINETREE",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4004#594",
-    "name": "매일경제TV",
+    "site_id": "4010#170",
+    "name": "K바둑",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4006#83",
-    "name": "CNTV",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/R693rIC.jpeg"
-  },
-  {
-    "site_id": "4006#104",
-    "name": "Edge TV",
-    "lang": "ko",
-    "xmltv_id": "EdgeTV.kr",
-    "logo": "https://i.imgur.com/y65DED8.png"
-  },
-  {
-    "site_id": "4009#624",
-    "name": "UXN",
-    "lang": "ko",
-    "xmltv_id": "UXN.kr",
-    "logo": "https://i.imgur.com/oGruvjy.png"
-  },
-  {
-    "site_id": "4009#918",
-    "name": "채널 뷰",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#519",
-    "name": "Smithsonian Channel",
-    "lang": "ko",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png"
-  },
-  {
-    "site_id": "4012#358",
-    "name": "카툰네트워크",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4004#551",
-    "name": "YTN",
-    "lang": "ko",
-    "xmltv_id": "YTN.kr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png"
-  },
-  {
-    "site_id": "4009#35",
-    "name": "GTV",
-    "lang": "ko",
-    "xmltv_id": "GTV.kr",
-    "logo": "https://i.imgur.com/02ic07h.png"
-  },
-  {
-    "site_id": "4009#272",
-    "name": "tvN STORY",
-    "lang": "ko",
-    "xmltv_id": "tvNStory.kr",
-    "logo": "https://i.imgur.com/zy0bmH6.png"
-  },
-  {
-    "site_id": "4017#9999926",
-    "name": "KISS 재즈 라운지",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/cmwa5Wh.png"
-  },
-  {
-    "site_id": "4007#769",
-    "name": "SBS Golf",
-    "lang": "ko",
-    "xmltv_id": "SBSGolf.kr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/960px-SBS_Golf_logo_2018.svg.png"
-  },
-  {
-    "site_id": "4007#922",
-    "name": "SPOTV2",
-    "lang": "ko",
-    "xmltv_id": "SPOTV2.kr",
-    "logo": "https://i.imgur.com/YD8fbTH.png"
-  },
-  {
-    "site_id": "4009#689",
-    "name": "UHD DreamTV",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#502",
-    "name": "YTN2",
-    "lang": "ko",
-    "xmltv_id": "YTN2.kr",
-    "logo": "https://i.imgur.com/g6Nhwmb.png"
+    "logo": "https://i.imgur.com/bpLcGKI.png"
   },
   {
     "site_id": "4017#999991",
@@ -344,134 +72,61 @@
     "lang": "ko"
   },
   {
-    "site_id": "4007#447",
-    "name": "ENA SPORTS",
+    "site_id": "4007#986",
+    "name": "SPOTV Prime2(유료)",
     "lang": "ko"
   },
   {
-    "site_id": "4009#443",
-    "name": "SBS LIFE",
+    "site_id": "4008#493",
+    "name": "현대홈쇼핑",
     "lang": "ko"
   },
   {
-    "site_id": "4011#516",
-    "name": "skyGuide",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#9999929",
-    "name": "KISS 다문화가족 음악방송2",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4004#157",
-    "name": "서울경제TV",
+    "site_id": "4009#126",
+    "name": "MBC M",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
+    "xmltv_id": "MBCM.kr@SD",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "4010#164",
+    "name": "바둑TV",
+    "lang": "ko",
     "logo": "https://i.imgur.com/o7y72cu.png"
   },
   {
-    "site_id": "4006#906",
-    "name": "채널차이나",
+    "site_id": "4011#698",
+    "name": "KFN",
     "lang": "ko"
   },
   {
-    "site_id": "4009#498",
-    "name": "Discovery",
+    "site_id": "4003#796",
+    "name": "KBS1",
     "lang": "ko",
-    "logo": "https://i.imgur.com/bZpe8af.png"
+    "xmltv_id": "KBS1.kr@SD"
   },
   {
-    "site_id": "4011#252",
-    "name": "육아방송",
+    "site_id": "4008#496",
+    "name": "NS홈쇼핑",
+    "lang": "ko",
+    "xmltv_id": "NSHomeShopping.kr@SD",
+    "logo": "https://i.imgur.com/Q9xsDQo.png"
+  },
+  {
+    "site_id": "4009#662",
+    "name": "HQplus",
     "lang": "ko"
   },
   {
-    "site_id": "4009#282",
-    "name": "tvN SHOW",
+    "site_id": "4011#409",
+    "name": "KTV",
     "lang": "ko",
-    "xmltv_id": "tvNShow.kr",
-    "logo": "https://i.imgur.com/8OobmvS.png"
+    "xmltv_id": "KTV.kr",
+    "logo": "https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png"
   },
   {
-    "site_id": "4017#9999917",
-    "name": "KISS 최신인기가요",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/cmwa5Wh.png"
-  },
-  {
-    "site_id": "4012#92",
-    "name": "키즈톡톡플러스(유료)",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4006#568",
-    "name": "WeLike",
-    "lang": "ko",
-    "xmltv_id": "WeLike.kr",
-    "logo": "https://i.imgur.com/weRgHkc.png"
-  },
-  {
-    "site_id": "4006#910",
-    "name": "KBS Drama",
-    "lang": "ko",
-    "xmltv_id": "KBSDrama.kr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/960px-KBS_DRAMA.svg.png"
-  },
-  {
-    "site_id": "4009#102",
-    "name": "이벤트TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4009#247",
-    "name": "동아TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4010#615",
-    "name": "BilliardsTV",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4004#132",
-    "name": "MTN 머니투데이방송",
-    "lang": "ko",
-    "xmltv_id": "MTN.kr",
-    "logo": "https://i.imgur.com/MS0lqoG.png"
-  },
-  {
-    "site_id": "4006#693",
-    "name": "디원",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4010#151",
-    "name": "생활체육TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4011#47",
-    "name": "OUN",
-    "lang": "ko",
-    "xmltv_id": "OUN.kr",
-    "logo": "https://i.imgur.com/7s6JtcU.png"
-  },
-  {
-    "site_id": "4004#901",
-    "name": "Fox news",
-    "lang": "ko",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-news-us.png"
-  },
-  {
-    "site_id": "4009#130",
-    "name": "THE M",
+    "site_id": "4012#348",
+    "name": "애니플러스",
     "lang": "ko"
   },
   {
@@ -482,51 +137,34 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/960px-KBS_kids.svg.png"
   },
   {
-    "site_id": "4005#429",
-    "name": "캐치온2(유료)",
-    "lang": "ko",
-    "xmltv_id": "CatchOn2.kr",
-    "logo": "https://i.imgur.com/fV9sZnn.png"
-  },
-  {
-    "site_id": "4014#779",
-    "name": "STB상생방송",
-    "lang": "ko",
-    "xmltv_id": "STB.kr",
-    "logo": "https://i.imgur.com/MTGJD0m.png"
-  },
-  {
-    "site_id": "4017#9999912",
-    "name": "Satio 선데이 브런치카페 팝스 인 뉴욕",
+    "site_id": "4017#9999923",
+    "name": "KISS 응답하라 7080",
     "lang": "ko"
   },
   {
-    "site_id": "4017#9999928",
-    "name": "KISS 다문화가족 음악방송1",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4004#117",
-    "name": "CNN International",
+    "site_id": "4004#159",
+    "name": "CCTV4",
     "lang": "ko",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
+    "xmltv_id": "CCTV4.cn@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/singapore/cctv4-sg.png"
   },
   {
-    "site_id": "4004#622",
-    "name": "SBS Biz",
+    "site_id": "4007#40",
+    "name": "MAXPORTS",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#100",
+    "name": "코미디TV",
     "lang": "ko",
-    "xmltv_id": "SBSBiz.kr",
-    "logo": "https://i.imgur.com/gwA98UT.png"
+    "logo": "https://i.imgur.com/o7y72cu.png"
   },
   {
-    "site_id": "4005#129",
-    "name": "OCN Movies2",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#631",
-    "name": "엑스원",
-    "lang": "ko"
+    "site_id": "4014#903",
+    "name": "BBS 불교방송",
+    "lang": "ko",
+    "xmltv_id": "BBSTV.mn",
+    "logo": "https://i.imgur.com/UHHs4Ys.png"
   },
   {
     "site_id": "4007#911",
@@ -536,48 +174,58 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/84/Mbcsports_logo2.svg/revision/latest/scale-to-width-down/512"
   },
   {
-    "site_id": "4009#36",
-    "name": "FUN TV",
-    "lang": "ko",
-    "xmltv_id": "FunTV.kr",
-    "logo": "https://i.imgur.com/9rfo7O3.png"
-  },
-  {
-    "site_id": "4009#126",
-    "name": "MBC M",
-    "lang": "ko",
-    "xmltv_id": "MBCM.kr",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/MBC_M_logo.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "4009#555",
-    "name": "tvN DRAMA",
-    "lang": "ko",
-    "xmltv_id": "tvNDrama.kr",
-    "logo": "https://i.imgur.com/f91ieU8.png"
-  },
-  {
-    "site_id": "4010#969",
-    "name": "FTV",
-    "lang": "ko",
-    "xmltv_id": "FTV.kr",
-    "logo": "https://i.imgur.com/VLsGJ1x.png"
-  },
-  {
-    "site_id": "4012#348",
-    "name": "애니플러스",
+    "site_id": "4008#708",
+    "name": "KT알파쇼핑",
     "lang": "ko"
   },
   {
-    "site_id": "4005#163",
-    "name": "OCN Movies",
-    "lang": "ko",
-    "xmltv_id": "OCNMovies.kr",
-    "logo": "https://i.imgur.com/VwPHXfi.png"
+    "site_id": "4017#999993",
+    "name": "KISS Music Portal",
+    "lang": "ko"
   },
   {
-    "site_id": "4006#181",
-    "name": "에이플드라마",
+    "site_id": "4006#518",
+    "name": "채널W",
+    "lang": "ko",
+    "xmltv_id": "ChW.kr@SD",
+    "logo": "https://i.imgur.com/D59xG3Y.png"
+  },
+  {
+    "site_id": "4008#548",
+    "name": "LOTTE OneTV",
+    "lang": "ko",
+    "xmltv_id": "LotteOneTV.kr",
+    "logo": "https://i.imgur.com/bXe7tYE.png"
+  },
+  {
+    "site_id": "4014#156",
+    "name": "CBSTV",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4008#497",
+    "name": "GS SHOP",
+    "lang": "ko",
+    "xmltv_id": "GSShop.kr@SD",
+    "logo": "https://i.imgur.com/F7QDbEy.png"
+  },
+  {
+    "site_id": "4015#169",
+    "name": "Midnight",
+    "lang": "ko",
+    "xmltv_id": "Midnight.kr",
+    "logo": "https://i.imgur.com/OmNoXkm.png"
+  },
+  {
+    "site_id": "4017#659",
+    "name": "BBC World Service",
+    "lang": "ko",
+    "xmltv_id": "BBCWorldService.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-world-service-uk.png"
+  },
+  {
+    "site_id": "4008#278",
+    "name": "롯데홈쇼핑",
     "lang": "ko"
   },
   {
@@ -588,127 +236,40 @@
     "logo": "https://i.imgur.com/hHuYqA0.png"
   },
   {
-    "site_id": "4015#558",
-    "name": "플레이보이TV",
+    "site_id": "4011#185",
+    "name": "메디컬TV",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
     "logo": "https://i.imgur.com/o7y72cu.png"
   },
   {
-    "site_id": "4017#9999911",
-    "name": "Satio 추억의 올드 팝송",
+    "site_id": "4017#9999931",
+    "name": "KISS 2010년대 가요",
     "lang": "ko"
   },
   {
-    "site_id": "4004#363",
-    "name": "연합뉴스경제TV",
+    "site_id": "4005#686",
+    "name": "AsiaM",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
+    "xmltv_id": "AsiaM.kr@SD",
+    "logo": "https://i.imgur.com/UgZXkzN.png"
+  },
+  {
+    "site_id": "4009#638",
+    "name": "다문화TV",
+    "lang": "ko",
     "logo": "https://i.imgur.com/o7y72cu.png"
   },
   {
-    "site_id": "4008#521",
-    "name": "신세계쇼핑",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#999999",
-    "name": "Satio 트로트 가요무대",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4005#103",
-    "name": "CINEF",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4006#664",
-    "name": "중화TV",
+    "site_id": "4015#112",
+    "name": "허니TV",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
     "logo": "https://i.imgur.com/o7y72cu.png"
   },
   {
-    "site_id": "4007#685",
-    "name": "SBS Golf2",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4012#113",
-    "name": "EBS플러스1",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4015#599",
-    "name": "핑크하우스",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#9999915",
-    "name": "Satio 1969년 명동 음악다방",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4003#796",
-    "name": "KBS1",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#331",
-    "name": "더 라이프",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#365",
-    "name": "ORFEO",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#378",
-    "name": "실버아이TV",
+    "site_id": "4005#429",
+    "name": "캐치온2(유료)",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4003#935",
-    "name": "OBS",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/MAKvM4T.png"
-  },
-  {
-    "site_id": "4009#520",
-    "name": "C Music TV",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/3UppN5P.png"
-  },
-  {
-    "site_id": "4010#254",
-    "name": "한국낚시방송",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#29",
-    "name": "NBS한국농업방송",
-    "lang": "ko",
-    "xmltv_id": "NBS.kr",
-    "logo": "https://i.imgur.com/pOSroOE.png"
-  },
-  {
-    "site_id": "4014#293",
-    "name": "GOODTV",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#9999914",
-    "name": "Satio 엄마랑 EQ동요",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#9999925",
-    "name": "KISS 피아노와 현",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/cmwa5Wh.png"
+    "logo": "https://i.imgur.com/fV9sZnn.png"
   },
   {
     "site_id": "4009#80",
@@ -716,102 +277,164 @@
     "lang": "ko"
   },
   {
-    "site_id": "4017#9999920",
-    "name": "KISS 한국인의 팝송",
+    "site_id": "4009#676",
+    "name": "SBS F!L UHD",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4010#969",
+    "name": "FTV",
     "lang": "ko",
+    "xmltv_id": "FTV.kr",
+    "logo": "https://i.imgur.com/VLsGJ1x.png"
+  },
+  {
+    "site_id": "4011#621",
+    "name": "Discovery Science",
+    "lang": "ko",
+    "xmltv_id": "DiscoveryScience.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/discovery-science-us.png"
+  },
+  {
+    "site_id": "4017#9999924",
+    "name": "KISS 최신 트로트",
+    "lang": "ko",
+    "xmltv_id": "KissTV.uk@SD",
     "logo": "https://i.imgur.com/cmwa5Wh.png"
   },
   {
-    "site_id": "4017#9999932",
-    "name": "Satio 7080 히트가요",
+    "site_id": "4010#402",
+    "name": "ONT",
+    "lang": "ko",
+    "xmltv_id": "ONT.kr",
+    "logo": "https://i.imgur.com/aLVr20m.png"
+  },
+  {
+    "site_id": "4014#48",
+    "name": "유교TV방송",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4015#586",
+    "name": "비너스TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4017#999998",
+    "name": "Satio 홈클래식",
     "lang": "ko"
   },
   {
-    "site_id": "4009#968",
-    "name": "KBS Joy",
-    "lang": "ko",
-    "xmltv_id": "KBSJoy.kr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png"
-  },
-  {
-    "site_id": "4011#182",
-    "name": "Animal Planet",
-    "lang": "ko",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
-  },
-  {
-    "site_id": "4012#84",
-    "name": "애니박스",
+    "site_id": "4005#165",
+    "name": "더무비",
     "lang": "ko"
   },
   {
-    "site_id": "4014#33",
-    "name": "가톨릭평화방송",
+    "site_id": "4009#917",
+    "name": "E Like",
     "lang": "ko"
   },
   {
-    "site_id": "4005#971",
-    "name": "Mplex",
+    "site_id": "4012#114",
+    "name": "EBS플러스2",
     "lang": "ko",
-    "xmltv_id": "Mplex.kr",
-    "logo": "https://i.imgur.com/UjQpJKx.png"
+    "xmltv_id": "EBS2TV.kr@SD"
   },
   {
-    "site_id": "4006#518",
-    "name": "채널W",
+    "site_id": "4003#562",
+    "name": "MBN",
     "lang": "ko",
-    "xmltv_id": "ChW.kr",
-    "logo": "https://i.imgur.com/D59xG3Y.png"
+    "logo": "https://i.imgur.com/wm3JupT.png"
+  },
+  {
+    "site_id": "4004#171",
+    "name": "한국경제TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4005#163",
+    "name": "OCN Movies",
+    "lang": "ko",
+    "xmltv_id": "OCNMovies.kr",
+    "logo": "https://i.imgur.com/VwPHXfi.png"
+  },
+  {
+    "site_id": "4005#847",
+    "name": "OCN",
+    "lang": "ko",
+    "xmltv_id": "OCN.kr",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/960px-OCN_Logo.svg.png"
+  },
+  {
+    "site_id": "4009#624",
+    "name": "UXN",
+    "lang": "ko",
+    "xmltv_id": "UXN.kr",
+    "logo": "https://i.imgur.com/oGruvjy.png"
+  },
+  {
+    "site_id": "4017#999995",
+    "name": "Satio 최신인기가요 HOT 150",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#287",
+    "name": "ENA DRAMA",
+    "lang": "ko",
+    "xmltv_id": "ENADRAMA.kr",
+    "logo": "https://i.imgur.com/IowmetH.png"
+  },
+  {
+    "site_id": "4007#342",
+    "name": "SPOTV Prime+(유료)",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#142",
+    "name": "스마일TV+",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4010#488",
+    "name": "브레인TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4004#132",
+    "name": "MTN 머니투데이방송",
+    "lang": "ko",
+    "xmltv_id": "MTN.kr",
+    "logo": "https://i.imgur.com/MS0lqoG.png"
+  },
+  {
+    "site_id": "4011#180",
+    "name": "MGTV",
+    "lang": "ko",
+    "xmltv_id": "MGTV.kr",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXdJFvr-v8MYPL3PXQdtIJIZpXTTcB8y27aA\u0026s"
   },
   {
     "site_id": "4011#663",
     "name": "NOW제주TV",
     "lang": "ko",
+    "xmltv_id": "NowTV.bw",
     "logo": "https://i.imgur.com/rkBw0pW.png"
   },
   {
-    "site_id": "4011#792",
-    "name": "YTN사이언스",
+    "site_id": "4012#777",
+    "name": "EBS English",
     "lang": "ko",
-    "xmltv_id": "YTN.kr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png"
+    "xmltv_id": "EBSEnglish.kr",
+    "logo": "https://i.imgur.com/5wLJzb0.png"
   },
   {
-    "site_id": "4008#930",
-    "name": "현대홈쇼핑+Shop",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4005#799",
-    "name": "캐치온1(유료)",
-    "lang": "ko",
-    "xmltv_id": "CatchOn1.kr",
-    "logo": "https://i.imgur.com/yRbmjEH.png"
-  },
-  {
-    "site_id": "4006#655",
-    "name": "ASIA UHD",
-    "lang": "ko",
-    "xmltv_id": "AsiaUHD.kr",
-    "logo": "https://i.imgur.com/Sl5Shjg.png"
-  },
-  {
-    "site_id": "4008#646",
-    "name": "NS SHOP+",
-    "lang": "ko",
-    "xmltv_id": "NSShopPlus.kr",
-    "logo": "https://i.imgur.com/7KmXNci.png"
-  },
-  {
-    "site_id": "4009#100",
-    "name": "코미디TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4009#174",
-    "name": "TVCHOSUN2",
+    "site_id": "4007#447",
+    "name": "ENA SPORTS",
     "lang": "ko"
   },
   {
@@ -822,317 +445,45 @@
     "logo": "https://i.imgur.com/JiSfEBv.png"
   },
   {
-    "site_id": "4011#79",
-    "name": "연합뉴스TV JOB",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#999994",
-    "name": "Satio Music Portal",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#9999913",
-    "name": "Satio 드라마 같은 사랑, 러브 발라드",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4004#673",
-    "name": "CGTN",
-    "lang": "ko",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
-  },
-  {
-    "site_id": "4008#529",
-    "name": "SK stoa",
-    "lang": "ko",
-    "xmltv_id": "SKStoa.kr",
-    "logo": "https://i.imgur.com/PbJBB5j.png"
-  },
-  {
-    "site_id": "4008#567",
-    "name": "홈\u0026쇼핑",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#419",
-    "name": "CMCTV",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#291",
-    "name": "KBS LIFE",
-    "lang": "ko",
-    "xmltv_id": "KBSLife.kr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/960px-KBS_Life.svg.png"
-  },
-  {
-    "site_id": "4011#415",
-    "name": "헬스메디TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4015#169",
-    "name": "Midnight",
-    "lang": "ko",
-    "xmltv_id": "Midnight.kr",
-    "logo": "https://i.imgur.com/OmNoXkm.png"
-  },
-  {
-    "site_id": "4017#9999933",
-    "name": "Satio 스무드재즈앳더팜비치",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4005#686",
-    "name": "AsiaM",
-    "lang": "ko",
-    "xmltv_id": "AsiaM.kr",
-    "logo": "https://i.imgur.com/UgZXkzN.png"
-  },
-  {
-    "site_id": "4006#767",
-    "name": "SBS Plus",
-    "lang": "ko",
-    "xmltv_id": "SBSPlus.kr",
-    "logo": "https://i.imgur.com/8pINOIM.png"
-  },
-  {
-    "site_id": "4009#58",
-    "name": "MBC Every1",
-    "lang": "ko",
-    "xmltv_id": "MBCEvery1.kr",
-    "logo": "https://i.imgur.com/cnawqOu.png"
-  },
-  {
-    "site_id": "4009#514",
-    "name": "채널이엠",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#166",
-    "name": "NHK World Premium",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/4ESi2La.png"
-  },
-  {
-    "site_id": "4011#621",
-    "name": "Discovery Science",
-    "lang": "ko",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"
-  },
-  {
-    "site_id": "4007#977",
-    "name": "SBS Sports",
-    "lang": "ko",
-    "xmltv_id": "SBSSports.kr",
-    "logo": "https://i.imgur.com/L2SdLkb.png"
-  },
-  {
-    "site_id": "4015#86",
-    "name": "VIKI",
-    "lang": "ko",
-    "xmltv_id": "Viki.kr",
-    "logo": "https://i.imgur.com/w6zInZz.png"
-  },
-  {
-    "site_id": "4007#407",
-    "name": "JTBC GOLF\u0026SPORTS",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#818",
-    "name": "MX",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/0i5rDRN.png"
-  },
-  {
-    "site_id": "4010#488",
-    "name": "브레인TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4011#128",
-    "name": "OBS W",
-    "lang": "ko",
-    "xmltv_id": "OBSW.kr",
-    "logo": "https://i.imgur.com/VbBM6jE.png"
-  },
-  {
-    "site_id": "4008#496",
-    "name": "NS홈쇼핑",
-    "lang": "ko",
-    "xmltv_id": "NSHomeShopping.kr",
-    "logo": "https://i.imgur.com/Q9xsDQo.png"
-  },
-  {
-    "site_id": "4012#56",
-    "name": "애니원",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4014#42",
-    "name": "CTS기독교TV",
-    "lang": "ko",
-    "xmltv_id": "CTSTV.kr",
-    "logo": "https://i.imgur.com/z3L8uNB.png"
-  },
-  {
-    "site_id": "4017#999995",
-    "name": "Satio 최신인기가요 HOT 150",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#9999934",
-    "name": "Satio 최신유행 클럽음악",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#707",
-    "name": "복지TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4017#999996",
-    "name": "대한민국 역대 발라드 명곡 770선",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#982",
-    "name": "대교 뉴이프Plus",
+    "site_id": "4009#331",
+    "name": "더 라이프",
     "lang": "ko"
   },
   {
     "site_id": "4003#797",
     "name": "MBC",
     "lang": "ko",
-    "xmltv_id": "HLAODTV.kr",
+    "xmltv_id": "MBCTV.kr@SD",
     "logo": "https://i.imgur.com/uR0gScb.png"
   },
   {
-    "site_id": "4006#61",
-    "name": "텔레노벨라",
-    "lang": "ko"
+    "site_id": "4004#622",
+    "name": "SBS Biz",
+    "lang": "ko",
+    "xmltv_id": "SBSBiz.kr@SD",
+    "logo": "https://i.imgur.com/gwA98UT.png"
   },
   {
     "site_id": "4006#379",
     "name": "하이라이트TV",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
     "logo": "https://i.imgur.com/o7y72cu.png"
   },
   {
-    "site_id": "4007#986",
-    "name": "SPOTV Prime2(유료)",
+    "site_id": "4009#85",
+    "name": "K STAR",
     "lang": "ko"
   },
   {
-    "site_id": "4009#658",
-    "name": "MBN플러스",
+    "site_id": "4011#29",
+    "name": "NBS한국농업방송",
     "lang": "ko",
-    "xmltv_id": "MBN.kr",
-    "logo": "https://i.imgur.com/wm3JupT.png"
+    "xmltv_id": "NBS.kr",
+    "logo": "https://i.imgur.com/pOSroOE.png"
   },
   {
-    "site_id": "4009#923",
-    "name": "JTBC4",
-    "lang": "ko",
-    "xmltv_id": "JTBC4.kr",
-    "logo": "https://i.imgur.com/dgIXpHS.png"
-  },
-  {
-    "site_id": "4010#934",
-    "name": "OLIFE",
-    "lang": "ko",
-    "xmltv_id": "OLIFE.kr",
-    "logo": "https://i.imgur.com/z2UQKHF.png"
-  },
-  {
-    "site_id": "4005#850",
-    "name": "유로무비",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4008#278",
-    "name": "롯데홈쇼핑",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#904",
-    "name": "BBC Earth",
-    "lang": "ko",
-    "logo": "https://bbcearth.ca/wp-content/uploads/2024/02/BBCEarth_Logo-1.png"
-  },
-  {
-    "site_id": "4017#9999924",
-    "name": "KISS 최신 트로트",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/cmwa5Wh.png"
-  },
-  {
-    "site_id": "4007#515",
-    "name": "IB Sports",
-    "lang": "ko",
-    "xmltv_id": "IBSports.kr",
-    "logo": "https://i.imgur.com/rpOuU7S.png"
-  },
-  {
-    "site_id": "4007#974",
-    "name": "JTBC Golf",
-    "lang": "ko",
-    "xmltv_id": "JTBCGolf.kr",
-    "logo": "https://i.imgur.com/wa4KC7z.png"
-  },
-  {
-    "site_id": "4010#164",
-    "name": "바둑TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4008#493",
-    "name": "현대홈쇼핑",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4008#634",
-    "name": "GS MY SHOP",
-    "lang": "ko",
-    "xmltv_id": "GSMyShop.kr",
-    "logo": "https://i.imgur.com/ETPQwui.png"
-  },
-  {
-    "site_id": "4009#970",
-    "name": "ENA PLAY",
-    "lang": "ko",
-    "xmltv_id": "ENAPLAY.kr",
-    "logo": "https://i.imgur.com/Ksc8IHf.png"
-  },
-  {
-    "site_id": "4017#9999910",
-    "name": "Satio 인기성인가요",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#9999923",
-    "name": "KISS 응답하라 7080",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4007#152",
-    "name": "Golf\u0026PBA",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4007#985",
-    "name": "SPOTV Prime(유료)",
+    "site_id": "4017#9999933",
+    "name": "Satio 스무드재즈앳더팜비치",
     "lang": "ko"
   },
   {
@@ -1141,123 +492,85 @@
     "lang": "ko"
   },
   {
-    "site_id": "4010#402",
-    "name": "ONT",
+    "site_id": "4010#1001",
+    "name": "TLC여행레저채널",
     "lang": "ko",
-    "xmltv_id": "ONT.kr",
-    "logo": "https://i.imgur.com/aLVr20m.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/tlc-ar.png"
   },
   {
-    "site_id": "4011#537",
-    "name": "MBC NET",
-    "lang": "ko",
-    "xmltv_id": "MBCNet.kr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/960px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png"
-  },
-  {
-    "site_id": "4006#287",
-    "name": "ENA DRAMA",
-    "lang": "ko",
-    "xmltv_id": "ENADRAMA.kr",
-    "logo": "https://i.imgur.com/IowmetH.png"
-  },
-  {
-    "site_id": "4015#112",
-    "name": "허니TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4017#659",
-    "name": "BBC World Service",
-    "lang": "ko",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/bbc-world-service-int.png"
-  },
-  {
-    "site_id": "4009#60",
-    "name": "tvN",
-    "lang": "ko",
-    "xmltv_id": "tvN.kr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
-  },
-  {
-    "site_id": "4009#676",
-    "name": "SBS F!L UHD",
+    "site_id": "4005#129",
+    "name": "OCN Movies2",
     "lang": "ko"
   },
   {
-    "site_id": "4009#70",
-    "name": "채널S",
+    "site_id": "4007#109",
+    "name": "SPOTV",
     "lang": "ko",
-    "logo": "https://i.imgur.com/Vy7PRuq.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/philippines/spotv-ph.png"
   },
   {
-    "site_id": "4009#375",
-    "name": "엣지 온",
+    "site_id": "4012#84",
+    "name": "애니박스",
     "lang": "ko"
   },
   {
-    "site_id": "4011#698",
-    "name": "KFN",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4005#440",
-    "name": "월드클래식무비",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#273",
-    "name": "Mnet",
+    "site_id": "4012#113",
+    "name": "EBS플러스1",
     "lang": "ko",
-    "xmltv_id": "Mnet.kr",
-    "logo": "https://i.imgur.com/DGH10Z2.png"
+    "xmltv_id": "EBS1TV.kr@SD"
   },
   {
-    "site_id": "4010#170",
-    "name": "K바둑",
+    "site_id": "4017#9999927",
+    "name": "KISS 기독교 음악",
     "lang": "ko",
-    "xmltv_id": "KBaduk.kr",
-    "logo": "https://i.imgur.com/bpLcGKI.png"
-  },
-  {
-    "site_id": "4010#613",
-    "name": "마운틴TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4011#669",
-    "name": "리얼TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4014#903",
-    "name": "BBS 불교방송",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/UHHs4Ys.png"
-  },
-  {
-    "site_id": "4017#9999919",
-    "name": "KISS 당신의 발라드",
-    "lang": "ko",
+    "xmltv_id": "KissTV.uk@SD",
     "logo": "https://i.imgur.com/cmwa5Wh.png"
   },
   {
-    "site_id": "4004#359",
-    "name": "토마토증권통",
-    "lang": "ko"
+    "site_id": "4004#901",
+    "name": "Fox news",
+    "lang": "ko",
+    "xmltv_id": "FoxNewsChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-news-us.png"
   },
   {
-    "site_id": "4006#857",
-    "name": "MBC드라마",
+    "site_id": "4006#83",
+    "name": "CNTV",
     "lang": "ko",
-    "xmltv_id": "HLAODTV.kr",
-    "logo": "https://i.imgur.com/uR0gScb.png"
+    "xmltv_id": "CentroNorteTelevision.cu",
+    "logo": "https://i.imgur.com/R693rIC.jpeg"
+  },
+  {
+    "site_id": "4009#58",
+    "name": "MBC Every1",
+    "lang": "ko",
+    "xmltv_id": "MBCEvery1.kr@SD",
+    "logo": "https://i.imgur.com/cnawqOu.png"
+  },
+  {
+    "site_id": "4009#272",
+    "name": "tvN STORY",
+    "lang": "ko",
+    "xmltv_id": "tvNStory.kr",
+    "logo": "https://i.imgur.com/zy0bmH6.png"
+  },
+  {
+    "site_id": "4009#689",
+    "name": "UHD DreamTV",
+    "lang": "ko",
+    "xmltv_id": "UHDDreamTV.kr"
+  },
+  {
+    "site_id": "4017#9999917",
+    "name": "KISS 최신인기가요",
+    "lang": "ko",
+    "xmltv_id": "KissTV.uk@SD",
+    "logo": "https://i.imgur.com/cmwa5Wh.png"
+  },
+  {
+    "site_id": "4007#152",
+    "name": "Golf\u0026PBA",
+    "lang": "ko"
   },
   {
     "site_id": "4007#550",
@@ -1267,130 +580,62 @@
     "logo": "https://i.imgur.com/xZ2s9eY.png"
   },
   {
-    "site_id": "4011#427",
-    "name": "국회방송",
+    "site_id": "4009#130",
+    "name": "THE M",
     "lang": "ko"
   },
   {
-    "site_id": "4012#777",
-    "name": "EBS English",
+    "site_id": "4011#415",
+    "name": "헬스메디TV",
     "lang": "ko",
-    "xmltv_id": "EBSEnglish.kr",
-    "logo": "https://i.imgur.com/5wLJzb0.png"
-  },
-  {
-    "site_id": "4012#114",
-    "name": "EBS플러스2",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4003#563",
-    "name": "JTBC",
-    "lang": "ko",
-    "xmltv_id": "JTBC.kr",
-    "logo": "https://i.imgur.com/fCruRmS.png"
-  },
-  {
-    "site_id": "4006#513",
-    "name": "ONCE",
-    "lang": "ko",
-    "xmltv_id": "ONCE.kr",
-    "logo": "https://i.imgur.com/t1jP002.png"
-  },
-  {
-    "site_id": "4017#999997",
-    "name": "최신인기댄스\u0026힙합",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4003#795",
-    "name": "KBS2",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4007#578",
-    "name": "Eurosport",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/s4jDnJh.png"
-  },
-  {
-    "site_id": "4006#679",
-    "name": "NXT",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#85",
-    "name": "K STAR",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4011#180",
-    "name": "MGTV",
-    "lang": "ko",
-    "xmltv_id": "MGTV.kr",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXdJFvr-v8MYPL3PXQdtIJIZpXTTcB8y27aA\u0026s"
-  },
-  {
-    "site_id": "4011#185",
-    "name": "메디컬TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
     "logo": "https://i.imgur.com/o7y72cu.png"
   },
   {
-    "site_id": "4004#380",
-    "name": "이데일리TV",
+    "site_id": "4005#103",
+    "name": "CINEF",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4004#363",
+    "name": "연합뉴스경제TV",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
     "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4006#783",
+    "name": "ENA",
+    "lang": "ko",
+    "xmltv_id": "ENA.kr@SD",
+    "logo": "https://i.imgur.com/RwMmbtD.png"
+  },
+  {
+    "site_id": "4009#443",
+    "name": "SBS LIFE",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4011#291",
+    "name": "KBS LIFE",
+    "lang": "ko",
+    "xmltv_id": "KBSLife.kr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/960px-KBS_Life.svg.png"
+  },
+  {
+    "site_id": "4012#92",
+    "name": "키즈톡톡플러스(유료)",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4017#9999913",
+    "name": "Satio 드라마 같은 사랑, 러브 발라드",
+    "lang": "ko"
   },
   {
     "site_id": "4004#506",
     "name": "BBC News",
     "lang": "ko",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "4006#285",
-    "name": "Dramax",
-    "lang": "ko",
-    "xmltv_id": "Dramax.kr",
-    "logo": "https://i.imgur.com/o8ZXlxf.png"
-  },
-  {
-    "site_id": "4011#50",
-    "name": "아리랑TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4008#632",
-    "name": "공영쇼핑",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#928",
-    "name": "한경arteTV",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4015#586",
-    "name": "비너스TV",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4017#999993",
-    "name": "KISS Music Portal",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4017#9999927",
-    "name": "KISS 기독교 음악",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/cmwa5Wh.png"
+    "xmltv_id": "BBCNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "site_id": "4005#860",
@@ -1398,20 +643,39 @@
     "lang": "ko"
   },
   {
-    "site_id": "4009#858",
-    "name": "SBS funE",
+    "site_id": "4006#499",
+    "name": "드라마큐브",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4012#23",
+    "name": "JEI재능TV",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4017#9999929",
+    "name": "KISS 다문화가족 음악방송2",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4004#380",
+    "name": "이데일리TV",
     "lang": "ko",
-    "xmltv_id": "SBSfunE.kr",
-    "logo": "https://i.imgur.com/sxM1XcA.png"
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4005#440",
+    "name": "월드클래식무비",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4005#850",
+    "name": "유로무비",
+    "lang": "ko"
   },
   {
     "site_id": "4012#725",
     "name": "애니맥스",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4006#499",
-    "name": "드라마큐브",
     "lang": "ko"
   },
   {
@@ -1422,61 +686,173 @@
     "logo": "https://i.imgur.com/gbpKZl4.png"
   },
   {
-    "site_id": "4017#9999916",
-    "name": "Satio 럭셔리 파티 라운지",
+    "site_id": "4011#79",
+    "name": "연합뉴스TV JOB",
     "lang": "ko"
   },
   {
-    "site_id": "4003#549",
-    "name": "TV조선",
+    "site_id": "4017#9999912",
+    "name": "Satio 선데이 브런치카페 팝스 인 뉴욕",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4017#9999914",
+    "name": "Satio 엄마랑 EQ동요",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4011#378",
+    "name": "실버아이TV",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
     "logo": "https://i.imgur.com/o7y72cu.png"
   },
   {
-    "site_id": "4003#562",
-    "name": "MBN",
+    "site_id": "4006#655",
+    "name": "ASIA UHD",
     "lang": "ko",
-    "xmltv_id": "MBN.kr",
-    "logo": "https://i.imgur.com/wm3JupT.png"
+    "xmltv_id": "AsiaUHD.kr",
+    "logo": "https://i.imgur.com/Sl5Shjg.png"
   },
   {
-    "site_id": "4006#973",
-    "name": "채널J",
+    "site_id": "4014#293",
+    "name": "GOODTV",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4005#105",
+    "name": "CINETREE",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#104",
+    "name": "Edge TV",
     "lang": "ko",
-    "logo": "https://i.imgur.com/POdTmaD.png"
+    "xmltv_id": "EdgeTV.kr@SD",
+    "logo": "https://i.imgur.com/y65DED8.png"
+  },
+  {
+    "site_id": "4009#928",
+    "name": "한경arteTV",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4004#359",
+    "name": "토마토증권통",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#419",
+    "name": "CMCTV",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#818",
+    "name": "MX",
+    "lang": "ko",
+    "xmltv_id": "JOMXDTV.jp",
+    "logo": "https://i.imgur.com/0i5rDRN.png"
+  },
+  {
+    "site_id": "4011#669",
+    "name": "리얼TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4009#139",
+    "name": "UMAX",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#970",
+    "name": "ENA PLAY",
+    "lang": "ko",
+    "xmltv_id": "ENAPLAY.kr@SD",
+    "logo": "https://i.imgur.com/Ksc8IHf.png"
+  },
+  {
+    "site_id": "4011#182",
+    "name": "Animal Planet",
+    "lang": "ko",
+    "xmltv_id": "AnimalPlanet.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/animal-planet-us.png"
+  },
+  {
+    "site_id": "4017#9999926",
+    "name": "KISS 재즈 라운지",
+    "lang": "ko",
+    "xmltv_id": "KissTV.uk@SD",
+    "logo": "https://i.imgur.com/cmwa5Wh.png"
+  },
+  {
+    "site_id": "4004#673",
+    "name": "CGTN",
+    "lang": "ko",
+    "xmltv_id": "CGTNAmerica.cn@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cgtn-int.png"
+  },
+  {
+    "site_id": "4006#285",
+    "name": "Dramax",
+    "lang": "ko",
+    "xmltv_id": "Dramax.kr",
+    "logo": "https://i.imgur.com/o8ZXlxf.png"
+  },
+  {
+    "site_id": "4007#985",
+    "name": "SPOTV Prime(유료)",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#968",
+    "name": "KBS Joy",
+    "lang": "ko",
+    "xmltv_id": "KBSJoy.kr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png"
+  },
+  {
+    "site_id": "4011#502",
+    "name": "YTN2",
+    "lang": "ko",
+    "xmltv_id": "YTN2.kr",
+    "logo": "https://i.imgur.com/g6Nhwmb.png"
+  },
+  {
+    "site_id": "4003#564",
+    "name": "채널A",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/W9laHPD.png"
+  },
+  {
+    "site_id": "4006#664",
+    "name": "중화TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4009#923",
+    "name": "JTBC4",
+    "lang": "ko",
+    "xmltv_id": "JTBC4.kr",
+    "logo": "https://i.imgur.com/dgIXpHS.png"
   },
   {
     "site_id": "4015#987",
     "name": "디자이어TV",
     "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
     "logo": "https://i.imgur.com/o7y72cu.png"
   },
   {
-    "site_id": "4017#9999921",
-    "name": "KISS 키스 인기 트로트",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/cmwa5Wh.png"
-  },
-  {
-    "site_id": "4003#794",
-    "name": "SBS",
-    "lang": "ko",
-    "xmltv_id": "SBS.kr",
-    "logo": "https://i.imgur.com/4LHX71N.png"
-  },
-  {
-    "site_id": "4005#165",
-    "name": "더무비",
+    "site_id": "4017#9999910",
+    "name": "Satio 인기성인가요",
     "lang": "ko"
   },
   {
-    "site_id": "4006#509",
-    "name": "KBS Story",
+    "site_id": "4017#9999925",
+    "name": "KISS 피아노와 현",
     "lang": "ko",
-    "xmltv_id": "KBSStory.kr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/960px-KBS_Story.svg.png"
+    "xmltv_id": "KissTV.uk@SD",
+    "logo": "https://i.imgur.com/cmwa5Wh.png"
   },
   {
     "site_id": "4006#780",
@@ -1486,59 +862,6 @@
     "logo": "https://i.imgur.com/LeqtIOO.png"
   },
   {
-    "site_id": "4007#342",
-    "name": "SPOTV Prime+(유료)",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4009#917",
-    "name": "E Like",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4014#48",
-    "name": "유교TV방송",
-    "lang": "ko",
-    "xmltv_id": "BadukTV.kr",
-    "logo": "https://i.imgur.com/o7y72cu.png"
-  },
-  {
-    "site_id": "4017#9999918",
-    "name": "KISS 클래식 산책",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/cmwa5Wh.png"
-  },
-  {
-    "site_id": "4007#40",
-    "name": "MAXPORTS",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4007#327",
-    "name": "FIGHT SPORTS",
-    "lang": "ko",
-    "logo": "https://i.imgur.com/nV55veq.png"
-  },
-  {
-    "site_id": "4008#640",
-    "name": "W쇼핑",
-    "lang": "ko",
-    "xmltv_id": "ChW.kr",
-    "logo": "https://i.imgur.com/D59xG3Y.png"
-  },
-  {
-    "site_id": "4005#882",
-    "name": "시네마천국",
-    "lang": "ko"
-  },
-  {
-    "site_id": "4006#783",
-    "name": "ENA",
-    "lang": "ko",
-    "xmltv_id": "ENA.kr",
-    "logo": "https://i.imgur.com/RwMmbtD.png"
-  },
-  {
     "site_id": "4009#62",
     "name": "JTBC2",
     "lang": "ko",
@@ -1546,13 +869,691 @@
     "logo": "https://i.imgur.com/kljWkXS.png"
   },
   {
+    "site_id": "4011#47",
+    "name": "OUN",
+    "lang": "ko",
+    "xmltv_id": "OUN.kr",
+    "logo": "https://i.imgur.com/7s6JtcU.png"
+  },
+  {
+    "site_id": "4011#166",
+    "name": "NHK World Premium",
+    "lang": "ko",
+    "xmltv_id": "NHKWorldPremium.jp@SD",
+    "logo": "https://i.imgur.com/4ESi2La.png"
+  },
+  {
+    "site_id": "4011#252",
+    "name": "육아방송",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4004#594",
+    "name": "매일경제TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4009#658",
+    "name": "MBN플러스",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/wm3JupT.png"
+  },
+  {
+    "site_id": "4011#575",
+    "name": "히스토리",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#375",
+    "name": "엣지 온",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4010#615",
+    "name": "BilliardsTV",
+    "lang": "ko",
+    "xmltv_id": "BilliardsTV.kr@SD"
+  },
+  {
+    "site_id": "4011#904",
+    "name": "BBC Earth",
+    "lang": "ko",
+    "xmltv_id": "BBCEarth.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/bbc-earth-au.png"
+  },
+  {
+    "site_id": "4006#906",
+    "name": "채널차이나",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4007#515",
+    "name": "IB Sports",
+    "lang": "ko",
+    "xmltv_id": "IBSports.kr",
+    "logo": "https://i.imgur.com/rpOuU7S.png"
+  },
+  {
+    "site_id": "4009#57",
+    "name": "I.net",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4010#151",
+    "name": "생활체육TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4017#9999919",
+    "name": "KISS 당신의 발라드",
+    "lang": "ko",
+    "xmltv_id": "KissTV.uk@SD",
+    "logo": "https://i.imgur.com/cmwa5Wh.png"
+  },
+  {
+    "site_id": "4017#9999922",
+    "name": "KISS 탑골 K-POP",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4005#799",
+    "name": "캐치온1(유료)",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/yRbmjEH.png"
+  },
+  {
+    "site_id": "4006#973",
+    "name": "채널J",
+    "lang": "ko",
+    "xmltv_id": "ChannelJ.kr@SD",
+    "logo": "https://i.imgur.com/POdTmaD.png"
+  },
+  {
+    "site_id": "4009#273",
+    "name": "Mnet",
+    "lang": "ko",
+    "xmltv_id": "Mnet.kr",
+    "logo": "https://i.imgur.com/DGH10Z2.png"
+  },
+  {
+    "site_id": "4011#427",
+    "name": "국회방송",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4007#553",
+    "name": "tvN SPORTS",
+    "lang": "ko",
+    "xmltv_id": "tvNSports.kr",
+    "logo": "https://i.imgur.com/NUKYwPr.png"
+  },
+  {
+    "site_id": "4009#60",
+    "name": "tvN",
+    "lang": "ko",
+    "xmltv_id": "tvN.kr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/tvn-hk.png"
+  },
+  {
+    "site_id": "4014#42",
+    "name": "CTS기독교TV",
+    "lang": "ko",
+    "xmltv_id": "CTSTV.kr@SD",
+    "logo": "https://i.imgur.com/z3L8uNB.png"
+  },
+  {
+    "site_id": "4007#578",
+    "name": "Eurosport",
+    "lang": "ko",
+    "xmltv_id": "Eurosport1.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/eurosport-in.png"
+  },
+  {
+    "site_id": "4017#999996",
+    "name": "대한민국 역대 발라드 명곡 770선",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#568",
+    "name": "WeLike",
+    "lang": "ko",
+    "xmltv_id": "WeLike.kr",
+    "logo": "https://i.imgur.com/weRgHkc.png"
+  },
+  {
+    "site_id": "4007#407",
+    "name": "JTBC GOLF\u0026SPORTS",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#555",
+    "name": "tvN DRAMA",
+    "lang": "ko",
+    "xmltv_id": "tvNDrama.kr",
+    "logo": "https://i.imgur.com/f91ieU8.png"
+  },
+  {
+    "site_id": "4012#358",
+    "name": "카툰네트워크",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4017#9999934",
+    "name": "Satio 최신유행 클럽음악",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#108",
+    "name": "E채널",
+    "lang": "ko",
+    "xmltv_id": "EChannel.kr@SD",
+    "logo": "https://i.imgur.com/dXaJ37Z.png"
+  },
+  {
+    "site_id": "4009#514",
+    "name": "채널이엠",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#556",
+    "name": "라이프타임",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4004#566",
+    "name": "연합뉴스TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4009#500",
+    "name": "skyUHD",
+    "lang": "ko",
+    "xmltv_id": "skyUHD.kr@SD",
+    "logo": "https://i.imgur.com/WPoAok9.png"
+  },
+  {
+    "site_id": "4011#516",
+    "name": "skyGuide",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4014#33",
+    "name": "가톨릭평화방송",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#513",
+    "name": "ONCE",
+    "lang": "ko",
+    "xmltv_id": "ONCE.kr@SD",
+    "logo": "https://i.imgur.com/t1jP002.png"
+  },
+  {
+    "site_id": "4006#706",
+    "name": "Ch.NOW",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#857",
+    "name": "MBC드라마",
+    "lang": "ko",
+    "xmltv_id": "MBCTV.kr@SD",
+    "logo": "https://i.imgur.com/uR0gScb.png"
+  },
+  {
+    "site_id": "4008#529",
+    "name": "SK stoa",
+    "lang": "ko",
+    "xmltv_id": "SKStoa.kr",
+    "logo": "https://i.imgur.com/PbJBB5j.png"
+  },
+  {
+    "site_id": "4009#858",
+    "name": "SBS funE",
+    "lang": "ko",
+    "xmltv_id": "SBSfunE.kr@SD",
+    "logo": "https://i.imgur.com/sxM1XcA.png"
+  },
+  {
+    "site_id": "4009#918",
+    "name": "채널 뷰",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4010#934",
+    "name": "OLIFE",
+    "lang": "ko",
+    "xmltv_id": "OLIFE.kr@SD",
+    "logo": "https://i.imgur.com/z2UQKHF.png"
+  },
+  {
+    "site_id": "4011#50",
+    "name": "아리랑TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4011#735",
+    "name": "쿠키건강TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4015#599",
+    "name": "핑크하우스",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4007#974",
+    "name": "JTBC Golf",
+    "lang": "ko",
+    "xmltv_id": "JTBCGolf.kr",
+    "logo": "https://i.imgur.com/wa4KC7z.png"
+  },
+  {
+    "site_id": "4004#551",
+    "name": "YTN",
+    "lang": "ko",
+    "xmltv_id": "YTN.kr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png"
+  },
+  {
+    "site_id": "4005#971",
+    "name": "Mplex",
+    "lang": "ko",
+    "xmltv_id": "Mplex.kr",
+    "logo": "https://i.imgur.com/UjQpJKx.png"
+  },
+  {
+    "site_id": "4007#327",
+    "name": "FIGHT SPORTS",
+    "lang": "ko",
+    "xmltv_id": "FightSports.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/fight-sports-es.png"
+  },
+  {
+    "site_id": "4011#631",
+    "name": "엑스원",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#181",
+    "name": "에이플드라마",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4007#977",
+    "name": "SBS Sports",
+    "lang": "ko",
+    "xmltv_id": "SBSSports.kr",
+    "logo": "https://i.imgur.com/L2SdLkb.png"
+  },
+  {
+    "site_id": "4008#521",
+    "name": "신세계쇼핑",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#174",
+    "name": "TVCHOSUN2",
+    "lang": "ko",
+    "xmltv_id": "TVChosun2.kr@SD"
+  },
+  {
+    "site_id": "4011#982",
+    "name": "대교 뉴이프Plus",
+    "lang": "ko",
+    "xmltv_id": "JOJPlus.sk@SD"
+  },
+  {
+    "site_id": "4012#949",
+    "name": "뽀요TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4015#86",
+    "name": "VIKI",
+    "lang": "ko",
+    "xmltv_id": "Viki.kr",
+    "logo": "https://i.imgur.com/w6zInZz.png"
+  },
+  {
+    "site_id": "4017#9999918",
+    "name": "KISS 클래식 산책",
+    "lang": "ko",
+    "xmltv_id": "KissTV.uk@SD",
+    "logo": "https://i.imgur.com/cmwa5Wh.png"
+  },
+  {
+    "site_id": "4015#558",
+    "name": "플레이보이TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4003#935",
+    "name": "OBS",
+    "lang": "ko",
+    "xmltv_id": "OromiaBroadcastingService.et",
+    "logo": "https://i.imgur.com/MAKvM4T.png"
+  },
+  {
+    "site_id": "4009#498",
+    "name": "Discovery",
+    "lang": "ko",
+    "xmltv_id": "DiscoveryChannelSoutheastAsia.sg@SouthKorea",
+    "logo": "https://i.imgur.com/bZpe8af.png"
+  },
+  {
+    "site_id": "4017#9999921",
+    "name": "KISS 키스 인기 트로트",
+    "lang": "ko",
+    "xmltv_id": "KissTV.uk@SD",
+    "logo": "https://i.imgur.com/cmwa5Wh.png"
+  },
+  {
+    "site_id": "4008#632",
+    "name": "공영쇼핑",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4008#640",
+    "name": "W쇼핑",
+    "lang": "ko",
+    "xmltv_id": "ChW.kr@SD",
+    "logo": "https://i.imgur.com/D59xG3Y.png"
+  },
+  {
+    "site_id": "4009#365",
+    "name": "ORFEO",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4011#792",
+    "name": "YTN사이언스",
+    "lang": "ko",
+    "xmltv_id": "YTN.kr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png"
+  },
+  {
+    "site_id": "4017#9999915",
+    "name": "Satio 1969년 명동 음악다방",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4004#117",
+    "name": "CNN International",
+    "lang": "ko",
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cnn-international-int.png"
+  },
+  {
+    "site_id": "4007#769",
+    "name": "SBS Golf",
+    "lang": "ko",
+    "xmltv_id": "SBSGolf.kr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/960px-SBS_Golf_logo_2018.svg.png"
+  },
+  {
+    "site_id": "4007#922",
+    "name": "SPOTV2",
+    "lang": "ko",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/philippines/spotv2-ph.png"
+  },
+  {
+    "site_id": "4008#634",
+    "name": "GS MY SHOP",
+    "lang": "ko",
+    "xmltv_id": "GSMyShop.kr@SD",
+    "logo": "https://i.imgur.com/ETPQwui.png"
+  },
+  {
+    "site_id": "4008#930",
+    "name": "현대홈쇼핑+Shop",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#102",
+    "name": "이벤트TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4010#613",
+    "name": "마운틴TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4006#61",
+    "name": "텔레노벨라",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#509",
+    "name": "KBS Story",
+    "lang": "ko",
+    "xmltv_id": "KBSStory.kr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/960px-KBS_Story.svg.png"
+  },
+  {
+    "site_id": "4017#9999920",
+    "name": "KISS 한국인의 팝송",
+    "lang": "ko",
+    "xmltv_id": "KissTV.uk@SD",
+    "logo": "https://i.imgur.com/cmwa5Wh.png"
+  },
+  {
+    "site_id": "4003#563",
+    "name": "JTBC",
+    "lang": "ko",
+    "xmltv_id": "JTBC.kr",
+    "logo": "https://i.imgur.com/fCruRmS.png"
+  },
+  {
+    "site_id": "4017#999997",
+    "name": "최신인기댄스\u0026힙합",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4017#999999",
+    "name": "Satio 트로트 가요무대",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#70",
+    "name": "채널S",
+    "lang": "ko",
+    "xmltv_id": "SPlus.pt@SD",
+    "logo": "https://i.imgur.com/Vy7PRuq.png"
+  },
+  {
+    "site_id": "4009#247",
+    "name": "동아TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4017#9999916",
+    "name": "Satio 럭셔리 파티 라운지",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#96",
+    "name": "MBC ON",
+    "lang": "ko",
+    "xmltv_id": "MBCOn.kr@SD",
+    "logo": "https://i.imgur.com/AQzgnKD.png"
+  },
+  {
+    "site_id": "4009#520",
+    "name": "C Music TV",
+    "lang": "ko",
+    "xmltv_id": "StingrayCMusic.ca@SD",
+    "logo": "https://i.imgur.com/3UppN5P.png"
+  },
+  {
+    "site_id": "4010#254",
+    "name": "한국낚시방송",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4011#128",
+    "name": "OBS W",
+    "lang": "ko",
+    "xmltv_id": "OBSW.kr",
+    "logo": "https://i.imgur.com/VbBM6jE.png"
+  },
+  {
+    "site_id": "4003#795",
+    "name": "KBS2",
+    "lang": "ko",
+    "xmltv_id": "KBS2.kr@SD"
+  },
+  {
+    "site_id": "4005#882",
+    "name": "시네마천국",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#910",
+    "name": "KBS Drama",
+    "lang": "ko",
+    "xmltv_id": "KBSDrama.kr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/960px-KBS_DRAMA.svg.png"
+  },
+  {
+    "site_id": "4017#999994",
+    "name": "Satio Music Portal",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4017#9999928",
+    "name": "KISS 다문화가족 음악방송1",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4003#549",
+    "name": "TV조선",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4005#916",
+    "name": "스크린",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#976",
+    "name": "Asia N",
+    "lang": "ko",
+    "xmltv_id": "AsiaN.kr@SD"
+  },
+  {
+    "site_id": "4008#646",
+    "name": "NS SHOP+",
+    "lang": "ko",
+    "xmltv_id": "NSShopPlus.kr@SD",
+    "logo": "https://i.imgur.com/7KmXNci.png"
+  },
+  {
+    "site_id": "4011#707",
+    "name": "복지TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
     "site_id": "4012#526",
     "name": "투니버스",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4004#157",
+    "name": "서울경제TV",
+    "lang": "ko",
+    "logo": "https://i.imgur.com/o7y72cu.png"
+  },
+  {
+    "site_id": "4009#282",
+    "name": "tvN SHOW",
+    "lang": "ko",
+    "xmltv_id": "tvNShow.kr",
+    "logo": "https://i.imgur.com/8OobmvS.png"
+  },
+  {
+    "site_id": "4003#798",
+    "name": "EBS",
+    "lang": "ko",
+    "xmltv_id": "EBSKids.kr@SD",
+    "logo": "https://i.imgur.com/jX26YYt.png"
+  },
+  {
+    "site_id": "4009#36",
+    "name": "FUN TV",
+    "lang": "ko",
+    "xmltv_id": "FunTV.kr@SD",
+    "logo": "https://i.imgur.com/9rfo7O3.png"
+  },
+  {
+    "site_id": "4008#619",
+    "name": "CJ 온스타일플러스",
+    "lang": "ko",
+    "xmltv_id": "CJOnStyle.kr",
+    "logo": "https://i.imgur.com/JiSfEBv.png"
+  },
+  {
+    "site_id": "4012#56",
+    "name": "애니원",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4006#679",
+    "name": "NXT",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4014#644",
+    "name": "WBS원음방송",
     "lang": "ko"
   },
   {
     "site_id": "4017#999992",
     "name": "Sky Ultra Audio K-POP",
     "lang": "ko"
+  },
+  {
+    "site_id": "4006#767",
+    "name": "SBS Plus",
+    "lang": "ko",
+    "xmltv_id": "SBSPlus.kr@SD",
+    "logo": "https://i.imgur.com/8pINOIM.png"
+  },
+  {
+    "site_id": "4006#915",
+    "name": "CH.U",
+    "lang": "ko",
+    "xmltv_id": "ChannelU.sg@SD"
+  },
+  {
+    "site_id": "4008#567",
+    "name": "홈\u0026쇼핑",
+    "lang": "ko"
+  },
+  {
+    "site_id": "4009#35",
+    "name": "GTV",
+    "lang": "ko",
+    "xmltv_id": "GTV.kr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/indonesia/gtv-id.png"
+  },
+  {
+    "site_id": "4011#519",
+    "name": "Smithsonian Channel",
+    "lang": "ko",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/smithsonian-channel-ca.png"
   }
 ]

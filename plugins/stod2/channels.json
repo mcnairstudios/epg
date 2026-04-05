@@ -1,21 +1,7 @@
 [
   {
-    "site_id": "golfstodin",
-    "name": "Stöð 2 Sport 5",
-    "lang": "is",
-    "xmltv_id": "Stod2Sport5.is@SD",
-    "logo": "https://i.imgur.com/wYKlDhk.png"
-  },
-  {
-    "site_id": "sport",
-    "name": "Stöð 2 Sport",
-    "lang": "is",
-    "xmltv_id": "Stod2Sport.is@SD",
-    "logo": "https://i.imgur.com/JD5nyED.png"
-  },
-  {
-    "site_id": "vodasport",
-    "name": "Vodafone Sport",
+    "site_id": "besta01",
+    "name": "Besta01",
     "lang": "is"
   },
   {
@@ -24,25 +10,11 @@
     "lang": "is"
   },
   {
-    "site_id": "sport2",
-    "name": "Stöð 2 Sport 2",
+    "site_id": "sport",
+    "name": "Stöð 2 Sport",
     "lang": "is",
-    "xmltv_id": "Stod2Sport2.is@SD",
-    "logo": "https://i.imgur.com/isXJASk.png"
-  },
-  {
-    "site_id": "sport3",
-    "name": "Stöð 2 Sport 3",
-    "lang": "is",
-    "xmltv_id": "Stod2Sport3.is@SD",
-    "logo": "https://i.imgur.com/xzJg1Ip.png"
-  },
-  {
-    "site_id": "sport4",
-    "name": "Stöð 2 Sport 4",
-    "lang": "is",
-    "xmltv_id": "Stod2Sport4.is@SD",
-    "logo": "https://i.imgur.com/2tJ4SRT.png"
+    "xmltv_id": "Stod2Sport.is@SD",
+    "logo": "https://i.imgur.com/JD5nyED.png"
   },
   {
     "site_id": "sport6",
@@ -66,13 +38,41 @@
     "logo": "https://i.imgur.com/cI6ECDy.png"
   },
   {
-    "site_id": "besta01",
-    "name": "Besta01",
+    "site_id": "vodasport",
+    "name": "Vodafone Sport",
     "lang": "is"
   },
   {
     "site_id": "besta03",
     "name": "Besta03",
     "lang": "is"
+  },
+  {
+    "site_id": "golfstodin",
+    "name": "Stöð 2 Sport 5",
+    "lang": "is",
+    "xmltv_id": "Stod2Sport5.is@SD",
+    "logo": "https://i.imgur.com/wYKlDhk.png"
+  },
+  {
+    "site_id": "sport2",
+    "name": "Stöð 2 Sport 2",
+    "lang": "is",
+    "xmltv_id": "Stod2Sport2.is@SD",
+    "logo": "https://i.imgur.com/isXJASk.png"
+  },
+  {
+    "site_id": "sport3",
+    "name": "Stöð 2 Sport 3",
+    "lang": "is",
+    "xmltv_id": "Stod2Sport3.is@SD",
+    "logo": "https://i.imgur.com/xzJg1Ip.png"
+  },
+  {
+    "site_id": "sport4",
+    "name": "Stöð 2 Sport 4",
+    "lang": "is",
+    "xmltv_id": "Stod2Sport4.is@SD",
+    "logo": "https://i.imgur.com/2tJ4SRT.png"
   }
 ]

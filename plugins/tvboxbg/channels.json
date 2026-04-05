@@ -1,41 +1,254 @@
 [
   {
-    "site_id": "Планета HD/40",
-    "name": "Планета HD",
+    "site_id": "MAX Sport 4/151",
+    "name": "MAX Sport 4",
     "lang": "bg",
-    "xmltv_id": "DushanbeHD.tj",
+    "xmltv_id": "MaxSport4.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/max-sport-4-bg.png"
+  },
+  {
+    "site_id": "Nick Jr./132",
+    "name": "Nick Jr.",
+    "lang": "bg",
+    "xmltv_id": "NickJr.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/nick-jr-ar.png"
+  },
+  {
+    "site_id": "TV1/24",
+    "name": "TV1",
+    "lang": "bg",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/lithuania/tv1-lt.png"
+  },
+  {
+    "site_id": "Viasat History/113",
+    "name": "Viasat History",
+    "lang": "bg",
+    "xmltv_id": "ViasatHistory.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/viasat-history-hr.png"
+  },
+  {
+    "site_id": "Хоби ТВ/50",
+    "name": "Хоби ТВ",
+    "lang": "bg"
+  },
+  {
+    "site_id": "HG TV/160",
+    "name": "HG TV",
+    "lang": "bg"
+  },
+  {
+    "site_id": "NOVANEWS/36",
+    "name": "NOVANEWS",
+    "lang": "bg",
+    "xmltv_id": "NovaNews.bg@SD"
+  },
+  {
+    "site_id": "Vivacom Arena/144",
+    "name": "Vivacom Arena",
+    "lang": "bg",
+    "xmltv_id": "VivacomArena.bg@SD",
+    "logo": "https://i.imgur.com/M7QKnH3.png"
+  },
+  {
+    "site_id": "БНТ1/29",
+    "name": "БНТ1",
+    "lang": "bg",
+    "xmltv_id": "BNT1.bg@SD",
+    "logo": "https://i.imgur.com/CZy4Cqi.png"
+  },
+  {
+    "site_id": "Discovery Channel/68",
+    "name": "Discovery Channel",
+    "lang": "bg",
+    "xmltv_id": "DiscoveryChannel.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/discovery-channel-ar.png"
+  },
+  {
+    "site_id": "AMC/135",
+    "name": "AMC",
+    "lang": "bg",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/amc-ar.png"
+  },
+  {
+    "site_id": "Crime and Investigation/66",
+    "name": "Crime and Investigation",
+    "lang": "bg",
+    "xmltv_id": "CrimePlusInvestigationCEE.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/crime-and-investigation-uk.png"
+  },
+  {
+    "site_id": "Eurosport 2/79",
+    "name": "Eurosport 2",
+    "lang": "bg",
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
+  },
+  {
+    "site_id": "The Voice/20",
+    "name": "The Voice",
+    "lang": "bg",
+    "xmltv_id": "TheVoice.bg",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/the-voice-bg.png"
+  },
+  {
+    "site_id": "Алфа/120",
+    "name": "Алфа",
+    "lang": "bg"
+  },
+  {
+    "site_id": "БНТ HD/127",
+    "name": "БНТ HD",
+    "lang": "bg",
     "logo": "https://i.imgur.com/WWPIziG.png"
   },
   {
     "site_id": "bTV Cinema/7",
     "name": "bTV Cinema",
     "lang": "bg",
-    "xmltv_id": "bTVCinema.bg",
-    "logo": "https://i.imgur.com/uV81rS4.png"
-  },
-  {
-    "site_id": "Disney Junior/157",
-    "name": "Disney Junior",
-    "lang": "bg",
-    "xmltv_id": "DisneyJr.fr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
-  },
-  {
-    "site_id": "StarChannel/124",
-    "name": "StarChannel",
-    "lang": "bg"
+    "xmltv_id": "bTVCinema.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/btv-cinema-bg.png"
   },
   {
     "site_id": "Diema Sport 2 HD/138",
     "name": "Diema Sport 2 HD",
+    "lang": "bg",
+    "xmltv_id": "DiemaSport2.bg@SD"
+  },
+  {
+    "site_id": "HBO 3/141",
+    "name": "HBO 3",
+    "lang": "bg",
+    "xmltv_id": "HBO3CentralEurope.hu@SD",
+    "logo": "https://i.imgur.com/3QIHh2V.png"
+  },
+  {
+    "site_id": "KinoNova/31",
+    "name": "KinoNova",
+    "lang": "bg",
+    "xmltv_id": "KinoNova.bg@SD"
+  },
+  {
+    "site_id": "MAX Sport 1/145",
+    "name": "MAX Sport 1",
+    "lang": "bg",
+    "xmltv_id": "MaxSport1.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/max-sport-1-bg.png"
+  },
+  {
+    "site_id": "Nat Geo Wild/99",
+    "name": "Nat Geo Wild",
+    "lang": "bg",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/nat-geo-wild-de.png"
+  },
+  {
+    "site_id": "Animal Planet/55",
+    "name": "Animal Planet",
+    "lang": "bg",
+    "xmltv_id": "AnimalPlanetEurope.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/animal-planet-uk.png"
+  },
+  {
+    "site_id": "bTV Action/6",
+    "name": "bTV Action",
+    "lang": "bg",
+    "xmltv_id": "bTVAction.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/btv-action-bg.png"
+  },
+  {
+    "site_id": "bTV/5",
+    "name": "bTV",
+    "lang": "bg",
+    "xmltv_id": "bTV.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/btv-bg.png"
+  },
+  {
+    "site_id": "Нова Спорт/37",
+    "name": "Нова Спорт",
     "lang": "bg"
+  },
+  {
+    "site_id": "Планета/39",
+    "name": "Планета",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Фен ТВ/47",
+    "name": "Фен ТВ",
+    "lang": "bg"
+  },
+  {
+    "site_id": "24kitchen/26",
+    "name": "24kitchen",
+    "lang": "bg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png"
+  },
+  {
+    "site_id": "AXN/57",
+    "name": "AXN",
+    "lang": "bg",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/axn-ar.png"
+  },
+  {
+    "site_id": "Cinemax 2/64",
+    "name": "Cinemax 2",
+    "lang": "bg",
+    "xmltv_id": "Cinemax2CentralEurope.hu@HD"
+  },
+  {
+    "site_id": "MAX Sport 2/146",
+    "name": "MAX Sport 2",
+    "lang": "bg",
+    "xmltv_id": "MaxSport2.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/max-sport-2-bg.png"
+  },
+  {
+    "site_id": "Viasat TV 1000/115",
+    "name": "Viasat TV 1000",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Eurosport/78",
+    "name": "Eurosport",
+    "lang": "bg",
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/eurosport-in.png"
+  },
+  {
+    "site_id": "Евроком НКТВ/33",
+    "name": "Евроком НКТВ",
+    "lang": "bg"
+  },
+  {
+    "site_id": "Планета HD/40",
+    "name": "Планета HD",
+    "lang": "bg",
+    "logo": "https://i.imgur.com/WWPIziG.png"
+  },
+  {
+    "site_id": "AXN Black/58",
+    "name": "AXN Black",
+    "lang": "bg",
+    "xmltv_id": "AXNBlack.us@Bulgary",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/axn-black-cz.png"
   },
   {
     "site_id": "HBO/87",
     "name": "HBO",
     "lang": "bg",
-    "xmltv_id": "HBO.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
+    "xmltv_id": "HBOCentralEurope.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/hbo-hu.png"
+  },
+  {
+    "site_id": "Viasat Nature/114",
+    "name": "Viasat Nature",
+    "lang": "bg",
+    "xmltv_id": "ViasatNature.se@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/viasat-nature-hr.png"
+  },
+  {
+    "site_id": "БНТ Свят/28",
+    "name": "БНТ Свят",
+    "lang": "bg"
   },
   {
     "site_id": "Диема Фемили/32",
@@ -43,39 +256,8 @@
     "lang": "bg"
   },
   {
-    "site_id": "Diema Sport 3/159",
-    "name": "Diema Sport 3",
-    "lang": "bg",
-    "xmltv_id": "DiemaSport3.bg",
-    "logo": "https://i.imgur.com/EQAoVRi.png"
-  },
-  {
-    "site_id": "MovieSTAR/149",
-    "name": "MovieSTAR",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Nat Geo Wild/99",
-    "name": "Nat Geo Wild",
-    "lang": "bg",
-    "xmltv_id": "NationalGeographicWild.au",
-    "logo": "https://i.imgur.com/HoeaQJC.png"
-  },
-  {
-    "site_id": "Nickelodeon/128",
-    "name": "Nickelodeon",
-    "lang": "bg",
-    "xmltv_id": "NickComedyCentralPlus1.de",
-    "logo": "https://i.imgur.com/08ZUI9k.png"
-  },
-  {
-    "site_id": "Viasat Explorer/112",
-    "name": "Viasat Explorer",
-    "lang": "bg"
-  },
-  {
-    "site_id": "България он еър/15",
-    "name": "България он еър",
+    "site_id": "Диема/30",
+    "name": "Диема",
     "lang": "bg"
   },
   {
@@ -84,100 +266,32 @@
     "lang": "bg"
   },
   {
-    "site_id": "Cinemania/163",
-    "name": "Cinemania",
-    "lang": "bg",
-    "xmltv_id": "Cinemania.rs",
-    "logo": "https://i.imgur.com/Gl5Ds3O.png"
-  },
-  {
-    "site_id": "Epic Drama/148",
-    "name": "Epic Drama",
-    "lang": "bg",
-    "xmltv_id": "EpicDrama.uk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg"
-  },
-  {
-    "site_id": "History/89",
-    "name": "History",
-    "lang": "bg",
-    "xmltv_id": "History.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png"
-  },
-  {
-    "site_id": "MAX Sport 3/150",
-    "name": "MAX Sport 3",
-    "lang": "bg",
-    "xmltv_id": "MaxSport3.bg",
-    "logo": "https://i.imgur.com/eGiGgZ2.png"
-  },
-  {
-    "site_id": "Viasat History/113",
-    "name": "Viasat History",
-    "lang": "bg",
-    "xmltv_id": "ViasatHistory.bg",
-    "logo": "https://i.imgur.com/AnYgIvZ.png"
-  },
-  {
-    "site_id": "Планета Фолк/41",
-    "name": "Планета Фолк",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Comedy Central/156",
-    "name": "Comedy Central",
-    "lang": "bg",
-    "xmltv_id": "ComedyCentral.at",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a4/Comedy_Central_Austria_2018.png/960px-Comedy_Central_Austria_2018.png"
-  },
-  {
-    "site_id": "Da Vinci Learning/67",
-    "name": "Da Vinci Learning",
-    "lang": "bg",
-    "xmltv_id": "DaVinci.si",
-    "logo": "https://i.imgur.com/V8AUJP6.png"
-  },
-  {
-    "site_id": "Eurosport/78",
-    "name": "Eurosport",
-    "lang": "bg",
-    "xmltv_id": "Eurosport.fr",
-    "logo": "https://i.imgur.com/s4jDnJh.png"
-  },
-  {
-    "site_id": "Viasat Nature/114",
-    "name": "Viasat Nature",
-    "lang": "bg",
-    "xmltv_id": "ViasatNature.bg",
-    "logo": "https://i.imgur.com/mhyK4v1.png"
-  },
-  {
     "site_id": "bTV Story/122",
     "name": "bTV Story",
-    "lang": "bg"
+    "lang": "bg",
+    "xmltv_id": "bTVLady.bg@SD"
+  },
+  {
+    "site_id": "Disney Junior/157",
+    "name": "Disney Junior",
+    "lang": "bg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
   },
   {
     "site_id": "FilmBox Stars/140",
     "name": "FilmBox Stars",
     "lang": "bg",
-    "xmltv_id": "FilmBoxStars.nl",
-    "logo": "https://i.imgur.com/eZFdHbR.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/filmbox-stars-hr.png"
   },
   {
-    "site_id": "Investigation Discovery/134",
-    "name": "Investigation Discovery",
+    "site_id": "MovieSTAR/149",
+    "name": "MovieSTAR",
     "lang": "bg",
-    "xmltv_id": "InvestigationDiscovery.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+    "xmltv_id": "MovieStar.bg@SD"
   },
   {
-    "site_id": "KinoNova/31",
-    "name": "KinoNova",
-    "lang": "bg"
-  },
-  {
-    "site_id": "PickboxTV/161",
-    "name": "PickboxTV",
+    "site_id": "StarChannel/124",
+    "name": "StarChannel",
     "lang": "bg"
   },
   {
@@ -189,234 +303,124 @@
     "site_id": "Travel Channel/109",
     "name": "Travel Channel",
     "lang": "bg",
-    "xmltv_id": "TravelChannel.au",
-    "logo": "https://i.imgur.com/6RhQKyU.png"
-  },
-  {
-    "site_id": "Viasat TV 1000/115",
-    "name": "Viasat TV 1000",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Bloomberg TV Bulgaria/143",
-    "name": "Bloomberg TV Bulgaria",
-    "lang": "bg",
-    "xmltv_id": "BloombergTVBulgaria.bg",
-    "logo": "https://i.imgur.com/cHwOVqk.png"
-  },
-  {
-    "site_id": "Crime and Investigation/66",
-    "name": "Crime and Investigation",
-    "lang": "bg",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/crime-and-investigation-au.png"
-  },
-  {
-    "site_id": "Diema Sport HD/133",
-    "name": "Diema Sport HD",
-    "lang": "bg",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/diema-sport-hd-bg.png"
-  },
-  {
-    "site_id": "Discovery Channel/68",
-    "name": "Discovery Channel",
-    "lang": "bg",
-    "xmltv_id": "DiscoveryChannel.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "Eurosport 2/79",
-    "name": "Eurosport 2",
-    "lang": "bg",
-    "xmltv_id": "Eurosport2.fr",
-    "logo": "https://i.imgur.com/f56dHgR.png"
-  },
-  {
-    "site_id": "MAX Sport 2/146",
-    "name": "MAX Sport 2",
-    "lang": "bg",
-    "xmltv_id": "MaxSport2.bg",
-    "logo": "https://i.imgur.com/33m1wPN.png"
-  },
-  {
-    "site_id": "Евроком НКТВ/33",
-    "name": "Евроком НКТВ",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Фен ТВ/47",
-    "name": "Фен ТВ",
-    "lang": "bg"
-  },
-  {
-    "site_id": "AMC/135",
-    "name": "AMC",
-    "lang": "bg",
-    "xmltv_id": "AfricanMovieChannel.uk",
-    "logo": "https://i.imgur.com/qRrOi3t.png"
-  },
-  {
-    "site_id": "Animal Planet/55",
-    "name": "Animal Planet",
-    "lang": "bg",
-    "xmltv_id": "AnimalPlanet.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
-  },
-  {
-    "site_id": "Extreme Sports Channel/80",
-    "name": "Extreme Sports Channel",
-    "lang": "bg",
-    "xmltv_id": "ExtremeSportsChannel.nl",
-    "logo": "https://i.imgur.com/m7IC01U.png"
-  },
-  {
-    "site_id": "HBO 3/141",
-    "name": "HBO 3",
-    "lang": "bg",
-    "xmltv_id": "HBO3.pl",
-    "logo": "https://i.imgur.com/3QIHh2V.png"
-  },
-  {
-    "site_id": "MAX Sport 4/151",
-    "name": "MAX Sport 4",
-    "lang": "bg",
-    "xmltv_id": "MaxSport4.bg",
-    "logo": "https://i.imgur.com/7IxXX6f.png"
-  },
-  {
-    "site_id": "AXN Black/58",
-    "name": "AXN Black",
-    "lang": "bg",
-    "xmltv_id": "AXNBlack.de",
-    "logo": "https://i.imgur.com/Peo1QiZ.png"
-  },
-  {
-    "site_id": "bTV Action/6",
-    "name": "bTV Action",
-    "lang": "bg",
-    "xmltv_id": "bTVAction.bg",
-    "logo": "https://i.imgur.com/hGUXHuT.png"
-  },
-  {
-    "site_id": "Нова Спорт/37",
-    "name": "Нова Спорт",
-    "lang": "bg"
-  },
-  {
-    "site_id": "FilmBox Extra HD/139",
-    "name": "FilmBox Extra HD",
-    "lang": "bg",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/filmbox-extra-hd-int.png"
-  },
-  {
-    "site_id": "The Voice/20",
-    "name": "The Voice",
-    "lang": "bg",
-    "xmltv_id": "TheVoice.bg",
-    "logo": "https://i.imgur.com/OoJSmoj.png"
-  },
-  {
-    "site_id": "Vivacom Arena/144",
-    "name": "Vivacom Arena",
-    "lang": "bg",
-    "xmltv_id": "VivacomArena.bg",
-    "logo": "https://i.imgur.com/M7QKnH3.png"
-  },
-  {
-    "site_id": "БНТ Свят/28",
-    "name": "БНТ Свят",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Диема/30",
-    "name": "Диема",
-    "lang": "bg"
-  },
-  {
-    "site_id": "AXN/57",
-    "name": "AXN",
-    "lang": "bg",
-    "xmltv_id": "AXN.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
-  },
-  {
-    "site_id": "HBO Comedy/88",
-    "name": "HBO Comedy",
-    "lang": "bg",
-    "xmltv_id": "HBO3.pl",
-    "logo": "https://i.imgur.com/3QIHh2V.png"
-  },
-  {
-    "site_id": "MAX Sport 1/145",
-    "name": "MAX Sport 1",
-    "lang": "bg",
-    "xmltv_id": "MaxSport1.bg",
-    "logo": "https://i.imgur.com/0ohnpql.png"
+    "xmltv_id": "TravelChannelEMEA.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/travel-channel-uk.png"
   },
   {
     "site_id": "StarLife/86",
     "name": "StarLife",
     "lang": "bg",
-    "xmltv_id": "StarLife.in",
     "logo": "https://i.imgur.com/O2miSLA.png"
   },
   {
-    "site_id": "Cinemax 2/64",
-    "name": "Cinemax 2",
-    "lang": "bg"
+    "site_id": "Comedy Central/156",
+    "name": "Comedy Central",
+    "lang": "bg",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/comedy-central-ar.png"
+  },
+  {
+    "site_id": "Diema Sport HD/133",
+    "name": "Diema Sport HD",
+    "lang": "bg",
+    "xmltv_id": "DiemaSport.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/diema-sport-hd-bg.png"
   },
   {
     "site_id": "JimJam/91",
     "name": "JimJam",
     "lang": "bg",
-    "xmltv_id": "JimJam.hu",
-    "logo": "https://i.imgur.com/ODhkYyx.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/jimjam-int.png"
   },
   {
-    "site_id": "TV1/24",
-    "name": "TV1",
+    "site_id": "RING.BG/18",
+    "name": "RING.BG",
     "lang": "bg",
-    "xmltv_id": "EpirusTV1.gr",
-    "logo": "https://i.imgur.com/nYVqhu8.png"
+    "xmltv_id": "RING.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/ring-bg.png"
   },
   {
-    "site_id": "БНТ1/29",
-    "name": "БНТ1",
+    "site_id": "Viasat Explorer/112",
+    "name": "Viasat Explorer",
     "lang": "bg",
-    "xmltv_id": "1KBR.ru",
-    "logo": "https://i.imgur.com/CZy4Cqi.png"
+    "xmltv_id": "ViasatExplore.cz@SD"
   },
   {
-    "site_id": "БНТ2/119",
-    "name": "БНТ2",
+    "site_id": "Cinemania/163",
+    "name": "Cinemania",
     "lang": "bg",
-    "xmltv_id": "A2.ru",
-    "logo": "https://i.imgur.com/NqHla2V.png"
+    "xmltv_id": "Cinemania.rs@SD",
+    "logo": "https://i.imgur.com/Gl5Ds3O.png"
+  },
+  {
+    "site_id": "FilmBox Extra HD/139",
+    "name": "FilmBox Extra HD",
+    "lang": "bg",
+    "xmltv_id": "FilmBoxExtra.nl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/filmbox-extra-hd-int.png"
+  },
+  {
+    "site_id": "History/89",
+    "name": "History",
+    "lang": "bg",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/history-de.png"
+  },
+  {
+    "site_id": "Investigation Discovery/134",
+    "name": "Investigation Discovery",
+    "lang": "bg",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/investigation-discovery-ca.png"
+  },
+  {
+    "site_id": "България он еър/15",
+    "name": "България он еър",
+    "lang": "bg"
   },
   {
     "site_id": "Disney Channel/72",
     "name": "Disney Channel",
     "lang": "bg",
-    "xmltv_id": "DisneyChannel.be",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+    "xmltv_id": "DisneyChannel.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/disney-channel-ar.png"
+  },
+  {
+    "site_id": "Extreme Sports Channel/80",
+    "name": "Extreme Sports Channel",
+    "lang": "bg",
+    "xmltv_id": "ExtremeSportsChannel.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/extreme-sports-channel-nl.png"
+  },
+  {
+    "site_id": "PickboxTV/161",
+    "name": "PickboxTV",
+    "lang": "bg",
+    "xmltv_id": "PickboxTV.hr@SD"
+  },
+  {
+    "site_id": "Cinemax/63",
+    "name": "Cinemax",
+    "lang": "bg",
+    "xmltv_id": "CinemaxCentralEurope.hu@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/cinemax-hu.png"
   },
   {
     "site_id": "EKids/12",
     "name": "EKids",
     "lang": "bg",
-    "xmltv_id": "EKids.bg",
-    "logo": "https://i.imgur.com/dux7sjZ.png"
+    "xmltv_id": "EKids.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/ekids-bg.png"
   },
   {
-    "site_id": "National Geographic Channel/100",
-    "name": "National Geographic Channel",
+    "site_id": "Food Network HD/84",
+    "name": "Food Network HD",
     "lang": "bg",
-    "xmltv_id": "NationalGeographic.de",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+    "xmltv_id": "FoodNetworkEMEA.us@SD"
   },
   {
-    "site_id": "NOVANEWS/36",
-    "name": "NOVANEWS",
-    "lang": "bg"
+    "site_id": "HBO Comedy/88",
+    "name": "HBO Comedy",
+    "lang": "bg",
+    "xmltv_id": "HBOComedy.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hbo-comedy-us.png"
   },
   {
     "site_id": "TLC Balkans/108",
@@ -424,16 +428,58 @@
     "lang": "bg"
   },
   {
-    "site_id": "Планета/39",
-    "name": "Планета",
-    "lang": "bg"
+    "site_id": "Epic Drama/148",
+    "name": "Epic Drama",
+    "lang": "bg",
+    "xmltv_id": "EpicDrama.uk@Sweden",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/epic-drama-hr.png"
   },
   {
-    "site_id": "24kitchen/26",
-    "name": "24kitchen",
+    "site_id": "Bloomberg TV Bulgaria/143",
+    "name": "Bloomberg TV Bulgaria",
     "lang": "bg",
-    "xmltv_id": "24Kitchen.us",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png"
+    "xmltv_id": "BloombergTVBulgaria.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/bloomberg-tv-bulgaria-bg.png"
+  },
+  {
+    "site_id": "bTV Comedy/8",
+    "name": "bTV Comedy",
+    "lang": "bg",
+    "xmltv_id": "bTVComedy.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/btv-comedy-bg.png"
+  },
+  {
+    "site_id": "Da Vinci Learning/67",
+    "name": "Da Vinci Learning",
+    "lang": "bg",
+    "logo": "https://i.imgur.com/V8AUJP6.png"
+  },
+  {
+    "site_id": "Diema Sport 3/159",
+    "name": "Diema Sport 3",
+    "lang": "bg",
+    "xmltv_id": "DiemaSport3.bg@SD",
+    "logo": "https://i.imgur.com/EQAoVRi.png"
+  },
+  {
+    "site_id": "FilmBox/142",
+    "name": "FilmBox",
+    "lang": "bg",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/filmbox-cz.png"
+  },
+  {
+    "site_id": "Nickelodeon/128",
+    "name": "Nickelodeon",
+    "lang": "bg",
+    "xmltv_id": "Nickelodeon.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/nickelodeon-ar.png"
+  },
+  {
+    "site_id": "БНТ2/119",
+    "name": "БНТ2",
+    "lang": "bg",
+    "xmltv_id": "BNT2.bg@SD",
+    "logo": "https://i.imgur.com/NqHla2V.png"
   },
   {
     "site_id": "Balkanika MTV/1",
@@ -441,85 +487,34 @@
     "lang": "bg"
   },
   {
-    "site_id": "bTV/5",
-    "name": "bTV",
-    "lang": "bg",
-    "xmltv_id": "BalikpapanTV.id",
-    "logo": "https://i.imgur.com/P3whqna.png"
-  },
-  {
     "site_id": "Cartoon Network/62",
     "name": "Cartoon Network",
     "lang": "bg",
-    "xmltv_id": "CartoonNetwork.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/cartoon-network-ar.png"
   },
   {
-    "site_id": "FilmBox/142",
-    "name": "FilmBox",
+    "site_id": "National Geographic Channel/100",
+    "name": "National Geographic Channel",
     "lang": "bg",
-    "xmltv_id": "FilmBox.nl",
-    "logo": "https://i.imgur.com/VyaslIY.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
   },
   {
-    "site_id": "Food Network HD/84",
-    "name": "Food Network HD",
+    "site_id": "Планета Фолк/41",
+    "name": "Планета Фолк",
     "lang": "bg"
-  },
-  {
-    "site_id": "RING.BG/18",
-    "name": "RING.BG",
-    "lang": "bg",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/ring-bg.png"
-  },
-  {
-    "site_id": "Хоби ТВ/50",
-    "name": "Хоби ТВ",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Nick Jr./132",
-    "name": "Nick Jr.",
-    "lang": "bg",
-    "xmltv_id": "NickJr.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
   },
   {
     "site_id": "AXN White/59",
     "name": "AXN White",
     "lang": "bg",
-    "xmltv_id": "AXNWhite.pl",
-    "logo": "https://i.imgur.com/DaAyLE7.png"
+    "xmltv_id": "AXNWhite.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/axn-white-cz.png"
   },
   {
-    "site_id": "bTV Comedy/8",
-    "name": "bTV Comedy",
+    "site_id": "MAX Sport 3/150",
+    "name": "MAX Sport 3",
     "lang": "bg",
-    "xmltv_id": "bTVComedy.bg",
-    "logo": "https://i.imgur.com/1c6A5dO.png"
-  },
-  {
-    "site_id": "Cinemax/63",
-    "name": "Cinemax",
-    "lang": "bg",
-    "xmltv_id": "Cinemax.br",
-    "logo": "https://i.imgur.com/cZWoJWD.png"
-  },
-  {
-    "site_id": "HG TV/160",
-    "name": "HG TV",
-    "lang": "bg"
-  },
-  {
-    "site_id": "Алфа/120",
-    "name": "Алфа",
-    "lang": "bg"
-  },
-  {
-    "site_id": "БНТ HD/127",
-    "name": "БНТ HD",
-    "lang": "bg",
-    "xmltv_id": "DushanbeHD.tj",
-    "logo": "https://i.imgur.com/WWPIziG.png"
+    "xmltv_id": "MaxSport3.bg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/max-sport-3-bg.png"
   }
 ]

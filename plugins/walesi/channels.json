@@ -1,11 +1,5 @@
 [
   {
-    "site_id": "9-education-channel",
-    "name": "Education Channel",
-    "lang": "fj",
-    "logo": "https://i.imgur.com/p5TGUjo.png"
-  },
-  {
     "site_id": "channel-2",
     "name": "Channel 2",
     "lang": "fj",
@@ -31,14 +25,14 @@
     "name": "Hope Channel",
     "lang": "fj",
     "xmltv_id": "HopeChannelFiji.fj@SD",
-    "logo": "https://i.imgur.com/aUq8Un5.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/hope-channel-it.png"
   },
   {
-    "site_id": "mai-tv",
-    "name": "Mai Tv",
+    "site_id": "9-education-channel",
+    "name": "Education Channel",
     "lang": "fj",
-    "xmltv_id": "MaiTV.fj@SD",
-    "logo": "https://i.imgur.com/iz60Nhx.png"
+    "xmltv_id": "EducationChannel.mm",
+    "logo": "https://i.imgur.com/p5TGUjo.png"
   },
   {
     "site_id": "fbc-2",
@@ -53,6 +47,13 @@
     "lang": "fj",
     "xmltv_id": "FijiOne.fj@SD",
     "logo": "https://i.imgur.com/yTcrgxU.png"
+  },
+  {
+    "site_id": "mai-tv",
+    "name": "Mai Tv",
+    "lang": "fj",
+    "xmltv_id": "MaiTV.fj@SD",
+    "logo": "https://i.imgur.com/iz60Nhx.png"
   },
   {
     "site_id": "parliament",

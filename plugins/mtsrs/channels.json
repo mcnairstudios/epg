@@ -1,27 +1,127 @@
 [
   {
-    "site_id": "tv_zlatar",
-    "name": "TV Zlatar",
-    "lang": "bs",
-    "xmltv_id": "TVZlatar.rs",
-    "logo": "https://i.imgur.com/v4DyZGf.png"
-  },
-  {
-    "site_id": "adult_4",
-    "name": "Adult 4",
+    "site_id": "pink%26roll",
+    "name": "Pink\u0026Roll",
     "lang": "bs"
   },
   {
-    "site_id": "crime_and_investigation",
-    "name": "Crime and Investigation",
+    "site_id": "pink_movies",
+    "name": "Pink Movies",
     "lang": "bs",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/crime-and-investigation-au.png"
+    "xmltv_id": "PinkMovies.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-movies-rs.png"
   },
   {
-    "site_id": "mtv_80s",
-    "name": "MTV 80s",
+    "site_id": "pink_show",
+    "name": "Pink Show",
     "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
+    "xmltv_id": "PinkShow.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-show-rs.png"
+  },
+  {
+    "site_id": "fight_box",
+    "name": "Fight Box",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/fight-box-hr.png"
+  },
+  {
+    "site_id": "pink_action",
+    "name": "Pink Action",
+    "lang": "bs",
+    "xmltv_id": "PinkAction.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-action-rs.png"
+  },
+  {
+    "site_id": "tv_santos",
+    "name": "TV Santos",
+    "lang": "bs",
+    "xmltv_id": "TVSantos.rs",
+    "logo": "https://i.imgur.com/NyY9icy.png"
+  },
+  {
+    "site_id": "adult_2",
+    "name": "Adult 2",
+    "lang": "bs"
+  },
+  {
+    "site_id": "adult_7",
+    "name": "Adult 7",
+    "lang": "bs"
+  },
+  {
+    "site_id": "arena_sport_9_hd",
+    "name": "Arena Sport 9",
+    "lang": "bs",
+    "xmltv_id": "ArenaSport9.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/arena-sport-9-hr.png"
+  },
+  {
+    "site_id": "fox_crime",
+    "name": "Star Crime",
+    "lang": "bs",
+    "xmltv_id": "FoxCrime.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/star-crime-rs.png"
+  },
+  {
+    "site_id": "Prva%20MAX",
+    "name": "Prva MAX",
+    "lang": "bs",
+    "xmltv_id": "PrvaMax.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/prva-max-rs.png"
+  },
+  {
+    "site_id": "toxic_tv_hd",
+    "name": "Toxic TV",
+    "lang": "bs",
+    "xmltv_id": "ToxicTV.rs",
+    "logo": "https://i.imgur.com/w6WuWnS.png"
+  },
+  {
+    "site_id": "total_hits_uk",
+    "name": "Total Hits UK",
+    "lang": "bs"
+  },
+  {
+    "site_id": "gradska_m",
+    "name": "Gradska M televizija",
+    "lang": "bs",
+    "xmltv_id": "GradskaMtelevizija.rs",
+    "logo": "https://i.imgur.com/AV8MNLe.png"
+  },
+  {
+    "site_id": "nezne_note",
+    "name": "Today's K-Pop",
+    "lang": "bs"
+  },
+  {
+    "site_id": "story_4",
+    "name": "Story 4",
+    "lang": "bs",
+    "xmltv_id": "Story4.hu@SD"
+  },
+  {
+    "site_id": "toxic_folk_hd",
+    "name": "Toxic Folk",
+    "lang": "bs",
+    "xmltv_id": "ToxicFolk.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/toxic-folk-rs.png"
+  },
+  {
+    "site_id": "Espreso%20TV",
+    "name": "Espreso TV",
+    "lang": "bs",
+    "xmltv_id": "EspresoTV.ua@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/espreso-tv-ua.png"
+  },
+  {
+    "site_id": "la_vitta_e_bella",
+    "name": "La Vitta e Bella",
+    "lang": "bs"
+  },
+  {
+    "site_id": "total_hits_italy",
+    "name": "Total Hits Italy",
+    "lang": "bs"
   },
   {
     "site_id": "tv_iks",
@@ -31,315 +131,81 @@
     "logo": "https://i.imgur.com/8NIUHfw.png"
   },
   {
-    "site_id": "arena_fight_hd",
-    "name": "Arena Fight",
+    "site_id": "amc",
+    "name": "AMC",
     "lang": "bs",
-    "xmltv_id": "ArenaFight.rs",
-    "logo": "https://i.imgur.com/5abTrJU.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/amc-ar.png"
   },
   {
-    "site_id": "tv_pi_kanal",
-    "name": "TV PI kanal",
+    "site_id": "erotic",
+    "name": "Erotic",
     "lang": "bs",
-    "xmltv_id": "TVPiKanal.rs",
-    "logo": "https://i.imgur.com/8ugnFa3.png"
+    "xmltv_id": "Erotic.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/erotic-rs.png"
   },
   {
-    "site_id": "rossia_24",
-    "name": "Rossia 24",
+    "site_id": "pink_style",
+    "name": "Pink Style",
+    "lang": "bs",
+    "xmltv_id": "PinkStyle.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-style-rs.png"
+  },
+  {
+    "site_id": "rt_news_hd",
+    "name": "RT News",
+    "lang": "bs",
+    "xmltv_id": "RTENews.ie@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png/960px-Updated_RT%C3%89_News_and_Current_Affairs_Logo.png"
+  },
+  {
+    "site_id": "tvdr_hd",
+    "name": "TVDR",
     "lang": "bs"
   },
   {
-    "site_id": "pink_radio",
-    "name": "Pink radio",
+    "site_id": "360_tune_box",
+    "name": "360 Tune box",
+    "lang": "bs",
+    "xmltv_id": "360TuneBox.nl@SD"
+  },
+  {
+    "site_id": "tv_caribrod",
+    "name": "TV Caribrod",
+    "lang": "bs",
+    "xmltv_id": "TVCaribrod.rs",
+    "logo": "https://i.imgur.com/lOC1urQ.png"
+  },
+  {
+    "site_id": "lol",
+    "name": "LOL",
+    "lang": "bs",
+    "xmltv_id": "LOL.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/lol-rs.png"
+  },
+  {
+    "site_id": "rtl_2",
+    "name": "RTL 2",
+    "lang": "bs",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/960px-RTL_2_Logo.svg.png"
+  },
+  {
+    "site_id": "Zadruga%20live_4",
+    "name": "Elita live 4",
+    "lang": "bs",
+    "xmltv_id": "Elitalive4.rs",
+    "logo": "https://i.imgur.com/mntUW7t.png"
+  },
+  {
+    "site_id": "revival_60s_%26_70s",
+    "name": "Revival ’60s \u0026 ’70s",
     "lang": "bs"
   },
   {
-    "site_id": "reality_kings",
-    "name": "Reality Kings",
-    "lang": "bs"
-  },
-  {
-    "site_id": "classic_r'n'b_%26_soul",
-    "name": "Classic R'n'B \u0026 Soul",
-    "lang": "bs"
-  },
-  {
-    "site_id": "pink_pedia",
-    "name": "Pink Pedia",
+    "site_id": "rtv_2",
+    "name": "RTV 2",
     "lang": "bs",
-    "xmltv_id": "PinkPedia.rs",
-    "logo": "https://i.imgur.com/kIzk8Vy.png"
-  },
-  {
-    "site_id": "studio_b_duplicate",
-    "name": "Studio B",
-    "lang": "bs",
-    "xmltv_id": "StudioB.rs",
-    "logo": "https://i.imgur.com/k875WTc.png"
-  },
-  {
-    "site_id": "tv_city",
-    "name": "TV City",
-    "lang": "bs",
-    "xmltv_id": "TVCity.rs",
-    "logo": "https://i.imgur.com/aXuk9Ua.png"
-  },
-  {
-    "site_id": "brazzers_tv",
-    "name": "Brazzers TV",
-    "lang": "bs",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/brazzers-tv-us.png"
-  },
-  {
-    "site_id": "filmbox_arthouse",
-    "name": "Filmbox Arthouse",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/hDg35ne.png"
-  },
-  {
-    "site_id": "hayat_plus",
-    "name": "Hayat 2",
-    "lang": "bs"
-  },
-  {
-    "site_id": "humana_tv_plus",
-    "name": "Humana TV Plus",
-    "lang": "bs",
-    "xmltv_id": "HumanaTVPlus.rs",
-    "logo": "https://i.imgur.com/KrSOkqe.png"
-  },
-  {
-    "site_id": "id",
-    "name": "ID",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "ka_tv",
-    "name": "KA TV",
-    "lang": "bs",
-    "xmltv_id": "KATV.rs",
-    "logo": "https://i.imgur.com/QgVqwtr.png"
-  },
-  {
-    "site_id": "tv_Kula",
-    "name": "TV Kula",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_lotel_plus",
-    "name": "TV Lotel plus",
-    "lang": "bs",
-    "xmltv_id": "TVLotelPlus.rs",
-    "logo": "https://i.imgur.com/Kbhkiqa.png"
-  },
-  {
-    "site_id": "fox",
-    "name": "Star",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/TWFDkap.png"
-  },
-  {
-    "site_id": "rtv_sumadija",
-    "name": "RTV Šumadija",
-    "lang": "bs",
-    "xmltv_id": "RTVSumadija.rs",
-    "logo": "https://i.imgur.com/Avr3zjV.png"
-  },
-  {
-    "site_id": "tv_most",
-    "name": "TV Most",
-    "lang": "bs",
-    "xmltv_id": "TVMost.rs",
-    "logo": "https://i.imgur.com/OJwKgL7.png"
-  },
-  {
-    "site_id": "tv_sandzak",
-    "name": "TV Sandžak",
-    "lang": "bs"
-  },
-  {
-    "site_id": "animal_planet",
-    "name": "Animal Planet",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
-  },
-  {
-    "site_id": "erotic_7",
-    "name": "Erotic 7",
-    "lang": "bs",
-    "xmltv_id": "Erotic7.rs",
-    "logo": "https://i.imgur.com/ZcVmYNT.png"
-  },
-  {
-    "site_id": "mtv_00s",
-    "name": "MTV 00s",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
-  },
-  {
-    "site_id": "mtv_europe",
-    "name": "MTV",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
-  },
-  {
-    "site_id": "tv_lav",
-    "name": "TV Lav",
-    "lang": "bs",
-    "xmltv_id": "TVLav.rs",
-    "logo": "https://i.imgur.com/z3dbwtM.png"
-  },
-  {
-    "site_id": "tv_plus",
-    "name": "TV Plus",
-    "lang": "bs",
-    "xmltv_id": "TVPlus.rs",
-    "logo": "https://i.imgur.com/ColyEpT.png"
-  },
-  {
-    "site_id": "tv_trans",
-    "name": "TV Trans",
-    "lang": "bs",
-    "xmltv_id": "TVTrans.rs",
-    "logo": "https://i.imgur.com/imUAhnH.png"
-  },
-  {
-    "site_id": "pink_serije",
-    "name": "Pink Serije",
-    "lang": "bs",
-    "xmltv_id": "PinkSerije.rs",
-    "logo": "https://i.imgur.com/Hs06WsX.png"
-  },
-  {
-    "site_id": "red_tv",
-    "name": "Red TV",
-    "lang": "bs",
-    "xmltv_id": "RedTV.rs",
-    "logo": "https://i.imgur.com/cpN7NrL.png"
-  },
-  {
-    "site_id": "rtv_novi_pazar",
-    "name": "RTV Novi Pazar",
-    "lang": "bs",
-    "xmltv_id": "RTVNoviPazar.rs",
-    "logo": "https://i.imgur.com/NpyRVyC.png"
-  },
-  {
-    "site_id": "tv_pan%C4%8Devo",
-    "name": "TV Pančevo",
-    "lang": "bs",
-    "xmltv_id": "TVPancevo.rs",
-    "logo": "https://i.imgur.com/WWiuqVz.png"
-  },
-  {
-    "site_id": "dexy_tv_duplicate",
-    "name": "Dexy TV",
-    "lang": "bs",
-    "xmltv_id": "DexyTV.rs",
-    "logo": "https://i.imgur.com/XYpZt9w.png"
-  },
-  {
-    "site_id": "moj_happy_zivot",
-    "name": "Moj Happy Život",
-    "lang": "bs",
-    "xmltv_id": "MojHappyzivot.rs",
-    "logo": "https://i.imgur.com/gS5JizB.png"
-  },
-  {
-    "site_id": "tv_leskovac",
-    "name": "TV Leskovac",
-    "lang": "bs",
-    "xmltv_id": "TVLeskovac.rs",
-    "logo": "https://i.imgur.com/NFj27eT.png"
-  },
-  {
-    "site_id": "erotic_4",
-    "name": "Erotic 4",
-    "lang": "bs",
-    "xmltv_id": "Erotic4.rs",
-    "logo": "https://i.imgur.com/LCBuAdg.png"
-  },
-  {
-    "site_id": "hayat_music",
-    "name": "Hayat Music Box",
-    "lang": "bs"
-  },
-  {
-    "site_id": "bn_music",
-    "name": "BN Music",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/PoRZZFb.png"
-  },
-  {
-    "site_id": "kuvo_tv",
-    "name": "Kuvo TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/JsiQeW5.png"
-  },
-  {
-    "site_id": "m1",
-    "name": "M1",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/r4tgKZK.png"
-  },
-  {
-    "site_id": "premier_legue_tv_hd",
-    "name": "Premier League TV",
-    "lang": "bs"
-  },
-  {
-    "site_id": "skay_tv",
-    "name": "SKAY TV",
-    "lang": "bs"
-  },
-  {
-    "site_id": "travel_channel",
-    "name": "Travel Channel",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/6RhQKyU.png"
-  },
-  {
-    "site_id": "hifi_etno",
-    "name": "HiFi Etno",
-    "lang": "bs"
-  },
-  {
-    "site_id": "iris_tv_promo",
-    "name": "Iris TV promo",
-    "lang": "bs"
-  },
-  {
-    "site_id": "jazz_classics",
-    "name": "Jazz Classics",
-    "lang": "bs"
-  },
-  {
-    "site_id": "timeless_dizi_channel",
-    "name": "Timeless Dizi Channel",
-    "lang": "bs",
-    "xmltv_id": "TimelessDiziChannel.rs",
-    "logo": "https://i.imgur.com/s3Sqd4L.png"
-  },
-  {
-    "site_id": "tv_novi_becej",
-    "name": "TV Novi Bečej",
-    "lang": "bs",
-    "xmltv_id": "TVNoviBecej.rs",
-    "logo": "https://i.imgur.com/Sqj1fLS.png"
-  },
-  {
-    "site_id": "babes",
-    "name": "Babes",
-    "lang": "bs"
-  },
-  {
-    "site_id": "euro_cinema_4",
-    "name": "Euro Cinema 4",
-    "lang": "bs",
-    "xmltv_id": "EuroCinema4.rs",
-    "logo": "https://i.imgur.com/AUKO5eJ.png"
+    "xmltv_id": "RTV2.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtv-2-rs.png"
   },
   {
     "site_id": "tv_forum",
@@ -349,60 +215,56 @@
     "logo": "https://i.imgur.com/EmxVT1b.png"
   },
   {
-    "site_id": "tv_front",
-    "name": "TV Front",
-    "lang": "bs",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/tv-front-rs.png"
-  },
-  {
-    "site_id": "moj_astrolog_tv",
-    "name": "Moj Astrolog",
-    "lang": "bs",
-    "xmltv_id": "Mojastrolog.rs",
-    "logo": "https://i.imgur.com/8gNft2s.png"
-  },
-  {
-    "site_id": "tv_krusevac",
-    "name": "TV Kruševac",
-    "lang": "bs",
-    "xmltv_id": "TVKrusevac.rs",
-    "logo": "https://i.imgur.com/qxb7RWA.png"
-  },
-  {
-    "site_id": "arena_sport_1_hd",
-    "name": "Arena Sport 1",
-    "lang": "bs",
-    "xmltv_id": "ArenaSport1.rs",
-    "logo": "https://i.imgur.com/RJrJGbW.png"
-  },
-  {
-    "site_id": "superstar_tv_hd",
-    "name": "SUPERSTAR",
+    "site_id": "dancefloor_fillers",
+    "name": "Dancefloor Fillers",
     "lang": "bs"
   },
   {
-    "site_id": "dankos_plus_tv",
-    "name": "Dankos Plus TV",
+    "site_id": "classic_rock",
+    "name": "Rock of Ages",
     "lang": "bs"
   },
   {
-    "site_id": "jimjam",
-    "name": "JimJam",
+    "site_id": "instrumental_melodies",
+    "name": "Easy Listening",
     "lang": "bs",
-    "logo": "https://i.imgur.com/ODhkYyx.png"
+    "xmltv_id": "StingrayEasyListening.ca@SD"
   },
   {
-    "site_id": "LH_TV",
-    "name": "LH TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/WDayrVT.jpg"
+    "site_id": "kcn_k",
+    "name": "K::CN K",
+    "lang": "bs"
   },
   {
-    "site_id": "sos_kanal_plus",
-    "name": "SOS Kanal Plus",
+    "site_id": "supersat_tv",
+    "name": "SuperSat TV",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv1000",
+    "name": "TV1000",
     "lang": "bs",
-    "xmltv_id": "SOSKanalPlus.rs",
-    "logo": "https://i.imgur.com/9SD40uH.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/tv1000-hr.png"
+  },
+  {
+    "site_id": "V_5",
+    "name": "V5",
+    "lang": "bs",
+    "xmltv_id": "V5.rs",
+    "logo": "https://i.imgur.com/pOFYQA0.png"
+  },
+  {
+    "site_id": "nickelodeon_hd",
+    "name": "Nickelodeon HD",
+    "lang": "bs",
+    "xmltv_id": "Nickelodeon.rs"
+  },
+  {
+    "site_id": "euro_cinema_1",
+    "name": "Euro Cinema 1",
+    "lang": "bs",
+    "xmltv_id": "EuroCinema1.rs",
+    "logo": "https://i.imgur.com/vtRScnH.png"
   },
   {
     "site_id": "ftv",
@@ -412,334 +274,38 @@
     "logo": "https://i.imgur.com/gwBELFt.png"
   },
   {
-    "site_id": "pink_world",
-    "name": "Pink World",
-    "lang": "bs",
-    "xmltv_id": "PinkWorld.rs",
-    "logo": "https://i.imgur.com/uWRlntt.png"
-  },
-  {
-    "site_id": "rts_poletarac",
-    "name": "RTS Poletarac",
-    "lang": "bs",
-    "xmltv_id": "RTSPoletarac.rs",
-    "logo": "https://i.imgur.com/8Nnw8NF.png"
-  },
-  {
-    "site_id": "axn_spin",
-    "name": "AXN Spin",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/uVFenKm.png"
-  },
-  {
-    "site_id": "koreni",
-    "name": "Koreni",
-    "lang": "bs",
-    "xmltv_id": "Koreni.rs",
-    "logo": "https://i.imgur.com/kXUQrp2.png"
-  },
-  {
-    "site_id": "story_4",
-    "name": "Story 4",
+    "site_id": "headbangers",
+    "name": "Headbangers",
     "lang": "bs"
   },
   {
-    "site_id": "tv_pozega",
-    "name": "TV Požega",
-    "lang": "bs",
-    "xmltv_id": "TVPozega.rs",
-    "logo": "https://i.imgur.com/SgDqykw.png"
-  },
-  {
-    "site_id": "Pink_BH",
-    "name": "Pink BH",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/wTZxn8F.png"
-  },
-  {
-    "site_id": "SAGA",
-    "name": "SAGA",
+    "site_id": "pink_hits_1",
+    "name": "Pink Hits 1",
     "lang": "bs"
   },
   {
-    "site_id": "sci_fi",
-    "name": "Sci Fi",
+    "site_id": "hit_list_(usa)",
+    "name": "Hit List",
     "lang": "bs",
-    "xmltv_id": "SciFi.rs",
-    "logo": "https://i.imgur.com/FPumwfg.png"
+    "xmltv_id": "StingrayHitList.ca@SD"
   },
   {
-    "site_id": "blic_tv",
-    "name": "Blic TV",
+    "site_id": "sos_kanal_plus",
+    "name": "SOS Kanal Plus",
     "lang": "bs",
-    "xmltv_id": "BlicTV.rs",
-    "logo": "https://i.imgur.com/XM5Qz1i.png"
+    "xmltv_id": "SOSKanalPlus.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/sos-kanal-plus-rs.png"
   },
   {
-    "site_id": "cartoon_network",
-    "name": "Cartoon Network",
+    "site_id": "tv_kcn_1",
+    "name": "TV K::CN 1",
     "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+    "xmltv_id": "TVKCN1.rs",
+    "logo": "https://i.imgur.com/A4qSokJ.png"
   },
   {
-    "site_id": "prva_world",
-    "name": "Prva World",
-    "lang": "bs",
-    "xmltv_id": "PrvaWorld.rs",
-    "logo": "https://i.imgur.com/tuh1vzj.png"
-  },
-  {
-    "site_id": "tv_k23",
-    "name": "TV K23",
-    "lang": "bs",
-    "xmltv_id": "TVK23.rs",
-    "logo": "https://i.imgur.com/LnAdduG.png"
-  },
-  {
-    "site_id": "hype_hd",
-    "name": "Hype",
-    "lang": "bs"
-  },
-  {
-    "site_id": "rtl",
-    "name": "RTL",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/94K94k2.png"
-  },
-  {
-    "site_id": "tv_pink",
-    "name": "TV Pink",
-    "lang": "bs"
-  },
-  {
-    "site_id": "rts_2_hd",
-    "name": "RTS 2",
-    "lang": "bs",
-    "xmltv_id": "RTS2.rs",
-    "logo": "https://i.imgur.com/jltAf5h.png"
-  },
-  {
-    "site_id": "tv_duga_plus",
-    "name": "TV Duga plus",
-    "lang": "bs",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/tv-duga-plus-rs.png"
-  },
-  {
-    "site_id": "tv_priboj",
-    "name": "TV Priboj",
-    "lang": "bs",
-    "xmltv_id": "TVPriboj.rs",
-    "logo": "https://i.imgur.com/1OHgtrR.png"
-  },
-  {
-    "site_id": "tv_vranje",
-    "name": "TV Vranje",
-    "lang": "bs",
-    "xmltv_id": "TVVranje.rs",
-    "logo": "https://i.imgur.com/vYtL7rh.png"
-  },
-  {
-    "site_id": "moja_happy_muzika",
-    "name": "Moja Happy Muzika",
-    "lang": "bs",
-    "xmltv_id": "MojaHappymuzika.rs",
-    "logo": "https://i.imgur.com/SBv2e3B.png"
-  },
-  {
-    "site_id": "arena_sport_7_hd",
-    "name": "Arena Sport 7",
-    "lang": "bs",
-    "xmltv_id": "ArenaSport7.rs",
-    "logo": "https://i.imgur.com/0fgvOrR.png"
-  },
-  {
-    "site_id": "hustler",
-    "name": "Hustler",
-    "lang": "bs"
-  },
-  {
-    "site_id": "_lfctv",
-    "name": "LFCTV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/dVDZBlV.png"
-  },
-  {
-    "site_id": "rts_drama",
-    "name": "RTS Drama",
-    "lang": "bs",
-    "xmltv_id": "RTSDrama.rs",
-    "logo": "https://i.imgur.com/bsTUhYK.png"
-  },
-  {
-    "site_id": "arena_sport_8_hd",
-    "name": "Arena Sport 8",
-    "lang": "bs",
-    "xmltv_id": "ArenaSport8.rs",
-    "logo": "https://i.imgur.com/Wk9dr78.png"
-  },
-  {
-    "site_id": "Newsmax%20Balkans_4K",
-    "name": "Newsmax Balkans 4K",
-    "lang": "bs"
-  },
-  {
-    "site_id": "pink_hits_2",
-    "name": "Pink Hits 2",
-    "lang": "bs",
-    "xmltv_id": "PinkHits2.rs",
-    "logo": "https://i.imgur.com/auqXulB.png"
-  },
-  {
-    "site_id": "pink_movies",
-    "name": "Pink Movies",
-    "lang": "bs",
-    "xmltv_id": "PinkMovies.rs",
-    "logo": "https://i.imgur.com/QQvLaqf.png"
-  },
-  {
-    "site_id": "rt_news_hd",
-    "name": "RT News",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png/960px-Updated_RT%C3%89_News_and_Current_Affairs_Logo.png"
-  },
-  {
-    "site_id": "rts_kolo",
-    "name": "RTS Kolo",
-    "lang": "bs",
-    "xmltv_id": "RTSKolo.rs",
-    "logo": "https://i.imgur.com/gXlEDDW.png"
-  },
-  {
-    "site_id": "vranjska_plus",
-    "name": "Vranjska plus",
-    "lang": "bs",
-    "xmltv_id": "VranjskaPlus.rs",
-    "logo": "https://i.imgur.com/bRWL1Af.png"
-  },
-  {
-    "site_id": "vtv",
-    "name": "VTV",
-    "lang": "bs",
-    "xmltv_id": "VTV.rs",
-    "logo": "https://i.imgur.com/7jCHU4c.png"
-  },
-  {
-    "site_id": "Hit%20FM%20radio",
-    "name": "Hit FM radio",
-    "lang": "bs"
-  },
-  {
-    "site_id": "SRT",
-    "name": "SRT",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_fokus",
-    "name": "TV Fokus",
-    "lang": "bs"
-  },
-  {
-    "site_id": "360_tune_box",
-    "name": "360 Tune box",
-    "lang": "bs"
-  },
-  {
-    "site_id": "BBC_News",
-    "name": "BBC News",
-    "lang": "bs",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "RTI",
-    "name": "RTI",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/D81PepJ.png"
-  },
-  {
-    "site_id": "pester_tv",
-    "name": "Pešter TV",
-    "lang": "bs",
-    "xmltv_id": "PesterTV.rs",
-    "logo": "https://i.imgur.com/tDTyKgs.png"
-  },
-  {
-    "site_id": "tv_cink",
-    "name": "TV CINK",
-    "lang": "bs",
-    "xmltv_id": "TVCink.rs",
-    "logo": "https://i.imgur.com/UdZprYS.png"
-  },
-  {
-    "site_id": "dox_tv_hd",
-    "name": "Dox TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/kELjMlN.png"
-  },
-  {
-    "site_id": "Informer%20TV",
-    "name": "Informer TV",
-    "lang": "bs",
-    "xmltv_id": "InformerTV.rs",
-    "logo": "https://i.imgur.com/9wdEHRf.png"
-  },
-  {
-    "site_id": "erotic_6",
-    "name": "Erotic 6",
-    "lang": "bs",
-    "xmltv_id": "Erotic6.rs",
-    "logo": "https://i.imgur.com/nlvEDUL.png"
-  },
-  {
-    "site_id": "Moja%20TV",
-    "name": "Moja TV",
-    "lang": "bs",
-    "xmltv_id": "MojaTV.rs",
-    "logo": "https://i.imgur.com/Rsu2lcE.png"
-  },
-  {
-    "site_id": "pink_kuvar",
-    "name": "Pink Kuvar",
-    "lang": "bs",
-    "xmltv_id": "PinkKuvar.rs",
-    "logo": "https://i.imgur.com/p5HqBFi.png"
-  },
-  {
-    "site_id": "revival_60s_%26_70s",
-    "name": "Revival ’60s \u0026 ’70s",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_fruska_gora",
-    "name": "TV Fruška Gora",
-    "lang": "bs",
-    "xmltv_id": "TVFruskaGora.rs",
-    "logo": "https://i.imgur.com/GfCLHiV.png"
-  },
-  {
-    "site_id": "fox_crime",
-    "name": "Star Crime",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png"
-  },
-  {
-    "site_id": "total_hits_balkan",
-    "name": "Total Hits Balkans",
-    "lang": "bs"
-  },
-  {
-    "site_id": "decja_muzika",
-    "name": "Greatest Hits",
-    "lang": "bs"
-  },
-  {
-    "site_id": "eurosport_1",
-    "name": "Eurosport 1",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/olQJgm7.png"
-  },
-  {
-    "site_id": "Newsmax_Balkans",
-    "name": "Newsmax Balkans",
+    "site_id": "hip_hop",
+    "name": "Hip Hop",
     "lang": "bs"
   },
   {
@@ -750,525 +316,113 @@
     "logo": "https://i.imgur.com/CCK03yh.png"
   },
   {
-    "site_id": "tv_hram_hd",
-    "name": "TV Hram",
+    "site_id": "balkan_trip_hd",
+    "name": "Balkan Trip",
     "lang": "bs",
-    "xmltv_id": "TVHram.rs",
-    "logo": "https://i.imgur.com/XzAYOFK.png"
+    "xmltv_id": "BalkanTripTV.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/balkan-trip-rs.png"
   },
   {
-    "site_id": "drive",
-    "name": "Drive",
+    "site_id": "epic_drama",
+    "name": "Epic Drama",
     "lang": "bs",
-    "logo": "https://i.imgur.com/FnuwfSC.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/epic-drama-hr.png"
   },
   {
-    "site_id": "rtl_kockica",
-    "name": "RTL KOCKICA",
+    "site_id": "Informer%20TV",
+    "name": "Informer TV",
     "lang": "bs",
-    "logo": "https://i.imgur.com/C7H5bJs.png"
+    "xmltv_id": "InformerTV.rs",
+    "logo": "https://i.imgur.com/9wdEHRf.png"
   },
   {
-    "site_id": "rts_3_hd",
-    "name": "RTS 3",
+    "site_id": "m1",
+    "name": "M1",
     "lang": "bs",
-    "xmltv_id": "RTS3.rs",
-    "logo": "https://i.imgur.com/gxuGB4J.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m1-hu.png"
   },
   {
-    "site_id": "adult_1",
-    "name": "Adult 1",
+    "site_id": "arena_sport_4_hd",
+    "name": "Arena Sport 4",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/arena-sport-4-hr.png"
+  },
+  {
+    "site_id": "extreme_sports",
+    "name": "Extreme Sports",
     "lang": "bs"
   },
   {
-    "site_id": "instrumental_melodies",
-    "name": "Easy Listening",
-    "lang": "bs"
-  },
-  {
-    "site_id": "mtv_live_hd",
-    "name": "MTV Live HD",
+    "site_id": "ha_ha",
+    "name": "HA HA",
     "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
+    "xmltv_id": "HAHA.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/ha-ha-rs.png"
   },
   {
-    "site_id": "nicktoons",
-    "name": "Nicktoons",
+    "site_id": "Love_Nature_4K",
+    "name": "Love Nature 4K",
     "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
+    "xmltv_id": "LoveNature.ca@4K",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/love-nature-4k-ca.png"
   },
   {
-    "site_id": "rtl_gold",
-    "name": "RTL Gold",
+    "site_id": "pink_soap",
+    "name": "Pink Soap",
     "lang": "bs",
-    "logo": "https://i.imgur.com/PwbLDUQ.png"
+    "xmltv_id": "PinkSoap.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-soap-rs.png"
   },
   {
-    "site_id": "tv_kikinda",
-    "name": "TV Kikinda",
+    "site_id": "tlc",
+    "name": "TLC",
     "lang": "bs",
-    "xmltv_id": "TVKikinda.rs",
-    "logo": "https://i.imgur.com/dgOY9Xy.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/tlc-ar.png"
   },
   {
-    "site_id": "fashion_box",
-    "name": "Fashion box",
-    "lang": "bs"
-  },
-  {
-    "site_id": "RT_Balkan",
-    "name": "RT Balkan",
-    "lang": "bs"
-  },
-  {
-    "site_id": "toxic_folk",
-    "name": "Toxic Folk",
+    "site_id": "atv",
+    "name": "ATV",
     "lang": "bs",
-    "xmltv_id": "ToxicFolk.rs",
-    "logo": "https://i.imgur.com/YkIKcDg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/atv-at.png"
   },
   {
-    "site_id": "tv2",
-    "name": "TV2",
+    "site_id": "hayat_folk",
+    "name": "Hayat Folk Box",
     "lang": "bs",
-    "logo": "https://i.imgur.com/VEb631f.png"
-  },
-  {
-    "site_id": "tv_lav_plus",
-    "name": "TV Lav Plus",
-    "lang": "bs",
-    "xmltv_id": "TVLavPlus.rs",
-    "logo": "https://i.imgur.com/Xuh7Amy.png"
-  },
-  {
-    "site_id": "agro_tv",
-    "name": "Agro TV",
-    "lang": "bs",
-    "xmltv_id": "AgroTV.rs",
-    "logo": "https://i.imgur.com/MpY41jI.png"
-  },
-  {
-    "site_id": "arena_premium_3_hd",
-    "name": "Arena PREMIUM 3",
-    "lang": "bs"
-  },
-  {
-    "site_id": "france_24",
-    "name": "France 24",
-    "lang": "bs",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "pink_extra",
-    "name": "Pink Extra",
-    "lang": "bs",
-    "xmltv_id": "PinkExtra.rs",
-    "logo": "https://i.imgur.com/CUQEFtP.png"
-  },
-  {
-    "site_id": "rtl_2",
-    "name": "RTL 2",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/960px-RTL_2_Logo.svg.png"
-  },
-  {
-    "site_id": "super_tv2",
-    "name": "Super TV2",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/JCu1u2v.png"
-  },
-  {
-    "site_id": "tv_petrovec",
-    "name": "TV Petrovec",
-    "lang": "bs",
-    "xmltv_id": "TVPetrovec.rs",
-    "logo": "https://i.imgur.com/NVt7Te5.png"
-  },
-  {
-    "site_id": "arena_sport_1x2_hd",
-    "name": "Arena Sport 1x2",
-    "lang": "bs",
-    "xmltv_id": "ArenaSport1x2.rs",
-    "logo": "https://i.imgur.com/cGIIyxR.png"
-  },
-  {
-    "site_id": "hayat",
-    "name": "Hayat",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/JugiLHM.png"
+    "xmltv_id": "HayatFolk.ba@SD"
   },
   {
     "site_id": "moja_happy_zemlja",
     "name": "Moja Happy Zemlja",
     "lang": "bs",
     "xmltv_id": "MojaHappyzemlja.rs",
-    "logo": "https://i.imgur.com/Jkb6O9V.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/moja-happy-zemlja-rs.png"
   },
   {
-    "site_id": "panon_tv",
-    "name": "Panon TV",
+    "site_id": "pink_sci-fi_%26_fantasy",
+    "name": "Pink Sci-Fi \u0026 Fantasy",
+    "lang": "bs",
+    "xmltv_id": "PinkSciFiFantasy.rs@SD",
+    "logo": "https://i.imgur.com/TJS8j5F.png"
+  },
+  {
+    "site_id": "tv_trans",
+    "name": "TV Trans",
+    "lang": "bs",
+    "xmltv_id": "TVTrans.rs",
+    "logo": "https://i.imgur.com/imUAhnH.png"
+  },
+  {
+    "site_id": "urban",
+    "name": "Hip-Hop/R\u0026B",
     "lang": "bs"
   },
   {
-    "site_id": "rts_trezor",
-    "name": "RTS Trezor",
+    "site_id": "vtv",
+    "name": "VTV",
     "lang": "bs",
-    "xmltv_id": "RTSTrezor.rs",
-    "logo": "https://i.imgur.com/BnSHfxF.png"
-  },
-  {
-    "site_id": "tv_santos",
-    "name": "TV Santos",
-    "lang": "bs",
-    "xmltv_id": "TVSantos.rs",
-    "logo": "https://i.imgur.com/NyY9icy.png"
-  },
-  {
-    "site_id": "tv_as",
-    "name": "TV AS",
-    "lang": "bs",
-    "xmltv_id": "TVAS.rs",
-    "logo": "https://i.imgur.com/LIUtEgD.png"
-  },
-  {
-    "site_id": "arena_sport_6_hd",
-    "name": "Arena Sport 6",
-    "lang": "bs",
-    "xmltv_id": "ArenaSport6.rs",
-    "logo": "https://i.imgur.com/Z5PE4vx.png"
-  },
-  {
-    "site_id": "nasa_tv",
-    "name": "Naša TV",
-    "lang": "bs"
-  },
-  {
-    "site_id": "pink_folk_2",
-    "name": "Pink Folk 2",
-    "lang": "bs",
-    "xmltv_id": "PinkFolk2.rs",
-    "logo": "https://i.imgur.com/3FlmRu9.png"
-  },
-  {
-    "site_id": "rts_klasika",
-    "name": "RTS Klasika",
-    "lang": "bs",
-    "xmltv_id": "RTSKlasika.rs",
-    "logo": "https://i.imgur.com/0goPjm2.png"
-  },
-  {
-    "site_id": "top_tv_hd",
-    "name": "TOP TV",
-    "lang": "bs",
-    "xmltv_id": "TopTV.rs",
-    "logo": "https://i.imgur.com/UJqbKEC.png"
-  },
-  {
-    "site_id": "tv_gem",
-    "name": "TV GEM",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_kraljevo",
-    "name": "TV Kraljevo",
-    "lang": "bs",
-    "xmltv_id": "TVKraljevo.rs",
-    "logo": "https://i.imgur.com/2pw1COk.png"
-  },
-  {
-    "site_id": "zdravlje_tv",
-    "name": "Zelena TV Zdravlje",
-    "lang": "bs",
-    "xmltv_id": "ZelenaTVzdravlje.rs",
-    "logo": "https://i.imgur.com/QKpZdFK.png"
-  },
-  {
-    "site_id": "balkan_retro_hits",
-    "name": "Balkan Retro Hits",
-    "lang": "bs"
-  },
-  {
-    "site_id": "Fashion%20TV%204K",
-    "name": "Fashion TV 4K",
-    "lang": "bs"
-  },
-  {
-    "site_id": "house_music",
-    "name": "House",
-    "lang": "bs"
-  },
-  {
-    "site_id": "kuvo_tv_hd",
-    "name": "Kuvo TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/JsiQeW5.png"
-  },
-  {
-    "site_id": "rtv_101",
-    "name": "RTV 101",
-    "lang": "bs"
-  },
-  {
-    "site_id": "classical_greats",
-    "name": "Classical Greats",
-    "lang": "bs"
-  },
-  {
-    "site_id": "pink_western",
-    "name": "Pink Western",
-    "lang": "bs",
-    "xmltv_id": "PinkWestern.rs",
-    "logo": "https://i.imgur.com/uK3sBs7.png"
-  },
-  {
-    "site_id": "trance",
-    "name": "Trance",
-    "lang": "bs"
-  },
-  {
-    "site_id": "balkan_trip",
-    "name": "Balkan Trip",
-    "lang": "bs",
-    "xmltv_id": "BalkanTripTV.rs",
-    "logo": "https://i.imgur.com/43zhsaj.png"
-  },
-  {
-    "site_id": "bang_u",
-    "name": "Bang U",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/8B2SrKW.png"
-  },
-  {
-    "site_id": "cool_jazz",
-    "name": "Cool Jazz",
-    "lang": "bs"
-  },
-  {
-    "site_id": "eko_vizija",
-    "name": "Eko vizija",
-    "lang": "bs",
-    "xmltv_id": "Ekovizija.rs",
-    "logo": "https://i.imgur.com/oEkWlfx.png"
-  },
-  {
-    "site_id": "hayat_folk",
-    "name": "Hayat Folk Box",
-    "lang": "bs"
-  },
-  {
-    "site_id": "minimax",
-    "name": "Minimax",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/WWOlm1x.png"
-  },
-  {
-    "site_id": "pink_thriller",
-    "name": "Pink Thriller",
-    "lang": "bs",
-    "xmltv_id": "PinkThriller.rs",
-    "logo": "https://i.imgur.com/nuD0Klf.png"
-  },
-  {
-    "site_id": "tv_hit_plus_batocina",
-    "name": "TV HIT plus Batočina",
-    "lang": "bs"
-  },
-  {
-    "site_id": "arena_sport_2_hd",
-    "name": "Arena Sport 2",
-    "lang": "bs",
-    "xmltv_id": "ArenaSport2.rs",
-    "logo": "https://i.imgur.com/aqlECBj.png"
-  },
-  {
-    "site_id": "k1_hd",
-    "name": "K1",
-    "lang": "bs",
-    "xmltv_id": "K1.rs",
-    "logo": "https://i.imgur.com/U3wXj5k.png"
-  },
-  {
-    "site_id": "diva",
-    "name": "Diva",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/bgBZgW0.png"
-  },
-  {
-    "site_id": "pink_fashion",
-    "name": "Pink Fashion",
-    "lang": "bs",
-    "xmltv_id": "PinkFashion.rs",
-    "logo": "https://i.imgur.com/9yB4HY5.png"
-  },
-  {
-    "site_id": "srpski_rok",
-    "name": "Serbian Rock",
-    "lang": "bs"
-  },
-  {
-    "site_id": "film_%2B",
-    "name": "Film +",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/OBYuY3S.png"
-  },
-  {
-    "site_id": "hip_hop",
-    "name": "Hip Hop",
-    "lang": "bs"
-  },
-  {
-    "site_id": "TV_Brus",
-    "name": "TV Brus",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_mostnet",
-    "name": "TV Mostnet",
-    "lang": "bs"
-  },
-  {
-    "site_id": "Ultra%20Puls%20",
-    "name": "Ultra Puls TV",
-    "lang": "bs",
-    "xmltv_id": "UltrapulsTV.rs",
-    "logo": "https://i.imgur.com/luNTiUd.png"
-  },
-  {
-    "site_id": "kurir_hd",
-    "name": "Kurir TV",
-    "lang": "bs",
-    "xmltv_id": "KurirTV.rs",
-    "logo": "https://i.imgur.com/HBPnUD5.png"
-  },
-  {
-    "site_id": "pink_film",
-    "name": "Pink Film",
-    "lang": "bs",
-    "xmltv_id": "PinkFilm.rs",
-    "logo": "https://i.imgur.com/i6Il48Y.png"
-  },
-  {
-    "site_id": "the_spa",
-    "name": "New Age",
-    "lang": "bs"
-  },
-  {
-    "site_id": "euro_cinema_1",
-    "name": "Euro Cinema 1",
-    "lang": "bs",
-    "xmltv_id": "EuroCinema1.rs",
-    "logo": "https://i.imgur.com/vtRScnH.png"
-  },
-  {
-    "site_id": "k3",
-    "name": "K3",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/nIIZ14i.png"
-  },
-  {
-    "site_id": "mtv_hits_international",
-    "name": "MTV Hits International",
-    "lang": "bs"
-  },
-  {
-    "site_id": "obn",
-    "name": "OBN",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/bJVDMaE.png"
-  },
-  {
-    "site_id": "toxic_tv_hd",
-    "name": "Toxic TV",
-    "lang": "bs",
-    "xmltv_id": "ToxicTV.rs",
-    "logo": "https://i.imgur.com/w6WuWnS.png"
-  },
-  {
-    "site_id": "TV%20Jefimija",
-    "name": "TV Jefimija",
-    "lang": "bs",
-    "xmltv_id": "TVJefimija.rs",
-    "logo": "https://i.imgur.com/0psj3fj.png"
-  },
-  {
-    "site_id": "duna_world",
-    "name": "DUNA World",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/uOBQJZS.png"
-  },
-  {
-    "site_id": "sremska_tv",
-    "name": "Sremska TV",
-    "lang": "bs",
-    "xmltv_id": "SremskaTV.rs",
-    "logo": "https://i.imgur.com/XRiji0r.png"
-  },
-  {
-    "site_id": "tv_sunce",
-    "name": "TV Sunce",
-    "lang": "bs",
-    "xmltv_id": "TVSunce.rs",
-    "logo": "https://i.imgur.com/RXJ7BvK.png"
-  },
-  {
-    "site_id": "adult_6",
-    "name": "Adult 6",
-    "lang": "bs"
-  },
-  {
-    "site_id": "bloomberg",
-    "name": "Bloomberg",
-    "lang": "bs"
-  },
-  {
-    "site_id": "Ras%20tv",
-    "name": "TV Ras",
-    "lang": "bs",
-    "xmltv_id": "TVRas.rs",
-    "logo": "https://i.imgur.com/VYorSN5.png"
-  },
-  {
-    "site_id": "rtl_croatia_world",
-    "name": "RTL Croatia World",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/rzB6Z6u.png"
-  },
-  {
-    "site_id": "hit_list_(usa)",
-    "name": "Hit List",
-    "lang": "bs"
-  },
-  {
-    "site_id": "pink_super_kids",
-    "name": "Pink Super Kids",
-    "lang": "bs",
-    "xmltv_id": "PinkSuperKids.rs",
-    "logo": "https://i.imgur.com/VmenuLE.png"
-  },
-  {
-    "site_id": "rtv_fortuna",
-    "name": "RTV Fortuna",
-    "lang": "bs",
-    "xmltv_id": "FortunaTV.rs",
-    "logo": "https://i.imgur.com/gwBELFt.png"
-  },
-  {
-    "site_id": "tv_trstenik",
-    "name": "TV Trstenik",
-    "lang": "bs",
-    "xmltv_id": "TVTrstenik.rs",
-    "logo": "https://i.imgur.com/JyiHngm.png"
-  },
-  {
-    "site_id": "private_tv",
-    "name": "Private TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/2yt8MAA.png"
-  },
-  {
-    "site_id": "total_hits_uk",
-    "name": "Total Hits UK",
-    "lang": "bs"
+    "xmltv_id": "VTV.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/indonesia/vtv-id.png"
   },
   {
     "site_id": "city_play",
@@ -1277,1071 +431,8 @@
     "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/city-play-rs.png"
   },
   {
-    "site_id": "classic_rock",
-    "name": "Rock of Ages",
-    "lang": "bs"
-  },
-  {
-    "site_id": "da_vinci_learning",
-    "name": "Da Vinci Learning",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/V8AUJP6.png"
-  },
-  {
-    "site_id": "pink_music",
-    "name": "Pink Music",
-    "lang": "bs",
-    "xmltv_id": "PinkMusic.rs",
-    "logo": "https://i.imgur.com/nf4bzDG.png"
-  },
-  {
-    "site_id": "pink_plus",
-    "name": "Pink Plus",
-    "lang": "bs",
-    "xmltv_id": "PinkPlus.rs",
-    "logo": "https://i.imgur.com/A3D1RZP.png"
-  },
-  {
-    "site_id": "tv_kanal_m",
-    "name": "TV Kanal M",
-    "lang": "bs",
-    "xmltv_id": "TVKanalM.rs",
-    "logo": "https://i.imgur.com/hqNVRUU.png"
-  },
-  {
-    "site_id": "erotic",
-    "name": "Erotic",
-    "lang": "bs",
-    "xmltv_id": "Erotic.rs",
-    "logo": "https://i.imgur.com/oe5GO3d.png"
-  },
-  {
-    "site_id": "erotic_8",
-    "name": "Erotic 8",
-    "lang": "bs",
-    "xmltv_id": "Erotic8.rs",
-    "logo": "https://i.imgur.com/HO9wHEH.png"
-  },
-  {
-    "site_id": "btv",
-    "name": "BTV",
-    "lang": "bs",
-    "xmltv_id": "BTV.rs",
-    "logo": "https://i.imgur.com/jZU9hCg.png"
-  },
-  {
-    "site_id": "dancefloor_fillers",
-    "name": "Dancefloor Fillers",
-    "lang": "bs"
-  },
-  {
-    "site_id": "hrt_2",
-    "name": "HRT 2",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/yyePcl1.png"
-  },
-  {
-    "site_id": "pink_horror",
-    "name": "Pink Horror",
-    "lang": "bs",
-    "xmltv_id": "PinkHorror.rs",
-    "logo": "https://i.imgur.com/Prd21Cm.png"
-  },
-  {
-    "site_id": "rtv_1",
-    "name": "RTV 1",
-    "lang": "bs",
-    "xmltv_id": "RTV1.rs",
-    "logo": "https://i.imgur.com/CG44YT3.png"
-  },
-  {
-    "site_id": "bloomberg_adria",
-    "name": "Bloomberg Adria",
-    "lang": "bs",
-    "xmltv_id": "BloombergAdria.rs",
-    "logo": "https://i.imgur.com/A5ui53C.png"
-  },
-  {
-    "site_id": "pink_family",
-    "name": "Pink Family",
-    "lang": "bs",
-    "xmltv_id": "PinkFamily.rs",
-    "logo": "https://i.imgur.com/H6IRGOd.png"
-  },
-  {
-    "site_id": "adult_2",
-    "name": "Adult 2",
-    "lang": "bs"
-  },
-  {
-    "site_id": "cool",
-    "name": "COOL",
-    "lang": "bs"
-  },
-  {
-    "site_id": "klasik_tv_duplicate",
-    "name": "Klasik",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/C90BYlb.png"
-  },
-  {
-    "site_id": "vesti",
-    "name": "VESTI",
-    "lang": "bs",
-    "xmltv_id": "Vesti.rs",
-    "logo": "https://i.imgur.com/lKYqwJQ.png"
-  },
-  {
-    "site_id": "filmbox_premium",
-    "name": "Filmbox Premium",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/RydfsE9.png"
-  },
-  {
-    "site_id": "pink_romance",
-    "name": "Pink Romance",
-    "lang": "bs",
-    "xmltv_id": "PinkRomance.rs",
-    "logo": "https://i.imgur.com/eu5Wffg.png"
-  },
-  {
-    "site_id": "pink_soap",
-    "name": "Pink Soap",
-    "lang": "bs",
-    "xmltv_id": "PinkSoap.rs",
-    "logo": "https://i.imgur.com/SZqIj40.png"
-  },
-  {
-    "site_id": "toxic_tv",
-    "name": "Toxic TV",
-    "lang": "bs",
-    "xmltv_id": "ToxicTV.rs",
-    "logo": "https://i.imgur.com/w6WuWnS.png"
-  },
-  {
-    "site_id": "m5_tv",
-    "name": "M5",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/y21wFd0.png"
-  },
-  {
-    "site_id": "Espreso%20TV",
-    "name": "Espreso TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/xNatV8K.png"
-  },
-  {
-    "site_id": "euro_cinema_3",
-    "name": "Euro Cinema 3",
-    "lang": "bs",
-    "xmltv_id": "EuroCinema3.rs",
-    "logo": "https://i.imgur.com/dbeBek7.png"
-  },
-  {
-    "site_id": "hayatovci",
-    "name": "Hayatovci",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/eqd3kvW.png"
-  },
-  {
-    "site_id": "pink_show",
-    "name": "Pink Show",
-    "lang": "bs",
-    "xmltv_id": "PinkShow.rs",
-    "logo": "https://i.imgur.com/Fg5BKhq.png"
-  },
-  {
-    "site_id": "fast_%26_fun_hd",
-    "name": "Fast \u0026 Fun",
-    "lang": "bs"
-  },
-  {
-    "site_id": "koreni_hd",
-    "name": "Koreni",
-    "lang": "bs",
-    "xmltv_id": "Koreni.rs",
-    "logo": "https://i.imgur.com/kXUQrp2.png"
-  },
-  {
-    "site_id": "rtv_kragujevac",
-    "name": "RTV Kragujevac",
-    "lang": "bs"
-  },
-  {
-    "site_id": "arena_premium_1_hd",
-    "name": "Arena PREMIUM 1",
-    "lang": "bs"
-  },
-  {
-    "site_id": "discovery_channel",
-    "name": "Discovery Channel",
-    "lang": "bs",
-    "xmltv_id": "DiscoveryChannel.rs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "nezne_note",
-    "name": "Today's K-Pop",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_hram",
-    "name": "TV Hram",
-    "lang": "bs",
-    "xmltv_id": "TVHram.rs",
-    "logo": "https://i.imgur.com/XzAYOFK.png"
-  },
-  {
-    "site_id": "tv_mars",
-    "name": "TV Marš",
-    "lang": "bs",
-    "xmltv_id": "TVMarsh.rs",
-    "logo": "https://i.imgur.com/Dt1mPyX.png"
-  },
-  {
-    "site_id": "cgtn",
-    "name": "CGTN",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
-  },
-  {
-    "site_id": "dox_tv",
-    "name": "Dox TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/kELjMlN.png"
-  },
-  {
-    "site_id": "tv_s",
-    "name": "TV S",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_subotica",
-    "name": "TV Subotica",
-    "lang": "bs",
-    "xmltv_id": "TVSubotica.rs",
-    "logo": "https://i.imgur.com/NrKSGAy.png"
-  },
-  {
-    "site_id": "tanjug_tv",
-    "name": "Tanjug TV",
-    "lang": "bs",
-    "xmltv_id": "TanjugTV.rs",
-    "logo": "https://i.imgur.com/3cRZxdL.png"
-  },
-  {
-    "site_id": "tv_becej",
-    "name": "TV Bečej",
-    "lang": "bs",
-    "xmltv_id": "TVBecej.rs",
-    "logo": "https://i.imgur.com/fuJyhq1.png"
-  },
-  {
-    "site_id": "90s",
-    "name": "’90s",
-    "lang": "bs"
-  },
-  {
-    "site_id": "la_vitta_e_bella",
-    "name": "La Vitta e Bella",
-    "lang": "bs"
-  },
-  {
-    "site_id": "pink_action",
-    "name": "Pink Action",
-    "lang": "bs",
-    "xmltv_id": "PinkAction.rs",
-    "logo": "https://i.imgur.com/Nbiocjr.png"
-  },
-  {
-    "site_id": "prva_cg",
-    "name": "Prva CG",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/NCztxMY.png"
-  },
-  {
-    "site_id": "tv_backa",
-    "name": "TV Bačka",
-    "lang": "bs",
-    "xmltv_id": "TVBacka.rs",
-    "logo": "https://i.imgur.com/WEfwcx6.png"
-  },
-  {
-    "site_id": "film_4",
-    "name": "Film 4",
-    "lang": "bs",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/film-4-uk.png"
-  },
-  {
-    "site_id": "prva_life",
-    "name": "Prva Life",
-    "lang": "bs",
-    "xmltv_id": "PrvaLife.rs",
-    "logo": "https://i.imgur.com/fHntwzn.png"
-  },
-  {
-    "site_id": "silk_(love_songs)",
-    "name": "Silk (Love Songs)",
-    "lang": "bs"
-  },
-  {
-    "site_id": "prva_tv_hd",
-    "name": "Prva",
-    "lang": "bs",
-    "xmltv_id": "Prva.rs",
-    "logo": "https://i.imgur.com/NA31Gtm.png"
-  },
-  {
-    "site_id": "rtrs",
-    "name": "RTRS",
-    "lang": "bs",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtrs-rs.png"
-  },
-  {
-    "site_id": "tv_palma_plus",
-    "name": "TV Palma plus",
-    "lang": "bs",
-    "xmltv_id": "TVPalmaplus.rs",
-    "logo": "https://i.imgur.com/WG4TD6F.png"
-  },
-  {
-    "site_id": "nickelodeon_junior",
-    "name": "Nickelodeon Junior",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png"
-  },
-  {
-    "site_id": "tv_kcn_svet_plus_3",
-    "name": "TV K::CN Svet Plus 3",
-    "lang": "bs"
-  },
-  {
-    "site_id": "erotic_3",
-    "name": "Erotic 3",
-    "lang": "bs",
-    "xmltv_id": "Erotic3.rs",
-    "logo": "https://i.imgur.com/c4EprHB.png"
-  },
-  {
-    "site_id": "erox",
-    "name": "Erox",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/B9Fz9Yr.png"
-  },
-  {
-    "site_id": "cinemax",
-    "name": "Cinemax",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/cZWoJWD.png"
-  },
-  {
-    "site_id": "gypsy_party",
-    "name": "Balkan Music/Gypsy",
-    "lang": "bs"
-  },
-  {
-    "site_id": "Zadruga%20live_4",
-    "name": "Elita live 4",
-    "lang": "bs",
-    "xmltv_id": "Elitalive4.rs",
-    "logo": "https://i.imgur.com/mntUW7t.png"
-  },
-  {
-    "site_id": "epic_drama",
-    "name": "Epic Drama",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg"
-  },
-  {
-    "site_id": "pink_world_cinema",
-    "name": "Pink World Cinema",
-    "lang": "bs",
-    "xmltv_id": "PinkWorldCinema.rs",
-    "logo": "https://i.imgur.com/bhSrZiK.png"
-  },
-  {
-    "site_id": "80s",
-    "name": "’80s",
-    "lang": "bs"
-  },
-  {
-    "site_id": "chillout",
-    "name": "Chillout",
-    "lang": "bs"
-  },
-  {
-    "site_id": "groove_(_disco_%26_funk)",
-    "name": "Groove ( Disco \u0026 Funk)",
-    "lang": "bs"
-  },
-  {
-    "site_id": "headbangers",
-    "name": "Headbangers",
-    "lang": "bs"
-  },
-  {
-    "site_id": "ntv",
-    "name": "NTV",
-    "lang": "bs",
-    "xmltv_id": "NTV.rs",
-    "logo": "https://i.imgur.com/xNf4l8u.png"
-  },
-  {
-    "site_id": "tv_kcn_istok",
-    "name": "TV K::CN Istok",
-    "lang": "bs",
-    "xmltv_id": "TVKCNIstok.rs",
-    "logo": "https://i.imgur.com/yEywfmg.png"
-  },
-  {
-    "site_id": "tv_mag",
-    "name": "TV MAG",
-    "lang": "bs",
-    "xmltv_id": "TVMag.rs",
-    "logo": "https://i.imgur.com/685pXjt.png"
-  },
-  {
-    "site_id": "hrt_4",
-    "name": "HRT 4",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/VcNrY0m.png"
-  },
-  {
-    "site_id": "sat_tv",
-    "name": "SAT TV",
-    "lang": "bs",
-    "xmltv_id": "SATTV.rs",
-    "logo": "https://i.imgur.com/GaAJiyX.png"
-  },
-  {
-    "site_id": "turizam_%2B_tv",
-    "name": "Turizam + TV",
-    "lang": "bs",
-    "xmltv_id": "TurizamTV.rs",
-    "logo": "https://i.imgur.com/VDvpeED.png"
-  },
-  {
-    "site_id": "tvdr_duplicate",
-    "name": "TVDR",
-    "lang": "bs"
-  },
-  {
-    "site_id": "happy_tv_hd",
-    "name": "Happy TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/8L9RfIa.png"
-  },
-  {
-    "site_id": "pink_zabava",
-    "name": "Pink Zabava",
-    "lang": "bs",
-    "xmltv_id": "PinkZabava.rs",
-    "logo": "https://i.imgur.com/VqF3P6S.png"
-  },
-  {
-    "site_id": "euronews",
-    "name": "Euronews",
-    "lang": "bs",
-    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg"
-  },
-  {
-    "site_id": "filmbox_stars",
-    "name": "Filmbox Stars",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/eZFdHbR.png"
-  },
-  {
-    "site_id": "nickelodeon_hd",
-    "name": "Nickelodeon HD",
-    "lang": "bs"
-  },
-  {
-    "site_id": "pink_sci-fi_%26_fantasy",
-    "name": "Pink Sci-Fi \u0026 Fantasy",
-    "lang": "bs",
-    "xmltv_id": "PinkSciFiFantasy.rs",
-    "logo": "https://i.imgur.com/TJS8j5F.png"
-  },
-  {
-    "site_id": "RTR_Planeta",
-    "name": "RTR Planeta",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_kcn_1",
-    "name": "TV K::CN 1",
-    "lang": "bs",
-    "xmltv_id": "TVKCN1.rs",
-    "logo": "https://i.imgur.com/A4qSokJ.png"
-  },
-  {
-    "site_id": "tv_pirot",
-    "name": "TV Pirot",
-    "lang": "bs",
-    "xmltv_id": "TVPirot.rs",
-    "logo": "https://i.imgur.com/o5y1ok6.png"
-  },
-  {
-    "site_id": "24kitchen",
-    "name": "24Kitchen",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png"
-  },
-  {
-    "site_id": "atv",
-    "name": "ATV",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png"
-  },
-  {
-    "site_id": "amc",
-    "name": "AMC",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/qRrOi3t.png"
-  },
-  {
-    "site_id": "hrt_1",
-    "name": "HRT 1",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/lDSctzX.png"
-  },
-  {
-    "site_id": "lol",
-    "name": "LOL",
-    "lang": "bs",
-    "xmltv_id": "LOL.rs",
-    "logo": "https://i.imgur.com/fPdlyJJ.png"
-  },
-  {
-    "site_id": "prva_kick",
-    "name": "Prva Kick",
-    "lang": "bs",
-    "xmltv_id": "PrvaKick.rs",
-    "logo": "https://i.imgur.com/zsXD3cd.png"
-  },
-  {
-    "site_id": "V_5",
-    "name": "V5",
-    "lang": "bs",
-    "xmltv_id": "V5.rs",
-    "logo": "https://i.imgur.com/pOFYQA0.png"
-  },
-  {
-    "site_id": "radio_karolina",
-    "name": "Radio Karolina",
-    "lang": "bs"
-  },
-  {
-    "site_id": "dorcel",
-    "name": "Dorcel",
-    "lang": "bs"
-  },
-  {
-    "site_id": "pink_crime_%26_mystery",
-    "name": "Pink Crime \u0026 Mystery",
-    "lang": "bs",
-    "xmltv_id": "PinkCrimeMystery.rs",
-    "logo": "https://i.imgur.com/zqUqfMs.png"
-  },
-  {
-    "site_id": "tv_k-1",
-    "name": "TV K-1",
-    "lang": "bs",
-    "xmltv_id": "TVK1.rs",
-    "logo": "https://i.imgur.com/ulhhWEt.png"
-  },
-  {
-    "site_id": "tv_kladovo",
-    "name": "TV Kladovo",
-    "lang": "bs",
-    "xmltv_id": "TVKladovo.rs",
-    "logo": "https://i.imgur.com/F9vpk7O.png"
-  },
-  {
-    "site_id": "Cartoonito",
-    "name": "Cartoonito",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/6vYWCD0.png"
-  },
-  {
-    "site_id": "euro_cinema_2",
-    "name": "Euro Cinema 2",
-    "lang": "bs",
-    "xmltv_id": "EuroCinema2.rs",
-    "logo": "https://i.imgur.com/P9Tqkg1.png"
-  },
-  {
-    "site_id": "hrt_3",
-    "name": "HRT 3",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/4OrOJRx.png"
-  },
-  {
-    "site_id": "latin",
-    "name": "Éxitos Latinos",
-    "lang": "bs"
-  },
-  {
-    "site_id": "rts_zivot",
-    "name": "RTS Život",
-    "lang": "bs",
-    "xmltv_id": "RTSZivot.rs",
-    "logo": "https://i.imgur.com/NpFG9uy.png"
-  },
-  {
-    "site_id": "disney_junior",
-    "name": "Disney Junior",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
-  },
-  {
-    "site_id": "Prva%20MAX",
-    "name": "Prva MAX",
-    "lang": "bs",
-    "xmltv_id": "PrvaMax.rs",
-    "logo": "https://i.imgur.com/BzxmOaQ.png"
-  },
-  {
-    "site_id": "2000s",
-    "name": "2000s",
-    "lang": "bs"
-  },
-  {
-    "site_id": "bass%2C_breaks_%26_beats",
-    "name": "Bass, Breaks and Beats",
-    "lang": "bs"
-  },
-  {
-    "site_id": "blues",
-    "name": "Deep Blues",
-    "lang": "bs"
-  },
-  {
-    "site_id": "fashion_tv",
-    "name": "Fashion TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/Bk7W39G.png"
-  },
-  {
-    "site_id": "fight_box",
-    "name": "Fight Box",
-    "lang": "bs",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/fight-box-hr.png"
-  },
-  {
-    "site_id": "hbo_2",
-    "name": "HBO 2",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png"
-  },
-  {
-    "site_id": "jammin",
-    "name": "Riddim",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_jasenica",
-    "name": "TV Jasenica",
-    "lang": "bs",
-    "xmltv_id": "TVJasenica.rs",
-    "logo": "https://i.imgur.com/IcKnWay.png"
-  },
-  {
-    "site_id": "dm_sat",
-    "name": "DM SAT",
-    "lang": "bs",
-    "xmltv_id": "DMSat.rs",
-    "logo": "https://i.imgur.com/LdeA1Cn.png"
-  },
-  {
-    "site_id": "euronews_serbia",
-    "name": "Euronews Serbia",
-    "lang": "bs",
-    "xmltv_id": "EuronewsSerbia.rs",
-    "logo": "https://i.imgur.com/7rK00VE.png"
-  },
-  {
-    "site_id": "tv_diskos",
-    "name": "TV Diskos",
-    "lang": "bs",
-    "xmltv_id": "TVDiskos.rs",
-    "logo": "https://i.imgur.com/STgCB8i.png"
-  },
-  {
-    "site_id": "tv_ritam",
-    "name": "TV Ritam",
-    "lang": "bs",
-    "xmltv_id": "TVRitam.rs",
-    "logo": "https://i.imgur.com/VXVTy8p.png"
-  },
-  {
-    "site_id": "Zadruga%20live_2",
-    "name": "Elita live 2",
-    "lang": "bs",
-    "xmltv_id": "Elitalive2.rs",
-    "logo": "https://i.imgur.com/3gbBwEE.png"
-  },
-  {
-    "site_id": "zvuci_skadarlije",
-    "name": "The Spa",
-    "lang": "bs"
-  },
-  {
-    "site_id": "all_day_party",
-    "name": "All Day Party",
-    "lang": "bs"
-  },
-  {
-    "site_id": "food_network_hd",
-    "name": "Food Network",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg"
-  },
-  {
-    "site_id": "history_2",
-    "name": "History 2",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
-  },
-  {
-    "site_id": "telemark",
-    "name": "Telemark",
-    "lang": "bs",
-    "xmltv_id": "TMSTelevizijaTelemark.rs",
-    "logo": "https://i.imgur.com/4SnboGr.png"
-  },
-  {
-    "site_id": "tv_pancevo",
-    "name": "TV Pančevo",
-    "lang": "bs",
-    "xmltv_id": "TVPancevo.rs",
-    "logo": "https://i.imgur.com/WWiuqVz.png"
-  },
-  {
-    "site_id": "Nais_TV%20",
-    "name": "Nais TV",
-    "lang": "bs"
-  },
-  {
-    "site_id": "nba_tv",
-    "name": "NBA TV",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"
-  },
-  {
-    "site_id": "adult_3",
-    "name": "Adult 3",
-    "lang": "bs"
-  },
-  {
-    "site_id": "duna_tv",
-    "name": "DUNA TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/oPbsSlp.png"
-  },
-  {
-    "site_id": "pink_koncert",
-    "name": "Pink Koncert",
-    "lang": "bs",
-    "xmltv_id": "PinkKoncert.rs",
-    "logo": "https://i.imgur.com/mljzdZw.png"
-  },
-  {
-    "site_id": "studio_b",
-    "name": "Studio B",
-    "lang": "bs",
-    "xmltv_id": "StudioB.rs",
-    "logo": "https://i.imgur.com/k875WTc.png"
-  },
-  {
-    "site_id": "una_tv",
-    "name": "UNA TV",
-    "lang": "bs",
-    "xmltv_id": "UNATV.rs",
-    "logo": "https://i.imgur.com/rSQ6Wff.png"
-  },
-  {
-    "site_id": "freedom",
-    "name": "Freedom",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png"
-  },
-  {
-    "site_id": "tv_apatin",
-    "name": "TV Apatin",
-    "lang": "bs",
-    "xmltv_id": "TVApatin.rs",
-    "logo": "https://i.imgur.com/dy4gqS2.png"
-  },
-  {
-    "site_id": "tv_bujanovac",
-    "name": "TV Bujanovac",
-    "lang": "bs",
-    "xmltv_id": "TVBujanovac.rs",
-    "logo": "https://i.imgur.com/rK6DO4u.png"
-  },
-  {
-    "site_id": "balkan_trip_hd",
-    "name": "Balkan Trip",
-    "lang": "bs",
-    "xmltv_id": "BalkanTripTV.rs",
-    "logo": "https://i.imgur.com/43zhsaj.png"
-  },
-  {
-    "site_id": "cctv_4",
-    "name": "CCTV 4",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_podrinje",
-    "name": "TV Podrinje",
-    "lang": "bs",
-    "xmltv_id": "TVPodrinje.rs",
-    "logo": "https://i.imgur.com/m41mohW.png"
-  },
-  {
-    "site_id": "tv_ras",
-    "name": "TV Ras",
-    "lang": "bs",
-    "xmltv_id": "TVRas.rs",
-    "logo": "https://i.imgur.com/VYorSN5.png"
-  },
-  {
-    "site_id": "club_mtv",
-    "name": "Club MTV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/FD6eQI3.png"
-  },
-  {
-    "site_id": "omg",
-    "name": "OMG",
-    "lang": "bs"
-  },
-  {
-    "site_id": "rts_nauka",
-    "name": "RTS Nauka",
-    "lang": "bs",
-    "xmltv_id": "RTSNauka.rs",
-    "logo": "https://i.imgur.com/oH9faK9.png"
-  },
-  {
-    "site_id": "adult_7",
-    "name": "Adult 7",
-    "lang": "bs"
-  },
-  {
-    "site_id": "cinemax_2",
-    "name": "Cinemax 2",
-    "lang": "bs"
-  },
-  {
-    "site_id": "hbo_3",
-    "name": "HBO 3",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/3QIHh2V.png"
-  },
-  {
-    "site_id": "moje_happy_drustvo",
-    "name": "Moje Happy Društvo",
-    "lang": "bs",
-    "xmltv_id": "MojeHappydrustvo.rs",
-    "logo": "https://i.imgur.com/Oiik4UC.png"
-  },
-  {
-    "site_id": "rewind_80s_%26_90s",
-    "name": "Rewind ’80s \u0026 ’90s",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_kanal_25",
-    "name": "TV Kanal 25",
-    "lang": "bs",
-    "xmltv_id": "TVKanal25.rs",
-    "logo": "https://i.imgur.com/rCzSWRx.png"
-  },
-  {
-    "site_id": "Zadruga%20live_3",
-    "name": "Elita live 3",
-    "lang": "bs",
-    "xmltv_id": "Elitalive3.rs",
-    "logo": "https://i.imgur.com/BPjc3Rz.png"
-  },
-  {
-    "site_id": "axn",
-    "name": "AXN",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
-  },
-  {
-    "site_id": "tv_galaksija_32",
-    "name": "TV Galaksija 32",
-    "lang": "bs",
-    "xmltv_id": "TVGalaksija32.rs",
-    "logo": "https://i.imgur.com/G32vzSJ.png"
-  },
-  {
-    "site_id": "erotic_2",
-    "name": "Erotic 2",
-    "lang": "bs",
-    "xmltv_id": "Erotic2.rs",
-    "logo": "https://i.imgur.com/1E0anlI.png"
-  },
-  {
-    "site_id": "kcn_zapad",
-    "name": "K::CN Zapad",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_delta",
-    "name": "TV Delta",
-    "lang": "bs",
-    "xmltv_id": "TVDelta.rs",
-    "logo": "https://i.imgur.com/kRtOIMf.png"
-  },
-  {
-    "site_id": "tv_kcn_music_2",
-    "name": "TV K::CN Music 2",
-    "lang": "bs",
-    "xmltv_id": "TVKCN2.rs",
-    "logo": "https://i.imgur.com/iOJhLJU.png"
-  },
-  {
-    "site_id": "adria_tv",
-    "name": "ADRIA TV",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/LPuElVg.png"
-  },
-  {
-    "site_id": "agro_tv_duplicate",
-    "name": "Agro TV",
-    "lang": "bs",
-    "xmltv_id": "AgroTV.rs",
-    "logo": "https://i.imgur.com/MpY41jI.png"
-  },
-  {
-    "site_id": "cnn",
-    "name": "CNN",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png"
-  },
-  {
-    "site_id": "Love_Nature_4K",
-    "name": "Love Nature 4K",
-    "lang": "bs",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/love-nature-4k-ca.png"
-  },
-  {
-    "site_id": "mtv_90s",
-    "name": "MTV 90s",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/MTV_90s_2022.svg"
-  },
-  {
-    "site_id": "tv_va_plus",
-    "name": "TV VA PLUS",
-    "lang": "bs",
-    "xmltv_id": "TVVAPlus.rs",
-    "logo": "https://i.imgur.com/yMEvel5.png"
-  },
-  {
-    "site_id": "zvezda_tv",
-    "name": "Zvezda TV",
-    "lang": "bs",
-    "xmltv_id": "ZvezdaTV.rs",
-    "logo": "https://i.imgur.com/oxHaNOZ.png"
-  },
-  {
-    "site_id": "info_24_plus",
-    "name": "INFO 24 Plus",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_5_uzice",
-    "name": "TV 5 Užice",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_bap",
-    "name": "TV Bap",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_istok",
-    "name": "TV Istok",
-    "lang": "bs",
-    "xmltv_id": "TVIstok.rs",
-    "logo": "https://i.imgur.com/QcGbJ7j.png"
-  },
-  {
-    "site_id": "Eko%20vizija",
-    "name": "Eko vizija",
-    "lang": "bs",
-    "xmltv_id": "Ekovizija.rs",
-    "logo": "https://i.imgur.com/oEkWlfx.png"
-  },
-  {
-    "site_id": "hype",
-    "name": "Hype",
-    "lang": "bs"
-  },
-  {
-    "site_id": "happy_reality_1",
-    "name": "Happy Reality 1",
-    "lang": "bs",
-    "xmltv_id": "HappyReality1.rs",
-    "logo": "https://i.imgur.com/whbFhRJ.png"
-  },
-  {
-    "site_id": "hbo",
-    "name": "HBO",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
-  },
-  {
-    "site_id": "pink_comedy",
-    "name": "Pink Comedy",
-    "lang": "bs",
-    "xmltv_id": "PinkComedy.rs",
-    "logo": "https://i.imgur.com/pIW9iG6.png"
-  },
-  {
-    "site_id": "tlc",
-    "name": "TLC",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/UdLeLar.jpg"
-  },
-  {
-    "site_id": "toxic_folk_hd",
-    "name": "Toxic Folk",
-    "lang": "bs",
-    "xmltv_id": "ToxicFolk.rs",
-    "logo": "https://i.imgur.com/YkIKcDg.png"
-  },
-  {
-    "site_id": "arena_sport_3_hd",
-    "name": "Arena Sport 3",
-    "lang": "bs",
-    "xmltv_id": "ArenaSport3.rs",
-    "logo": "https://i.imgur.com/3r3burN.png"
-  },
-  {
-    "site_id": "bn",
-    "name": "BN",
-    "lang": "bs"
-  },
-  {
-    "site_id": "rock_alternative_-us",
-    "name": "Alternative",
-    "lang": "bs"
-  },
-  {
-    "site_id": "superstar_tv",
-    "name": "SUPERSTAR",
-    "lang": "bs"
-  },
-  {
-    "site_id": "urban",
-    "name": "Hip-Hop/R\u0026B",
+    "site_id": "srpski_rok",
+    "name": "Serbian Rock",
     "lang": "bs"
   },
   {
@@ -2352,64 +443,82 @@
     "logo": "https://i.imgur.com/dv3iZaO.png"
   },
   {
-    "site_id": "dunav_tv_hd",
-    "name": "Dunav TV",
-    "lang": "bs",
-    "xmltv_id": "DunavTV.rs",
-    "logo": "https://i.imgur.com/nMOqNvR.png"
-  },
-  {
-    "site_id": "70s",
-    "name": "Soho ’70s",
+    "site_id": "latin",
+    "name": "Éxitos Latinos",
     "lang": "bs"
   },
   {
-    "site_id": "kazbuka",
-    "name": "Kazbuka",
+    "site_id": "24kitchen",
+    "name": "24Kitchen",
     "lang": "bs",
-    "xmltv_id": "Kazbuka.rs",
-    "logo": "https://i.imgur.com/y6POIqQ.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png"
   },
   {
-    "site_id": "baby_tv",
-    "name": "Baby TV",
+    "site_id": "hayat",
+    "name": "Hayat",
     "lang": "bs",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/baby-tv-ar.png"
+    "xmltv_id": "Hayat.ba@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/hayat-rs.png"
   },
   {
-    "site_id": "FEM3",
-    "name": "TV2 Klub",
-    "lang": "bs",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-klub-hu.png"
-  },
-  {
-    "site_id": "hifi_music",
-    "name": "HiFi Music",
+    "site_id": "tv_5_uzice",
+    "name": "TV 5 Užice",
     "lang": "bs"
   },
   {
-    "site_id": "tv_caribrod",
-    "name": "TV Caribrod",
+    "site_id": "tv_bujanovac",
+    "name": "TV Bujanovac",
     "lang": "bs",
-    "xmltv_id": "TVCaribrod.rs",
-    "logo": "https://i.imgur.com/lOC1urQ.png"
+    "xmltv_id": "TVBujanovac.rs",
+    "logo": "https://i.imgur.com/rK6DO4u.png"
   },
   {
-    "site_id": "tvdr_hd",
-    "name": "TVDR",
+    "site_id": "bn_music",
+    "name": "BN Music",
+    "lang": "bs",
+    "xmltv_id": "BNMusic.ba@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/bn-music-rs.png"
+  },
+  {
+    "site_id": "panon_tv",
+    "name": "Panon TV",
     "lang": "bs"
   },
   {
-    "site_id": "cocktail_lounge",
-    "name": "Cocktail Lounge",
+    "site_id": "rtl_gold",
+    "name": "RTL Gold",
+    "lang": "bs",
+    "xmltv_id": "RTLGold.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/rtl-gold-hu.png"
+  },
+  {
+    "site_id": "tv_sandzak",
+    "name": "TV Sandžak",
     "lang": "bs"
   },
   {
-    "site_id": "arena_sport_4_hd",
-    "name": "Arena Sport 4",
+    "site_id": "tv_trstenik",
+    "name": "TV Trstenik",
     "lang": "bs",
-    "xmltv_id": "ArenaSport4.rs",
-    "logo": "https://i.imgur.com/h1XhGkz.png"
+    "xmltv_id": "TVTrstenik.rs",
+    "logo": "https://i.imgur.com/JyiHngm.png"
+  },
+  {
+    "site_id": "rock'n'roll",
+    "name": "Rock'n'Roll",
+    "lang": "bs"
+  },
+  {
+    "site_id": "TV_Brus",
+    "name": "TV Brus",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_va_plus",
+    "name": "TV VA PLUS",
+    "lang": "bs",
+    "xmltv_id": "TVVAPlus.rs",
+    "logo": "https://i.imgur.com/yMEvel5.png"
   },
   {
     "site_id": "rtp",
@@ -2419,30 +528,553 @@
     "logo": "https://i.imgur.com/v8QovqI.png"
   },
   {
-    "site_id": "tv_4s",
-    "name": "TV 4S",
+    "site_id": "jimjam",
+    "name": "JimJam",
     "lang": "bs",
-    "xmltv_id": "TV4S.rs",
-    "logo": "https://i.imgur.com/CzYIlfJ.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/jimjam-int.png"
+  },
+  {
+    "site_id": "Newsmax_Balkans",
+    "name": "Newsmax Balkans",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_pink",
+    "name": "TV Pink",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_plus",
+    "name": "TV Plus",
+    "lang": "bs",
+    "xmltv_id": "TVPlus.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/tv-plus-rs.png"
+  },
+  {
+    "site_id": "filmbox_extra",
+    "name": "Filmbox Extra",
+    "lang": "bs",
+    "xmltv_id": "FilmBoxExtra.nl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/filmbox-extra-hr.png"
+  },
+  {
+    "site_id": "hbo",
+    "name": "HBO",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/hbo-ar.png"
+  },
+  {
+    "site_id": "k1_hd",
+    "name": "K1",
+    "lang": "bs",
+    "xmltv_id": "K1.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/k1-rs.png"
+  },
+  {
+    "site_id": "arena_sport_6_hd",
+    "name": "Arena Sport 6",
+    "lang": "bs",
+    "xmltv_id": "ArenaSport6.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-6-rs.png"
+  },
+  {
+    "site_id": "cinemax_2",
+    "name": "Cinemax 2",
+    "lang": "bs",
+    "xmltv_id": "Cinemax2CentralEurope.hu@HD"
+  },
+  {
+    "site_id": "cctv_4",
+    "name": "CCTV 4",
+    "lang": "bs"
+  },
+  {
+    "site_id": "Pink_BH",
+    "name": "Pink BH",
+    "lang": "bs",
+    "xmltv_id": "PinkBH.ba@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-bh-rs.png"
+  },
+  {
+    "site_id": "rtv_fortuna",
+    "name": "RTV Fortuna",
+    "lang": "bs",
+    "xmltv_id": "FortunaTV.rs",
+    "logo": "https://i.imgur.com/gwBELFt.png"
+  },
+  {
+    "site_id": "super_tv2",
+    "name": "Super TV2",
+    "lang": "bs",
+    "xmltv_id": "SuperTV2.hu@SD",
+    "logo": "https://i.imgur.com/JCu1u2v.png"
+  },
+  {
+    "site_id": "Ultra%20Puls%20",
+    "name": "Ultra Puls TV",
+    "lang": "bs",
+    "xmltv_id": "UltrapulsTV.rs",
+    "logo": "https://i.imgur.com/luNTiUd.png"
+  },
+  {
+    "site_id": "adult_1",
+    "name": "Adult 1",
+    "lang": "bs"
+  },
+  {
+    "site_id": "nicktoons",
+    "name": "Nicktoons",
+    "lang": "bs",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
+  },
+  {
+    "site_id": "60s",
+    "name": "’60s",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_lotel_plus",
+    "name": "TV Lotel plus",
+    "lang": "bs",
+    "xmltv_id": "TVLotelPlus.rs",
+    "logo": "https://i.imgur.com/Kbhkiqa.png"
+  },
+  {
+    "site_id": "crime_and_investigation",
+    "name": "Crime and Investigation",
+    "lang": "bs",
+    "xmltv_id": "CrimePlusInvestigationCEE.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/crime-and-investigation-uk.png"
+  },
+  {
+    "site_id": "decja_muzika",
+    "name": "Greatest Hits",
+    "lang": "bs"
+  },
+  {
+    "site_id": "pink_serije",
+    "name": "Pink Serije",
+    "lang": "bs",
+    "xmltv_id": "PinkSerije.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-serije-rs.png"
+  },
+  {
+    "site_id": "tv_kanal_25",
+    "name": "TV Kanal 25",
+    "lang": "bs",
+    "xmltv_id": "TVKanal25.rs",
+    "logo": "https://i.imgur.com/rCzSWRx.png"
+  },
+  {
+    "site_id": "tv_kikinda",
+    "name": "TV Kikinda",
+    "lang": "bs",
+    "xmltv_id": "TVKikinda.rs",
+    "logo": "https://i.imgur.com/dgOY9Xy.png"
+  },
+  {
+    "site_id": "pink_family",
+    "name": "Pink Family",
+    "lang": "bs",
+    "xmltv_id": "PinkFamily.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-family-rs.png"
+  },
+  {
+    "site_id": "tv_mag",
+    "name": "TV MAG",
+    "lang": "bs",
+    "xmltv_id": "TVMag.rs",
+    "logo": "https://i.imgur.com/685pXjt.png"
+  },
+  {
+    "site_id": "pink_world_cinema",
+    "name": "Pink World Cinema",
+    "lang": "bs",
+    "xmltv_id": "PinkWorldCinema.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-world-cinema-rs.png"
+  },
+  {
+    "site_id": "private_tv",
+    "name": "Private TV",
+    "lang": "bs",
+    "xmltv_id": "PrivateTV.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/private-tv-bg.png"
+  },
+  {
+    "site_id": "rts_kolo",
+    "name": "RTS Kolo",
+    "lang": "bs",
+    "xmltv_id": "RTSKolo.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rts-kolo-rs.png"
+  },
+  {
+    "site_id": "tv_bor",
+    "name": "TV Bor",
+    "lang": "bs",
+    "xmltv_id": "TVBor.rs",
+    "logo": "https://i.imgur.com/nABhO9a.png"
+  },
+  {
+    "site_id": "chansons",
+    "name": "Chansons",
+    "lang": "bs"
+  },
+  {
+    "site_id": "euronews",
+    "name": "Euronews",
+    "lang": "bs",
+    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg"
+  },
+  {
+    "site_id": "rts_poletarac",
+    "name": "RTS Poletarac",
+    "lang": "bs",
+    "xmltv_id": "RTSPoletarac.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rts-poletarac-rs.png"
+  },
+  {
+    "site_id": "tv_s",
+    "name": "TV S",
+    "lang": "bs",
+    "xmltv_id": "TVS.pl@SD"
+  },
+  {
+    "site_id": "bloomberg",
+    "name": "Bloomberg",
+    "lang": "bs"
+  },
+  {
+    "site_id": "hbo_2",
+    "name": "HBO 2",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/hbo-2-ar.png"
+  },
+  {
+    "site_id": "pink_music_2",
+    "name": "Pink Music 2",
+    "lang": "bs",
+    "xmltv_id": "PinkMusic2.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-music-2-rs.png"
+  },
+  {
+    "site_id": "eurosport_2",
+    "name": "Eurosport 2",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
+  },
+  {
+    "site_id": "pink_plus",
+    "name": "Pink Plus",
+    "lang": "bs",
+    "xmltv_id": "PinkPlus.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-plus-rs.png"
+  },
+  {
+    "site_id": "rts_zivot",
+    "name": "RTS Život",
+    "lang": "bs",
+    "xmltv_id": "RTSZivot.rs",
+    "logo": "https://i.imgur.com/NpFG9uy.png"
+  },
+  {
+    "site_id": "zvuci_skadarlije",
+    "name": "The Spa",
+    "lang": "bs",
+    "xmltv_id": "StingrayTheSpa.ca@SD"
+  },
+  {
+    "site_id": "diva",
+    "name": "Diva",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/diva-hr.png"
+  },
+  {
+    "site_id": "dunav_tv_hd",
+    "name": "Dunav TV",
+    "lang": "bs",
+    "xmltv_id": "DunavTV.rs",
+    "logo": "https://i.imgur.com/nMOqNvR.png"
+  },
+  {
+    "site_id": "fox_life",
+    "name": "Star Life",
+    "lang": "bs",
+    "xmltv_id": "FoxLife.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/star-life-rs.png"
+  },
+  {
+    "site_id": "tv_most",
+    "name": "TV Most",
+    "lang": "bs",
+    "xmltv_id": "TVMost.rs",
+    "logo": "https://i.imgur.com/OJwKgL7.png"
+  },
+  {
+    "site_id": "carnival",
+    "name": "Stingray Specials",
+    "lang": "bs"
+  },
+  {
+    "site_id": "discovery_channel",
+    "name": "Discovery Channel",
+    "lang": "bs",
+    "xmltv_id": "DiscoveryChannel.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/discovery-channel-ar.png"
+  },
+  {
+    "site_id": "red_tv",
+    "name": "Red TV",
+    "lang": "bs",
+    "xmltv_id": "RedTV.rs",
+    "logo": "https://i.imgur.com/cpN7NrL.png"
+  },
+  {
+    "site_id": "sremska_tv",
+    "name": "Sremska TV",
+    "lang": "bs",
+    "xmltv_id": "SremskaTV.rs",
+    "logo": "https://i.imgur.com/XRiji0r.png"
+  },
+  {
+    "site_id": "tv_leskovac",
+    "name": "TV Leskovac",
+    "lang": "bs",
+    "xmltv_id": "TVLeskovac.rs",
+    "logo": "https://i.imgur.com/NFj27eT.png"
+  },
+  {
+    "site_id": "arena_sport_8_hd",
+    "name": "Arena Sport 8",
+    "lang": "bs",
+    "xmltv_id": "ArenaSport8.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-8-rs.png"
+  },
+  {
+    "site_id": "pink_classic",
+    "name": "Pink Classic",
+    "lang": "bs",
+    "xmltv_id": "PinkClassic.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-classic-rs.png"
+  },
+  {
+    "site_id": "total_hits_balkan",
+    "name": "Total Hits Balkans",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_kcn_raska",
+    "name": "TV K::CN Raška",
+    "lang": "bs",
+    "xmltv_id": "TVKCNRaska.rs",
+    "logo": "https://i.imgur.com/dUhhBxo.png"
+  },
+  {
+    "site_id": "90s",
+    "name": "’90s",
+    "lang": "bs"
+  },
+  {
+    "site_id": "history_2",
+    "name": "History 2",
+    "lang": "bs",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
+  },
+  {
+    "site_id": "moj_happy_zivot",
+    "name": "Moj Happy Život",
+    "lang": "bs",
+    "xmltv_id": "MojHappyzivot.rs",
+    "logo": "https://i.imgur.com/gS5JizB.png"
+  },
+  {
+    "site_id": "pink_romance",
+    "name": "Pink Romance",
+    "lang": "bs",
+    "xmltv_id": "PinkRomance.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-romance-rs.png"
+  },
+  {
+    "site_id": "rtv_sumadija",
+    "name": "RTV Šumadija",
+    "lang": "bs",
+    "xmltv_id": "RTVSumadija.rs",
+    "logo": "https://i.imgur.com/Avr3zjV.png"
+  },
+  {
+    "site_id": "freedom",
+    "name": "Freedom",
+    "lang": "bs",
+    "xmltv_id": "FREEDOM.ua@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/freedom-ua.png"
+  },
+  {
+    "site_id": "hrt_2",
+    "name": "HRT 2",
+    "lang": "bs",
+    "xmltv_id": "HRT2.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-2-hr.png"
+  },
+  {
+    "site_id": "food_network_hd",
+    "name": "Food Network",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/food-network-ar.png"
+  },
+  {
+    "site_id": "kuvo_tv",
+    "name": "Kuvo TV",
+    "lang": "bs",
+    "xmltv_id": "KuvoTV.ba",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/kuvo-tv-rs.png"
+  },
+  {
+    "site_id": "pink_world",
+    "name": "Pink World",
+    "lang": "bs",
+    "xmltv_id": "PinkWorld.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-world-rs.png"
+  },
+  {
+    "site_id": "radio_karolina",
+    "name": "Radio Karolina",
+    "lang": "bs"
   },
   {
     "site_id": "bravo_music",
     "name": "Bravo Music",
     "lang": "bs",
     "xmltv_id": "BravoMusic.rs",
-    "logo": "https://i.imgur.com/3IqWNeg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/bravo-music-rs.png"
   },
   {
-    "site_id": "pink_kids",
-    "name": "Pink Kids",
+    "site_id": "euro_cinema_4",
+    "name": "Euro Cinema 4",
     "lang": "bs",
-    "xmltv_id": "PinkKids.rs",
-    "logo": "https://i.imgur.com/KhBs0V6.png"
+    "xmltv_id": "EuroCinema4.rs",
+    "logo": "https://i.imgur.com/AUKO5eJ.png"
   },
   {
-    "site_id": "supersat_tv",
-    "name": "SuperSat TV",
+    "site_id": "sorozat%2B",
+    "name": "Sorozat+",
+    "lang": "bs",
+    "xmltv_id": "SorozatPlus.hu@SD",
+    "logo": "https://i.imgur.com/KsxWZIw.png"
+  },
+  {
+    "site_id": "tv_backa",
+    "name": "TV Bačka",
+    "lang": "bs",
+    "xmltv_id": "TVBacka.rs",
+    "logo": "https://i.imgur.com/WEfwcx6.png"
+  },
+  {
+    "site_id": "dorcel",
+    "name": "Dorcel",
     "lang": "bs"
+  },
+  {
+    "site_id": "hype_hd",
+    "name": "Hype",
+    "lang": "bs"
+  },
+  {
+    "site_id": "pink_thriller",
+    "name": "Pink Thriller",
+    "lang": "bs",
+    "xmltv_id": "PinkThriller.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-thriller-rs.png"
+  },
+  {
+    "site_id": "tv_fruska_gora",
+    "name": "TV Fruška Gora",
+    "lang": "bs",
+    "xmltv_id": "TVFruskaGora.rs",
+    "logo": "https://i.imgur.com/GfCLHiV.png"
+  },
+  {
+    "site_id": "tv_melos",
+    "name": "TV Melos",
+    "lang": "bs",
+    "xmltv_id": "TVMelos.rs",
+    "logo": "https://i.imgur.com/PV2jLnZ.png"
+  },
+  {
+    "site_id": "bass%2C_breaks_%26_beats",
+    "name": "Bass, Breaks and Beats",
+    "lang": "bs"
+  },
+  {
+    "site_id": "cartoon_network",
+    "name": "Cartoon Network",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/cartoon-network-ar.png"
+  },
+  {
+    "site_id": "erotic_2",
+    "name": "Erotic 2",
+    "lang": "bs",
+    "xmltv_id": "Erotic2.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/erotic-2-rs.png"
+  },
+  {
+    "site_id": "FEM3",
+    "name": "TV2 Klub",
+    "lang": "bs",
+    "xmltv_id": "FEM3.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-klub-hu.png"
+  },
+  {
+    "site_id": "pink_zabava",
+    "name": "Pink Zabava",
+    "lang": "bs",
+    "xmltv_id": "PinkZabava.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-zabava-rs.png"
+  },
+  {
+    "site_id": "rtv_101",
+    "name": "RTV 101",
+    "lang": "bs"
+  },
+  {
+    "site_id": "the_spa",
+    "name": "New Age",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_becej",
+    "name": "TV Bečej",
+    "lang": "bs",
+    "xmltv_id": "TVBecej.rs",
+    "logo": "https://i.imgur.com/fuJyhq1.png"
+  },
+  {
+    "site_id": "fashion_tv",
+    "name": "Fashion TV",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/fashion-tv-int.png"
+  },
+  {
+    "site_id": "jammin",
+    "name": "Riddim",
+    "lang": "bs"
+  },
+  {
+    "site_id": "koreni",
+    "name": "Koreni",
+    "lang": "bs",
+    "xmltv_id": "Koreni.rs",
+    "logo": "https://i.imgur.com/kXUQrp2.png"
+  },
+  {
+    "site_id": "rewind_80s_%26_90s",
+    "name": "Rewind ’80s \u0026 ’90s",
+    "lang": "bs"
+  },
+  {
+    "site_id": "rock_alternative_-us",
+    "name": "Alternative",
+    "lang": "bs",
+    "xmltv_id": "StingrayAlternative.ca@SD"
   },
   {
     "site_id": "tv_prima",
@@ -2452,66 +1084,901 @@
     "logo": "https://i.imgur.com/KTGdJEy.png"
   },
   {
-    "site_id": "prva_files",
-    "name": "Prva Files",
+    "site_id": "Cartoonito",
+    "name": "Cartoonito",
     "lang": "bs",
-    "xmltv_id": "PrvaFiles.rs",
-    "logo": "https://i.imgur.com/8lZgAXu.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/cartoonito-br.png"
   },
   {
-    "site_id": "rock'n'roll",
-    "name": "Rock'n'Roll",
+    "site_id": "skymusic_entertainment_se",
+    "name": "Skymusic entertainment /SE",
     "lang": "bs"
   },
   {
-    "site_id": "rts_1_hd",
-    "name": "RTS 1",
+    "site_id": "agro_tv_duplicate",
+    "name": "Agro TV",
     "lang": "bs",
-    "xmltv_id": "RTS1.rs",
-    "logo": "https://i.imgur.com/S1pKHSR.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/agro-tv-bg.png"
   },
   {
-    "site_id": "arena_sport_9_hd",
-    "name": "Arena Sport 9",
+    "site_id": "cgtn",
+    "name": "CGTN",
     "lang": "bs",
-    "xmltv_id": "ArenaSport9.rs",
-    "logo": "https://i.imgur.com/riMTqTu.png"
+    "xmltv_id": "CGTN.cn@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cgtn-int.png"
   },
   {
-    "site_id": "classical_calm",
-    "name": "Classical Calm",
+    "site_id": "euro_cinema_3",
+    "name": "Euro Cinema 3",
+    "lang": "bs",
+    "xmltv_id": "EuroCinema3.rs",
+    "logo": "https://i.imgur.com/dbeBek7.png"
+  },
+  {
+    "site_id": "pink_reality",
+    "name": "Pink Reality",
+    "lang": "bs",
+    "xmltv_id": "PinkReality.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-reality-rs.png"
+  },
+  {
+    "site_id": "rts_drama",
+    "name": "RTS Drama",
+    "lang": "bs",
+    "xmltv_id": "RTSDrama.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rts-drama-rs.png"
+  },
+  {
+    "site_id": "tv_novi_becej",
+    "name": "TV Novi Bečej",
+    "lang": "bs",
+    "xmltv_id": "TVNoviBecej.rs",
+    "logo": "https://i.imgur.com/Sqj1fLS.png"
+  },
+  {
+    "site_id": "arena_sport_1x2_hd",
+    "name": "Arena Sport 1x2",
+    "lang": "bs",
+    "xmltv_id": "ArenaSport1x2.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-1x2-rs.png"
+  },
+  {
+    "site_id": "erotic_5",
+    "name": "Erotic 5",
+    "lang": "bs",
+    "xmltv_id": "Erotic5.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/erotic-5-rs.png"
+  },
+  {
+    "site_id": "pink_hits_2",
+    "name": "Pink Hits 2",
+    "lang": "bs",
+    "xmltv_id": "PinkHits2.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-hits-2-rs.png"
+  },
+  {
+    "site_id": "da_vinci_learning",
+    "name": "Da Vinci Learning",
+    "lang": "bs",
+    "logo": "https://i.imgur.com/V8AUJP6.png"
+  },
+  {
+    "site_id": "fashion_box",
+    "name": "Fashion box",
     "lang": "bs"
   },
   {
-    "site_id": "rts_muzika",
-    "name": "RTS Muzika",
-    "lang": "bs",
-    "xmltv_id": "RTSMuzika.rs",
-    "logo": "https://i.imgur.com/n8p11NI.png"
-  },
-  {
-    "site_id": "sorozat%2B",
-    "name": "Sorozat+",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/KsxWZIw.png"
-  },
-  {
-    "site_id": "chansons",
-    "name": "Chansons",
+    "site_id": "all_day_party",
+    "name": "All Day Party",
     "lang": "bs"
   },
   {
-    "site_id": "face_tv",
-    "name": "Face TV",
+    "site_id": "minimax",
+    "name": "Minimax",
     "lang": "bs",
-    "logo": "https://i.imgur.com/47YyFhl.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/minimax-cz.png"
+  },
+  {
+    "site_id": "rts_2_hd",
+    "name": "RTS 2",
+    "lang": "bs",
+    "logo": "https://i.imgur.com/jltAf5h.png"
+  },
+  {
+    "site_id": "top_tv_hd",
+    "name": "TOP TV",
+    "lang": "bs",
+    "xmltv_id": "TopTV.rs",
+    "logo": "https://i.imgur.com/UJqbKEC.png"
+  },
+  {
+    "site_id": "film_%2B",
+    "name": "Film +",
+    "lang": "bs",
+    "logo": "https://i.imgur.com/OBYuY3S.png"
+  },
+  {
+    "site_id": "happy_reality_2",
+    "name": "Happy Reality 2",
+    "lang": "bs",
+    "xmltv_id": "HappyReality2.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/happy-reality-2-rs.png"
+  },
+  {
+    "site_id": "nasa_tv",
+    "name": "Naša TV",
+    "lang": "bs"
+  },
+  {
+    "site_id": "pink_crime_%26_mystery",
+    "name": "Pink Crime \u0026 Mystery",
+    "lang": "bs",
+    "xmltv_id": "PinkCrimeMystery.rs@SD",
+    "logo": "https://i.imgur.com/zqUqfMs.png"
+  },
+  {
+    "site_id": "prva_cg",
+    "name": "Prva CG",
+    "lang": "bs",
+    "logo": "https://i.imgur.com/NCztxMY.png"
+  },
+  {
+    "site_id": "tv_fokus",
+    "name": "TV Fokus",
+    "lang": "bs"
+  },
+  {
+    "site_id": "blic_tv",
+    "name": "Blic TV",
+    "lang": "bs",
+    "xmltv_id": "BlicTV.rs",
+    "logo": "https://i.imgur.com/XM5Qz1i.png"
+  },
+  {
+    "site_id": "tv_mars",
+    "name": "TV Marš",
+    "lang": "bs",
+    "xmltv_id": "TVMarsh.rs",
+    "logo": "https://i.imgur.com/Dt1mPyX.png"
+  },
+  {
+    "site_id": "arena_sport_7_hd",
+    "name": "Arena Sport 7",
+    "lang": "bs",
+    "xmltv_id": "ArenaSport7.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-7-rs.png"
+  },
+  {
+    "site_id": "tv_partizan",
+    "name": "TV Partizan",
+    "lang": "bs",
+    "xmltv_id": "TVPartizan.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/tv-partizan-rs.png"
+  },
+  {
+    "site_id": "ka_tv",
+    "name": "KA TV",
+    "lang": "bs",
+    "xmltv_id": "KATV.rs",
+    "logo": "https://i.imgur.com/QgVqwtr.png"
+  },
+  {
+    "site_id": "nickelodeon",
+    "name": "Nickelodeon",
+    "lang": "bs",
+    "xmltv_id": "Nickelodeon.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/nickelodeon-rs.png"
+  },
+  {
+    "site_id": "pink_horror",
+    "name": "Pink Horror",
+    "lang": "bs",
+    "xmltv_id": "PinkHorror.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-horror-rs.png"
+  },
+  {
+    "site_id": "info_24_plus",
+    "name": "INFO 24 Plus",
+    "lang": "bs"
+  },
+  {
+    "site_id": "rts_klasika",
+    "name": "RTS Klasika",
+    "lang": "bs",
+    "xmltv_id": "RTSKlasika.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rts-klasika-rs.png"
+  },
+  {
+    "site_id": "studio_b",
+    "name": "Studio B",
+    "lang": "bs",
+    "xmltv_id": "StudioB.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/studio-b-rs.png"
+  },
+  {
+    "site_id": "tv_gem",
+    "name": "TV GEM",
+    "lang": "bs"
+  },
+  {
+    "site_id": "premier_legue_tv_hd",
+    "name": "Premier League TV",
+    "lang": "bs",
+    "xmltv_id": "ChampionsTVEPL.id@SD"
+  },
+  {
+    "site_id": "rtl",
+    "name": "RTL",
+    "lang": "bs",
+    "xmltv_id": "RTL.de@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/rtl-de.png"
+  },
+  {
+    "site_id": "RTR_Planeta",
+    "name": "RTR Planeta",
+    "lang": "bs"
+  },
+  {
+    "site_id": "Eko%20vizija",
+    "name": "Eko vizija",
+    "lang": "bs",
+    "xmltv_id": "Ekovizija.rs",
+    "logo": "https://i.imgur.com/oEkWlfx.png"
+  },
+  {
+    "site_id": "erox",
+    "name": "Erox",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/erox-bg.png"
+  },
+  {
+    "site_id": "tv_kladovo",
+    "name": "TV Kladovo",
+    "lang": "bs",
+    "xmltv_id": "TVKladovo.rs",
+    "logo": "https://i.imgur.com/F9vpk7O.png"
+  },
+  {
+    "site_id": "tv_Kula",
+    "name": "TV Kula",
+    "lang": "bs"
+  },
+  {
+    "site_id": "hayat_plus",
+    "name": "Hayat 2",
+    "lang": "bs",
+    "xmltv_id": "HayatPlus.ba@SD"
+  },
+  {
+    "site_id": "baby_tv",
+    "name": "Baby TV",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/baby-tv-ar.png"
+  },
+  {
+    "site_id": "trance",
+    "name": "Trance",
+    "lang": "bs"
+  },
+  {
+    "site_id": "ntv",
+    "name": "NTV",
+    "lang": "bs",
+    "xmltv_id": "NTV.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/ntv-rs.png"
+  },
+  {
+    "site_id": "rtrs",
+    "name": "RTRS",
+    "lang": "bs",
+    "xmltv_id": "RTRSTV.ba@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtrs-rs.png"
+  },
+  {
+    "site_id": "sci_fi",
+    "name": "Sci Fi",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/sci-fi-pl.png"
+  },
+  {
+    "site_id": "studio_b_duplicate",
+    "name": "Studio B",
+    "lang": "bs",
+    "xmltv_id": "StudioB.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/studio-b-rs.png"
+  },
+  {
+    "site_id": "telemark",
+    "name": "Telemark",
+    "lang": "bs",
+    "xmltv_id": "TMSTelevizijaTelemark.rs",
+    "logo": "https://i.imgur.com/4SnboGr.png"
+  },
+  {
+    "site_id": "tv_kcn_music_2",
+    "name": "TV K::CN Music 2",
+    "lang": "bs",
+    "xmltv_id": "TVKCN2.rs",
+    "logo": "https://i.imgur.com/iOJhLJU.png"
+  },
+  {
+    "site_id": "tv_sokobanja",
+    "name": "TV Sokobanja",
+    "lang": "bs",
+    "xmltv_id": "TVSokobanja.rs",
+    "logo": "https://i.imgur.com/2Ax8qji.png"
+  },
+  {
+    "site_id": "zdravlje_tv",
+    "name": "Zelena TV Zdravlje",
+    "lang": "bs",
+    "xmltv_id": "ZelenaTVzdravlje.rs",
+    "logo": "https://i.imgur.com/QKpZdFK.png"
+  },
+  {
+    "site_id": "hifi_music",
+    "name": "HiFi Music",
+    "lang": "bs"
+  },
+  {
+    "site_id": "BBC_News",
+    "name": "BBC News",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "euro_cinema_2",
+    "name": "Euro Cinema 2",
+    "lang": "bs",
+    "xmltv_id": "EuroCinema2.rs",
+    "logo": "https://i.imgur.com/P9Tqkg1.png"
+  },
+  {
+    "site_id": "france_24",
+    "name": "France 24",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "happy_reality_1",
+    "name": "Happy Reality 1",
+    "lang": "bs",
+    "xmltv_id": "HappyReality1.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/happy-reality-1-rs.png"
+  },
+  {
+    "site_id": "happy_tv_hd",
+    "name": "Happy TV",
+    "lang": "bs",
+    "xmltv_id": "Happy.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/happy-tv-rs.png"
+  },
+  {
+    "site_id": "arena_premium_3_hd",
+    "name": "Arena PREMIUM 3",
+    "lang": "bs",
+    "xmltv_id": "ArenaSport3Premium.rs@SD"
+  },
+  {
+    "site_id": "arena_sport_1_hd",
+    "name": "Arena Sport 1",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/arena-sport-1-hr.png"
+  },
+  {
+    "site_id": "b92",
+    "name": "B92",
+    "lang": "bs",
+    "xmltv_id": "B92.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/b92-rs.png"
+  },
+  {
+    "site_id": "cnn",
+    "name": "CNN",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnn-us.png"
+  },
+  {
+    "site_id": "filmbox_premium",
+    "name": "Filmbox Premium",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/filmbox-premium-hr.png"
+  },
+  {
+    "site_id": "filmbox_stars",
+    "name": "Filmbox Stars",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/filmbox-stars-hr.png"
+  },
+  {
+    "site_id": "SAGA",
+    "name": "SAGA",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_galaksija_32",
+    "name": "TV Galaksija 32",
+    "lang": "bs",
+    "xmltv_id": "TVGalaksija32.rs",
+    "logo": "https://i.imgur.com/G32vzSJ.png"
+  },
+  {
+    "site_id": "tv_city",
+    "name": "TV City",
+    "lang": "bs",
+    "xmltv_id": "TVCity.rs",
+    "logo": "https://i.imgur.com/aXuk9Ua.png"
+  },
+  {
+    "site_id": "tv_hram_hd",
+    "name": "TV Hram",
+    "lang": "bs",
+    "xmltv_id": "TVHram.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/tv-hram-rs.png"
+  },
+  {
+    "site_id": "fast_%26_fun_hd",
+    "name": "Fast \u0026 Fun",
+    "lang": "bs"
+  },
+  {
+    "site_id": "gypsy_party",
+    "name": "Balkan Music/Gypsy",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_apatin",
+    "name": "TV Apatin",
+    "lang": "bs",
+    "xmltv_id": "TVApatin.rs",
+    "logo": "https://i.imgur.com/dy4gqS2.png"
+  },
+  {
+    "site_id": "Zadruga%20live_3",
+    "name": "Elita live 3",
+    "lang": "bs",
+    "xmltv_id": "Elitalive3.rs",
+    "logo": "https://i.imgur.com/BPjc3Rz.png"
+  },
+  {
+    "site_id": "novosadska_tv",
+    "name": "Novosadska TV",
+    "lang": "bs",
+    "xmltv_id": "NovosadskaTV.rs@SD",
+    "logo": "https://i.imgur.com/s0SCAeV.png"
+  },
+  {
+    "site_id": "sat_tv",
+    "name": "SAT TV",
+    "lang": "bs",
+    "xmltv_id": "SATTV.rs",
+    "logo": "https://i.imgur.com/GaAJiyX.png"
+  },
+  {
+    "site_id": "tv_palma_plus",
+    "name": "TV Palma plus",
+    "lang": "bs",
+    "xmltv_id": "TVPalmaplus.rs",
+    "logo": "https://i.imgur.com/WG4TD6F.png"
+  },
+  {
+    "site_id": "arena_esport__hd",
+    "name": "Arena Esport",
+    "lang": "bs",
+    "xmltv_id": "ArenaEsport.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-esport-rs.png"
+  },
+  {
+    "site_id": "pink_fashion",
+    "name": "Pink Fashion",
+    "lang": "bs",
+    "xmltv_id": "PinkFashion.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-fashion-rs.png"
+  },
+  {
+    "site_id": "tv_zlatar",
+    "name": "TV Zlatar",
+    "lang": "bs",
+    "xmltv_id": "TVZlatar.rs",
+    "logo": "https://i.imgur.com/v4DyZGf.png"
+  },
+  {
+    "site_id": "rtl_croatia_world",
+    "name": "RTL Croatia World",
+    "lang": "bs",
+    "xmltv_id": "RTLCroatiaWorld.hr",
+    "logo": "https://i.imgur.com/rzB6Z6u.png"
+  },
+  {
+    "site_id": "tv_lav",
+    "name": "TV Lav",
+    "lang": "bs",
+    "xmltv_id": "TVLav.rs",
+    "logo": "https://i.imgur.com/z3dbwtM.png"
+  },
+  {
+    "site_id": "80s",
+    "name": "’80s",
+    "lang": "bs"
+  },
+  {
+    "site_id": "axn",
+    "name": "AXN",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/axn-ar.png"
+  },
+  {
+    "site_id": "moje_happy_drustvo",
+    "name": "Moje Happy Društvo",
+    "lang": "bs",
+    "xmltv_id": "MojeHappydrustvo.rs",
+    "logo": "https://i.imgur.com/Oiik4UC.png"
+  },
+  {
+    "site_id": "pink_folk",
+    "name": "Pink Folk",
+    "lang": "bs",
+    "xmltv_id": "PinkFolk.rs@SD"
+  },
+  {
+    "site_id": "pink_radio",
+    "name": "Pink radio",
+    "lang": "bs"
+  },
+  {
+    "site_id": "prva_kick",
+    "name": "Prva Kick",
+    "lang": "bs",
+    "xmltv_id": "PrvaKick.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/prva-kick-rs.png"
+  },
+  {
+    "site_id": "tv_delta",
+    "name": "TV Delta",
+    "lang": "bs",
+    "xmltv_id": "TVDelta.rs",
+    "logo": "https://i.imgur.com/kRtOIMf.png"
+  },
+  {
+    "site_id": "Zadruga%20live_2",
+    "name": "Elita live 2",
+    "lang": "bs",
+    "xmltv_id": "Elitalive2.rs",
+    "logo": "https://i.imgur.com/3gbBwEE.png"
+  },
+  {
+    "site_id": "arena_sport_2_hd",
+    "name": "Arena Sport 2",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/arena-sport-2-hr.png"
+  },
+  {
+    "site_id": "kuvo_tv_hd",
+    "name": "Kuvo TV",
+    "lang": "bs",
+    "xmltv_id": "KuvoTV.ba",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/kuvo-tv-rs.png"
+  },
+  {
+    "site_id": "Nais_TV%20",
+    "name": "Nais TV",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_petrovec",
+    "name": "TV Petrovec",
+    "lang": "bs",
+    "xmltv_id": "TVPetrovec.rs",
+    "logo": "https://i.imgur.com/NVt7Te5.png"
+  },
+  {
+    "site_id": "una_tv",
+    "name": "UNA TV",
+    "lang": "bs",
+    "xmltv_id": "UNATV.rs",
+    "logo": "https://i.imgur.com/rSQ6Wff.png"
+  },
+  {
+    "site_id": "agro_tv",
+    "name": "Agro TV",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/agro-tv-bg.png"
+  },
+  {
+    "site_id": "filmbox_arthouse",
+    "name": "Filmbox Arthouse",
+    "lang": "bs",
+    "xmltv_id": "FilmBoxArthouse.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/filmbox-arthouse-hr.png"
+  },
+  {
+    "site_id": "arena_sport_5_hd",
+    "name": "Arena Sport 5",
+    "lang": "bs",
+    "xmltv_id": "ArenaSport5.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-5-rs.png"
+  },
+  {
+    "site_id": "balkan_trip",
+    "name": "Balkan Trip",
+    "lang": "bs",
+    "xmltv_id": "BalkanTripTV.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/balkan-trip-rs.png"
+  },
+  {
+    "site_id": "classical_greats",
+    "name": "Classical Greats",
+    "lang": "bs"
+  },
+  {
+    "site_id": "dankos_plus_tv",
+    "name": "Dankos Plus TV",
+    "lang": "bs"
+  },
+  {
+    "site_id": "k1_duplicate",
+    "name": "K1",
+    "lang": "bs",
+    "xmltv_id": "K1.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/k1-rs.png"
+  },
+  {
+    "site_id": "m5_tv",
+    "name": "M5",
+    "lang": "bs",
+    "xmltv_id": "M5.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m5-hu.png"
+  },
+  {
+    "site_id": "moj_astrolog_tv",
+    "name": "Moj Astrolog",
+    "lang": "bs",
+    "xmltv_id": "Mojastrolog.rs",
+    "logo": "https://i.imgur.com/8gNft2s.png"
+  },
+  {
+    "site_id": "mtv_live_hd",
+    "name": "MTV Live HD",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/mtv-live-hd-nl.png"
+  },
+  {
+    "site_id": "Superstar_3",
+    "name": "SUPERSTAR 3",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_front",
+    "name": "TV Front",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/tv-front-rs.png"
+  },
+  {
+    "site_id": "nba_tv",
+    "name": "NBA TV",
+    "lang": "bs",
+    "xmltv_id": "NBATV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nba-tv-us.png"
+  },
+  {
+    "site_id": "tv2",
+    "name": "TV2",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-hu.png"
+  },
+  {
+    "site_id": "tv_pirot",
+    "name": "TV Pirot",
+    "lang": "bs",
+    "xmltv_id": "TVPirot.rs",
+    "logo": "https://i.imgur.com/o5y1ok6.png"
+  },
+  {
+    "site_id": "adult_3",
+    "name": "Adult 3",
+    "lang": "bs"
+  },
+  {
+    "site_id": "pink_western",
+    "name": "Pink Western",
+    "lang": "bs",
+    "xmltv_id": "PinkWestern.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-western-rs.png"
+  },
+  {
+    "site_id": "erotic_7",
+    "name": "Erotic 7",
+    "lang": "bs",
+    "xmltv_id": "Erotic7.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/erotic-7-rs.png"
+  },
+  {
+    "site_id": "hayatovci",
+    "name": "Hayatovci",
+    "lang": "bs",
+    "xmltv_id": "Hayatovci.ba@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/hayatovci-rs.png"
+  },
+  {
+    "site_id": "turizam_%2B_tv",
+    "name": "Turizam + TV",
+    "lang": "bs",
+    "xmltv_id": "TurizamTV.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/turizam-tv-rs.png"
+  },
+  {
+    "site_id": "70s",
+    "name": "Soho ’70s",
+    "lang": "bs"
+  },
+  {
+    "site_id": "omg",
+    "name": "OMG",
+    "lang": "bs"
+  },
+  {
+    "site_id": "pink_comedy",
+    "name": "Pink Comedy",
+    "lang": "bs",
+    "xmltv_id": "PinkComedy.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-comedy-rs.png"
+  },
+  {
+    "site_id": "pink_folk_2",
+    "name": "Pink Folk 2",
+    "lang": "bs",
+    "xmltv_id": "PinkFolk2.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-folk-2-rs.png"
+  },
+  {
+    "site_id": "pink_super_kids",
+    "name": "Pink Super Kids",
+    "lang": "bs",
+    "xmltv_id": "PinkSuperKids.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-super-kids-rs.png"
+  },
+  {
+    "site_id": "tv_pancevo",
+    "name": "TV Pančevo",
+    "lang": "bs",
+    "xmltv_id": "TVPancevo.rs",
+    "logo": "https://i.imgur.com/WWiuqVz.png"
+  },
+  {
+    "site_id": "bang_u",
+    "name": "Bang U",
+    "lang": "bs",
+    "xmltv_id": "BangU.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/bang-u-rs.png"
+  },
+  {
+    "site_id": "dm_sat",
+    "name": "DM SAT",
+    "lang": "bs",
+    "xmltv_id": "DMSat.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/dm-sat-rs.png"
   },
   {
     "site_id": "pink_premium_hd",
     "name": "Pink Premium",
     "lang": "bs",
-    "xmltv_id": "PinkPremium.rs",
-    "logo": "https://i.imgur.com/DNxGa9q.png"
+    "xmltv_id": "PinkPremium.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-premium-rs.png"
+  },
+  {
+    "site_id": "tv_4s",
+    "name": "TV 4S",
+    "lang": "bs",
+    "xmltv_id": "TV4S.rs",
+    "logo": "https://i.imgur.com/CzYIlfJ.png"
+  },
+  {
+    "site_id": "tv_hit_plus_batocina",
+    "name": "TV HIT plus Batočina",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_pan%C4%8Devo",
+    "name": "TV Pančevo",
+    "lang": "bs",
+    "xmltv_id": "TVPancevo.rs",
+    "logo": "https://i.imgur.com/WWiuqVz.png"
+  },
+  {
+    "site_id": "duna_world",
+    "name": "DUNA World",
+    "lang": "bs",
+    "xmltv_id": "DunaWorld.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/duna-world-hu.png"
+  },
+  {
+    "site_id": "jazz_classics",
+    "name": "Jazz Classics",
+    "lang": "bs"
+  },
+  {
+    "site_id": "rossia_24",
+    "name": "Rossia 24",
+    "lang": "bs"
+  },
+  {
+    "site_id": "adult_4",
+    "name": "Adult 4",
+    "lang": "bs"
+  },
+  {
+    "site_id": "arena_premium_1_hd",
+    "name": "Arena PREMIUM 1",
+    "lang": "bs",
+    "xmltv_id": "ArenaSport1Premium.rs@SD"
+  },
+  {
+    "site_id": "blues",
+    "name": "Deep Blues",
+    "lang": "bs"
+  },
+  {
+    "site_id": "btv",
+    "name": "BTV",
+    "lang": "bs",
+    "xmltv_id": "BTV.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/btv-rs.png"
+  },
+  {
+    "site_id": "face_tv",
+    "name": "Face TV",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/face-tv-nz.png"
+  },
+  {
+    "site_id": "rts_1_hd",
+    "name": "RTS 1",
+    "lang": "bs",
+    "logo": "https://i.imgur.com/S1pKHSR.png"
+  },
+  {
+    "site_id": "tv_istok",
+    "name": "TV Istok",
+    "lang": "bs",
+    "xmltv_id": "TVIstok.rs",
+    "logo": "https://i.imgur.com/QcGbJ7j.png"
+  },
+  {
+    "site_id": "cool_jazz",
+    "name": "Cool Jazz",
+    "lang": "bs"
+  },
+  {
+    "site_id": "fight_network",
+    "name": "Fight Network",
+    "lang": "bs",
+    "xmltv_id": "FightNetwork.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/fight-network-ca.png"
+  },
+  {
+    "site_id": "film_4",
+    "name": "Film 4",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/film-4-uk.png"
+  },
+  {
+    "site_id": "hifi_etno",
+    "name": "HiFi Etno",
+    "lang": "bs"
+  },
+  {
+    "site_id": "hrt_1",
+    "name": "HRT 1",
+    "lang": "bs",
+    "xmltv_id": "HRT1.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-1-hr.png"
+  },
+  {
+    "site_id": "rtv_novi_pazar",
+    "name": "RTV Novi Pazar",
+    "lang": "bs",
+    "xmltv_id": "RTVNoviPazar.rs",
+    "logo": "https://i.imgur.com/NpyRVyC.png"
   },
   {
     "site_id": "tv_mreza_most_hd",
@@ -2521,51 +1988,302 @@
     "logo": "https://i.imgur.com/1JgeF8g.png"
   },
   {
-    "site_id": "insajder",
-    "name": "Insajder",
+    "site_id": "dox_tv",
+    "name": "Dox TV",
+    "lang": "bs",
+    "xmltv_id": "DoxTV.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/dox-tv-rs.png"
+  },
+  {
+    "site_id": "silk_(love_songs)",
+    "name": "Silk (Love Songs)",
+    "lang": "bs",
+    "xmltv_id": "SilkUniversal.ge@SD"
+  },
+  {
+    "site_id": "travel_channel",
+    "name": "Travel Channel",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/travel-channel-int.png"
+  },
+  {
+    "site_id": "tv_vranje",
+    "name": "TV Vranje",
+    "lang": "bs",
+    "xmltv_id": "TVVranje.rs",
+    "logo": "https://i.imgur.com/vYtL7rh.png"
+  },
+  {
+    "site_id": "pester_tv",
+    "name": "Pešter TV",
+    "lang": "bs",
+    "xmltv_id": "PesterTV.rs",
+    "logo": "https://i.imgur.com/tDTyKgs.png"
+  },
+  {
+    "site_id": "pink_music",
+    "name": "Pink Music",
+    "lang": "bs",
+    "xmltv_id": "PinkMusic.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-music-rs.png"
+  },
+  {
+    "site_id": "t1",
+    "name": "T1",
+    "lang": "bs",
+    "xmltv_id": "T1.rs",
+    "logo": "https://i.imgur.com/nMTgqXp.png"
+  },
+  {
+    "site_id": "tv_kcn_istok",
+    "name": "TV K::CN Istok",
+    "lang": "bs",
+    "xmltv_id": "TVKCNIstok.rs",
+    "logo": "https://i.imgur.com/yEywfmg.png"
+  },
+  {
+    "site_id": "babes",
+    "name": "Babes",
     "lang": "bs"
+  },
+  {
+    "site_id": "dox_tv_hd",
+    "name": "Dox TV",
+    "lang": "bs",
+    "xmltv_id": "DoxTV.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/dox-tv-rs.png"
+  },
+  {
+    "site_id": "tvdr_duplicate",
+    "name": "TVDR",
+    "lang": "bs"
+  },
+  {
+    "site_id": "zvezda_tv",
+    "name": "Zvezda TV",
+    "lang": "bs",
+    "xmltv_id": "ZvezdaTV.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/zvezda-tv-rs.png"
+  },
+  {
+    "site_id": "prva_files",
+    "name": "Prva Files",
+    "lang": "bs",
+    "xmltv_id": "PrvaFiles.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/prva-files-rs.png"
+  },
+  {
+    "site_id": "RTI",
+    "name": "RTI",
+    "lang": "bs",
+    "xmltv_id": "RTVIliria.xk@SD",
+    "logo": "https://i.imgur.com/D81PepJ.png"
+  },
+  {
+    "site_id": "superstar_tv",
+    "name": "SUPERSTAR",
+    "lang": "bs",
+    "xmltv_id": "SuperStar.us@Italy"
+  },
+  {
+    "site_id": "TV%20Jefimija",
+    "name": "TV Jefimija",
+    "lang": "bs",
+    "xmltv_id": "TVJefimija.rs",
+    "logo": "https://i.imgur.com/0psj3fj.png"
+  },
+  {
+    "site_id": "tv_diskos",
+    "name": "TV Diskos",
+    "lang": "bs",
+    "xmltv_id": "TVDiskos.rs",
+    "logo": "https://i.imgur.com/STgCB8i.png"
+  },
+  {
+    "site_id": "tv_ras",
+    "name": "TV Ras",
+    "lang": "bs",
+    "xmltv_id": "TVRas.rs",
+    "logo": "https://i.imgur.com/VYorSN5.png"
+  },
+  {
+    "site_id": "tv_strela",
+    "name": "TV Strela",
+    "lang": "bs"
+  },
+  {
+    "site_id": "gametoon",
+    "name": "Gametoon",
+    "lang": "bs",
+    "xmltv_id": "Gametoon.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png"
+  },
+  {
+    "site_id": "hrt_4",
+    "name": "HRT 4",
+    "lang": "bs",
+    "xmltv_id": "HRT4.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-4-hr.png"
+  },
+  {
+    "site_id": "eko_vizija",
+    "name": "Eko vizija",
+    "lang": "bs",
+    "xmltv_id": "Ekovizija.rs",
+    "logo": "https://i.imgur.com/oEkWlfx.png"
+  },
+  {
+    "site_id": "adult_6",
+    "name": "Adult 6",
+    "lang": "bs"
+  },
+  {
+    "site_id": "cinemax",
+    "name": "Cinemax",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/cinemax-ar.png"
+  },
+  {
+    "site_id": "groove_(_disco_%26_funk)",
+    "name": "Groove ( Disco \u0026 Funk)",
+    "lang": "bs"
+  },
+  {
+    "site_id": "hbo_3",
+    "name": "HBO 3",
+    "lang": "bs",
+    "logo": "https://i.imgur.com/3QIHh2V.png"
+  },
+  {
+    "site_id": "pink_kids",
+    "name": "Pink Kids",
+    "lang": "bs",
+    "xmltv_id": "PinkKids.rs@SD",
+    "logo": "https://i.imgur.com/KhBs0V6.png"
   },
   {
     "site_id": "pink_montenegro",
     "name": "Pink M",
     "lang": "bs",
-    "logo": "https://i.imgur.com/VOISNZc.png"
+    "xmltv_id": "PinkM.me@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-m-rs.png"
   },
   {
-    "site_id": "rtv_stara_pazova",
-    "name": "RTV Stara Pazova",
+    "site_id": "erotic_6",
+    "name": "Erotic 6",
+    "lang": "bs",
+    "xmltv_id": "Erotic6.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/erotic-6-rs.png"
+  },
+  {
+    "site_id": "hayat_music",
+    "name": "Hayat Music Box",
+    "lang": "bs",
+    "xmltv_id": "HayatMusic.ba@SD"
+  },
+  {
+    "site_id": "prva_life",
+    "name": "Prva Life",
+    "lang": "bs",
+    "xmltv_id": "PrvaLife.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/prva-life-rs.png"
+  },
+  {
+    "site_id": "pink_film",
+    "name": "Pink Film",
+    "lang": "bs",
+    "xmltv_id": "PinkFilm.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-film-rs.png"
+  },
+  {
+    "site_id": "prva_tv_hd",
+    "name": "Prva",
+    "lang": "bs",
+    "xmltv_id": "Prva.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/prva-rs.png"
+  },
+  {
+    "site_id": "bn2",
+    "name": "BN 2",
+    "lang": "bs",
+    "xmltv_id": "BN2.ba@SD",
+    "logo": "https://i.imgur.com/qm8Mvq7.png"
+  },
+  {
+    "site_id": "eurosport_1",
+    "name": "Eurosport 1",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
+  },
+  {
+    "site_id": "Hit%20FM%20radio",
+    "name": "Hit FM radio",
     "lang": "bs"
   },
   {
-    "site_id": "novosadska_tv",
-    "name": "Novosadska TV",
+    "site_id": "humana_tv_plus",
+    "name": "Humana TV Plus",
     "lang": "bs",
-    "xmltv_id": "NovosadskaTV.rs",
-    "logo": "https://i.imgur.com/s0SCAeV.png"
+    "xmltv_id": "HumanaTVPlus.rs",
+    "logo": "https://i.imgur.com/KrSOkqe.png"
   },
   {
-    "site_id": "pink_reality",
-    "name": "Pink Reality",
+    "site_id": "k3",
+    "name": "K3",
     "lang": "bs",
-    "xmltv_id": "PinkReality.rs",
-    "logo": "https://i.imgur.com/BxEwwqX.png"
+    "logo": "https://i.imgur.com/nIIZ14i.png"
   },
   {
-    "site_id": "gradska_m",
-    "name": "Gradska M televizija",
-    "lang": "bs",
-    "xmltv_id": "GradskaMtelevizija.rs",
-    "logo": "https://i.imgur.com/AV8MNLe.png"
-  },
-  {
-    "site_id": "pink_folk",
-    "name": "Pink Folk",
+    "site_id": "RT_Balkan",
+    "name": "RT Balkan",
     "lang": "bs"
   },
   {
-    "site_id": "Superstar_3",
-    "name": "SUPERSTAR 3",
-    "lang": "bs"
+    "site_id": "tv_duga_plus",
+    "name": "TV Duga plus",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/tv-duga-plus-rs.png"
+  },
+  {
+    "site_id": "fox",
+    "name": "Star",
+    "lang": "bs",
+    "xmltv_id": "Fox.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/star-int.png"
+  },
+  {
+    "site_id": "hrt_int_tv",
+    "name": "HRT INT",
+    "lang": "bs",
+    "xmltv_id": "HRTInternational.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-int-hr.png"
+  },
+  {
+    "site_id": "kurir_hd",
+    "name": "Kurir TV",
+    "lang": "bs",
+    "xmltv_id": "KurirTV.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/kurir-tv-rs.png"
+  },
+  {
+    "site_id": "mtv_80s",
+    "name": "MTV 80s",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/mtv-80s-rs.png"
+  },
+  {
+    "site_id": "toxic_tv",
+    "name": "Toxic TV",
+    "lang": "bs",
+    "xmltv_id": "ToxicTV.rs",
+    "logo": "https://i.imgur.com/w6WuWnS.png"
+  },
+  {
+    "site_id": "toxic_folk",
+    "name": "Toxic Folk",
+    "lang": "bs",
+    "xmltv_id": "ToxicFolk.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/toxic-folk-rs.png"
   },
   {
     "site_id": "adult_5",
@@ -2573,80 +2291,600 @@
     "lang": "bs"
   },
   {
-    "site_id": "fox_life",
-    "name": "Star Life",
+    "site_id": "euronews_serbia",
+    "name": "Euronews Serbia",
     "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png"
+    "xmltv_id": "EuronewsSerbia.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/euronews-serbia-rs.png"
   },
   {
-    "site_id": "nickelodeon",
-    "name": "Nickelodeon",
+    "site_id": "tv_cink",
+    "name": "TV CINK",
     "lang": "bs",
-    "xmltv_id": "Nickelodeon.rs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png"
+    "xmltv_id": "TVCink.rs",
+    "logo": "https://i.imgur.com/UdZprYS.png"
   },
   {
-    "site_id": "arena_sport_5_hd",
-    "name": "Arena Sport 5",
+    "site_id": "tv_k23",
+    "name": "TV K23",
     "lang": "bs",
-    "xmltv_id": "ArenaSport5.rs",
-    "logo": "https://i.imgur.com/036qMgu.png"
+    "xmltv_id": "TVK23.rs",
+    "logo": "https://i.imgur.com/LnAdduG.png"
   },
   {
-    "site_id": "carnival",
-    "name": "Stingray Specials",
+    "site_id": "adria_tv",
+    "name": "ADRIA TV",
+    "lang": "bs",
+    "xmltv_id": "AdriaTV.me",
+    "logo": "https://i.imgur.com/LPuElVg.png"
+  },
+  {
+    "site_id": "moja_happy_muzika",
+    "name": "Moja Happy Muzika",
+    "lang": "bs",
+    "xmltv_id": "MojaHappymuzika.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/moja-happy-muzika-rs.png"
+  },
+  {
+    "site_id": "rts_3_hd",
+    "name": "RTS 3",
+    "lang": "bs",
+    "xmltv_id": "RTS3.rs@SD",
+    "logo": "https://i.imgur.com/gxuGB4J.png"
+  },
+  {
+    "site_id": "tanjug_tv",
+    "name": "Tanjug TV",
+    "lang": "bs",
+    "xmltv_id": "TanjugTV.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/tanjug-tv-rs.png"
+  },
+  {
+    "site_id": "tv_kanal_m",
+    "name": "TV Kanal M",
+    "lang": "bs",
+    "xmltv_id": "TVKanalM.rs",
+    "logo": "https://i.imgur.com/hqNVRUU.png"
+  },
+  {
+    "site_id": "hype",
+    "name": "Hype",
     "lang": "bs"
   },
   {
-    "site_id": "eurosport_2",
-    "name": "Eurosport 2",
+    "site_id": "tv_podrinje",
+    "name": "TV Podrinje",
     "lang": "bs",
-    "logo": "https://i.imgur.com/f56dHgR.png"
+    "xmltv_id": "TVPodrinje.rs",
+    "logo": "https://i.imgur.com/m41mohW.png"
   },
   {
-    "site_id": "skymusic_entertainment_se",
-    "name": "Skymusic entertainment /SE",
+    "site_id": "tv_priboj",
+    "name": "TV Priboj",
+    "lang": "bs",
+    "xmltv_id": "TVPriboj.rs",
+    "logo": "https://i.imgur.com/1OHgtrR.png"
+  },
+  {
+    "site_id": "dexy_tv_duplicate",
+    "name": "Dexy TV",
+    "lang": "bs",
+    "xmltv_id": "DexyTV.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/dexy-tv-rs.png"
+  },
+  {
+    "site_id": "erotic_8",
+    "name": "Erotic 8",
+    "lang": "bs",
+    "xmltv_id": "Erotic8.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/erotic-8-rs.png"
+  },
+  {
+    "site_id": "Moja%20TV",
+    "name": "Moja TV",
+    "lang": "bs",
+    "xmltv_id": "MojaTV.rs",
+    "logo": "https://i.imgur.com/Rsu2lcE.png"
+  },
+  {
+    "site_id": "mtv_europe",
+    "name": "MTV",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/mtv-ar.png"
+  },
+  {
+    "site_id": "tv_pi_kanal",
+    "name": "TV PI kanal",
+    "lang": "bs",
+    "xmltv_id": "TVPiKanal.rs",
+    "logo": "https://i.imgur.com/8ugnFa3.png"
+  },
+  {
+    "site_id": "animal_planet",
+    "name": "Animal Planet",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/animal-planet-ar.png"
+  },
+  {
+    "site_id": "_lfctv",
+    "name": "LFCTV",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/lfctv-uk.png"
+  },
+  {
+    "site_id": "classical_calm",
+    "name": "Classical Calm",
     "lang": "bs"
   },
   {
-    "site_id": "arena_premium_2_hd",
-    "name": "Arena PREMIUM 2",
+    "site_id": "klasik_tv_duplicate",
+    "name": "Klasik",
+    "lang": "bs",
+    "xmltv_id": "Klasik.hr@SD",
+    "logo": "https://i.imgur.com/C90BYlb.png"
+  },
+  {
+    "site_id": "mtv_90s",
+    "name": "MTV 90s",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/mtv-90s-nl.png"
+  },
+  {
+    "site_id": "reality_kings",
+    "name": "Reality Kings",
+    "lang": "bs",
+    "xmltv_id": "RealityKingsTV.us@SD"
+  },
+  {
+    "site_id": "SRT",
+    "name": "SRT",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_kcn_svet_plus_3",
+    "name": "TV K::CN Svet Plus 3",
+    "lang": "bs"
+  },
+  {
+    "site_id": "brazzers_tv",
+    "name": "Brazzers TV",
+    "lang": "bs",
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/brazzers-tv-us.png"
+  },
+  {
+    "site_id": "pink_koncert",
+    "name": "Pink Koncert",
+    "lang": "bs",
+    "xmltv_id": "PinkKoncert.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-koncert-rs.png"
+  },
+  {
+    "site_id": "rts_trezor",
+    "name": "RTS Trezor",
+    "lang": "bs",
+    "xmltv_id": "RTSTrezor.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rts-trezor-rs.png"
+  },
+  {
+    "site_id": "superstar_tv_hd",
+    "name": "SUPERSTAR",
+    "lang": "bs",
+    "xmltv_id": "SuperStar.us@Italy"
+  },
+  {
+    "site_id": "pink_pedia",
+    "name": "Pink Pedia",
+    "lang": "bs",
+    "xmltv_id": "PinkPedia.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-pedia-rs.png"
+  },
+  {
+    "site_id": "mtv_00s",
+    "name": "MTV 00s",
+    "lang": "bs",
+    "xmltv_id": "MTV00s.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/mtv-00s-uk.png"
+  },
+  {
+    "site_id": "rock_anthems",
+    "name": "Rock Anthems",
+    "lang": "bs"
+  },
+  {
+    "site_id": "rtv_1",
+    "name": "RTV 1",
+    "lang": "bs",
+    "xmltv_id": "RTV1.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rtv-1-rs.png"
+  },
+  {
+    "site_id": "tv_k-1",
+    "name": "TV K-1",
+    "lang": "bs",
+    "xmltv_id": "TVK1.rs",
+    "logo": "https://i.imgur.com/ulhhWEt.png"
+  },
+  {
+    "site_id": "disney_junior",
+    "name": "Disney Junior",
+    "lang": "bs",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
+  },
+  {
+    "site_id": "2000s",
+    "name": "2000s",
+    "lang": "bs"
+  },
+  {
+    "site_id": "id",
+    "name": "ID",
+    "lang": "bs",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
+    "site_id": "rtv_kragujevac",
+    "name": "RTV Kragujevac",
+    "lang": "bs"
+  },
+  {
+    "site_id": "chillout",
+    "name": "Chillout",
+    "lang": "bs"
+  },
+  {
+    "site_id": "pink_kuvar",
+    "name": "Pink Kuvar",
+    "lang": "bs",
+    "xmltv_id": "PinkKuvar.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-kuvar-rs.png"
+  },
+  {
+    "site_id": "rts_muzika",
+    "name": "RTS Muzika",
+    "lang": "bs",
+    "xmltv_id": "RTSMuzika.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rts-muzika-rs.png"
+  },
+  {
+    "site_id": "tv_hram",
+    "name": "TV Hram",
+    "lang": "bs",
+    "xmltv_id": "TVHram.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/tv-hram-rs.png"
+  },
+  {
+    "site_id": "bloomberg_adria",
+    "name": "Bloomberg Adria",
+    "lang": "bs",
+    "xmltv_id": "BloombergAdria.rs@SD",
+    "logo": "https://i.imgur.com/A5ui53C.png"
+  },
+  {
+    "site_id": "Newsmax%20Balkans_4K",
+    "name": "Newsmax Balkans 4K",
+    "lang": "bs"
+  },
+  {
+    "site_id": "nickelodeon_junior",
+    "name": "Nickelodeon Junior",
+    "lang": "bs",
+    "xmltv_id": "NickelodeonJunior.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/nickelodeon-junior-fr.png"
+  },
+  {
+    "site_id": "pink_extra",
+    "name": "Pink Extra",
+    "lang": "bs",
+    "xmltv_id": "PinkExtra.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-extra-rs.png"
+  },
+  {
+    "site_id": "Ras%20tv",
+    "name": "TV Ras",
+    "lang": "bs",
+    "xmltv_id": "TVRas.rs",
+    "logo": "https://i.imgur.com/VYorSN5.png"
+  },
+  {
+    "site_id": "tv_as",
+    "name": "TV AS",
+    "lang": "bs",
+    "xmltv_id": "TVAS.rs",
+    "logo": "https://i.imgur.com/LIUtEgD.png"
+  },
+  {
+    "site_id": "axn_spin",
+    "name": "AXN Spin",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/axn-spin-pl.png"
+  },
+  {
+    "site_id": "prva_world",
+    "name": "Prva World",
+    "lang": "bs",
+    "xmltv_id": "PrvaWorld.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/prva-world-rs.png"
+  },
+  {
+    "site_id": "tv_subotica",
+    "name": "TV Subotica",
+    "lang": "bs",
+    "xmltv_id": "TVSubotica.rs",
+    "logo": "https://i.imgur.com/NrKSGAy.png"
+  },
+  {
+    "site_id": "arena_fight_hd",
+    "name": "Arena Fight",
+    "lang": "bs",
+    "xmltv_id": "ArenaFight.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-fight-rs.png"
+  },
+  {
+    "site_id": "rt_documentary",
+    "name": "RT Documentary",
+    "lang": "bs",
+    "xmltv_id": "RTDocumentary.ru",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/rt-documentary-int.png"
+  },
+  {
+    "site_id": "vesti",
+    "name": "VESTI",
+    "lang": "bs",
+    "xmltv_id": "Vesti.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/vesti-rs.png"
+  },
+  {
+    "site_id": "balkan_retro_hits",
+    "name": "Balkan Retro Hits",
     "lang": "bs"
   },
   {
     "site_id": "fox_movies",
     "name": "Star Movies",
     "lang": "bs",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png"
+    "xmltv_id": "FoxMovies.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/star-movies-rs.png"
   },
   {
-    "site_id": "happy_reality_2",
-    "name": "Happy Reality 2",
+    "site_id": "obn",
+    "name": "OBN",
     "lang": "bs",
-    "xmltv_id": "HappyReality2.rs",
-    "logo": "https://i.imgur.com/5rdlHGt.png"
+    "xmltv_id": "OBN.ba@SD",
+    "logo": "https://i.imgur.com/bJVDMaE.png"
+  },
+  {
+    "site_id": "skay_tv",
+    "name": "SKAY TV",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_pozega",
+    "name": "TV Požega",
+    "lang": "bs",
+    "xmltv_id": "TVPozega.rs",
+    "logo": "https://i.imgur.com/SgDqykw.png"
+  },
+  {
+    "site_id": "cool",
+    "name": "COOL",
+    "lang": "bs",
+    "xmltv_id": "CoolTV.hu@SD"
+  },
+  {
+    "site_id": "rtv_stara_pazova",
+    "name": "RTV Stara Pazova",
+    "lang": "bs"
+  },
+  {
+    "site_id": "kcn_zapad",
+    "name": "K::CN Zapad",
+    "lang": "bs"
   },
   {
     "site_id": "arena_sport_10_hd",
     "name": "Arena Sport 10",
     "lang": "bs",
     "xmltv_id": "ArenaSport10.rs",
-    "logo": "https://i.imgur.com/oMiS7D3.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/arena-sport-10-hr.png"
   },
   {
-    "site_id": "filmbox_extra",
-    "name": "Filmbox Extra",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/ML7SlIW.png"
-  },
-  {
-    "site_id": "pink%26roll",
-    "name": "Pink\u0026Roll",
+    "site_id": "house_music",
+    "name": "House",
     "lang": "bs"
   },
   {
-    "site_id": "rock_anthems",
-    "name": "Rock Anthems",
+    "site_id": "LH_TV",
+    "name": "LH TV",
+    "lang": "bs",
+    "xmltv_id": "LHTV.me@SD",
+    "logo": "https://i.imgur.com/WDayrVT.jpg"
+  },
+  {
+    "site_id": "rts_nauka",
+    "name": "RTS Nauka",
+    "lang": "bs",
+    "xmltv_id": "RTSNauka.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rts-nauka-rs.png"
+  },
+  {
+    "site_id": "club_mtv",
+    "name": "Club MTV",
+    "lang": "bs",
+    "logo": "https://i.imgur.com/FD6eQI3.png"
+  },
+  {
+    "site_id": "koreni_hd",
+    "name": "Koreni",
+    "lang": "bs",
+    "xmltv_id": "Koreni.rs",
+    "logo": "https://i.imgur.com/kXUQrp2.png"
+  },
+  {
+    "site_id": "mtv_hits_international",
+    "name": "MTV Hits International",
+    "lang": "bs",
+    "xmltv_id": "MTVHitsEurope.uk@SD"
+  },
+  {
+    "site_id": "tv_jasenica",
+    "name": "TV Jasenica",
+    "lang": "bs",
+    "xmltv_id": "TVJasenica.rs",
+    "logo": "https://i.imgur.com/IcKnWay.png"
+  },
+  {
+    "site_id": "tv_kraljevo",
+    "name": "TV Kraljevo",
+    "lang": "bs",
+    "xmltv_id": "TVKraljevo.rs",
+    "logo": "https://i.imgur.com/2pw1COk.png"
+  },
+  {
+    "site_id": "tv_sunce",
+    "name": "TV Sunce",
+    "lang": "bs",
+    "xmltv_id": "TVSunce.rs",
+    "logo": "https://i.imgur.com/RXJ7BvK.png"
+  },
+  {
+    "site_id": "vranjska_plus",
+    "name": "Vranjska plus",
+    "lang": "bs",
+    "xmltv_id": "VranjskaPlus.rs",
+    "logo": "https://i.imgur.com/bRWL1Af.png"
+  },
+  {
+    "site_id": "hrt_3",
+    "name": "HRT 3",
+    "lang": "bs",
+    "xmltv_id": "HRT3.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-3-hr.png"
+  },
+  {
+    "site_id": "insajder",
+    "name": "Insajder",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_bap",
+    "name": "TV Bap",
+    "lang": "bs"
+  },
+  {
+    "site_id": "tv_lav_plus",
+    "name": "TV Lav Plus",
+    "lang": "bs",
+    "xmltv_id": "TVLavPlus.rs",
+    "logo": "https://i.imgur.com/Xuh7Amy.png"
+  },
+  {
+    "site_id": "classic_r'n'b_%26_soul",
+    "name": "Classic R'n'B \u0026 Soul",
+    "lang": "bs"
+  },
+  {
+    "site_id": "erotic_3",
+    "name": "Erotic 3",
+    "lang": "bs",
+    "xmltv_id": "Erotic3.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/erotic-3-rs.png"
+  },
+  {
+    "site_id": "arena_premium_2_hd",
+    "name": "Arena PREMIUM 2",
+    "lang": "bs",
+    "xmltv_id": "ArenaSport2Premium.rs@SD"
+  },
+  {
+    "site_id": "arena_sport_3_hd",
+    "name": "Arena Sport 3",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/arena-sport-3-hr.png"
+  },
+  {
+    "site_id": "kazbuka",
+    "name": "Kazbuka",
+    "lang": "bs",
+    "xmltv_id": "Kazbuka.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/kazbuka-rs.png"
+  },
+  {
+    "site_id": "tv_krusevac",
+    "name": "TV Kruševac",
+    "lang": "bs",
+    "xmltv_id": "TVKrusevac.rs",
+    "logo": "https://i.imgur.com/qxb7RWA.png"
+  },
+  {
+    "site_id": "erotic_4",
+    "name": "Erotic 4",
+    "lang": "bs",
+    "xmltv_id": "Erotic4.rs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/erotic-4-rs.png"
+  },
+  {
+    "site_id": "bn",
+    "name": "BN",
+    "lang": "bs"
+  },
+  {
+    "site_id": "Fashion%20TV%204K",
+    "name": "Fashion TV 4K",
+    "lang": "bs"
+  },
+  {
+    "site_id": "rtl_kockica",
+    "name": "RTL KOCKICA",
+    "lang": "bs",
+    "xmltv_id": "RTLKockica.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/rtl-kockica-hr.png"
+  },
+  {
+    "site_id": "cocktail_lounge",
+    "name": "Cocktail Lounge",
+    "lang": "bs"
+  },
+  {
+    "site_id": "disney_channel",
+    "name": "Disney Channel",
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/disney-channel-ar.png"
+  },
+  {
+    "site_id": "timeless_dizi_channel",
+    "name": "Timeless Dizi Channel",
+    "lang": "bs",
+    "xmltv_id": "TimelessDiziChannel.rs",
+    "logo": "https://i.imgur.com/s3Sqd4L.png"
+  },
+  {
+    "site_id": "tv_ritam",
+    "name": "TV Ritam",
+    "lang": "bs",
+    "xmltv_id": "TVRitam.rs",
+    "logo": "https://i.imgur.com/VXVTy8p.png"
+  },
+  {
+    "site_id": "drive",
+    "name": "Drive",
+    "lang": "bs",
+    "xmltv_id": "Drive.ru",
+    "logo": "https://i.imgur.com/FnuwfSC.png"
+  },
+  {
+    "site_id": "tv_mostnet",
+    "name": "TV Mostnet",
+    "lang": "bs"
+  },
+  {
+    "site_id": "hustler",
+    "name": "Hustler",
+    "lang": "bs"
+  },
+  {
+    "site_id": "iris_tv_promo",
+    "name": "Iris TV promo",
     "lang": "bs"
   },
   {
@@ -2657,180 +2895,10 @@
     "logo": "https://i.imgur.com/BsgGrYt.png"
   },
   {
-    "site_id": "tv_bor",
-    "name": "TV Bor",
+    "site_id": "duna_tv",
+    "name": "DUNA TV",
     "lang": "bs",
-    "xmltv_id": "TVBor.rs",
-    "logo": "https://i.imgur.com/nABhO9a.png"
-  },
-  {
-    "site_id": "tv_partizan",
-    "name": "TV Partizan",
-    "lang": "bs",
-    "xmltv_id": "TVPartizan.rs",
-    "logo": "https://i.imgur.com/1UrDOFo.png"
-  },
-  {
-    "site_id": "tv_kcn_raska",
-    "name": "TV K::CN Raška",
-    "lang": "bs",
-    "xmltv_id": "TVKCNRaska.rs",
-    "logo": "https://i.imgur.com/dUhhBxo.png"
-  },
-  {
-    "site_id": "tv_strela",
-    "name": "TV Strela",
-    "lang": "bs"
-  },
-  {
-    "site_id": "tv_melos",
-    "name": "TV Melos",
-    "lang": "bs",
-    "xmltv_id": "TVMelos.rs",
-    "logo": "https://i.imgur.com/PV2jLnZ.png"
-  },
-  {
-    "site_id": "arena_esport__hd",
-    "name": "Arena Esport",
-    "lang": "bs",
-    "xmltv_id": "ArenaEsport.rs",
-    "logo": "https://i.imgur.com/9HEmhyQ.png"
-  },
-  {
-    "site_id": "rtv_2",
-    "name": "RTV 2",
-    "lang": "bs",
-    "xmltv_id": "RTV2.rs",
-    "logo": "https://i.imgur.com/skpr66t.png"
-  },
-  {
-    "site_id": "b92",
-    "name": "B92",
-    "lang": "bs",
-    "xmltv_id": "B92.rs",
-    "logo": "https://i.imgur.com/rZ9nnT9.png"
-  },
-  {
-    "site_id": "bn2",
-    "name": "BN 2",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/qm8Mvq7.png"
-  },
-  {
-    "site_id": "extreme_sports",
-    "name": "Extreme Sports",
-    "lang": "bs"
-  },
-  {
-    "site_id": "fight_network",
-    "name": "Fight Network",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/vlKPZHR.png"
-  },
-  {
-    "site_id": "k1_duplicate",
-    "name": "K1",
-    "lang": "bs",
-    "xmltv_id": "K1.rs",
-    "logo": "https://i.imgur.com/U3wXj5k.png"
-  },
-  {
-    "site_id": "pink_style",
-    "name": "Pink Style",
-    "lang": "bs",
-    "xmltv_id": "PinkStyle.rs",
-    "logo": "https://i.imgur.com/0PyQKqZ.png"
-  },
-  {
-    "site_id": "tv_sokobanja",
-    "name": "TV Sokobanja",
-    "lang": "bs",
-    "xmltv_id": "TVSokobanja.rs",
-    "logo": "https://i.imgur.com/2Ax8qji.png"
-  },
-  {
-    "site_id": "60s",
-    "name": "’60s",
-    "lang": "bs"
-  },
-  {
-    "site_id": "erotic_5",
-    "name": "Erotic 5",
-    "lang": "bs",
-    "xmltv_id": "Erotic5.rs",
-    "logo": "https://i.imgur.com/Za5MxWX.png"
-  },
-  {
-    "site_id": "pink_hits_1",
-    "name": "Pink Hits 1",
-    "lang": "bs"
-  },
-  {
-    "site_id": "t1",
-    "name": "T1",
-    "lang": "bs",
-    "xmltv_id": "T1.rs",
-    "logo": "https://i.imgur.com/nMTgqXp.png"
-  },
-  {
-    "site_id": "disney_channel",
-    "name": "Disney Channel",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "site_id": "ha_ha",
-    "name": "HA HA",
-    "lang": "bs",
-    "xmltv_id": "HAHA.rs",
-    "logo": "https://i.imgur.com/RIvDiED.png"
-  },
-  {
-    "site_id": "hrt_int_tv",
-    "name": "HRT INT",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/useLwHV.png"
-  },
-  {
-    "site_id": "pink_classic",
-    "name": "Pink Classic",
-    "lang": "bs",
-    "xmltv_id": "PinkClassic.rs",
-    "logo": "https://i.imgur.com/f704OTH.png"
-  },
-  {
-    "site_id": "total_hits_italy",
-    "name": "Total Hits Italy",
-    "lang": "bs"
-  },
-  {
-    "site_id": "gametoon",
-    "name": "Gametoon",
-    "lang": "bs",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png"
-  },
-  {
-    "site_id": "kcn_k",
-    "name": "K::CN K",
-    "lang": "bs"
-  },
-  {
-    "site_id": "pink_music_2",
-    "name": "Pink Music 2",
-    "lang": "bs",
-    "xmltv_id": "PinkMusic2.rs",
-    "logo": "https://i.imgur.com/Fm7k5Tl.png"
-  },
-  {
-    "site_id": "rt_documentary",
-    "name": "RT Documentary",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/aeu5zIC.png"
-  },
-  {
-    "site_id": "tv1000",
-    "name": "TV1000",
-    "lang": "bs",
-    "logo": "https://i.imgur.com/GHNsctR.png"
+    "xmltv_id": "Duna.hu@SD",
+    "logo": "https://i.imgur.com/oPbsSlp.png"
   }
 ]

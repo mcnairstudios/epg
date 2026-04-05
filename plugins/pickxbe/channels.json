@@ -1,439 +1,10 @@
 [
   {
-    "site_id": "UID0649",
-    "name": "DAZN 3 N",
-    "lang": "nl",
-    "xmltv_id": "DAZN3.uk@Netherlands",
-    "logo": "https://i.imgur.com/2rXsq2m.png"
-  },
-  {
-    "site_id": "UID0654",
-    "name": "Pickx+ Sports 4 F",
+    "site_id": "UID2055",
+    "name": "Action HD",
     "lang": "fr",
-    "xmltv_id": "PickxPlusSports4.be@FR",
-    "logo": "https://i.imgur.com/3FkKcZy.png"
-  },
-  {
-    "site_id": "UID0142",
-    "name": "STAR Channel HD",
-    "lang": "nl"
-  },
-  {
-    "site_id": "UID0606",
-    "name": "Pickx+ Sports 6 N",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports6.be@NL",
-    "logo": "https://i.imgur.com/OJZ4hyw.png"
-  },
-  {
-    "site_id": "UID2046",
-    "name": "Test 89",
-    "lang": "fr"
-  },
-  {
-    "site_id": "UID2180",
-    "name": "DAZN Pro League 1 N HD",
-    "lang": "nl",
-    "xmltv_id": "DAZNProLeague1.uk@NetherlandsHD",
-    "logo": "https://i.imgur.com/ZZw6nwl.png"
-  },
-  {
-    "site_id": "UID50069",
-    "name": "BBC News",
-    "lang": "en",
-    "xmltv_id": "BBCNews.uk@Europe",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "UID50090",
-    "name": "Eurosp2 F",
-    "lang": "fr",
-    "xmltv_id": "Eurosport2.fr@France",
-    "logo": "https://i.imgur.com/f56dHgR.png"
-  },
-  {
-    "site_id": "UID0025",
-    "name": "TIPIK vision",
-    "lang": "fr",
-    "xmltv_id": "TipikVision.be@SD",
-    "logo": "https://i.imgur.com/4ncmNHF.png"
-  },
-  {
-    "site_id": "UID0121",
-    "name": "MaTélé",
-    "lang": "fr",
-    "xmltv_id": "Matele.be@SD",
-    "logo": "https://i.imgur.com/rw72POr.png"
-  },
-  {
-    "site_id": "UID0147",
-    "name": "Play6 HD",
-    "lang": "nl",
-    "xmltv_id": "Play6.be@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Play6_2021.svg/960px-Play6_2021.svg.png"
-  },
-  {
-    "site_id": "UID50052",
-    "name": "Baby TV N",
-    "lang": "nl",
-    "xmltv_id": "BabyTV.uk@Netherlands",
-    "logo": "https://i.imgur.com/4BDJ5FT.png"
-  },
-  {
-    "site_id": "UID50157",
-    "name": "Melody.tv",
-    "lang": "fr",
-    "xmltv_id": "Melody.fr@SD",
-    "logo": "https://i.imgur.com/9GVyQ6x.png"
-  },
-  {
-    "site_id": "UID50213",
-    "name": "Pickx Sports Pop-up N",
-    "lang": "nl",
-    "xmltv_id": "PickxLive.be@NL",
-    "logo": "https://i.imgur.com/olYNKnm.png"
-  },
-  {
-    "site_id": "DTV29670499",
-    "name": "Maghreb TV",
-    "lang": "fr",
-    "xmltv_id": "MaghrebTV.be@SD",
-    "logo": "https://maghrebtelevision.com/wp-content/uploads/2019/10/logo-plat-MAGHREB-TV-02-.png"
-  },
-  {
-    "site_id": "UID0146",
-    "name": "Play6",
-    "lang": "nl",
-    "xmltv_id": "Play6.be@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Play6_2021.svg/960px-Play6_2021.svg.png"
-  },
-  {
-    "site_id": "UID0633",
-    "name": "Pickx+ Sports 4 N HD",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports4.be@NLHD",
-    "logo": "https://i.imgur.com/3FkKcZy.png"
-  },
-  {
-    "site_id": "UID0651",
-    "name": "Pickx+ Sports 1 F",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports2.be@FR",
-    "logo": "https://i.imgur.com/yRRICNh.png"
-  },
-  {
-    "site_id": "UID0813",
-    "name": "StuBru",
-    "lang": "nl",
-    "xmltv_id": "StuBru.be@SD",
-    "logo": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png"
-  },
-  {
-    "site_id": "UID2467",
-    "name": "Tiji HD",
-    "lang": "fr",
-    "xmltv_id": "TiJi.fr@HD",
-    "logo": "https://i.imgur.com/ZjsfAGb.png"
-  },
-  {
-    "site_id": "UID50021",
-    "name": "Cartoon F",
-    "lang": "fr",
-    "xmltv_id": "CartoonNetworkCEE.uk@France",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "UID0022",
-    "name": "NGC Wild F",
-    "lang": "fr",
-    "xmltv_id": "NationalGeographicWild.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
-  },
-  {
-    "site_id": "UID2331",
-    "name": "MaTélé HD",
-    "lang": "fr",
-    "xmltv_id": "Matele.be@HD",
-    "logo": "https://i.imgur.com/rw72POr.png"
-  },
-  {
-    "site_id": "UID2333",
-    "name": "Ring TV HD",
-    "lang": "nl",
-    "xmltv_id": "RingTV.be@HD",
-    "logo": "https://i.imgur.com/9GraHlr.png"
-  },
-  {
-    "site_id": "UID2471",
-    "name": "Melody.tv HD",
-    "lang": "fr",
-    "xmltv_id": "Melody.fr@HD",
-    "logo": "https://i.imgur.com/9GVyQ6x.png"
-  },
-  {
-    "site_id": "UID50047",
-    "name": "NPO 1",
-    "lang": "nl",
-    "xmltv_id": "NPO1.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/960px-NPO_1_logo_2014.svg.png"
-  },
-  {
-    "site_id": "UID50057",
-    "name": "Canal J",
-    "lang": "fr",
-    "xmltv_id": "CanalJ.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png"
-  },
-  {
-    "site_id": "UID50071",
-    "name": "BBC One",
-    "lang": "en",
-    "xmltv_id": "BBCOne.uk@London",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
-  },
-  {
-    "site_id": "UID50224",
-    "name": "Pickx+ Sports 9 N",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports9.be@NL",
-    "logo": "https://i.imgur.com/IEbFII7.png"
-  },
-  {
-    "site_id": "UID0308",
-    "name": "France 3 HD",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/France_3_Rh%C3%B4ne-Alpes_-_Logo_2018.svg"
-  },
-  {
-    "site_id": "UID0604",
-    "name": "Pickx+ Sports 4 N",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports4.be@NL",
-    "logo": "https://i.imgur.com/3FkKcZy.png"
-  },
-  {
-    "site_id": "UID0671",
-    "name": "Pickx+ Sports 8 F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports8.be@FRHD",
-    "logo": "https://i.imgur.com/GsrIF5W.png"
-  },
-  {
-    "site_id": "UID2044",
-    "name": "Test 80",
-    "lang": "fr"
-  },
-  {
-    "site_id": "UID2050",
-    "name": "Canal Z HD",
-    "lang": "fr",
-    "xmltv_id": "CanalZ.be@HD",
-    "logo": "https://i.imgur.com/qtiGLzZ.png"
-  },
-  {
-    "site_id": "UID2054",
-    "name": "13è Rue HD",
-    "lang": "fr",
-    "xmltv_id": "13emeRue.fr@HD",
-    "logo": "https://i.imgur.com/k0DCMTL.png"
-  },
-  {
-    "site_id": "UID2346",
-    "name": "Védia HD",
-    "lang": "fr",
-    "xmltv_id": "Vedia.be@HD",
-    "logo": "https://i.imgur.com/7LnH6yu.png"
-  },
-  {
-    "site_id": "UID2369",
-    "name": "Histoire HD",
-    "lang": "fr",
-    "xmltv_id": "HistoireTV.fr@HD",
-    "logo": "https://i.imgur.com/hxuJXll.png"
-  },
-  {
-    "site_id": "UID0310",
-    "name": "France 5 HD",
-    "lang": "fr",
-    "xmltv_id": "France5.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png"
-  },
-  {
-    "site_id": "UID0632",
-    "name": "Pickx+ Sports 3 N HD",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports3.be@NLHD",
-    "logo": "https://i.imgur.com/iqMXHDz.png"
-  },
-  {
-    "site_id": "UID2059",
-    "name": "Sport 10",
-    "lang": "nl",
-    "xmltv_id": "Sport10.be@SD",
-    "logo": "https://uploads-ssl.webflow.com/614c35e6eb33faf0c3c50d91/614c7bd82fc9a77a279bafb4_Logo%20Sport10%20vector-p-500.png"
-  },
-  {
-    "site_id": "UID2175",
-    "name": "VTM Life",
-    "lang": "nl",
-    "xmltv_id": "VTMLife.be@SD",
-    "logo": "https://i.imgur.com/32xlsUg.png"
-  },
-  {
-    "site_id": "UID2377",
-    "name": "LCI HD",
-    "lang": "fr",
-    "xmltv_id": "LCI.fr@HD",
-    "logo": "https://i.imgur.com/DED8EXs.png"
-  },
-  {
-    "site_id": "UID50037",
-    "name": "VRT 1",
-    "lang": "nl",
-    "xmltv_id": "VRT1.be@SD",
-    "logo": "https://i.imgur.com/wPAGbNb.png"
-  },
-  {
-    "site_id": "UID50097",
-    "name": "TCM cinéma",
-    "lang": "fr",
-    "xmltv_id": "TCMCinema.fr@SD",
-    "logo": "https://i.imgur.com/fT4XxM6.png"
-  },
-  {
-    "site_id": "UID50112",
-    "name": "Pickx Showcase N",
-    "lang": "nl",
-    "xmltv_id": "PickxLive.be@NL",
-    "logo": "https://i.imgur.com/olYNKnm.png"
-  },
-  {
-    "site_id": "UID0132",
-    "name": "BBC First",
-    "lang": "nl",
-    "xmltv_id": "BBCFirst.uk@Benelux",
-    "logo": "https://i.imgur.com/UBoBYUI.png"
-  },
-  {
-    "site_id": "UID0645",
-    "name": "DAZN 1 N HD",
-    "lang": "nl",
-    "xmltv_id": "DAZN1.uk@NetherlandsHD",
-    "logo": "https://i.imgur.com/2Z2EmZF.png"
-  },
-  {
-    "site_id": "UID2056",
-    "name": "CNN HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "UID2070",
-    "name": "nick jr F",
-    "lang": "fr",
-    "xmltv_id": "NickelodeonJunior.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png"
-  },
-  {
-    "site_id": "UID2219",
-    "name": "Pickx+ N HD",
-    "lang": "nl",
-    "xmltv_id": "PickxPlus.be@NLHD",
-    "logo": "https://i.imgur.com/fMVlyak.png"
-  },
-  {
-    "site_id": "UID50034",
-    "name": "Kanaal Z",
-    "lang": "nl",
-    "xmltv_id": "KanaalZ.be@SD",
-    "logo": "https://i.imgur.com/YzgYJxM.png"
-  },
-  {
-    "site_id": "UID50230",
-    "name": "Pickx+ Sports 8 N",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports8.be@NL",
-    "logo": "https://i.imgur.com/GsrIF5W.png"
-  },
-  {
-    "site_id": "UID50289",
-    "name": "Pickx+ Sports 7 F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports7.be@FRHD",
-    "logo": "https://i.imgur.com/HsbelA0.png"
-  },
-  {
-    "site_id": "UID0301",
-    "name": "Be Ciné",
-    "lang": "fr",
-    "xmltv_id": "BeCine.be@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Be_Cin%C3%A9_logo.png/960px-Be_Cin%C3%A9_logo.png"
-  },
-  {
-    "site_id": "UID2047",
-    "name": "VTM Life HD",
-    "lang": "nl",
-    "xmltv_id": "VTMLife.be@HD",
-    "logo": "https://i.imgur.com/32xlsUg.png"
-  },
-  {
-    "site_id": "UID2066",
-    "name": "Game One",
-    "lang": "fr",
-    "xmltv_id": "GameOne.fr@SD",
-    "logo": "https://i.imgur.com/UHkaObv.png"
-  },
-  {
-    "site_id": "UID2357",
-    "name": "Eurosp2 HD F",
-    "lang": "fr"
-  },
-  {
-    "site_id": "UID50044",
-    "name": "VTM 2",
-    "lang": "nl",
-    "xmltv_id": "VTM2.be@SD",
-    "logo": "https://i.imgur.com/kYBHMlw.png"
-  },
-  {
-    "site_id": "UID50064",
-    "name": "SyFy F",
-    "lang": "fr",
-    "xmltv_id": "Syfy.fr@SD",
-    "logo": "https://i.imgur.com/gUOXdjv.png"
-  },
-  {
-    "site_id": "UID50111",
-    "name": "AUTOMOTO",
-    "lang": "fr",
-    "xmltv_id": "Automotolachaine.fr@SD",
-    "logo": "https://i.imgur.com/ebf2uc7.png"
-  },
-  {
-    "site_id": "UID50114",
-    "name": "WTV",
-    "lang": "nl",
-    "xmltv_id": "WTV.be@SD",
-    "logo": "https://i.imgur.com/wvKe8mi.png"
-  },
-  {
-    "site_id": "UID0023",
-    "name": "NGC Wild N",
-    "lang": "nl",
-    "xmltv_id": "NationalGeographicWild.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
-  },
-  {
-    "site_id": "UID0679",
-    "name": "Pickx Sports Pop-up F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxLive.be@FRHD",
-    "logo": "https://i.imgur.com/olYNKnm.png"
-  },
-  {
-    "site_id": "UID2039",
-    "name": "Test 976",
-    "lang": "fr"
+    "xmltv_id": "Action.fr@HD",
+    "logo": "https://i.imgur.com/Zv9VsVq.png"
   },
   {
     "site_id": "UID2318",
@@ -443,115 +14,18 @@
     "logo": "https://i.imgur.com/fMVlyak.png"
   },
   {
-    "site_id": "UID2360",
-    "name": "Cartoonito HD",
-    "lang": "nl",
-    "xmltv_id": "Cartoonito.uk@HD",
-    "logo": "https://i.imgur.com/B29D2s1.png"
-  },
-  {
-    "site_id": "UID50168",
-    "name": "MTV 80s",
-    "lang": "en",
-    "xmltv_id": "MTV80s.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
-  },
-  {
-    "site_id": "UID0256",
-    "name": "NPO 1 HD",
-    "lang": "nl",
-    "xmltv_id": "NPO1.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/960px-NPO_1_logo_2014.svg.png"
-  },
-  {
-    "site_id": "UID0080",
-    "name": "Disney Jr. N",
-    "lang": "nl",
-    "xmltv_id": "DisneyJunior.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
-  },
-  {
-    "site_id": "UID0646",
-    "name": "DAZN 2 F HD",
+    "site_id": "UID50020",
+    "name": "RAI Tre",
     "lang": "fr",
-    "xmltv_id": "DAZN2.uk@FranceHD",
-    "logo": "https://i.imgur.com/OGj3qf5.png"
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png"
   },
   {
-    "site_id": "UID2332",
-    "name": "No Télé HD",
+    "site_id": "UID50259",
+    "name": "Pickx+ Sports 9 F",
     "lang": "fr",
-    "xmltv_id": "Notele.be@HD",
-    "logo": "https://i.imgur.com/fGS55nR.png"
-  },
-  {
-    "site_id": "UID2349",
-    "name": "Ment TV HD",
-    "lang": "nl",
-    "xmltv_id": "MentTV.be@HD",
-    "logo": "https://i.imgur.com/l93sduH.png"
-  },
-  {
-    "site_id": "UID2052",
-    "name": "TCM Cinéma HD",
-    "lang": "fr",
-    "xmltv_id": "TCMCinema.fr@HD",
-    "logo": "https://i.imgur.com/fT4XxM6.png"
-  },
-  {
-    "site_id": "UID2359",
-    "name": "Boom F HD",
-    "lang": "fr",
-    "xmltv_id": "Boomerang.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png"
-  },
-  {
-    "site_id": "UID0119",
-    "name": "TV Com",
-    "lang": "fr",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/tv-com-be.png"
-  },
-  {
-    "site_id": "UID2216",
-    "name": "Pickx+ Sports 1 F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports1.be@FRHD",
-    "logo": "https://i.imgur.com/6Kihf01.png"
-  },
-  {
-    "site_id": "UID2358",
-    "name": "Eurosp2 HD N",
-    "lang": "nl",
-    "xmltv_id": "Eurosport2.fr@NetherlandsHD",
-    "logo": "https://i.imgur.com/f56dHgR.png"
-  },
-  {
-    "site_id": "UID2371",
-    "name": "RAI Uno HD",
-    "lang": "fr",
-    "xmltv_id": "Rai1.it@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "UID2466",
-    "name": "Pink HD",
-    "lang": "en",
-    "xmltv_id": "PinkX.fr@HD",
-    "logo": "https://i.imgur.com/WsS4Kkm.png"
-  },
-  {
-    "site_id": "UID2489",
-    "name": "Euronews F HD",
-    "lang": "fr",
-    "xmltv_id": "EuronewsFrench.fr@HD",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/29d2a047-b486-4123-8642-45fe71d022fe/Logo_Euronews_stacked_white_on_french_1500x1000.png"
-  },
-  {
-    "site_id": "UID50211",
-    "name": "France 2 HD",
-    "lang": "fr",
-    "xmltv_id": "France2.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png"
+    "xmltv_id": "PickxPlusSports9.be@FR",
+    "logo": "https://i.imgur.com/IEbFII7.png"
   },
   {
     "site_id": "UID0145",
@@ -559,11 +33,194 @@
     "lang": "fr"
   },
   {
-    "site_id": "UID0211",
-    "name": "Eclips",
+    "site_id": "UID2120",
+    "name": "Play4 HD",
     "lang": "nl",
-    "xmltv_id": "EclipsTV.be@SD",
-    "logo": "https://i.imgur.com/iqQmBzE.png"
+    "xmltv_id": "Play4.be@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Play4_2021.svg/960px-Play4_2021.svg.png"
+  },
+  {
+    "site_id": "UID50011",
+    "name": "Baby TV F",
+    "lang": "fr",
+    "xmltv_id": "BabyTV.uk@France",
+    "logo": "https://i.imgur.com/4BDJ5FT.png"
+  },
+  {
+    "site_id": "UID50024",
+    "name": "Disn Ch F",
+    "lang": "fr",
+    "xmltv_id": "DisneyChannel.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+  },
+  {
+    "site_id": "UID50103",
+    "name": "Boomerang F",
+    "lang": "fr",
+    "xmltv_id": "Boomerang.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png"
+  },
+  {
+    "site_id": "UID50121",
+    "name": "ROB TV",
+    "lang": "nl",
+    "xmltv_id": "ROBTV.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/rob-tv-be.png"
+  },
+  {
+    "site_id": "UID50146",
+    "name": "Canal Zoom",
+    "lang": "fr",
+    "xmltv_id": "CanalZoom.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/canal-zoom-be.png"
+  },
+  {
+    "site_id": "UID50164",
+    "name": "KTO",
+    "lang": "fr",
+    "xmltv_id": "KTO.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/kto-fr.png"
+  },
+  {
+    "site_id": "UID0147",
+    "name": "Play6 HD",
+    "lang": "nl",
+    "xmltv_id": "Play6.be@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Play6_2021.svg/960px-Play6_2021.svg.png"
+  },
+  {
+    "site_id": "UID0312",
+    "name": "C8",
+    "lang": "fr",
+    "xmltv_id": "C8.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/c8-fr.png"
+  },
+  {
+    "site_id": "UID2376",
+    "name": "Comedy Central N HD",
+    "lang": "nl",
+    "xmltv_id": "ComedyCentral.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
+  },
+  {
+    "site_id": "UID50071",
+    "name": "BBC One",
+    "lang": "en",
+    "xmltv_id": "BBCOne.uk@London",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+  },
+  {
+    "site_id": "UID50075",
+    "name": "bx1",
+    "lang": "fr",
+    "xmltv_id": "BX1.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/bx1-be.png"
+  },
+  {
+    "site_id": "UID50095",
+    "name": "Tiji",
+    "lang": "fr",
+    "xmltv_id": "TiJi.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tiji-fr.png"
+  },
+  {
+    "site_id": "UID50197",
+    "name": "Ushuaïa HD",
+    "lang": "fr",
+    "xmltv_id": "UshuaiaTV.fr@HD",
+    "logo": "https://i.imgur.com/WjjlqbP.png"
+  },
+  {
+    "site_id": "UID50269",
+    "name": "Eurosp2 N",
+    "lang": "nl",
+    "xmltv_id": "Eurosport2.fr@Netherlands",
+    "logo": "https://i.imgur.com/f56dHgR.png"
+  },
+  {
+    "site_id": "UID0999",
+    "name": "InfoChannel",
+    "lang": "fr",
+    "xmltv_id": "PromiusPickxInfoChannel.be@SD",
+    "logo": "https://i.imgur.com/zHzrP3i.png"
+  },
+  {
+    "site_id": "UID2357",
+    "name": "Eurosp2 HD F",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID2481",
+    "name": "BBC News HD",
+    "lang": "en"
+  },
+  {
+    "site_id": "UID2552",
+    "name": "HGTV",
+    "lang": "nl",
+    "xmltv_id": "HGTV.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/hgtv-ar.png"
+  },
+  {
+    "site_id": "UID50069",
+    "name": "BBC News",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@Europe",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "UID2044",
+    "name": "Test 80",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID2121",
+    "name": "Play5 HD",
+    "lang": "nl",
+    "xmltv_id": "Play5.be@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Play5_2021.svg/960px-Play5_2021.svg.png"
+  },
+  {
+    "site_id": "UID2366",
+    "name": "W Sports",
+    "lang": "en",
+    "xmltv_id": "WSport.za@SD",
+    "logo": "https://i.imgur.com/K4GDwMp.png"
+  },
+  {
+    "site_id": "UID50059",
+    "name": "TIPIK",
+    "lang": "fr",
+    "xmltv_id": "Tipik.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/tipik-be.png"
+  },
+  {
+    "site_id": "UID50136",
+    "name": "No Télé",
+    "lang": "fr",
+    "xmltv_id": "Notele.be@SD",
+    "logo": "https://i.imgur.com/fGS55nR.png"
+  },
+  {
+    "site_id": "UID50329",
+    "name": "Disn Ch N",
+    "lang": "nl",
+    "xmltv_id": "DisneyChannel.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+  },
+  {
+    "site_id": "UID0042",
+    "name": "Pickx+ N",
+    "lang": "nl",
+    "xmltv_id": "PickxPlus.be@NL",
+    "logo": "https://i.imgur.com/fMVlyak.png"
+  },
+  {
+    "site_id": "UID0697",
+    "name": "DAZN 3 F HD",
+    "lang": "fr",
+    "xmltv_id": "DAZN3.uk@FranceHD",
+    "logo": "https://i.imgur.com/2rXsq2m.png"
   },
   {
     "site_id": "UID2186",
@@ -573,47 +230,25 @@
     "logo": "https://i.imgur.com/4H7cI2X.png"
   },
   {
-    "site_id": "UID2481",
-    "name": "BBC News HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "UID50128",
-    "name": "E! N",
+    "site_id": "UID2349",
+    "name": "Ment TV HD",
     "lang": "nl",
-    "xmltv_id": "EEurope.nl@SD",
-    "logo": "https://i.imgur.com/TWFDkap.png"
+    "xmltv_id": "MentTV.be@HD",
+    "logo": "https://i.imgur.com/l93sduH.png"
   },
   {
-    "site_id": "UID0302",
-    "name": "Be Séries",
+    "site_id": "UID50047",
+    "name": "NPO 1",
+    "lang": "nl",
+    "xmltv_id": "NPO1.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/960px-NPO_1_logo_2014.svg.png"
+  },
+  {
+    "site_id": "UID50064",
+    "name": "SyFy F",
     "lang": "fr",
-    "xmltv_id": "BeSeries.be@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bc/Be_S%C3%A9ries_logo.png/960px-Be_S%C3%A9ries_logo.png"
-  },
-  {
-    "site_id": "UID0639",
-    "name": "Studio PXS F",
-    "lang": "fr"
-  },
-  {
-    "site_id": "UID0640",
-    "name": "DAZN 1 F",
-    "lang": "fr",
-    "xmltv_id": "DAZN1.uk@France",
-    "logo": "https://i.imgur.com/2Z2EmZF.png"
-  },
-  {
-    "site_id": "UID2034",
-    "name": "ST100TV N",
-    "lang": "nl"
-  },
-  {
-    "site_id": "UID50141",
-    "name": "Al Aoula",
-    "lang": "fr",
-    "xmltv_id": "AlAoula.ma@SD",
-    "logo": "https://i.imgur.com/nq53d2N.png"
+    "xmltv_id": "Syfy.fr@SD",
+    "logo": "https://i.imgur.com/gUOXdjv.png"
   },
   {
     "site_id": "UID50198",
@@ -623,72 +258,108 @@
     "logo": "https://i.imgur.com/nh1k5RC.png"
   },
   {
-    "site_id": "UID50290",
-    "name": "Pickx+ Sports 7 N HD",
+    "site_id": "UID0239",
+    "name": "arte HD",
+    "lang": "fr",
+    "xmltv_id": "arte.fr@HD",
+    "logo": "https://i.imgur.com/ecXMjNl.png"
+  },
+  {
+    "site_id": "UID0649",
+    "name": "DAZN 3 N",
     "lang": "nl",
-    "xmltv_id": "PickxPlusSports7.be@NLHD",
-    "logo": "https://i.imgur.com/HsbelA0.png"
+    "xmltv_id": "DAZN3.uk@Netherlands",
+    "logo": "https://i.imgur.com/2rXsq2m.png"
   },
   {
-    "site_id": "UID0149",
-    "name": "France 24 HD",
+    "site_id": "UID0683",
+    "name": "Pickx+ Sports 4 F HD",
     "lang": "fr",
-    "xmltv_id": "France24.fr@FrenchHD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
+    "xmltv_id": "PickxPlusSports4.be@FRHD",
+    "logo": "https://i.imgur.com/3FkKcZy.png"
   },
   {
-    "site_id": "UID2363",
-    "name": "Disc Sc HD",
-    "lang": "nl"
-  },
-  {
-    "site_id": "UID2367",
-    "name": "Disney Jr. F HD",
-    "lang": "fr",
-    "xmltv_id": "DisneyJr.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
-  },
-  {
-    "site_id": "UID2483",
-    "name": "TVE International HD",
-    "lang": "fr",
-    "xmltv_id": "TVEInternacionalEuropeAsia.es@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png"
-  },
-  {
-    "site_id": "UID50135",
-    "name": "Ring TV",
+    "site_id": "UID1102",
+    "name": "Vlaamsparlement.tv",
     "lang": "nl",
-    "xmltv_id": "RingTV.be@SD",
-    "logo": "https://i.imgur.com/9GraHlr.png"
+    "xmltv_id": "VlaamsParlementTV.be@SD",
+    "logo": "https://i.imgur.com/cNqJhv9.png"
   },
   {
-    "site_id": "UID0090",
-    "name": "Discovery F",
+    "site_id": "UID2348",
+    "name": "BRF TV HD",
+    "lang": "de",
+    "xmltv_id": "BRFTV.be"
+  },
+  {
+    "site_id": "UID2466",
+    "name": "Pink HD",
+    "lang": "en",
+    "xmltv_id": "PinkX.fr@HD",
+    "logo": "https://i.imgur.com/WsS4Kkm.png"
+  },
+  {
+    "site_id": "UID0671",
+    "name": "Pickx+ Sports 8 F HD",
     "lang": "fr",
-    "xmltv_id": "DiscoveryChannel.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+    "xmltv_id": "PickxPlusSports8.be@FRHD",
+    "logo": "https://i.imgur.com/GsrIF5W.png"
   },
   {
-    "site_id": "UID0234",
-    "name": "Njam!",
+    "site_id": "UID2347",
+    "name": "WTV HD",
     "lang": "nl",
-    "xmltv_id": "Njam.be@SD",
-    "logo": "https://i.imgur.com/Cmku7NH.png"
+    "xmltv_id": "WTV.be@HD",
+    "logo": "https://i.imgur.com/wvKe8mi.png"
   },
   {
-    "site_id": "UID2071",
-    "name": "Pickx Showcase F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxLive.be@FRHD",
-    "logo": "https://i.imgur.com/olYNKnm.png"
+    "site_id": "UID2374",
+    "name": "Dobbit N HD",
+    "lang": "nl",
+    "xmltv_id": "DobbitTV.be@NLHD",
+    "logo": "https://i.imgur.com/7qtn7Lj.png"
   },
   {
-    "site_id": "UID50257",
-    "name": "Pickx+ Sports 7 F",
+    "site_id": "UID2465",
+    "name": "Passie XXX HD",
+    "lang": "nl",
+    "xmltv_id": "PassieXXX.nl@HD",
+    "logo": "https://i.imgur.com/0tI5p44.png"
+  },
+  {
+    "site_id": "UID50041",
+    "name": "ABXPLORE",
     "lang": "fr",
-    "xmltv_id": "PickxPlusSports7.be@FR",
-    "logo": "https://i.imgur.com/HsbelA0.png"
+    "xmltv_id": "ABXplore.be@SD",
+    "logo": "https://i.imgur.com/Z7bCdz9.png"
+  },
+  {
+    "site_id": "UID50070",
+    "name": "RTL club",
+    "lang": "fr",
+    "xmltv_id": "RTLClub.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/rtl-club-be.png"
+  },
+  {
+    "site_id": "UID50147",
+    "name": "Antenne C",
+    "lang": "fr",
+    "xmltv_id": "ACTV.be@SD",
+    "logo": "https://files.catbox.moe/8v2y8m.png"
+  },
+  {
+    "site_id": "UID50309",
+    "name": "RegInfo N",
+    "lang": "nl",
+    "xmltv_id": "ProximusTVRegInfo.nl@SD",
+    "logo": "https://i.imgur.com/zHzrP3i.png"
+  },
+  {
+    "site_id": "UID0041",
+    "name": "Pickx+ F",
+    "lang": "fr",
+    "xmltv_id": "PickxPlus.be@FR",
+    "logo": "https://i.imgur.com/fMVlyak.png"
   },
   {
     "site_id": "UID0092",
@@ -705,49 +376,136 @@
     "logo": "https://i.imgur.com/2CimAAN.png"
   },
   {
-    "site_id": "UID0154",
-    "name": "Euronews F",
+    "site_id": "UID0685",
+    "name": "Pickx+ Sports 6 F HD",
     "lang": "fr",
-    "xmltv_id": "EuronewsFrench.fr@SD",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/29d2a047-b486-4123-8642-45fe71d022fe/Logo_Euronews_stacked_white_on_french_1500x1000.png"
+    "xmltv_id": "PickxPlusSports6.be@FRHD",
+    "logo": "https://i.imgur.com/OJZ4hyw.png"
   },
   {
-    "site_id": "UID0312",
-    "name": "C8",
+    "site_id": "UID50073",
+    "name": "France 24 F",
     "lang": "fr",
-    "xmltv_id": "C8.fr@SD",
-    "logo": "https://i.imgur.com/40mdgqQ.png"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
   },
   {
-    "site_id": "UID0644",
-    "name": "DAZN 1 F HD",
+    "site_id": "UID50099",
+    "name": "Dorcel XXX",
     "lang": "fr",
-    "xmltv_id": "DAZN1.uk@FranceHD",
-    "logo": "https://i.imgur.com/2Z2EmZF.png"
+    "xmltv_id": "DorcelXXX.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/bulgaria/dorcel-xxx-bg.png"
   },
   {
-    "site_id": "UID2033",
-    "name": "ST100TV HD N",
-    "lang": "nl"
-  },
-  {
-    "site_id": "UID2053",
-    "name": "SyFy HD F",
+    "site_id": "UID0131",
+    "name": "Disney+",
     "lang": "fr",
-    "xmltv_id": "Syfy.fr@HD",
-    "logo": "https://i.imgur.com/gUOXdjv.png"
+    "logo": "https://i.imgur.com/n0t2B3Z.png"
   },
   {
-    "site_id": "UID2335",
-    "name": "Quatre HD",
+    "site_id": "UID0311",
+    "name": "LN24",
     "lang": "fr",
-    "xmltv_id": "QU4TRELiegeMedia.be@HD",
-    "logo": "https://i.imgur.com/GHFuvmZ.png"
+    "xmltv_id": "LN24.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/ln24-be.png"
   },
   {
-    "site_id": "UID0096",
-    "name": "DRS Test",
-    "lang": "fr"
+    "site_id": "UID0656",
+    "name": "Pickx+ Sports 6 F",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports6.be@FR",
+    "logo": "https://i.imgur.com/OJZ4hyw.png"
+  },
+  {
+    "site_id": "UID50023",
+    "name": "TREK",
+    "lang": "fr",
+    "xmltv_id": "Trek.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/trek-fr.png"
+  },
+  {
+    "site_id": "UID50110",
+    "name": "13è Rue",
+    "lang": "fr",
+    "xmltv_id": "13emeRue.fr@SD",
+    "logo": "https://i.imgur.com/k0DCMTL.png"
+  },
+  {
+    "site_id": "UID0674",
+    "name": "Pickx+ Sports 10 F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports10.be@FRHD",
+    "logo": "https://i.imgur.com/0PQvG9P.png"
+  },
+  {
+    "site_id": "UID50080",
+    "name": "NPO 2",
+    "lang": "nl",
+    "xmltv_id": "NPO2.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/960px-NPO_2_logo_2014.svg.png"
+  },
+  {
+    "site_id": "UID0082",
+    "name": "Pickx+ N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlus.be@NLHD",
+    "logo": "https://i.imgur.com/fMVlyak.png"
+  },
+  {
+    "site_id": "UID2184",
+    "name": "DAZN Pro League 2 N HD",
+    "lang": "nl",
+    "xmltv_id": "DAZNProLeague2.uk@NetherlandsHD",
+    "logo": "https://i.imgur.com/O1DkKg3.png"
+  },
+  {
+    "site_id": "UID2479",
+    "name": "Baby TV F HD",
+    "lang": "fr",
+    "xmltv_id": "BabyTV.uk@FranceHD",
+    "logo": "https://i.imgur.com/4BDJ5FT.png"
+  },
+  {
+    "site_id": "UID50052",
+    "name": "Baby TV N",
+    "lang": "nl",
+    "xmltv_id": "BabyTV.uk@Netherlands",
+    "logo": "https://i.imgur.com/4BDJ5FT.png"
+  },
+  {
+    "site_id": "UID0030",
+    "name": "ZDF",
+    "lang": "de",
+    "xmltv_id": "ZDF.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/zdf-de.png"
+  },
+  {
+    "site_id": "UID0084",
+    "name": "AB3 HD",
+    "lang": "fr",
+    "xmltv_id": "AB3.be@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AB3_2025.svg/960px-AB3_2025.svg.png"
+  },
+  {
+    "site_id": "UID0684",
+    "name": "Pickx+ Sports 5 F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports5.be@FRHD",
+    "logo": "https://i.imgur.com/9aTP1JE.png"
+  },
+  {
+    "site_id": "UID2043",
+    "name": "Disn Ch HD N",
+    "lang": "nl",
+    "xmltv_id": "DisneyChannel.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+  },
+  {
+    "site_id": "UID2179",
+    "name": "TREK HD",
+    "lang": "fr",
+    "xmltv_id": "Trek.fr@HD",
+    "logo": "https://i.imgur.com/TcF53W4.png"
   },
   {
     "site_id": "UID2340",
@@ -757,32 +515,81 @@
     "logo": "https://i.imgur.com/XAggjM4.png"
   },
   {
-    "site_id": "UID50017",
-    "name": "Discovery N",
-    "lang": "nl",
-    "xmltv_id": "DiscoveryChannel.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "UID50043",
-    "name": "RFM TV",
+    "site_id": "UID2473",
+    "name": "MTV Hits HD",
     "lang": "fr",
-    "xmltv_id": "RFMTV.fr@SD",
-    "logo": "https://i.imgur.com/FVDTJxW.png"
+    "xmltv_id": "MTVHits.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/960px-MTV_Hits_2021.svg.png"
   },
   {
-    "site_id": "UID50094",
-    "name": "Eurosp N",
-    "lang": "nl",
-    "xmltv_id": "Eurosport1.fr@Netherlands",
-    "logo": "https://i.imgur.com/olQJgm7.png"
+    "site_id": "UID2482",
+    "name": "RTL Deutschland HD",
+    "lang": "de",
+    "xmltv_id": "RTL.de@HD",
+    "logo": "https://i.imgur.com/94K94k2.png"
   },
   {
-    "site_id": "UID50225",
-    "name": "Pickx+ Sports 10 N",
+    "site_id": "UID0633",
+    "name": "Pickx+ Sports 4 N HD",
     "lang": "nl",
-    "xmltv_id": "PickxPlusSports10.be@NL",
-    "logo": "https://i.imgur.com/0PQvG9P.png"
+    "xmltv_id": "PickxPlusSports4.be@NLHD",
+    "logo": "https://i.imgur.com/3FkKcZy.png"
+  },
+  {
+    "site_id": "UID50297",
+    "name": "VTM HD",
+    "lang": "nl",
+    "xmltv_id": "VTM.be@HD",
+    "logo": "https://i.imgur.com/N3nwyDd.png"
+  },
+  {
+    "site_id": "UID0813",
+    "name": "StuBru",
+    "lang": "nl",
+    "xmltv_id": "StuBru.be@SD",
+    "logo": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png"
+  },
+  {
+    "site_id": "UID2063",
+    "name": "Motorvision+",
+    "lang": "en",
+    "xmltv_id": "Motorvision.de@SD",
+    "logo": "https://i.imgur.com/v4kj8pI.png"
+  },
+  {
+    "site_id": "UID2074",
+    "name": "Pickx Showcase N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxLive.be@NL",
+    "logo": "https://i.imgur.com/olYNKnm.png"
+  },
+  {
+    "site_id": "UID2188",
+    "name": "DAZN Pro League 3 N HD",
+    "lang": "nl",
+    "xmltv_id": "DAZNProLeague3.uk@NetherlandsHD",
+    "logo": "https://i.imgur.com/4H7cI2X.png"
+  },
+  {
+    "site_id": "UID50028",
+    "name": "TraceUrban",
+    "lang": "fr",
+    "xmltv_id": "TraceUrban.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669893cbac4421ebc53368b/images/logo_20231219_223537_68.png"
+  },
+  {
+    "site_id": "UID50154",
+    "name": "History",
+    "lang": "nl",
+    "xmltv_id": "History.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/history-de.png"
+  },
+  {
+    "site_id": "UID50310",
+    "name": "Ketnet",
+    "lang": "nl",
+    "xmltv_id": "Ketnet.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/ketnet-be.png"
   },
   {
     "site_id": "UID50323",
@@ -792,24 +599,219 @@
     "logo": "https://i.imgur.com/jMwZp7z.png"
   },
   {
-    "site_id": "UID50334",
-    "name": "La Trois HD",
-    "lang": "fr",
-    "xmltv_id": "LaTrois.be@HD",
-    "logo": "https://i.imgur.com/jMs4h9F.png"
+    "site_id": "UID0634",
+    "name": "Pickx+ Sports 5 N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports5.be@NLHD",
+    "logo": "https://i.imgur.com/9aTP1JE.png"
   },
   {
-    "site_id": "UID2121",
-    "name": "Play5 HD",
+    "site_id": "UID0679",
+    "name": "Pickx Sports Pop-up F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxLive.be@FRHD",
+    "logo": "https://i.imgur.com/olYNKnm.png"
+  },
+  {
+    "site_id": "UID2049",
+    "name": "Kanaal Z HD",
     "lang": "nl",
-    "xmltv_id": "Play5.be@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Play5_2021.svg/960px-Play5_2021.svg.png"
+    "xmltv_id": "KanaalZ.be@HD",
+    "logo": "https://i.imgur.com/YzgYJxM.png"
   },
   {
     "site_id": "UID2182",
     "name": "DAZN Pro League 2 F HD",
     "lang": "fr",
     "xmltv_id": "DAZNProLeague2.uk@FranceHD",
+    "logo": "https://i.imgur.com/O1DkKg3.png"
+  },
+  {
+    "site_id": "UID50021",
+    "name": "Cartoon F",
+    "lang": "fr",
+    "xmltv_id": "CartoonNetworkCEE.uk@France",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "site_id": "UID50209",
+    "name": "RTL club HD",
+    "lang": "fr",
+    "xmltv_id": "RTLClub.be@HD",
+    "logo": "https://i.imgur.com/CcSd0Uk.png"
+  },
+  {
+    "site_id": "UID50224",
+    "name": "Pickx+ Sports 9 N",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports9.be@NL",
+    "logo": "https://i.imgur.com/IEbFII7.png"
+  },
+  {
+    "site_id": "UID50301",
+    "name": "VTM 4",
+    "lang": "nl",
+    "xmltv_id": "VTM4.be@SD",
+    "logo": "https://i.imgur.com/vabFMLq.png"
+  },
+  {
+    "site_id": "UID2180",
+    "name": "DAZN Pro League 1 N HD",
+    "lang": "nl",
+    "xmltv_id": "DAZNProLeague1.uk@NetherlandsHD",
+    "logo": "https://i.imgur.com/ZZw6nwl.png"
+  },
+  {
+    "site_id": "UID2364",
+    "name": "Inv Disc HD",
+    "lang": "nl",
+    "xmltv_id": "InvestigationDiscovery.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
+    "site_id": "UID50015",
+    "name": "RAI Due",
+    "lang": "fr",
+    "xmltv_id": "Rai2.it@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "UID50077",
+    "name": "Eurosp F",
+    "lang": "fr",
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://i.imgur.com/olQJgm7.png"
+  },
+  {
+    "site_id": "UID50130",
+    "name": "BRUZZ",
+    "lang": "nl",
+    "xmltv_id": "Bruzz.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/bruzz-be.png"
+  },
+  {
+    "site_id": "UID50203",
+    "name": "NGC HD F",
+    "lang": "fr",
+    "xmltv_id": "NationalGeographic.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+  },
+  {
+    "site_id": "UID0106",
+    "name": "RTL plug HD",
+    "lang": "fr",
+    "xmltv_id": "RTLPlug.be@HD",
+    "logo": "https://i.imgur.com/RAq9eby.png"
+  },
+  {
+    "site_id": "UID0120",
+    "name": "TV Lux",
+    "lang": "fr",
+    "xmltv_id": "TVLux.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/tv-lux-be.png"
+  },
+  {
+    "site_id": "UID0149",
+    "name": "France 24 HD",
+    "lang": "fr",
+    "xmltv_id": "France24.fr@FrenchHD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "UID0698",
+    "name": "DAZN 3 N HD",
+    "lang": "nl",
+    "xmltv_id": "DAZN3.uk@NetherlandsHD",
+    "logo": "https://i.imgur.com/2rXsq2m.png"
+  },
+  {
+    "site_id": "UID2053",
+    "name": "SyFy HD F",
+    "lang": "fr",
+    "xmltv_id": "Syfy.fr@HD",
+    "logo": "https://i.imgur.com/gUOXdjv.png"
+  },
+  {
+    "site_id": "UID2276",
+    "name": "TMC HD",
+    "lang": "fr",
+    "xmltv_id": "TMC.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png"
+  },
+  {
+    "site_id": "UID2489",
+    "name": "Euronews F HD",
+    "lang": "fr",
+    "xmltv_id": "EuronewsFrench.fr@HD",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/29d2a047-b486-4123-8642-45fe71d022fe/Logo_Euronews_stacked_white_on_french_1500x1000.png"
+  },
+  {
+    "site_id": "UID50060",
+    "name": "La Une",
+    "lang": "fr",
+    "xmltv_id": "LaUne.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/la-une-be.png"
+  },
+  {
+    "site_id": "UID2334",
+    "name": "ROBTV HD",
+    "lang": "nl",
+    "xmltv_id": "ROBTV.be@HD",
+    "logo": "https://i.imgur.com/HHDUnow.png"
+  },
+  {
+    "site_id": "UID2350",
+    "name": "INPLUS",
+    "lang": "nl",
+    "xmltv_id": "InsightTV.nl@SD",
+    "logo": "https://i.imgur.com/7xmaoL0.png"
+  },
+  {
+    "site_id": "UID2375",
+    "name": "Das Erste HD",
+    "lang": "de",
+    "xmltv_id": "DasErste.de@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"
+  },
+  {
+    "site_id": "UID50192",
+    "name": "Pink",
+    "lang": "fr",
+    "xmltv_id": "PinkX.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/pink-rs.png"
+  },
+  {
+    "site_id": "UID50210",
+    "name": "Eurosp HD N",
+    "lang": "nl",
+    "xmltv_id": "Eurosport1.fr@NetherlandsHD",
+    "logo": "https://i.imgur.com/olQJgm7.png"
+  },
+  {
+    "site_id": "UID50315",
+    "name": "MTV Live HD",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/mtv-live-hd-nl.png"
+  },
+  {
+    "site_id": "UID50319",
+    "name": "Ment TV",
+    "lang": "nl",
+    "xmltv_id": "MentTV.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/ment-tv-be.png"
+  },
+  {
+    "site_id": "UID0305",
+    "name": "Ciné+Classic",
+    "lang": "fr",
+    "xmltv_id": "CinePlusClassic.be@SD",
+    "logo": "https://i.imgur.com/c71R04L.png"
+  },
+  {
+    "site_id": "UID2183",
+    "name": "DAZN Pro League 2 F",
+    "lang": "fr",
+    "xmltv_id": "DAZNProLeague2.uk@France",
     "logo": "https://i.imgur.com/O1DkKg3.png"
   },
   {
@@ -820,104 +822,9 @@
     "logo": "https://static.tvoost.be/tvoostbe/images/tvoost-logo.png"
   },
   {
-    "site_id": "UID2351",
-    "name": "TF1 Séries Films",
-    "lang": "fr",
-    "xmltv_id": "TF1SeriesFilms.fr@SD",
-    "logo": "https://i.imgur.com/4CJIDKQ.png"
-  },
-  {
-    "site_id": "UID2473",
-    "name": "MTV Hits HD",
-    "lang": "fr",
-    "xmltv_id": "MTVHits.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/960px-MTV_Hits_2021.svg.png"
-  },
-  {
-    "site_id": "UID50210",
-    "name": "Eurosp HD N",
-    "lang": "nl",
-    "xmltv_id": "Eurosport1.fr@NetherlandsHD",
-    "logo": "https://i.imgur.com/olQJgm7.png"
-  },
-  {
-    "site_id": "UID50305",
-    "name": "Cartoonito",
-    "lang": "nl",
-    "xmltv_id": "Cartoonito.uk@SD",
-    "logo": "https://i.imgur.com/B29D2s1.png"
-  },
-  {
-    "site_id": "UID2040",
-    "name": "E! HD F",
-    "lang": "fr",
-    "xmltv_id": "E.fr@HD",
-    "logo": "https://i.imgur.com/TWFDkap.png"
-  },
-  {
-    "site_id": "UID2293",
-    "name": "Play7 HD",
-    "lang": "nl",
-    "xmltv_id": "Play7.be@HD",
-    "logo": "https://i.imgur.com/BSnof2S.png"
-  },
-  {
-    "site_id": "UID2317",
-    "name": "MyZen.tv",
-    "lang": "fr",
-    "xmltv_id": "MyZenTV.fr@SD",
-    "logo": "https://i.imgur.com/fIi8o0C.png"
-  },
-  {
-    "site_id": "UID2348",
-    "name": "BRF TV HD",
-    "lang": "de"
-  },
-  {
-    "site_id": "UID2488",
-    "name": "Euronews E HD",
-    "lang": "en",
-    "xmltv_id": "EuronewsEnglish.fr@HD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
-  },
-  {
-    "site_id": "UID0039",
-    "name": "VTM 2 HD",
-    "lang": "nl",
-    "xmltv_id": "VTM2.be@HD",
-    "logo": "https://i.imgur.com/kYBHMlw.png"
-  },
-  {
-    "site_id": "UID0131",
-    "name": "Disney+",
-    "lang": "fr",
-    "logo": "https://i.imgur.com/n0t2B3Z.png"
-  },
-  {
-    "site_id": "UID0307",
-    "name": "OUT tv",
-    "lang": "nl",
-    "xmltv_id": "OUTtv.nl@SD",
-    "logo": "https://i.imgur.com/QlUWNSU.png"
-  },
-  {
-    "site_id": "UID2074",
-    "name": "Pickx Showcase N HD",
-    "lang": "nl",
-    "xmltv_id": "PickxLive.be@NL",
-    "logo": "https://i.imgur.com/olYNKnm.png"
-  },
-  {
-    "site_id": "UID2477",
-    "name": "AMTV HD",
+    "site_id": "UID2553",
+    "name": "RTL district HD",
     "lang": "fr"
-  },
-  {
-    "site_id": "UID50019",
-    "name": "Action",
-    "lang": "fr",
-    "xmltv_id": "Action.fr@SD",
-    "logo": "https://i.imgur.com/Zv9VsVq.png"
   },
   {
     "site_id": "UID50029",
@@ -927,39 +834,46 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png"
   },
   {
-    "site_id": "UID50095",
-    "name": "Tiji",
-    "lang": "fr",
-    "xmltv_id": "TiJi.fr@SD",
-    "logo": "https://i.imgur.com/ZjsfAGb.png"
-  },
-  {
-    "site_id": "UID0194",
-    "name": "bel RTL HD",
-    "lang": "fr",
-    "xmltv_id": "BelRTL.be@HD",
-    "logo": "https://i.imgur.com/0DUprIW.png"
-  },
-  {
-    "site_id": "UID2063",
-    "name": "Motorvision+",
-    "lang": "en",
-    "xmltv_id": "Motorvision.de@SD",
-    "logo": "https://i.imgur.com/v4kj8pI.png"
-  },
-  {
-    "site_id": "UID50075",
-    "name": "bx1",
-    "lang": "fr",
-    "xmltv_id": "BX1.be@SD",
-    "logo": "https://i.imgur.com/0OkSa6c.png"
-  },
-  {
-    "site_id": "UID50116",
-    "name": "ATV",
+    "site_id": "UID50087",
+    "name": "NGC N",
     "lang": "nl",
-    "xmltv_id": "ATV.be@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png"
+    "xmltv_id": "NationalGeographic.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+  },
+  {
+    "site_id": "UID0635",
+    "name": "Pickx+ Sports 6 N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports6.be@NLHD",
+    "logo": "https://i.imgur.com/OJZ4hyw.png"
+  },
+  {
+    "site_id": "UID0645",
+    "name": "DAZN 1 N HD",
+    "lang": "nl",
+    "xmltv_id": "DAZN1.uk@NetherlandsHD",
+    "logo": "https://i.imgur.com/2Z2EmZF.png"
+  },
+  {
+    "site_id": "UID2210",
+    "name": "RTL",
+    "lang": "de",
+    "xmltv_id": "RTL.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/rtl-de.png"
+  },
+  {
+    "site_id": "UID2474",
+    "name": "Al Aoula HD",
+    "lang": "fr",
+    "xmltv_id": "AlAoula.ma@HD",
+    "logo": "https://i.imgur.com/nq53d2N.png"
+  },
+  {
+    "site_id": "UID50044",
+    "name": "VTM 2",
+    "lang": "nl",
+    "xmltv_id": "VTM2.be@SD",
+    "logo": "https://i.imgur.com/kYBHMlw.png"
   },
   {
     "site_id": "UID50120",
@@ -969,67 +883,53 @@
     "logo": "https://i.imgur.com/UMnXonD.png"
   },
   {
-    "site_id": "UID50140",
-    "name": "Télé MB",
-    "lang": "fr",
-    "xmltv_id": "TeleMB.be@SD",
-    "logo": "https://i.imgur.com/XAggjM4.png"
-  },
-  {
-    "site_id": "UID50147",
-    "name": "Antenne C",
-    "lang": "fr",
-    "xmltv_id": "ACTV.be@SD",
-    "logo": "https://files.catbox.moe/8v2y8m.png"
-  },
-  {
-    "site_id": "UID0300",
-    "name": "Be1",
-    "lang": "fr",
-    "xmltv_id": "Be1.be@SD",
-    "logo": "https://i.imgur.com/gVlYUCA.png"
-  },
-  {
-    "site_id": "UID0303",
-    "name": "Ciné+OCS",
-    "lang": "fr",
-    "xmltv_id": "CinePlusOCS.fr@SD",
-    "logo": "https://i.imgur.com/ujin9Uf.png"
-  },
-  {
-    "site_id": "UID0311",
-    "name": "LN24",
-    "lang": "fr",
-    "xmltv_id": "LN24.be@SD",
-    "logo": "https://i.imgur.com/1EkZRwn.png"
-  },
-  {
-    "site_id": "UID0605",
-    "name": "Pickx+ Sports 5 N",
+    "site_id": "UID50223",
+    "name": "Inv Disc",
     "lang": "nl",
-    "xmltv_id": "PickxPlusSports5.be@NL",
-    "logo": "https://i.imgur.com/9aTP1JE.png"
+    "xmltv_id": "InvestigationDiscovery.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
   },
   {
-    "site_id": "UID2188",
-    "name": "DAZN Pro League 3 N HD",
+    "site_id": "UID0461",
+    "name": "Penthouse Gold",
+    "lang": "en",
+    "xmltv_id": "PenthouseGold.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/penthouse-gold-us.png"
+  },
+  {
+    "site_id": "UID0604",
+    "name": "Pickx+ Sports 4 N",
     "lang": "nl",
-    "xmltv_id": "DAZNProLeague3.uk@NetherlandsHD",
-    "logo": "https://i.imgur.com/4H7cI2X.png"
+    "xmltv_id": "PickxPlusSports4.be@NL",
+    "logo": "https://i.imgur.com/3FkKcZy.png"
   },
   {
-    "site_id": "UID50015",
-    "name": "RAI Due",
+    "site_id": "UID2328",
+    "name": "Bouké HD",
     "lang": "fr",
-    "xmltv_id": "Rai2.it@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png"
+    "xmltv_id": "Bouke.be@HD",
+    "logo": "https://i.imgur.com/STLavel.png"
   },
   {
-    "site_id": "UID50192",
-    "name": "Pink",
+    "site_id": "UID2332",
+    "name": "No Télé HD",
     "lang": "fr",
-    "xmltv_id": "PinkX.fr@SD",
-    "logo": "https://i.imgur.com/WsS4Kkm.png"
+    "xmltv_id": "Notele.be@HD",
+    "logo": "https://i.imgur.com/fGS55nR.png"
+  },
+  {
+    "site_id": "UID2339",
+    "name": "RTV Mech HD",
+    "lang": "nl",
+    "xmltv_id": "RTVMech.be@HD",
+    "logo": "https://i.imgur.com/eaGNzwB.png"
+  },
+  {
+    "site_id": "UID50012",
+    "name": "TV Breizh",
+    "lang": "fr",
+    "xmltv_id": "TVBreizh.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tv-breizh-fr.png"
   },
   {
     "site_id": "UID0603",
@@ -1039,156 +939,11 @@
     "logo": "https://i.imgur.com/iqMXHDz.png"
   },
   {
-    "site_id": "UID0672",
-    "name": "Pickx+ Sports 9 F HD",
+    "site_id": "UID0655",
+    "name": "Pickx+ Sports 5 F",
     "lang": "fr",
-    "xmltv_id": "PickxPlusSports9.be@FRHD",
-    "logo": "https://i.imgur.com/IEbFII7.png"
-  },
-  {
-    "site_id": "UID2342",
-    "name": "TV Com HD",
-    "lang": "fr"
-  },
-  {
-    "site_id": "UID2376",
-    "name": "Comedy Central N HD",
-    "lang": "nl",
-    "xmltv_id": "ComedyCentral.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
-  },
-  {
-    "site_id": "UID50022",
-    "name": "Cartoon N",
-    "lang": "nl",
-    "xmltv_id": "CartoonNetworkWesternEurope.uk@Netherlands",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "UID50028",
-    "name": "TraceUrban",
-    "lang": "fr",
-    "xmltv_id": "TraceUrban.fr@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669893cbac4421ebc53368b/images/logo_20231219_223537_68.png"
-  },
-  {
-    "site_id": "UID50103",
-    "name": "Boomerang F",
-    "lang": "fr",
-    "xmltv_id": "Boomerang.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png"
-  },
-  {
-    "site_id": "UID50297",
-    "name": "VTM HD",
-    "lang": "nl",
-    "xmltv_id": "VTM.be@HD",
-    "logo": "https://i.imgur.com/N3nwyDd.png"
-  },
-  {
-    "site_id": "UID0628",
-    "name": "Dusk",
-    "lang": "en",
-    "xmltv_id": "DuskTV.nl@SD",
-    "logo": "https://i.imgur.com/TTlS1qi.png"
-  },
-  {
-    "site_id": "UID0653",
-    "name": "Pickx+ Sports 3 F",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports3.be@FR",
-    "logo": "https://i.imgur.com/iqMXHDz.png"
-  },
-  {
-    "site_id": "UID2322",
-    "name": "ATV HD",
-    "lang": "nl",
-    "xmltv_id": "ATV.be@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png"
-  },
-  {
-    "site_id": "UID2552",
-    "name": "HGTV",
-    "lang": "nl",
-    "xmltv_id": "HGTV.be@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png"
-  },
-  {
-    "site_id": "UID50070",
-    "name": "RTL club",
-    "lang": "fr",
-    "xmltv_id": "RTLClub.be@SD",
-    "logo": "https://i.imgur.com/CcSd0Uk.png"
-  },
-  {
-    "site_id": "UID50081",
-    "name": "France 4",
-    "lang": "fr",
-    "xmltv_id": "France4.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png"
-  },
-  {
-    "site_id": "UID50130",
-    "name": "BRUZZ",
-    "lang": "nl",
-    "xmltv_id": "Bruzz.be@SD",
-    "logo": "https://i.imgur.com/OYlYidF.png"
-  },
-  {
-    "site_id": "UID50259",
-    "name": "Pickx+ Sports 9 F",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports9.be@FR",
-    "logo": "https://i.imgur.com/IEbFII7.png"
-  },
-  {
-    "site_id": "UID2343",
-    "name": "TV Limburg HD",
-    "lang": "nl",
-    "xmltv_id": "TVLimburg.be@HD",
-    "logo": "https://i.imgur.com/UMnXonD.png"
-  },
-  {
-    "site_id": "UID50035",
-    "name": "Canal Z",
-    "lang": "fr",
-    "xmltv_id": "CanalZ.be@SD",
-    "logo": "https://i.imgur.com/qtiGLzZ.png"
-  },
-  {
-    "site_id": "UID50060",
-    "name": "La Une",
-    "lang": "fr",
-    "xmltv_id": "LaUne.be@SD",
-    "logo": "https://i.imgur.com/jMwZp7z.png"
-  },
-  {
-    "site_id": "UID50199",
-    "name": "Disc HD N",
-    "lang": "nl",
-    "xmltv_id": "DiscoveryChannel.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "UID50203",
-    "name": "NGC HD F",
-    "lang": "fr",
-    "xmltv_id": "NationalGeographic.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
-  },
-  {
-    "site_id": "UID50329",
-    "name": "Disn Ch N",
-    "lang": "nl",
-    "xmltv_id": "DisneyChannel.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "site_id": "UID0641",
-    "name": "DAZN 1 N",
-    "lang": "nl",
-    "xmltv_id": "DAZN1.uk@Netherlands",
-    "logo": "https://i.imgur.com/2Z2EmZF.png"
+    "xmltv_id": "PickxPlusSports5.be@FR",
+    "logo": "https://i.imgur.com/9aTP1JE.png"
   },
   {
     "site_id": "UID0694",
@@ -1198,114 +953,122 @@
     "logo": "https://i.imgur.com/0PQvG9P.png"
   },
   {
-    "site_id": "UID50088",
-    "name": "France 2",
+    "site_id": "UID2331",
+    "name": "MaTélé HD",
     "lang": "fr",
-    "xmltv_id": "France2.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png"
+    "xmltv_id": "Matele.be@HD",
+    "logo": "https://i.imgur.com/rw72POr.png"
   },
   {
-    "site_id": "UID50190",
-    "name": "TF1 HD",
+    "site_id": "UID50043",
+    "name": "RFM TV",
     "lang": "fr",
-    "xmltv_id": "TF1.fr@HD",
-    "logo": "https://i.imgur.com/QxHt9NC.png"
+    "xmltv_id": "RFMTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rfm-tv-fr.png"
   },
   {
-    "site_id": "UID2179",
-    "name": "TREK HD",
+    "site_id": "UID50102",
+    "name": "Sc et Vie TV",
     "lang": "fr",
-    "xmltv_id": "Trek.fr@HD",
-    "logo": "https://i.imgur.com/TcF53W4.png"
+    "xmltv_id": "ScienceVieTV.fr@SD",
+    "logo": "https://i.imgur.com/9ELsSMI.png"
   },
   {
-    "site_id": "UID2362",
-    "name": "Cartoon N HD",
+    "site_id": "UID50142",
+    "name": "MTV F",
+    "lang": "fr",
+    "xmltv_id": "MTV.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+  },
+  {
+    "site_id": "UID50153",
+    "name": "nick jr N",
     "lang": "nl",
-    "xmltv_id": "CartoonNetworkWesternEurope.uk@NetherlandsHD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+    "xmltv_id": "NickJr.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
   },
   {
-    "site_id": "UID2487",
-    "name": "Animaux HD",
+    "site_id": "UID0142",
+    "name": "STAR Channel HD",
+    "lang": "nl",
+    "xmltv_id": "STARChannel.nl@SD"
+  },
+  {
+    "site_id": "UID2181",
+    "name": "DAZN Pro League 1 N",
+    "lang": "nl",
+    "xmltv_id": "DAZNProLeague1.uk@Netherlands",
+    "logo": "https://i.imgur.com/ZZw6nwl.png"
+  },
+  {
+    "site_id": "UID2319",
+    "name": "Pickx+ N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlus.be@NLHD",
+    "logo": "https://i.imgur.com/fMVlyak.png"
+  },
+  {
+    "site_id": "UID2329",
+    "name": "Canal Zoom HD",
     "lang": "fr",
-    "xmltv_id": "Animaux.fr@HD",
-    "logo": "https://i.imgur.com/FM9FVAG.png"
+    "xmltv_id": "CanalZoom.be@HD",
+    "logo": "https://i.imgur.com/JUNP8Rx.png"
   },
   {
-    "site_id": "UID50027",
-    "name": "TVE Int",
+    "site_id": "UID2377",
+    "name": "LCI HD",
     "lang": "fr",
-    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png"
+    "xmltv_id": "LCI.fr@HD",
+    "logo": "https://i.imgur.com/DED8EXs.png"
   },
   {
-    "site_id": "UID50018",
-    "name": "Arte",
+    "site_id": "UID50057",
+    "name": "Canal J",
     "lang": "fr",
-    "xmltv_id": "arte.fr@SD",
-    "logo": "https://i.imgur.com/ecXMjNl.png"
+    "xmltv_id": "CanalJ.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-j-fr.png"
   },
   {
-    "site_id": "UID50099",
-    "name": "Dorcel XXX",
+    "site_id": "UID50109",
+    "name": "E! F",
     "lang": "fr",
-    "xmltv_id": "DorcelXXX.nl@SD",
-    "logo": "https://i.imgur.com/ZwMZEKZ.png"
+    "xmltv_id": "E.fr@SD",
+    "logo": "https://i.imgur.com/TWFDkap.png"
   },
   {
-    "site_id": "UID0189",
-    "name": "Crime District",
+    "site_id": "UID50162",
+    "name": "Al Jazeera",
     "lang": "fr",
-    "xmltv_id": "CrimeDistrict.fr@SD",
-    "logo": "https://i.imgur.com/WQJ6Lbk.png"
+    "xmltv_id": "AlJazeera.qa@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
   },
   {
-    "site_id": "UID0697",
-    "name": "DAZN 3 F HD",
-    "lang": "fr",
-    "xmltv_id": "DAZN3.uk@FranceHD",
-    "logo": "https://i.imgur.com/2rXsq2m.png"
-  },
-  {
-    "site_id": "UID2321",
-    "name": "Antenne Centre HD",
-    "lang": "fr",
-    "xmltv_id": "ACTV.be@HD",
-    "logo": "https://files.catbox.moe/8v2y8m.png"
-  },
-  {
-    "site_id": "UID2366",
-    "name": "W Sports",
-    "lang": "en",
-    "xmltv_id": "WSport.za@SD",
-    "logo": "https://i.imgur.com/K4GDwMp.png"
-  },
-  {
-    "site_id": "UID2375",
-    "name": "Das Erste HD",
+    "site_id": "UID0024",
+    "name": "Das Erste",
     "lang": "de",
-    "xmltv_id": "DasErste.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"
+    "xmltv_id": "DasErste.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/das-erste-de.png"
   },
   {
-    "site_id": "UID2378",
-    "name": "Mangas HD",
+    "site_id": "UID0090",
+    "name": "Discovery F",
     "lang": "fr",
-    "xmltv_id": "Mangas.fr@HD",
-    "logo": "https://i.imgur.com/wmmEOza.png"
+    "xmltv_id": "DiscoveryChannel.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
   },
   {
-    "site_id": "UID2553",
-    "name": "RTL district HD",
-    "lang": "fr"
+    "site_id": "UID0231",
+    "name": "ABXPLO HD",
+    "lang": "fr",
+    "xmltv_id": "ABXplore.be@HD",
+    "logo": "https://i.imgur.com/Z7bCdz9.png"
   },
   {
-    "site_id": "UID50039",
-    "name": "nick N",
+    "site_id": "UID2217",
+    "name": "Pickx+ Sports 1 N HD",
     "lang": "nl",
-    "xmltv_id": "Nickelodeon.nl@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
+    "xmltv_id": "PickxPlusSports1.be@NLHD",
+    "logo": "https://i.imgur.com/6Kihf01.png"
   },
   {
     "site_id": "UID2336",
@@ -1315,79 +1078,23 @@
     "logo": "https://i.imgur.com/eaGNzwB.png"
   },
   {
-    "site_id": "UID50012",
-    "name": "TV Breizh",
-    "lang": "fr",
-    "xmltv_id": "TVBreizh.fr@SD",
-    "logo": "https://i.imgur.com/O8W4yhn.png"
-  },
-  {
-    "site_id": "UID50143",
-    "name": "MTV N",
+    "site_id": "UID2343",
+    "name": "TV Limburg HD",
     "lang": "nl",
-    "xmltv_id": "MTV.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+    "xmltv_id": "TVLimburg.be@HD",
+    "logo": "https://i.imgur.com/UMnXonD.png"
   },
   {
-    "site_id": "UID50146",
-    "name": "Canal Zoom",
+    "site_id": "UID2361",
+    "name": "Cartoon F HD",
     "lang": "fr",
-    "xmltv_id": "CanalZoom.be@SD",
-    "logo": "https://i.imgur.com/JUNP8Rx.png"
+    "xmltv_id": "CartoonNetworkCEE.uk@FranceHD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
   },
   {
-    "site_id": "UID0999",
-    "name": "InfoChannel",
-    "lang": "fr",
-    "xmltv_id": "PromiusPickxInfoChannel.be@SD",
-    "logo": "https://i.imgur.com/zHzrP3i.png"
-  },
-  {
-    "site_id": "UID2326",
-    "name": "BRUZZ HD",
-    "lang": "nl",
-    "xmltv_id": "Bruzz.be@HD",
-    "logo": "https://i.imgur.com/OYlYidF.png"
-  },
-  {
-    "site_id": "UID2355",
-    "name": "BBC One HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "UID50013",
-    "name": "Histoire",
-    "lang": "fr",
-    "xmltv_id": "HistoireTV.fr@SD",
-    "logo": "https://i.imgur.com/hxuJXll.png"
-  },
-  {
-    "site_id": "UID50115",
-    "name": "Focus TV",
-    "lang": "nl",
-    "xmltv_id": "FocusTV.be@SD",
-    "logo": "https://i.imgur.com/dvZS1Ns.png"
-  },
-  {
-    "site_id": "UID50197",
-    "name": "Ushuaïa HD",
-    "lang": "fr",
-    "xmltv_id": "UshuaiaTV.fr@HD",
-    "logo": "https://i.imgur.com/WjjlqbP.png"
-  },
-  {
-    "site_id": "UID50223",
-    "name": "Inv Disc",
-    "lang": "nl",
-    "xmltv_id": "InvestigationDiscovery.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "UID0037",
-    "name": "Dobbit TV N",
-    "lang": "nl",
-    "xmltv_id": "DobbitTV.be@NL",
-    "logo": "https://i.imgur.com/7qtn7Lj.png"
+    "site_id": "UID2363",
+    "name": "Disc Sc HD",
+    "lang": "nl"
   },
   {
     "site_id": "UID0135",
@@ -1397,11 +1104,616 @@
     "logo": "https://i.imgur.com/E84jnP8.png"
   },
   {
-    "site_id": "UID2055",
-    "name": "Action HD",
+    "site_id": "UID0652",
+    "name": "Pickx+ Sports 2 F",
     "lang": "fr",
-    "xmltv_id": "Action.fr@HD",
-    "logo": "https://i.imgur.com/Zv9VsVq.png"
+    "xmltv_id": "PickxPlusSports2.be@FR",
+    "logo": "https://i.imgur.com/yRRICNh.png"
+  },
+  {
+    "site_id": "UID2341",
+    "name": "Télé Sambre HD",
+    "lang": "fr",
+    "xmltv_id": "Telesambre.be@HD",
+    "logo": "https://i.imgur.com/TuIAkA3.png"
+  },
+  {
+    "site_id": "UID2464",
+    "name": "Dorcel XXX HD",
+    "lang": "en",
+    "xmltv_id": "DorcelXXX.nl@HD",
+    "logo": "https://i.imgur.com/ZwMZEKZ.png"
+  },
+  {
+    "site_id": "UID2487",
+    "name": "Animaux HD",
+    "lang": "fr",
+    "xmltv_id": "Animaux.fr@HD",
+    "logo": "https://i.imgur.com/FM9FVAG.png"
+  },
+  {
+    "site_id": "UID50037",
+    "name": "VRT 1",
+    "lang": "nl",
+    "xmltv_id": "VRT1.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vrt-1-be.png"
+  },
+  {
+    "site_id": "UID50082",
+    "name": "VTM 3",
+    "lang": "nl",
+    "xmltv_id": "VTM3.be@SD",
+    "logo": "https://i.imgur.com/vY6892N.png"
+  },
+  {
+    "site_id": "UID50140",
+    "name": "Télé MB",
+    "lang": "fr",
+    "xmltv_id": "TeleMB.be@SD",
+    "logo": "https://i.imgur.com/XAggjM4.png"
+  },
+  {
+    "site_id": "UID0641",
+    "name": "DAZN 1 N",
+    "lang": "nl",
+    "xmltv_id": "DAZN1.uk@Netherlands",
+    "logo": "https://i.imgur.com/2Z2EmZF.png"
+  },
+  {
+    "site_id": "UID2068",
+    "name": "Comedy Central F",
+    "lang": "fr",
+    "xmltv_id": "ComedyCentral.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
+  },
+  {
+    "site_id": "UID2351",
+    "name": "TF1 Séries Films",
+    "lang": "fr",
+    "xmltv_id": "TF1SeriesFilms.fr@SD",
+    "logo": "https://i.imgur.com/4CJIDKQ.png"
+  },
+  {
+    "site_id": "UID2372",
+    "name": "RAI Due HD",
+    "lang": "fr",
+    "xmltv_id": "Rai2.it@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "UID2488",
+    "name": "Euronews E HD",
+    "lang": "en",
+    "xmltv_id": "EuronewsEnglish.fr@HD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
+  },
+  {
+    "site_id": "UID50018",
+    "name": "Arte",
+    "lang": "fr",
+    "xmltv_id": "arte.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/arte-fr.png"
+  },
+  {
+    "site_id": "UID50129",
+    "name": "TV Oost",
+    "lang": "nl",
+    "xmltv_id": "TVOost.be@SD",
+    "logo": "https://static.tvoost.be/tvoostbe/images/tvoost-logo.png"
+  },
+  {
+    "site_id": "UID50303",
+    "name": "RegInfo F",
+    "lang": "fr",
+    "xmltv_id": "ProximusTVRegInfo.fr@SD",
+    "logo": "https://i.imgur.com/zHzrP3i.png"
+  },
+  {
+    "site_id": "UID0211",
+    "name": "Eclips",
+    "lang": "nl",
+    "xmltv_id": "EclipsTV.be@SD",
+    "logo": "https://i.imgur.com/iqQmBzE.png"
+  },
+  {
+    "site_id": "UID2344",
+    "name": "TV Lux HD",
+    "lang": "fr",
+    "xmltv_id": "TVLux.be@HD",
+    "logo": "https://i.imgur.com/ljbdWkC.png"
+  },
+  {
+    "site_id": "UID2471",
+    "name": "Melody.tv HD",
+    "lang": "fr",
+    "xmltv_id": "Melody.fr@HD",
+    "logo": "https://i.imgur.com/9GVyQ6x.png"
+  },
+  {
+    "site_id": "UID50081",
+    "name": "France 4",
+    "lang": "fr",
+    "xmltv_id": "France4.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-4-fr.png"
+  },
+  {
+    "site_id": "UID50225",
+    "name": "Pickx+ Sports 10 N",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports10.be@NL",
+    "logo": "https://i.imgur.com/0PQvG9P.png"
+  },
+  {
+    "site_id": "UID50302",
+    "name": "La Trois",
+    "lang": "fr",
+    "xmltv_id": "LaTrois.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/la-trois-be.png"
+  },
+  {
+    "site_id": "UID0304",
+    "name": "Ciné+Frisson",
+    "lang": "fr",
+    "xmltv_id": "CinePlusFrisson.fr@SD",
+    "logo": "https://i.imgur.com/MwFtbnR.jpeg"
+  },
+  {
+    "site_id": "UID0651",
+    "name": "Pickx+ Sports 1 F",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports2.be@FR",
+    "logo": "https://i.imgur.com/yRRICNh.png"
+  },
+  {
+    "site_id": "UID0681",
+    "name": "Pickx+ Sports 2 F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports2.be@FRHD",
+    "logo": "https://i.imgur.com/yRRICNh.png"
+  },
+  {
+    "site_id": "UID2131",
+    "name": "DAZN Pro League 1 F",
+    "lang": "fr",
+    "xmltv_id": "DAZNProLeague1.uk@France",
+    "logo": "https://i.imgur.com/ZZw6nwl.png"
+  },
+  {
+    "site_id": "UID50145",
+    "name": "Bouké",
+    "lang": "fr",
+    "xmltv_id": "Bouke.be@SD",
+    "logo": "https://i.imgur.com/STLavel.png"
+  },
+  {
+    "site_id": "UID50251",
+    "name": "Pickx Sports Pop-up F",
+    "lang": "fr",
+    "xmltv_id": "PickxLive.be@FR",
+    "logo": "https://i.imgur.com/olYNKnm.png"
+  },
+  {
+    "site_id": "UID50314",
+    "name": "nick F",
+    "lang": "fr",
+    "xmltv_id": "Nickelodeon.fr@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "UID50334",
+    "name": "La Trois HD",
+    "lang": "fr",
+    "xmltv_id": "LaTrois.be@HD",
+    "logo": "https://i.imgur.com/jMs4h9F.png"
+  },
+  {
+    "site_id": "UID0133",
+    "name": "Mediaset",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID2358",
+    "name": "Eurosp2 HD N",
+    "lang": "nl",
+    "xmltv_id": "Eurosport2.fr@NetherlandsHD",
+    "logo": "https://i.imgur.com/f56dHgR.png"
+  },
+  {
+    "site_id": "UID2373",
+    "name": "RAI Tre HD",
+    "lang": "fr",
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "UID2379",
+    "name": "ZDF HD",
+    "lang": "de",
+    "xmltv_id": "ZDF.de@HD",
+    "logo": "https://i.imgur.com/rtLb6m9.png"
+  },
+  {
+    "site_id": "UID2472",
+    "name": "MTV N HD",
+    "lang": "nl",
+    "xmltv_id": "MTV.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+  },
+  {
+    "site_id": "UID0037",
+    "name": "Dobbit TV N",
+    "lang": "nl",
+    "xmltv_id": "DobbitTV.be@NL",
+    "logo": "https://i.imgur.com/7qtn7Lj.png"
+  },
+  {
+    "site_id": "UID0132",
+    "name": "BBC First",
+    "lang": "nl",
+    "xmltv_id": "BBCFirst.uk@Benelux",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/bbc-first-au.png"
+  },
+  {
+    "site_id": "UID0232",
+    "name": "Njam! HD",
+    "lang": "nl",
+    "xmltv_id": "Njam.be@HD",
+    "logo": "https://i.imgur.com/Cmku7NH.png"
+  },
+  {
+    "site_id": "UID0630",
+    "name": "Pickx+ Sports 1 N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports1.be@NLHD",
+    "logo": "https://i.imgur.com/6Kihf01.png"
+  },
+  {
+    "site_id": "UID2054",
+    "name": "13è Rue HD",
+    "lang": "fr",
+    "xmltv_id": "13emeRue.fr@HD",
+    "logo": "https://i.imgur.com/k0DCMTL.png"
+  },
+  {
+    "site_id": "UID2065",
+    "name": "TV5 Monde HD",
+    "lang": "fr",
+    "xmltv_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD",
+    "logo": "https://i.imgur.com/WmRbudc.png"
+  },
+  {
+    "site_id": "UID2173",
+    "name": "TLC",
+    "lang": "nl",
+    "xmltv_id": "TLC.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/tlc-nl.png"
+  },
+  {
+    "site_id": "UID2219",
+    "name": "Pickx+ N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlus.be@NLHD",
+    "logo": "https://i.imgur.com/fMVlyak.png"
+  },
+  {
+    "site_id": "UID0307",
+    "name": "OUT tv",
+    "lang": "nl",
+    "xmltv_id": "OUTtv.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/out-tv-nl.png"
+  },
+  {
+    "site_id": "UID0626",
+    "name": "Pickx+ Sports 9 N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports9.be@NLHD",
+    "logo": "https://i.imgur.com/IEbFII7.png"
+  },
+  {
+    "site_id": "UID0672",
+    "name": "Pickx+ Sports 9 F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports9.be@FRHD",
+    "logo": "https://i.imgur.com/IEbFII7.png"
+  },
+  {
+    "site_id": "UID50030",
+    "name": "TV5 Monde",
+    "lang": "fr",
+    "xmltv_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tv5-monde-fr.png"
+  },
+  {
+    "site_id": "UID50067",
+    "name": "LCI",
+    "lang": "fr",
+    "xmltv_id": "LCI.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/lci-fr.png"
+  },
+  {
+    "site_id": "UID50089",
+    "name": "France 3",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
+  },
+  {
+    "site_id": "UID50144",
+    "name": "Comedy Central N",
+    "lang": "nl",
+    "xmltv_id": "ComedyCentral.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
+  },
+  {
+    "site_id": "UID50258",
+    "name": "Pickx+ Sports 8 F",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports8.be@FR",
+    "logo": "https://i.imgur.com/GsrIF5W.png"
+  },
+  {
+    "site_id": "UID0301",
+    "name": "Be Ciné",
+    "lang": "fr",
+    "xmltv_id": "BeCine.be@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Be_Cin%C3%A9_logo.png/960px-Be_Cin%C3%A9_logo.png"
+  },
+  {
+    "site_id": "UID0639",
+    "name": "Studio PXS F",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID2059",
+    "name": "Sport 10",
+    "lang": "nl",
+    "xmltv_id": "Sport10.be@SD",
+    "logo": "https://uploads-ssl.webflow.com/614c35e6eb33faf0c3c50d91/614c7bd82fc9a77a279bafb4_Logo%20Sport10%20vector-p-500.png"
+  },
+  {
+    "site_id": "UID2175",
+    "name": "VTM Life",
+    "lang": "nl",
+    "xmltv_id": "VTMLife.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vtm-life-be.png"
+  },
+  {
+    "site_id": "UID2185",
+    "name": "DAZN Pro League 2 N",
+    "lang": "nl",
+    "xmltv_id": "DAZNProLeague2.uk@Netherlands",
+    "logo": "https://i.imgur.com/O1DkKg3.png"
+  },
+  {
+    "site_id": "UID2317",
+    "name": "MyZen.tv",
+    "lang": "fr",
+    "xmltv_id": "MyZenTV.fr@SD",
+    "logo": "https://i.imgur.com/fIi8o0C.png"
+  },
+  {
+    "site_id": "UID2330",
+    "name": "Focus TV HD",
+    "lang": "nl",
+    "xmltv_id": "FocusTV.be@HD",
+    "logo": "https://i.imgur.com/dvZS1Ns.png"
+  },
+  {
+    "site_id": "UID2531",
+    "name": "Studio PXS N",
+    "lang": "nl"
+  },
+  {
+    "site_id": "UID0194",
+    "name": "bel RTL HD",
+    "lang": "fr",
+    "xmltv_id": "BelRTL.be@HD",
+    "logo": "https://i.imgur.com/0DUprIW.png"
+  },
+  {
+    "site_id": "UID0628",
+    "name": "Dusk",
+    "lang": "en",
+    "xmltv_id": "DuskTV.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/dusk-nl.png"
+  },
+  {
+    "site_id": "UID50022",
+    "name": "Cartoon N",
+    "lang": "nl",
+    "xmltv_id": "CartoonNetworkWesternEurope.uk@Netherlands",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "site_id": "UID50040",
+    "name": "VTM",
+    "lang": "nl",
+    "xmltv_id": "VTM.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vtm-be.png"
+  },
+  {
+    "site_id": "UID50053",
+    "name": "Animaux",
+    "lang": "fr",
+    "xmltv_id": "Animaux.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/animaux-fr.png"
+  },
+  {
+    "site_id": "UID50072",
+    "name": "RTL tvi",
+    "lang": "fr",
+    "xmltv_id": "RTLTVI.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/rtl-tvi-be.png"
+  },
+  {
+    "site_id": "UID50112",
+    "name": "Pickx Showcase N",
+    "lang": "nl",
+    "xmltv_id": "PickxLive.be@NL",
+    "logo": "https://i.imgur.com/olYNKnm.png"
+  },
+  {
+    "site_id": "UID50128",
+    "name": "E! N",
+    "lang": "nl",
+    "xmltv_id": "EEurope.nl@SD",
+    "logo": "https://i.imgur.com/TWFDkap.png"
+  },
+  {
+    "site_id": "NETFLIX",
+    "name": "Netflix",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/netflix-int.png"
+  },
+  {
+    "site_id": "UID0023",
+    "name": "NGC Wild N",
+    "lang": "nl",
+    "xmltv_id": "NationalGeographicWild.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
+  },
+  {
+    "site_id": "UID0121",
+    "name": "MaTélé",
+    "lang": "fr",
+    "xmltv_id": "Matele.be@SD",
+    "logo": "https://i.imgur.com/rw72POr.png"
+  },
+  {
+    "site_id": "UID0629",
+    "name": "Pickx Sports Pop-up N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxLive.be@NLHD",
+    "logo": "https://i.imgur.com/olYNKnm.png"
+  },
+  {
+    "site_id": "UID2046",
+    "name": "Test 89",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID50305",
+    "name": "Cartoonito",
+    "lang": "nl",
+    "xmltv_id": "Cartoonito.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/cartoonito-uk.png"
+  },
+  {
+    "site_id": "UID50331",
+    "name": "MTV Hits",
+    "lang": "fr",
+    "xmltv_id": "MTVHits.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/mtv-hits-ar.png"
+  },
+  {
+    "site_id": "DTV29670499",
+    "name": "Maghreb TV",
+    "lang": "fr",
+    "xmltv_id": "MaghrebTV.be@SD",
+    "logo": "https://maghrebtelevision.com/wp-content/uploads/2019/10/logo-plat-MAGHREB-TV-02-.png"
+  },
+  {
+    "site_id": "UID0303",
+    "name": "Ciné+OCS",
+    "lang": "fr",
+    "xmltv_id": "CinePlusOCS.fr@SD",
+    "logo": "https://i.imgur.com/ujin9Uf.png"
+  },
+  {
+    "site_id": "UID0602",
+    "name": "Pickx+ Sports 2 N",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports2.be@NL",
+    "logo": "https://i.imgur.com/yRRICNh.png"
+  },
+  {
+    "site_id": "UID2036",
+    "name": "eng-Titan-VRT",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID2469",
+    "name": "Canal J HD",
+    "lang": "fr",
+    "xmltv_id": "CanalJ.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png"
+  },
+  {
+    "site_id": "UID50017",
+    "name": "Discovery N",
+    "lang": "nl",
+    "xmltv_id": "DiscoveryChannel.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "UID50027",
+    "name": "TVE Int",
+    "lang": "fr",
+    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png"
+  },
+  {
+    "site_id": "UID50068",
+    "name": "TF1",
+    "lang": "fr",
+    "xmltv_id": "TF1.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tf1-fr.png"
+  },
+  {
+    "site_id": "UID2040",
+    "name": "E! HD F",
+    "lang": "fr",
+    "xmltv_id": "E.fr@HD",
+    "logo": "https://i.imgur.com/TWFDkap.png"
+  },
+  {
+    "site_id": "UID2042",
+    "name": "Disn Ch HD F",
+    "lang": "fr",
+    "xmltv_id": "DisneyChannel.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+  },
+  {
+    "site_id": "UID50097",
+    "name": "TCM cinéma",
+    "lang": "fr",
+    "xmltv_id": "TCMCinema.fr@SD",
+    "logo": "https://i.imgur.com/fT4XxM6.png"
+  },
+  {
+    "site_id": "UID50157",
+    "name": "Melody.tv",
+    "lang": "fr",
+    "xmltv_id": "Melody.fr@SD",
+    "logo": "https://i.imgur.com/9GVyQ6x.png"
+  },
+  {
+    "site_id": "UID50168",
+    "name": "MTV 80s",
+    "lang": "en",
+    "xmltv_id": "MTV80s.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/mtv-80s-uk.png"
+  },
+  {
+    "site_id": "UID50290",
+    "name": "Pickx+ Sports 7 N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports7.be@NLHD",
+    "logo": "https://i.imgur.com/HsbelA0.png"
+  },
+  {
+    "site_id": "UID50306",
+    "name": "VRT Canvas HD",
+    "lang": "nl",
+    "xmltv_id": "VRTCanvas.be@HD",
+    "logo": "https://i.imgur.com/nMQE1jh.png"
+  },
+  {
+    "site_id": "UID2073",
+    "name": "VTM 4 HD",
+    "lang": "nl",
+    "xmltv_id": "VTM4.be@HD",
+    "logo": "https://i.imgur.com/vabFMLq.png"
   },
   {
     "site_id": "UID2160",
@@ -1416,422 +1728,11 @@
     "logo": "https://i.imgur.com/0OkSa6c.png"
   },
   {
-    "site_id": "UID2353",
-    "name": "Q-Music Kijk Live",
-    "lang": "nl",
-    "xmltv_id": "QMusic.be@SD",
-    "logo": "https://i.imgur.com/VX5e9Xt.png"
-  },
-  {
-    "site_id": "UID2364",
-    "name": "Inv Disc HD",
-    "lang": "nl",
-    "xmltv_id": "InvestigationDiscovery.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "UID2370",
-    "name": "History HD",
-    "lang": "nl",
-    "xmltv_id": "History.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
-  },
-  {
-    "site_id": "UID0082",
-    "name": "Pickx+ N HD",
-    "lang": "nl",
-    "xmltv_id": "PickxPlus.be@NLHD",
-    "logo": "https://i.imgur.com/fMVlyak.png"
-  },
-  {
-    "site_id": "UID0631",
-    "name": "Pickx+ Sports 2 N HD",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports2.be@NLHD",
-    "logo": "https://i.imgur.com/yRRICNh.png"
-  },
-  {
-    "site_id": "UID2131",
-    "name": "DAZN Pro League 1 F",
+    "site_id": "UID2378",
+    "name": "Mangas HD",
     "lang": "fr",
-    "xmltv_id": "DAZNProLeague1.uk@France",
-    "logo": "https://i.imgur.com/ZZw6nwl.png"
-  },
-  {
-    "site_id": "UID2187",
-    "name": "DAZN Pro League 3 F",
-    "lang": "fr",
-    "xmltv_id": "DAZNProLeague3.uk@France",
-    "logo": "https://i.imgur.com/4H7cI2X.png"
-  },
-  {
-    "site_id": "UID50032",
-    "name": "CNN",
-    "lang": "en",
-    "xmltv_id": "CNNInternational.us@MENA",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "UID50066",
-    "name": "Play5",
-    "lang": "nl",
-    "xmltv_id": "Play5.be@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Play5_2021.svg/960px-Play5_2021.svg.png"
-  },
-  {
-    "site_id": "UID50102",
-    "name": "Sc et Vie TV",
-    "lang": "fr",
-    "xmltv_id": "ScienceVieTV.fr@SD",
-    "logo": "https://i.imgur.com/9ELsSMI.png"
-  },
-  {
-    "site_id": "UID50113",
-    "name": "Pickx Showcase F",
-    "lang": "fr",
-    "xmltv_id": "PickxLive.be@FR",
-    "logo": "https://i.imgur.com/olYNKnm.png"
-  },
-  {
-    "site_id": "UID0030",
-    "name": "ZDF",
-    "lang": "de",
-    "xmltv_id": "ZDF.de@SD",
-    "logo": "https://i.imgur.com/rtLb6m9.png"
-  },
-  {
-    "site_id": "UID0239",
-    "name": "arte HD",
-    "lang": "fr",
-    "xmltv_id": "arte.fr@HD",
-    "logo": "https://i.imgur.com/ecXMjNl.png"
-  },
-  {
-    "site_id": "UID0680",
-    "name": "Pickx+ Sports 1 F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports1.be@FRHD",
-    "logo": "https://i.imgur.com/6Kihf01.png"
-  },
-  {
-    "site_id": "UID50045",
-    "name": "Mangas",
-    "lang": "fr",
-    "xmltv_id": "Mangas.fr@SD",
+    "xmltv_id": "Mangas.fr@HD",
     "logo": "https://i.imgur.com/wmmEOza.png"
-  },
-  {
-    "site_id": "UID50077",
-    "name": "Eurosp F",
-    "lang": "fr",
-    "xmltv_id": "Eurosport1.fr@France",
-    "logo": "https://i.imgur.com/olQJgm7.png"
-  },
-  {
-    "site_id": "UID50154",
-    "name": "History",
-    "lang": "nl",
-    "xmltv_id": "History.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
-  },
-  {
-    "site_id": "UID50301",
-    "name": "VTM 4",
-    "lang": "nl",
-    "xmltv_id": "VTM4.be@SD",
-    "logo": "https://i.imgur.com/vabFMLq.png"
-  },
-  {
-    "site_id": "UID0655",
-    "name": "Pickx+ Sports 5 F",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports5.be@FR",
-    "logo": "https://i.imgur.com/9aTP1JE.png"
-  },
-  {
-    "site_id": "UID0698",
-    "name": "DAZN 3 N HD",
-    "lang": "nl",
-    "xmltv_id": "DAZN3.uk@NetherlandsHD",
-    "logo": "https://i.imgur.com/2rXsq2m.png"
-  },
-  {
-    "site_id": "UID2328",
-    "name": "Bouké HD",
-    "lang": "fr",
-    "xmltv_id": "Bouke.be@HD",
-    "logo": "https://i.imgur.com/STLavel.png"
-  },
-  {
-    "site_id": "UID2475",
-    "name": "Al Jazeera HD",
-    "lang": "fr",
-    "xmltv_id": "AlJazeera.qa@EnglishHD",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
-  },
-  {
-    "site_id": "UID50269",
-    "name": "Eurosp2 N",
-    "lang": "nl",
-    "xmltv_id": "Eurosport2.fr@Netherlands",
-    "logo": "https://i.imgur.com/f56dHgR.png"
-  },
-  {
-    "site_id": "UID58335",
-    "name": "BRF TV",
-    "lang": "de",
-    "xmltv_id": "BRFTV.be",
-    "logo": "https://i.imgur.com/2guROV2.jpeg"
-  },
-  {
-    "site_id": "UID0062",
-    "name": "Plattelands",
-    "lang": "nl",
-    "xmltv_id": "PlattelandsTV.be@SD",
-    "logo": "https://i.imgur.com/QZwCtvY.png"
-  },
-  {
-    "site_id": "UID0313",
-    "name": "VTM Gold",
-    "lang": "nl",
-    "xmltv_id": "VTMGold.be@SD",
-    "logo": "https://i.imgur.com/HF49zV1.png"
-  },
-  {
-    "site_id": "UID2036",
-    "name": "eng-Titan-VRT",
-    "lang": "fr"
-  },
-  {
-    "site_id": "UID2320",
-    "name": "Museum TV",
-    "lang": "fr",
-    "xmltv_id": "MuseumTVFrench.fr@SD",
-    "logo": "https://i.imgur.com/WbjURLo.png"
-  },
-  {
-    "site_id": "UID50133",
-    "name": "RTV Mech",
-    "lang": "nl",
-    "xmltv_id": "RTVMech.be@SD",
-    "logo": "https://i.imgur.com/eaGNzwB.png"
-  },
-  {
-    "site_id": "UID50137",
-    "name": "Disney Jr. F",
-    "lang": "fr",
-    "xmltv_id": "DisneyJr.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
-  },
-  {
-    "site_id": "UID50164",
-    "name": "KTO",
-    "lang": "fr",
-    "xmltv_id": "KTO.fr@SD",
-    "logo": "https://i.imgur.com/EY6TsdV.png"
-  },
-  {
-    "site_id": "UID0043",
-    "name": "Dobbit TV F",
-    "lang": "fr",
-    "xmltv_id": "DobbitTV.be@FR",
-    "logo": "https://i.imgur.com/7qtn7Lj.png"
-  },
-  {
-    "site_id": "UID2073",
-    "name": "VTM 4 HD",
-    "lang": "nl",
-    "xmltv_id": "VTM4.be@HD",
-    "logo": "https://i.imgur.com/vabFMLq.png"
-  },
-  {
-    "site_id": "UID2276",
-    "name": "TMC HD",
-    "lang": "fr",
-    "xmltv_id": "TMC.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png"
-  },
-  {
-    "site_id": "UID2347",
-    "name": "WTV HD",
-    "lang": "nl",
-    "xmltv_id": "WTV.be@HD",
-    "logo": "https://i.imgur.com/wvKe8mi.png"
-  },
-  {
-    "site_id": "UID2356",
-    "name": "BBC Two HD",
-    "lang": "en",
-    "xmltv_id": "BBCTwo.uk@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"
-  },
-  {
-    "site_id": "UID50087",
-    "name": "NGC N",
-    "lang": "nl",
-    "xmltv_id": "NationalGeographic.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
-  },
-  {
-    "site_id": "UID0246",
-    "name": "Animal Pl HD",
-    "lang": "nl",
-    "xmltv_id": "AnimalPlanet.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
-  },
-  {
-    "site_id": "UID0629",
-    "name": "Pickx Sports Pop-up N HD",
-    "lang": "nl",
-    "xmltv_id": "PickxLive.be@NLHD",
-    "logo": "https://i.imgur.com/olYNKnm.png"
-  },
-  {
-    "site_id": "UID2361",
-    "name": "Cartoon F HD",
-    "lang": "fr",
-    "xmltv_id": "CartoonNetworkCEE.uk@FranceHD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "UID2374",
-    "name": "Dobbit N HD",
-    "lang": "nl",
-    "xmltv_id": "DobbitTV.be@NLHD",
-    "logo": "https://i.imgur.com/7qtn7Lj.png"
-  },
-  {
-    "site_id": "UID2476",
-    "name": "AUTOMOTO HD",
-    "lang": "fr",
-    "xmltv_id": "Automotolachaine.fr@HD",
-    "logo": "https://i.imgur.com/ebf2uc7.png"
-  },
-  {
-    "site_id": "UID50048",
-    "name": "RAI Uno",
-    "lang": "fr",
-    "xmltv_id": "Rai1.it@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "UID50079",
-    "name": "NPO 3",
-    "lang": "nl",
-    "xmltv_id": "NPO3.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/960px-NPO_3_logo_2018.svg.png"
-  },
-  {
-    "site_id": "UID50201",
-    "name": "Sport 10 HD",
-    "lang": "nl",
-    "xmltv_id": "Sport10.be@HD",
-    "logo": "https://uploads-ssl.webflow.com/614c35e6eb33faf0c3c50d91/614c7bd82fc9a77a279bafb4_Logo%20Sport10%20vector-p-500.png"
-  },
-  {
-    "site_id": "UID2043",
-    "name": "Disn Ch HD N",
-    "lang": "nl",
-    "xmltv_id": "DisneyChannel.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "site_id": "UID50117",
-    "name": "AVS Gent",
-    "lang": "nl",
-    "xmltv_id": "AVSGent.be@SD",
-    "logo": "https://i.imgur.com/FNeO9vH.png"
-  },
-  {
-    "site_id": "UID0232",
-    "name": "Njam! HD",
-    "lang": "nl",
-    "xmltv_id": "Njam.be@HD",
-    "logo": "https://i.imgur.com/Cmku7NH.png"
-  },
-  {
-    "site_id": "UID0248",
-    "name": "Ketnet HD",
-    "lang": "nl",
-    "xmltv_id": "Ketnet.be@HD",
-    "logo": "https://i.imgur.com/Q4vI453.png"
-  },
-  {
-    "site_id": "UID0081",
-    "name": "Pickx+ F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlus.be@FRHD",
-    "logo": "https://i.imgur.com/fMVlyak.png"
-  },
-  {
-    "site_id": "UID2045",
-    "name": "2M Monde",
-    "lang": "fr",
-    "xmltv_id": "2MMonde.ma@SD",
-    "logo": "https://i.imgur.com/MvpntzA.png"
-  },
-  {
-    "site_id": "UID2323",
-    "name": "AVS HD",
-    "lang": "nl",
-    "xmltv_id": "AVS.be@HD",
-    "logo": "https://i.imgur.com/1KgbE5R.png"
-  },
-  {
-    "site_id": "UID2368",
-    "name": "Sc et Vie TV HD",
-    "lang": "fr",
-    "xmltv_id": "ScienceVieTV.fr@HD",
-    "logo": "https://i.imgur.com/9ELsSMI.png"
-  },
-  {
-    "site_id": "UID50083",
-    "name": "Play4",
-    "lang": "nl",
-    "xmltv_id": "Play4.be@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Play4_2021.svg/960px-Play4_2021.svg.png"
-  },
-  {
-    "site_id": "UID50319",
-    "name": "Ment TV",
-    "lang": "nl",
-    "xmltv_id": "MentTV.be@SD",
-    "logo": "https://i.imgur.com/l93sduH.png"
-  },
-  {
-    "site_id": "UID0047",
-    "name": "TIPIK HD",
-    "lang": "fr",
-    "xmltv_id": "Tipik.be@HD",
-    "logo": "https://i.imgur.com/LKLjnrp.png"
-  },
-  {
-    "site_id": "UID0602",
-    "name": "Pickx+ Sports 2 N",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports2.be@NL",
-    "logo": "https://i.imgur.com/yRRICNh.png"
-  },
-  {
-    "site_id": "UID0656",
-    "name": "Pickx+ Sports 6 F",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports6.be@FR",
-    "logo": "https://i.imgur.com/OJZ4hyw.png"
-  },
-  {
-    "site_id": "UID2330",
-    "name": "Focus TV HD",
-    "lang": "nl",
-    "xmltv_id": "FocusTV.be@HD",
-    "logo": "https://i.imgur.com/dvZS1Ns.png"
-  },
-  {
-    "site_id": "UID2372",
-    "name": "RAI Due HD",
-    "lang": "fr",
-    "xmltv_id": "Rai2.it@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png"
   },
   {
     "site_id": "UID2468",
@@ -1841,463 +1742,46 @@
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669893cbac4421ebc53368b/images/logo_20231219_223537_68.png"
   },
   {
-    "site_id": "UID50023",
-    "name": "TREK",
+    "site_id": "UID50289",
+    "name": "Pickx+ Sports 7 F HD",
     "lang": "fr",
-    "xmltv_id": "Trek.fr@SD",
-    "logo": "https://i.imgur.com/TcF53W4.png"
-  },
-  {
-    "site_id": "UID50026",
-    "name": "RTL plug",
-    "lang": "fr",
-    "xmltv_id": "RTLPlug.be@SD",
-    "logo": "https://i.imgur.com/RAq9eby.png"
-  },
-  {
-    "site_id": "UID0643",
-    "name": "DAZN 2 N",
-    "lang": "nl",
-    "xmltv_id": "DAZN2.uk@Netherlands",
-    "logo": "https://i.imgur.com/OGj3qf5.png"
-  },
-  {
-    "site_id": "UID2183",
-    "name": "DAZN Pro League 2 F",
-    "lang": "fr",
-    "xmltv_id": "DAZNProLeague2.uk@France",
-    "logo": "https://i.imgur.com/O1DkKg3.png"
-  },
-  {
-    "site_id": "UID2339",
-    "name": "RTV Mech HD",
-    "lang": "nl",
-    "xmltv_id": "RTVMech.be@HD",
-    "logo": "https://i.imgur.com/eaGNzwB.png"
-  },
-  {
-    "site_id": "UID2379",
-    "name": "ZDF HD",
-    "lang": "de",
-    "xmltv_id": "ZDF.de@HD",
-    "logo": "https://i.imgur.com/rtLb6m9.png"
-  },
-  {
-    "site_id": "UID2479",
-    "name": "Baby TV F HD",
-    "lang": "fr",
-    "xmltv_id": "BabyTV.uk@FranceHD",
-    "logo": "https://i.imgur.com/4BDJ5FT.png"
-  },
-  {
-    "site_id": "UID2482",
-    "name": "RTL Deutschland HD",
-    "lang": "de",
-    "xmltv_id": "RTL.de@HD",
-    "logo": "https://i.imgur.com/94K94k2.png"
-  },
-  {
-    "site_id": "UID50024",
-    "name": "Disn Ch F",
-    "lang": "fr",
-    "xmltv_id": "DisneyChannel.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "site_id": "UID50059",
-    "name": "TIPIK",
-    "lang": "fr",
-    "xmltv_id": "Tipik.be@SD",
-    "logo": "https://i.imgur.com/LKLjnrp.png"
-  },
-  {
-    "site_id": "UID0042",
-    "name": "Pickx+ N",
-    "lang": "nl",
-    "xmltv_id": "PickxPlus.be@NL",
-    "logo": "https://i.imgur.com/fMVlyak.png"
-  },
-  {
-    "site_id": "UID0304",
-    "name": "Ciné+Frisson",
-    "lang": "fr",
-    "xmltv_id": "CinePlusFrisson.fr@SD",
-    "logo": "https://i.imgur.com/MwFtbnR.jpeg"
-  },
-  {
-    "site_id": "UID0601",
-    "name": "Pickx+ Sports 1 N",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports1.be@NL",
-    "logo": "https://i.imgur.com/6Kihf01.png"
-  },
-  {
-    "site_id": "UID2478",
-    "name": "RFM TV HD",
-    "lang": "fr",
-    "xmltv_id": "RFMTV.fr@HD",
-    "logo": "https://i.imgur.com/FVDTJxW.png"
-  },
-  {
-    "site_id": "UID50084",
-    "name": "VRT Canvas",
-    "lang": "nl",
-    "xmltv_id": "VRTCanvas.be@SD",
-    "logo": "https://i.imgur.com/nMQE1jh.png"
-  },
-  {
-    "site_id": "UID50085",
-    "name": "Euronews E",
-    "lang": "en",
-    "xmltv_id": "EuronewsEnglish.fr@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
-  },
-  {
-    "site_id": "UID50129",
-    "name": "TV Oost",
-    "lang": "nl",
-    "xmltv_id": "TVOost.be@SD",
-    "logo": "https://static.tvoost.be/tvoostbe/images/tvoost-logo.png"
-  },
-  {
-    "site_id": "UID50208",
-    "name": "VRT 1 HD",
-    "lang": "nl",
-    "xmltv_id": "VRT1.be@HD",
-    "logo": "https://i.imgur.com/wPAGbNb.png"
-  },
-  {
-    "site_id": "UID0674",
-    "name": "Pickx+ Sports 10 F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports10.be@FRHD",
-    "logo": "https://i.imgur.com/0PQvG9P.png"
-  },
-  {
-    "site_id": "UID2469",
-    "name": "Canal J HD",
-    "lang": "fr",
-    "xmltv_id": "CanalJ.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png"
-  },
-  {
-    "site_id": "UID50251",
-    "name": "Pickx Sports Pop-up F",
-    "lang": "fr",
-    "xmltv_id": "PickxLive.be@FR",
-    "logo": "https://i.imgur.com/olYNKnm.png"
-  },
-  {
-    "site_id": "UID50295",
-    "name": "BBC Two",
-    "lang": "en",
-    "xmltv_id": "BBCTwo.uk@England",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"
-  },
-  {
-    "site_id": "UID50306",
-    "name": "VRT Canvas HD",
-    "lang": "nl",
-    "xmltv_id": "VRTCanvas.be@HD",
-    "logo": "https://i.imgur.com/nMQE1jh.png"
-  },
-  {
-    "site_id": "UID29769866",
-    "name": "Quatre",
-    "lang": "fr",
-    "xmltv_id": "QU4TRELiegeMedia.be@SD",
-    "logo": "https://i.imgur.com/GHFuvmZ.png"
-  },
-  {
-    "site_id": "UID0118",
-    "name": "Vedia",
-    "lang": "fr",
-    "xmltv_id": "Vedia.be@SD",
-    "logo": "https://i.imgur.com/7LnH6yu.png"
-  },
-  {
-    "site_id": "UID2184",
-    "name": "DAZN Pro League 2 N HD",
-    "lang": "nl",
-    "xmltv_id": "DAZNProLeague2.uk@NetherlandsHD",
-    "logo": "https://i.imgur.com/O1DkKg3.png"
-  },
-  {
-    "site_id": "UID50011",
-    "name": "Baby TV F",
-    "lang": "fr",
-    "xmltv_id": "BabyTV.uk@France",
-    "logo": "https://i.imgur.com/4BDJ5FT.png"
-  },
-  {
-    "site_id": "UID50041",
-    "name": "ABXPLORE",
-    "lang": "fr",
-    "xmltv_id": "ABXplore.be@SD",
-    "logo": "https://i.imgur.com/Z7bCdz9.png"
-  },
-  {
-    "site_id": "UID50067",
-    "name": "LCI",
-    "lang": "fr",
-    "xmltv_id": "LCI.fr@SD",
-    "logo": "https://i.imgur.com/DED8EXs.png"
-  },
-  {
-    "site_id": "UID50219",
-    "name": "Pickx+ Sports 7 N",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports7.be@NL",
+    "xmltv_id": "PickxPlusSports7.be@FRHD",
     "logo": "https://i.imgur.com/HsbelA0.png"
   },
   {
-    "site_id": "UID0625",
-    "name": "Pickx+ Sports 8 N HD",
+    "site_id": "UID0234",
+    "name": "Njam!",
     "lang": "nl",
-    "xmltv_id": "PickxPlusSports8.be@NLHD",
-    "logo": "https://i.imgur.com/GsrIF5W.png"
+    "xmltv_id": "Njam.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/njam-be.png"
   },
   {
-    "site_id": "UID0652",
-    "name": "Pickx+ Sports 2 F",
+    "site_id": "UID0646",
+    "name": "DAZN 2 F HD",
     "lang": "fr",
-    "xmltv_id": "PickxPlusSports2.be@FR",
-    "logo": "https://i.imgur.com/yRRICNh.png"
-  },
-  {
-    "site_id": "UID50073",
-    "name": "France 24 F",
-    "lang": "fr",
-    "xmltv_id": "France24.fr@French",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "UID50209",
-    "name": "RTL club HD",
-    "lang": "fr",
-    "xmltv_id": "RTLClub.be@HD",
-    "logo": "https://i.imgur.com/CcSd0Uk.png"
-  },
-  {
-    "site_id": "UID0682",
-    "name": "Pickx+ Sports 3 F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports3.be@FRHD",
-    "logo": "https://i.imgur.com/iqMXHDz.png"
-  },
-  {
-    "site_id": "UID0634",
-    "name": "Pickx+ Sports 5 N HD",
-    "lang": "nl",
-    "xmltv_id": "PickxPlusSports5.be@NLHD",
-    "logo": "https://i.imgur.com/9aTP1JE.png"
-  },
-  {
-    "site_id": "UID2060",
-    "name": "Gulli HD",
-    "lang": "fr",
-    "xmltv_id": "Gulli.fr@HD",
-    "logo": "https://i.imgur.com/kqYssbW.png"
-  },
-  {
-    "site_id": "UID2185",
-    "name": "DAZN Pro League 2 N",
-    "lang": "nl",
-    "xmltv_id": "DAZNProLeague2.uk@Netherlands",
-    "logo": "https://i.imgur.com/O1DkKg3.png"
-  },
-  {
-    "site_id": "UID2465",
-    "name": "Passie XXX HD",
-    "lang": "nl",
-    "xmltv_id": "PassieXXX.nl@HD",
-    "logo": "https://i.imgur.com/0tI5p44.png"
-  },
-  {
-    "site_id": "UID50110",
-    "name": "13è Rue",
-    "lang": "fr",
-    "xmltv_id": "13emeRue.fr@SD",
-    "logo": "https://i.imgur.com/k0DCMTL.png"
-  },
-  {
-    "site_id": "UID50310",
-    "name": "Ketnet",
-    "lang": "nl",
-    "xmltv_id": "Ketnet.be@SD",
-    "logo": "https://i.imgur.com/Q4vI453.png"
-  },
-  {
-    "site_id": "UID50315",
-    "name": "MTV Live HD",
-    "lang": "en",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
-  },
-  {
-    "site_id": "UID2218",
-    "name": "Pickx+ F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlus.be@FRHD",
-    "logo": "https://i.imgur.com/fMVlyak.png"
-  },
-  {
-    "site_id": "UID2480",
-    "name": "Baby TV N HD",
-    "lang": "nl",
-    "xmltv_id": "BabyTV.uk@NetherlandsHD",
-    "logo": "https://i.imgur.com/4BDJ5FT.png"
-  },
-  {
-    "site_id": "UID0091",
-    "name": "Disc HD F",
-    "lang": "fr",
-    "xmltv_id": "DiscoveryChannel.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "UID2041",
-    "name": "E! HD N",
-    "lang": "nl",
-    "xmltv_id": "EEurope.nl@HD",
-    "logo": "https://i.imgur.com/TWFDkap.png"
-  },
-  {
-    "site_id": "UID2130",
-    "name": "DAZN Pro League 1 F HD",
-    "lang": "fr",
-    "xmltv_id": "DAZNProLeague1.uk@FranceHD",
-    "logo": "https://i.imgur.com/ZZw6nwl.png"
-  },
-  {
-    "site_id": "UID2334",
-    "name": "ROBTV HD",
-    "lang": "nl",
-    "xmltv_id": "ROBTV.be@HD",
-    "logo": "https://i.imgur.com/HHDUnow.png"
-  },
-  {
-    "site_id": "UID2344",
-    "name": "TV Lux HD",
-    "lang": "fr",
-    "xmltv_id": "TVLux.be@HD",
-    "logo": "https://i.imgur.com/ljbdWkC.png"
-  },
-  {
-    "site_id": "UID50014",
-    "name": "ContactV",
-    "lang": "fr",
-    "xmltv_id": "RadioContact.be@SD",
-    "logo": "https://i.imgur.com/32mmGvB.png"
-  },
-  {
-    "site_id": "UID50212",
-    "name": "Eurosp HD F",
-    "lang": "fr"
-  },
-  {
-    "site_id": "UID0647",
-    "name": "DAZN 2 N HD",
-    "lang": "nl",
-    "xmltv_id": "DAZN2.uk@NetherlandsHD",
+    "xmltv_id": "DAZN2.uk@FranceHD",
     "logo": "https://i.imgur.com/OGj3qf5.png"
   },
   {
-    "site_id": "UID0685",
-    "name": "Pickx+ Sports 6 F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports6.be@FRHD",
-    "logo": "https://i.imgur.com/OJZ4hyw.png"
-  },
-  {
-    "site_id": "UID2042",
-    "name": "Disn Ch HD F",
-    "lang": "fr",
-    "xmltv_id": "DisneyChannel.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "site_id": "UID2341",
-    "name": "Télé Sambre HD",
-    "lang": "fr",
-    "xmltv_id": "Telesambre.be@HD",
-    "logo": "https://i.imgur.com/TuIAkA3.png"
-  },
-  {
-    "site_id": "UID2350",
-    "name": "INPLUS",
+    "site_id": "UID50034",
+    "name": "Kanaal Z",
     "lang": "nl",
-    "xmltv_id": "InsightTV.nl@SD",
-    "logo": "https://i.imgur.com/7xmaoL0.png"
+    "xmltv_id": "KanaalZ.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/kanaal-z-be.png"
   },
   {
-    "site_id": "UID50030",
-    "name": "TV5 Monde",
-    "lang": "fr",
-    "xmltv_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD",
-    "logo": "https://i.imgur.com/WmRbudc.png"
-  },
-  {
-    "site_id": "UID50072",
-    "name": "RTL tvi",
-    "lang": "fr",
-    "xmltv_id": "RTLTVI.be@SD",
-    "logo": "https://i.imgur.com/2CimAAN.png"
-  },
-  {
-    "site_id": "UID50132",
-    "name": "RTV Kempen O",
+    "site_id": "UID50115",
+    "name": "Focus TV",
     "lang": "nl",
-    "xmltv_id": "RTVKempen.be@SD",
-    "logo": "https://i.imgur.com/eaGNzwB.png"
+    "xmltv_id": "FocusTV.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/focus-tv-be.png"
   },
   {
-    "site_id": "UID0120",
-    "name": "TV Lux",
-    "lang": "fr",
-    "xmltv_id": "TVLux.be@SD",
-    "logo": "https://i.imgur.com/ljbdWkC.png"
-  },
-  {
-    "site_id": "UID50089",
-    "name": "France 3",
-    "lang": "fr",
-    "xmltv_id": "France3.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/France_3_Rh%C3%B4ne-Alpes_-_Logo_2018.svg"
-  },
-  {
-    "site_id": "UID50151",
-    "name": "Passie XXX",
+    "site_id": "UID0039",
+    "name": "VTM 2 HD",
     "lang": "nl",
-    "xmltv_id": "PassieXXX.nl@SD",
-    "logo": "https://i.imgur.com/0tI5p44.png"
-  },
-  {
-    "site_id": "UID50231",
-    "name": "Pickx+ Sports 10 F",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports10.be@FR",
-    "logo": "https://i.imgur.com/0PQvG9P.png"
-  },
-  {
-    "site_id": "UID50258",
-    "name": "Pickx+ Sports 8 F",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports8.be@FR",
-    "logo": "https://i.imgur.com/GsrIF5W.png"
-  },
-  {
-    "site_id": "UID0084",
-    "name": "AB3 HD",
-    "lang": "fr",
-    "xmltv_id": "AB3.be@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AB3_2025.svg/960px-AB3_2025.svg.png"
-  },
-  {
-    "site_id": "UID0309",
-    "name": "France 4 HD",
-    "lang": "fr",
-    "xmltv_id": "France4.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png"
+    "xmltv_id": "VTM2.be@HD",
+    "logo": "https://i.imgur.com/kYBHMlw.png"
   },
   {
     "site_id": "UID2051",
@@ -2307,32 +1791,142 @@
     "logo": "https://i.imgur.com/O8W4yhn.png"
   },
   {
-    "site_id": "UID2068",
-    "name": "Comedy Central F",
-    "lang": "fr",
-    "xmltv_id": "ComedyCentral.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
-  },
-  {
-    "site_id": "UID50080",
-    "name": "NPO 2",
+    "site_id": "UID2189",
+    "name": "DAZN Pro League 3 N",
     "lang": "nl",
-    "xmltv_id": "NPO2.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/960px-NPO_2_logo_2014.svg.png"
+    "xmltv_id": "DAZNProLeague3.uk@Netherlands",
+    "logo": "https://i.imgur.com/4H7cI2X.png"
   },
   {
-    "site_id": "UID50145",
-    "name": "Bouké",
+    "site_id": "UID2346",
+    "name": "Védia HD",
     "lang": "fr",
-    "xmltv_id": "Bouke.be@SD",
-    "logo": "https://i.imgur.com/STLavel.png"
+    "xmltv_id": "Vedia.be@HD",
+    "logo": "https://i.imgur.com/7LnH6yu.png"
   },
   {
-    "site_id": "UID50303",
-    "name": "RegInfo F",
+    "site_id": "UID50190",
+    "name": "TF1 HD",
     "lang": "fr",
-    "xmltv_id": "ProximusTVRegInfo.fr@SD",
-    "logo": "https://i.imgur.com/zHzrP3i.png"
+    "xmltv_id": "TF1.fr@HD",
+    "logo": "https://i.imgur.com/QxHt9NC.png"
+  },
+  {
+    "site_id": "UID29769866",
+    "name": "Quatre",
+    "lang": "fr",
+    "xmltv_id": "QU4TRELiegeMedia.be@SD",
+    "logo": "https://i.imgur.com/GHFuvmZ.png"
+  },
+  {
+    "site_id": "UID2322",
+    "name": "ATV HD",
+    "lang": "nl",
+    "xmltv_id": "ATV.be@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png"
+  },
+  {
+    "site_id": "UID50116",
+    "name": "ATV",
+    "lang": "nl",
+    "xmltv_id": "ATV.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/atv-be.png"
+  },
+  {
+    "site_id": "UID2047",
+    "name": "VTM Life HD",
+    "lang": "nl",
+    "xmltv_id": "VTMLife.be@HD",
+    "logo": "https://i.imgur.com/32xlsUg.png"
+  },
+  {
+    "site_id": "UID2060",
+    "name": "Gulli HD",
+    "lang": "fr",
+    "xmltv_id": "Gulli.fr@HD",
+    "logo": "https://i.imgur.com/kqYssbW.png"
+  },
+  {
+    "site_id": "UID2478",
+    "name": "RFM TV HD",
+    "lang": "fr",
+    "xmltv_id": "RFMTV.fr@HD",
+    "logo": "https://i.imgur.com/FVDTJxW.png"
+  },
+  {
+    "site_id": "UID50117",
+    "name": "AVS Gent",
+    "lang": "nl",
+    "xmltv_id": "AVSGent.be@SD",
+    "logo": "https://i.imgur.com/FNeO9vH.png"
+  },
+  {
+    "site_id": "UID0246",
+    "name": "Animal Pl HD",
+    "lang": "nl",
+    "xmltv_id": "AnimalPlanet.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+  },
+  {
+    "site_id": "UID0631",
+    "name": "Pickx+ Sports 2 N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports2.be@NLHD",
+    "logo": "https://i.imgur.com/yRRICNh.png"
+  },
+  {
+    "site_id": "UID2130",
+    "name": "DAZN Pro League 1 F HD",
+    "lang": "fr",
+    "xmltv_id": "DAZNProLeague1.uk@FranceHD",
+    "logo": "https://i.imgur.com/ZZw6nwl.png"
+  },
+  {
+    "site_id": "UID2477",
+    "name": "AMTV HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID50213",
+    "name": "Pickx Sports Pop-up N",
+    "lang": "nl",
+    "xmltv_id": "PickxLive.be@NL",
+    "logo": "https://i.imgur.com/olYNKnm.png"
+  },
+  {
+    "site_id": "UID2187",
+    "name": "DAZN Pro League 3 F",
+    "lang": "fr",
+    "xmltv_id": "DAZNProLeague3.uk@France",
+    "logo": "https://i.imgur.com/4H7cI2X.png"
+  },
+  {
+    "site_id": "UID2335",
+    "name": "Quatre HD",
+    "lang": "fr",
+    "xmltv_id": "QU4TRELiegeMedia.be@HD",
+    "logo": "https://i.imgur.com/GHFuvmZ.png"
+  },
+  {
+    "site_id": "UID2480",
+    "name": "Baby TV N HD",
+    "lang": "nl",
+    "xmltv_id": "BabyTV.uk@NetherlandsHD",
+    "logo": "https://i.imgur.com/4BDJ5FT.png"
+  },
+  {
+    "site_id": "UID50066",
+    "name": "Play5",
+    "lang": "nl",
+    "xmltv_id": "Play5.be@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Play5_2021.svg/960px-Play5_2021.svg.png"
+  },
+  {
+    "site_id": "UID0047",
+    "name": "TIPIK HD",
+    "lang": "fr",
+    "xmltv_id": "Tipik.be@HD",
+    "logo": "https://i.imgur.com/LKLjnrp.png"
   },
   {
     "site_id": "UID0117",
@@ -2342,218 +1936,52 @@
     "logo": "https://i.imgur.com/TuIAkA3.png"
   },
   {
-    "site_id": "UID0231",
-    "name": "ABXPLO HD",
+    "site_id": "UID0119",
+    "name": "TV Com",
     "lang": "fr",
-    "xmltv_id": "ABXplore.be@HD",
-    "logo": "https://i.imgur.com/Z7bCdz9.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/tv-com-be.png"
   },
   {
-    "site_id": "UID2474",
-    "name": "Al Aoula HD",
-    "lang": "fr",
-    "xmltv_id": "AlAoula.ma@HD",
-    "logo": "https://i.imgur.com/nq53d2N.png"
-  },
-  {
-    "site_id": "UID50031",
-    "name": "FashionTV",
-    "lang": "en",
-    "xmltv_id": "FashionTVEurope.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"
-  },
-  {
-    "site_id": "UID50165",
-    "name": "nick Toons",
+    "site_id": "UID0313",
+    "name": "VTM Gold",
     "lang": "nl",
-    "xmltv_id": "Nicktoons.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
+    "xmltv_id": "VTMGold.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vtm-gold-be.png"
   },
   {
-    "site_id": "UID0041",
-    "name": "Pickx+ F",
-    "lang": "fr",
-    "xmltv_id": "PickxPlus.be@FR",
-    "logo": "https://i.imgur.com/fMVlyak.png"
-  },
-  {
-    "site_id": "UID2067",
-    "name": "Motorvision+ HD",
-    "lang": "en",
-    "xmltv_id": "Motorvision.de@HD",
-    "logo": "https://i.imgur.com/v4kj8pI.png"
-  },
-  {
-    "site_id": "UID2217",
-    "name": "Pickx+ Sports 1 N HD",
+    "site_id": "UID2041",
+    "name": "E! HD N",
     "lang": "nl",
-    "xmltv_id": "PickxPlusSports1.be@NLHD",
+    "xmltv_id": "EEurope.nl@HD",
+    "logo": "https://i.imgur.com/TWFDkap.png"
+  },
+  {
+    "site_id": "UID2216",
+    "name": "Pickx+ Sports 1 F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports1.be@FRHD",
     "logo": "https://i.imgur.com/6Kihf01.png"
   },
   {
-    "site_id": "UID2329",
-    "name": "Canal Zoom HD",
+    "site_id": "UID2321",
+    "name": "Antenne Centre HD",
     "lang": "fr",
-    "xmltv_id": "CanalZoom.be@HD",
-    "logo": "https://i.imgur.com/JUNP8Rx.png"
+    "xmltv_id": "ACTV.be@HD",
+    "logo": "https://files.catbox.moe/8v2y8m.png"
   },
   {
-    "site_id": "UID2531",
-    "name": "Studio PXS N",
-    "lang": "nl"
-  },
-  {
-    "site_id": "UID50142",
-    "name": "MTV F",
-    "lang": "fr",
-    "xmltv_id": "MTV.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
-  },
-  {
-    "site_id": "UID0024",
-    "name": "Das Erste",
-    "lang": "de",
-    "xmltv_id": "DasErste.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"
-  },
-  {
-    "site_id": "UID0106",
-    "name": "RTL plug HD",
-    "lang": "fr",
-    "xmltv_id": "RTLPlug.be@HD",
-    "logo": "https://i.imgur.com/RAq9eby.png"
-  },
-  {
-    "site_id": "UID2373",
-    "name": "RAI Tre HD",
-    "lang": "fr",
-    "xmltv_id": "Rai3.it@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "UID50025",
-    "name": "Ushuaïa",
-    "lang": "fr",
-    "xmltv_id": "UshuaiaTV.fr@SD",
-    "logo": "https://i.imgur.com/WjjlqbP.png"
-  },
-  {
-    "site_id": "UID50058",
-    "name": "AB3",
-    "lang": "fr",
-    "xmltv_id": "AB3.be@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AB3_2025.svg/960px-AB3_2025.svg.png"
-  },
-  {
-    "site_id": "UID50331",
-    "name": "MTV Hits",
-    "lang": "fr",
-    "xmltv_id": "MTVHits.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/960px-MTV_Hits_2021.svg.png"
-  },
-  {
-    "site_id": "UID0461",
-    "name": "Penthouse Gold",
-    "lang": "en",
-    "xmltv_id": "PenthouseGold.us@SD",
-    "logo": "https://i.imgur.com/0JufwBJ.png"
-  },
-  {
-    "site_id": "UID0626",
-    "name": "Pickx+ Sports 9 N HD",
+    "site_id": "UID50133",
+    "name": "RTV Mech",
     "lang": "nl",
-    "xmltv_id": "PickxPlusSports9.be@NLHD",
-    "logo": "https://i.imgur.com/IEbFII7.png"
+    "xmltv_id": "RTVMech.be@SD",
+    "logo": "https://i.imgur.com/eaGNzwB.png"
   },
   {
-    "site_id": "UID0635",
-    "name": "Pickx+ Sports 6 N HD",
+    "site_id": "UID0080",
+    "name": "Disney Jr. N",
     "lang": "nl",
-    "xmltv_id": "PickxPlusSports6.be@NLHD",
-    "logo": "https://i.imgur.com/OJZ4hyw.png"
-  },
-  {
-    "site_id": "UID2069",
-    "name": "Paramount Channel",
-    "lang": "fr",
-    "xmltv_id": "ParamountChannel.fr@SD",
-    "logo": "https://i.imgur.com/BqmDlC2.png"
-  },
-  {
-    "site_id": "UID2173",
-    "name": "TLC",
-    "lang": "nl",
-    "xmltv_id": "TLC.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
-  },
-  {
-    "site_id": "UID50153",
-    "name": "nick jr N",
-    "lang": "nl",
-    "xmltv_id": "NickJr.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "UID0258",
-    "name": "NPO 3 HD",
-    "lang": "nl",
-    "xmltv_id": "NPO3.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/960px-NPO_3_logo_2018.svg.png"
-  },
-  {
-    "site_id": "UID2181",
-    "name": "DAZN Pro League 1 N",
-    "lang": "nl",
-    "xmltv_id": "DAZNProLeague1.uk@Netherlands",
-    "logo": "https://i.imgur.com/ZZw6nwl.png"
-  },
-  {
-    "site_id": "UID2210",
-    "name": "RTL",
-    "lang": "de",
-    "xmltv_id": "RTL.de@SD",
-    "logo": "https://i.imgur.com/94K94k2.png"
-  },
-  {
-    "site_id": "UID2472",
-    "name": "MTV N HD",
-    "lang": "nl",
-    "xmltv_id": "MTV.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
-  },
-  {
-    "site_id": "UID50053",
-    "name": "Animaux",
-    "lang": "fr",
-    "xmltv_id": "Animaux.fr@SD",
-    "logo": "https://i.imgur.com/FM9FVAG.png"
-  },
-  {
-    "site_id": "UID50065",
-    "name": "NGC F",
-    "lang": "fr",
-    "xmltv_id": "NationalGeographic.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
-  },
-  {
-    "site_id": "NETFLIX",
-    "name": "Netflix",
-    "lang": "en",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/netflix-int.png"
-  },
-  {
-    "site_id": "UID0257",
-    "name": "NPO 2 HD",
-    "lang": "nl",
-    "xmltv_id": "NPO2.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/960px-NPO_2_logo_2014.svg.png"
-  },
-  {
-    "site_id": "UID2049",
-    "name": "Kanaal Z HD",
-    "lang": "nl",
-    "xmltv_id": "KanaalZ.be@HD",
-    "logo": "https://i.imgur.com/YzgYJxM.png"
+    "xmltv_id": "DisneyJunior.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
   },
   {
     "site_id": "UID2061",
@@ -2563,18 +1991,116 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
   },
   {
-    "site_id": "UID2189",
-    "name": "DAZN Pro League 3 N",
-    "lang": "nl",
-    "xmltv_id": "DAZNProLeague3.uk@Netherlands",
-    "logo": "https://i.imgur.com/4H7cI2X.png"
+    "site_id": "UID2320",
+    "name": "Museum TV",
+    "lang": "fr",
+    "xmltv_id": "MuseumTVFrench.fr@SD",
+    "logo": "https://i.imgur.com/WbjURLo.png"
   },
   {
-    "site_id": "UID2319",
-    "name": "Pickx+ N HD",
+    "site_id": "UID2359",
+    "name": "Boom F HD",
+    "lang": "fr",
+    "xmltv_id": "Boomerang.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png"
+  },
+  {
+    "site_id": "UID2368",
+    "name": "Sc et Vie TV HD",
+    "lang": "fr",
+    "xmltv_id": "ScienceVieTV.fr@HD",
+    "logo": "https://i.imgur.com/9ELsSMI.png"
+  },
+  {
+    "site_id": "UID50031",
+    "name": "FashionTV",
+    "lang": "en",
+    "xmltv_id": "FashionTVEurope.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"
+  },
+  {
+    "site_id": "UID50135",
+    "name": "Ring TV",
     "lang": "nl",
-    "xmltv_id": "PickxPlus.be@NLHD",
-    "logo": "https://i.imgur.com/fMVlyak.png"
+    "xmltv_id": "RingTV.be@SD",
+    "logo": "https://i.imgur.com/9GraHlr.png"
+  },
+  {
+    "site_id": "UID50199",
+    "name": "Disc HD N",
+    "lang": "nl",
+    "xmltv_id": "DiscoveryChannel.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "UID2067",
+    "name": "Motorvision+ HD",
+    "lang": "en",
+    "xmltv_id": "Motorvision.de@HD",
+    "logo": "https://i.imgur.com/v4kj8pI.png"
+  },
+  {
+    "site_id": "UID50014",
+    "name": "ContactV",
+    "lang": "fr",
+    "xmltv_id": "RadioContact.be@SD",
+    "logo": "https://i.imgur.com/32mmGvB.png"
+  },
+  {
+    "site_id": "UID50038",
+    "name": "France 5",
+    "lang": "fr",
+    "xmltv_id": "France5.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-5-fr.png"
+  },
+  {
+    "site_id": "UID50058",
+    "name": "AB3",
+    "lang": "fr",
+    "xmltv_id": "AB3.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/ab3-fr.png"
+  },
+  {
+    "site_id": "UID50079",
+    "name": "NPO 3",
+    "lang": "nl",
+    "xmltv_id": "NPO3.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/960px-NPO_3_logo_2018.svg.png"
+  },
+  {
+    "site_id": "UID50094",
+    "name": "Eurosp N",
+    "lang": "nl",
+    "xmltv_id": "Eurosport1.fr@Netherlands",
+    "logo": "https://i.imgur.com/olQJgm7.png"
+  },
+  {
+    "site_id": "UID0248",
+    "name": "Ketnet HD",
+    "lang": "nl",
+    "xmltv_id": "Ketnet.be@HD",
+    "logo": "https://i.imgur.com/Q4vI453.png"
+  },
+  {
+    "site_id": "UID0258",
+    "name": "NPO 3 HD",
+    "lang": "nl",
+    "xmltv_id": "NPO3.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/960px-NPO_3_logo_2018.svg.png"
+  },
+  {
+    "site_id": "UID2360",
+    "name": "Cartoonito HD",
+    "lang": "nl",
+    "xmltv_id": "Cartoonito.uk@HD",
+    "logo": "https://i.imgur.com/B29D2s1.png"
+  },
+  {
+    "site_id": "UID50084",
+    "name": "VRT Canvas",
+    "lang": "nl",
+    "xmltv_id": "VRTCanvas.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vrt-canvas-be.png"
   },
   {
     "site_id": "UID50092",
@@ -2584,65 +2110,422 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
   },
   {
-    "site_id": "UID50109",
-    "name": "E! F",
+    "site_id": "UID50113",
+    "name": "Pickx Showcase F",
     "lang": "fr",
-    "xmltv_id": "E.fr@SD",
-    "logo": "https://i.imgur.com/TWFDkap.png"
+    "xmltv_id": "PickxLive.be@FR",
+    "logo": "https://i.imgur.com/olYNKnm.png"
   },
   {
-    "site_id": "UID0133",
-    "name": "Mediaset",
-    "lang": "fr"
-  },
-  {
-    "site_id": "UID0630",
-    "name": "Pickx+ Sports 1 N HD",
+    "site_id": "UID50230",
+    "name": "Pickx+ Sports 8 N",
     "lang": "nl",
-    "xmltv_id": "PickxPlusSports1.be@NLHD",
-    "logo": "https://i.imgur.com/6Kihf01.png"
+    "xmltv_id": "PickxPlusSports8.be@NL",
+    "logo": "https://i.imgur.com/GsrIF5W.png"
   },
   {
-    "site_id": "UID0648",
-    "name": "DAZN 3 F",
+    "site_id": "UID0043",
+    "name": "Dobbit TV F",
     "lang": "fr",
-    "xmltv_id": "DAZN3.uk@France",
-    "logo": "https://i.imgur.com/2rXsq2m.png"
+    "xmltv_id": "DobbitTV.be@FR",
+    "logo": "https://i.imgur.com/7qtn7Lj.png"
   },
   {
-    "site_id": "UID2120",
-    "name": "Play4 HD",
+    "site_id": "UID0300",
+    "name": "Be1",
+    "lang": "fr",
+    "xmltv_id": "Be1.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/be1-be.png"
+  },
+  {
+    "site_id": "UID0644",
+    "name": "DAZN 1 F HD",
+    "lang": "fr",
+    "xmltv_id": "DAZN1.uk@FranceHD",
+    "logo": "https://i.imgur.com/2Z2EmZF.png"
+  },
+  {
+    "site_id": "UID0647",
+    "name": "DAZN 2 N HD",
     "lang": "nl",
-    "xmltv_id": "Play4.be@HD",
+    "xmltv_id": "DAZN2.uk@NetherlandsHD",
+    "logo": "https://i.imgur.com/OGj3qf5.png"
+  },
+  {
+    "site_id": "UID0682",
+    "name": "Pickx+ Sports 3 F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports3.be@FRHD",
+    "logo": "https://i.imgur.com/iqMXHDz.png"
+  },
+  {
+    "site_id": "UID2293",
+    "name": "Play7 HD",
+    "lang": "nl",
+    "xmltv_id": "Play7.be@HD",
+    "logo": "https://i.imgur.com/BSnof2S.png"
+  },
+  {
+    "site_id": "UID50025",
+    "name": "Ushuaïa",
+    "lang": "fr",
+    "xmltv_id": "UshuaiaTV.fr@SD",
+    "logo": "https://i.imgur.com/WjjlqbP.png"
+  },
+  {
+    "site_id": "UID50083",
+    "name": "Play4",
+    "lang": "nl",
+    "xmltv_id": "Play4.be@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Play4_2021.svg/960px-Play4_2021.svg.png"
   },
   {
-    "site_id": "UID2464",
-    "name": "Dorcel XXX HD",
+    "site_id": "UID0308",
+    "name": "France 3 HD",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/France_3_Rh%C3%B4ne-Alpes_-_Logo_2018.svg"
+  },
+  {
+    "site_id": "UID2052",
+    "name": "TCM Cinéma HD",
+    "lang": "fr",
+    "xmltv_id": "TCMCinema.fr@HD",
+    "logo": "https://i.imgur.com/fT4XxM6.png"
+  },
+  {
+    "site_id": "UID2362",
+    "name": "Cartoon N HD",
+    "lang": "nl",
+    "xmltv_id": "CartoonNetworkWesternEurope.uk@NetherlandsHD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "site_id": "UID2483",
+    "name": "TVE International HD",
+    "lang": "fr",
+    "xmltv_id": "TVEInternacionalEuropeAsia.es@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png"
+  },
+  {
+    "site_id": "UID50045",
+    "name": "Mangas",
+    "lang": "fr",
+    "xmltv_id": "Mangas.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mangas-fr.png"
+  },
+  {
+    "site_id": "UID50111",
+    "name": "AUTOMOTO",
+    "lang": "fr",
+    "xmltv_id": "Automotolachaine.fr@SD",
+    "logo": "https://i.imgur.com/ebf2uc7.png"
+  },
+  {
+    "site_id": "UID50114",
+    "name": "WTV",
+    "lang": "nl",
+    "xmltv_id": "WTV.be@SD",
+    "logo": "https://i.imgur.com/wvKe8mi.png"
+  },
+  {
+    "site_id": "UID50137",
+    "name": "Disney Jr. F",
+    "lang": "fr",
+    "xmltv_id": "DisneyJr.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
+  },
+  {
+    "site_id": "UID2039",
+    "name": "Test 976",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID2353",
+    "name": "Q-Music Kijk Live",
+    "lang": "nl",
+    "xmltv_id": "QMusic.be@SD",
+    "logo": "https://i.imgur.com/VX5e9Xt.png"
+  },
+  {
+    "site_id": "UID50132",
+    "name": "RTV Kempen O",
+    "lang": "nl",
+    "xmltv_id": "RTVKempen.be@SD",
+    "logo": "https://i.imgur.com/eaGNzwB.png"
+  },
+  {
+    "site_id": "UID50165",
+    "name": "nick Toons",
+    "lang": "nl",
+    "xmltv_id": "Nicktoons.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/nick-toons-nl.png"
+  },
+  {
+    "site_id": "UID50257",
+    "name": "Pickx+ Sports 7 F",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports7.be@FR",
+    "logo": "https://i.imgur.com/HsbelA0.png"
+  },
+  {
+    "site_id": "UID0081",
+    "name": "Pickx+ F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxPlus.be@FRHD",
+    "logo": "https://i.imgur.com/fMVlyak.png"
+  },
+  {
+    "site_id": "UID2056",
+    "name": "CNN HD",
+    "lang": "en"
+  },
+  {
+    "site_id": "UID2333",
+    "name": "Ring TV HD",
+    "lang": "nl",
+    "xmltv_id": "RingTV.be@HD",
+    "logo": "https://i.imgur.com/9GraHlr.png"
+  },
+  {
+    "site_id": "UID50013",
+    "name": "Histoire",
+    "lang": "fr",
+    "xmltv_id": "HistoireTV.fr@SD",
+    "logo": "https://i.imgur.com/hxuJXll.png"
+  },
+  {
+    "site_id": "UID50141",
+    "name": "Al Aoula",
+    "lang": "fr",
+    "xmltv_id": "AlAoula.ma@SD",
+    "logo": "https://i.imgur.com/nq53d2N.png"
+  },
+  {
+    "site_id": "UID50211",
+    "name": "France 2 HD",
+    "lang": "fr",
+    "xmltv_id": "France2.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png"
+  },
+  {
+    "site_id": "UID50231",
+    "name": "Pickx+ Sports 10 F",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports10.be@FR",
+    "logo": "https://i.imgur.com/0PQvG9P.png"
+  },
+  {
+    "site_id": "UID50295",
+    "name": "BBC Two",
     "lang": "en",
-    "xmltv_id": "DorcelXXX.nl@HD",
-    "logo": "https://i.imgur.com/ZwMZEKZ.png"
+    "xmltv_id": "BBCTwo.uk@England",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
   },
   {
-    "site_id": "UID50020",
-    "name": "RAI Tre",
+    "site_id": "UID0309",
+    "name": "France 4 HD",
     "lang": "fr",
-    "xmltv_id": "Rai3.it@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png"
+    "xmltv_id": "France4.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png"
   },
   {
-    "site_id": "UID50068",
-    "name": "TF1",
-    "lang": "fr",
-    "xmltv_id": "TF1.fr@SD",
-    "logo": "https://i.imgur.com/QxHt9NC.png"
+    "site_id": "UID0632",
+    "name": "Pickx+ Sports 3 N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports3.be@NLHD",
+    "logo": "https://i.imgur.com/iqMXHDz.png"
   },
   {
-    "site_id": "UID50162",
-    "name": "Al Jazeera",
+    "site_id": "UID2033",
+    "name": "ST100TV HD N",
+    "lang": "nl"
+  },
+  {
+    "site_id": "UID2326",
+    "name": "BRUZZ HD",
+    "lang": "nl",
+    "xmltv_id": "Bruzz.be@HD",
+    "logo": "https://i.imgur.com/OYlYidF.png"
+  },
+  {
+    "site_id": "UID50026",
+    "name": "RTL plug",
     "lang": "fr",
-    "xmltv_id": "AlJazeera.qa@English",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+    "xmltv_id": "RTLPlug.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/rtl-plug-be.png"
+  },
+  {
+    "site_id": "UID0653",
+    "name": "Pickx+ Sports 3 F",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports3.be@FR",
+    "logo": "https://i.imgur.com/iqMXHDz.png"
+  },
+  {
+    "site_id": "UID2370",
+    "name": "History HD",
+    "lang": "nl",
+    "xmltv_id": "History.nl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/history-hd-ca.png"
+  },
+  {
+    "site_id": "UID2371",
+    "name": "RAI Uno HD",
+    "lang": "fr",
+    "xmltv_id": "Rai1.it@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "UID0643",
+    "name": "DAZN 2 N",
+    "lang": "nl",
+    "xmltv_id": "DAZN2.uk@Netherlands",
+    "logo": "https://i.imgur.com/OGj3qf5.png"
+  },
+  {
+    "site_id": "UID2070",
+    "name": "nick jr F",
+    "lang": "fr",
+    "xmltv_id": "NickelodeonJunior.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png"
+  },
+  {
+    "site_id": "UID2355",
+    "name": "BBC One HD",
+    "lang": "en",
+    "xmltv_id": "BBCOne.uk@London"
+  },
+  {
+    "site_id": "UID2369",
+    "name": "Histoire HD",
+    "lang": "fr",
+    "xmltv_id": "HistoireTV.fr@HD",
+    "logo": "https://i.imgur.com/hxuJXll.png"
+  },
+  {
+    "site_id": "UID50088",
+    "name": "France 2",
+    "lang": "fr",
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
+  },
+  {
+    "site_id": "UID0189",
+    "name": "Crime District",
+    "lang": "fr",
+    "xmltv_id": "CrimeDistrict.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/crime-district-fr.png"
+  },
+  {
+    "site_id": "UID0680",
+    "name": "Pickx+ Sports 1 F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxPlusSports1.be@FRHD",
+    "logo": "https://i.imgur.com/6Kihf01.png"
+  },
+  {
+    "site_id": "UID58335",
+    "name": "BRF TV",
+    "lang": "de",
+    "xmltv_id": "BRFTV.be",
+    "logo": "https://i.imgur.com/2guROV2.jpeg"
+  },
+  {
+    "site_id": "UID0096",
+    "name": "DRS Test",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID0118",
+    "name": "Vedia",
+    "lang": "fr",
+    "xmltv_id": "Vedia.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vedia-be.png"
+  },
+  {
+    "site_id": "UID0601",
+    "name": "Pickx+ Sports 1 N",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports1.be@NL",
+    "logo": "https://i.imgur.com/6Kihf01.png"
+  },
+  {
+    "site_id": "UID2066",
+    "name": "Game One",
+    "lang": "fr",
+    "xmltv_id": "GameOne.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/game-one-fr.png"
+  },
+  {
+    "site_id": "UID2476",
+    "name": "AUTOMOTO HD",
+    "lang": "fr",
+    "xmltv_id": "Automotolachaine.fr@HD",
+    "logo": "https://i.imgur.com/ebf2uc7.png"
+  },
+  {
+    "site_id": "UID0022",
+    "name": "NGC Wild F",
+    "lang": "fr",
+    "xmltv_id": "NationalGeographicWild.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
+  },
+  {
+    "site_id": "UID0025",
+    "name": "TIPIK vision",
+    "lang": "fr",
+    "xmltv_id": "TipikVision.be@SD",
+    "logo": "https://i.imgur.com/4ncmNHF.png"
+  },
+  {
+    "site_id": "UID0062",
+    "name": "Plattelands",
+    "lang": "nl",
+    "xmltv_id": "PlattelandsTV.be@SD",
+    "logo": "https://i.imgur.com/QZwCtvY.png"
+  },
+  {
+    "site_id": "UID0302",
+    "name": "Be Séries",
+    "lang": "fr",
+    "xmltv_id": "BeSeries.be@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bc/Be_S%C3%A9ries_logo.png/960px-Be_S%C3%A9ries_logo.png"
+  },
+  {
+    "site_id": "UID2050",
+    "name": "Canal Z HD",
+    "lang": "fr",
+    "xmltv_id": "CanalZ.be@HD",
+    "logo": "https://i.imgur.com/qtiGLzZ.png"
+  },
+  {
+    "site_id": "UID2367",
+    "name": "Disney Jr. F HD",
+    "lang": "fr",
+    "xmltv_id": "DisneyJr.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
+  },
+  {
+    "site_id": "UID50039",
+    "name": "nick N",
+    "lang": "nl",
+    "xmltv_id": "Nickelodeon.nl@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "UID50151",
+    "name": "Passie XXX",
+    "lang": "nl",
+    "xmltv_id": "PassieXXX.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/passie-xxx-nl.png"
+  },
+  {
+    "site_id": "UID0091",
+    "name": "Disc HD F",
+    "lang": "fr",
+    "xmltv_id": "DiscoveryChannel.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
   },
   {
     "site_id": "UID0155",
@@ -2652,100 +2535,107 @@
     "logo": "https://i.imgur.com/vY6892N.png"
   },
   {
-    "site_id": "UID0683",
-    "name": "Pickx+ Sports 4 F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports4.be@FRHD",
-    "logo": "https://i.imgur.com/3FkKcZy.png"
+    "site_id": "UID0256",
+    "name": "NPO 1 HD",
+    "lang": "nl",
+    "xmltv_id": "NPO1.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/960px-NPO_1_logo_2014.svg.png"
   },
   {
-    "site_id": "UID0684",
-    "name": "Pickx+ Sports 5 F HD",
+    "site_id": "UID0310",
+    "name": "France 5 HD",
     "lang": "fr",
-    "xmltv_id": "PickxPlusSports5.be@FRHD",
-    "logo": "https://i.imgur.com/9aTP1JE.png"
-  },
-  {
-    "site_id": "UID2470",
-    "name": "Fashion TV HD",
-    "lang": "en",
-    "xmltv_id": "FashionTVEurope.fr@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"
-  },
-  {
-    "site_id": "UID50038",
-    "name": "France 5",
-    "lang": "fr",
-    "xmltv_id": "France5.fr@SD",
+    "xmltv_id": "France5.fr@HD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png"
   },
   {
-    "site_id": "UID50309",
-    "name": "RegInfo N",
+    "site_id": "UID0606",
+    "name": "Pickx+ Sports 6 N",
     "lang": "nl",
-    "xmltv_id": "ProximusTVRegInfo.nl@SD",
-    "logo": "https://i.imgur.com/zHzrP3i.png"
+    "xmltv_id": "PickxPlusSports6.be@NL",
+    "logo": "https://i.imgur.com/OJZ4hyw.png"
   },
   {
-    "site_id": "UID50314",
-    "name": "nick F",
-    "lang": "fr",
-    "xmltv_id": "Nickelodeon.fr@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
-  },
-  {
-    "site_id": "UID0305",
-    "name": "Ciné+Classic",
-    "lang": "fr",
-    "xmltv_id": "CinePlusClassic.be@SD",
-    "logo": "https://i.imgur.com/c71R04L.png"
-  },
-  {
-    "site_id": "UID0681",
-    "name": "Pickx+ Sports 2 F HD",
-    "lang": "fr",
-    "xmltv_id": "PickxPlusSports2.be@FRHD",
-    "logo": "https://i.imgur.com/yRRICNh.png"
-  },
-  {
-    "site_id": "UID2065",
-    "name": "TV5 Monde HD",
-    "lang": "fr",
-    "xmltv_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD",
-    "logo": "https://i.imgur.com/WmRbudc.png"
-  },
-  {
-    "site_id": "UID2540",
-    "name": "Play Crime HD",
+    "site_id": "UID2034",
+    "name": "ST100TV N",
     "lang": "nl"
   },
   {
-    "site_id": "UID50082",
-    "name": "VTM 3",
+    "site_id": "UID2323",
+    "name": "AVS HD",
     "lang": "nl",
-    "xmltv_id": "VTM3.be@SD",
-    "logo": "https://i.imgur.com/vY6892N.png"
+    "xmltv_id": "AVS.be@HD",
+    "logo": "https://i.imgur.com/1KgbE5R.png"
   },
   {
-    "site_id": "UID50121",
-    "name": "ROB TV",
-    "lang": "nl",
-    "xmltv_id": "ROBTV.be@SD",
-    "logo": "https://i.imgur.com/HHDUnow.png"
+    "site_id": "UID50032",
+    "name": "CNN",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnn-us.png"
   },
   {
-    "site_id": "UID50144",
-    "name": "Comedy Central N",
+    "site_id": "UID0257",
+    "name": "NPO 2 HD",
     "lang": "nl",
-    "xmltv_id": "ComedyCentral.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
+    "xmltv_id": "NPO2.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/960px-NPO_2_logo_2014.svg.png"
   },
   {
-    "site_id": "UID50302",
-    "name": "La Trois",
+    "site_id": "UID0625",
+    "name": "Pickx+ Sports 8 N HD",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports8.be@NLHD",
+    "logo": "https://i.imgur.com/GsrIF5W.png"
+  },
+  {
+    "site_id": "UID0654",
+    "name": "Pickx+ Sports 4 F",
     "lang": "fr",
-    "xmltv_id": "LaTrois.be@SD",
-    "logo": "https://i.imgur.com/jMs4h9F.png"
+    "xmltv_id": "PickxPlusSports4.be@FR",
+    "logo": "https://i.imgur.com/3FkKcZy.png"
+  },
+  {
+    "site_id": "UID2045",
+    "name": "2M Monde",
+    "lang": "fr",
+    "xmltv_id": "2MMonde.ma@SD",
+    "logo": "https://i.imgur.com/MvpntzA.png"
+  },
+  {
+    "site_id": "UID2071",
+    "name": "Pickx Showcase F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxLive.be@FRHD",
+    "logo": "https://i.imgur.com/olYNKnm.png"
+  },
+  {
+    "site_id": "UID2218",
+    "name": "Pickx+ F HD",
+    "lang": "fr",
+    "xmltv_id": "PickxPlus.be@FRHD",
+    "logo": "https://i.imgur.com/fMVlyak.png"
+  },
+  {
+    "site_id": "UID2467",
+    "name": "Tiji HD",
+    "lang": "fr",
+    "xmltv_id": "TiJi.fr@HD",
+    "logo": "https://i.imgur.com/ZjsfAGb.png"
+  },
+  {
+    "site_id": "UID50019",
+    "name": "Action",
+    "lang": "fr",
+    "xmltv_id": "Action.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/action-fr.png"
+  },
+  {
+    "site_id": "UID0146",
+    "name": "Play6",
+    "lang": "nl",
+    "xmltv_id": "Play6.be@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Play6_2021.svg/960px-Play6_2021.svg.png"
   },
   {
     "site_id": "UID0642",
@@ -2755,24 +2645,137 @@
     "logo": "https://i.imgur.com/OGj3qf5.png"
   },
   {
-    "site_id": "UID1102",
-    "name": "Vlaamsparlement.tv",
-    "lang": "nl",
-    "xmltv_id": "VlaamsParlementTV.be@SD",
-    "logo": "https://i.imgur.com/cNqJhv9.png"
+    "site_id": "UID2356",
+    "name": "BBC Two HD",
+    "lang": "en",
+    "xmltv_id": "BBCTwo.uk@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"
   },
   {
-    "site_id": "UID50040",
-    "name": "VTM",
-    "lang": "nl",
-    "xmltv_id": "VTM.be@SD",
-    "logo": "https://i.imgur.com/N3nwyDd.png"
-  },
-  {
-    "site_id": "UID50136",
-    "name": "No Télé",
+    "site_id": "UID2475",
+    "name": "Al Jazeera HD",
     "lang": "fr",
-    "xmltv_id": "Notele.be@SD",
-    "logo": "https://i.imgur.com/fGS55nR.png"
+    "xmltv_id": "AlJazeera.qa@EnglishHD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+  },
+  {
+    "site_id": "UID50085",
+    "name": "Euronews E",
+    "lang": "en",
+    "xmltv_id": "EuronewsEnglish.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
+  },
+  {
+    "site_id": "UID50143",
+    "name": "MTV N",
+    "lang": "nl",
+    "xmltv_id": "MTV.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+  },
+  {
+    "site_id": "UID50212",
+    "name": "Eurosp HD F",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID50219",
+    "name": "Pickx+ Sports 7 N",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports7.be@NL",
+    "logo": "https://i.imgur.com/HsbelA0.png"
+  },
+  {
+    "site_id": "UID0154",
+    "name": "Euronews F",
+    "lang": "fr",
+    "xmltv_id": "EuronewsFrench.fr@SD",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/29d2a047-b486-4123-8642-45fe71d022fe/Logo_Euronews_stacked_white_on_french_1500x1000.png"
+  },
+  {
+    "site_id": "UID0605",
+    "name": "Pickx+ Sports 5 N",
+    "lang": "nl",
+    "xmltv_id": "PickxPlusSports5.be@NL",
+    "logo": "https://i.imgur.com/9aTP1JE.png"
+  },
+  {
+    "site_id": "UID0640",
+    "name": "DAZN 1 F",
+    "lang": "fr",
+    "xmltv_id": "DAZN1.uk@France",
+    "logo": "https://i.imgur.com/2Z2EmZF.png"
+  },
+  {
+    "site_id": "UID0648",
+    "name": "DAZN 3 F",
+    "lang": "fr",
+    "xmltv_id": "DAZN3.uk@France",
+    "logo": "https://i.imgur.com/2rXsq2m.png"
+  },
+  {
+    "site_id": "UID2342",
+    "name": "TV Com HD",
+    "lang": "fr"
+  },
+  {
+    "site_id": "UID2470",
+    "name": "Fashion TV HD",
+    "lang": "en",
+    "xmltv_id": "FashionTVEurope.fr@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"
+  },
+  {
+    "site_id": "UID50065",
+    "name": "NGC F",
+    "lang": "fr",
+    "xmltv_id": "NationalGeographic.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+  },
+  {
+    "site_id": "UID50090",
+    "name": "Eurosp2 F",
+    "lang": "fr",
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://i.imgur.com/f56dHgR.png"
+  },
+  {
+    "site_id": "UID2069",
+    "name": "Paramount Channel",
+    "lang": "fr",
+    "xmltv_id": "ParamountChannel.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/paramount-channel-fr.png"
+  },
+  {
+    "site_id": "UID2540",
+    "name": "Play Crime HD",
+    "lang": "nl"
+  },
+  {
+    "site_id": "UID50035",
+    "name": "Canal Z",
+    "lang": "fr",
+    "xmltv_id": "CanalZ.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/canal-z-be.png"
+  },
+  {
+    "site_id": "UID50048",
+    "name": "RAI Uno",
+    "lang": "fr",
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "UID50201",
+    "name": "Sport 10 HD",
+    "lang": "nl",
+    "xmltv_id": "Sport10.be@HD",
+    "logo": "https://uploads-ssl.webflow.com/614c35e6eb33faf0c3c50d91/614c7bd82fc9a77a279bafb4_Logo%20Sport10%20vector-p-500.png"
+  },
+  {
+    "site_id": "UID50208",
+    "name": "VRT 1 HD",
+    "lang": "nl",
+    "xmltv_id": "VRT1.be@HD",
+    "logo": "https://i.imgur.com/wPAGbNb.png"
   }
 ]
