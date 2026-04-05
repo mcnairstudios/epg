@@ -1,44 +1,47 @@
 [
   {
+    "site_id": "ECA",
+    "name": "eClutch Access​",
+    "lang": "ar",
+    "region": "AR"
+  },
+  {
+    "site_id": "MOT",
+    "name": "Motorvision",
+    "lang": "ar",
+    "region": "AR",
+    "logo": "https://i.imgur.com/v4kj8pI.png"
+  },
+  {
+    "site_id": "YAW",
+    "name": "Alfa Al Yawm",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "AlYawm.ae@SD",
+    "logo": "https://i.imgur.com/0HYTK6w.png"
+  },
+  {
+    "site_id": "HI2",
+    "name": "H2 HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "History2MiddleEast.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
+  },
+  {
+    "site_id": "OFH",
+    "name": "OSNtv Showcase",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "OSNShowcase.ae@SD",
+    "logo": "https://i.imgur.com/o43yDem.png"
+  },
+  {
     "site_id": "SER",
     "name": "Alfa Series Channel",
     "lang": "ar",
     "region": "AR",
     "xmltv_id": "AlfaSeries.ae@Plus2",
-    "logo": "https://i.imgur.com/x0LkZql.png"
-  },
-  {
-    "site_id": "OST",
-    "name": "OSNtv Showcase Classics",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "OPR",
-    "name": "OSNtv Movies Hollywood",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "OSNMoviesHollywood.ae@SD",
-    "logo": "https://i.imgur.com/ygywH3O.png"
-  },
-  {
-    "site_id": "BLO",
-    "name": "Bloomberg Originals HD",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "ECL",
-    "name": "eClutch LIVE 1",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "SE2",
-    "name": "Alfa Series +2",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "AlfaSeries.ae@SD",
     "logo": "https://i.imgur.com/x0LkZql.png"
   },
   {
@@ -50,158 +53,10 @@
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png"
   },
   {
-    "site_id": "ECA",
-    "name": "eClutch Access​",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "SER",
-    "name": "Alfa Series Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AlfaSeries.ae@Plus2",
-    "logo": "https://i.imgur.com/x0LkZql.png"
-  },
-  {
-    "site_id": "COG",
-    "name": "Cinema One Global",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CinemaOneGlobal.ph@SD",
-    "logo": "https://i.imgur.com/zN8mfDR.png"
-  },
-  {
-    "site_id": "DWR",
-    "name": "DWRR 101.9",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "MBU",
-    "name": "Moonbug Kids",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "MoonbugKids.uk@SD",
-    "logo": "https://i.imgur.com/vZHtxQb.png"
-  },
-  {
-    "site_id": "OYH",
-    "name": "OSNtv Yahala",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "OSNYahala.ae@SD",
-    "logo": "https://i.imgur.com/FHyYEDC.png"
-  },
-  {
-    "site_id": "EC2",
-    "name": "eClutch LIVE 2",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
     "site_id": "GNX",
     "name": "Ginx​",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "GMN",
-    "name": "GMA News TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "GMANewsTV.ph@SD",
-    "logo": "https://i.imgur.com/f1LyHro.png"
-  },
-  {
-    "site_id": "OTO",
-    "name": "OSNtv One",
     "lang": "ar",
     "region": "AR"
-  },
-  {
-    "site_id": "YAW",
-    "name": "Alfa Al Yawm",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "AlYawm.ae@SD",
-    "logo": "https://i.imgur.com/0HYTK6w.png"
-  },
-  {
-    "site_id": "NJR",
-    "name": "Nick Jr",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "NickJrArabia.ae@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "OFM",
-    "name": "OSNtv Movies Family",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "TCN",
-    "name": "Cartoon Network",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CartoonNetworkArabic.ae@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png"
-  },
-  {
-    "site_id": "NOW",
-    "name": "Music Now",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MusicNow.ae@SD",
-    "logo": "https://i.imgur.com/lscFZLA.png"
-  },
-  {
-    "site_id": "OYC",
-    "name": "OSNtv Yahala Aflam",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "OSNYahalaAflam.ae@SD",
-    "logo": "https://i.imgur.com/8pr5STo.png"
-  },
-  {
-    "site_id": "DCX",
-    "name": "Discovery ID",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "InvestigationDiscoveryEurope.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "TFC",
-    "name": "TFC",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "TheFilipinoChannelMiddleEast.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/960px-The_Filipino_Channel_2011_logo.svg.png"
-  },
-  {
-    "site_id": "NKT",
-    "name": "NickToons HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NicktoonsArabia.ae@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
-  },
-  {
-    "site_id": "OLH",
-    "name": "OSNtv Now",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "CNN",
-    "name": "CNN",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "CNNArabic.ae@SD",
-    "logo": "https://i.imgur.com/8WXOnLF.png"
   },
   {
     "site_id": "OMZ",
@@ -220,26 +75,12 @@
     "logo": "https://i.imgur.com/bYcE5QF.png"
   },
   {
-    "site_id": "OBG",
-    "name": "OSNtv Crime",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "CIN",
-    "name": "Cine Mo",
+    "site_id": "TFC",
+    "name": "TFC",
     "lang": "ar",
     "region": "AR",
-    "xmltv_id": "CineMo.ph@SD",
-    "logo": "https://i.imgur.com/rGAOD3f.png"
-  },
-  {
-    "site_id": "OCO",
-    "name": "OSNtv Comedy",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "OSNComedy.ae@SD",
-    "logo": "https://i.imgur.com/SM2E9Jl.png"
+    "xmltv_id": "TheFilipinoChannelMiddleEast.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/960px-The_Filipino_Channel_2011_logo.svg.png"
   },
   {
     "site_id": "DWR",
@@ -248,24 +89,18 @@
     "region": "EN"
   },
   {
-    "site_id": "MCM",
-    "name": "MCM Top",
+    "site_id": "SER",
+    "name": "Alfa Series Channel",
     "lang": "en",
     "region": "EN",
-    "logo": "https://i.imgur.com/EVtWQLd.png"
+    "xmltv_id": "AlfaSeries.ae@Plus2",
+    "logo": "https://i.imgur.com/x0LkZql.png"
   },
   {
-    "site_id": "OMC",
-    "name": "OSNtv Movies Comedy",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "RFM",
-    "name": "RFM TV",
+    "site_id": "EC2",
+    "name": "eClutch LIVE 2",
     "lang": "ar",
-    "region": "AR",
-    "logo": "https://i.imgur.com/FVDTJxW.png"
+    "region": "AR"
   },
   {
     "site_id": "COG",
@@ -276,28 +111,132 @@
     "logo": "https://i.imgur.com/zN8mfDR.png"
   },
   {
-    "site_id": "NJR",
-    "name": "Nick Jr",
+    "site_id": "OM1",
+    "name": "OSNtv Movies Premiere",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "NickJrArabia.ae@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+    "xmltv_id": "OSNMoviesPremiere.ae@SD",
+    "logo": "https://i.imgur.com/2MomHqn.png"
   },
   {
-    "site_id": "OFH",
-    "name": "OSNtv Showcase",
+    "site_id": "DZM",
+    "name": "DZMM Teleradyo",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "OSNShowcase.ae@SD",
-    "logo": "https://i.imgur.com/o43yDem.png"
+    "xmltv_id": "TeleRadyoGlobal.ph@SD",
+    "logo": "https://i.imgur.com/bYcE5QF.png"
   },
   {
-    "site_id": "MYX",
-    "name": "Myx",
+    "site_id": "POP",
+    "name": "OSNtv Pop up Love story",
+    "lang": "ar",
+    "region": "AR"
+  },
+  {
+    "site_id": "RFM",
+    "name": "RFM TV",
     "lang": "ar",
     "region": "AR",
-    "xmltv_id": "MyxMiddleEast.ph@SD",
-    "logo": "https://i.imgur.com/ajLKbQv.png"
+    "logo": "https://i.imgur.com/FVDTJxW.png"
+  },
+  {
+    "site_id": "HI2",
+    "name": "H2 HD",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "History2MiddleEast.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
+  },
+  {
+    "site_id": "OMK",
+    "name": "OSNtv Kids",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "OSNKids.ae@SD",
+    "logo": "https://i.imgur.com/DRwLAtC.png"
+  },
+  {
+    "site_id": "PBA",
+    "name": "PBA Rush",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "PBARush.ph@HD",
+    "logo": "https://i.imgur.com/t0Xonrf.png"
+  },
+  {
+    "site_id": "MCM",
+    "name": "MCM Top",
+    "lang": "en",
+    "region": "EN",
+    "logo": "https://i.imgur.com/EVtWQLd.png"
+  },
+  {
+    "site_id": "OFM",
+    "name": "OSNtv Movies Family",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "OMZ",
+    "name": "OSNtv Mezze",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "OSNMezze.ae@SD",
+    "logo": "https://i.imgur.com/BGypWYj.png"
+  },
+  {
+    "site_id": "CM2",
+    "name": "Alfa Cinema 2",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Cinema2.ae@SD",
+    "logo": "https://i.imgur.com/rOvgTZf.png"
+  },
+  {
+    "site_id": "NIC",
+    "name": "Nickelodeon HD",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "NickelodeonArabia.ae@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "DWR",
+    "name": "DWRR 101.9",
+    "lang": "ar",
+    "region": "AR"
+  },
+  {
+    "site_id": "CIN",
+    "name": "Cine Mo",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "CineMo.ph@SD",
+    "logo": "https://i.imgur.com/rGAOD3f.png"
+  },
+  {
+    "site_id": "OM1",
+    "name": "OSNtv Movies Premiere",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "OSNMoviesPremiere.ae@SD",
+    "logo": "https://i.imgur.com/2MomHqn.png"
+  },
+  {
+    "site_id": "AHD",
+    "name": "OSNtv Movies Action",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "OSNMoviesAction.ae@SD",
+    "logo": "https://i.imgur.com/uOzyKup.png"
+  },
+  {
+    "site_id": "TLC",
+    "name": "TLC HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TLCArabia.us@SD",
+    "logo": "https://i.imgur.com/qcbUHtX.png"
   },
   {
     "site_id": "ES2",
@@ -306,30 +245,22 @@
     "region": "AR"
   },
   {
-    "site_id": "CM2",
-    "name": "Alfa Cinema 2",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "Cinema2.ae@SD",
-    "logo": "https://i.imgur.com/rOvgTZf.png"
-  },
-  {
-    "site_id": "OFH",
-    "name": "OSNtv Showcase",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "OSNShowcase.ae@SD",
-    "logo": "https://i.imgur.com/o43yDem.png"
-  },
-  {
-    "site_id": "BLO",
-    "name": "Bloomberg Originals HD",
+    "site_id": "OST",
+    "name": "OSNtv Showcase Classics",
     "lang": "en",
     "region": "EN"
   },
   {
-    "site_id": "OCM",
-    "name": "OSNtv Movies Horror",
+    "site_id": "GMN",
+    "name": "GMA News TV",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "GMANewsTV.ph@SD",
+    "logo": "https://i.imgur.com/f1LyHro.png"
+  },
+  {
+    "site_id": "ECL",
+    "name": "eClutch LIVE 1",
     "lang": "en",
     "region": "EN"
   },
@@ -341,238 +272,18 @@
     "logo": "https://i.imgur.com/FVDTJxW.png"
   },
   {
-    "site_id": "OYA",
-    "name": "OSNtv Yahala Bil Arabi",
+    "site_id": "OYC",
+    "name": "OSNtv Yahala Aflam",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "OSNYahalaBilArabi.ae@SD",
-    "logo": "https://i.imgur.com/963jtZb.png"
+    "xmltv_id": "OSNYahalaAflam.ae@SD",
+    "logo": "https://i.imgur.com/8pr5STo.png"
   },
   {
-    "site_id": "MOT",
-    "name": "Motorvision",
-    "lang": "ar",
-    "region": "AR",
-    "logo": "https://i.imgur.com/v4kj8pI.png"
-  },
-  {
-    "site_id": "OCM",
-    "name": "OSNtv Movies Horror",
+    "site_id": "OFM",
+    "name": "OSNtv Movies Family",
     "lang": "ar",
     "region": "AR"
-  },
-  {
-    "site_id": "HI2",
-    "name": "H2 HD",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "History2MiddleEast.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
-  },
-  {
-    "site_id": "TLC",
-    "name": "TLC HD",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "TLCArabia.us@SD",
-    "logo": "https://i.imgur.com/qcbUHtX.png"
-  },
-  {
-    "site_id": "BTV",
-    "name": "Bloomberg",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "BloombergTV.us@Europe",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
-  },
-  {
-    "site_id": "GML",
-    "name": "GMA Life TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "GMALifeTV.ph@SD",
-    "logo": "https://i.imgur.com/SojROZW.png"
-  },
-  {
-    "site_id": "BAF",
-    "name": "Blippi and Friends",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "ECL",
-    "name": "eClutch LIVE 1",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "CM2",
-    "name": "Alfa Cinema 2",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Cinema2.ae@SD",
-    "logo": "https://i.imgur.com/rOvgTZf.png"
-  },
-  {
-    "site_id": "GMA",
-    "name": "GMA Pinoy TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "GMAPinoyTVMiddleEast.ph@SD",
-    "logo": "https://i.imgur.com/UvWAqDM.png"
-  },
-  {
-    "site_id": "PBA",
-    "name": "PBA Rush",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "PBARush.ph@HD",
-    "logo": "https://i.imgur.com/t0Xonrf.png"
-  },
-  {
-    "site_id": "DZM",
-    "name": "DZMM Teleradyo",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TeleRadyoGlobal.ph@SD",
-    "logo": "https://i.imgur.com/bYcE5QF.png"
-  },
-  {
-    "site_id": "FAN",
-    "name": "Alfa Fann",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "Fann.ae@SD",
-    "logo": "https://i.imgur.com/bQWhS0W.png"
-  },
-  {
-    "site_id": "FTF",
-    "name": "Fatafeat",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Fatafeat.ae@SD",
-    "logo": "https://i.imgur.com/jCsUXTk.png"
-  },
-  {
-    "site_id": "HI2",
-    "name": "H2 HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "History2MiddleEast.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
-  },
-  {
-    "site_id": "ES2",
-    "name": "Esport 24",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "CIN",
-    "name": "Cine Mo",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CineMo.ph@SD",
-    "logo": "https://i.imgur.com/rGAOD3f.png"
-  },
-  {
-    "site_id": "FAN",
-    "name": "Alfa Fann",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Fann.ae@SD",
-    "logo": "https://i.imgur.com/bQWhS0W.png"
-  },
-  {
-    "site_id": "EC2",
-    "name": "eClutch LIVE 2",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "NKT",
-    "name": "NickToons HD",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "NicktoonsArabia.ae@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
-  },
-  {
-    "site_id": "OLH",
-    "name": "OSNtv Now",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "ANC",
-    "name": "ANC",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ANC.ph@SD",
-    "logo": "https://i.imgur.com/odwRbRk.png"
-  },
-  {
-    "site_id": "MBU",
-    "name": "Moonbug Kids",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "MoonbugKids.uk@SD",
-    "logo": "https://i.imgur.com/vZHtxQb.png"
-  },
-  {
-    "site_id": "ECA",
-    "name": "eClutch Access​",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "OMC",
-    "name": "OSNtv Movies Comedy",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "BTV",
-    "name": "Bloomberg",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "BloombergTV.us@Europe",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
-  },
-  {
-    "site_id": "GMT",
-    "name": "Gametoon​",
-    "lang": "en",
-    "region": "EN",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png"
-  },
-  {
-    "site_id": "AHD",
-    "name": "OSNtv Movies Action",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "OSNMoviesAction.ae@SD",
-    "logo": "https://i.imgur.com/uOzyKup.png"
-  },
-  {
-    "site_id": "OBG",
-    "name": "OSNtv Crime",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "CM1",
-    "name": "Alfa Cinema 1",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "Cinema1.ae@SD",
-    "logo": "https://i.imgur.com/qvfmqE1.png"
-  },
-  {
-    "site_id": "PDT",
-    "name": "Padeltime​",
-    "lang": "en",
-    "region": "EN"
   },
   {
     "site_id": "NOW",
@@ -583,12 +294,278 @@
     "logo": "https://i.imgur.com/lscFZLA.png"
   },
   {
-    "site_id": "FTF",
-    "name": "Fatafeat",
+    "site_id": "BAF",
+    "name": "Blippi and Friends",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "DCX",
+    "name": "Discovery ID",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "InvestigationDiscoveryEurope.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
+    "site_id": "MBU",
+    "name": "Moonbug Kids",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MoonbugKids.uk@SD",
+    "logo": "https://i.imgur.com/vZHtxQb.png"
+  },
+  {
+    "site_id": "ECL",
+    "name": "eClutch LIVE 1",
+    "lang": "ar",
+    "region": "AR"
+  },
+  {
+    "site_id": "OMC",
+    "name": "OSNtv Movies Comedy",
+    "lang": "ar",
+    "region": "AR"
+  },
+  {
+    "site_id": "NKT",
+    "name": "NickToons HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NicktoonsArabia.ae@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
+  },
+  {
+    "site_id": "OLH",
+    "name": "OSNtv Now",
+    "lang": "ar",
+    "region": "AR"
+  },
+  {
+    "site_id": "OYC",
+    "name": "OSNtv Yahala Aflam",
     "lang": "ar",
     "region": "AR",
+    "xmltv_id": "OSNYahalaAflam.ae@SD",
+    "logo": "https://i.imgur.com/8pr5STo.png"
+  },
+  {
+    "site_id": "ES2",
+    "name": "Esport 24",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "OYA",
+    "name": "OSNtv Yahala Bil Arabi",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "OSNYahalaBilArabi.ae@SD",
+    "logo": "https://i.imgur.com/963jtZb.png"
+  },
+  {
+    "site_id": "AHD",
+    "name": "OSNtv Movies Action",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "OSNMoviesAction.ae@SD",
+    "logo": "https://i.imgur.com/uOzyKup.png"
+  },
+  {
+    "site_id": "PDT",
+    "name": "Padeltime​",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "GMA",
+    "name": "GMA Pinoy TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "GMAPinoyTVMiddleEast.ph@SD",
+    "logo": "https://i.imgur.com/UvWAqDM.png"
+  },
+  {
+    "site_id": "MBU",
+    "name": "Moonbug Kids",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "MoonbugKids.uk@SD",
+    "logo": "https://i.imgur.com/vZHtxQb.png"
+  },
+  {
+    "site_id": "OPR",
+    "name": "OSNtv Movies Hollywood",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "OSNMoviesHollywood.ae@SD",
+    "logo": "https://i.imgur.com/ygywH3O.png"
+  },
+  {
+    "site_id": "OCM",
+    "name": "OSNtv Movies Horror",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "OST",
+    "name": "OSNtv Showcase Classics",
+    "lang": "ar",
+    "region": "AR"
+  },
+  {
+    "site_id": "GNX",
+    "name": "Ginx​",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "MOT",
+    "name": "Motorvision",
+    "lang": "en",
+    "region": "EN",
+    "logo": "https://i.imgur.com/v4kj8pI.png"
+  },
+  {
+    "site_id": "CAI",
+    "name": "Crime \u0026 Investigation Network",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CrimePlusInvestigation.uk@SD",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png"
+  },
+  {
+    "site_id": "FTF",
+    "name": "Fatafeat",
+    "lang": "en",
+    "region": "EN",
     "xmltv_id": "Fatafeat.ae@SD",
     "logo": "https://i.imgur.com/jCsUXTk.png"
+  },
+  {
+    "site_id": "NIC",
+    "name": "Nickelodeon HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NickelodeonArabia.ae@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "CM1",
+    "name": "Alfa Cinema 1",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "Cinema1.ae@SD",
+    "logo": "https://i.imgur.com/qvfmqE1.png"
+  },
+  {
+    "site_id": "CM2",
+    "name": "Alfa Cinema 2",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "Cinema2.ae@SD",
+    "logo": "https://i.imgur.com/rOvgTZf.png"
+  },
+  {
+    "site_id": "CNN",
+    "name": "CNN",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "CNNArabic.ae@SD",
+    "logo": "https://i.imgur.com/8WXOnLF.png"
+  },
+  {
+    "site_id": "HIS",
+    "name": "History HD",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "HistoryMiddleEast.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
+  },
+  {
+    "site_id": "OFH",
+    "name": "OSNtv Showcase",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "OSNShowcase.ae@SD",
+    "logo": "https://i.imgur.com/o43yDem.png"
+  },
+  {
+    "site_id": "ECA",
+    "name": "eClutch Access​",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "GML",
+    "name": "GMA Life TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "GMALifeTV.ph@SD",
+    "logo": "https://i.imgur.com/SojROZW.png"
+  },
+  {
+    "site_id": "OPR",
+    "name": "OSNtv Movies Hollywood",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "OSNMoviesHollywood.ae@SD",
+    "logo": "https://i.imgur.com/ygywH3O.png"
+  },
+  {
+    "site_id": "ANC",
+    "name": "ANC",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "ANC.ph@SD",
+    "logo": "https://i.imgur.com/odwRbRk.png"
+  },
+  {
+    "site_id": "OYH",
+    "name": "OSNtv Yahala",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "OSNYahala.ae@SD",
+    "logo": "https://i.imgur.com/FHyYEDC.png"
+  },
+  {
+    "site_id": "OYA",
+    "name": "OSNtv Yahala Bil Arabi",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "OSNYahalaBilArabi.ae@SD",
+    "logo": "https://i.imgur.com/963jtZb.png"
+  },
+  {
+    "site_id": "NKT",
+    "name": "NickToons HD",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "NicktoonsArabia.ae@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
+  },
+  {
+    "site_id": "GMT",
+    "name": "Gametoon​",
+    "lang": "en",
+    "region": "EN",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png"
+  },
+  {
+    "site_id": "HIS",
+    "name": "History HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HistoryMiddleEast.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
+  },
+  {
+    "site_id": "SAF",
+    "name": "Al Safwa",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "AlSafwa.ae@SD",
+    "logo": "https://i.imgur.com/bMk4O5E.png"
   },
   {
     "site_id": "GML",
@@ -597,6 +574,34 @@
     "region": "AR",
     "xmltv_id": "GMALifeTV.ph@SD",
     "logo": "https://i.imgur.com/SojROZW.png"
+  },
+  {
+    "site_id": "OBG",
+    "name": "OSNtv Crime",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "NJR",
+    "name": "Nick Jr",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NickJrArabia.ae@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "OCO",
+    "name": "OSNtv Comedy",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "OSNComedy.ae@SD",
+    "logo": "https://i.imgur.com/SM2E9Jl.png"
+  },
+  {
+    "site_id": "DOC",
+    "name": "OSN TV Documentary",
+    "lang": "ar",
+    "region": "AR"
   },
   {
     "site_id": "GMA",
@@ -613,103 +618,20 @@
     "region": "EN"
   },
   {
-    "site_id": "DSC",
-    "name": "Discovery HD",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "DiscoveryChannelMiddleEastAfrica.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "OM1",
-    "name": "OSNtv Movies Premiere",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "OSNMoviesPremiere.ae@SD",
-    "logo": "https://i.imgur.com/2MomHqn.png"
-  },
-  {
-    "site_id": "OYC",
-    "name": "OSNtv Yahala Aflam",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "OSNYahalaAflam.ae@SD",
-    "logo": "https://i.imgur.com/8pr5STo.png"
-  },
-  {
-    "site_id": "POP",
-    "name": "OSNtv Pop up Love story",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "HIS",
-    "name": "History HD",
+    "site_id": "ANC",
+    "name": "ANC",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "HistoryMiddleEast.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
+    "xmltv_id": "ANC.ph@SD",
+    "logo": "https://i.imgur.com/odwRbRk.png"
   },
   {
-    "site_id": "OYH",
-    "name": "OSNtv Yahala",
+    "site_id": "YAW",
+    "name": "Alfa Al Yawm",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "OSNYahala.ae@SD",
-    "logo": "https://i.imgur.com/FHyYEDC.png"
-  },
-  {
-    "site_id": "TLC",
-    "name": "TLC HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TLCArabia.us@SD",
-    "logo": "https://i.imgur.com/qcbUHtX.png"
-  },
-  {
-    "site_id": "BAF",
-    "name": "Blippi and Friends",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "MCM",
-    "name": "MCM Top",
-    "lang": "ar",
-    "region": "AR",
-    "logo": "https://i.imgur.com/EVtWQLd.png"
-  },
-  {
-    "site_id": "AKS",
-    "name": "Kapatid TV5",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "AksyonTVInternational.ph@SD",
-    "logo": "https://i.imgur.com/oesGsK5.png"
-  },
-  {
-    "site_id": "NIC",
-    "name": "Nickelodeon HD",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "NickelodeonArabia.ae@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
-  },
-  {
-    "site_id": "HIS",
-    "name": "History HD",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "HistoryMiddleEast.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
-  },
-  {
-    "site_id": "AKS",
-    "name": "Kapatid TV5",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AksyonTVInternational.ph@SD",
-    "logo": "https://i.imgur.com/oesGsK5.png"
+    "xmltv_id": "AlYawm.ae@SD",
+    "logo": "https://i.imgur.com/0HYTK6w.png"
   },
   {
     "site_id": "CM1",
@@ -720,46 +642,83 @@
     "logo": "https://i.imgur.com/qvfmqE1.png"
   },
   {
-    "site_id": "DOC",
-    "name": "OSN TV Documentary",
+    "site_id": "DSC",
+    "name": "Discovery HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DiscoveryChannelMiddleEastAfrica.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "BLO",
+    "name": "Bloomberg Originals HD",
     "lang": "ar",
     "region": "AR"
   },
   {
-    "site_id": "OFM",
-    "name": "OSNtv Movies Family",
+    "site_id": "OTO",
+    "name": "OSNtv One",
     "lang": "ar",
     "region": "AR"
   },
   {
-    "site_id": "ANC",
-    "name": "ANC",
+    "site_id": "DSC",
+    "name": "Discovery HD",
     "lang": "ar",
     "region": "AR",
-    "xmltv_id": "ANC.ph@SD",
-    "logo": "https://i.imgur.com/odwRbRk.png"
+    "xmltv_id": "DiscoveryChannelMiddleEastAfrica.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
   },
   {
-    "site_id": "OPR",
-    "name": "OSNtv Movies Hollywood",
+    "site_id": "BTV",
+    "name": "Bloomberg",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "BloombergTV.us@Europe",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
+  },
+  {
+    "site_id": "OMK",
+    "name": "OSNtv Kids",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "OSNKids.ae@SD",
+    "logo": "https://i.imgur.com/DRwLAtC.png"
+  },
+  {
+    "site_id": "APL",
+    "name": "Animal Planet",
     "lang": "ar",
     "region": "AR",
-    "xmltv_id": "OSNMoviesHollywood.ae@SD",
-    "logo": "https://i.imgur.com/ygywH3O.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
   },
   {
-    "site_id": "POP",
-    "name": "OSNtv Pop up Love story",
+    "site_id": "OBG",
+    "name": "OSNtv Crime",
     "lang": "ar",
     "region": "AR"
   },
   {
-    "site_id": "PBA",
-    "name": "PBA Rush",
+    "site_id": "DCX",
+    "name": "Discovery ID",
     "lang": "ar",
     "region": "AR",
-    "xmltv_id": "PBARush.ph@HD",
-    "logo": "https://i.imgur.com/t0Xonrf.png"
+    "xmltv_id": "InvestigationDiscoveryEurope.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
+    "site_id": "OLH",
+    "name": "OSNtv Now",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "CIN",
+    "name": "Cine Mo",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CineMo.ph@SD",
+    "logo": "https://i.imgur.com/rGAOD3f.png"
   },
   {
     "site_id": "CNN",
@@ -778,26 +737,18 @@
     "logo": "https://i.imgur.com/ajLKbQv.png"
   },
   {
-    "site_id": "OMK",
-    "name": "OSNtv Kids",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "OSNKids.ae@SD",
-    "logo": "https://i.imgur.com/DRwLAtC.png"
-  },
-  {
-    "site_id": "OMZ",
-    "name": "OSNtv Mezze",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "OSNMezze.ae@SD",
-    "logo": "https://i.imgur.com/BGypWYj.png"
-  },
-  {
-    "site_id": "ELA",
-    "name": "eClutch Arabic​",
+    "site_id": "PDT",
+    "name": "Padeltime​",
     "lang": "ar",
     "region": "AR"
+  },
+  {
+    "site_id": "AKS",
+    "name": "Kapatid TV5",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "AksyonTVInternational.ph@SD",
+    "logo": "https://i.imgur.com/oesGsK5.png"
   },
   {
     "site_id": "GMT",
@@ -807,129 +758,46 @@
     "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png"
   },
   {
-    "site_id": "OYA",
-    "name": "OSNtv Yahala Bil Arabi",
+    "site_id": "MYX",
+    "name": "Myx",
     "lang": "ar",
     "region": "AR",
-    "xmltv_id": "OSNYahalaBilArabi.ae@SD",
-    "logo": "https://i.imgur.com/963jtZb.png"
+    "xmltv_id": "MyxMiddleEast.ph@SD",
+    "logo": "https://i.imgur.com/ajLKbQv.png"
   },
   {
-    "site_id": "YAW",
-    "name": "Alfa Al Yawm",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AlYawm.ae@SD",
-    "logo": "https://i.imgur.com/0HYTK6w.png"
-  },
-  {
-    "site_id": "TFC",
-    "name": "TFC",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TheFilipinoChannelMiddleEast.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/960px-The_Filipino_Channel_2011_logo.svg.png"
-  },
-  {
-    "site_id": "PDT",
-    "name": "Padeltime​",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "MOT",
-    "name": "Motorvision",
-    "lang": "en",
-    "region": "EN",
-    "logo": "https://i.imgur.com/v4kj8pI.png"
-  },
-  {
-    "site_id": "OCO",
-    "name": "OSNtv Comedy",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "OSNComedy.ae@SD",
-    "logo": "https://i.imgur.com/SM2E9Jl.png"
-  },
-  {
-    "site_id": "GMN",
-    "name": "GMA News TV",
+    "site_id": "NJR",
+    "name": "Nick Jr",
     "lang": "ar",
     "region": "AR",
-    "xmltv_id": "GMANewsTV.ph@SD",
-    "logo": "https://i.imgur.com/f1LyHro.png"
+    "xmltv_id": "NickJrArabia.ae@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
   },
   {
-    "site_id": "APL",
-    "name": "Animal Planet",
+    "site_id": "EC2",
+    "name": "eClutch LIVE 2",
     "lang": "en",
-    "region": "EN",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+    "region": "EN"
   },
   {
-    "site_id": "SAF",
-    "name": "Al Safwa",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AlSafwa.ae@SD",
-    "logo": "https://i.imgur.com/bMk4O5E.png"
-  },
-  {
-    "site_id": "OM1",
-    "name": "OSNtv Movies Premiere",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "OSNMoviesPremiere.ae@SD",
-    "logo": "https://i.imgur.com/2MomHqn.png"
-  },
-  {
-    "site_id": "APL",
-    "name": "Animal Planet",
+    "site_id": "BTV",
+    "name": "Bloomberg",
     "lang": "ar",
     "region": "AR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+    "xmltv_id": "BloombergTV.us@Europe",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
   },
   {
-    "site_id": "OST",
-    "name": "OSNtv Showcase Classics",
-    "lang": "ar",
-    "region": "AR"
-  },
-  {
-    "site_id": "CAI",
-    "name": "Crime \u0026 Investigation Network",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CrimePlusInvestigation.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png"
-  },
-  {
-    "site_id": "DCX",
-    "name": "Discovery ID",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "InvestigationDiscoveryEurope.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "TCN",
-    "name": "Cartoon Network",
+    "site_id": "TLC",
+    "name": "TLC HD",
     "lang": "ar",
     "region": "AR",
-    "xmltv_id": "CartoonNetworkArabic.ae@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png"
+    "xmltv_id": "TLCArabia.us@SD",
+    "logo": "https://i.imgur.com/qcbUHtX.png"
   },
   {
-    "site_id": "OMK",
-    "name": "OSNtv Kids",
-    "lang": "ar",
-    "region": "AR",
-    "xmltv_id": "OSNKids.ae@SD",
-    "logo": "https://i.imgur.com/DRwLAtC.png"
-  },
-  {
-    "site_id": "ELA",
-    "name": "eClutch Arabic​",
+    "site_id": "BLO",
+    "name": "Bloomberg Originals HD",
     "lang": "en",
     "region": "EN"
   },
@@ -940,6 +808,41 @@
     "region": "EN"
   },
   {
+    "site_id": "TCN",
+    "name": "Cartoon Network",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "CartoonNetworkArabic.ae@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png"
+  },
+  {
+    "site_id": "APL",
+    "name": "Animal Planet",
+    "lang": "en",
+    "region": "EN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+  },
+  {
+    "site_id": "OMC",
+    "name": "OSNtv Movies Comedy",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "GMN",
+    "name": "GMA News TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "GMANewsTV.ph@SD",
+    "logo": "https://i.imgur.com/f1LyHro.png"
+  },
+  {
+    "site_id": "BAF",
+    "name": "Blippi and Friends",
+    "lang": "ar",
+    "region": "AR"
+  },
+  {
     "site_id": "SE2",
     "name": "Alfa Series +2",
     "lang": "en",
@@ -948,41 +851,138 @@
     "logo": "https://i.imgur.com/x0LkZql.png"
   },
   {
-    "site_id": "GNX",
-    "name": "Ginx​",
+    "site_id": "COG",
+    "name": "Cinema One Global",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CinemaOneGlobal.ph@SD",
+    "logo": "https://i.imgur.com/zN8mfDR.png"
+  },
+  {
+    "site_id": "FAN",
+    "name": "Alfa Fann",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Fann.ae@SD",
+    "logo": "https://i.imgur.com/bQWhS0W.png"
+  },
+  {
+    "site_id": "PBA",
+    "name": "PBA Rush",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "PBARush.ph@HD",
+    "logo": "https://i.imgur.com/t0Xonrf.png"
+  },
+  {
+    "site_id": "OCM",
+    "name": "OSNtv Movies Horror",
     "lang": "ar",
     "region": "AR"
   },
   {
-    "site_id": "SAF",
-    "name": "Al Safwa",
+    "site_id": "POP",
+    "name": "OSNtv Pop up Love story",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "TCN",
+    "name": "Cartoon Network",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CartoonNetworkArabic.ae@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png"
+  },
+  {
+    "site_id": "FTF",
+    "name": "Fatafeat",
     "lang": "ar",
     "region": "AR",
+    "xmltv_id": "Fatafeat.ae@SD",
+    "logo": "https://i.imgur.com/jCsUXTk.png"
+  },
+  {
+    "site_id": "OCO",
+    "name": "OSNtv Comedy",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "OSNComedy.ae@SD",
+    "logo": "https://i.imgur.com/SM2E9Jl.png"
+  },
+  {
+    "site_id": "ELA",
+    "name": "eClutch Arabic​",
+    "lang": "ar",
+    "region": "AR"
+  },
+  {
+    "site_id": "SE2",
+    "name": "Alfa Series +2",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "AlfaSeries.ae@SD",
+    "logo": "https://i.imgur.com/x0LkZql.png"
+  },
+  {
+    "site_id": "FAN",
+    "name": "Alfa Fann",
+    "lang": "ar",
+    "region": "AR",
+    "xmltv_id": "Fann.ae@SD",
+    "logo": "https://i.imgur.com/bQWhS0W.png"
+  },
+  {
+    "site_id": "ELA",
+    "name": "eClutch Arabic​",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "SAF",
+    "name": "Al Safwa",
+    "lang": "en",
+    "region": "EN",
     "xmltv_id": "AlSafwa.ae@SD",
     "logo": "https://i.imgur.com/bMk4O5E.png"
   },
   {
-    "site_id": "AHD",
-    "name": "OSNtv Movies Action",
+    "site_id": "NOW",
+    "name": "Music Now",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "MusicNow.ae@SD",
+    "logo": "https://i.imgur.com/lscFZLA.png"
+  },
+  {
+    "site_id": "MCM",
+    "name": "MCM Top",
     "lang": "ar",
     "region": "AR",
-    "xmltv_id": "OSNMoviesAction.ae@SD",
-    "logo": "https://i.imgur.com/uOzyKup.png"
+    "logo": "https://i.imgur.com/EVtWQLd.png"
   },
   {
-    "site_id": "DSC",
-    "name": "Discovery HD",
+    "site_id": "OYH",
+    "name": "OSNtv Yahala",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "DiscoveryChannelMiddleEastAfrica.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+    "xmltv_id": "OSNYahala.ae@SD",
+    "logo": "https://i.imgur.com/FHyYEDC.png"
   },
   {
-    "site_id": "NIC",
-    "name": "Nickelodeon HD",
+    "site_id": "AKS",
+    "name": "Kapatid TV5",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "NickelodeonArabia.ae@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
+    "xmltv_id": "AksyonTVInternational.ph@SD",
+    "logo": "https://i.imgur.com/oesGsK5.png"
+  },
+  {
+    "site_id": "TFC",
+    "name": "TFC",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TheFilipinoChannelMiddleEast.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/960px-The_Filipino_Channel_2011_logo.svg.png"
   }
 ]

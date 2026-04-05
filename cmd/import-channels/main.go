@@ -248,12 +248,14 @@ func main() {
 	pluginsDir := flag.String("plugins", "", "path to epg plugins directory")
 	dbCSV := flag.String("db", "", "path or URL to iptv-org/database logos.csv for logo enrichment (optional)")
 	channelsCSV := flag.String("channels", "", "path or URL to iptv-org/database channels.csv for name-based logo fallback (optional)")
+	tvLogosDir := flag.String("tv-logos", "", "path to cloned tv-logo/tv-logos repository for additional logo coverage (optional)")
+	tvLogosURL := flag.String("tv-logos-url", "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main", "base raw URL for tv-logos repository")
 	flag.Parse()
 
 	log := zerolog.New(os.Stdout).With().Timestamp().Logger()
 
 	if *sitesDir == "" || *pluginsDir == "" {
-		log.Fatal().Msg("usage: import-channels --sites /path/to/sites --plugins /path/to/plugins [--db logos.csv] [--channels channels.csv]")
+		log.Fatal().Msg("usage: import-channels --sites /path/to/sites --plugins /path/to/plugins [--db logos.csv] [--channels channels.csv] [--tv-logos /path/to/tv-logos]")
 	}
 
 	logosByID := make(map[string]string)
@@ -274,6 +276,16 @@ func main() {
 			log.Fatal().Err(err).Msg("failed to load channels database")
 		}
 		log.Info().Int("name_entries", len(logosByName)).Msg("built name-based logo index")
+	}
+
+	tvLogos := make(map[string]string)
+	if *tvLogosDir != "" {
+		var err error
+		tvLogos, err = buildTVLogosIndex(*tvLogosDir, *tvLogosURL)
+		if err != nil {
+			log.Fatal().Err(err).Msg("failed to build tv-logos index")
+		}
+		log.Info().Int("tv_logos", len(tvLogos)).Msg("built tv-logos index")
 	}
 
 	files, err := filepath.Glob(filepath.Join(*sitesDir, "*", "*.channels.xml"))
@@ -317,6 +329,10 @@ func main() {
 			}
 			if logo == "" && name != "" {
 				logo = logosByName[normalizeName(name)]
+			}
+			if logo == "" && len(tvLogos) > 0 {
+				cc := countryCodeFromXmltvID(ch.XmltvID)
+				logo = lookupTVLogo(tvLogos, name, cc)
 			}
 
 			key := ch.SiteID + "|" + ch.Lang + "|" + region
@@ -537,6 +553,155 @@ func loadExistingLogos(path string) map[string]string {
 		}
 	}
 	return m
+}
+
+var dirToCountryCode = map[string]string{
+	"albania":              "al",
+	"argentina":            "ar",
+	"australia":            "au",
+	"austria":              "at",
+	"azerbaijan":           "az",
+	"belgium":              "be",
+	"brazil":               "br",
+	"bulgaria":             "bg",
+	"canada":               "ca",
+	"caribbean":            "car",
+	"chile":                "cl",
+	"costa-rica":           "cr",
+	"croatia":              "hr",
+	"czech-republic":       "cz",
+	"france":               "fr",
+	"germany":              "de",
+	"greece":               "gr",
+	"hong-kong":            "hk",
+	"hungary":              "hu",
+	"india":                "in",
+	"indonesia":            "id",
+	"international":        "int",
+	"ireland":              "ie",
+	"israel":               "il",
+	"italy":                "it",
+	"lebanon":              "lb",
+	"lithuania":            "lt",
+	"luxembourg":           "lu",
+	"malaysia":             "my",
+	"malta":                "mt",
+	"mexico":               "mx",
+	"netherlands":          "nl",
+	"new-zealand":          "nz",
+	"nordic":               "nordic",
+	"philippines":          "ph",
+	"poland":               "pl",
+	"portugal":             "pt",
+	"romania":              "ro",
+	"russia":               "ru",
+	"serbia":               "rs",
+	"singapore":            "sg",
+	"slovakia":             "sk",
+	"slovenia":             "si",
+	"south-africa":         "za",
+	"spain":                "es",
+	"switzerland":          "ch",
+	"turkey":               "tr",
+	"ukraine":              "ua",
+	"united-arab-emirates": "ae",
+	"united-kingdom":       "uk",
+	"united-states":        "us",
+	"world-africa":         "afr",
+	"world-asia":           "asi",
+	"world-europe":         "eu",
+	"world-latin-america":  "lam",
+	"world-middle-east":    "mea",
+}
+
+func buildTVLogosIndex(dir, baseURL string) (map[string]string, error) {
+	countriesDir := filepath.Join(dir, "countries")
+	entries, err := os.ReadDir(countriesDir)
+	if err != nil {
+		return nil, fmt.Errorf("reading tv-logos countries dir: %w", err)
+	}
+
+	index := make(map[string]string)
+	baseURL = strings.TrimSuffix(baseURL, "/")
+
+	for _, entry := range entries {
+		if !entry.IsDir() {
+			continue
+		}
+		countryDir := entry.Name()
+		cc := dirToCountryCode[countryDir]
+
+		files, err := os.ReadDir(filepath.Join(countriesDir, countryDir))
+		if err != nil {
+			continue
+		}
+
+		for _, f := range files {
+			if f.IsDir() || !strings.HasSuffix(f.Name(), ".png") {
+				continue
+			}
+			slug := strings.TrimSuffix(f.Name(), ".png")
+			rawURL := baseURL + "/countries/" + countryDir + "/" + f.Name()
+
+			// Index by full slug (e.g. "bbc-one-uk")
+			if _, exists := index[slug]; !exists {
+				index[slug] = rawURL
+			}
+
+			// Index by name without country suffix (e.g. "bbc-one")
+			if cc != "" && strings.HasSuffix(slug, "-"+cc) {
+				nameSlug := strings.TrimSuffix(slug, "-"+cc)
+				if _, exists := index[nameSlug]; !exists {
+					index[nameSlug] = rawURL
+				}
+			}
+		}
+	}
+
+	return index, nil
+}
+
+func normalizeTVLogosSlug(name string) string {
+	name = strings.ToLower(strings.TrimSpace(name))
+	var b strings.Builder
+	prev := false
+	for _, r := range name {
+		if (r >= 'a' && r <= 'z') || (r >= '0' && r <= '9') {
+			b.WriteRune(r)
+			prev = false
+		} else if !prev {
+			b.WriteRune('-')
+			prev = true
+		}
+	}
+	return strings.Trim(b.String(), "-")
+}
+
+func lookupTVLogo(index map[string]string, name, countryCode string) string {
+	slug := normalizeTVLogosSlug(name)
+	if countryCode != "" {
+		if url := index[slug+"-"+countryCode]; url != "" {
+			return url
+		}
+	}
+	return index[slug]
+}
+
+func countryCodeFromXmltvID(xmltvID string) string {
+	if xmltvID == "" {
+		return ""
+	}
+	// strip @feed suffix
+	if i := strings.Index(xmltvID, "@"); i >= 0 {
+		xmltvID = xmltvID[:i]
+	}
+	if i := strings.LastIndex(xmltvID, "."); i >= 0 {
+		tld := strings.ToLower(xmltvID[i+1:])
+		if len(tld) == 2 {
+			return tld
+		}
+	}
+	return ""
 }
 
 func extractRegion(filename string) string {

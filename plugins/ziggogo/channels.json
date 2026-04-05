@@ -1,743 +1,10 @@
 [
   {
-    "site_id": "NL_000118_019350",
-    "name": "Aljazeera English",
-    "lang": "en",
-    "xmltv_id": "AlJazeera.qa@English",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
-  },
-  {
-    "site_id": "NL_000129_020044",
-    "name": "Stingray Classica",
-    "lang": "nl",
-    "xmltv_id": "StingrayClassica.ca@SD",
-    "logo": "https://i.imgur.com/nh1k5RC.png"
-  },
-  {
-    "site_id": "NL_000010_019422",
-    "name": "RTL 8",
-    "lang": "nl",
-    "xmltv_id": "RTL8.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RTL_8_logo_2017.png/512px-RTL_8_logo_2017.png"
-  },
-  {
-    "site_id": "NL_000012_019191",
-    "name": "RTL Z",
-    "lang": "nl",
-    "xmltv_id": "RTLZ.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_Z_Logo_2015.svg/960px-RTL_Z_Logo_2015.svg.png"
-  },
-  {
-    "site_id": "NL_000019_019671",
-    "name": "SBS9",
-    "lang": "nl",
-    "xmltv_id": "SBS9.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/SBS9_2018.png/120px-SBS9_2018.png"
-  },
-  {
-    "site_id": "NL_000039_019153",
-    "name": "SAT.1",
-    "lang": "de",
-    "xmltv_id": "SAT1.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/960px-Neues_Sat._1_Logo_transparent.png"
-  },
-  {
-    "site_id": "NL_000064_019275",
-    "name": "OUTtv",
-    "lang": "nl",
-    "xmltv_id": "OUTtv.nl@SD",
-    "logo": "https://i.imgur.com/QlUWNSU.png"
-  },
-  {
-    "site_id": "NL_000216_019122",
-    "name": "Curiosity Channel",
-    "lang": "nl",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png"
-  },
-  {
-    "site_id": "NL_000048_020052",
-    "name": "Mediaset Italia",
-    "lang": "it",
-    "xmltv_id": "MediasetItalia.it@SD",
-    "logo": "https://i.imgur.com/F4gyqhw.png"
-  },
-  {
-    "site_id": "NL_000050_019353",
-    "name": "TRT Türk",
-    "lang": "tr",
-    "xmltv_id": "TRTTurk.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000154_020078",
-    "name": "Zing",
-    "lang": "en",
-    "xmltv_id": "Zing.uk@SD",
-    "logo": "https://i.imgur.com/zStK8g2.png"
-  },
-  {
-    "site_id": "NL_000232_000000",
-    "name": "Viaplay TV+",
-    "lang": "nl",
-    "xmltv_id": "ViaplayTVPlus.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/960px-Viaplay_TV_logo.svg.png"
-  },
-  {
-    "site_id": "NL_900019_000000",
-    "name": "Ziggo TV",
-    "lang": "nl"
-  },
-  {
-    "site_id": "NL_000067_020024",
-    "name": "Fashion TV",
-    "lang": "en",
-    "xmltv_id": "FashionTVEurope.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000091_019490",
-    "name": "BabyTV",
-    "lang": "nl",
-    "xmltv_id": "BabyTV.uk@UK",
-    "logo": "https://i.imgur.com/4BDJ5FT.png"
-  },
-  {
-    "site_id": "NL_000215_020005",
-    "name": "ducktv",
-    "lang": "nl",
-    "xmltv_id": "ducktv.sk@HD",
-    "logo": "https://i.imgur.com/gRFQ35W.png"
-  },
-  {
-    "site_id": "NL_000007_019181",
-    "name": "RTL 7",
-    "lang": "nl",
-    "xmltv_id": "RTL7.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTL7_2023.svg/960px-RTL7_2023.svg.png"
-  },
-  {
-    "site_id": "NL_000013_019327",
-    "name": "Ziggo TV",
-    "lang": "nl"
-  },
-  {
-    "site_id": "NL_000090_019492",
-    "name": "Cartoonito",
-    "lang": "nl",
-    "xmltv_id": "CartoonitoCEE.uk@SD",
-    "logo": "https://i.imgur.com/9MrzLb1.png"
-  },
-  {
-    "site_id": "NL_000094_019321",
-    "name": "Ziggo Sport",
-    "lang": "nl",
-    "xmltv_id": "ZiggoSport.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000147_019593",
-    "name": "Omroep Brabant",
-    "lang": "nl",
-    "xmltv_id": "OmroepBrabant.nl@SD",
-    "logo": "https://i.imgur.com/KLYsKKC.png"
-  },
-  {
-    "site_id": "NL_000156_020072",
-    "name": "ShowTürk",
-    "lang": "tr",
-    "xmltv_id": "ShowTurk.tr@SD",
-    "logo": "https://i.imgur.com/fdZpGDj.png"
-  },
-  {
     "site_id": "NL_000159_019273",
     "name": "Habertürk",
     "lang": "tr",
     "xmltv_id": "HaberturkTV.tr@SD",
     "logo": "https://i.imgur.com/6Tw3rUp.png"
-  },
-  {
-    "site_id": "NL_000122_019495",
-    "name": "TV 538",
-    "lang": "nl",
-    "xmltv_id": "TV538.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png"
-  },
-  {
-    "site_id": "NL_000125_019294",
-    "name": "SLAM! TV",
-    "lang": "nl",
-    "xmltv_id": "SLAMTV.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Slam%21TV-logo.png/250px-Slam%21TV-logo.png"
-  },
-  {
-    "site_id": "NL_000212_020042",
-    "name": "Nickelodeon Ukraine",
-    "lang": "uk"
-  },
-  {
-    "site_id": "NL_000006_019130",
-    "name": "SBS6",
-    "lang": "nl",
-    "xmltv_id": "SBS6.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SBS6_%282023%29_orange.png/120px-SBS6_%282023%29_orange.png"
-  },
-  {
-    "site_id": "NL_000014_019661",
-    "name": "Ziggo Sport",
-    "lang": "nl",
-    "xmltv_id": "ZiggoSport.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000030_019152",
-    "name": "ONS",
-    "lang": "nl",
-    "xmltv_id": "ONS.nl@SD",
-    "logo": "https://i.imgur.com/f9ruYUn.png"
-  },
-  {
-    "site_id": "NL_000046_020053",
-    "name": "arte",
-    "lang": "de",
-    "xmltv_id": "arte.de@SD",
-    "logo": "https://i.imgur.com/ecXMjNl.png"
-  },
-  {
-    "site_id": "NL_000087_019303",
-    "name": "Nick Jr.",
-    "lang": "nl",
-    "xmltv_id": "NickJr.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "NL_000011_019563",
-    "name": "STAR Channel",
-    "lang": "nl",
-    "xmltv_id": "STARChannel.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/960px-Star_Channel_2023.svg.png"
-  },
-  {
-    "site_id": "NL_000045_019354",
-    "name": "TV5 Monde",
-    "lang": "nl",
-    "xmltv_id": "TV5MondeEurope.fr@SD",
-    "logo": "https://i.imgur.com/rPAbMSu.png"
-  },
-  {
-    "site_id": "NL_000114_019151",
-    "name": "NPO Politiek en Nieuws",
-    "lang": "nl",
-    "xmltv_id": "NPOPolitiekenNieuws.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NPO_Politiek_en_Nieuws_logo.svg/960px-NPO_Politiek_en_Nieuws_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000131_019248",
-    "name": "Stingray DJAZZ",
-    "lang": "nl",
-    "xmltv_id": "StingrayDJAZZ.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png"
-  },
-  {
-    "site_id": "NL_000149_019210",
-    "name": "AT5",
-    "lang": "nl",
-    "xmltv_id": "AT5.nl@SD",
-    "logo": "https://i.imgur.com/iAiSlEL.png"
-  },
-  {
-    "site_id": "NL_000153_020076",
-    "name": "Zee Cinema",
-    "lang": "en",
-    "xmltv_id": "ZeeCinema.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
-    "site_id": "NL_000164_020070",
-    "name": "TRT Müzik",
-    "lang": "tr",
-    "xmltv_id": "TRTMuzik.tr@SD",
-    "logo": "https://i.imgur.com/JgUzRH8.png"
-  },
-  {
-    "site_id": "NL_000057_019493",
-    "name": "Crime+Investigation",
-    "lang": "nl",
-    "xmltv_id": "CrimePlusInvestigationBenelux.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
-  },
-  {
-    "site_id": "NL_000072_019298",
-    "name": "RTL Lounge",
-    "lang": "nl",
-    "xmltv_id": "RTLLounge.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/RTL_Lounge_%282023%2C_stacked%29.svg/960px-RTL_Lounge_%282023%2C_stacked%29.svg.png"
-  },
-  {
-    "site_id": "NL_000097_019370",
-    "name": "Ziggo Sport 4",
-    "lang": "nl",
-    "xmltv_id": "ZiggoSport4.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000137_019214",
-    "name": "Omrop Fryslân",
-    "lang": "nl",
-    "xmltv_id": "OmropFryslan.nl@SD",
-    "logo": "https://i.imgur.com/khacDTU.png"
-  },
-  {
-    "site_id": "NL_000142_019211",
-    "name": "NH",
-    "lang": "nl",
-    "xmltv_id": "NH.nl@SD",
-    "logo": "https://i.imgur.com/SPkK4md.png"
-  },
-  {
-    "site_id": "NL_000191_019261",
-    "name": "Love Nature",
-    "lang": "nl",
-    "xmltv_id": "LoveNature.ca@SD",
-    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
-  },
-  {
-    "site_id": "NL_000016_019388",
-    "name": "Paramount Network",
-    "lang": "nl",
-    "xmltv_id": "ParamountNetwork.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/960px-Paramount_Network_2024.svg.png"
-  },
-  {
-    "site_id": "NL_000020_019432",
-    "name": "Eurosport 1",
-    "lang": "nl",
-    "xmltv_id": "Eurosport1.fr@Netherlands",
-    "logo": "https://i.imgur.com/olQJgm7.png"
-  },
-  {
-    "site_id": "NL_000084_019301",
-    "name": "Nicktoons",
-    "lang": "nl",
-    "xmltv_id": "Nicktoons.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
-  },
-  {
-    "site_id": "NL_000146_019213",
-    "name": "Omroep Zeeland",
-    "lang": "nl",
-    "xmltv_id": "OmroepZeeland.nl@SD",
-    "logo": "https://i.imgur.com/3c3QUSn.png"
-  },
-  {
-    "site_id": "NL_000151_020074",
-    "name": "Utsav Gold",
-    "lang": "en",
-    "xmltv_id": "UtsavGold.in@SD",
-    "logo": "https://i.imgur.com/7pTZm9O.png"
-  },
-  {
-    "site_id": "NL_000163_019272",
-    "name": "ATV Avrupa",
-    "lang": "tr",
-    "xmltv_id": "ATVAvrupa.tr@SD",
-    "logo": "https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png"
-  },
-  {
-    "site_id": "NL_000038_019063",
-    "name": "RTL",
-    "lang": "de",
-    "xmltv_id": "RTL.de@SD",
-    "logo": "https://i.imgur.com/94K94k2.png"
-  },
-  {
-    "site_id": "NL_000061_019331",
-    "name": "E!",
-    "lang": "nl",
-    "xmltv_id": "EEurope.nl@SD",
-    "logo": "https://i.imgur.com/TWFDkap.png"
-  },
-  {
-    "site_id": "NL_000107_019441",
-    "name": "ESPN",
-    "lang": "nl",
-    "xmltv_id": "ESPN.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-  },
-  {
-    "site_id": "NL_000213_020003",
-    "name": "FilmBox",
-    "lang": "nl",
-    "xmltv_id": "FilmBox.nl@Netherlands",
-    "logo": "https://i.imgur.com/VyaslIY.png"
-  },
-  {
-    "site_id": "NL_000049_019514",
-    "name": "RTV-7",
-    "lang": "nl",
-    "xmltv_id": "RTV7.nl@SD",
-    "logo": "https://i.imgur.com/GGzswKs.png"
-  },
-  {
-    "site_id": "NL_000085_019494",
-    "name": "Nick Music",
-    "lang": "nl",
-    "xmltv_id": "NickMusic.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/960px-NickMusic.svg.png"
-  },
-  {
-    "site_id": "NL_000143_019207",
-    "name": "RTV Utrecht",
-    "lang": "nl",
-    "xmltv_id": "RTVUtrecht.nl@SD",
-    "logo": "https://i.imgur.com/nrvs30l.png"
-  },
-  {
-    "site_id": "NL_000157_019270",
-    "name": "Euro D",
-    "lang": "tr",
-    "xmltv_id": "EuroD.tr@SD",
-    "logo": "https://i.imgur.com/x9kHsXo.png"
-  },
-  {
-    "site_id": "NL_000229_000000",
-    "name": "Moonbug",
-    "lang": "en",
-    "xmltv_id": "MoonbugKids.uk@SD",
-    "logo": "https://i.imgur.com/vZHtxQb.png"
-  },
-  {
-    "site_id": "NL_000025_019708",
-    "name": "XITE",
-    "lang": "nl",
-    "xmltv_id": "XITE.nl@SD",
-    "logo": "https://i.imgur.com/jxuwGRi.png"
-  },
-  {
-    "site_id": "NL_000018_019221",
-    "name": "National Geographic",
-    "lang": "nl",
-    "xmltv_id": "NationalGeographic.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
-  },
-  {
-    "site_id": "NL_000124_019487",
-    "name": "DanceTelevision",
-    "lang": "en",
-    "xmltv_id": "DanceTelevision.nl@SD",
-    "logo": "https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg"
-  },
-  {
-    "site_id": "NL_000128_019254",
-    "name": "MTV 80s",
-    "lang": "en",
-    "xmltv_id": "MTV80s.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
-  },
-  {
-    "site_id": "NL_200034_100000",
-    "name": "Sony Max",
-    "lang": "en",
-    "xmltv_id": "SonyMax.uk@SD",
-    "logo": "https://i.imgur.com/LBICKI5.png"
-  },
-  {
-    "site_id": "NL_000009_019024",
-    "name": "NET5",
-    "lang": "nl",
-    "xmltv_id": "NET5.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Net5_Logo_2023.jpg/250px-Net5_Logo_2023.jpg"
-  },
-  {
-    "site_id": "NL_000023_019363",
-    "name": "MTV",
-    "lang": "nl",
-    "xmltv_id": "MTV.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
-  },
-  {
-    "site_id": "NL_000040_020022",
-    "name": "BBC One",
-    "lang": "en",
-    "xmltv_id": "BBCOne.uk@London",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
-  },
-  {
-    "site_id": "NL_000068_020055",
-    "name": "MyZen TV",
-    "lang": "en",
-    "xmltv_id": "MyZenTV.fr@SD",
-    "logo": "https://i.imgur.com/fIi8o0C.png"
-  },
-  {
-    "site_id": "NL_000075_019246",
-    "name": "Discovery Science",
-    "lang": "nl",
-    "xmltv_id": "DiscoveryScienceEurope.uk@Netherlands",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png"
-  },
-  {
-    "site_id": "NL_000109_019464",
-    "name": "ESPN 3",
-    "lang": "nl",
-    "xmltv_id": "ESPN3.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
-  },
-  {
-    "site_id": "NL_000133_019271",
-    "name": "100% NL TV",
-    "lang": "nl",
-    "xmltv_id": "100NLTV.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/100p-nl-tv-logo.png/960px-100p-nl-tv-logo.png"
-  },
-  {
-    "site_id": "NL_000138_019591",
-    "name": "RTV Drenthe",
-    "lang": "nl",
-    "xmltv_id": "RTVDrenthe.nl@SD",
-    "logo": "https://i.imgur.com/UBQCjnG.png"
-  },
-  {
-    "site_id": "NL_000058_019381",
-    "name": "Investigation Discovery",
-    "lang": "nl",
-    "xmltv_id": "InvestigationDiscovery.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "NL_000095_019371",
-    "name": "Ziggo Sport 2",
-    "lang": "nl",
-    "xmltv_id": "ZiggoSport2.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000130_019274",
-    "name": "Mezzo",
-    "lang": "nl",
-    "xmltv_id": "Mezzo.fr@SD",
-    "logo": "https://i.imgur.com/auNdGeW.png"
-  },
-  {
-    "site_id": "NL_000035_020028",
-    "name": "ZDF",
-    "lang": "de",
-    "xmltv_id": "ZDF.de@SD",
-    "logo": "https://i.imgur.com/rtLb6m9.png"
-  },
-  {
-    "site_id": "NL_000053_019653",
-    "name": "Film1 Action",
-    "lang": "nl",
-    "xmltv_id": "Film1Action.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png"
-  },
-  {
-    "site_id": "NL_000119_019481",
-    "name": "CNBC Europe",
-    "lang": "en",
-    "xmltv_id": "CNBCEurope.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
-  },
-  {
-    "site_id": "NL_000226_019309",
-    "name": "Brazzers TV",
-    "lang": "nl",
-    "xmltv_id": "BrazzersTVEurope.us@SD",
-    "logo": "https://i.imgur.com/95nP0Pb.png"
-  },
-  {
-    "site_id": "NL_000021_019566",
-    "name": "TLC",
-    "lang": "nl",
-    "xmltv_id": "TLC.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
-  },
-  {
-    "site_id": "NL_000022_019328",
-    "name": "BBC NL",
-    "lang": "nl",
-    "xmltv_id": "BBCNL.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BBC_NL_Logo_2025.svg/960px-BBC_NL_Logo_2025.svg.png"
-  },
-  {
-    "site_id": "NL_000055_019645",
-    "name": "Film1 Drama",
-    "lang": "nl",
-    "xmltv_id": "Film1Drama.nl@SD",
-    "logo": "https://i.imgur.com/oqrnvib.png"
-  },
-  {
-    "site_id": "NL_000098_019255",
-    "name": "Ziggo Sport 5",
-    "lang": "nl",
-    "xmltv_id": "ZiggoSport5.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000003_019405",
-    "name": "NPO 3",
-    "lang": "nl",
-    "xmltv_id": "NPO3.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/960px-NPO_3_logo_2018.svg.png"
-  },
-  {
-    "site_id": "NL_000015_019166",
-    "name": "Comedy Central",
-    "lang": "nl",
-    "xmltv_id": "ComedyCentral.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
-  },
-  {
-    "site_id": "NL_000036_019465",
-    "name": "WDR",
-    "lang": "en",
-    "xmltv_id": "WDRFernsehen.de@Koln",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png"
-  },
-  {
-    "site_id": "NL_000054_019654",
-    "name": "Film1 Family",
-    "lang": "nl",
-    "xmltv_id": "Film1Family.nl@SD",
-    "logo": "https://i.imgur.com/8XRfXIa.png"
-  },
-  {
-    "site_id": "NL_000078_020002",
-    "name": "Animal Planet",
-    "lang": "nl",
-    "xmltv_id": "AnimalPlanet.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000080_019484",
-    "name": "NPO 2 extra",
-    "lang": "nl",
-    "xmltv_id": "NPO2extra.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/NPO_2_Extra_logo_2018.svg/960px-NPO_2_Extra_logo_2018.svg.png"
-  },
-  {
-    "site_id": "NL_000081_020051",
-    "name": "Family7",
-    "lang": "nl",
-    "xmltv_id": "Family7.nl@SD",
-    "logo": "https://i.imgur.com/hjApcBw.png"
-  },
-  {
-    "site_id": "NL_000108_019561",
-    "name": "ESPN 2",
-    "lang": "nl",
-    "xmltv_id": "ESPN2.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000041_019369",
-    "name": "BBC Two",
-    "lang": "en",
-    "xmltv_id": "BBCTwo.uk@England",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"
-  },
-  {
-    "site_id": "NL_000103_019581",
-    "name": "Eurosport 2",
-    "lang": "nl",
-    "xmltv_id": "Eurosport2.fr@Netherlands",
-    "logo": "https://i.imgur.com/f56dHgR.png"
-  },
-  {
-    "site_id": "NL_000140_019594",
-    "name": "Omroep Gelderland",
-    "lang": "nl",
-    "xmltv_id": "OmroepGelderland.nl@SD",
-    "logo": "https://i.imgur.com/G08hKit.png"
-  },
-  {
-    "site_id": "NL_000155_020073",
-    "name": "Sony Entertainment Television Asia",
-    "lang": "en",
-    "xmltv_id": "SonyEntertainmentTelevisionAsia.in@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Sony_TV_new.png/960px-Sony_TV_new.png"
-  },
-  {
-    "site_id": "NL_000170_019515",
-    "name": "Secret Circle",
-    "lang": "en"
-  },
-  {
-    "site_id": "NL_000173_019305",
-    "name": "PassieXXX",
-    "lang": "nl",
-    "xmltv_id": "PassieXXX.nl@SD",
-    "logo": "https://i.imgur.com/0tI5p44.png"
-  },
-  {
-    "site_id": "NL_000175_019312",
-    "name": "Meiden van Holland Hard",
-    "lang": "nl",
-    "xmltv_id": "MeidenvanHollandHard.nl@SD",
-    "logo": "https://i.imgur.com/sAGXmsn.png"
-  },
-  {
-    "site_id": "NL_900017_000000",
-    "name": "Viaplay TV",
-    "lang": "nl",
-    "xmltv_id": "ViaplayTV.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/960px-Viaplay_TV_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000117_019351",
-    "name": "Euronews",
-    "lang": "en",
-    "xmltv_id": "EuronewsEnglish.fr@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
-  },
-  {
-    "site_id": "NL_000127_019295",
-    "name": "Stingray LiteTV",
-    "lang": "nl",
-    "xmltv_id": "StingrayLiteTV.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/StingrayLiteTVlogo.png"
-  },
-  {
-    "site_id": "NL_000132_019278",
-    "name": "TV Oranje",
-    "lang": "nl",
-    "xmltv_id": "TVOranje.nl@SD",
-    "logo": "https://i.imgur.com/4EQIm6x.png"
-  },
-  {
-    "site_id": "NL_000008_019442",
-    "name": "Veronica / Disney Jr.",
-    "lang": "nl",
-    "xmltv_id": "VeronicaDisneyJr.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Veronica_TV_logo_2024.svg/960px-Veronica_TV_logo_2024.svg.png"
-  },
-  {
-    "site_id": "NL_000031_019362",
-    "name": "VRT 1",
-    "lang": "nl",
-    "xmltv_id": "VRT1.be@SD",
-    "logo": "https://i.imgur.com/wPAGbNb.png"
-  },
-  {
-    "site_id": "NL_000034_020027",
-    "name": "Das Erste",
-    "lang": "de",
-    "xmltv_id": "DasErste.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"
-  },
-  {
-    "site_id": "NL_000141_019209",
-    "name": "Omroep Flevoland",
-    "lang": "nl",
-    "xmltv_id": "OmroepFlevoland.nl@SD",
-    "logo": "https://i.imgur.com/rF4MTYD.png"
-  },
-  {
-    "site_id": "NL_000152_020077",
-    "name": "Zee TV",
-    "lang": "en",
-    "xmltv_id": "ZeeTVUK.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png"
   },
   {
     "site_id": "NL_000214_020004",
@@ -747,45 +14,25 @@
     "logo": "https://i.imgur.com/Cmku7NH.png"
   },
   {
-    "site_id": "NL_000221_020041",
-    "name": "DreamWorks",
+    "site_id": "NL_000223_019293",
+    "name": "HGTV",
     "lang": "nl",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"
+    "xmltv_id": "HGTV.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
   },
   {
-    "site_id": "NL_000029_019046",
-    "name": "Nickelodeon",
+    "site_id": "NL_000090_019492",
+    "name": "Cartoonito",
     "lang": "nl",
-    "xmltv_id": "Nickelodeon.nl@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
+    "xmltv_id": "CartoonitoCEE.uk@SD",
+    "logo": "https://i.imgur.com/9MrzLb1.png"
   },
   {
-    "site_id": "NL_000060_019297",
-    "name": "Shorts TV",
-    "lang": "en",
-    "xmltv_id": "ShortsTV.uk@SD",
-    "logo": "https://i.imgur.com/426L1ig.png"
-  },
-  {
-    "site_id": "NL_000093_019299",
-    "name": "RTL Telekids",
+    "site_id": "NL_000173_019305",
+    "name": "PassieXXX",
     "lang": "nl",
-    "xmltv_id": "RTLTelekids.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/RTL_Telekids_%282023%2C_stacked%29.svg/960px-RTL_Telekids_%282023%2C_stacked%29.svg.png"
-  },
-  {
-    "site_id": "NL_000099_019256",
-    "name": "Ziggo Sport 6",
-    "lang": "nl",
-    "xmltv_id": "ZiggoSport6.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000233_000000",
-    "name": "Ziggo Sport Extra",
-    "lang": "nl",
-    "xmltv_id": "ZiggoSportExtra.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
+    "xmltv_id": "PassieXXX.nl@SD",
+    "logo": "https://i.imgur.com/0tI5p44.png"
   },
   {
     "site_id": "NL_900016_019441",
@@ -802,172 +49,32 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/960px-NPO_1_logo_2014.svg.png"
   },
   {
-    "site_id": "NL_000144_019212",
-    "name": "Omroep West",
+    "site_id": "NL_000031_019362",
+    "name": "VRT 1",
     "lang": "nl",
-    "xmltv_id": "OmroepWest.nl@SD",
-    "logo": "https://i.imgur.com/5IDb9fk.png"
+    "xmltv_id": "VRT1.be@SD",
+    "logo": "https://i.imgur.com/wPAGbNb.png"
   },
   {
-    "site_id": "NL_000145_019208",
-    "name": "RTV Rijnmond",
+    "site_id": "NL_000103_019581",
+    "name": "Eurosport 2",
     "lang": "nl",
-    "xmltv_id": "RTVRijnmond.nl@SD",
-    "logo": "https://i.imgur.com/fJTs9xH.png"
+    "xmltv_id": "Eurosport2.fr@Netherlands",
+    "logo": "https://i.imgur.com/f56dHgR.png"
   },
   {
-    "site_id": "NL_000150_020075",
-    "name": "Utsav Plus",
-    "lang": "en",
-    "xmltv_id": "UtsavPlus.uk@SD",
-    "logo": "https://i.imgur.com/TERVtWT.png"
-  },
-  {
-    "site_id": "NL_000032_019226",
-    "name": "VRT Canvas",
+    "site_id": "NL_000140_019594",
+    "name": "Omroep Gelderland",
     "lang": "nl",
-    "xmltv_id": "VRTCanvas.be@SD",
-    "logo": "https://i.imgur.com/nMQE1jh.png"
+    "xmltv_id": "OmroepGelderland.nl@SD",
+    "logo": "https://i.imgur.com/G08hKit.png"
   },
   {
-    "site_id": "NL_000116_019005",
-    "name": "BBC News",
-    "lang": "en",
-    "xmltv_id": "BBCNews.uk@Africa",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "NL_000136_019583",
-    "name": "RTV Noord",
+    "site_id": "NL_000142_019211",
+    "name": "NH",
     "lang": "nl",
-    "xmltv_id": "RTVNoord.nl@SD",
-    "logo": "https://i.imgur.com/l92Cb6H.png"
-  },
-  {
-    "site_id": "NL_000160_019277",
-    "name": "TV8 Int.",
-    "lang": "tr",
-    "xmltv_id": "TV8int.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg"
-  },
-  {
-    "site_id": "NL_000056_019483",
-    "name": "RTL Crime",
-    "lang": "nl",
-    "xmltv_id": "RTLCrime.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/RTL_Crime_2016.png/960px-RTL_Crime_2016.png"
-  },
-  {
-    "site_id": "NL_000005_019462",
-    "name": "RTL 5",
-    "lang": "nl",
-    "xmltv_id": "RTL5.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/RTL_5_logo_2017.png/512px-RTL_5_logo_2017.png"
-  },
-  {
-    "site_id": "NL_000017_019222",
-    "name": "Discovery",
-    "lang": "nl",
-    "xmltv_id": "DiscoveryChannel.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000024_019701",
-    "name": "24Kitchen",
-    "lang": "nl",
-    "xmltv_id": "24Kitchen.us@Netherlands",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png"
-  },
-  {
-    "site_id": "NL_000088_019251",
-    "name": "Cartoon Network",
-    "lang": "nl",
-    "xmltv_id": "CartoonNetworkWesternEurope.uk@Netherlands",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000227_019310",
-    "name": "Dorcel TV",
-    "lang": "nl",
-    "xmltv_id": "DorcelTV.nl@SD",
-    "logo": "https://i.imgur.com/RkzyjEd.png"
-  },
-  {
-    "site_id": "NL_000028_019705",
-    "name": "HISTORY",
-    "lang": "nl",
-    "xmltv_id": "History.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
-  },
-  {
-    "site_id": "NL_000033_019025",
-    "name": "Ketnet",
-    "lang": "nl",
-    "xmltv_id": "Ketnet.be@SD",
-    "logo": "https://i.imgur.com/Q4vI453.png"
-  },
-  {
-    "site_id": "NL_000037_019186",
-    "name": "NDR",
-    "lang": "de",
-    "xmltv_id": "NDRFernsehen.de@Hamburg",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png"
-  },
-  {
-    "site_id": "NL_000230_000000",
-    "name": "Top 40 TV",
-    "lang": "nl",
-    "xmltv_id": "Top40TV.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Top_40_2023_logo.svg/960px-Top_40_2023_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000051_019047",
-    "name": "2M",
-    "lang": "en",
-    "xmltv_id": "2MMonde.ma@SD",
-    "logo": "https://i.imgur.com/MvpntzA.png"
-  },
-  {
-    "site_id": "NL_000063_019307",
-    "name": "NPO 1 extra",
-    "lang": "nl",
-    "xmltv_id": "NPO1extra.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NPO_1_Extra_logo_2018.svg/960px-NPO_1_Extra_logo_2018.svg.png"
-  },
-  {
-    "site_id": "NL_000110_019562",
-    "name": "ESPN 4",
-    "lang": "nl",
-    "xmltv_id": "ESPN4.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
-  },
-  {
-    "site_id": "NL_200035_100000",
-    "name": "Colors TV",
-    "lang": "en",
-    "xmltv_id": "Colors.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "NL_000077_019706",
-    "name": "National Geographic WILD",
-    "lang": "nl",
-    "xmltv_id": "NationalGeographicWild.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000134_019296",
-    "name": "192TV",
-    "lang": "nl",
-    "xmltv_id": "192TV.nl@SD",
-    "logo": "https://i.imgur.com/PQ0Arp9.png"
-  },
-  {
-    "site_id": "NL_000096_019382",
-    "name": "Ziggo Sport 3",
-    "lang": "nl",
-    "xmltv_id": "ZiggoSport3.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
+    "xmltv_id": "NH.nl@SD",
+    "logo": "https://i.imgur.com/SPkK4md.png"
   },
   {
     "site_id": "NL_000148_019144",
@@ -977,74 +84,18 @@
     "logo": "https://i.imgur.com/SDD5KS5.png"
   },
   {
-    "site_id": "NL_000158_019266",
-    "name": "Eurostar",
+    "site_id": "NL_000157_019270",
+    "name": "Euro D",
     "lang": "tr",
-    "xmltv_id": "EuroStar.tr@SD",
-    "logo": "https://i.imgur.com/kb165Ot.png"
+    "xmltv_id": "EuroD.tr@SD",
+    "logo": "https://i.imgur.com/x9kHsXo.png"
   },
   {
-    "site_id": "NL_000231_000000",
-    "name": "Viaplay TV",
-    "lang": "nl",
-    "xmltv_id": "ViaplayTV.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/960px-Viaplay_TV_logo.svg.png"
-  },
-  {
-    "site_id": "NL_000052_019655",
-    "name": "Film1 Premiere",
-    "lang": "nl",
-    "xmltv_id": "Film1Premiere.nl@SD",
-    "logo": "https://i.imgur.com/Kn9LX8i.png"
-  },
-  {
-    "site_id": "NL_000069_020071",
-    "name": "Horse \u0026 Country TV",
-    "lang": "nl",
-    "xmltv_id": "HorseCountryTV.uk@SD",
-    "logo": "https://i.imgur.com/1x6zYZr.png"
-  },
-  {
-    "site_id": "NL_000171_019313",
-    "name": "Penthouse Gold",
+    "site_id": "NL_200034_100000",
+    "name": "Sony Max",
     "lang": "en",
-    "xmltv_id": "PenthouseGold.us@SD",
-    "logo": "https://i.imgur.com/0JufwBJ.png"
-  },
-  {
-    "site_id": "NL_000217_019123",
-    "name": "Playboy TV Europe",
-    "lang": "en",
-    "xmltv_id": "PlayboyTVEurope.us@SD",
-    "logo": "https://i.imgur.com/5di4Nis.png"
-  },
-  {
-    "site_id": "NL_000027_019330",
-    "name": "Disney Channel",
-    "lang": "nl",
-    "xmltv_id": "DisneyChannel.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "site_id": "NL_000047_019428",
-    "name": "TVE",
-    "lang": "es",
-    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png"
-  },
-  {
-    "site_id": "NL_000139_019592",
-    "name": "RTV Oost",
-    "lang": "nl",
-    "xmltv_id": "RTVOost.nl@SD",
-    "logo": "https://i.imgur.com/nTR6q9H.png"
-  },
-  {
-    "site_id": "NL_000002_019402",
-    "name": "NPO 2",
-    "lang": "nl",
-    "xmltv_id": "NPO2.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/960px-NPO_2_logo_2014.svg.png"
+    "xmltv_id": "SonyMax.uk@SD",
+    "logo": "https://i.imgur.com/LBICKI5.png"
   },
   {
     "site_id": "NL_000004_019461",
@@ -1054,18 +105,114 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RTL4_2023.svg/960px-RTL4_2023.svg.png"
   },
   {
-    "site_id": "NL_000115_019447",
-    "name": "CNN",
-    "lang": "en",
-    "xmltv_id": "CNNInternational.us@MENA",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
+    "site_id": "NL_000107_019441",
+    "name": "ESPN",
+    "lang": "nl",
+    "xmltv_id": "ESPN.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
   },
   {
-    "site_id": "NL_000162_019250",
-    "name": "TRT Çocuk",
+    "site_id": "NL_000109_019464",
+    "name": "ESPN 3",
+    "lang": "nl",
+    "xmltv_id": "ESPN3.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
+  },
+  {
+    "site_id": "NL_000027_019330",
+    "name": "Disney Channel",
+    "lang": "nl",
+    "xmltv_id": "DisneyChannel.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+  },
+  {
+    "site_id": "NL_000084_019301",
+    "name": "Nicktoons",
+    "lang": "nl",
+    "xmltv_id": "Nicktoons.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
+  },
+  {
+    "site_id": "NL_000095_019371",
+    "name": "Ziggo Sport 2",
+    "lang": "nl",
+    "xmltv_id": "ZiggoSport2.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000122_019495",
+    "name": "TV 538",
+    "lang": "nl",
+    "xmltv_id": "TV538.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png"
+  },
+  {
+    "site_id": "NL_000013_019327",
+    "name": "Ziggo TV",
+    "lang": "nl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/ziggo-tv-nl.png"
+  },
+  {
+    "site_id": "NL_000017_019222",
+    "name": "Discovery",
+    "lang": "nl",
+    "xmltv_id": "DiscoveryChannel.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000063_019307",
+    "name": "NPO 1 extra",
+    "lang": "nl",
+    "xmltv_id": "NPO1extra.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NPO_1_Extra_logo_2018.svg/960px-NPO_1_Extra_logo_2018.svg.png"
+  },
+  {
+    "site_id": "NL_000087_019303",
+    "name": "Nick Jr.",
+    "lang": "nl",
+    "xmltv_id": "NickJr.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "NL_000098_019255",
+    "name": "Ziggo Sport 5",
+    "lang": "nl",
+    "xmltv_id": "ZiggoSport5.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
+  },
+  {
+    "site_id": "NL_900019_000000",
+    "name": "Ziggo TV",
+    "lang": "nl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/ziggo-tv-nl.png"
+  },
+  {
+    "site_id": "NL_000036_019465",
+    "name": "WDR",
+    "lang": "en",
+    "xmltv_id": "WDRFernsehen.de@Koln",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png"
+  },
+  {
+    "site_id": "NL_000088_019251",
+    "name": "Cartoon Network",
+    "lang": "nl",
+    "xmltv_id": "CartoonNetworkWesternEurope.uk@Netherlands",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000150_020075",
+    "name": "Utsav Plus",
+    "lang": "en",
+    "xmltv_id": "UtsavPlus.uk@SD",
+    "logo": "https://i.imgur.com/TERVtWT.png"
+  },
+  {
+    "site_id": "NL_000164_020070",
+    "name": "TRT Müzik",
     "lang": "tr",
-    "xmltv_id": "TRTCocuk.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"
+    "xmltv_id": "TRTMuzik.tr@SD",
+    "logo": "https://i.imgur.com/JgUzRH8.png"
   },
   {
     "site_id": "NL_000176_019308",
@@ -1075,10 +222,867 @@
     "logo": "https://i.imgur.com/9j1e5lc.png"
   },
   {
-    "site_id": "NL_000223_019293",
-    "name": "HGTV",
+    "site_id": "NL_000229_000000",
+    "name": "Moonbug",
+    "lang": "en",
+    "xmltv_id": "MoonbugKids.uk@SD",
+    "logo": "https://i.imgur.com/vZHtxQb.png"
+  },
+  {
+    "site_id": "NL_000033_019025",
+    "name": "Ketnet",
     "lang": "nl",
-    "xmltv_id": "HGTV.nl@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
+    "xmltv_id": "Ketnet.be@SD",
+    "logo": "https://i.imgur.com/Q4vI453.png"
+  },
+  {
+    "site_id": "NL_000053_019653",
+    "name": "Film1 Action",
+    "lang": "nl",
+    "xmltv_id": "Film1Action.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png"
+  },
+  {
+    "site_id": "NL_000058_019381",
+    "name": "Investigation Discovery",
+    "lang": "nl",
+    "xmltv_id": "InvestigationDiscovery.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
+    "site_id": "NL_000061_019331",
+    "name": "E!",
+    "lang": "nl",
+    "xmltv_id": "EEurope.nl@SD",
+    "logo": "https://i.imgur.com/TWFDkap.png"
+  },
+  {
+    "site_id": "NL_000099_019256",
+    "name": "Ziggo Sport 6",
+    "lang": "nl",
+    "xmltv_id": "ZiggoSport6.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000133_019271",
+    "name": "100% NL TV",
+    "lang": "nl",
+    "xmltv_id": "100NLTV.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/100p-nl-tv-logo.png/960px-100p-nl-tv-logo.png"
+  },
+  {
+    "site_id": "NL_000134_019296",
+    "name": "192TV",
+    "lang": "nl",
+    "xmltv_id": "192TV.nl@SD",
+    "logo": "https://i.imgur.com/PQ0Arp9.png"
+  },
+  {
+    "site_id": "NL_000226_019309",
+    "name": "Brazzers TV",
+    "lang": "nl",
+    "xmltv_id": "BrazzersTVEurope.us@SD",
+    "logo": "https://i.imgur.com/95nP0Pb.png"
+  },
+  {
+    "site_id": "NL_000110_019562",
+    "name": "ESPN 4",
+    "lang": "nl",
+    "xmltv_id": "ESPN4.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000141_019209",
+    "name": "Omroep Flevoland",
+    "lang": "nl",
+    "xmltv_id": "OmroepFlevoland.nl@SD",
+    "logo": "https://i.imgur.com/rF4MTYD.png"
+  },
+  {
+    "site_id": "NL_000158_019266",
+    "name": "Eurostar",
+    "lang": "tr",
+    "xmltv_id": "EuroStar.tr@SD",
+    "logo": "https://i.imgur.com/kb165Ot.png"
+  },
+  {
+    "site_id": "NL_000054_019654",
+    "name": "Film1 Family",
+    "lang": "nl",
+    "xmltv_id": "Film1Family.nl@SD",
+    "logo": "https://i.imgur.com/8XRfXIa.png"
+  },
+  {
+    "site_id": "NL_000055_019645",
+    "name": "Film1 Drama",
+    "lang": "nl",
+    "xmltv_id": "Film1Drama.nl@SD",
+    "logo": "https://i.imgur.com/oqrnvib.png"
+  },
+  {
+    "site_id": "NL_000077_019706",
+    "name": "National Geographic WILD",
+    "lang": "nl",
+    "xmltv_id": "NationalGeographicWild.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000080_019484",
+    "name": "NPO 2 extra",
+    "lang": "nl",
+    "xmltv_id": "NPO2extra.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/NPO_2_Extra_logo_2018.svg/960px-NPO_2_Extra_logo_2018.svg.png"
+  },
+  {
+    "site_id": "NL_000127_019295",
+    "name": "Stingray LiteTV",
+    "lang": "nl",
+    "xmltv_id": "StingrayLiteTV.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/StingrayLiteTVlogo.png"
+  },
+  {
+    "site_id": "NL_000131_019248",
+    "name": "Stingray DJAZZ",
+    "lang": "nl",
+    "xmltv_id": "StingrayDJAZZ.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png"
+  },
+  {
+    "site_id": "NL_000018_019221",
+    "name": "National Geographic",
+    "lang": "nl",
+    "xmltv_id": "NationalGeographic.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+  },
+  {
+    "site_id": "NL_000115_019447",
+    "name": "CNN",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "NL_000124_019487",
+    "name": "DanceTelevision",
+    "lang": "en",
+    "xmltv_id": "DanceTelevision.nl@SD",
+    "logo": "https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg"
+  },
+  {
+    "site_id": "NL_000153_020076",
+    "name": "Zee Cinema",
+    "lang": "en",
+    "xmltv_id": "ZeeCinema.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "site_id": "NL_000034_020027",
+    "name": "Das Erste",
+    "lang": "de",
+    "xmltv_id": "DasErste.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"
+  },
+  {
+    "site_id": "NL_000035_020028",
+    "name": "ZDF",
+    "lang": "de",
+    "xmltv_id": "ZDF.de@SD",
+    "logo": "https://i.imgur.com/rtLb6m9.png"
+  },
+  {
+    "site_id": "NL_000144_019212",
+    "name": "Omroep West",
+    "lang": "nl",
+    "xmltv_id": "OmroepWest.nl@SD",
+    "logo": "https://i.imgur.com/5IDb9fk.png"
+  },
+  {
+    "site_id": "NL_000156_020072",
+    "name": "ShowTürk",
+    "lang": "tr",
+    "xmltv_id": "ShowTurk.tr@SD",
+    "logo": "https://i.imgur.com/fdZpGDj.png"
+  },
+  {
+    "site_id": "NL_000230_000000",
+    "name": "Top 40 TV",
+    "lang": "nl",
+    "xmltv_id": "Top40TV.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Top_40_2023_logo.svg/960px-Top_40_2023_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000024_019701",
+    "name": "24Kitchen",
+    "lang": "nl",
+    "xmltv_id": "24Kitchen.us@Netherlands",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png"
+  },
+  {
+    "site_id": "NL_000040_020022",
+    "name": "BBC One",
+    "lang": "en",
+    "xmltv_id": "BBCOne.uk@London",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png"
+  },
+  {
+    "site_id": "NL_000052_019655",
+    "name": "Film1 Premiere",
+    "lang": "nl",
+    "xmltv_id": "Film1Premiere.nl@SD",
+    "logo": "https://i.imgur.com/Kn9LX8i.png"
+  },
+  {
+    "site_id": "NL_000064_019275",
+    "name": "OUTtv",
+    "lang": "nl",
+    "xmltv_id": "OUTtv.nl@SD",
+    "logo": "https://i.imgur.com/QlUWNSU.png"
+  },
+  {
+    "site_id": "NL_000068_020055",
+    "name": "MyZen TV",
+    "lang": "en",
+    "xmltv_id": "MyZenTV.fr@SD",
+    "logo": "https://i.imgur.com/fIi8o0C.png"
+  },
+  {
+    "site_id": "NL_000138_019591",
+    "name": "RTV Drenthe",
+    "lang": "nl",
+    "xmltv_id": "RTVDrenthe.nl@SD",
+    "logo": "https://i.imgur.com/UBQCjnG.png"
+  },
+  {
+    "site_id": "NL_000146_019213",
+    "name": "Omroep Zeeland",
+    "lang": "nl",
+    "xmltv_id": "OmroepZeeland.nl@SD",
+    "logo": "https://i.imgur.com/3c3QUSn.png"
+  },
+  {
+    "site_id": "NL_000154_020078",
+    "name": "Zing",
+    "lang": "en",
+    "xmltv_id": "Zing.uk@SD",
+    "logo": "https://i.imgur.com/zStK8g2.png"
+  },
+  {
+    "site_id": "NL_000030_019152",
+    "name": "ONS",
+    "lang": "nl",
+    "xmltv_id": "ONS.nl@SD",
+    "logo": "https://i.imgur.com/f9ruYUn.png"
+  },
+  {
+    "site_id": "NL_000171_019313",
+    "name": "Penthouse Gold",
+    "lang": "en",
+    "xmltv_id": "PenthouseGold.us@SD",
+    "logo": "https://i.imgur.com/0JufwBJ.png"
+  },
+  {
+    "site_id": "NL_000005_019462",
+    "name": "RTL 5",
+    "lang": "nl",
+    "xmltv_id": "RTL5.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/RTL_5_logo_2017.png/512px-RTL_5_logo_2017.png"
+  },
+  {
+    "site_id": "NL_000006_019130",
+    "name": "SBS6",
+    "lang": "nl",
+    "xmltv_id": "SBS6.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SBS6_%282023%29_orange.png/120px-SBS6_%282023%29_orange.png"
+  },
+  {
+    "site_id": "NL_000129_020044",
+    "name": "Stingray Classica",
+    "lang": "nl",
+    "xmltv_id": "StingrayClassica.ca@SD",
+    "logo": "https://i.imgur.com/nh1k5RC.png"
+  },
+  {
+    "site_id": "NL_000151_020074",
+    "name": "Utsav Gold",
+    "lang": "en",
+    "xmltv_id": "UtsavGold.in@SD",
+    "logo": "https://i.imgur.com/7pTZm9O.png"
+  },
+  {
+    "site_id": "NL_000014_019661",
+    "name": "Ziggo Sport",
+    "lang": "nl",
+    "xmltv_id": "ZiggoSport.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000019_019671",
+    "name": "SBS9",
+    "lang": "nl",
+    "xmltv_id": "SBS9.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/SBS9_2018.png/120px-SBS9_2018.png"
+  },
+  {
+    "site_id": "NL_000041_019369",
+    "name": "BBC Two",
+    "lang": "en",
+    "xmltv_id": "BBCTwo.uk@England",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png"
+  },
+  {
+    "site_id": "NL_000155_020073",
+    "name": "Sony Entertainment Television Asia",
+    "lang": "en",
+    "xmltv_id": "SonyEntertainmentTelevisionAsia.in@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Sony_TV_new.png/960px-Sony_TV_new.png"
+  },
+  {
+    "site_id": "NL_000163_019272",
+    "name": "ATV Avrupa",
+    "lang": "tr",
+    "xmltv_id": "ATVAvrupa.tr@SD",
+    "logo": "https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png"
+  },
+  {
+    "site_id": "NL_000212_020042",
+    "name": "Nickelodeon Ukraine",
+    "lang": "uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/nickelodeon-ukraine-ua.png"
+  },
+  {
+    "site_id": "NL_000231_000000",
+    "name": "Viaplay TV",
+    "lang": "nl",
+    "xmltv_id": "ViaplayTV.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/960px-Viaplay_TV_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000045_019354",
+    "name": "TV5 Monde",
+    "lang": "nl",
+    "xmltv_id": "TV5MondeEurope.fr@SD",
+    "logo": "https://i.imgur.com/rPAbMSu.png"
+  },
+  {
+    "site_id": "NL_000075_019246",
+    "name": "Discovery Science",
+    "lang": "nl",
+    "xmltv_id": "DiscoveryScienceEurope.uk@Netherlands",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png"
+  },
+  {
+    "site_id": "NL_000009_019024",
+    "name": "NET5",
+    "lang": "nl",
+    "xmltv_id": "NET5.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Net5_Logo_2023.jpg/250px-Net5_Logo_2023.jpg"
+  },
+  {
+    "site_id": "NL_000047_019428",
+    "name": "TVE",
+    "lang": "es",
+    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png"
+  },
+  {
+    "site_id": "NL_000049_019514",
+    "name": "RTV-7",
+    "lang": "nl",
+    "xmltv_id": "RTV7.nl@SD",
+    "logo": "https://i.imgur.com/GGzswKs.png"
+  },
+  {
+    "site_id": "NL_000057_019493",
+    "name": "Crime+Investigation",
+    "lang": "nl",
+    "xmltv_id": "CrimePlusInvestigationBenelux.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
+  },
+  {
+    "site_id": "NL_000118_019350",
+    "name": "Aljazeera English",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+  },
+  {
+    "site_id": "NL_000023_019363",
+    "name": "MTV",
+    "lang": "nl",
+    "xmltv_id": "MTV.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+  },
+  {
+    "site_id": "NL_000032_019226",
+    "name": "VRT Canvas",
+    "lang": "nl",
+    "xmltv_id": "VRTCanvas.be@SD",
+    "logo": "https://i.imgur.com/nMQE1jh.png"
+  },
+  {
+    "site_id": "NL_000078_020002",
+    "name": "Animal Planet",
+    "lang": "nl",
+    "xmltv_id": "AnimalPlanet.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000060_019297",
+    "name": "Shorts TV",
+    "lang": "en",
+    "xmltv_id": "ShortsTV.uk@SD",
+    "logo": "https://i.imgur.com/426L1ig.png"
+  },
+  {
+    "site_id": "NL_000097_019370",
+    "name": "Ziggo Sport 4",
+    "lang": "nl",
+    "xmltv_id": "ZiggoSport4.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000147_019593",
+    "name": "Omroep Brabant",
+    "lang": "nl",
+    "xmltv_id": "OmroepBrabant.nl@SD",
+    "logo": "https://i.imgur.com/KLYsKKC.png"
+  },
+  {
+    "site_id": "NL_000227_019310",
+    "name": "Dorcel TV",
+    "lang": "nl",
+    "xmltv_id": "DorcelTV.nl@SD",
+    "logo": "https://i.imgur.com/RkzyjEd.png"
+  },
+  {
+    "site_id": "NL_000007_019181",
+    "name": "RTL 7",
+    "lang": "nl",
+    "xmltv_id": "RTL7.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTL7_2023.svg/960px-RTL7_2023.svg.png"
+  },
+  {
+    "site_id": "NL_000011_019563",
+    "name": "STAR Channel",
+    "lang": "nl",
+    "xmltv_id": "STARChannel.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/960px-Star_Channel_2023.svg.png"
+  },
+  {
+    "site_id": "NL_000028_019705",
+    "name": "HISTORY",
+    "lang": "nl",
+    "xmltv_id": "History.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
+  },
+  {
+    "site_id": "NL_000213_020003",
+    "name": "FilmBox",
+    "lang": "nl",
+    "xmltv_id": "FilmBox.nl@Netherlands",
+    "logo": "https://i.imgur.com/VyaslIY.png"
+  },
+  {
+    "site_id": "NL_000217_019123",
+    "name": "Playboy TV Europe",
+    "lang": "en",
+    "xmltv_id": "PlayboyTVEurope.us@SD",
+    "logo": "https://i.imgur.com/5di4Nis.png"
+  },
+  {
+    "site_id": "NL_000143_019207",
+    "name": "RTV Utrecht",
+    "lang": "nl",
+    "xmltv_id": "RTVUtrecht.nl@SD",
+    "logo": "https://i.imgur.com/nrvs30l.png"
+  },
+  {
+    "site_id": "NL_000038_019063",
+    "name": "RTL",
+    "lang": "de",
+    "xmltv_id": "RTL.de@SD",
+    "logo": "https://i.imgur.com/94K94k2.png"
+  },
+  {
+    "site_id": "NL_000056_019483",
+    "name": "RTL Crime",
+    "lang": "nl",
+    "xmltv_id": "RTLCrime.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/RTL_Crime_2016.png/960px-RTL_Crime_2016.png"
+  },
+  {
+    "site_id": "NL_000091_019490",
+    "name": "BabyTV",
+    "lang": "nl",
+    "xmltv_id": "BabyTV.uk@UK",
+    "logo": "https://i.imgur.com/4BDJ5FT.png"
+  },
+  {
+    "site_id": "NL_000108_019561",
+    "name": "ESPN 2",
+    "lang": "nl",
+    "xmltv_id": "ESPN2.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000128_019254",
+    "name": "MTV 80s",
+    "lang": "en",
+    "xmltv_id": "MTV80s.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
+  },
+  {
+    "site_id": "NL_000139_019592",
+    "name": "RTV Oost",
+    "lang": "nl",
+    "xmltv_id": "RTVOost.nl@SD",
+    "logo": "https://i.imgur.com/nTR6q9H.png"
+  },
+  {
+    "site_id": "NL_000039_019153",
+    "name": "SAT.1",
+    "lang": "de",
+    "xmltv_id": "SAT1.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/960px-Neues_Sat._1_Logo_transparent.png"
+  },
+  {
+    "site_id": "NL_000025_019708",
+    "name": "XITE",
+    "lang": "nl",
+    "xmltv_id": "XITE.nl@SD",
+    "logo": "https://i.imgur.com/jxuwGRi.png"
+  },
+  {
+    "site_id": "NL_000016_019388",
+    "name": "Paramount Network",
+    "lang": "nl",
+    "xmltv_id": "ParamountNetwork.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/960px-Paramount_Network_2024.svg.png"
+  },
+  {
+    "site_id": "NL_000021_019566",
+    "name": "TLC",
+    "lang": "nl",
+    "xmltv_id": "TLC.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
+  },
+  {
+    "site_id": "NL_000072_019298",
+    "name": "RTL Lounge",
+    "lang": "nl",
+    "xmltv_id": "RTLLounge.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/RTL_Lounge_%282023%2C_stacked%29.svg/960px-RTL_Lounge_%282023%2C_stacked%29.svg.png"
+  },
+  {
+    "site_id": "NL_000048_020052",
+    "name": "Mediaset Italia",
+    "lang": "it",
+    "xmltv_id": "MediasetItalia.it@SD",
+    "logo": "https://i.imgur.com/F4gyqhw.png"
+  },
+  {
+    "site_id": "NL_000050_019353",
+    "name": "TRT Türk",
+    "lang": "tr",
+    "xmltv_id": "TRTTurk.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000114_019151",
+    "name": "NPO Politiek en Nieuws",
+    "lang": "nl",
+    "xmltv_id": "NPOPolitiekenNieuws.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NPO_Politiek_en_Nieuws_logo.svg/960px-NPO_Politiek_en_Nieuws_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000130_019274",
+    "name": "Mezzo",
+    "lang": "nl",
+    "xmltv_id": "Mezzo.fr@SD",
+    "logo": "https://i.imgur.com/auNdGeW.png"
+  },
+  {
+    "site_id": "NL_000081_020051",
+    "name": "Family7",
+    "lang": "nl",
+    "xmltv_id": "Family7.nl@SD",
+    "logo": "https://i.imgur.com/hjApcBw.png"
+  },
+  {
+    "site_id": "NL_000051_019047",
+    "name": "2M",
+    "lang": "en",
+    "xmltv_id": "2MMonde.ma@SD",
+    "logo": "https://i.imgur.com/MvpntzA.png"
+  },
+  {
+    "site_id": "NL_000136_019583",
+    "name": "RTV Noord",
+    "lang": "nl",
+    "xmltv_id": "RTVNoord.nl@SD",
+    "logo": "https://i.imgur.com/l92Cb6H.png"
+  },
+  {
+    "site_id": "NL_000149_019210",
+    "name": "AT5",
+    "lang": "nl",
+    "xmltv_id": "AT5.nl@SD",
+    "logo": "https://i.imgur.com/iAiSlEL.png"
+  },
+  {
+    "site_id": "NL_000191_019261",
+    "name": "Love Nature",
+    "lang": "nl",
+    "xmltv_id": "LoveNature.ca@SD",
+    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
+  },
+  {
+    "site_id": "NL_000003_019405",
+    "name": "NPO 3",
+    "lang": "nl",
+    "xmltv_id": "NPO3.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/960px-NPO_3_logo_2018.svg.png"
+  },
+  {
+    "site_id": "NL_000010_019422",
+    "name": "RTL 8",
+    "lang": "nl",
+    "xmltv_id": "RTL8.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RTL_8_logo_2017.png/512px-RTL_8_logo_2017.png"
+  },
+  {
+    "site_id": "NL_000012_019191",
+    "name": "RTL Z",
+    "lang": "nl",
+    "xmltv_id": "RTLZ.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_Z_Logo_2015.svg/960px-RTL_Z_Logo_2015.svg.png"
+  },
+  {
+    "site_id": "NL_000119_019481",
+    "name": "CNBC Europe",
+    "lang": "en",
+    "xmltv_id": "CNBCEurope.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
+  },
+  {
+    "site_id": "NL_000125_019294",
+    "name": "SLAM! TV",
+    "lang": "nl",
+    "xmltv_id": "SLAMTV.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Slam%21TV-logo.png/250px-Slam%21TV-logo.png"
+  },
+  {
+    "site_id": "NL_000152_020077",
+    "name": "Zee TV",
+    "lang": "en",
+    "xmltv_id": "ZeeTVUK.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png"
+  },
+  {
+    "site_id": "NL_000170_019515",
+    "name": "Secret Circle",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/secret-circle-nl.png"
+  },
+  {
+    "site_id": "NL_000221_020041",
+    "name": "DreamWorks",
+    "lang": "nl",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"
+  },
+  {
+    "site_id": "NL_000029_019046",
+    "name": "Nickelodeon",
+    "lang": "nl",
+    "xmltv_id": "Nickelodeon.nl@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "NL_000037_019186",
+    "name": "NDR",
+    "lang": "de",
+    "xmltv_id": "NDRFernsehen.de@Hamburg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png"
+  },
+  {
+    "site_id": "NL_000067_020024",
+    "name": "Fashion TV",
+    "lang": "en",
+    "xmltv_id": "FashionTVEurope.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000162_019250",
+    "name": "TRT Çocuk",
+    "lang": "tr",
+    "xmltv_id": "TRTCocuk.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"
+  },
+  {
+    "site_id": "NL_000216_019122",
+    "name": "Curiosity Channel",
+    "lang": "nl",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png"
+  },
+  {
+    "site_id": "NL_000233_000000",
+    "name": "Ziggo Sport Extra",
+    "lang": "nl",
+    "xmltv_id": "ZiggoSportExtra.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
+  },
+  {
+    "site_id": "NL_900017_000000",
+    "name": "Viaplay TV",
+    "lang": "nl",
+    "xmltv_id": "ViaplayTV.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/960px-Viaplay_TV_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000008_019442",
+    "name": "Veronica / Disney Jr.",
+    "lang": "nl",
+    "xmltv_id": "VeronicaDisneyJr.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Veronica_TV_logo_2024.svg/960px-Veronica_TV_logo_2024.svg.png"
+  },
+  {
+    "site_id": "NL_000015_019166",
+    "name": "Comedy Central",
+    "lang": "nl",
+    "xmltv_id": "ComedyCentral.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
+  },
+  {
+    "site_id": "NL_000093_019299",
+    "name": "RTL Telekids",
+    "lang": "nl",
+    "xmltv_id": "RTLTelekids.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/RTL_Telekids_%282023%2C_stacked%29.svg/960px-RTL_Telekids_%282023%2C_stacked%29.svg.png"
+  },
+  {
+    "site_id": "NL_000137_019214",
+    "name": "Omrop Fryslân",
+    "lang": "nl",
+    "xmltv_id": "OmropFryslan.nl@SD",
+    "logo": "https://i.imgur.com/khacDTU.png"
+  },
+  {
+    "site_id": "NL_200035_100000",
+    "name": "Colors TV",
+    "lang": "en",
+    "xmltv_id": "Colors.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "NL_000116_019005",
+    "name": "BBC News",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "NL_000132_019278",
+    "name": "TV Oranje",
+    "lang": "nl",
+    "xmltv_id": "TVOranje.nl@SD",
+    "logo": "https://i.imgur.com/4EQIm6x.png"
+  },
+  {
+    "site_id": "NL_000145_019208",
+    "name": "RTV Rijnmond",
+    "lang": "nl",
+    "xmltv_id": "RTVRijnmond.nl@SD",
+    "logo": "https://i.imgur.com/fJTs9xH.png"
+  },
+  {
+    "site_id": "NL_000175_019312",
+    "name": "Meiden van Holland Hard",
+    "lang": "nl",
+    "xmltv_id": "MeidenvanHollandHard.nl@SD",
+    "logo": "https://i.imgur.com/sAGXmsn.png"
+  },
+  {
+    "site_id": "NL_000215_020005",
+    "name": "ducktv",
+    "lang": "nl",
+    "xmltv_id": "ducktv.sk@HD",
+    "logo": "https://i.imgur.com/gRFQ35W.png"
+  },
+  {
+    "site_id": "NL_000232_000000",
+    "name": "Viaplay TV+",
+    "lang": "nl",
+    "xmltv_id": "ViaplayTVPlus.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/960px-Viaplay_TV_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000020_019432",
+    "name": "Eurosport 1",
+    "lang": "nl",
+    "xmltv_id": "Eurosport1.fr@Netherlands",
+    "logo": "https://i.imgur.com/olQJgm7.png"
+  },
+  {
+    "site_id": "NL_000069_020071",
+    "name": "Horse \u0026 Country TV",
+    "lang": "nl",
+    "xmltv_id": "HorseCountryTV.uk@SD",
+    "logo": "https://i.imgur.com/1x6zYZr.png"
+  },
+  {
+    "site_id": "NL_000085_019494",
+    "name": "Nick Music",
+    "lang": "nl",
+    "xmltv_id": "NickMusic.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/960px-NickMusic.svg.png"
+  },
+  {
+    "site_id": "NL_000160_019277",
+    "name": "TV8 Int.",
+    "lang": "tr",
+    "xmltv_id": "TV8int.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg"
+  },
+  {
+    "site_id": "NL_000002_019402",
+    "name": "NPO 2",
+    "lang": "nl",
+    "xmltv_id": "NPO2.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/960px-NPO_2_logo_2014.svg.png"
+  },
+  {
+    "site_id": "NL_000022_019328",
+    "name": "BBC NL",
+    "lang": "nl",
+    "xmltv_id": "BBCNL.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BBC_NL_Logo_2025.svg/960px-BBC_NL_Logo_2025.svg.png"
+  },
+  {
+    "site_id": "NL_000094_019321",
+    "name": "Ziggo Sport",
+    "lang": "nl",
+    "xmltv_id": "ZiggoSport.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000096_019382",
+    "name": "Ziggo Sport 3",
+    "lang": "nl",
+    "xmltv_id": "ZiggoSport3.nl@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
+  },
+  {
+    "site_id": "NL_000046_020053",
+    "name": "arte",
+    "lang": "de",
+    "xmltv_id": "arte.de@SD",
+    "logo": "https://i.imgur.com/ecXMjNl.png"
+  },
+  {
+    "site_id": "NL_000117_019351",
+    "name": "Euronews",
+    "lang": "en",
+    "xmltv_id": "EuronewsEnglish.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
   }
 ]

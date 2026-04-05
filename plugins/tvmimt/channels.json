@@ -1,5 +1,12 @@
 [
   {
+    "site_id": "2",
+    "name": "TVM",
+    "lang": "mt",
+    "xmltv_id": "TVM.mt@SD",
+    "logo": "https://i.imgur.com/V0iMsED.png"
+  },
+  {
     "site_id": "3",
     "name": "TVMnews+",
     "lang": "mt",
@@ -12,12 +19,5 @@
     "lang": "mt",
     "xmltv_id": "TVMsportPlus.mt@SD",
     "logo": "https://i.imgur.com/sZeInyM.png"
-  },
-  {
-    "site_id": "2",
-    "name": "TVM",
-    "lang": "mt",
-    "xmltv_id": "TVM.mt@SD",
-    "logo": "https://i.imgur.com/V0iMsED.png"
   }
 ]

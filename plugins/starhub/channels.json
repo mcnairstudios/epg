@@ -1,17 +1,43 @@
 [
   {
-    "site_id": "210ba103-0d19-4b26-bb9f-36d531d7471f",
-    "name": "TestChannel 996",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "dca44244-ee28-4372-b502-888c8795624b",
-    "name": "Phoenix InfoNews Channel HD",
+    "site_id": "4431c255-e2a9-45db-b43b-27cc19c14cb9",
+    "name": "ONE HD",
     "lang": "zh",
     "region": "ZH",
-    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD",
-    "logo": "https://i.imgur.com/mt4h3VO.png"
+    "xmltv_id": "ONE.sg@SD",
+    "logo": "https://i.imgur.com/ea0iGfA.png"
+  },
+  {
+    "site_id": "71278e7f-bdd5-43ac-b3ca-01d6fad180f5",
+    "name": "Animax HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AnimaxAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png"
+  },
+  {
+    "site_id": "9b01c864-5bcc-46e6-ba8e-3ba6c33ca8fb",
+    "name": "Hub Premier 7",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubPremier7.sg@SD",
+    "logo": "https://i.imgur.com/bVOyKEV.png"
+  },
+  {
+    "site_id": "14a563d5-d406-4094-907e-ec452c658de9",
+    "name": "Travelxp HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "Travelxp.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "8a28afbc-74bb-4c02-9bba-eb623358a9b8",
+    "name": "BBC World News HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "BBCNews.uk@AsiaPacific",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
   },
   {
     "site_id": "64178eae-3ca3-4048-99e4-fce9556b2812",
@@ -22,74 +48,206 @@
     "logo": "https://i.imgur.com/4ESi2La.png"
   },
   {
-    "site_id": "ace578ac-0996-4941-877c-58abe2ff3851",
-    "name": "TestChannel2",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "dd211710-85e9-45f6-b3c8-482dbda2d261",
-    "name": "Sun TV",
+    "site_id": "c2c8034f-2897-4944-afb6-bdfcb6e9a536",
+    "name": "Bloomberg Television HD",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "SunTV.in@SD",
-    "logo": "https://sund-images.sunnxt.com/194408/300x300_SunTV_194408_a54b0f81-2c2a-475f-ac37-794334397024.png"
+    "xmltv_id": "BloombergTV.us@Asia",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
   },
   {
-    "site_id": "ee7f8151-6ddb-4f5a-b651-aa19597ab57b",
-    "name": "Hub Premier 6",
+    "site_id": "3c292157-4cf2-48bf-9608-c0ef8ab79cc5",
+    "name": "Hub Sports 2 HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubSports2.sg@SD",
+    "logo": "https://i.imgur.com/NceGpxl.png"
+  },
+  {
+    "site_id": "f8ae363f-51f1-4063-808b-406947018b51",
+    "name": "Zee Tamil",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ZeeTamil.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIZH/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "df4507d8-292d-4036-b14e-b8343360dcaa",
+    "name": "beIN Sports 3",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "HubPremier6.sg@SD",
-    "logo": "https://i.imgur.com/9F7wNgI.png"
+    "xmltv_id": "beINSports3.qa@MENA",
+    "logo": "https://i.imgur.com/UYSMao3.png"
   },
   {
-    "site_id": "21bf30fb-2800-4761-aee8-452bdb68aff6",
-    "name": "Discovery HD",
+    "site_id": "6a59cb8b-182d-4038-b315-cf35cf7c5ac7",
+    "name": "Citra Entertainment",
     "lang": "zh",
     "region": "ZH",
-    "xmltv_id": "DiscoveryChannelSoutheastAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+    "xmltv_id": "CitraEntertainment.id@SD",
+    "logo": "https://i.imgur.com/Q1N6ka8.png"
   },
   {
-    "site_id": "68bbd5d8-379d-4646-a1e3-e204cc9c2f54",
-    "name": "Astro Sensasi HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "AstroSensasi.sg@SD",
-    "logo": "https://i.imgur.com/BVbyCAo.png"
+    "site_id": "6a59cb8b-182d-4038-b315-cf35cf7c5ac7",
+    "name": "Citra Entertainment",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CitraEntertainment.id@SD",
+    "logo": "https://i.imgur.com/Q1N6ka8.png"
+  },
+  {
+    "site_id": "5bc5b18c-b12c-462f-b49a-8056b74d72a3",
+    "name": "TVB Jade HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Jade.hk@SD",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"
+  },
+  {
+    "site_id": "206f755c-f417-4eb4-9631-ed21ae11f2e8",
+    "name": "Sky News HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "SkyNewsAustralia.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/960px-Sky_News_Australia_logo_-_2019.svg.png"
   },
   {
     "site_id": "578cfccf-634d-4beb-a167-741cb91a068e",
     "name": "Hub Premier 8",
-    "lang": "zh",
-    "region": "ZH",
+    "lang": "en",
+    "region": "EN",
     "xmltv_id": "HubPremier8.sg@SD",
     "logo": "https://i.imgur.com/stYijJ1.png"
   },
   {
-    "site_id": "2d16335e-aea6-47ab-b688-b3c694a27cf6",
-    "name": "Hub Premier 3",
+    "site_id": "c691a121-f6a9-450d-bd1c-cb41107b65b6",
+    "name": "Hub Sports 6",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "6c1be2bc-47c4-45b5-b027-fce49322f34c",
+    "name": "beIN Sports 4",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "HubPremier3.sg@SD",
-    "logo": "https://i.imgur.com/0A6bP0g.png"
+    "xmltv_id": "beINSports4.qa@MENA",
+    "logo": "https://i.imgur.com/vwAgJNi.png"
+  },
+  {
+    "site_id": "57f9281b-3c13-456c-aa52-a1e410706933",
+    "name": "Dragon TV",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "DragonTVInternational.cn@SD",
+    "logo": "https://i.imgur.com/WqM6xnF.png"
+  },
+  {
+    "site_id": "c25a38ab-772d-41e7-b0eb-83021f1d309c",
+    "name": "Nickelodeon Asia HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "NickelodeonAsia.sg@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "fd510962-c830-490f-be97-0ecadf2bcc11",
+    "name": "Cinemax HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "CinemaxAsia.sg@SD",
+    "logo": "https://i.imgur.com/c8crJfA.png"
+  },
+  {
+    "site_id": "210ba103-0d19-4b26-bb9f-36d531d7471f",
+    "name": "TestChannel 996",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "263c311c-4b74-4fc0-bb7b-7762cce99a8a",
+    "name": "NHK WORLD - JAPAN HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NHKWorldJapan.jp@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
+  },
+  {
+    "site_id": "dceea37a-621c-4ba5-a818-68ec6154e538",
+    "name": "beIN Sports 2 HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "beINSports2.qa@MENA",
+    "logo": "https://i.imgur.com/vUJZSvs.png"
+  },
+  {
+    "site_id": "6f6c5d20-18b3-4023-b505-726b9c36b6e9",
+    "name": "Asianet",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "Asianet.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET/images/LOGO_HD/image.png"
   },
   {
     "site_id": "64ddc417-c35c-4b95-84ca-67b0d6c77265",
     "name": "Cinema One Global",
-    "lang": "zh",
-    "region": "ZH",
+    "lang": "en",
+    "region": "EN",
     "xmltv_id": "CinemaOneGlobal.ph@SD",
     "logo": "https://i.imgur.com/zN8mfDR.png"
   },
   {
-    "site_id": "05384f9f-6241-4712-80ab-2c3f2d8ac7d5",
-    "name": "Hits HD",
+    "site_id": "1b8e6f65-e3f0-4369-bf33-c56212eb269e",
+    "name": "Euronews HD",
     "lang": "zh",
     "region": "ZH",
-    "xmltv_id": "HITS.sg@SD",
-    "logo": "https://i.imgur.com/IM8Gy1l.png"
+    "xmltv_id": "EuronewsEnglish.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
+  },
+  {
+    "site_id": "9e2f39ab-95ba-4031-bfeb-6b9b41491b08",
+    "name": "FashionTV HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "FashionTVAsia.fr@SD",
+    "logo": "https://i.imgur.com/ucTh9tO.png"
+  },
+  {
+    "site_id": "85611254-47a9-4f7c-9469-a4ee8b9f65b1",
+    "name": "BBC Lifestyle",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "BBCLifestyle.uk@Asia",
+    "logo": "https://i.imgur.com/9mzJJ3y.png"
+  },
+  {
+    "site_id": "cef88e25-64c6-402e-a6d5-36688708c40f",
+    "name": "HITS MOVIES HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HITSMovies.sg@SD",
+    "logo": "https://i.imgur.com/kyE3vXf.png"
+  },
+  {
+    "site_id": "628ba4e0-4239-46c3-a5a2-b15273c82009",
+    "name": "Fox News Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "FoxNewsChannel.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
+  },
+  {
+    "site_id": "ac52e93d-814b-40cb-9a3f-688765341bda",
+    "name": "Test 998",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "265c0f76-c798-496d-aca1-f540a70952ec",
+    "name": "The Filipino Channel HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "TheFilipinoChannelAsia.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/960px-The_Filipino_Channel_2011_logo.svg.png"
   },
   {
     "site_id": "62954bd1-435e-4929-a78a-90c12c99e3eb",
@@ -100,28 +258,333 @@
     "logo": "https://i.imgur.com/HaoVsm5.png"
   },
   {
-    "site_id": "2cea0112-a03d-4fa1-a4c2-276da4d3c908",
-    "name": "TV5MONDE HD",
+    "site_id": "a162afe8-8990-4d43-8c9a-c29d844ba2fb",
+    "name": "HBO Family HD",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "TV5MondeAsia.fr@SD",
-    "logo": "https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025\u0026path-prefix=vi"
+    "xmltv_id": "HBOFamilyAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png"
   },
   {
-    "site_id": "94ec2a65-eae1-4cdc-95a6-1ed67b17f4e4",
-    "name": "Zee Thirai",
+    "site_id": "e3141ae3-758b-4393-bd9c-9260babbca00",
+    "name": "Phoenix Chinese Channel HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "PhoenixChineseChannel.hk@SD",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"
+  },
+  {
+    "site_id": "68bbd5d8-379d-4646-a1e3-e204cc9c2f54",
+    "name": "Astro Sensasi HD",
     "lang": "zh",
     "region": "ZH",
-    "xmltv_id": "ZeeThirai.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI_HD/images/LOGO_HD/LOGO_HD_image.png"
+    "xmltv_id": "AstroSensasi.sg@SD",
+    "logo": "https://i.imgur.com/BVbyCAo.png"
   },
   {
-    "site_id": "9abfbba5-24c8-4e3f-8e00-f75902c7675b",
-    "name": "France24",
+    "site_id": "21184422-bbcd-4641-aeb6-fef337b5cc7a",
+    "name": "HBO Signature HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HBOSignatureAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png"
+  },
+  {
+    "site_id": "dceea37a-621c-4ba5-a818-68ec6154e538",
+    "name": "beIN Sports 2 HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "beINSports2.qa@MENA",
+    "logo": "https://i.imgur.com/vUJZSvs.png"
+  },
+  {
+    "site_id": "1b8e6f65-e3f0-4369-bf33-c56212eb269e",
+    "name": "Euronews HD",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "France24.fr@English",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
+    "xmltv_id": "EuronewsEnglish.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
+  },
+  {
+    "site_id": "2d16335e-aea6-47ab-b688-b3c694a27cf6",
+    "name": "Hub Premier 3",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubPremier3.sg@SD",
+    "logo": "https://i.imgur.com/0A6bP0g.png"
+  },
+  {
+    "site_id": "9e7d5a33-39dd-4e66-809f-c6099dc81d26",
+    "name": "TVBS Asia",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TVBSAsia.tw@SD",
+    "logo": "https://i.imgur.com/4S1rkhm.png"
+  },
+  {
+    "site_id": "1ed77994-5ab6-4d38-88f2-d662f3cfe5b0",
+    "name": "Sony Entertainment Television",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "SonyEntertainmentTelevision.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "5bc5b18c-b12c-462f-b49a-8056b74d72a3",
+    "name": "TVB Jade HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "Jade.hk@SD",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"
+  },
+  {
+    "site_id": "207a516d-2dbc-49f9-8d98-32d31bd89d3a",
+    "name": "Vannathirai",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "Vannathirai.sg@SD",
+    "logo": "https://i.imgur.com/mpGrgrU.png"
+  },
+  {
+    "site_id": "0ec5072f-b6dc-4676-a683-c32c5db2c3a1",
+    "name": "Premier Sports",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "PremierSports1Asia.ie@SD",
+    "logo": "https://i.imgur.com/8V6xddy.png"
+  },
+  {
+    "site_id": "dfb315cf-fbda-479a-87f0-ab35e65dd7aa",
+    "name": "Hub E City HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubECity.sg@SD",
+    "logo": "https://i.imgur.com/UscuzZm.png"
+  },
+  {
+    "site_id": "73d6b697-f5f1-4a04-a788-ece67c31ed1c",
+    "name": "Arirang TV HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ArirangTV.kr@SD",
+    "logo": "https://i.imgur.com/Asu5pE9.png"
+  },
+  {
+    "site_id": "68c4d3c4-93d9-4cb3-ba14-8918142bfbdc",
+    "name": "Zee Cinema",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ZeeCinema.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "site_id": "fd510962-c830-490f-be97-0ecadf2bcc11",
+    "name": "Cinemax HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CinemaxAsia.sg@SD",
+    "logo": "https://i.imgur.com/c8crJfA.png"
+  },
+  {
+    "site_id": "37e180c8-9f91-41b2-80fe-237b8eba0d8b",
+    "name": "Hub Premier 5",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubPremier5.sg@SD",
+    "logo": "https://i.imgur.com/XhX3oUI.png"
+  },
+  {
+    "site_id": "dd211710-85e9-45f6-b3c8-482dbda2d261",
+    "name": "Sun TV",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "SunTV.in@SD",
+    "logo": "https://sund-images.sunnxt.com/194408/300x300_SunTV_194408_a54b0f81-2c2a-475f-ac37-794334397024.png"
+  },
+  {
+    "site_id": "54f4de25-3575-44c4-92dd-b4a1c3c5b088",
+    "name": "Cartoon Network",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CartoonNetworkAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "site_id": "dc1af464-7877-46dd-95f0-f81ecd1e3677",
+    "name": "Hub E City HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubECity.sg@SD",
+    "logo": "https://i.imgur.com/UscuzZm.png"
+  },
+  {
+    "site_id": "265c0f76-c798-496d-aca1-f540a70952ec",
+    "name": "The Filipino Channel HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TheFilipinoChannelAsia.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/960px-The_Filipino_Channel_2011_logo.svg.png"
+  },
+  {
+    "site_id": "c290bc2f-bff6-485e-ad81-cba439754d16",
+    "name": "TestChannel1",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "64178eae-3ca3-4048-99e4-fce9556b2812",
+    "name": "NHK World Premium HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "NHKWorldPremium.jp@SD",
+    "logo": "https://i.imgur.com/4ESi2La.png"
+  },
+  {
+    "site_id": "705e08d5-dec6-4da2-858a-fd29e6b884d2",
+    "name": "Celestial Movies HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "CelestialMovies.hk@SD",
+    "logo": "https://i.imgur.com/Mb5ssnu.png"
+  },
+  {
+    "site_id": "eac9d5cf-9291-4900-adbd-b81551cbeeb3",
+    "name": "Hub Sports 5 HD",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "ee7f8151-6ddb-4f5a-b651-aa19597ab57b",
+    "name": "Hub Premier 6",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubPremier6.sg@SD",
+    "logo": "https://i.imgur.com/9F7wNgI.png"
+  },
+  {
+    "site_id": "36dae5f2-147d-4aab-a7bd-e9b7d9501734",
+    "name": "KTV HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "KTV.in@SD",
+    "logo": "https://sund-images.sunnxt.com/194409/300x300_KTV_194409_88a4dedb-e48c-4115-afec-49500ff7155a.png"
+  },
+  {
+    "site_id": "77da4ed7-09ed-455a-9c09-8d75000fe942",
+    "name": "CGTN",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "CGTN.cn@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
+  },
+  {
+    "site_id": "06830f4b-1684-42d1-a29a-616b2e34b0ae",
+    "name": "Bloomberg Originals",
+    "lang": "zh",
+    "region": "ZH",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png"
+  },
+  {
+    "site_id": "d27cd0f4-85c1-4c08-91cd-808643e7cec9",
+    "name": "HBO Hits HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HBOHitsAsia.sg@SD",
+    "logo": "https://i.imgur.com/CTjmocc.png"
+  },
+  {
+    "site_id": "dff489d0-abee-4b61-a684-e283ba799ce6",
+    "name": "SONY MAX",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "SonyMaxSingapore.sg@SD",
+    "logo": "https://i.imgur.com/LBICKI5.png"
+  },
+  {
+    "site_id": "082041a8-9ba1-41ab-9e01-6741f01f4e34",
+    "name": "Sun Music",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "SunMusic.in@SD",
+    "logo": "https://sund-images.sunnxt.com/194410/300x300_SunMusic_194410_7b8559b8-0c96-4328-8a00-5969c6096312.png"
+  },
+  {
+    "site_id": "ae1685eb-3ef0-4d14-9c89-8955bcc2bc02",
+    "name": "SPOTV2",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "SPOTV2.kr@SD",
+    "logo": "https://i.imgur.com/YD8fbTH.png"
+  },
+  {
+    "site_id": "71da87e9-5d3f-4544-8b6f-e9a374e05bc7",
+    "name": "FIGHT SPORTS HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "FightSports.us@SD",
+    "logo": "https://i.imgur.com/nV55veq.png"
+  },
+  {
+    "site_id": "71da87e9-5d3f-4544-8b6f-e9a374e05bc7",
+    "name": "FIGHT SPORTS HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "FightSports.us@SD",
+    "logo": "https://i.imgur.com/nV55veq.png"
+  },
+  {
+    "site_id": "ef624c07-6e36-4619-87fd-138a443aac1a",
+    "name": "CCM",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CCM.hk@SD",
+    "logo": "https://i.imgur.com/1VhXilw.png"
+  },
+  {
+    "site_id": "36dae5f2-147d-4aab-a7bd-e9b7d9501734",
+    "name": "KTV HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "KTV.in@SD",
+    "logo": "https://sund-images.sunnxt.com/194409/300x300_KTV_194409_88a4dedb-e48c-4115-afec-49500ff7155a.png"
+  },
+  {
+    "site_id": "21184422-bbcd-4641-aeb6-fef337b5cc7a",
+    "name": "HBO Signature HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HBOSignatureAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png"
+  },
+  {
+    "site_id": "68c4d3c4-93d9-4cb3-ba14-8918142bfbdc",
+    "name": "Zee Cinema",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ZeeCinema.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "site_id": "7c0ee1eb-5f74-4f5a-a338-69eb125badb4",
+    "name": "ETTV ASIA HD",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "99ee7b2d-1a7d-4fb1-8fbe-7903e028a87b",
+    "name": "Hub Premier 1",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubPremier1.sg@SD",
+    "logo": "https://i.ibb.co/G4zVGddt/Hub-Premier1.png"
+  },
+  {
+    "site_id": "6e5e72ef-9fa6-4007-9537-74e7d08f51c4",
+    "name": "Hub Sports 1 HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubSports1.sg@SD",
+    "logo": "https://i.imgur.com/bhxPddO.png"
   },
   {
     "site_id": "072f2bcf-99f1-48fe-8806-7a217e4bb372",
@@ -132,10 +595,268 @@
     "logo": "https://sund-images.sunnxt.com/194407/300x300_AdithyaTV_194407_f1717d3d-1b5c-475f-9535-d31223844dc8.png"
   },
   {
-    "site_id": "baa219e7-6b9a-4b1c-aba3-c77f26b7cf49",
-    "name": "TestChannel 993",
+    "site_id": "94ec2a65-eae1-4cdc-95a6-1ed67b17f4e4",
+    "name": "Zee Thirai",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ZeeThirai.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI_HD/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "site_id": "99ee7b2d-1a7d-4fb1-8fbe-7903e028a87b",
+    "name": "Hub Premier 1",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubPremier1.sg@SD",
+    "logo": "https://i.ibb.co/G4zVGddt/Hub-Premier1.png"
+  },
+  {
+    "site_id": "b4ff91f4-7aa6-4e06-ab58-d3932bcbb496",
+    "name": "Hub Sports 7",
     "lang": "en",
     "region": "EN"
+  },
+  {
+    "site_id": "c993aa99-5dd3-446e-9e55-62393353058a",
+    "name": "KBS World HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "KBSWorld.kr@SD",
+    "logo": "https://i.imgur.com/7DqgELX.png"
+  },
+  {
+    "site_id": "d27cd0f4-85c1-4c08-91cd-808643e7cec9",
+    "name": "HBO Hits HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HBOHitsAsia.sg@SD",
+    "logo": "https://i.imgur.com/CTjmocc.png"
+  },
+  {
+    "site_id": "df762cf1-6b2b-4e0c-9e23-427efde82020",
+    "name": "SEA Today",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "SEAToday.id@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/960px-SEA_Today_Indonesia_Logo.png"
+  },
+  {
+    "site_id": "94ec2a65-eae1-4cdc-95a6-1ed67b17f4e4",
+    "name": "Zee Thirai",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ZeeThirai.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI_HD/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "site_id": "705e08d5-dec6-4da2-858a-fd29e6b884d2",
+    "name": "Celestial Movies HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CelestialMovies.hk@SD",
+    "logo": "https://i.imgur.com/Mb5ssnu.png"
+  },
+  {
+    "site_id": "e21e78cb-6be3-4ec6-888f-39d3d365710c",
+    "name": "TestChannel 995",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "d258444e-b66b-4cbe-88db-e09f31ab8a1f",
+    "name": "AXN HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AXNAsia.sg@Singapore",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
+  },
+  {
+    "site_id": "e774692b-b038-4615-9148-d9cbbdbebb5b",
+    "name": "CCTV-4",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CCTV4Asia.cn@SD",
+    "logo": "https://i.imgur.com/tWt4Wou.png"
+  },
+  {
+    "site_id": "30970c17-8498-4c05-9174-a49c0fc33fad",
+    "name": "Asianet Movies",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AsianetMovies.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_MOVIES/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "5b36348e-1669-4883-9821-6b336cff0d58",
+    "name": "HISTORY HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HistoryAsia.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
+  },
+  {
+    "site_id": "7cad02e2-086a-49c8-bf6a-737d1f30c680",
+    "name": "CTI TV HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "CTiTV.tw@SD",
+    "logo": "https://i.imgur.com/tuI3pTz.png"
+  },
+  {
+    "site_id": "4db9b282-0e8d-456e-ba83-89b4eaf173d7",
+    "name": "Nick Jr",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "NickJrAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "aab336e8-ef09-4e27-91d4-81c35b802a0a",
+    "name": "Hub Premier 4",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubPremier4.sg@SD",
+    "logo": "https://i.imgur.com/RTgyfAe.png"
+  },
+  {
+    "site_id": "57f9281b-3c13-456c-aa52-a1e410706933",
+    "name": "Dragon TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DragonTVInternational.cn@SD",
+    "logo": "https://i.imgur.com/WqM6xnF.png"
+  },
+  {
+    "site_id": "05384f9f-6241-4712-80ab-2c3f2d8ac7d5",
+    "name": "Hits HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HITS.sg@SD",
+    "logo": "https://i.imgur.com/IM8Gy1l.png"
+  },
+  {
+    "site_id": "ee7f8151-6ddb-4f5a-b651-aa19597ab57b",
+    "name": "Hub Premier 6",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubPremier6.sg@SD",
+    "logo": "https://i.imgur.com/9F7wNgI.png"
+  },
+  {
+    "site_id": "f83d356b-7169-48c9-a411-b5e05511a462",
+    "name": "ROCK Entertainment",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ROCKEntertainment.sg@SD",
+    "logo": "https://i.imgur.com/PWzq0aU.png"
+  },
+  {
+    "site_id": "4c646df4-59ab-4e03-9de8-d36a95127266",
+    "name": "DW English HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "DW.de@English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png"
+  },
+  {
+    "site_id": "05384f9f-6241-4712-80ab-2c3f2d8ac7d5",
+    "name": "Hits HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HITS.sg@SD",
+    "logo": "https://i.imgur.com/IM8Gy1l.png"
+  },
+  {
+    "site_id": "c2c8034f-2897-4944-afb6-bdfcb6e9a536",
+    "name": "Bloomberg Television HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "BloombergTV.us@Asia",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
+  },
+  {
+    "site_id": "14a563d5-d406-4094-907e-ec452c658de9",
+    "name": "Travelxp HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Travelxp.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "68bbd5d8-379d-4646-a1e3-e204cc9c2f54",
+    "name": "Astro Sensasi HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AstroSensasi.sg@SD",
+    "logo": "https://i.imgur.com/BVbyCAo.png"
+  },
+  {
+    "site_id": "f9f14a80-9556-4ef8-af7c-5f13279dd83c",
+    "name": "DreamWorks Channel HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DreamWorksChannelAsia.us@SD",
+    "logo": "https://hls.mskycdn.online/logo/dreamworks.png"
+  },
+  {
+    "site_id": "895ebe38-5cfe-43da-9847-a7088cc3aca7",
+    "name": "COLORS",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "Colors.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "c993aa99-5dd3-446e-9e55-62393353058a",
+    "name": "KBS World HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "KBSWorld.kr@SD",
+    "logo": "https://i.imgur.com/7DqgELX.png"
+  },
+  {
+    "site_id": "9fc55c89-3eb4-4516-a5c4-c6193eb71f57",
+    "name": "Cartoonito HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Cartoonito.uk@SD",
+    "logo": "https://i.imgur.com/B29D2s1.png"
+  },
+  {
+    "site_id": "207a516d-2dbc-49f9-8d98-32d31bd89d3a",
+    "name": "Vannathirai",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Vannathirai.sg@SD",
+    "logo": "https://i.imgur.com/mpGrgrU.png"
+  },
+  {
+    "site_id": "740ad097-ae3d-4a16-9e67-69e308509b9a",
+    "name": "ONE (Malay)",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "e774692b-b038-4615-9148-d9cbbdbebb5b",
+    "name": "CCTV-4",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "CCTV4Asia.cn@SD",
+    "logo": "https://i.imgur.com/tWt4Wou.png"
+  },
+  {
+    "site_id": "30970c17-8498-4c05-9174-a49c0fc33fad",
+    "name": "Asianet Movies",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "AsianetMovies.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_MOVIES/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "baa219e7-6b9a-4b1c-aba3-c77f26b7cf49",
+    "name": "TestChannel 993",
+    "lang": "zh",
+    "region": "ZH"
   },
   {
     "site_id": "dc1af464-7877-46dd-95f0-f81ecd1e3677",
@@ -146,12 +867,791 @@
     "logo": "https://i.imgur.com/UscuzZm.png"
   },
   {
+    "site_id": "6269ba33-cee1-4dc9-8728-2b82dc73e252",
+    "name": "BBC Earth HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "BBCEarth.uk@Asia",
+    "logo": "https://i.imgur.com/nGSsUd4.png"
+  },
+  {
+    "site_id": "71278e7f-bdd5-43ac-b3ca-01d6fad180f5",
+    "name": "Animax HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "AnimaxAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png"
+  },
+  {
+    "site_id": "fbb0e7b8-649b-4c98-9bbe-713971282d8c",
+    "name": "Hub Premier 2 (HD)",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubPremier2.sg@SD",
+    "logo": "https://i.imgur.com/mrZwamR.png"
+  },
+  {
+    "site_id": "9c7414bb-cd6c-4cdf-b019-1c85b7511d32",
+    "name": "Preview Channel",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "PreviewChannel.sg@SD",
+    "logo": "https://i.imgur.com/Dt2UnQ2.png"
+  },
+  {
+    "site_id": "9bf114df-42db-4815-9b73-efa05d0b9f94",
+    "name": "Astro Warna HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "AstroWarna.my@SD",
+    "logo": "https://i.postimg.cc/hjxHq1sR/330px-Astro-Warna-NEW.png"
+  },
+  {
+    "site_id": "77da4ed7-09ed-455a-9c09-8d75000fe942",
+    "name": "CGTN",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CGTN.cn@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
+  },
+  {
+    "site_id": "85611254-47a9-4f7c-9469-a4ee8b9f65b1",
+    "name": "BBC Lifestyle",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "BBCLifestyle.uk@Asia",
+    "logo": "https://i.imgur.com/9mzJJ3y.png"
+  },
+  {
+    "site_id": "263c311c-4b74-4fc0-bb7b-7762cce99a8a",
+    "name": "NHK WORLD - JAPAN HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "NHKWorldJapan.jp@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
+  },
+  {
+    "site_id": "0610cb3d-8521-44a1-8d90-7029ac428e8c",
+    "name": "Crime + Investigation HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "CrimePlusInvestigationAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
+  },
+  {
+    "site_id": "1944dfe8-b8e6-46c2-a700-78d5b680e2ac",
+    "name": "Hub Sports 4 HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubSports4.sg@SD",
+    "logo": "https://i.imgur.com/cvqJupU.png"
+  },
+  {
+    "site_id": "df762cf1-6b2b-4e0c-9e23-427efde82020",
+    "name": "SEA Today",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "SEAToday.id@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/960px-SEA_Today_Indonesia_Logo.png"
+  },
+  {
+    "site_id": "8ade3211-6836-4e95-80f7-5aca573b8b75",
+    "name": "Zee TV",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ZeeTV.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "site_id": "9c7414bb-cd6c-4cdf-b019-1c85b7511d32",
+    "name": "Preview Channel",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "PreviewChannel.sg@SD",
+    "logo": "https://i.imgur.com/Dt2UnQ2.png"
+  },
+  {
+    "site_id": "9fc55c89-3eb4-4516-a5c4-c6193eb71f57",
+    "name": "Cartoonito HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "Cartoonito.uk@SD",
+    "logo": "https://i.imgur.com/B29D2s1.png"
+  },
+  {
+    "site_id": "ce5ca9b4-9dca-412f-ac30-252144c124e3",
+    "name": "Hub VVDrama",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubVVDrama.sg@SD",
+    "logo": "https://i.imgur.com/7iYCNKa.png"
+  },
+  {
+    "site_id": "7c0ee1eb-5f74-4f5a-a338-69eb125badb4",
+    "name": "ETTV ASIA HD",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "f0de7c83-f946-492e-b02b-960b65928ec9",
+    "name": "CNBC HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CNBCAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
+  },
+  {
+    "site_id": "21bf30fb-2800-4761-aee8-452bdb68aff6",
+    "name": "Discovery HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "DiscoveryChannelSoutheastAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "c4162998-26a4-4296-ae78-34d56086e604",
+    "name": "Vijay TV HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "VijayTVAsia.in@SD",
+    "logo": "https://i.imgur.com/UbUSmcr.png"
+  },
+  {
+    "site_id": "dff489d0-abee-4b61-a684-e283ba799ce6",
+    "name": "SONY MAX",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "SonyMaxSingapore.sg@SD",
+    "logo": "https://i.imgur.com/LBICKI5.png"
+  },
+  {
+    "site_id": "eac9d5cf-9291-4900-adbd-b81551cbeeb3",
+    "name": "Hub Sports 5 HD",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "fbb0e7b8-649b-4c98-9bbe-713971282d8c",
+    "name": "Hub Premier 2 (HD)",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubPremier2.sg@SD",
+    "logo": "https://i.imgur.com/mrZwamR.png"
+  },
+  {
+    "site_id": "3c3228b3-3388-4aa1-8535-6f2ed17432af",
+    "name": "ABC Australia HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ABCAustralia.au@SD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png"
+  },
+  {
+    "site_id": "628ba4e0-4239-46c3-a5a2-b15273c82009",
+    "name": "Fox News Channel",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "FoxNewsChannel.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
+  },
+  {
+    "site_id": "9511afb0-2af8-4a1a-9d54-1395924edf91",
+    "name": "Hub Sports 3 HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubSports3.sg@SD",
+    "logo": "https://i.imgur.com/7H0Tbxy.png"
+  },
+  {
+    "site_id": "b8953e43-4fea-4a1a-833c-06de1fcb5db7",
+    "name": "tvN HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "tvNAsia.hk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
+  },
+  {
+    "site_id": "ef624c07-6e36-4619-87fd-138a443aac1a",
+    "name": "CCM",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "CCM.hk@SD",
+    "logo": "https://i.imgur.com/1VhXilw.png"
+  },
+  {
+    "site_id": "f0de7c83-f946-492e-b02b-960b65928ec9",
+    "name": "CNBC HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "CNBCAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
+  },
+  {
+    "site_id": "f1e89c2d-232c-4204-8cf1-e3107ad6b8e8",
+    "name": "HBO HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HBOAsia.sg@Vietnam",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
+  },
+  {
+    "site_id": "9b01c864-5bcc-46e6-ba8e-3ba6c33ca8fb",
+    "name": "Hub Premier 7",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubPremier7.sg@SD",
+    "logo": "https://i.imgur.com/bVOyKEV.png"
+  },
+  {
+    "site_id": "37e180c8-9f91-41b2-80fe-237b8eba0d8b",
+    "name": "Hub Premier 5",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubPremier5.sg@SD",
+    "logo": "https://i.imgur.com/XhX3oUI.png"
+  },
+  {
+    "site_id": "3c3228b3-3388-4aa1-8535-6f2ed17432af",
+    "name": "ABC Australia HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ABCAustralia.au@SD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png"
+  },
+  {
+    "site_id": "df4507d8-292d-4036-b14e-b8343360dcaa",
+    "name": "beIN Sports 3",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "beINSports3.qa@MENA",
+    "logo": "https://i.imgur.com/UYSMao3.png"
+  },
+  {
+    "site_id": "9abfbba5-24c8-4e3f-8e00-f75902c7675b",
+    "name": "France24",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "73d6b697-f5f1-4a04-a788-ece67c31ed1c",
+    "name": "Arirang TV HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ArirangTV.kr@SD",
+    "logo": "https://i.imgur.com/Asu5pE9.png"
+  },
+  {
+    "site_id": "6269ba33-cee1-4dc9-8728-2b82dc73e252",
+    "name": "BBC Earth HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "BBCEarth.uk@Asia",
+    "logo": "https://i.imgur.com/nGSsUd4.png"
+  },
+  {
+    "site_id": "9511afb0-2af8-4a1a-9d54-1395924edf91",
+    "name": "Hub Sports 3 HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubSports3.sg@SD",
+    "logo": "https://i.imgur.com/7H0Tbxy.png"
+  },
+  {
+    "site_id": "2d16335e-aea6-47ab-b688-b3c694a27cf6",
+    "name": "Hub Premier 3",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubPremier3.sg@SD",
+    "logo": "https://i.imgur.com/0A6bP0g.png"
+  },
+  {
+    "site_id": "2cea0112-a03d-4fa1-a4c2-276da4d3c908",
+    "name": "TV5MONDE HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TV5MondeAsia.fr@SD",
+    "logo": "https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025\u0026path-prefix=vi"
+  },
+  {
+    "site_id": "b4cdf669-f16c-4f74-ad4c-accde9fc77d3",
+    "name": "TVBS-NEWS",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TVBSNews.tw@SD",
+    "logo": "https://i.imgur.com/171lwfg.png"
+  },
+  {
+    "site_id": "f8ae363f-51f1-4063-808b-406947018b51",
+    "name": "Zee Tamil",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ZeeTamil.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIZH/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "8a28afbc-74bb-4c02-9bba-eb623358a9b8",
+    "name": "BBC World News HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "BBCNews.uk@AsiaPacific",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "7cad02e2-086a-49c8-bf6a-737d1f30c680",
+    "name": "CTI TV HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CTiTV.tw@SD",
+    "logo": "https://i.imgur.com/tuI3pTz.png"
+  },
+  {
+    "site_id": "c691a121-f6a9-450d-bd1c-cb41107b65b6",
+    "name": "Hub Sports 6",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "12efa598-4bae-4d64-afc0-a4e7340de74e",
+    "name": "beIN Sports HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "beINSports.qa@MENA",
+    "logo": "https://i.imgur.com/RLrMBlm.png"
+  },
+  {
+    "site_id": "5b36348e-1669-4883-9821-6b336cff0d58",
+    "name": "HISTORY HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HistoryAsia.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
+  },
+  {
+    "site_id": "21bf30fb-2800-4761-aee8-452bdb68aff6",
+    "name": "Discovery HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "DiscoveryChannelSoutheastAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "082041a8-9ba1-41ab-9e01-6741f01f4e34",
+    "name": "Sun Music",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "SunMusic.in@SD",
+    "logo": "https://sund-images.sunnxt.com/194410/300x300_SunMusic_194410_7b8559b8-0c96-4328-8a00-5969c6096312.png"
+  },
+  {
+    "site_id": "93114f35-0f46-4404-98c1-07019a2d2c15",
+    "name": "CNN HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CNNInternational.us@AsiaPacific",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "cef88e25-64c6-402e-a6d5-36688708c40f",
+    "name": "HITS MOVIES HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HITSMovies.sg@SD",
+    "logo": "https://i.imgur.com/kyE3vXf.png"
+  },
+  {
+    "site_id": "b4cdf669-f16c-4f74-ad4c-accde9fc77d3",
+    "name": "TVBS-NEWS",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "TVBSNews.tw@SD",
+    "logo": "https://i.imgur.com/171lwfg.png"
+  },
+  {
+    "site_id": "740ad097-ae3d-4a16-9e67-69e308509b9a",
+    "name": "ONE (Malay)",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "f1e89c2d-232c-4204-8cf1-e3107ad6b8e8",
+    "name": "HBO HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HBOAsia.sg@Vietnam",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
+  },
+  {
+    "site_id": "5f50648a-3b0f-4d13-b0ac-056e722a647a",
+    "name": "TVB Xing He",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "TVBXingHe.hk@SD",
+    "logo": "https://i.imgur.com/uf0bYFm.png"
+  },
+  {
+    "site_id": "354def1b-701e-4703-a279-5ef4204847a1",
+    "name": "beIN Sports 5",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "beINSports5.qa@MENA",
+    "logo": "https://i.imgur.com/2Rha5aY.png"
+  },
+  {
+    "site_id": "ace578ac-0996-4941-877c-58abe2ff3851",
+    "name": "TestChannel2",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "64ddc417-c35c-4b95-84ca-67b0d6c77265",
+    "name": "Cinema One Global",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "CinemaOneGlobal.ph@SD",
+    "logo": "https://i.imgur.com/zN8mfDR.png"
+  },
+  {
+    "site_id": "a162afe8-8990-4d43-8c9a-c29d844ba2fb",
+    "name": "HBO Family HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HBOFamilyAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png"
+  },
+  {
+    "site_id": "c5693796-e108-4a13-9319-eb793bb408c3",
+    "name": "Karisma",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "Karisma.id@SD",
+    "logo": "https://i.imgur.com/3aJagfR.png"
+  },
+  {
+    "site_id": "aab336e8-ef09-4e27-91d4-81c35b802a0a",
+    "name": "Hub Premier 4",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubPremier4.sg@SD",
+    "logo": "https://i.imgur.com/RTgyfAe.png"
+  },
+  {
+    "site_id": "2cd14827-0816-400d-b868-62985ec8b627",
+    "name": "HGTV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HGTVAsia.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png"
+  },
+  {
+    "site_id": "9e2f39ab-95ba-4031-bfeb-6b9b41491b08",
+    "name": "FashionTV HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "FashionTVAsia.fr@SD",
+    "logo": "https://i.imgur.com/ucTh9tO.png"
+  },
+  {
+    "site_id": "dca44244-ee28-4372-b502-888c8795624b",
+    "name": "Phoenix InfoNews Channel HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD",
+    "logo": "https://i.imgur.com/mt4h3VO.png"
+  },
+  {
+    "site_id": "2cea0112-a03d-4fa1-a4c2-276da4d3c908",
+    "name": "TV5MONDE HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "TV5MondeAsia.fr@SD",
+    "logo": "https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025\u0026path-prefix=vi"
+  },
+  {
+    "site_id": "9abfbba5-24c8-4e3f-8e00-f75902c7675b",
+    "name": "France24",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "ac52e93d-814b-40cb-9a3f-688765341bda",
+    "name": "Test 998",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "8ade3211-6836-4e95-80f7-5aca573b8b75",
+    "name": "Zee TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ZeeTV.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "site_id": "61fcfb0b-514a-47a0-8400-ed8b9221188c",
+    "name": "COLORS Tamil HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ColorsTamil.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "b8953e43-4fea-4a1a-833c-06de1fcb5db7",
+    "name": "tvN HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "tvNAsia.hk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
+  },
+  {
+    "site_id": "4db9b282-0e8d-456e-ba83-89b4eaf173d7",
+    "name": "Nick Jr",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "NickJrAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "61fcfb0b-514a-47a0-8400-ed8b9221188c",
+    "name": "COLORS Tamil HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ColorsTamil.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "ce5ca9b4-9dca-412f-ac30-252144c124e3",
+    "name": "Hub VVDrama",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubVVDrama.sg@SD",
+    "logo": "https://i.imgur.com/7iYCNKa.png"
+  },
+  {
+    "site_id": "d99214cd-fcdf-4613-8106-55e248d3b608",
+    "name": "Kalaignar TV",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "KalaignarTV.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALAIGNAR_TV/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "f9f14a80-9556-4ef8-af7c-5f13279dd83c",
+    "name": "DreamWorks Channel HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "DreamWorksChannelAsia.us@SD",
+    "logo": "https://hls.mskycdn.online/logo/dreamworks.png"
+  },
+  {
+    "site_id": "9bf114df-42db-4815-9b73-efa05d0b9f94",
+    "name": "Astro Warna HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "AstroWarna.my@SD",
+    "logo": "https://i.postimg.cc/hjxHq1sR/330px-Astro-Warna-NEW.png"
+  },
+  {
+    "site_id": "4431c255-e2a9-45db-b43b-27cc19c14cb9",
+    "name": "ONE HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "ONE.sg@SD",
+    "logo": "https://i.imgur.com/ea0iGfA.png"
+  },
+  {
+    "site_id": "d99214cd-fcdf-4613-8106-55e248d3b608",
+    "name": "Kalaignar TV",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "KalaignarTV.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALAIGNAR_TV/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "12efa598-4bae-4d64-afc0-a4e7340de74e",
+    "name": "beIN Sports HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "beINSports.qa@MENA",
+    "logo": "https://i.imgur.com/RLrMBlm.png"
+  },
+  {
+    "site_id": "06830f4b-1684-42d1-a29a-616b2e34b0ae",
+    "name": "Bloomberg Originals",
+    "lang": "en",
+    "region": "EN",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png"
+  },
+  {
     "site_id": "c25a38ab-772d-41e7-b0eb-83021f1d309c",
     "name": "Nickelodeon Asia HD",
     "lang": "en",
     "region": "EN",
     "xmltv_id": "NickelodeonAsia.sg@SD",
     "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "9e7d5a33-39dd-4e66-809f-c6099dc81d26",
+    "name": "TVBS Asia",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "TVBSAsia.tw@SD",
+    "logo": "https://i.imgur.com/4S1rkhm.png"
+  },
+  {
+    "site_id": "30a6b23c-0657-4e8f-b26b-de9273e394d7",
+    "name": "Cbeebies HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "CBeebiesAsia.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"
+  },
+  {
+    "site_id": "ae1685eb-3ef0-4d14-9c89-8955bcc2bc02",
+    "name": "SPOTV2",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "SPOTV2.kr@SD",
+    "logo": "https://i.imgur.com/YD8fbTH.png"
+  },
+  {
+    "site_id": "c5693796-e108-4a13-9319-eb793bb408c3",
+    "name": "Karisma",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "Karisma.id@SD",
+    "logo": "https://i.imgur.com/3aJagfR.png"
+  },
+  {
+    "site_id": "dca44244-ee28-4372-b502-888c8795624b",
+    "name": "Phoenix InfoNews Channel HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD",
+    "logo": "https://i.imgur.com/mt4h3VO.png"
+  },
+  {
+    "site_id": "e3141ae3-758b-4393-bd9c-9260babbca00",
+    "name": "Phoenix Chinese Channel HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "PhoenixChineseChannel.hk@SD",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"
+  },
+  {
+    "site_id": "f83d356b-7169-48c9-a411-b5e05511a462",
+    "name": "ROCK Entertainment",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ROCKEntertainment.sg@SD",
+    "logo": "https://i.imgur.com/PWzq0aU.png"
+  },
+  {
+    "site_id": "5f50648a-3b0f-4d13-b0ac-056e722a647a",
+    "name": "TVB Xing He",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "TVBXingHe.hk@SD",
+    "logo": "https://i.imgur.com/uf0bYFm.png"
+  },
+  {
+    "site_id": "072f2bcf-99f1-48fe-8806-7a217e4bb372",
+    "name": "ADITHYA TV",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "AdithyaTV.in@SD",
+    "logo": "https://sund-images.sunnxt.com/194407/300x300_AdithyaTV_194407_f1717d3d-1b5c-475f-9535-d31223844dc8.png"
+  },
+  {
+    "site_id": "c290bc2f-bff6-485e-ad81-cba439754d16",
+    "name": "TestChannel1",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "d258444e-b66b-4cbe-88db-e09f31ab8a1f",
+    "name": "AXN HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "AXNAsia.sg@Singapore",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
+  },
+  {
+    "site_id": "dfb315cf-fbda-479a-87f0-ab35e65dd7aa",
+    "name": "Hub E City HD",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "HubECity.sg@SD",
+    "logo": "https://i.imgur.com/UscuzZm.png"
+  },
+  {
+    "site_id": "3c292157-4cf2-48bf-9608-c0ef8ab79cc5",
+    "name": "Hub Sports 2 HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubSports2.sg@SD",
+    "logo": "https://i.imgur.com/NceGpxl.png"
+  },
+  {
+    "site_id": "1944dfe8-b8e6-46c2-a700-78d5b680e2ac",
+    "name": "Hub Sports 4 HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "HubSports4.sg@SD",
+    "logo": "https://i.imgur.com/cvqJupU.png"
+  },
+  {
+    "site_id": "baa219e7-6b9a-4b1c-aba3-c77f26b7cf49",
+    "name": "TestChannel 993",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "e21e78cb-6be3-4ec6-888f-39d3d365710c",
+    "name": "TestChannel 995",
+    "lang": "en",
+    "region": "EN"
+  },
+  {
+    "site_id": "0ec5072f-b6dc-4676-a683-c32c5db2c3a1",
+    "name": "Premier Sports",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "PremierSports1Asia.ie@SD",
+    "logo": "https://i.imgur.com/8V6xddy.png"
+  },
+  {
+    "site_id": "b4ff91f4-7aa6-4e06-ab58-d3932bcbb496",
+    "name": "Hub Sports 7",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "e070be44-cd6f-4fab-b34d-948a979d5564",
+    "name": "ANC",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "ANC.ph@SD",
+    "logo": "https://i.imgur.com/odwRbRk.png"
+  },
+  {
+    "site_id": "1ed77994-5ab6-4d38-88f2-d662f3cfe5b0",
+    "name": "Sony Entertainment Television",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "SonyEntertainmentTelevision.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "c4162998-26a4-4296-ae78-34d56086e604",
+    "name": "Vijay TV HD",
+    "lang": "en",
+    "region": "EN",
+    "xmltv_id": "VijayTVAsia.in@SD",
+    "logo": "https://i.imgur.com/UbUSmcr.png"
   },
   {
     "site_id": "e2cf7307-0e1d-4dba-a94f-5a0fac85b262",
@@ -170,22 +1670,6 @@
     "logo": "https://i.imgur.com/odwRbRk.png"
   },
   {
-    "site_id": "36dae5f2-147d-4aab-a7bd-e9b7d9501734",
-    "name": "KTV HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "KTV.in@SD",
-    "logo": "https://sund-images.sunnxt.com/194409/300x300_KTV_194409_88a4dedb-e48c-4115-afec-49500ff7155a.png"
-  },
-  {
-    "site_id": "54f4de25-3575-44c4-92dd-b4a1c3c5b088",
-    "name": "Cartoon Network",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CartoonNetworkAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
     "site_id": "2cd14827-0816-400d-b868-62985ec8b627",
     "name": "HGTV",
     "lang": "zh",
@@ -194,285 +1678,18 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png"
   },
   {
-    "site_id": "06830f4b-1684-42d1-a29a-616b2e34b0ae",
-    "name": "Bloomberg Originals",
+    "site_id": "93114f35-0f46-4404-98c1-07019a2d2c15",
+    "name": "CNN HD",
     "lang": "zh",
     "region": "ZH",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png"
+    "xmltv_id": "CNNInternational.us@AsiaPacific",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
   },
   {
-    "site_id": "e3141ae3-758b-4393-bd9c-9260babbca00",
-    "name": "Phoenix Chinese Channel HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "PhoenixChineseChannel.hk@SD",
-    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"
-  },
-  {
-    "site_id": "4db9b282-0e8d-456e-ba83-89b4eaf173d7",
-    "name": "Nick Jr",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NickJrAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "9511afb0-2af8-4a1a-9d54-1395924edf91",
-    "name": "Hub Sports 3 HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubSports3.sg@SD",
-    "logo": "https://i.imgur.com/7H0Tbxy.png"
-  },
-  {
-    "site_id": "705e08d5-dec6-4da2-858a-fd29e6b884d2",
-    "name": "Celestial Movies HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CelestialMovies.hk@SD",
-    "logo": "https://i.imgur.com/Mb5ssnu.png"
-  },
-  {
-    "site_id": "265c0f76-c798-496d-aca1-f540a70952ec",
-    "name": "The Filipino Channel HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "TheFilipinoChannelAsia.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/960px-The_Filipino_Channel_2011_logo.svg.png"
-  },
-  {
-    "site_id": "eac9d5cf-9291-4900-adbd-b81551cbeeb3",
-    "name": "Hub Sports 5 HD",
+    "site_id": "ace578ac-0996-4941-877c-58abe2ff3851",
+    "name": "TestChannel2",
     "lang": "zh",
     "region": "ZH"
-  },
-  {
-    "site_id": "206f755c-f417-4eb4-9631-ed21ae11f2e8",
-    "name": "Sky News HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "SkyNewsAustralia.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/960px-Sky_News_Australia_logo_-_2019.svg.png"
-  },
-  {
-    "site_id": "628ba4e0-4239-46c3-a5a2-b15273c82009",
-    "name": "Fox News Channel",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "FoxNewsChannel.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
-  },
-  {
-    "site_id": "c5693796-e108-4a13-9319-eb793bb408c3",
-    "name": "Karisma",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Karisma.id@SD",
-    "logo": "https://i.imgur.com/3aJagfR.png"
-  },
-  {
-    "site_id": "e774692b-b038-4615-9148-d9cbbdbebb5b",
-    "name": "CCTV-4",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CCTV4Asia.cn@SD",
-    "logo": "https://i.imgur.com/tWt4Wou.png"
-  },
-  {
-    "site_id": "6f6c5d20-18b3-4023-b505-726b9c36b6e9",
-    "name": "Asianet",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Asianet.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "77da4ed7-09ed-455a-9c09-8d75000fe942",
-    "name": "CGTN",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CGTN.cn@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
-  },
-  {
-    "site_id": "265c0f76-c798-496d-aca1-f540a70952ec",
-    "name": "The Filipino Channel HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TheFilipinoChannelAsia.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/960px-The_Filipino_Channel_2011_logo.svg.png"
-  },
-  {
-    "site_id": "62954bd1-435e-4929-a78a-90c12c99e3eb",
-    "name": "SPOTV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "SPOTV.kr@SD",
-    "logo": "https://i.imgur.com/HaoVsm5.png"
-  },
-  {
-    "site_id": "b4cdf669-f16c-4f74-ad4c-accde9fc77d3",
-    "name": "TVBS-NEWS",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TVBSNews.tw@SD",
-    "logo": "https://i.imgur.com/171lwfg.png"
-  },
-  {
-    "site_id": "d258444e-b66b-4cbe-88db-e09f31ab8a1f",
-    "name": "AXN HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AXNAsia.sg@Singapore",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
-  },
-  {
-    "site_id": "5f50648a-3b0f-4d13-b0ac-056e722a647a",
-    "name": "TVB Xing He",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TVBXingHe.hk@SD",
-    "logo": "https://i.imgur.com/uf0bYFm.png"
-  },
-  {
-    "site_id": "c290bc2f-bff6-485e-ad81-cba439754d16",
-    "name": "TestChannel1",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "71da87e9-5d3f-4544-8b6f-e9a374e05bc7",
-    "name": "FIGHT SPORTS HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "FightSports.us@SD",
-    "logo": "https://i.imgur.com/nV55veq.png"
-  },
-  {
-    "site_id": "dd211710-85e9-45f6-b3c8-482dbda2d261",
-    "name": "Sun TV",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "SunTV.in@SD",
-    "logo": "https://sund-images.sunnxt.com/194408/300x300_SunTV_194408_a54b0f81-2c2a-475f-ac37-794334397024.png"
-  },
-  {
-    "site_id": "f8ae363f-51f1-4063-808b-406947018b51",
-    "name": "Zee Tamil",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ZeeTamil.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIZH/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "73d6b697-f5f1-4a04-a788-ece67c31ed1c",
-    "name": "Arirang TV HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ArirangTV.kr@SD",
-    "logo": "https://i.imgur.com/Asu5pE9.png"
-  },
-  {
-    "site_id": "dceea37a-621c-4ba5-a818-68ec6154e538",
-    "name": "beIN Sports 2 HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "beINSports2.qa@MENA",
-    "logo": "https://i.imgur.com/vUJZSvs.png"
-  },
-  {
-    "site_id": "9fc55c89-3eb4-4516-a5c4-c6193eb71f57",
-    "name": "Cartoonito HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Cartoonito.uk@SD",
-    "logo": "https://i.imgur.com/B29D2s1.png"
-  },
-  {
-    "site_id": "082041a8-9ba1-41ab-9e01-6741f01f4e34",
-    "name": "Sun Music",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "SunMusic.in@SD",
-    "logo": "https://sund-images.sunnxt.com/194410/300x300_SunMusic_194410_7b8559b8-0c96-4328-8a00-5969c6096312.png"
-  },
-  {
-    "site_id": "12efa598-4bae-4d64-afc0-a4e7340de74e",
-    "name": "beIN Sports HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "beINSports.qa@MENA",
-    "logo": "https://i.imgur.com/RLrMBlm.png"
-  },
-  {
-    "site_id": "740ad097-ae3d-4a16-9e67-69e308509b9a",
-    "name": "ONE (Malay)",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "30970c17-8498-4c05-9174-a49c0fc33fad",
-    "name": "Asianet Movies",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "AsianetMovies.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_MOVIES/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "6e5e72ef-9fa6-4007-9537-74e7d08f51c4",
-    "name": "Hub Sports 1 HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubSports1.sg@SD",
-    "logo": "https://i.imgur.com/bhxPddO.png"
-  },
-  {
-    "site_id": "6a59cb8b-182d-4038-b315-cf35cf7c5ac7",
-    "name": "Citra Entertainment",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CitraEntertainment.id@SD",
-    "logo": "https://i.imgur.com/Q1N6ka8.png"
-  },
-  {
-    "site_id": "fbb0e7b8-649b-4c98-9bbe-713971282d8c",
-    "name": "Hub Premier 2 (HD)",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubPremier2.sg@SD",
-    "logo": "https://i.imgur.com/mrZwamR.png"
-  },
-  {
-    "site_id": "2d16335e-aea6-47ab-b688-b3c694a27cf6",
-    "name": "Hub Premier 3",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubPremier3.sg@SD",
-    "logo": "https://i.imgur.com/0A6bP0g.png"
-  },
-  {
-    "site_id": "6a59cb8b-182d-4038-b315-cf35cf7c5ac7",
-    "name": "Citra Entertainment",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CitraEntertainment.id@SD",
-    "logo": "https://i.imgur.com/Q1N6ka8.png"
-  },
-  {
-    "site_id": "0ec5072f-b6dc-4676-a683-c32c5db2c3a1",
-    "name": "Premier Sports",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "PremierSports1Asia.ie@SD",
-    "logo": "https://i.imgur.com/8V6xddy.png"
-  },
-  {
-    "site_id": "6c1be2bc-47c4-45b5-b027-fce49322f34c",
-    "name": "beIN Sports 4",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "beINSports4.qa@MENA",
-    "logo": "https://i.imgur.com/vwAgJNi.png"
   },
   {
     "site_id": "e2cf7307-0e1d-4dba-a94f-5a0fac85b262",
@@ -483,68 +1700,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
   },
   {
-    "site_id": "e3141ae3-758b-4393-bd9c-9260babbca00",
-    "name": "Phoenix Chinese Channel HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "PhoenixChineseChannel.hk@SD",
-    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"
-  },
-  {
-    "site_id": "f1e89c2d-232c-4204-8cf1-e3107ad6b8e8",
-    "name": "HBO HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HBOAsia.sg@Vietnam",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
-  },
-  {
-    "site_id": "f83d356b-7169-48c9-a411-b5e05511a462",
-    "name": "ROCK Entertainment",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ROCKEntertainment.sg@SD",
-    "logo": "https://i.imgur.com/PWzq0aU.png"
-  },
-  {
-    "site_id": "ef624c07-6e36-4619-87fd-138a443aac1a",
-    "name": "CCM",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CCM.hk@SD",
-    "logo": "https://i.imgur.com/1VhXilw.png"
-  },
-  {
-    "site_id": "30970c17-8498-4c05-9174-a49c0fc33fad",
-    "name": "Asianet Movies",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AsianetMovies.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_MOVIES/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "ce5ca9b4-9dca-412f-ac30-252144c124e3",
-    "name": "Hub VVDrama",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubVVDrama.sg@SD",
-    "logo": "https://i.imgur.com/7iYCNKa.png"
-  },
-  {
-    "site_id": "eac9d5cf-9291-4900-adbd-b81551cbeeb3",
-    "name": "Hub Sports 5 HD",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "3c292157-4cf2-48bf-9608-c0ef8ab79cc5",
-    "name": "Hub Sports 2 HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubSports2.sg@SD",
-    "logo": "https://i.imgur.com/NceGpxl.png"
-  },
-  {
     "site_id": "4c646df4-59ab-4e03-9de8-d36a95127266",
     "name": "DW English HD",
     "lang": "en",
@@ -553,82 +1708,52 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png"
   },
   {
-    "site_id": "9c7414bb-cd6c-4cdf-b019-1c85b7511d32",
-    "name": "Preview Channel",
+    "site_id": "6f6c5d20-18b3-4023-b505-726b9c36b6e9",
+    "name": "Asianet",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "PreviewChannel.sg@SD",
-    "logo": "https://i.imgur.com/Dt2UnQ2.png"
+    "xmltv_id": "Asianet.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET/images/LOGO_HD/image.png"
   },
   {
-    "site_id": "21bf30fb-2800-4761-aee8-452bdb68aff6",
-    "name": "Discovery HD",
+    "site_id": "dd211710-85e9-45f6-b3c8-482dbda2d261",
+    "name": "Sun TV",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "DiscoveryChannelSoutheastAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+    "xmltv_id": "SunTV.in@SD",
+    "logo": "https://sund-images.sunnxt.com/194408/300x300_SunTV_194408_a54b0f81-2c2a-475f-ac37-794334397024.png"
   },
   {
-    "site_id": "1ed77994-5ab6-4d38-88f2-d662f3cfe5b0",
-    "name": "Sony Entertainment Television",
+    "site_id": "578cfccf-634d-4beb-a167-741cb91a068e",
+    "name": "Hub Premier 8",
     "lang": "zh",
     "region": "ZH",
-    "xmltv_id": "SonyEntertainmentTelevision.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png"
+    "xmltv_id": "HubPremier8.sg@SD",
+    "logo": "https://i.imgur.com/stYijJ1.png"
   },
   {
-    "site_id": "85611254-47a9-4f7c-9469-a4ee8b9f65b1",
-    "name": "BBC Lifestyle",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "BBCLifestyle.uk@Asia",
-    "logo": "https://i.imgur.com/9mzJJ3y.png"
-  },
-  {
-    "site_id": "d99214cd-fcdf-4613-8106-55e248d3b608",
-    "name": "Kalaignar TV",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "KalaignarTV.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALAIGNAR_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "68bbd5d8-379d-4646-a1e3-e204cc9c2f54",
-    "name": "Astro Sensasi HD",
+    "site_id": "0610cb3d-8521-44a1-8d90-7029ac428e8c",
+    "name": "Crime + Investigation HD",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "AstroSensasi.sg@SD",
-    "logo": "https://i.imgur.com/BVbyCAo.png"
+    "xmltv_id": "CrimePlusInvestigationAsia.sg@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
   },
   {
-    "site_id": "6269ba33-cee1-4dc9-8728-2b82dc73e252",
-    "name": "BBC Earth HD",
+    "site_id": "62954bd1-435e-4929-a78a-90c12c99e3eb",
+    "name": "SPOTV",
     "lang": "en",
     "region": "EN",
-    "xmltv_id": "BBCEarth.uk@Asia",
-    "logo": "https://i.imgur.com/nGSsUd4.png"
+    "xmltv_id": "SPOTV.kr@SD",
+    "logo": "https://i.imgur.com/HaoVsm5.png"
   },
   {
-    "site_id": "93114f35-0f46-4404-98c1-07019a2d2c15",
-    "name": "CNN HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CNNInternational.us@AsiaPacific",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "e21e78cb-6be3-4ec6-888f-39d3d365710c",
-    "name": "TestChannel 995",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "4c646df4-59ab-4e03-9de8-d36a95127266",
-    "name": "DW English HD",
+    "site_id": "6c1be2bc-47c4-45b5-b027-fce49322f34c",
+    "name": "beIN Sports 4",
     "lang": "zh",
     "region": "ZH",
-    "xmltv_id": "DW.de@English",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png"
+    "xmltv_id": "beINSports4.qa@MENA",
+    "logo": "https://i.imgur.com/vwAgJNi.png"
   },
   {
     "site_id": "54f4de25-3575-44c4-92dd-b4a1c3c5b088",
@@ -639,787 +1764,12 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
   },
   {
-    "site_id": "dfb315cf-fbda-479a-87f0-ab35e65dd7aa",
-    "name": "Hub E City HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubECity.sg@SD",
-    "logo": "https://i.imgur.com/UscuzZm.png"
-  },
-  {
-    "site_id": "df762cf1-6b2b-4e0c-9e23-427efde82020",
-    "name": "SEA Today",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "SEAToday.id@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/960px-SEA_Today_Indonesia_Logo.png"
-  },
-  {
-    "site_id": "06830f4b-1684-42d1-a29a-616b2e34b0ae",
-    "name": "Bloomberg Originals",
-    "lang": "en",
-    "region": "EN",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png"
-  },
-  {
-    "site_id": "c993aa99-5dd3-446e-9e55-62393353058a",
-    "name": "KBS World HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "KBSWorld.kr@SD",
-    "logo": "https://i.imgur.com/7DqgELX.png"
-  },
-  {
-    "site_id": "e21e78cb-6be3-4ec6-888f-39d3d365710c",
-    "name": "TestChannel 995",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "5b36348e-1669-4883-9821-6b336cff0d58",
-    "name": "HISTORY HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HistoryAsia.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
-  },
-  {
-    "site_id": "fd510962-c830-490f-be97-0ecadf2bcc11",
-    "name": "Cinemax HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CinemaxAsia.sg@SD",
-    "logo": "https://i.imgur.com/c8crJfA.png"
-  },
-  {
-    "site_id": "072f2bcf-99f1-48fe-8806-7a217e4bb372",
-    "name": "ADITHYA TV",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "AdithyaTV.in@SD",
-    "logo": "https://sund-images.sunnxt.com/194407/300x300_AdithyaTV_194407_f1717d3d-1b5c-475f-9535-d31223844dc8.png"
-  },
-  {
-    "site_id": "1b8e6f65-e3f0-4369-bf33-c56212eb269e",
-    "name": "Euronews HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "EuronewsEnglish.fr@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
-  },
-  {
-    "site_id": "1ed77994-5ab6-4d38-88f2-d662f3cfe5b0",
-    "name": "Sony Entertainment Television",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "SonyEntertainmentTelevision.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "1b8e6f65-e3f0-4369-bf33-c56212eb269e",
-    "name": "Euronews HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "EuronewsEnglish.fr@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
-  },
-  {
-    "site_id": "7c0ee1eb-5f74-4f5a-a338-69eb125badb4",
-    "name": "ETTV ASIA HD",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "9abfbba5-24c8-4e3f-8e00-f75902c7675b",
-    "name": "France24",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "France24.fr@English",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "37e180c8-9f91-41b2-80fe-237b8eba0d8b",
-    "name": "Hub Premier 5",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubPremier5.sg@SD",
-    "logo": "https://i.imgur.com/XhX3oUI.png"
-  },
-  {
-    "site_id": "206f755c-f417-4eb4-9631-ed21ae11f2e8",
-    "name": "Sky News HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "SkyNewsAustralia.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/960px-Sky_News_Australia_logo_-_2019.svg.png"
-  },
-  {
-    "site_id": "628ba4e0-4239-46c3-a5a2-b15273c82009",
-    "name": "Fox News Channel",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "FoxNewsChannel.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
-  },
-  {
-    "site_id": "b4ff91f4-7aa6-4e06-ab58-d3932bcbb496",
-    "name": "Hub Sports 7",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "0610cb3d-8521-44a1-8d90-7029ac428e8c",
-    "name": "Crime + Investigation HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CrimePlusInvestigationAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
-  },
-  {
-    "site_id": "c2c8034f-2897-4944-afb6-bdfcb6e9a536",
-    "name": "Bloomberg Television HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "BloombergTV.us@Asia",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
-  },
-  {
-    "site_id": "d27cd0f4-85c1-4c08-91cd-808643e7cec9",
-    "name": "HBO Hits HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HBOHitsAsia.sg@SD",
-    "logo": "https://i.imgur.com/CTjmocc.png"
-  },
-  {
-    "site_id": "207a516d-2dbc-49f9-8d98-32d31bd89d3a",
-    "name": "Vannathirai",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "Vannathirai.sg@SD",
-    "logo": "https://i.imgur.com/mpGrgrU.png"
-  },
-  {
-    "site_id": "cef88e25-64c6-402e-a6d5-36688708c40f",
-    "name": "HITS MOVIES HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HITSMovies.sg@SD",
-    "logo": "https://i.imgur.com/kyE3vXf.png"
-  },
-  {
-    "site_id": "61fcfb0b-514a-47a0-8400-ed8b9221188c",
-    "name": "COLORS Tamil HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ColorsTamil.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "1944dfe8-b8e6-46c2-a700-78d5b680e2ac",
-    "name": "Hub Sports 4 HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubSports4.sg@SD",
-    "logo": "https://i.imgur.com/cvqJupU.png"
-  },
-  {
-    "site_id": "4431c255-e2a9-45db-b43b-27cc19c14cb9",
-    "name": "ONE HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ONE.sg@SD",
-    "logo": "https://i.imgur.com/ea0iGfA.png"
-  },
-  {
-    "site_id": "c4162998-26a4-4296-ae78-34d56086e604",
-    "name": "Vijay TV HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "VijayTVAsia.in@SD",
-    "logo": "https://i.imgur.com/UbUSmcr.png"
-  },
-  {
-    "site_id": "3c3228b3-3388-4aa1-8535-6f2ed17432af",
-    "name": "ABC Australia HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ABCAustralia.au@SD",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png"
-  },
-  {
-    "site_id": "c25a38ab-772d-41e7-b0eb-83021f1d309c",
-    "name": "Nickelodeon Asia HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "NickelodeonAsia.sg@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
-  },
-  {
-    "site_id": "f0de7c83-f946-492e-b02b-960b65928ec9",
-    "name": "CNBC HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CNBCAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
-  },
-  {
-    "site_id": "9e7d5a33-39dd-4e66-809f-c6099dc81d26",
-    "name": "TVBS Asia",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "TVBSAsia.tw@SD",
-    "logo": "https://i.imgur.com/4S1rkhm.png"
-  },
-  {
-    "site_id": "aab336e8-ef09-4e27-91d4-81c35b802a0a",
-    "name": "Hub Premier 4",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubPremier4.sg@SD",
-    "logo": "https://i.imgur.com/RTgyfAe.png"
-  },
-  {
-    "site_id": "dff489d0-abee-4b61-a684-e283ba799ce6",
-    "name": "SONY MAX",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "SonyMaxSingapore.sg@SD",
-    "logo": "https://i.imgur.com/LBICKI5.png"
-  },
-  {
-    "site_id": "e774692b-b038-4615-9148-d9cbbdbebb5b",
-    "name": "CCTV-4",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CCTV4Asia.cn@SD",
-    "logo": "https://i.imgur.com/tWt4Wou.png"
-  },
-  {
-    "site_id": "99ee7b2d-1a7d-4fb1-8fbe-7903e028a87b",
-    "name": "Hub Premier 1",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubPremier1.sg@SD",
-    "logo": "https://i.ibb.co/G4zVGddt/Hub-Premier1.png"
-  },
-  {
-    "site_id": "9511afb0-2af8-4a1a-9d54-1395924edf91",
-    "name": "Hub Sports 3 HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubSports3.sg@SD",
-    "logo": "https://i.imgur.com/7H0Tbxy.png"
-  },
-  {
-    "site_id": "14a563d5-d406-4094-907e-ec452c658de9",
-    "name": "Travelxp HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Travelxp.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "dca44244-ee28-4372-b502-888c8795624b",
-    "name": "Phoenix InfoNews Channel HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD",
-    "logo": "https://i.imgur.com/mt4h3VO.png"
-  },
-  {
-    "site_id": "8ade3211-6836-4e95-80f7-5aca573b8b75",
-    "name": "Zee TV",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ZeeTV.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
-    "site_id": "5bc5b18c-b12c-462f-b49a-8056b74d72a3",
-    "name": "TVB Jade HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Jade.hk@SD",
-    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"
-  },
-  {
-    "site_id": "9b01c864-5bcc-46e6-ba8e-3ba6c33ca8fb",
-    "name": "Hub Premier 7",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubPremier7.sg@SD",
-    "logo": "https://i.imgur.com/bVOyKEV.png"
-  },
-  {
-    "site_id": "354def1b-701e-4703-a279-5ef4204847a1",
-    "name": "beIN Sports 5",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "beINSports5.qa@MENA",
-    "logo": "https://i.imgur.com/2Rha5aY.png"
-  },
-  {
-    "site_id": "9e2f39ab-95ba-4031-bfeb-6b9b41491b08",
-    "name": "FashionTV HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "FashionTVAsia.fr@SD",
-    "logo": "https://i.imgur.com/ucTh9tO.png"
-  },
-  {
-    "site_id": "082041a8-9ba1-41ab-9e01-6741f01f4e34",
-    "name": "Sun Music",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "SunMusic.in@SD",
-    "logo": "https://sund-images.sunnxt.com/194410/300x300_SunMusic_194410_7b8559b8-0c96-4328-8a00-5969c6096312.png"
-  },
-  {
-    "site_id": "baa219e7-6b9a-4b1c-aba3-c77f26b7cf49",
-    "name": "TestChannel 993",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "57f9281b-3c13-456c-aa52-a1e410706933",
-    "name": "Dragon TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DragonTVInternational.cn@SD",
-    "logo": "https://i.imgur.com/WqM6xnF.png"
-  },
-  {
-    "site_id": "5bc5b18c-b12c-462f-b49a-8056b74d72a3",
-    "name": "TVB Jade HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "Jade.hk@SD",
-    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"
-  },
-  {
-    "site_id": "c691a121-f6a9-450d-bd1c-cb41107b65b6",
-    "name": "Hub Sports 6",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "ce5ca9b4-9dca-412f-ac30-252144c124e3",
-    "name": "Hub VVDrama",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubVVDrama.sg@SD",
-    "logo": "https://i.imgur.com/7iYCNKa.png"
-  },
-  {
-    "site_id": "e070be44-cd6f-4fab-b34d-948a979d5564",
-    "name": "ANC",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ANC.ph@SD",
-    "logo": "https://i.imgur.com/odwRbRk.png"
-  },
-  {
-    "site_id": "8ade3211-6836-4e95-80f7-5aca573b8b75",
-    "name": "Zee TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ZeeTV.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
-    "site_id": "21184422-bbcd-4641-aeb6-fef337b5cc7a",
-    "name": "HBO Signature HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HBOSignatureAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png"
-  },
-  {
-    "site_id": "94ec2a65-eae1-4cdc-95a6-1ed67b17f4e4",
-    "name": "Zee Thirai",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ZeeThirai.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI_HD/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
-    "site_id": "1944dfe8-b8e6-46c2-a700-78d5b680e2ac",
-    "name": "Hub Sports 4 HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubSports4.sg@SD",
-    "logo": "https://i.imgur.com/cvqJupU.png"
-  },
-  {
-    "site_id": "71278e7f-bdd5-43ac-b3ca-01d6fad180f5",
-    "name": "Animax HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AnimaxAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png"
-  },
-  {
-    "site_id": "d27cd0f4-85c1-4c08-91cd-808643e7cec9",
-    "name": "HBO Hits HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HBOHitsAsia.sg@SD",
-    "logo": "https://i.imgur.com/CTjmocc.png"
-  },
-  {
-    "site_id": "fd510962-c830-490f-be97-0ecadf2bcc11",
-    "name": "Cinemax HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CinemaxAsia.sg@SD",
-    "logo": "https://i.imgur.com/c8crJfA.png"
-  },
-  {
-    "site_id": "64ddc417-c35c-4b95-84ca-67b0d6c77265",
-    "name": "Cinema One Global",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CinemaOneGlobal.ph@SD",
-    "logo": "https://i.imgur.com/zN8mfDR.png"
-  },
-  {
-    "site_id": "9c7414bb-cd6c-4cdf-b019-1c85b7511d32",
-    "name": "Preview Channel",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "PreviewChannel.sg@SD",
-    "logo": "https://i.imgur.com/Dt2UnQ2.png"
-  },
-  {
-    "site_id": "14a563d5-d406-4094-907e-ec452c658de9",
-    "name": "Travelxp HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "Travelxp.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "ee7f8151-6ddb-4f5a-b651-aa19597ab57b",
-    "name": "Hub Premier 6",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubPremier6.sg@SD",
-    "logo": "https://i.imgur.com/9F7wNgI.png"
-  },
-  {
-    "site_id": "4db9b282-0e8d-456e-ba83-89b4eaf173d7",
-    "name": "Nick Jr",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "NickJrAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "8a28afbc-74bb-4c02-9bba-eb623358a9b8",
-    "name": "BBC World News HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "BBCNews.uk@AsiaPacific",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "57f9281b-3c13-456c-aa52-a1e410706933",
-    "name": "Dragon TV",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "DragonTVInternational.cn@SD",
-    "logo": "https://i.imgur.com/WqM6xnF.png"
-  },
-  {
-    "site_id": "73d6b697-f5f1-4a04-a788-ece67c31ed1c",
-    "name": "Arirang TV HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ArirangTV.kr@SD",
-    "logo": "https://i.imgur.com/Asu5pE9.png"
-  },
-  {
-    "site_id": "9bf114df-42db-4815-9b73-efa05d0b9f94",
-    "name": "Astro Warna HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "AstroWarna.my@SD",
-    "logo": "https://i.postimg.cc/hjxHq1sR/330px-Astro-Warna-NEW.png"
-  },
-  {
-    "site_id": "99ee7b2d-1a7d-4fb1-8fbe-7903e028a87b",
-    "name": "Hub Premier 1",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubPremier1.sg@SD",
-    "logo": "https://i.ibb.co/G4zVGddt/Hub-Premier1.png"
-  },
-  {
-    "site_id": "21184422-bbcd-4641-aeb6-fef337b5cc7a",
-    "name": "HBO Signature HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HBOSignatureAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png"
-  },
-  {
-    "site_id": "37e180c8-9f91-41b2-80fe-237b8eba0d8b",
-    "name": "Hub Premier 5",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubPremier5.sg@SD",
-    "logo": "https://i.imgur.com/XhX3oUI.png"
-  },
-  {
-    "site_id": "df4507d8-292d-4036-b14e-b8343360dcaa",
-    "name": "beIN Sports 3",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "beINSports3.qa@MENA",
-    "logo": "https://i.imgur.com/UYSMao3.png"
-  },
-  {
-    "site_id": "93114f35-0f46-4404-98c1-07019a2d2c15",
-    "name": "CNN HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CNNInternational.us@AsiaPacific",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "f83d356b-7169-48c9-a411-b5e05511a462",
-    "name": "ROCK Entertainment",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ROCKEntertainment.sg@SD",
-    "logo": "https://i.imgur.com/PWzq0aU.png"
-  },
-  {
-    "site_id": "71da87e9-5d3f-4544-8b6f-e9a374e05bc7",
-    "name": "FIGHT SPORTS HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "FightSports.us@SD",
-    "logo": "https://i.imgur.com/nV55veq.png"
-  },
-  {
-    "site_id": "354def1b-701e-4703-a279-5ef4204847a1",
-    "name": "beIN Sports 5",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "beINSports5.qa@MENA",
-    "logo": "https://i.imgur.com/2Rha5aY.png"
-  },
-  {
-    "site_id": "b8953e43-4fea-4a1a-833c-06de1fcb5db7",
-    "name": "tvN HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "tvNAsia.hk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
-  },
-  {
-    "site_id": "c5693796-e108-4a13-9319-eb793bb408c3",
-    "name": "Karisma",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "Karisma.id@SD",
-    "logo": "https://i.imgur.com/3aJagfR.png"
-  },
-  {
-    "site_id": "6c1be2bc-47c4-45b5-b027-fce49322f34c",
-    "name": "beIN Sports 4",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "beINSports4.qa@MENA",
-    "logo": "https://i.imgur.com/vwAgJNi.png"
-  },
-  {
-    "site_id": "c691a121-f6a9-450d-bd1c-cb41107b65b6",
-    "name": "Hub Sports 6",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "dfb315cf-fbda-479a-87f0-ab35e65dd7aa",
-    "name": "Hub E City HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubECity.sg@SD",
-    "logo": "https://i.imgur.com/UscuzZm.png"
-  },
-  {
-    "site_id": "5b36348e-1669-4883-9821-6b336cff0d58",
-    "name": "HISTORY HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HistoryAsia.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
-  },
-  {
-    "site_id": "3c3228b3-3388-4aa1-8535-6f2ed17432af",
-    "name": "ABC Australia HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ABCAustralia.au@SD",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png"
-  },
-  {
-    "site_id": "d258444e-b66b-4cbe-88db-e09f31ab8a1f",
-    "name": "AXN HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "AXNAsia.sg@Singapore",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
-  },
-  {
-    "site_id": "7c0ee1eb-5f74-4f5a-a338-69eb125badb4",
-    "name": "ETTV ASIA HD",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "61fcfb0b-514a-47a0-8400-ed8b9221188c",
-    "name": "COLORS Tamil HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ColorsTamil.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "4431c255-e2a9-45db-b43b-27cc19c14cb9",
-    "name": "ONE HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ONE.sg@SD",
-    "logo": "https://i.imgur.com/ea0iGfA.png"
-  },
-  {
-    "site_id": "68c4d3c4-93d9-4cb3-ba14-8918142bfbdc",
-    "name": "Zee Cinema",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ZeeCinema.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
     "site_id": "895ebe38-5cfe-43da-9847-a7088cc3aca7",
     "name": "COLORS",
     "lang": "en",
     "region": "EN",
     "xmltv_id": "Colors.in@SD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "36dae5f2-147d-4aab-a7bd-e9b7d9501734",
-    "name": "KTV HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "KTV.in@SD",
-    "logo": "https://sund-images.sunnxt.com/194409/300x300_KTV_194409_88a4dedb-e48c-4115-afec-49500ff7155a.png"
-  },
-  {
-    "site_id": "263c311c-4b74-4fc0-bb7b-7762cce99a8a",
-    "name": "NHK WORLD - JAPAN HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "NHKWorldJapan.jp@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
-  },
-  {
-    "site_id": "aab336e8-ef09-4e27-91d4-81c35b802a0a",
-    "name": "Hub Premier 4",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubPremier4.sg@SD",
-    "logo": "https://i.imgur.com/RTgyfAe.png"
-  },
-  {
-    "site_id": "f1e89c2d-232c-4204-8cf1-e3107ad6b8e8",
-    "name": "HBO HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HBOAsia.sg@Vietnam",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
-  },
-  {
-    "site_id": "a162afe8-8990-4d43-8c9a-c29d844ba2fb",
-    "name": "HBO Family HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HBOFamilyAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png"
-  },
-  {
-    "site_id": "705e08d5-dec6-4da2-858a-fd29e6b884d2",
-    "name": "Celestial Movies HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CelestialMovies.hk@SD",
-    "logo": "https://i.imgur.com/Mb5ssnu.png"
-  },
-  {
-    "site_id": "ae1685eb-3ef0-4d14-9c89-8955bcc2bc02",
-    "name": "SPOTV2",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "SPOTV2.kr@SD",
-    "logo": "https://i.imgur.com/YD8fbTH.png"
-  },
-  {
-    "site_id": "30a6b23c-0657-4e8f-b26b-de9273e394d7",
-    "name": "Cbeebies HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CBeebiesAsia.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"
-  },
-  {
-    "site_id": "cef88e25-64c6-402e-a6d5-36688708c40f",
-    "name": "HITS MOVIES HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HITSMovies.sg@SD",
-    "logo": "https://i.imgur.com/kyE3vXf.png"
-  },
-  {
-    "site_id": "f8ae363f-51f1-4063-808b-406947018b51",
-    "name": "Zee Tamil",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "ZeeTamil.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIZH/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "7cad02e2-086a-49c8-bf6a-737d1f30c680",
-    "name": "CTI TV HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CTiTV.tw@SD",
-    "logo": "https://i.imgur.com/tuI3pTz.png"
-  },
-  {
-    "site_id": "9fc55c89-3eb4-4516-a5c4-c6193eb71f57",
-    "name": "Cartoonito HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "Cartoonito.uk@SD",
-    "logo": "https://i.imgur.com/B29D2s1.png"
-  },
-  {
-    "site_id": "c290bc2f-bff6-485e-ad81-cba439754d16",
-    "name": "TestChannel1",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "df4507d8-292d-4036-b14e-b8343360dcaa",
-    "name": "beIN Sports 3",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "beINSports3.qa@MENA",
-    "logo": "https://i.imgur.com/UYSMao3.png"
   },
   {
     "site_id": "6e5e72ef-9fa6-4007-9537-74e7d08f51c4",
@@ -1430,370 +1780,6 @@
     "logo": "https://i.imgur.com/bhxPddO.png"
   },
   {
-    "site_id": "ae1685eb-3ef0-4d14-9c89-8955bcc2bc02",
-    "name": "SPOTV2",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "SPOTV2.kr@SD",
-    "logo": "https://i.imgur.com/YD8fbTH.png"
-  },
-  {
-    "site_id": "0ec5072f-b6dc-4676-a683-c32c5db2c3a1",
-    "name": "Premier Sports",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "PremierSports1Asia.ie@SD",
-    "logo": "https://i.imgur.com/8V6xddy.png"
-  },
-  {
-    "site_id": "6f6c5d20-18b3-4023-b505-726b9c36b6e9",
-    "name": "Asianet",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "Asianet.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "64178eae-3ca3-4048-99e4-fce9556b2812",
-    "name": "NHK World Premium HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "NHKWorldPremium.jp@SD",
-    "logo": "https://i.imgur.com/4ESi2La.png"
-  },
-  {
-    "site_id": "578cfccf-634d-4beb-a167-741cb91a068e",
-    "name": "Hub Premier 8",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubPremier8.sg@SD",
-    "logo": "https://i.imgur.com/stYijJ1.png"
-  },
-  {
-    "site_id": "dceea37a-621c-4ba5-a818-68ec6154e538",
-    "name": "beIN Sports 2 HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "beINSports2.qa@MENA",
-    "logo": "https://i.imgur.com/vUJZSvs.png"
-  },
-  {
-    "site_id": "12efa598-4bae-4d64-afc0-a4e7340de74e",
-    "name": "beIN Sports HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "beINSports.qa@MENA",
-    "logo": "https://i.imgur.com/RLrMBlm.png"
-  },
-  {
-    "site_id": "b4ff91f4-7aa6-4e06-ab58-d3932bcbb496",
-    "name": "Hub Sports 7",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "f9f14a80-9556-4ef8-af7c-5f13279dd83c",
-    "name": "DreamWorks Channel HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "DreamWorksChannelAsia.us@SD",
-    "logo": "https://hls.mskycdn.online/logo/dreamworks.png"
-  },
-  {
-    "site_id": "9b01c864-5bcc-46e6-ba8e-3ba6c33ca8fb",
-    "name": "Hub Premier 7",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubPremier7.sg@SD",
-    "logo": "https://i.imgur.com/bVOyKEV.png"
-  },
-  {
-    "site_id": "210ba103-0d19-4b26-bb9f-36d531d7471f",
-    "name": "TestChannel 996",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "dc1af464-7877-46dd-95f0-f81ecd1e3677",
-    "name": "Hub E City HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubECity.sg@SD",
-    "logo": "https://i.imgur.com/UscuzZm.png"
-  },
-  {
-    "site_id": "df762cf1-6b2b-4e0c-9e23-427efde82020",
-    "name": "SEA Today",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "SEAToday.id@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/960px-SEA_Today_Indonesia_Logo.png"
-  },
-  {
-    "site_id": "f9f14a80-9556-4ef8-af7c-5f13279dd83c",
-    "name": "DreamWorks Channel HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "DreamWorksChannelAsia.us@SD",
-    "logo": "https://hls.mskycdn.online/logo/dreamworks.png"
-  },
-  {
-    "site_id": "ac52e93d-814b-40cb-9a3f-688765341bda",
-    "name": "Test 998",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "c4162998-26a4-4296-ae78-34d56086e604",
-    "name": "Vijay TV HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "VijayTVAsia.in@SD",
-    "logo": "https://i.imgur.com/UbUSmcr.png"
-  },
-  {
-    "site_id": "9e2f39ab-95ba-4031-bfeb-6b9b41491b08",
-    "name": "FashionTV HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "FashionTVAsia.fr@SD",
-    "logo": "https://i.imgur.com/ucTh9tO.png"
-  },
-  {
-    "site_id": "b4cdf669-f16c-4f74-ad4c-accde9fc77d3",
-    "name": "TVBS-NEWS",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "TVBSNews.tw@SD",
-    "logo": "https://i.imgur.com/171lwfg.png"
-  },
-  {
-    "site_id": "ef624c07-6e36-4619-87fd-138a443aac1a",
-    "name": "CCM",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CCM.hk@SD",
-    "logo": "https://i.imgur.com/1VhXilw.png"
-  },
-  {
-    "site_id": "dff489d0-abee-4b61-a684-e283ba799ce6",
-    "name": "SONY MAX",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "SonyMaxSingapore.sg@SD",
-    "logo": "https://i.imgur.com/LBICKI5.png"
-  },
-  {
-    "site_id": "2cd14827-0816-400d-b868-62985ec8b627",
-    "name": "HGTV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HGTVAsia.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png"
-  },
-  {
-    "site_id": "b8953e43-4fea-4a1a-833c-06de1fcb5db7",
-    "name": "tvN HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "tvNAsia.hk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png"
-  },
-  {
-    "site_id": "05384f9f-6241-4712-80ab-2c3f2d8ac7d5",
-    "name": "Hits HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HITS.sg@SD",
-    "logo": "https://i.imgur.com/IM8Gy1l.png"
-  },
-  {
-    "site_id": "f0de7c83-f946-492e-b02b-960b65928ec9",
-    "name": "CNBC HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "CNBCAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
-  },
-  {
-    "site_id": "9bf114df-42db-4815-9b73-efa05d0b9f94",
-    "name": "Astro Warna HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "AstroWarna.my@SD",
-    "logo": "https://i.postimg.cc/hjxHq1sR/330px-Astro-Warna-NEW.png"
-  },
-  {
-    "site_id": "6269ba33-cee1-4dc9-8728-2b82dc73e252",
-    "name": "BBC Earth HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "BBCEarth.uk@Asia",
-    "logo": "https://i.imgur.com/nGSsUd4.png"
-  },
-  {
-    "site_id": "8a28afbc-74bb-4c02-9bba-eb623358a9b8",
-    "name": "BBC World News HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "BBCNews.uk@AsiaPacific",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "c993aa99-5dd3-446e-9e55-62393353058a",
-    "name": "KBS World HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "KBSWorld.kr@SD",
-    "logo": "https://i.imgur.com/7DqgELX.png"
-  },
-  {
-    "site_id": "a162afe8-8990-4d43-8c9a-c29d844ba2fb",
-    "name": "HBO Family HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HBOFamilyAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png"
-  },
-  {
-    "site_id": "2cea0112-a03d-4fa1-a4c2-276da4d3c908",
-    "name": "TV5MONDE HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "TV5MondeAsia.fr@SD",
-    "logo": "https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025\u0026path-prefix=vi"
-  },
-  {
-    "site_id": "68c4d3c4-93d9-4cb3-ba14-8918142bfbdc",
-    "name": "Zee Cinema",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "ZeeCinema.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
-    "site_id": "9e7d5a33-39dd-4e66-809f-c6099dc81d26",
-    "name": "TVBS Asia",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "TVBSAsia.tw@SD",
-    "logo": "https://i.imgur.com/4S1rkhm.png"
-  },
-  {
-    "site_id": "ace578ac-0996-4941-877c-58abe2ff3851",
-    "name": "TestChannel2",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "fbb0e7b8-649b-4c98-9bbe-713971282d8c",
-    "name": "Hub Premier 2 (HD)",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "HubPremier2.sg@SD",
-    "logo": "https://i.imgur.com/mrZwamR.png"
-  },
-  {
-    "site_id": "0610cb3d-8521-44a1-8d90-7029ac428e8c",
-    "name": "Crime + Investigation HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CrimePlusInvestigationAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
-  },
-  {
-    "site_id": "895ebe38-5cfe-43da-9847-a7088cc3aca7",
-    "name": "COLORS",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "Colors.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "5f50648a-3b0f-4d13-b0ac-056e722a647a",
-    "name": "TVB Xing He",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "TVBXingHe.hk@SD",
-    "logo": "https://i.imgur.com/uf0bYFm.png"
-  },
-  {
-    "site_id": "71278e7f-bdd5-43ac-b3ca-01d6fad180f5",
-    "name": "Animax HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "AnimaxAsia.sg@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png"
-  },
-  {
-    "site_id": "ac52e93d-814b-40cb-9a3f-688765341bda",
-    "name": "Test 998",
-    "lang": "zh",
-    "region": "ZH"
-  },
-  {
-    "site_id": "207a516d-2dbc-49f9-8d98-32d31bd89d3a",
-    "name": "Vannathirai",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "Vannathirai.sg@SD",
-    "logo": "https://i.imgur.com/mpGrgrU.png"
-  },
-  {
-    "site_id": "740ad097-ae3d-4a16-9e67-69e308509b9a",
-    "name": "ONE (Malay)",
-    "lang": "en",
-    "region": "EN"
-  },
-  {
-    "site_id": "7cad02e2-086a-49c8-bf6a-737d1f30c680",
-    "name": "CTI TV HD",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CTiTV.tw@SD",
-    "logo": "https://i.imgur.com/tuI3pTz.png"
-  },
-  {
-    "site_id": "77da4ed7-09ed-455a-9c09-8d75000fe942",
-    "name": "CGTN",
-    "lang": "zh",
-    "region": "ZH",
-    "xmltv_id": "CGTN.cn@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
-  },
-  {
-    "site_id": "3c292157-4cf2-48bf-9608-c0ef8ab79cc5",
-    "name": "Hub Sports 2 HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "HubSports2.sg@SD",
-    "logo": "https://i.imgur.com/NceGpxl.png"
-  },
-  {
-    "site_id": "263c311c-4b74-4fc0-bb7b-7762cce99a8a",
-    "name": "NHK WORLD - JAPAN HD",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "NHKWorldJapan.jp@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
-  },
-  {
-    "site_id": "85611254-47a9-4f7c-9469-a4ee8b9f65b1",
-    "name": "BBC Lifestyle",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "BBCLifestyle.uk@Asia",
-    "logo": "https://i.imgur.com/9mzJJ3y.png"
-  },
-  {
-    "site_id": "d99214cd-fcdf-4613-8106-55e248d3b608",
-    "name": "Kalaignar TV",
-    "lang": "en",
-    "region": "EN",
-    "xmltv_id": "KalaignarTV.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALAIGNAR_TV/images/LOGO_HD/image.png"
-  },
-  {
     "site_id": "30a6b23c-0657-4e8f-b26b-de9273e394d7",
     "name": "Cbeebies HD",
     "lang": "zh",
@@ -1802,11 +1788,25 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"
   },
   {
-    "site_id": "c2c8034f-2897-4944-afb6-bdfcb6e9a536",
-    "name": "Bloomberg Television HD",
+    "site_id": "206f755c-f417-4eb4-9631-ed21ae11f2e8",
+    "name": "Sky News HD",
     "lang": "zh",
     "region": "ZH",
-    "xmltv_id": "BloombergTV.us@Asia",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
+    "xmltv_id": "SkyNewsAustralia.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/960px-Sky_News_Australia_logo_-_2019.svg.png"
+  },
+  {
+    "site_id": "210ba103-0d19-4b26-bb9f-36d531d7471f",
+    "name": "TestChannel 996",
+    "lang": "zh",
+    "region": "ZH"
+  },
+  {
+    "site_id": "354def1b-701e-4703-a279-5ef4204847a1",
+    "name": "beIN Sports 5",
+    "lang": "zh",
+    "region": "ZH",
+    "xmltv_id": "beINSports5.qa@MENA",
+    "logo": "https://i.imgur.com/2Rha5aY.png"
   }
 ]

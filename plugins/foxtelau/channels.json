@@ -1,103 +1,10 @@
 [
   {
-    "site_id": "Movies-Action-2/MTA",
-    "name": "Movies Action +2",
-    "lang": "en"
-  },
-  {
-    "site_id": "Nick-Music/NMU",
-    "name": "Nick Music",
+    "site_id": "Classics-2/CL2",
+    "name": "Classics +2",
     "lang": "en",
-    "xmltv_id": "NickMusic.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/960px-NickMusic.svg.png"
-  },
-  {
-    "site_id": "RAI-ITALIA/RAI",
-    "name": "RAI ITALIA",
-    "lang": "en",
-    "xmltv_id": "RaiItalia.it@Australia",
-    "logo": "https://i.imgur.com/1nN4rEP.png"
-  },
-  {
-    "site_id": "SKY-News/SKY",
-    "name": "SKY News",
-    "lang": "en",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"
-  },
-  {
-    "site_id": "Antenna-Pacific/ANT",
-    "name": "Antenna Pacific",
-    "lang": "en",
-    "xmltv_id": "ANT1Pacific.gr@SD",
-    "logo": "https://i.imgur.com/IssYNSL.png"
-  },
-  {
-    "site_id": "Movies-Premiere/SHO",
-    "name": "Movies Premiere",
-    "lang": "en"
-  },
-  {
-    "site_id": "SBS-Worldwatch/SWW",
-    "name": "SBS Worldwatch",
-    "lang": "en",
-    "xmltv_id": "SBSWorldWatch.au@Sydney",
-    "logo": "https://i.imgur.com/gCKMxrW.png"
-  },
-  {
-    "site_id": "Sky-News-UK/SUK",
-    "name": "Sky News UK",
-    "lang": "en"
-  },
-  {
-    "site_id": "Daystar/DAS",
-    "name": "Daystar",
-    "lang": "en"
-  },
-  {
-    "site_id": "EXPO/EXP",
-    "name": "EXPO",
-    "lang": "en",
-    "xmltv_id": "ExpoChannel.au@SD",
-    "logo": "https://i.imgur.com/2KzCShW.png"
-  },
-  {
-    "site_id": "FOX-CRICKET/FS1",
-    "name": "FOX CRICKET",
-    "lang": "en",
-    "xmltv_id": "FoxCricket.au@SD",
-    "logo": "https://i.imgur.com/V8hb6tJ.png"
-  },
-  {
-    "site_id": "FOX-SPORTS-506/SPS",
-    "name": "FOX SPORTS 506",
-    "lang": "en",
-    "xmltv_id": "FoxSports506.au@SD",
-    "logo": "https://i.imgur.com/sbooXpg.png"
-  },
-  {
-    "site_id": "Movies-Family-2/MTF",
-    "name": "Movies Family +2",
-    "lang": "en"
-  },
-  {
-    "site_id": "MTV-80s/MTC",
-    "name": "MTV 80s",
-    "lang": "en",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
-  },
-  {
-    "site_id": "SBS-Viceland/SBN",
-    "name": "SBS Viceland",
-    "lang": "en",
-    "xmltv_id": "SBSViceland.au@Sydney",
-    "logo": "https://i.imgur.com/yIdjafM.png"
-  },
-  {
-    "site_id": "Sky-News-Extra/ASP",
-    "name": "Sky News Extra",
-    "lang": "en",
-    "xmltv_id": "SkyNewsExtra.au@SD",
-    "logo": "https://i.imgur.com/ZsPb8nL.png"
+    "xmltv_id": "Classics.au@Plus2",
+    "logo": "https://i.imgur.com/iNbVVUx.png"
   },
   {
     "site_id": "CMT/CMT",
@@ -107,61 +14,56 @@
     "logo": "https://i.imgur.com/PpD3Vsc.png"
   },
   {
-    "site_id": "LifeStyle/LST",
-    "name": "LifeStyle",
+    "site_id": "CNBC/CNB",
+    "name": "CNBC",
     "lang": "en",
-    "xmltv_id": "LifeStyle.au@SD",
-    "logo": "https://i.imgur.com/PyZvrkd.png"
+    "xmltv_id": "CNBCAustralia.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
   },
   {
-    "site_id": "Movies-Greats/GRR",
-    "name": "Movies Greats",
-    "lang": "en"
-  },
-  {
-    "site_id": "Movies-Romance/SHD",
-    "name": "Movies Romance",
-    "lang": "en"
-  },
-  {
-    "site_id": "TLC-2/DT2",
-    "name": "TLC +2",
+    "site_id": "Nick-Music/NMU",
+    "name": "Nick Music",
     "lang": "en",
-    "xmltv_id": "TLC.au@Plus2",
+    "xmltv_id": "NickMusic.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/960px-NickMusic.svg.png"
+  },
+  {
+    "site_id": "TLC/DTA",
+    "name": "TLC",
+    "lang": "en",
+    "xmltv_id": "TLC.au@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
   },
   {
-    "site_id": "Crime/IOI",
-    "name": "Crime",
-    "lang": "en",
-    "xmltv_id": "Crime.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/FoxCrimeAU-Logo.svg/960px-FoxCrimeAU-Logo.svg.png"
-  },
-  {
-    "site_id": "FOX8/FOX",
-    "name": "FOX8",
-    "lang": "en",
-    "xmltv_id": "Fox8.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FOX8_Logo_2019.png/960px-FOX8_Logo_2019.png"
-  },
-  {
-    "site_id": "FOX82/FO2",
-    "name": "FOX8+2",
-    "lang": "en",
-    "xmltv_id": "Fox8.au@Plus2",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FOX8_Logo_2019.png/960px-FOX8_Logo_2019.png"
-  },
-  {
-    "site_id": "FOX-SPORTS-505/FSP",
-    "name": "FOX SPORTS 505",
-    "lang": "en",
-    "xmltv_id": "FoxSports505.au@SD",
-    "logo": "https://i.imgur.com/sbooXpg.png"
-  },
-  {
-    "site_id": "Foxtel-One-2/F12",
-    "name": "Foxtel One +2",
+    "site_id": "UKTV2/UK2",
+    "name": "UKTV+2",
     "lang": "en"
+  },
+  {
+    "site_id": "LifeStyle-Food/FOD",
+    "name": "LifeStyle Food",
+    "lang": "en",
+    "xmltv_id": "LifestyleFood.au@SD",
+    "logo": "https://i.imgur.com/3hL3b2w.png"
+  },
+  {
+    "site_id": "LifeStyle-Home/LHO",
+    "name": "LifeStyle Home",
+    "lang": "en",
+    "xmltv_id": "LifestyleHome.au@SD",
+    "logo": "https://i.imgur.com/4mNVTfw.png"
+  },
+  {
+    "site_id": "Discovery-Turbo-2/DI2",
+    "name": "Discovery Turbo +2",
+    "lang": "en"
+  },
+  {
+    "site_id": "LifeStyle-2/LS2",
+    "name": "LifeStyle +2",
+    "lang": "en",
+    "xmltv_id": "LifeStyle.au@Plus2",
+    "logo": "https://i.imgur.com/PyZvrkd.png"
   },
   {
     "site_id": "Lifetime-Movie-Network/LMS",
@@ -171,6 +73,188 @@
     "logo": "https://i.imgur.com/AHP3J12.png"
   },
   {
+    "site_id": "BoxSets/BXS",
+    "name": "BoxSets",
+    "lang": "en",
+    "xmltv_id": "BoxSets.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/90/BoxSets_Channel_Logo.png"
+  },
+  {
+    "site_id": "Movies-4K-Ultra-HD/K02",
+    "name": "Movies 4K Ultra HD",
+    "lang": "en"
+  },
+  {
+    "site_id": "Real-History/HST",
+    "name": "Real History",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/real-history-au.png"
+  },
+  {
+    "site_id": "Animal-Planet/ANI",
+    "name": "Animal Planet",
+    "lang": "en",
+    "xmltv_id": "AnimalPlanet.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+  },
+  {
+    "site_id": "Antenna-Pacific/ANT",
+    "name": "Antenna Pacific",
+    "lang": "en",
+    "xmltv_id": "ANT1Pacific.gr@SD",
+    "logo": "https://i.imgur.com/IssYNSL.png"
+  },
+  {
+    "site_id": "Movies-Drama/MO6",
+    "name": "Movies Drama",
+    "lang": "en"
+  },
+  {
+    "site_id": "NHK-WorldJapan/NHK",
+    "name": "NHK World-Japan",
+    "lang": "en",
+    "xmltv_id": "NHKWorldJapan.jp@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
+  },
+  {
+    "site_id": "Real-Life-2/RL2",
+    "name": "Real Life +2",
+    "lang": "en",
+    "xmltv_id": "RealLife.au@Plus2",
+    "logo": "https://i.imgur.com/szurc6c.png"
+  },
+  {
+    "site_id": "SBS-Worldwatch/SWW",
+    "name": "SBS Worldwatch",
+    "lang": "en",
+    "xmltv_id": "SBSWorldWatch.au@Sydney",
+    "logo": "https://i.imgur.com/gCKMxrW.png"
+  },
+  {
+    "site_id": "SKY-Weather/FXW",
+    "name": "SKY Weather",
+    "lang": "en"
+  },
+  {
+    "site_id": "ESPN2/ES2",
+    "name": "ESPN2",
+    "lang": "en",
+    "xmltv_id": "ESPN2.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
+  },
+  {
+    "site_id": "FOX-SPORTS-503/FS3",
+    "name": "FOX SPORTS 503",
+    "lang": "en",
+    "xmltv_id": "FoxSports503.au@SD",
+    "logo": "https://i.imgur.com/pBY6i2q.png"
+  },
+  {
+    "site_id": "RAI-ITALIA/RAI",
+    "name": "RAI ITALIA",
+    "lang": "en",
+    "xmltv_id": "RaiItalia.it@Australia",
+    "logo": "https://i.imgur.com/1nN4rEP.png"
+  },
+  {
+    "site_id": "SKY-Racing/SRA",
+    "name": "SKY Racing",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-racing-au.png"
+  },
+  {
+    "site_id": "TVSN/TVS",
+    "name": "TVSN",
+    "lang": "en",
+    "xmltv_id": "TVSN.au@SD",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "Classics/FKC",
+    "name": "Classics",
+    "lang": "en",
+    "xmltv_id": "Classics.au@SD",
+    "logo": "https://i.imgur.com/iNbVVUx.png"
+  },
+  {
+    "site_id": "Discovery-Turbo/DIT",
+    "name": "Discovery Turbo",
+    "lang": "en",
+    "xmltv_id": "DiscoveryTurbo.au@Australia",
+    "logo": "https://i.imgur.com/osCVMop.png"
+  },
+  {
+    "site_id": "ESPN/ESP",
+    "name": "ESPN",
+    "lang": "en",
+    "xmltv_id": "ESPN.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+  },
+  {
+    "site_id": "FOX8/FOX",
+    "name": "FOX8",
+    "lang": "en",
+    "xmltv_id": "Fox8.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FOX8_Logo_2019.png/960px-FOX8_Logo_2019.png"
+  },
+  {
+    "site_id": "FOX-SPORTS-506/SPS",
+    "name": "FOX SPORTS 506",
+    "lang": "en",
+    "xmltv_id": "FoxSports506.au@SD",
+    "logo": "https://i.imgur.com/sbooXpg.png"
+  },
+  {
+    "site_id": "Fox-Sports-News/FSN",
+    "name": "Fox Sports News",
+    "lang": "en",
+    "xmltv_id": "FoxSportsNews.au@SD",
+    "logo": "https://i.imgur.com/FhMQrJk.png"
+  },
+  {
+    "site_id": "Foxtel-One/F1S",
+    "name": "Foxtel One",
+    "lang": "en",
+    "xmltv_id": "FoxtelOne.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/FoxtelOne.svg/960px-FoxtelOne.svg.png"
+  },
+  {
+    "site_id": "Movies-Action/SHA",
+    "name": "Movies Action",
+    "lang": "en",
+    "logo": "https://i.imgur.com/NIVhISa.png"
+  },
+  {
+    "site_id": "Arena-2/AR2",
+    "name": "Arena +2",
+    "lang": "en"
+  },
+  {
+    "site_id": "CGTNDocumentary/CCD",
+    "name": "CGTN-Documentary",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/cgtn-documentary-int.png"
+  },
+  {
+    "site_id": "CNN/CNN",
+    "name": "CNN",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@AsiaPacific",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "Investigation-Discovery/DID",
+    "name": "Investigation Discovery",
+    "lang": "en",
+    "xmltv_id": "InvestigationDiscovery.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
+    "site_id": "Movies-Hits/MVS",
+    "name": "Movies Hits",
+    "lang": "en"
+  },
+  {
     "site_id": "Real-Life/RLS",
     "name": "Real Life",
     "lang": "en",
@@ -178,16 +262,116 @@
     "logo": "https://i.imgur.com/szurc6c.png"
   },
   {
-    "site_id": "UKTV2/UK2",
-    "name": "UKTV+2",
+    "site_id": "Sky-News-Extra/ASP",
+    "name": "Sky News Extra",
+    "lang": "en",
+    "xmltv_id": "SkyNewsExtra.au@SD",
+    "logo": "https://i.imgur.com/ZsPb8nL.png"
+  },
+  {
+    "site_id": "Sky-News-UK/SUK",
+    "name": "Sky News UK",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-news-uk-au.png"
+  },
+  {
+    "site_id": "British-Cinema/BCS",
+    "name": "British Cinema",
     "lang": "en"
   },
   {
-    "site_id": "Comedy-2/HI2",
-    "name": "Comedy +2",
+    "site_id": "Fashion-TV/FHT",
+    "name": "Fashion TV",
     "lang": "en",
-    "xmltv_id": "Comedy.au@Plus2",
-    "logo": "https://i.imgur.com/nk6G0gE.png"
+    "logo": "https://i.imgur.com/Bk7W39G.png"
+  },
+  {
+    "site_id": "FOX-LEAGUE/SP2",
+    "name": "FOX LEAGUE",
+    "lang": "en",
+    "xmltv_id": "FoxLeague.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/960px-Fox_league.svg.png"
+  },
+  {
+    "site_id": "MSNBC/MSN",
+    "name": "MSNBC",
+    "lang": "en",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png"
+  },
+  {
+    "site_id": "MTV-80s/MTC",
+    "name": "MTV 80s",
+    "lang": "en",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
+  },
+  {
+    "site_id": "Bloomberg-Television/BLM",
+    "name": "Bloomberg Television",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bloomberg-television-us.png"
+  },
+  {
+    "site_id": "Famous/SAR",
+    "name": "Famous",
+    "lang": "en",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/Famous_2024.svg"
+  },
+  {
+    "site_id": "MTV-Hits/TMF",
+    "name": "MTV Hits",
+    "lang": "en",
+    "xmltv_id": "MTVHits.au@SD",
+    "logo": "https://i.imgur.com/x1zYoCW.png"
+  },
+  {
+    "site_id": "Real-Crime/CIN",
+    "name": "Real Crime",
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/real-crime-au.png"
+  },
+  {
+    "site_id": "SKY-News/SKY",
+    "name": "SKY News",
+    "lang": "en",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"
+  },
+  {
+    "site_id": "SKY-Racing-2/SR2",
+    "name": "SKY Racing 2",
+    "lang": "en",
+    "xmltv_id": "SkyRacing2.au@SD",
+    "logo": "https://i.imgur.com/TxQvFnQ.png"
+  },
+  {
+    "site_id": "SKY-Tbred-Cent/SRW",
+    "name": "SKY Tbred Cent",
+    "lang": "en"
+  },
+  {
+    "site_id": "SonLife/SLT",
+    "name": "SonLife",
+    "lang": "en",
+    "logo": "https://i.imgur.com/2cOOSKZ.png"
+  },
+  {
+    "site_id": "Arena/ARN",
+    "name": "Arena",
+    "lang": "en",
+    "xmltv_id": "Arena.au@SD",
+    "logo": "https://i.imgur.com/hfNl2XS.png"
+  },
+  {
+    "site_id": "CGTN/CCC",
+    "name": "CGTN",
+    "lang": "en",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
+  },
+  {
+    "site_id": "Club-MTV/VH1",
+    "name": "Club MTV",
+    "lang": "en",
+    "xmltv_id": "ClubMTV.au@SD",
+    "logo": "https://i.imgur.com/FD6eQI3.png"
   },
   {
     "site_id": "Discovery-Channel/DIS",
@@ -204,58 +388,18 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png"
   },
   {
-    "site_id": "Movies-Hits/MVS",
-    "name": "Movies Hits",
-    "lang": "en"
-  },
-  {
-    "site_id": "SKY-Racing/SRA",
-    "name": "SKY Racing",
-    "lang": "en"
-  },
-  {
-    "site_id": "TVSN/TVS",
-    "name": "TVSN",
+    "site_id": "LifeStyle-Food-2/LF2",
+    "name": "LifeStyle Food +2",
     "lang": "en",
-    "xmltv_id": "TVSN.au@SD",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
+    "xmltv_id": "LifestyleFood.au@Plus2",
+    "logo": "https://i.imgur.com/3hL3b2w.png"
   },
   {
-    "site_id": "Crime-2/IO2",
-    "name": "Crime +2",
+    "site_id": "Al-Jazeera/AJE",
+    "name": "Al Jazeera",
     "lang": "en",
-    "xmltv_id": "FoxCrime.au@Plus2",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/FoxCrimeAU-Logo.svg/960px-FoxCrimeAU-Logo.svg.png"
-  },
-  {
-    "site_id": "FOX-SPORTS-503/FS3",
-    "name": "FOX SPORTS 503",
-    "lang": "en",
-    "xmltv_id": "FoxSports503.au@SD",
-    "logo": "https://i.imgur.com/pBY6i2q.png"
-  },
-  {
-    "site_id": "Fox-Sports-More/FSS",
-    "name": "Fox Sports More",
-    "lang": "en",
-    "logo": "https://i.imgur.com/BPMovOc.png"
-  },
-  {
-    "site_id": "Movies-Family/SHF",
-    "name": "Movies Family",
-    "lang": "en"
-  },
-  {
-    "site_id": "NHK-WorldJapan/NHK",
-    "name": "NHK World-Japan",
-    "lang": "en",
-    "xmltv_id": "NHKWorldJapan.jp@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
-  },
-  {
-    "site_id": "SKY-Tbred-Cent/SRW",
-    "name": "SKY Tbred Cent",
-    "lang": "en"
+    "xmltv_id": "AlJazeera.qa@Arabic",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
   },
   {
     "site_id": "Aurora/AUR",
@@ -265,65 +409,14 @@
     "logo": "https://i.imgur.com/DNrGOoE.png"
   },
   {
-    "site_id": "CGTN/CCC",
-    "name": "CGTN",
+    "site_id": "Aussie-Classics/ACS",
+    "name": "Aussie Classics",
     "lang": "en",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/aussie-classics-au.png"
   },
   {
-    "site_id": "Discovery-2/DS2",
-    "name": "Discovery +2",
-    "lang": "en",
-    "xmltv_id": "DiscoveryChannel.au@Plus2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "Famous/SAR",
-    "name": "Famous",
-    "lang": "en",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/Famous_2024.svg"
-  },
-  {
-    "site_id": "Fashion-TV/FHT",
-    "name": "Fashion TV",
-    "lang": "en",
-    "logo": "https://i.imgur.com/Bk7W39G.png"
-  },
-  {
-    "site_id": "Fox-Footy/FAF",
-    "name": "Fox Footy",
-    "lang": "en",
-    "xmltv_id": "FoxFooty.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/960px-Fox_Footy_logo_%282015%29.svg.png"
-  },
-  {
-    "site_id": "Movies-Action/SHA",
-    "name": "Movies Action",
-    "lang": "en",
-    "logo": "https://i.imgur.com/NIVhISa.png"
-  },
-  {
-    "site_id": "Animal-Planet/ANI",
-    "name": "Animal Planet",
-    "lang": "en",
-    "xmltv_id": "AnimalPlanet.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
-  },
-  {
-    "site_id": "British/FSU",
-    "name": "British",
-    "lang": "en"
-  },
-  {
-    "site_id": "Classics/FKC",
-    "name": "Classics",
-    "lang": "en",
-    "xmltv_id": "Classics.au@SD",
-    "logo": "https://i.imgur.com/iNbVVUx.png"
-  },
-  {
-    "site_id": "Discovery-Turbo-2/DI2",
-    "name": "Discovery Turbo +2",
+    "site_id": "British-2/FS2",
+    "name": "British +2",
     "lang": "en"
   },
   {
@@ -334,46 +427,35 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
   },
   {
-    "site_id": "LifeStyle-Home/LHO",
-    "name": "LifeStyle Home",
+    "site_id": "FOX-SPORTS-505/FSP",
+    "name": "FOX SPORTS 505",
     "lang": "en",
-    "xmltv_id": "LifestyleHome.au@SD",
-    "logo": "https://i.imgur.com/4mNVTfw.png"
+    "xmltv_id": "FoxSports505.au@SD",
+    "logo": "https://i.imgur.com/sbooXpg.png"
   },
   {
-    "site_id": "Showcase/SHC",
-    "name": "Showcase",
+    "site_id": "Fox-Sports-More/FSS",
+    "name": "Fox Sports More",
     "lang": "en",
-    "xmltv_id": "Showcase.au@SD",
-    "logo": "https://i.imgur.com/Ig5qq2X.png"
+    "logo": "https://i.imgur.com/BPMovOc.png"
   },
   {
-    "site_id": "CNN/CNN",
-    "name": "CNN",
-    "lang": "en",
-    "xmltv_id": "CNNInternational.us@AsiaPacific",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
+    "site_id": "Movies-Action-2/MTA",
+    "name": "Movies Action +2",
+    "lang": "en"
   },
   {
-    "site_id": "ESPN/ESP",
-    "name": "ESPN",
+    "site_id": "British/FSU",
+    "name": "British",
     "lang": "en",
-    "xmltv_id": "ESPN.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/british-au.png"
   },
   {
-    "site_id": "Arena/ARN",
-    "name": "Arena",
+    "site_id": "Crime/IOI",
+    "name": "Crime",
     "lang": "en",
-    "xmltv_id": "Arena.au@SD",
-    "logo": "https://i.imgur.com/hfNl2XS.png"
-  },
-  {
-    "site_id": "Club-MTV/VH1",
-    "name": "Club MTV",
-    "lang": "en",
-    "xmltv_id": "ClubMTV.au@SD",
-    "logo": "https://i.imgur.com/FD6eQI3.png"
+    "xmltv_id": "Crime.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/FoxCrimeAU-Logo.svg/960px-FoxCrimeAU-Logo.svg.png"
   },
   {
     "site_id": "GB-News/GBN",
@@ -382,8 +464,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png"
   },
   {
-    "site_id": "Movies-Drama/MO6",
-    "name": "Movies Drama",
+    "site_id": "Movies-Comedy/SHY",
+    "name": "Movies Comedy",
+    "lang": "en"
+  },
+  {
+    "site_id": "Movies-Family-2/MTF",
+    "name": "Movies Family +2",
     "lang": "en"
   },
   {
@@ -392,50 +479,9 @@
     "lang": "en"
   },
   {
-    "site_id": "MTV-Hits/TMF",
-    "name": "MTV Hits",
-    "lang": "en",
-    "xmltv_id": "MTVHits.au@SD",
-    "logo": "https://i.imgur.com/x1zYoCW.png"
-  },
-  {
-    "site_id": "Real-History/HST",
-    "name": "Real History",
+    "site_id": "Movies-Premiere/SHO",
+    "name": "Movies Premiere",
     "lang": "en"
-  },
-  {
-    "site_id": "SonLife/SLT",
-    "name": "SonLife",
-    "lang": "en",
-    "logo": "https://i.imgur.com/2cOOSKZ.png"
-  },
-  {
-    "site_id": "Classics-2/CL2",
-    "name": "Classics +2",
-    "lang": "en",
-    "xmltv_id": "Classics.au@Plus2",
-    "logo": "https://i.imgur.com/iNbVVUx.png"
-  },
-  {
-    "site_id": "ESPN2/ES2",
-    "name": "ESPN2",
-    "lang": "en",
-    "xmltv_id": "ESPN2.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
-  },
-  {
-    "site_id": "Foxtel-One/F1S",
-    "name": "Foxtel One",
-    "lang": "en",
-    "xmltv_id": "FoxtelOne.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/FoxtelOne.svg/960px-FoxtelOne.svg.png"
-  },
-  {
-    "site_id": "Real-Life-2/RL2",
-    "name": "Real Life +2",
-    "lang": "en",
-    "xmltv_id": "RealLife.au@Plus2",
-    "logo": "https://i.imgur.com/szurc6c.png"
   },
   {
     "site_id": "SBS-World-Movies-SD/S4B",
@@ -445,100 +491,16 @@
     "logo": "https://i.imgur.com/9JH6JSc.png"
   },
   {
-    "site_id": "BoxSets/BXS",
-    "name": "BoxSets",
-    "lang": "en",
-    "xmltv_id": "BoxSets.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/90/BoxSets_Channel_Logo.png"
-  },
-  {
     "site_id": "DocPlay/DPS",
     "name": "DocPlay",
     "lang": "en"
   },
   {
-    "site_id": "FOX-LEAGUE/SP2",
-    "name": "FOX LEAGUE",
+    "site_id": "FOX-CRICKET/FS1",
+    "name": "FOX CRICKET",
     "lang": "en",
-    "xmltv_id": "FoxLeague.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/960px-Fox_league.svg.png"
-  },
-  {
-    "site_id": "SKY-Racing-2/SR2",
-    "name": "SKY Racing 2",
-    "lang": "en",
-    "xmltv_id": "SkyRacing2.au@SD",
-    "logo": "https://i.imgur.com/TxQvFnQ.png"
-  },
-  {
-    "site_id": "SKY-Weather/FXW",
-    "name": "SKY Weather",
-    "lang": "en"
-  },
-  {
-    "site_id": "Aussie-Classics/ACS",
-    "name": "Aussie Classics",
-    "lang": "en"
-  },
-  {
-    "site_id": "Bloomberg-Television/BLM",
-    "name": "Bloomberg Television",
-    "lang": "en"
-  },
-  {
-    "site_id": "Discovery-Turbo/DIT",
-    "name": "Discovery Turbo",
-    "lang": "en",
-    "xmltv_id": "DiscoveryTurbo.au@Australia",
-    "logo": "https://i.imgur.com/osCVMop.png"
-  },
-  {
-    "site_id": "LifeStyle-Food/FOD",
-    "name": "LifeStyle Food",
-    "lang": "en",
-    "xmltv_id": "LifestyleFood.au@SD",
-    "logo": "https://i.imgur.com/3hL3b2w.png"
-  },
-  {
-    "site_id": "Movies-4K-Ultra-HD/K02",
-    "name": "Movies 4K Ultra HD",
-    "lang": "en"
-  },
-  {
-    "site_id": "Real-Crime/CIN",
-    "name": "Real Crime",
-    "lang": "en"
-  },
-  {
-    "site_id": "UKTV/UKT",
-    "name": "UKTV",
-    "lang": "en",
-    "xmltv_id": "BBCUKTV.au@Australia",
-    "logo": "https://i.imgur.com/rI56GEQ.png"
-  },
-  {
-    "site_id": "Universal-TV/HAL",
-    "name": "Universal TV",
-    "lang": "en",
-    "xmltv_id": "UniversalTV.au@SD",
-    "logo": "https://i.imgur.com/jnjvR5f.png"
-  },
-  {
-    "site_id": "Al-Jazeera/AJE",
-    "name": "Al Jazeera",
-    "lang": "en",
-    "xmltv_id": "AlJazeera.qa@Arabic",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
-  },
-  {
-    "site_id": "Arena-2/AR2",
-    "name": "Arena +2",
-    "lang": "en"
-  },
-  {
-    "site_id": "British-Cinema/BCS",
-    "name": "British Cinema",
-    "lang": "en"
+    "xmltv_id": "FoxCricket.au@SD",
+    "logo": "https://i.imgur.com/V8hb6tJ.png"
   },
   {
     "site_id": "GOOD/ACC",
@@ -548,17 +510,11 @@
     "logo": "https://i.imgur.com/uLmrGJk.png"
   },
   {
-    "site_id": "LifeStyle-Food-2/LF2",
-    "name": "LifeStyle Food +2",
+    "site_id": "LifeStyle/LST",
+    "name": "LifeStyle",
     "lang": "en",
-    "xmltv_id": "LifestyleFood.au@Plus2",
-    "logo": "https://i.imgur.com/3hL3b2w.png"
-  },
-  {
-    "site_id": "MSNBC/MSN",
-    "name": "MSNBC",
-    "lang": "en",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png"
+    "xmltv_id": "LifeStyle.au@SD",
+    "logo": "https://i.imgur.com/PyZvrkd.png"
   },
   {
     "site_id": "Showcase-2/SW2",
@@ -568,47 +524,32 @@
     "logo": "https://i.imgur.com/Ig5qq2X.png"
   },
   {
-    "site_id": "TLC/DTA",
-    "name": "TLC",
+    "site_id": "Discovery-2/DS2",
+    "name": "Discovery +2",
     "lang": "en",
-    "xmltv_id": "TLC.au@SD",
+    "xmltv_id": "DiscoveryChannel.au@Plus2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "Showcase/SHC",
+    "name": "Showcase",
+    "lang": "en",
+    "xmltv_id": "Showcase.au@SD",
+    "logo": "https://i.imgur.com/Ig5qq2X.png"
+  },
+  {
+    "site_id": "TLC-2/DT2",
+    "name": "TLC +2",
+    "lang": "en",
+    "xmltv_id": "TLC.au@Plus2",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
   },
   {
-    "site_id": "Fox-Sports-News/FSN",
-    "name": "Fox Sports News",
+    "site_id": "UKTV/UKT",
+    "name": "UKTV",
     "lang": "en",
-    "xmltv_id": "FoxSportsNews.au@SD",
-    "logo": "https://i.imgur.com/FhMQrJk.png"
-  },
-  {
-    "site_id": "LifeStyle-2/LS2",
-    "name": "LifeStyle +2",
-    "lang": "en",
-    "xmltv_id": "LifeStyle.au@Plus2",
-    "logo": "https://i.imgur.com/PyZvrkd.png"
-  },
-  {
-    "site_id": "CGTNDocumentary/CCD",
-    "name": "CGTN-Documentary",
-    "lang": "en"
-  },
-  {
-    "site_id": "CNBC/CNB",
-    "name": "CNBC",
-    "lang": "en",
-    "xmltv_id": "CNBCAustralia.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
-  },
-  {
-    "site_id": "Movies-Comedy/SHY",
-    "name": "Movies Comedy",
-    "lang": "en"
-  },
-  {
-    "site_id": "British-2/FS2",
-    "name": "British +2",
-    "lang": "en"
+    "xmltv_id": "BBCUKTV.au@Australia",
+    "logo": "https://i.imgur.com/rI56GEQ.png"
   },
   {
     "site_id": "Comedy/HIT",
@@ -618,10 +559,78 @@
     "logo": "https://i.imgur.com/nk6G0gE.png"
   },
   {
-    "site_id": "Investigation-Discovery/DID",
-    "name": "Investigation Discovery",
+    "site_id": "Daystar/DAS",
+    "name": "Daystar",
     "lang": "en",
-    "xmltv_id": "InvestigationDiscovery.au@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/daystar-au.png"
+  },
+  {
+    "site_id": "EXPO/EXP",
+    "name": "EXPO",
+    "lang": "en",
+    "xmltv_id": "ExpoChannel.au@SD",
+    "logo": "https://i.imgur.com/2KzCShW.png"
+  },
+  {
+    "site_id": "FOX82/FO2",
+    "name": "FOX8+2",
+    "lang": "en",
+    "xmltv_id": "Fox8.au@Plus2",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FOX8_Logo_2019.png/960px-FOX8_Logo_2019.png"
+  },
+  {
+    "site_id": "Movies-Family/SHF",
+    "name": "Movies Family",
+    "lang": "en"
+  },
+  {
+    "site_id": "Movies-Greats/GRR",
+    "name": "Movies Greats",
+    "lang": "en"
+  },
+  {
+    "site_id": "Movies-Romance/SHD",
+    "name": "Movies Romance",
+    "lang": "en"
+  },
+  {
+    "site_id": "SBS-Viceland/SBN",
+    "name": "SBS Viceland",
+    "lang": "en",
+    "xmltv_id": "SBSViceland.au@Sydney",
+    "logo": "https://i.imgur.com/yIdjafM.png"
+  },
+  {
+    "site_id": "Comedy-2/HI2",
+    "name": "Comedy +2",
+    "lang": "en",
+    "xmltv_id": "Comedy.au@Plus2",
+    "logo": "https://i.imgur.com/nk6G0gE.png"
+  },
+  {
+    "site_id": "Crime-2/IO2",
+    "name": "Crime +2",
+    "lang": "en",
+    "xmltv_id": "FoxCrime.au@Plus2",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/FoxCrimeAU-Logo.svg/960px-FoxCrimeAU-Logo.svg.png"
+  },
+  {
+    "site_id": "Fox-Footy/FAF",
+    "name": "Fox Footy",
+    "lang": "en",
+    "xmltv_id": "FoxFooty.au@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/960px-Fox_Footy_logo_%282015%29.svg.png"
+  },
+  {
+    "site_id": "Foxtel-One-2/F12",
+    "name": "Foxtel One +2",
+    "lang": "en"
+  },
+  {
+    "site_id": "Universal-TV/HAL",
+    "name": "Universal TV",
+    "lang": "en",
+    "xmltv_id": "UniversalTV.au@SD",
+    "logo": "https://i.imgur.com/jnjvR5f.png"
   }
 ]
