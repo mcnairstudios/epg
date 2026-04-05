@@ -17,6 +17,7 @@ func (s *Server) listChannels(w http.ResponseWriter, r *http.Request) {
 		Quality: r.URL.Query().Get("quality"),
 		Region:  r.URL.Query().Get("region"),
 		Lang:    r.URL.Query().Get("lang"),
+		Search:  r.URL.Query().Get("search"),
 	}
 
 	channels := s.store.GetChannels(f)

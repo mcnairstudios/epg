@@ -73,6 +73,9 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 			r.Get("/bandwidth", srv.getBandwidth)
 		})
 
+		// Mapping export: CSV, own Content-Type
+		r.With(users.Middleware).Get("/mapping.csv", srv.getMapping)
+
 		// Admin-only: session cookie required
 		r.Group(func(r chi.Router) {
 			r.Use(users.AdminAPIMiddleware)

@@ -377,6 +377,7 @@ type Filter struct {
 	Region  string
 	Date    *time.Time
 	Lang    string
+	Search  string
 }
 
 func matchesChannelFilters(ch domain.Channel, filters []Filter) bool {
@@ -400,6 +401,9 @@ func matchesChannelFilters(ch domain.Channel, filters []Filter) bool {
 		return false
 	}
 	if f.Channel != "" && ch.ID != f.Channel {
+		return false
+	}
+	if f.Search != "" && !strings.Contains(strings.ToLower(ch.Name), strings.ToLower(f.Search)) {
 		return false
 	}
 	return true
