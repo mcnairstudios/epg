@@ -34,8 +34,8 @@ func TestLoad(t *testing.T) {
 		t.Fatalf("expected site_id '64257#4416', got %q", chs[0].SiteID)
 	}
 
-	if chs[1].XmltvID != "64257#6720" {
-		t.Fatalf("expected fallback xmltv_id '64257#6720', got %q", chs[1].XmltvID)
+	if chs[1].XmltvID != "" {
+		t.Fatalf("expected empty xmltv_id for channel with no xmltv_id set, got %q", chs[1].XmltvID)
 	}
 }
 

@@ -24,11 +24,6 @@ func Load(data []byte, source string) ([]domain.Channel, error) {
 
 	channels := make([]domain.Channel, 0, len(entries))
 	for _, e := range entries {
-		xmltvID := e.XmltvID
-		if xmltvID == "" {
-			xmltvID = e.SiteID
-		}
-
 		channels = append(channels, domain.Channel{
 			ID:      source + "-" + e.SiteID,
 			Name:    e.Name,
@@ -37,7 +32,7 @@ func Load(data []byte, source string) ([]domain.Channel, error) {
 			Lang:    e.Lang,
 			Logo:    e.Logo,
 			Region:  e.Region,
-			XmltvID: xmltvID,
+			XmltvID: e.XmltvID,
 		})
 	}
 

@@ -1,16 +1,41 @@
 [
   {
-    "site_id": "GoldCoast#9Life",
-    "name": "9Life",
+    "site_id": "Melbourne#YOUTV",
+    "name": "YOUTV",
     "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
+    "region": "MEL",
+    "xmltv_id": "Youtv.au",
+    "logo": "https://i.imgur.com/UEjqUFi.png"
   },
   {
-    "site_id": "Hobart#ABCHD",
-    "name": "ABCHD",
+    "site_id": "Brisbane#NITV",
+    "name": "NITV",
     "lang": "en",
-    "region": "HBR"
+    "region": "BRI",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "GoldCoast#10Nth",
+    "name": "10Nth",
+    "lang": "en",
+    "region": "GC"
+  },
+  {
+    "site_id": "Melbourne#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Adelaide#9HD",
+    "name": "9HD",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "9HD.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
   },
   {
     "site_id": "Queensland#7C",
@@ -19,687 +44,128 @@
     "region": "QLD"
   },
   {
-    "site_id": "Townsville#SBS2",
-    "name": "SBS2",
+    "site_id": "Townsville#7TWO",
+    "name": "7TWO",
     "lang": "en",
-    "region": "TSV"
+    "region": "TSV",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
   },
   {
-    "site_id": "Brisbane#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "New South Wales#NBN",
-    "name": "NBN",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://i.imgur.com/EefFcIk.png"
-  },
-  {
-    "site_id": "Adelaide#9Rush",
-    "name": "9Rush",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
-  },
-  {
-    "site_id": "Darwin#GEM",
-    "name": "GEM",
+    "site_id": "Darwin#ONE",
+    "name": "ONE",
     "lang": "en",
     "region": "DRW",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
   },
   {
-    "site_id": "Hobart#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Northern Territory#Imp",
-    "name": "Imp",
-    "lang": "en",
-    "region": "NT"
-  },
-  {
-    "site_id": "Tasmania#YOUTV",
-    "name": "YOUTV",
-    "lang": "en",
-    "region": "TAS",
-    "logo": "https://i.imgur.com/UEjqUFi.png"
-  },
-  {
-    "site_id": "Townsville#10",
-    "name": "10",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Brisbane#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "GoldCoast#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "GC"
-  },
-  {
-    "site_id": "Western Australia#WDT",
-    "name": "WDT",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "Melbourne#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "Melbourne#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "South Australia#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Melbourne#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "Sydney#9Rush",
-    "name": "9Rush",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
-  },
-  {
-    "site_id": "Tasmania#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "TAS",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Adelaide#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "Melbourne#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "New South Wales#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Sydney#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "Victoria#ASPIR",
-    "name": "ASPIR",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "New South Wales#SNR",
-    "name": "SNR",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Perth#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "Victoria#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Western Australia#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "Hobart#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "New South Wales#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Perth#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "PER"
-  },
-  {
-    "site_id": "Perth#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "South Australia#7C",
-    "name": "7C",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Townsville#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Sydney#SHAKE",
-    "name": "SHAKE",
-    "lang": "en",
-    "region": "SYD"
-  },
-  {
-    "site_id": "Perth#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "South Australia#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "New South Wales#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Queensland#9Life",
-    "name": "9Life",
+    "site_id": "Queensland#GO",
+    "name": "GO",
     "lang": "en",
     "region": "QLD",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
+    "logo": "https://i.imgur.com/vrE1zZu.png"
   },
   {
-    "site_id": "Townsville#11",
-    "name": "11",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Melbourne#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "Queensland#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Adelaide#44",
-    "name": "44",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "Brisbane#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Canberra#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Melbourne#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Sydney#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "SYD"
-  },
-  {
-    "site_id": "Tasmania#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "TAS",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "Adelaide#TENHD",
-    "name": "TENHD",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "Darwin#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "Northern Territory#7C",
-    "name": "7C",
-    "lang": "en",
-    "region": "NT"
-  },
-  {
-    "site_id": "Queensland#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Brisbane#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "Melbourne#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "Northern Territory#11",
-    "name": "11",
-    "lang": "en",
-    "region": "NT",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "South Australia#10",
-    "name": "10",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Townsville#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Western Australia#7TWO",
+    "site_id": "Sydney#7TWO",
     "name": "7TWO",
     "lang": "en",
-    "region": "WA",
+    "region": "SYD",
+    "xmltv_id": "7two.au",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
   },
   {
-    "site_id": "Western Australia#RTV",
-    "name": "RTV",
+    "site_id": "Townsville#ONE",
+    "name": "ONE",
     "lang": "en",
-    "region": "WA",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
+    "region": "TSV",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
   },
   {
-    "site_id": "Melbourne#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Brisbane#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Hobart#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Perth#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Perth#10",
-    "name": "10",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "South Australia#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Sydney#7HD",
+    "site_id": "Adelaide#7HD",
     "name": "7HD",
     "lang": "en",
-    "region": "SYD",
+    "region": "ADL",
+    "xmltv_id": "7HD.au",
     "logo": "https://i.imgur.com/KevoM94.png"
   },
   {
-    "site_id": "Tasmania#SHD7",
-    "name": "SHD7",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Queensland#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Victoria#7bravo",
-    "name": "7bravo",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Victoria#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Victoria#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Western Australia#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "WA",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Sydney#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "SYD"
-  },
-  {
-    "site_id": "Adelaide#7",
-    "name": "7",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/auWTg2E.png"
-  },
-  {
-    "site_id": "GoldCoast#TVSN",
+    "site_id": "Canberra#TVSN",
     "name": "TVSN",
     "lang": "en",
-    "region": "GC",
+    "region": "CBR",
+    "xmltv_id": "TVSN.au",
     "logo": "https://i.imgur.com/lmoAFm3.png"
   },
   {
-    "site_id": "Perth#9",
-    "name": "9",
+    "site_id": "Hobart#TVSN",
+    "name": "TVSN",
     "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/zmnSoBA.png"
+    "region": "HBR",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
   },
   {
-    "site_id": "Sydney#9",
-    "name": "9",
+    "site_id": "Northern Territory#ABCHD",
+    "name": "ABCHD",
     "lang": "en",
-    "region": "SYD",
-    "logo": "https://i.imgur.com/zmnSoBA.png"
+    "region": "NT"
   },
   {
-    "site_id": "Melbourne#9",
-    "name": "9",
+    "site_id": "Victoria#ABC1",
+    "name": "ABC1",
     "lang": "en",
-    "region": "MEL",
-    "logo": "https://i.imgur.com/zmnSoBA.png"
+    "region": "VIC"
   },
   {
-    "site_id": "Adelaide#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "Perth#9Rush",
-    "name": "9Rush",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
-  },
-  {
-    "site_id": "Queensland#WINHD",
-    "name": "WINHD",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Sydney#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "SYD"
-  },
-  {
-    "site_id": "Western Australia#WIN",
-    "name": "WIN",
-    "lang": "en",
-    "region": "WA",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
-  },
-  {
-    "site_id": "Tasmania#ASPIR",
-    "name": "ASPIR",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "GoldCoast#SNR",
+    "site_id": "Canberra#SNR",
     "name": "SNR",
-    "lang": "en",
-    "region": "GC"
-  },
-  {
-    "site_id": "Western Australia#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "Brisbane#SPREE",
-    "name": "SPREE",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "Melbourne#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "New South Wales#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Northern Territory#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "NT",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Queensland#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Queensland#Imp",
-    "name": "Imp",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "GoldCoast#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "GC"
-  },
-  {
-    "site_id": "Canberra#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Canberra#SHAKE",
-    "name": "SHAKE",
     "lang": "en",
     "region": "CBR"
   },
   {
-    "site_id": "GoldCoast#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "New South Wales#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Sydney#GO",
+    "site_id": "Hobart#GO",
     "name": "GO",
     "lang": "en",
-    "region": "SYD",
+    "region": "HBR",
     "logo": "https://i.imgur.com/vrE1zZu.png"
   },
   {
-    "site_id": "Tasmania#9Life",
-    "name": "9Life",
+    "site_id": "Brisbane#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "BRI"
+  },
+  {
+    "site_id": "Melbourne#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "site_id": "Victoria#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Victoria#11",
+    "name": "11",
+    "lang": "en",
+    "region": "VIC",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Tasmania#GO",
+    "name": "GO",
     "lang": "en",
     "region": "TAS",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "Townsville#SHAKE",
-    "name": "SHAKE",
-    "lang": "en",
-    "region": "TSV"
-  },
-  {
-    "site_id": "Adelaide#SHAKE",
-    "name": "SHAKE",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "Brisbane#7",
-    "name": "7",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/auWTg2E.png"
-  },
-  {
-    "site_id": "Perth#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "PER"
-  },
-  {
-    "site_id": "South Australia#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Tasmania#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "TAS"
+    "logo": "https://i.imgur.com/vrE1zZu.png"
   },
   {
     "site_id": "Townsville#SCHD",
@@ -708,386 +174,50 @@
     "region": "TSV"
   },
   {
-    "site_id": "Victoria#7MATE",
-    "name": "7MATE",
+    "site_id": "Brisbane#9Rush",
+    "name": "9Rush",
     "lang": "en",
-    "region": "VIC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+    "region": "BRI",
+    "xmltv_id": "9Rush.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
   },
   {
-    "site_id": "Western Australia#GO",
-    "name": "GO",
+    "site_id": "Tasmania#ABC3",
+    "name": "ABC3",
     "lang": "en",
-    "region": "WA",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
+    "region": "TAS",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
   },
   {
-    "site_id": "Hobart#11",
-    "name": "11",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Hobart#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Townsville#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Canberra#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "GoldCoast#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "GC"
-  },
-  {
-    "site_id": "Melbourne#7HD",
-    "name": "7HD",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://i.imgur.com/KevoM94.png"
-  },
-  {
-    "site_id": "Queensland#SNR",
-    "name": "SNR",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "South Australia#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Tasmania#SBS3",
-    "name": "SBS3",
+    "site_id": "Tasmania#WINHD",
+    "name": "WINHD",
     "lang": "en",
     "region": "TAS"
   },
   {
-    "site_id": "Hobart#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Perth#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Townsville#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Adelaide#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Hobart#SHD7",
-    "name": "SHD7",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Hobart#TDT",
-    "name": "TDT",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Melbourne#TENHD",
-    "name": "TENHD",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "New South Wales#11",
-    "name": "11",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Northern Territory#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "NT",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Victoria#10",
-    "name": "10",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Queensland#7bravo",
-    "name": "7bravo",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "South Australia#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Hobart#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "New South Wales#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Queensland#SHAKE",
-    "name": "SHAKE",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Melbourne#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "Sydney#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Western Australia#11",
-    "name": "11",
-    "lang": "en",
-    "region": "WA",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Perth#7",
-    "name": "7",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/auWTg2E.png"
-  },
-  {
-    "site_id": "Sydney#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Victoria#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Perth#ABC3",
+    "site_id": "Townsville#ABC3",
     "name": "ABC3",
     "lang": "en",
-    "region": "PER",
+    "region": "TSV",
+    "xmltv_id": "ABCEntertains.au",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
   },
   {
-    "site_id": "Adelaide#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Canberra#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "Melbourne#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Sydney#9HD",
-    "name": "9HD",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Hobart#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "Melbourne#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Victoria#SNR",
-    "name": "SNR",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Victoria#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "Hobart#SCHD",
-    "name": "SCHD",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Victoria#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Brisbane#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Northern Territory#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "NT"
-  },
-  {
-    "site_id": "Townsville#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "TSV"
-  },
-  {
-    "site_id": "Darwin#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "DRW",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Darwin#SBS3",
+    "site_id": "GoldCoast#SBS3",
     "name": "SBS3",
     "lang": "en",
-    "region": "DRW"
+    "region": "GC"
   },
   {
-    "site_id": "GoldCoast#10",
-    "name": "10",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "GoldCoast#Prime",
-    "name": "Prime",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/VvZEP4s.png"
-  },
-  {
-    "site_id": "Melbourne#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "Perth#9HD",
-    "name": "9HD",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Darwin#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "DRW",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "GoldCoast#11",
-    "name": "11",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "New South Wales#SCHD",
-    "name": "SCHD",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Northern Territory#VICHD",
+    "site_id": "GoldCoast#VICHD",
     "name": "VICHD",
     "lang": "en",
-    "region": "NT"
+    "region": "GC"
   },
   {
-    "site_id": "Darwin#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "Melbourne#ABCN",
-    "name": "ABCN",
+    "site_id": "Melbourne#VICHD",
+    "name": "VICHD",
     "lang": "en",
     "region": "MEL"
   },
@@ -1098,577 +228,24 @@
     "region": "QLD"
   },
   {
-    "site_id": "South Australia#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Tasmania#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Adelaide#SPREE",
-    "name": "SPREE",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "GoldCoast#9HD",
-    "name": "9HD",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Sydney#11",
-    "name": "11",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Victoria#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Adelaide#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "Melbourne#11",
-    "name": "11",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "New South Wales#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "Queensland#7QLD",
-    "name": "7QLD",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "South Australia#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Townsville#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Victoria#YOUTV",
-    "name": "YOUTV",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://i.imgur.com/UEjqUFi.png"
-  },
-  {
-    "site_id": "Canberra#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "Adelaide#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Brisbane#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Hobart#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Melbourne#9Rush",
-    "name": "9Rush",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
-  },
-  {
-    "site_id": "New South Wales#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Western Australia#GWN",
-    "name": "GWN",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "Adelaide#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "Hobart#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Townsville#7bravo",
-    "name": "7bravo",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Brisbane#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Brisbane#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "Darwin#ASPIR",
-    "name": "ASPIR",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "Hobart#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Canberra#11",
-    "name": "11",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Canberra#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "GoldCoast#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Sydney#7bravo",
-    "name": "7bravo",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Adelaide#7bravo",
-    "name": "7bravo",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Hobart#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Tasmania#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "TAS",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Western Australia#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "WA",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Darwin#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "DRW",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Brisbane#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Adelaide#7HD",
-    "name": "7HD",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/KevoM94.png"
-  },
-  {
-    "site_id": "Adelaide#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "Northern Territory#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "NT",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "South Australia#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Brisbane#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "Canberra#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "South Australia#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Adelaide#YOUTV",
-    "name": "YOUTV",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/UEjqUFi.png"
-  },
-  {
-    "site_id": "Brisbane#10",
-    "name": "10",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Brisbane#SHAKE",
-    "name": "SHAKE",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "Canberra#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "Darwin#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "Queensland#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Townsville#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "TSV"
-  },
-  {
-    "site_id": "Melbourne#SHAKE",
-    "name": "SHAKE",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "Northern Territory#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "NT",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Perth#7bravo",
-    "name": "7bravo",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Adelaide#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "Adelaide#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "Brisbane#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "Hobart#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "New South Wales#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Western Australia#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "Brisbane#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "Perth#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "PER"
-  },
-  {
-    "site_id": "Tasmania#TDT",
-    "name": "TDT",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Canberra#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "South Australia#SC9",
-    "name": "SC9",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "GoldCoast#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "GC"
-  },
-  {
-    "site_id": "Tasmania#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "TAS",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Victoria#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Melbourne#7bravo",
-    "name": "7bravo",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "New South Wales#PrimN",
-    "name": "PrimN",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Perth#7HD",
-    "name": "7HD",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/KevoM94.png"
-  },
-  {
-    "site_id": "Tasmania#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Darwin#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "Northern Territory#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "NT"
-  },
-  {
-    "site_id": "Perth#11",
-    "name": "11",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Queensland#SCA9",
-    "name": "SCA9",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Brisbane#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "GoldCoast#ABCN",
+    "site_id": "Tasmania#ABCN",
     "name": "ABCN",
     "lang": "en",
-    "region": "GC"
+    "region": "TAS"
   },
   {
-    "site_id": "Queensland#11",
-    "name": "11",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Sydney#TENHD",
-    "name": "TENHD",
-    "lang": "en",
-    "region": "SYD"
-  },
-  {
-    "site_id": "Tasmania#TDHD",
-    "name": "TDHD",
+    "site_id": "Tasmania#VICHD",
+    "name": "VICHD",
     "lang": "en",
     "region": "TAS"
   },
   {
-    "site_id": "Townsville#ABC3",
-    "name": "ABC3",
+    "site_id": "Townsville#9Life",
+    "name": "9Life",
     "lang": "en",
     "region": "TSV",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Canberra#WIN",
-    "name": "WIN",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
-  },
-  {
-    "site_id": "Canberra#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "Hobart#SHAKE",
-    "name": "SHAKE",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Tasmania#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "TAS",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Victoria#Prime",
-    "name": "Prime",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://i.imgur.com/VvZEP4s.png"
-  },
-  {
-    "site_id": "Victoria#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
   },
   {
     "site_id": "Adelaide#11",
@@ -1678,57 +255,157 @@
     "logo": "https://i.imgur.com/eJXfMh0.png"
   },
   {
-    "site_id": "Brisbane#9HD",
-    "name": "9HD",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Canberra#PrimS",
-    "name": "PrimS",
+    "site_id": "Canberra#SHAKE",
+    "name": "SHAKE",
     "lang": "en",
     "region": "CBR"
   },
   {
-    "site_id": "Melbourne#SBS",
-    "name": "SBS",
+    "site_id": "New South Wales#SCHD",
+    "name": "SCHD",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Perth#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Sydney#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Darwin#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "DRW",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Melbourne#GEM",
+    "name": "GEM",
     "lang": "en",
     "region": "MEL",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Northern Territory#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "NT",
+    "xmltv_id": "SBS.au",
     "logo": "https://i.imgur.com/PZL1yHm.png"
   },
   {
-    "site_id": "South Australia#WIN",
-    "name": "WIN",
+    "site_id": "Queensland#SCHD",
+    "name": "SCHD",
     "lang": "en",
-    "region": "SA",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
+    "region": "QLD"
   },
   {
-    "site_id": "South Australia#WINHD",
-    "name": "WINHD",
+    "site_id": "Tasmania#GEM",
+    "name": "GEM",
     "lang": "en",
-    "region": "SA"
+    "region": "TAS",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Tasmania#TDT",
+    "name": "TDT",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Victoria#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "Adelaide#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "Adelaide#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "ADL",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Perth#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "PER"
   },
   {
     "site_id": "Sydney#NITV",
     "name": "NITV",
     "lang": "en",
     "region": "SYD",
+    "xmltv_id": "NITV.au",
     "logo": "https://i.imgur.com/m2BVn03.png"
   },
   {
-    "site_id": "Sydney#VICHD",
-    "name": "VICHD",
+    "site_id": "Victoria#ABC2",
+    "name": "ABC2",
     "lang": "en",
-    "region": "SYD"
+    "region": "VIC"
   },
   {
-    "site_id": "Darwin#9Life",
-    "name": "9Life",
+    "site_id": "Victoria#VICHD",
+    "name": "VICHD",
     "lang": "en",
-    "region": "DRW",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
+    "region": "VIC"
+  },
+  {
+    "site_id": "Victoria#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "site_id": "Perth#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "site_id": "Sydney#9",
+    "name": "9",
+    "lang": "en",
+    "region": "SYD",
+    "logo": "https://i.imgur.com/zmnSoBA.png"
+  },
+  {
+    "site_id": "Townsville#11",
+    "name": "11",
+    "lang": "en",
+    "region": "TSV",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Victoria#SHAKE",
+    "name": "SHAKE",
+    "lang": "en",
+    "region": "VIC"
   },
   {
     "site_id": "Brisbane#ABC2",
@@ -1737,31 +414,392 @@
     "region": "BRI"
   },
   {
-    "site_id": "GoldCoast#SBS",
-    "name": "SBS",
+    "site_id": "New South Wales#PrimS",
+    "name": "PrimS",
     "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
+    "region": "NSW"
   },
   {
-    "site_id": "Melbourne#7",
-    "name": "7",
+    "site_id": "New South Wales#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Northern Territory#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "NT"
+  },
+  {
+    "site_id": "Perth#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "Queensland#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Melbourne#9",
+    "name": "9",
     "lang": "en",
     "region": "MEL",
-    "logo": "https://i.imgur.com/auWTg2E.png"
+    "logo": "https://i.imgur.com/zmnSoBA.png"
   },
   {
-    "site_id": "Tasmania#NITV",
+    "site_id": "Brisbane#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Darwin#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "DRW",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Perth#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "Victoria#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "GoldCoast#10",
+    "name": "10",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "New South Wales#ASPIR",
+    "name": "ASPIR",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Queensland#WINHD",
+    "name": "WINHD",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "Townsville#WINHD",
+    "name": "WINHD",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Victoria#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "Canberra#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "South Australia#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "SA",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Tasmania#SC",
+    "name": "SC",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Canberra#WIN",
+    "name": "WIN",
+    "lang": "en",
+    "region": "CBR",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
+  },
+  {
+    "site_id": "Darwin#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "Hobart#NITV",
     "name": "NITV",
     "lang": "en",
-    "region": "TAS",
+    "region": "HBR",
+    "xmltv_id": "NITV.au",
     "logo": "https://i.imgur.com/m2BVn03.png"
   },
   {
-    "site_id": "Tasmania#SBSHD",
+    "site_id": "Queensland#SBSHD",
     "name": "SBSHD",
     "lang": "en",
-    "region": "TAS"
+    "region": "QLD"
+  },
+  {
+    "site_id": "Victoria#7flix",
+    "name": "7flix",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Adelaide#7flix",
+    "name": "7flix",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Canberra#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "New South Wales#7flix",
+    "name": "7flix",
+    "lang": "en",
+    "region": "NSW",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Townsville#SCA9",
+    "name": "SCA9",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Western Australia#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "GoldCoast#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "Queensland#11",
+    "name": "11",
+    "lang": "en",
+    "region": "QLD",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Tasmania#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "TAS",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Townsville#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Victoria#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "GoldCoast#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "GC"
+  },
+  {
+    "site_id": "Perth#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "South Australia#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "SA",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "Canberra#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "CBR",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Canberra#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "Hobart#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "Melbourne#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "MEL"
+  },
+  {
+    "site_id": "South Australia#WIN10",
+    "name": "WIN10",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Sydney#YOUTV",
+    "name": "YOUTV",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "Youtv.au",
+    "logo": "https://i.imgur.com/UEjqUFi.png"
+  },
+  {
+    "site_id": "Victoria#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "Brisbane#YOUTV",
+    "name": "YOUTV",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "Youtv.au",
+    "logo": "https://i.imgur.com/UEjqUFi.png"
+  },
+  {
+    "site_id": "Melbourne#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "MEL"
+  },
+  {
+    "site_id": "Sydney#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Sydney#SPREE",
+    "name": "SPREE",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Melbourne#11",
+    "name": "11",
+    "lang": "en",
+    "region": "MEL",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "New South Wales#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "NSW",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Perth#9Rush",
+    "name": "9Rush",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "9Rush.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
+  },
+  {
+    "site_id": "Canberra#7bravo",
+    "name": "7bravo",
+    "lang": "en",
+    "region": "CBR",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Sydney#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "SYD",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Victoria#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "VIC",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Victoria#WINHD",
+    "name": "WINHD",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "Western Australia#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "WA",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Perth#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "Queensland#SHAKE",
+    "name": "SHAKE",
+    "lang": "en",
+    "region": "QLD"
   },
   {
     "site_id": "Townsville#7",
@@ -1771,30 +809,892 @@
     "logo": "https://i.imgur.com/auWTg2E.png"
   },
   {
+    "site_id": "New South Wales#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "NSW",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "South Australia#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Tasmania#11",
+    "name": "11",
+    "lang": "en",
+    "region": "TAS",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Adelaide#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "ADL",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Adelaide#VICHD",
+    "name": "VICHD",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "Canberra#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "CBR",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "site_id": "Darwin#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "DRW",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Sydney#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Hobart#SHD7",
+    "name": "SHD7",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "Tasmania#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Canberra#SCHD",
+    "name": "SCHD",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "New South Wales#YOUTV",
+    "name": "YOUTV",
+    "lang": "en",
+    "region": "NSW",
+    "xmltv_id": "Youtv.au",
+    "logo": "https://i.imgur.com/UEjqUFi.png"
+  },
+  {
+    "site_id": "Queensland#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "Canberra#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "CBR",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Canberra#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "CBR",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Brisbane#7HD",
+    "name": "7HD",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "7HD.au",
+    "logo": "https://i.imgur.com/KevoM94.png"
+  },
+  {
+    "site_id": "Melbourne#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Northern Territory#Imp",
+    "name": "Imp",
+    "lang": "en",
+    "region": "NT"
+  },
+  {
+    "site_id": "Tasmania#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Victoria#ASPIR",
+    "name": "ASPIR",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "Brisbane#9HD",
+    "name": "9HD",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "9HD.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Brisbane#TENHD",
+    "name": "TENHD",
+    "lang": "en",
+    "region": "BRI"
+  },
+  {
+    "site_id": "Canberra#ASPIR",
+    "name": "ASPIR",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "Melbourne#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "New South Wales#VICHD",
+    "name": "VICHD",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Queensland#7TWOQ",
+    "name": "7TWOQ",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "Sydney#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Sydney#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Adelaide#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Darwin#SC",
+    "name": "SC",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "Hobart#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "HBR",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "New South Wales#PrimN",
+    "name": "PrimN",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Victoria#SCA9",
+    "name": "SCA9",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "Western Australia#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "Brisbane#10",
+    "name": "10",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Darwin#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "DRW",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "GoldCoast#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "Melbourne#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "MEL"
+  },
+  {
+    "site_id": "Perth#10",
+    "name": "10",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "South Australia#WIN",
+    "name": "WIN",
+    "lang": "en",
+    "region": "SA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
+  },
+  {
+    "site_id": "Tasmania#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Western Australia#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "Brisbane#7",
+    "name": "7",
+    "lang": "en",
+    "region": "BRI",
+    "logo": "https://i.imgur.com/auWTg2E.png"
+  },
+  {
+    "site_id": "Darwin#ASPIR",
+    "name": "ASPIR",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "Darwin#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "Hobart#SCHD",
+    "name": "SCHD",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "New South Wales#10Nth",
+    "name": "10Nth",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "New South Wales#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "NSW",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Northern Territory#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "NT",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Tasmania#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Melbourne#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "MEL"
+  },
+  {
+    "site_id": "Perth#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Perth#9HD",
+    "name": "9HD",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "9HD.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Queensland#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "QLD",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "South Australia#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Victoria#WIN",
+    "name": "WIN",
+    "lang": "en",
+    "region": "VIC",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
+  },
+  {
+    "site_id": "Western Australia#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "Hobart#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "Perth#TENHD",
+    "name": "TENHD",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "South Australia#ASPIR",
+    "name": "ASPIR",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Sydney#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Sydney#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "SYD",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Townsville#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "TSV",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Western Australia#WIN",
+    "name": "WIN",
+    "lang": "en",
+    "region": "WA",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
+  },
+  {
+    "site_id": "Adelaide#7",
+    "name": "7",
+    "lang": "en",
+    "region": "ADL",
+    "logo": "https://i.imgur.com/auWTg2E.png"
+  },
+  {
+    "site_id": "Western Australia#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "Melbourne#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Queensland#7bravo",
+    "name": "7bravo",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "South Australia#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "SA",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Adelaide#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "GoldCoast#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "GC",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Northern Territory#10",
+    "name": "10",
+    "lang": "en",
+    "region": "NT",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Townsville#7flix",
+    "name": "7flix",
+    "lang": "en",
+    "region": "TSV",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
+  },
+  {
     "site_id": "Western Australia#SBS3",
     "name": "SBS3",
     "lang": "en",
     "region": "WA"
   },
   {
-    "site_id": "Adelaide#7MATE",
+    "site_id": "Adelaide#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "Canberra#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "Darwin#7MATE",
     "name": "7MATE",
     "lang": "en",
-    "region": "ADL",
+    "region": "DRW",
+    "xmltv_id": "7mate.au",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
   },
   {
-    "site_id": "Canberra#7TWO",
+    "site_id": "Hobart#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "HBR",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Hobart#SC",
+    "name": "SC",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "Northern Territory#11",
+    "name": "11",
+    "lang": "en",
+    "region": "NT",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Tasmania#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Townsville#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "TSV",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "GoldCoast#9HD",
+    "name": "9HD",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "9HD.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "GoldCoast#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "GC"
+  },
+  {
+    "site_id": "Northern Territory#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "NT"
+  },
+  {
+    "site_id": "Sydney#11",
+    "name": "11",
+    "lang": "en",
+    "region": "SYD",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Townsville#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Victoria#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "VIC",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Hobart#SCA9",
+    "name": "SCA9",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "Hobart#SHAKE",
+    "name": "SHAKE",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "Melbourne#7",
+    "name": "7",
+    "lang": "en",
+    "region": "MEL",
+    "logo": "https://i.imgur.com/auWTg2E.png"
+  },
+  {
+    "site_id": "Sydney#7flix",
+    "name": "7flix",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Sydney#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "Sydney#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "Townsville#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Townsville#SHAKE",
+    "name": "SHAKE",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Victoria#WinSA",
+    "name": "WinSA",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "Brisbane#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "GoldCoast#YOUTV",
+    "name": "YOUTV",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "Youtv.au",
+    "logo": "https://i.imgur.com/UEjqUFi.png"
+  },
+  {
+    "site_id": "Hobart#7TWO",
     "name": "7TWO",
     "lang": "en",
-    "region": "CBR",
+    "region": "HBR",
+    "xmltv_id": "7two.au",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
   },
   {
-    "site_id": "Canberra#SBS2",
+    "site_id": "Melbourne#31",
+    "name": "31",
+    "lang": "en",
+    "region": "MEL",
+    "logo": "https://www.ikegami.co.jp/files/co/news/20250903_kazakhstanChannel31/Channel31_Logo.jpg"
+  },
+  {
+    "site_id": "Perth#9",
+    "name": "9",
+    "lang": "en",
+    "region": "PER",
+    "logo": "https://i.imgur.com/zmnSoBA.png"
+  },
+  {
+    "site_id": "Sydney#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Western Australia#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "WA",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Western Australia#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "Hobart#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "HBR",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "Darwin#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "DRW",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Darwin#11",
+    "name": "11",
+    "lang": "en",
+    "region": "DRW",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Adelaide#44",
+    "name": "44",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "Brisbane#SPREE",
+    "name": "SPREE",
+    "lang": "en",
+    "region": "BRI"
+  },
+  {
+    "site_id": "Queensland#SBS2",
     "name": "SBS2",
     "lang": "en",
-    "region": "CBR"
+    "region": "QLD"
+  },
+  {
+    "site_id": "Townsville#VICHD",
+    "name": "VICHD",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Adelaide#YOUTV",
+    "name": "YOUTV",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "Youtv.au",
+    "logo": "https://i.imgur.com/UEjqUFi.png"
+  },
+  {
+    "site_id": "Brisbane#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "BRI"
+  },
+  {
+    "site_id": "Canberra#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "CBR",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Canberra#11",
+    "name": "11",
+    "lang": "en",
+    "region": "CBR",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Canberra#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "CBR",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "GoldCoast#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "New South Wales#NBN",
+    "name": "NBN",
+    "lang": "en",
+    "region": "NSW",
+    "logo": "https://i.imgur.com/EefFcIk.png"
+  },
+  {
+    "site_id": "Townsville#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Adelaide#10",
+    "name": "10",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Darwin#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "GoldCoast#7bravo",
+    "name": "7bravo",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Melbourne#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "MEL"
+  },
+  {
+    "site_id": "New South Wales#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "NSW",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Northern Territory#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "NT",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Sydney#SHAKE",
+    "name": "SHAKE",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Western Australia#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "WA",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "Adelaide#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "ADL"
   },
   {
     "site_id": "Darwin#9",
@@ -1804,16 +1704,44 @@
     "logo": "https://i.imgur.com/zmnSoBA.png"
   },
   {
-    "site_id": "Victoria#WinSA",
-    "name": "WinSA",
+    "site_id": "Perth#NITV",
+    "name": "NITV",
     "lang": "en",
-    "region": "VIC"
+    "region": "PER",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
   },
   {
-    "site_id": "Western Australia#ABC1",
-    "name": "ABC1",
+    "site_id": "South Australia#7GTS",
+    "name": "7GTS",
     "lang": "en",
-    "region": "WA"
+    "region": "SA"
+  },
+  {
+    "site_id": "Brisbane#11",
+    "name": "11",
+    "lang": "en",
+    "region": "BRI",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Queensland#7QLD",
+    "name": "7QLD",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "Queensland#Imp",
+    "name": "Imp",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "Queensland#WIN",
+    "name": "WIN",
+    "lang": "en",
+    "region": "QLD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
   },
   {
     "site_id": "Hobart#TDHD",
@@ -1822,107 +1750,152 @@
     "region": "HBR"
   },
   {
-    "site_id": "Townsville#SBSHD",
-    "name": "SBSHD",
+    "site_id": "Melbourne#7bravo",
+    "name": "7bravo",
     "lang": "en",
-    "region": "TSV"
+    "region": "MEL",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
   },
   {
-    "site_id": "Victoria#SBS",
+    "site_id": "Tasmania#SBS",
     "name": "SBS",
     "lang": "en",
-    "region": "VIC",
+    "region": "TAS",
+    "xmltv_id": "SBS.au",
     "logo": "https://i.imgur.com/PZL1yHm.png"
   },
   {
-    "site_id": "Western Australia#10",
-    "name": "10",
+    "site_id": "Canberra#SBS2",
+    "name": "SBS2",
     "lang": "en",
-    "region": "WA",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+    "region": "CBR"
   },
   {
-    "site_id": "Melbourne#9HD",
-    "name": "9HD",
+    "site_id": "Melbourne#SHAKE",
+    "name": "SHAKE",
     "lang": "en",
-    "region": "MEL",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
+    "region": "MEL"
   },
   {
-    "site_id": "South Australia#WIN10",
-    "name": "WIN10",
+    "site_id": "Brisbane#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "BRI"
+  },
+  {
+    "site_id": "Canberra#PrimS",
+    "name": "PrimS",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "New South Wales#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Hobart#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "HBR",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Tasmania#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "TAS",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "site_id": "Darwin#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "GoldCoast#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Brisbane#7flix",
+    "name": "7flix",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Canberra#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "CBR",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Canberra#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "CBR",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Darwin#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "DRW",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Darwin#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "South Australia#SBSHD",
+    "name": "SBSHD",
     "lang": "en",
     "region": "SA"
   },
   {
-    "site_id": "Adelaide#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "Brisbane#9",
-    "name": "9",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/zmnSoBA.png"
-  },
-  {
-    "site_id": "Northern Territory#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "NT"
-  },
-  {
-    "site_id": "Townsville#VICHD",
-    "name": "VICHD",
+    "site_id": "Townsville#SBS3",
+    "name": "SBS3",
     "lang": "en",
     "region": "TSV"
   },
   {
-    "site_id": "Adelaide#10",
-    "name": "10",
+    "site_id": "Victoria#RTV",
+    "name": "RTV",
     "lang": "en",
-    "region": "ADL",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+    "region": "VIC",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
   },
   {
-    "site_id": "Perth#7TWO",
-    "name": "7TWO",
+    "site_id": "Adelaide#ABC1",
+    "name": "ABC1",
     "lang": "en",
-    "region": "PER",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+    "region": "ADL"
   },
   {
-    "site_id": "Tasmania#SHAKE",
-    "name": "SHAKE",
+    "site_id": "Brisbane#SBS",
+    "name": "SBS",
     "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "GoldCoast#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "GC"
-  },
-  {
-    "site_id": "GoldCoast#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "GC"
-  },
-  {
-    "site_id": "Adelaide#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Canberra#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "CBR"
+    "region": "BRI",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
   },
   {
     "site_id": "Hobart#GEM",
@@ -1932,42 +1905,107 @@
     "logo": "https://i.imgur.com/5dn2u4E.png"
   },
   {
-    "site_id": "Hobart#TVSN",
-    "name": "TVSN",
+    "site_id": "Melbourne#7HD",
+    "name": "7HD",
     "lang": "en",
-    "region": "HBR",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
+    "region": "MEL",
+    "xmltv_id": "7HD.au",
+    "logo": "https://i.imgur.com/KevoM94.png"
   },
   {
-    "site_id": "New South Wales#Imp",
-    "name": "Imp",
+    "site_id": "Western Australia#ONE",
+    "name": "ONE",
     "lang": "en",
-    "region": "NSW"
+    "region": "WA",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
   },
   {
-    "site_id": "New South Wales#PrimS",
-    "name": "PrimS",
+    "site_id": "Hobart#ABC4KIDS",
+    "name": "ABC4KIDS",
     "lang": "en",
-    "region": "NSW"
+    "region": "HBR"
   },
   {
-    "site_id": "Perth#RTV",
-    "name": "RTV",
+    "site_id": "South Australia#ABCHD",
+    "name": "ABCHD",
     "lang": "en",
-    "region": "PER",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
+    "region": "SA"
   },
   {
-    "site_id": "Sydney#ABCN",
+    "site_id": "Tasmania#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "TAS",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Townsville#WIN",
+    "name": "WIN",
+    "lang": "en",
+    "region": "TSV",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
+  },
+  {
+    "site_id": "Brisbane#ABCN",
     "name": "ABCN",
     "lang": "en",
-    "region": "SYD"
+    "region": "BRI"
   },
   {
-    "site_id": "New South Wales#ABC1",
-    "name": "ABC1",
+    "site_id": "Brisbane#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "BRI",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Adelaide#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "Brisbane#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Melbourne#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "MEL"
+  },
+  {
+    "site_id": "New South Wales#SCA9",
+    "name": "SCA9",
     "lang": "en",
     "region": "NSW"
+  },
+  {
+    "site_id": "South Australia#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "SA",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Sydney#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "site_id": "Darwin#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "DRW"
   },
   {
     "site_id": "Perth#ABCN",
@@ -1976,17 +2014,243 @@
     "region": "PER"
   },
   {
-    "site_id": "South Australia#SBSHD",
-    "name": "SBSHD",
+    "site_id": "Perth#VICHD",
+    "name": "VICHD",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "Sydney#9Rush",
+    "name": "9Rush",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "9Rush.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
+  },
+  {
+    "site_id": "Victoria#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Western Australia#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "WA",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Melbourne#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "MEL"
+  },
+  {
+    "site_id": "Townsville#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "TSV",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Adelaide#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "Melbourne#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "MEL",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Melbourne#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "New South Wales#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Western Australia#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "WA",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Western Australia#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "Adelaide#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "Brisbane#SHAKE",
+    "name": "SHAKE",
+    "lang": "en",
+    "region": "BRI"
+  },
+  {
+    "site_id": "New South Wales#7GTS",
+    "name": "7GTS",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "New South Wales#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "NSW",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Tasmania#SCHD",
+    "name": "SCHD",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Darwin#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "DRW",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "New South Wales#7",
+    "name": "7",
+    "lang": "en",
+    "region": "NSW",
+    "logo": "https://i.imgur.com/auWTg2E.png"
+  },
+  {
+    "site_id": "New South Wales#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "South Australia#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "SA",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Sydney#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Tasmania#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "TAS",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Tasmania#SHAKE",
+    "name": "SHAKE",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Adelaide#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Adelaide#TENHD",
+    "name": "TENHD",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "GoldCoast#NBN",
+    "name": "NBN",
+    "lang": "en",
+    "region": "GC",
+    "logo": "https://i.imgur.com/EefFcIk.png"
+  },
+  {
+    "site_id": "Hobart#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "Melbourne#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "MEL"
+  },
+  {
+    "site_id": "New South Wales#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Queensland#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "South Australia#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "SA",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "site_id": "South Australia#ABC2",
+    "name": "ABC2",
     "lang": "en",
     "region": "SA"
   },
   {
-    "site_id": "Sydney#9Life",
-    "name": "9Life",
+    "site_id": "South Australia#SNR",
+    "name": "SNR",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Sydney#RTV",
+    "name": "RTV",
     "lang": "en",
     "region": "SYD",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
   },
   {
     "site_id": "Tasmania#WIN",
@@ -1996,24 +2260,894 @@
     "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
   },
   {
-    "site_id": "Victoria#SHAKE",
+    "site_id": "Western Australia#11",
+    "name": "11",
+    "lang": "en",
+    "region": "WA",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "South Australia#VICHD",
+    "name": "VICHD",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Adelaide#9",
+    "name": "9",
+    "lang": "en",
+    "region": "ADL",
+    "logo": "https://i.imgur.com/zmnSoBA.png"
+  },
+  {
+    "site_id": "New South Wales#WINHD",
+    "name": "WINHD",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Queensland#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "Tasmania#TDHD",
+    "name": "TDHD",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Tasmania#YOUTV",
+    "name": "YOUTV",
+    "lang": "en",
+    "region": "TAS",
+    "xmltv_id": "Youtv.au",
+    "logo": "https://i.imgur.com/UEjqUFi.png"
+  },
+  {
+    "site_id": "Western Australia#GWN",
+    "name": "GWN",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "GoldCoast#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "GC"
+  },
+  {
+    "site_id": "GoldCoast#SHAKE",
     "name": "SHAKE",
+    "lang": "en",
+    "region": "GC"
+  },
+  {
+    "site_id": "Queensland#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "Western Australia#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "WA",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Canberra#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "CBR",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "GoldCoast#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "GC",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Hobart#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "Queensland#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "South Australia#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "SA",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "South Australia#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Townsville#7bravo",
+    "name": "7bravo",
+    "lang": "en",
+    "region": "TSV",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Melbourne#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "MEL"
+  },
+  {
+    "site_id": "New South Wales#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "NSW",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Perth#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "Brisbane#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Perth#7bravo",
+    "name": "7bravo",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Townsville#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "TSV",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Canberra#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "Northern Territory#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "NT",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Perth#7HD",
+    "name": "7HD",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "7HD.au",
+    "logo": "https://i.imgur.com/KevoM94.png"
+  },
+  {
+    "site_id": "Queensland#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Townsville#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Darwin#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "New South Wales#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "NSW",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Victoria#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Townsville#10",
+    "name": "10",
+    "lang": "en",
+    "region": "TSV",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Western Australia#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "WA",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Adelaide#9Rush",
+    "name": "9Rush",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "9Rush.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
+  },
+  {
+    "site_id": "Brisbane#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "BRI"
+  },
+  {
+    "site_id": "Perth#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "Brisbane#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "New South Wales#Imp",
+    "name": "Imp",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Perth#SHAKE",
+    "name": "SHAKE",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "South Australia#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Brisbane#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "BRI"
+  },
+  {
+    "site_id": "Queensland#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Victoria#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Victoria#SNR",
+    "name": "SNR",
     "lang": "en",
     "region": "VIC"
   },
   {
-    "site_id": "Brisbane#YOUTV",
-    "name": "YOUTV",
+    "site_id": "Queensland#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "Tasmania#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Victoria#10",
+    "name": "10",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Victoria#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "Victoria#Prime",
+    "name": "Prime",
+    "lang": "en",
+    "region": "VIC",
+    "logo": "https://i.imgur.com/VvZEP4s.png"
+  },
+  {
+    "site_id": "Western Australia#WDT",
+    "name": "WDT",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "GoldCoast#NITV",
+    "name": "NITV",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
+  },
+  {
+    "site_id": "Perth#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "PER",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "Adelaide#SHAKE",
+    "name": "SHAKE",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "Canberra#WINHD",
+    "name": "WINHD",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "Sydney#TENHD",
+    "name": "TENHD",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Adelaide#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "GoldCoast#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "GC"
+  },
+  {
+    "site_id": "Melbourne#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Queensland#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Canberra#SCA9",
+    "name": "SCA9",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "Queensland#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "Victoria#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "GoldCoast#11",
+    "name": "11",
+    "lang": "en",
+    "region": "GC",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Melbourne#9HD",
+    "name": "9HD",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "9HD.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "New South Wales#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Queensland#ASPIR",
+    "name": "ASPIR",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "Canberra#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "Canberra#VICHD",
+    "name": "VICHD",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "Darwin#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "DRW",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Hobart#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "HBR",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "site_id": "New South Wales#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "NSW",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Queensland#7flix",
+    "name": "7flix",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Sydney#7HD",
+    "name": "7HD",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "7HD.au",
+    "logo": "https://i.imgur.com/KevoM94.png"
+  },
+  {
+    "site_id": "Brisbane#9",
+    "name": "9",
     "lang": "en",
     "region": "BRI",
+    "logo": "https://i.imgur.com/zmnSoBA.png"
+  },
+  {
+    "site_id": "Darwin#VICHD",
+    "name": "VICHD",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "GoldCoast#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "Northern Territory#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "NT",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "Northern Territory#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "NT"
+  },
+  {
+    "site_id": "Townsville#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "TSV",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Adelaide#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "GoldCoast#9",
+    "name": "9",
+    "lang": "en",
+    "region": "GC",
+    "logo": "https://i.imgur.com/zmnSoBA.png"
+  },
+  {
+    "site_id": "Perth#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Canberra#ABC3",
+    "name": "ABC3",
+    "lang": "en",
+    "region": "CBR",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
+  },
+  {
+    "site_id": "Darwin#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "Queensland#SNR",
+    "name": "SNR",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "South Australia#SC9",
+    "name": "SC9",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Adelaide#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Hobart#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "New South Wales#7bravo",
+    "name": "7bravo",
+    "lang": "en",
+    "region": "NSW",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Northern Territory#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "NT"
+  },
+  {
+    "site_id": "Queensland#SCA9",
+    "name": "SCA9",
+    "lang": "en",
+    "region": "QLD"
+  },
+  {
+    "site_id": "Brisbane#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "BRI",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "Adelaide#SPREE",
+    "name": "SPREE",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "New South Wales#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "NSW",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "Queensland#10",
+    "name": "10",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Sydney#9HD",
+    "name": "9HD",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "9HD.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Tasmania#SHD7",
+    "name": "SHD7",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Darwin#DDT",
+    "name": "DDT",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "GoldCoast#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "GoldCoast#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "site_id": "Hobart#11",
+    "name": "11",
+    "lang": "en",
+    "region": "HBR",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Melbourne#RTV",
+    "name": "RTV",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
+  },
+  {
+    "site_id": "New South Wales#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Perth#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "South Australia#7C",
+    "name": "7C",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Brisbane#7bravo",
+    "name": "7bravo",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Hobart#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "HBR",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Northern Territory#7C",
+    "name": "7C",
+    "lang": "en",
+    "region": "NT"
+  },
+  {
+    "site_id": "South Australia#10",
+    "name": "10",
+    "lang": "en",
+    "region": "SA",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Tasmania#SCA9",
+    "name": "SCA9",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "Tasmania#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "TAS",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "Victoria#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "VIC"
+  },
+  {
+    "site_id": "Western Australia#VICHD",
+    "name": "VICHD",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "Adelaide#7bravo",
+    "name": "7bravo",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Canberra#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "CBR"
+  },
+  {
+    "site_id": "Queensland#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
+  },
+  {
+    "site_id": "Queensland#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "QLD",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Townsville#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Brisbane#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "BRI",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Northern Territory#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "NT"
+  },
+  {
+    "site_id": "Sydney#SBS",
+    "name": "SBS",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
+  },
+  {
+    "site_id": "Victoria#YOUTV",
+    "name": "YOUTV",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "Youtv.au",
     "logo": "https://i.imgur.com/UEjqUFi.png"
   },
   {
-    "site_id": "GoldCoast#7bravo",
-    "name": "7bravo",
+    "site_id": "Hobart#ABC1",
+    "name": "ABC1",
     "lang": "en",
-    "region": "GC",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+    "region": "HBR"
+  },
+  {
+    "site_id": "Melbourne#TENHD",
+    "name": "TENHD",
+    "lang": "en",
+    "region": "MEL"
+  },
+  {
+    "site_id": "Sydney#7",
+    "name": "7",
+    "lang": "en",
+    "region": "SYD",
+    "logo": "https://i.imgur.com/auWTg2E.png"
+  },
+  {
+    "site_id": "Adelaide#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
   },
   {
     "site_id": "Hobart#SBSWW",
@@ -2028,724 +3162,40 @@
     "region": "HBR"
   },
   {
-    "site_id": "Queensland#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Perth#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "PER"
-  },
-  {
-    "site_id": "Queensland#ASPIR",
-    "name": "ASPIR",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Sydney#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "SYD"
-  },
-  {
-    "site_id": "Sydney#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Tasmania#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "TAS",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "Townsville#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "Victoria#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Victoria#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Tasmania#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Brisbane#9Rush",
-    "name": "9Rush",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
-  },
-  {
-    "site_id": "Canberra#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Canberra#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "New South Wales#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Perth#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "Townsville#SCA9",
-    "name": "SCA9",
-    "lang": "en",
-    "region": "TSV"
-  },
-  {
-    "site_id": "Victoria#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Adelaide#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Darwin#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "Darwin#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "New South Wales#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "New South Wales#WINHD",
-    "name": "WINHD",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Perth#YOUTV",
-    "name": "YOUTV",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/UEjqUFi.png"
-  },
-  {
-    "site_id": "Townsville#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Adelaide#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Brisbane#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Queensland#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Victoria#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Brisbane#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Canberra#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Canberra#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Canberra#SCA9",
-    "name": "SCA9",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "Darwin#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "DRW",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "GoldCoast#NBN",
-    "name": "NBN",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/EefFcIk.png"
-  },
-  {
-    "site_id": "Western Australia#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "WA",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
     "site_id": "South Australia#Imp",
     "name": "Imp",
     "lang": "en",
     "region": "SA"
   },
   {
-    "site_id": "Brisbane#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "Canberra#ASPIR",
-    "name": "ASPIR",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "Darwin#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "New South Wales#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "South Australia#7GTS",
-    "name": "7GTS",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Tasmania#WINHD",
-    "name": "WINHD",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Western Australia#WINHD",
-    "name": "WINHD",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "Adelaide#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "New South Wales#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Tasmania#11",
-    "name": "11",
-    "lang": "en",
-    "region": "TAS",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Western Australia#NITV",
+    "site_id": "Townsville#NITV",
     "name": "NITV",
-    "lang": "en",
-    "region": "WA",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Brisbane#11",
-    "name": "11",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Perth#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Townsville#WINHD",
-    "name": "WINHD",
-    "lang": "en",
-    "region": "TSV"
-  },
-  {
-    "site_id": "Western Australia#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "Melbourne#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Perth#TENHD",
-    "name": "TENHD",
-    "lang": "en",
-    "region": "PER"
-  },
-  {
-    "site_id": "Queensland#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Queensland#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "GoldCoast#9",
-    "name": "9",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/zmnSoBA.png"
-  },
-  {
-    "site_id": "South Australia#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Darwin#9HD",
-    "name": "9HD",
-    "lang": "en",
-    "region": "DRW",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Darwin#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "DRW",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Darwin#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "DRW",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "GoldCoast#7flix",
-    "name": "7flix",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Perth#SHAKE",
-    "name": "SHAKE",
-    "lang": "en",
-    "region": "PER"
-  },
-  {
-    "site_id": "Perth#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "Queensland#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Western Australia#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "GoldCoast#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "GC"
-  },
-  {
-    "site_id": "South Australia#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "South Australia#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Townsville#SBS",
-    "name": "SBS",
     "lang": "en",
     "region": "TSV",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
+    "xmltv_id": "NITV.au",
+    "logo": "https://i.imgur.com/m2BVn03.png"
   },
   {
-    "site_id": "Western Australia#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "Brisbane#ABC1",
-    "name": "ABC1",
+    "site_id": "Brisbane#SBSHD",
+    "name": "SBSHD",
     "lang": "en",
     "region": "BRI"
   },
   {
-    "site_id": "Hobart#ABC3",
-    "name": "ABC3",
+    "site_id": "Canberra#7flix",
+    "name": "7flix",
     "lang": "en",
-    "region": "HBR",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "New South Wales#7bravo",
-    "name": "7bravo",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "New South Wales#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Tasmania#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Victoria#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Canberra#WINHD",
-    "name": "WINHD",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "Darwin#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "GoldCoast#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Hobart#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Sydney#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Western Australia#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "WA",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "Darwin#DDT",
-    "name": "DDT",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "Melbourne#10",
-    "name": "10",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "South Australia#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Perth#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "PER"
-  },
-  {
-    "site_id": "Tasmania#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "TAS",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Tasmania#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "TAS",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Tasmania#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "TAS"
+    "region": "CBR",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
   },
   {
     "site_id": "New South Wales#SBS",
     "name": "SBS",
     "lang": "en",
     "region": "NSW",
+    "xmltv_id": "SBS.au",
     "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "Townsville#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "TSV"
-  },
-  {
-    "site_id": "Adelaide#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "GoldCoast#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Hobart#YOUTV",
-    "name": "YOUTV",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://i.imgur.com/UEjqUFi.png"
-  },
-  {
-    "site_id": "Queensland#10",
-    "name": "10",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Northern Territory#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "NT"
-  },
-  {
-    "site_id": "New South Wales#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "Sydney#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Townsville#ABC1",
-    "name": "ABC1",
-    "lang": "en",
-    "region": "TSV"
-  },
-  {
-    "site_id": "Victoria#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "Victoria#SCA9",
-    "name": "SCA9",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Victoria#SCHD",
-    "name": "SCHD",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Brisbane#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "Melbourne#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "New South Wales#10Nth",
-    "name": "10Nth",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "South Australia#WIN9",
-    "name": "WIN9",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "New South Wales#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Canberra#SNR",
-    "name": "SNR",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "New South Wales#YOUTV",
-    "name": "YOUTV",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://i.imgur.com/UEjqUFi.png"
-  },
-  {
-    "site_id": "Perth#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "PER"
   },
   {
     "site_id": "Queensland#VICHD",
@@ -2754,10 +3204,118 @@
     "region": "QLD"
   },
   {
-    "site_id": "GoldCoast#10Nth",
-    "name": "10Nth",
+    "site_id": "Tasmania#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "GoldCoast#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Northern Territory#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "NT"
+  },
+  {
+    "site_id": "Sydney#10",
+    "name": "10",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "GoldCoast#SBSHD",
+    "name": "SBSHD",
     "lang": "en",
     "region": "GC"
+  },
+  {
+    "site_id": "Melbourne#10",
+    "name": "10",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Northern Territory#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "NT",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "South Australia#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Western Australia#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "WA"
+  },
+  {
+    "site_id": "Darwin#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "DRW"
+  },
+  {
+    "site_id": "Townsville#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "TSV"
+  },
+  {
+    "site_id": "Sydney#7bravo",
+    "name": "7bravo",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Tasmania#ASPIR",
+    "name": "ASPIR",
+    "lang": "en",
+    "region": "TAS"
+  },
+  {
+    "site_id": "New South Wales#SBS3",
+    "name": "SBS3",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Hobart#WINHD",
+    "name": "WINHD",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "Melbourne#7flix",
+    "name": "7flix",
+    "lang": "en",
+    "region": "MEL",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
+  },
+  {
+    "site_id": "New South Wales#11",
+    "name": "11",
+    "lang": "en",
+    "region": "NSW",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
   },
   {
     "site_id": "Western Australia#GEM",
@@ -2767,162 +3325,85 @@
     "logo": "https://i.imgur.com/5dn2u4E.png"
   },
   {
-    "site_id": "Perth#SBS2",
-    "name": "SBS2",
+    "site_id": "Hobart#WIN",
+    "name": "WIN",
     "lang": "en",
-    "region": "PER"
+    "region": "HBR",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
   },
   {
-    "site_id": "Melbourne#ABC4KIDS",
-    "name": "ABC4KIDS",
+    "site_id": "GoldCoast#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "GC"
+  },
+  {
+    "site_id": "Melbourne#SPREE",
+    "name": "SPREE",
     "lang": "en",
     "region": "MEL"
   },
   {
-    "site_id": "Queensland#SBSHD",
-    "name": "SBSHD",
+    "site_id": "Canberra#ABC4KIDS",
+    "name": "ABC4KIDS",
     "lang": "en",
-    "region": "QLD"
+    "region": "CBR"
   },
   {
-    "site_id": "Queensland#WIN",
-    "name": "WIN",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
-  },
-  {
-    "site_id": "Sydney#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "SYD"
-  },
-  {
-    "site_id": "Tasmania#SC",
-    "name": "SC",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Victoria#11",
-    "name": "11",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "Northern Territory#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "NT"
-  },
-  {
-    "site_id": "Queensland#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "Sydney#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "Tasmania#SCHD",
-    "name": "SCHD",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Townsville#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Victoria#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Canberra#ABC1",
+    "site_id": "Tasmania#ABC1",
     "name": "ABC1",
     "lang": "en",
-    "region": "CBR"
+    "region": "TAS"
   },
   {
-    "site_id": "Northern Territory#SBSWW",
-    "name": "SBSWW",
+    "site_id": "GoldCoast#Prime",
+    "name": "Prime",
     "lang": "en",
-    "region": "NT"
+    "region": "GC",
+    "logo": "https://i.imgur.com/VvZEP4s.png"
   },
   {
-    "site_id": "Perth#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "PER"
-  },
-  {
-    "site_id": "Queensland#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Victoria#ABC2",
-    "name": "ABC2",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Canberra#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "GoldCoast#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "GC"
-  },
-  {
-    "site_id": "Hobart#SCA9",
-    "name": "SCA9",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Melbourne#GO",
-    "name": "GO",
+    "site_id": "Melbourne#7MATE",
+    "name": "7MATE",
     "lang": "en",
     "region": "MEL",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
   },
   {
-    "site_id": "GoldCoast#SHAKE",
-    "name": "SHAKE",
+    "site_id": "Western Australia#WINHD",
+    "name": "WINHD",
     "lang": "en",
-    "region": "GC"
+    "region": "WA"
   },
   {
-    "site_id": "Adelaide#ABCN",
-    "name": "ABCN",
+    "site_id": "Adelaide#7TWO",
+    "name": "7TWO",
     "lang": "en",
-    "region": "ADL"
+    "region": "ADL",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
   },
   {
-    "site_id": "Northern Territory#NITV",
-    "name": "NITV",
+    "site_id": "Brisbane#VICHD",
+    "name": "VICHD",
     "lang": "en",
-    "region": "NT",
-    "logo": "https://i.imgur.com/m2BVn03.png"
+    "region": "BRI"
+  },
+  {
+    "site_id": "Perth#GEM",
+    "name": "GEM",
+    "lang": "en",
+    "region": "PER",
+    "logo": "https://i.imgur.com/5dn2u4E.png"
+  },
+  {
+    "site_id": "South Australia#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "SA",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
   },
   {
     "site_id": "South Australia#11",
@@ -2932,494 +3413,70 @@
     "logo": "https://i.imgur.com/eJXfMh0.png"
   },
   {
-    "site_id": "South Australia#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Sydney#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "SYD"
-  },
-  {
-    "site_id": "Hobart#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Townsville#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "TSV"
-  },
-  {
-    "site_id": "Adelaide#9",
-    "name": "9",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/zmnSoBA.png"
-  },
-  {
-    "site_id": "Darwin#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "DRW",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Northern Territory#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "NT",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "Queensland#7TWOQ",
-    "name": "7TWOQ",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Sydney#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "SYD"
-  },
-  {
-    "site_id": "Western Australia#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "Adelaide#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "New South Wales#7GTS",
-    "name": "7GTS",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "New South Wales#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Sydney#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Victoria#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Melbourne#SPREE",
-    "name": "SPREE",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "Victoria#WIN",
-    "name": "WIN",
-    "lang": "en",
-    "region": "VIC",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
-  },
-  {
-    "site_id": "Canberra#SCHD",
-    "name": "SCHD",
-    "lang": "en",
-    "region": "CBR"
-  },
-  {
-    "site_id": "Hobart#WIN",
-    "name": "WIN",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
-  },
-  {
-    "site_id": "New South Wales#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Adelaide#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "GoldCoast#GEM",
-    "name": "GEM",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/5dn2u4E.png"
-  },
-  {
-    "site_id": "Perth#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "PER",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Perth#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "PER"
-  },
-  {
-    "site_id": "Townsville#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Northern Territory#10",
-    "name": "10",
-    "lang": "en",
-    "region": "NT",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "South Australia#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "New South Wales#SCA9",
-    "name": "SCA9",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Queensland#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Townsville#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "Adelaide#VICHD",
-    "name": "VICHD",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "New South Wales#7",
-    "name": "7",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://i.imgur.com/auWTg2E.png"
-  },
-  {
-    "site_id": "New South Wales#ASPIR",
-    "name": "ASPIR",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Queensland#SBS2",
-    "name": "SBS2",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "South Australia#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "South Australia#SBSWW",
-    "name": "SBSWW",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Adelaide#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "ADL"
-  },
-  {
-    "site_id": "Brisbane#TENHD",
-    "name": "TENHD",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "Northern Territory#ABCHD",
-    "name": "ABCHD",
-    "lang": "en",
-    "region": "NT"
-  },
-  {
-    "site_id": "Northern Territory#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "NT"
-  },
-  {
-    "site_id": "Northern Territory#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "NT"
-  },
-  {
-    "site_id": "South Australia#SNR",
-    "name": "SNR",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "Tasmania#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Western Australia#9Life",
-    "name": "9Life",
-    "lang": "en",
-    "region": "WA",
-    "logo": "https://i.imgur.com/HlJOrGI.png"
-  },
-  {
-    "site_id": "Canberra#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Melbourne#TVSN",
-    "name": "TVSN",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://i.imgur.com/lmoAFm3.png"
-  },
-  {
-    "site_id": "New South Wales#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "NSW"
-  },
-  {
-    "site_id": "Northern Territory#ABC3",
-    "name": "ABC3",
-    "lang": "en",
-    "region": "NT",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
-  },
-  {
-    "site_id": "Sydney#SPREE",
-    "name": "SPREE",
-    "lang": "en",
-    "region": "SYD"
-  },
-  {
-    "site_id": "Townsville#WIN",
-    "name": "WIN",
-    "lang": "en",
-    "region": "TSV",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
-  },
-  {
-    "site_id": "Brisbane#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "Darwin#SC",
-    "name": "SC",
-    "lang": "en",
-    "region": "DRW"
-  },
-  {
-    "site_id": "South Australia#ASPIR",
-    "name": "ASPIR",
-    "lang": "en",
-    "region": "SA"
-  },
-  {
-    "site_id": "GoldCoast#NITV",
-    "name": "NITV",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/m2BVn03.png"
-  },
-  {
-    "site_id": "Hobart#SC",
-    "name": "SC",
+    "site_id": "Hobart#TDT",
+    "name": "TDT",
     "lang": "en",
     "region": "HBR"
   },
   {
-    "site_id": "Sydney#7",
-    "name": "7",
+    "site_id": "Melbourne#9Rush",
+    "name": "9Rush",
     "lang": "en",
-    "region": "SYD",
-    "logo": "https://i.imgur.com/auWTg2E.png"
+    "region": "MEL",
+    "xmltv_id": "9Rush.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"
   },
   {
-    "site_id": "Tasmania#ONE",
+    "site_id": "GoldCoast#7flix",
+    "name": "7flix",
+    "lang": "en",
+    "region": "GC",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Hobart#ABCN",
+    "name": "ABCN",
+    "lang": "en",
+    "region": "HBR"
+  },
+  {
+    "site_id": "Northern Territory#ONE",
     "name": "ONE",
     "lang": "en",
-    "region": "TAS",
+    "region": "NT",
+    "xmltv_id": "10Bold.au",
     "logo": "https://i.imgur.com/2xglh33.png"
   },
   {
-    "site_id": "Darwin#ABC1",
-    "name": "ABC1",
+    "site_id": "Northern Territory#VICHD",
+    "name": "VICHD",
     "lang": "en",
-    "region": "DRW"
+    "region": "NT"
   },
   {
-    "site_id": "GoldCoast#YOUTV",
-    "name": "YOUTV",
+    "site_id": "Perth#7flix",
+    "name": "7flix",
     "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/UEjqUFi.png"
+    "region": "PER",
+    "xmltv_id": "7flix.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/960px-7flix_logo_2020.svg.png"
   },
   {
-    "site_id": "Sydney#10",
-    "name": "10",
+    "site_id": "Perth#ABC3",
+    "name": "ABC3",
     "lang": "en",
-    "region": "SYD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+    "region": "PER",
+    "xmltv_id": "ABCEntertains.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png"
   },
   {
-    "site_id": "Townsville#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "TSV"
-  },
-  {
-    "site_id": "GoldCoast#RTV",
+    "site_id": "Queensland#RTV",
     "name": "RTV",
     "lang": "en",
-    "region": "GC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Perth#SPREE",
-    "name": "SPREE",
-    "lang": "en",
-    "region": "PER"
-  },
-  {
-    "site_id": "South Australia#RTV",
-    "name": "RTV",
-    "lang": "en",
-    "region": "SA",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"
-  },
-  {
-    "site_id": "Darwin#11",
-    "name": "11",
-    "lang": "en",
-    "region": "DRW",
-    "logo": "https://i.imgur.com/eJXfMh0.png"
-  },
-  {
-    "site_id": "GoldCoast#SBSHD",
-    "name": "SBSHD",
-    "lang": "en",
-    "region": "GC"
-  },
-  {
-    "site_id": "Melbourne#SBS3",
-    "name": "SBS3",
-    "lang": "en",
-    "region": "MEL"
-  },
-  {
-    "site_id": "Queensland#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "QLD"
-  },
-  {
-    "site_id": "Sydney#YOUTV",
-    "name": "YOUTV",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://i.imgur.com/UEjqUFi.png"
-  },
-  {
-    "site_id": "Tasmania#SCA9",
-    "name": "SCA9",
-    "lang": "en",
-    "region": "TAS"
-  },
-  {
-    "site_id": "Victoria#WINHD",
-    "name": "WINHD",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Western Australia#ABCN",
-    "name": "ABCN",
-    "lang": "en",
-    "region": "WA"
-  },
-  {
-    "site_id": "Brisbane#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "BRI"
-  },
-  {
-    "site_id": "Melbourne#31",
-    "name": "31",
-    "lang": "en",
-    "region": "MEL",
-    "logo": "https://www.ikegami.co.jp/files/co/news/20250903_kazakhstanChannel31/Channel31_Logo.jpg"
-  },
-  {
-    "site_id": "New South Wales#GO",
-    "name": "GO",
-    "lang": "en",
-    "region": "NSW",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
-  },
-  {
-    "site_id": "Sydney#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "SYD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+    "region": "QLD",
+    "xmltv_id": "RTV.au",
+    "logo": "https://i.imgur.com/1I4dTh4.png"
   },
   {
     "site_id": "Sydney#SBSHD",
@@ -3428,119 +3485,81 @@
     "region": "SYD"
   },
   {
-    "site_id": "Canberra#SBSHD",
-    "name": "SBSHD",
+    "site_id": "Brisbane#ABCHD",
+    "name": "ABCHD",
     "lang": "en",
-    "region": "CBR"
+    "region": "BRI"
   },
   {
-    "site_id": "GoldCoast#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "GC",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Hobart#WINHD",
-    "name": "WINHD",
-    "lang": "en",
-    "region": "HBR"
-  },
-  {
-    "site_id": "Darwin#7MATE",
-    "name": "7MATE",
-    "lang": "en",
-    "region": "DRW",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Hobart#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "HBR",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Northern Territory#7TWO",
-    "name": "7TWO",
-    "lang": "en",
-    "region": "NT",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
-  },
-  {
-    "site_id": "Queensland#ONE",
-    "name": "ONE",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://i.imgur.com/2xglh33.png"
-  },
-  {
-    "site_id": "Queensland#SBS",
-    "name": "SBS",
-    "lang": "en",
-    "region": "QLD",
-    "logo": "https://i.imgur.com/PZL1yHm.png"
-  },
-  {
-    "site_id": "Brisbane#7HD",
-    "name": "7HD",
-    "lang": "en",
-    "region": "BRI",
-    "logo": "https://i.imgur.com/KevoM94.png"
-  },
-  {
-    "site_id": "Canberra#7bravo",
-    "name": "7bravo",
-    "lang": "en",
-    "region": "CBR",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Melbourne#YOUTV",
+    "site_id": "Hobart#YOUTV",
     "name": "YOUTV",
     "lang": "en",
-    "region": "MEL",
+    "region": "HBR",
+    "xmltv_id": "Youtv.au",
     "logo": "https://i.imgur.com/UEjqUFi.png"
   },
   {
-    "site_id": "Queensland#7MATE",
+    "site_id": "Perth#7MATE",
     "name": "7MATE",
     "lang": "en",
-    "region": "QLD",
+    "region": "PER",
+    "xmltv_id": "7mate.au",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
   },
   {
-    "site_id": "Victoria#ABC1",
-    "name": "ABC1",
+    "site_id": "Perth#YOUTV",
+    "name": "YOUTV",
+    "lang": "en",
+    "region": "PER",
+    "xmltv_id": "Youtv.au",
+    "logo": "https://i.imgur.com/UEjqUFi.png"
+  },
+  {
+    "site_id": "Adelaide#ABCHD",
+    "name": "ABCHD",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "Northern Territory#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "NT"
+  },
+  {
+    "site_id": "Perth#11",
+    "name": "11",
+    "lang": "en",
+    "region": "PER",
+    "logo": "https://i.imgur.com/eJXfMh0.png"
+  },
+  {
+    "site_id": "Perth#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "Victoria#SCHD",
+    "name": "SCHD",
     "lang": "en",
     "region": "VIC"
   },
   {
-    "site_id": "Victoria#ABC4KIDS",
-    "name": "ABC4KIDS",
-    "lang": "en",
-    "region": "VIC"
-  },
-  {
-    "site_id": "Adelaide#9HD",
-    "name": "9HD",
-    "lang": "en",
-    "region": "ADL",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "Brisbane#7bravo",
-    "name": "7bravo",
+    "site_id": "Brisbane#ONE",
+    "name": "ONE",
     "lang": "en",
     "region": "BRI",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
   },
   {
-    "site_id": "Canberra#GO",
-    "name": "GO",
+    "site_id": "Darwin#9HD",
+    "name": "9HD",
     "lang": "en",
-    "region": "CBR",
-    "logo": "https://i.imgur.com/vrE1zZu.png"
+    "region": "DRW",
+    "xmltv_id": "9HD.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/512"
   },
   {
     "site_id": "New South Wales#WIN",
@@ -3550,28 +3569,217 @@
     "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/win-au.png"
   },
   {
-    "site_id": "Tasmania#ABC2",
-    "name": "ABC2",
+    "site_id": "South Australia#SBS",
+    "name": "SBS",
     "lang": "en",
-    "region": "TAS"
+    "region": "SA",
+    "xmltv_id": "SBS.au",
+    "logo": "https://i.imgur.com/PZL1yHm.png"
   },
   {
-    "site_id": "Melbourne#ONE",
+    "site_id": "Sydney#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "SYD",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Sydney#SBSWW",
+    "name": "SBSWW",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "Victoria#7bravo",
+    "name": "7bravo",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "7bravo.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "Victoria#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "New South Wales#SNR",
+    "name": "SNR",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "South Australia#SBS2",
+    "name": "SBS2",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "GoldCoast#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "GC"
+  },
+  {
+    "site_id": "New South Wales#ONE",
     "name": "ONE",
     "lang": "en",
-    "region": "MEL",
+    "region": "NSW",
+    "xmltv_id": "10Bold.au",
     "logo": "https://i.imgur.com/2xglh33.png"
   },
   {
-    "site_id": "Queensland#SCHD",
-    "name": "SCHD",
+    "site_id": "Western Australia#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "WA",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Sydney#VICHD",
+    "name": "VICHD",
+    "lang": "en",
+    "region": "SYD"
+  },
+  {
+    "site_id": "GoldCoast#SNR",
+    "name": "SNR",
+    "lang": "en",
+    "region": "GC"
+  },
+  {
+    "site_id": "Northern Territory#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "NT"
+  },
+  {
+    "site_id": "Perth#SPREE",
+    "name": "SPREE",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "South Australia#WIN9",
+    "name": "WIN9",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "GoldCoast#ABC4KIDS",
+    "name": "ABC4KIDS",
+    "lang": "en",
+    "region": "GC"
+  },
+  {
+    "site_id": "Perth#7",
+    "name": "7",
+    "lang": "en",
+    "region": "PER",
+    "logo": "https://i.imgur.com/auWTg2E.png"
+  },
+  {
+    "site_id": "Queensland#ABC4KIDS",
+    "name": "ABC4KIDS",
     "lang": "en",
     "region": "QLD"
   },
   {
-    "site_id": "Townsville#SBSWW",
-    "name": "SBSWW",
+    "site_id": "Tasmania#9Life",
+    "name": "9Life",
+    "lang": "en",
+    "region": "TAS",
+    "xmltv_id": "9Life.au",
+    "logo": "https://i.imgur.com/HlJOrGI.png"
+  },
+  {
+    "site_id": "Townsville#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "TSV",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Western Australia#10",
+    "name": "10",
+    "lang": "en",
+    "region": "WA",
+    "xmltv_id": "10.au",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/Network_10_2018.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "site_id": "New South Wales#ABC2",
+    "name": "ABC2",
+    "lang": "en",
+    "region": "NSW"
+  },
+  {
+    "site_id": "Northern Territory#7MATE",
+    "name": "7MATE",
+    "lang": "en",
+    "region": "NT",
+    "xmltv_id": "7mate.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/960px-7mate_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Perth#ABC1",
+    "name": "ABC1",
+    "lang": "en",
+    "region": "PER"
+  },
+  {
+    "site_id": "South Australia#GO",
+    "name": "GO",
+    "lang": "en",
+    "region": "SA",
+    "logo": "https://i.imgur.com/vrE1zZu.png"
+  },
+  {
+    "site_id": "South Australia#WINHD",
+    "name": "WINHD",
+    "lang": "en",
+    "region": "SA"
+  },
+  {
+    "site_id": "Tasmania#7TWO",
+    "name": "7TWO",
+    "lang": "en",
+    "region": "TAS",
+    "xmltv_id": "7two.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/960px-7two_logo_2020.svg.png"
+  },
+  {
+    "site_id": "Townsville#ABCHD",
+    "name": "ABCHD",
     "lang": "en",
     "region": "TSV"
+  },
+  {
+    "site_id": "Victoria#TVSN",
+    "name": "TVSN",
+    "lang": "en",
+    "region": "VIC",
+    "xmltv_id": "TVSN.au",
+    "logo": "https://i.imgur.com/lmoAFm3.png"
+  },
+  {
+    "site_id": "Adelaide#SBSHD",
+    "name": "SBSHD",
+    "lang": "en",
+    "region": "ADL"
+  },
+  {
+    "site_id": "Adelaide#ONE",
+    "name": "ONE",
+    "lang": "en",
+    "region": "ADL",
+    "xmltv_id": "10Bold.au",
+    "logo": "https://i.imgur.com/2xglh33.png"
   }
 ]

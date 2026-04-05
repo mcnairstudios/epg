@@ -1,80 +1,61 @@
 [
   {
-    "site_id": "30",
-    "name": "SPORTV",
-    "lang": "pt",
-    "logo": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png"
-  },
-  {
-    "site_id": "35",
-    "name": "BLOOMBERG TV",
-    "lang": "pt",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
-  },
-  {
-    "site_id": "51",
-    "name": "FILM \u0026 ARTS",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/ukdmEKD.png"
-  },
-  {
-    "site_id": "84",
-    "name": "HISTORY",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png"
-  },
-  {
-    "site_id": "96",
-    "name": "OFF HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "116",
-    "name": "DISCOVERY SCIENCE HD",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/discovery-science-hd-ca.png"
-  },
-  {
-    "site_id": "268",
-    "name": "DOG TV HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "11",
-    "name": "CARTOONITO",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/6vYWCD0.png"
-  },
-  {
-    "site_id": "53",
-    "name": "GAZETA",
-    "lang": "pt"
-  },
-  {
-    "site_id": "76",
-    "name": "FASHION TV",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/Bk7W39G.png"
-  },
-  {
-    "site_id": "315",
-    "name": "SportyNet HD",
-    "lang": "pt"
-  },
-  {
     "site_id": "353",
     "name": "Travel \u0026 Food and Drinks HD",
     "lang": "pt"
   },
   {
-    "site_id": "83",
-    "name": "WARNER CHANNEL",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png"
+    "site_id": "8",
+    "name": "DISCOVERY HOME\u0026HEALTH HD",
+    "lang": "pt"
   },
   {
-    "site_id": "91",
-    "name": "Paramount+ 3",
+    "site_id": "32",
+    "name": "SPORTV 3",
+    "lang": "pt",
+    "xmltv_id": "SporTV3.br",
+    "logo": "https://i.imgur.com/mWOR8pi.png"
+  },
+  {
+    "site_id": "39",
+    "name": "ESPN 3",
+    "lang": "pt",
+    "xmltv_id": "ESPN3.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
+  },
+  {
+    "site_id": "48",
+    "name": "WOOHOO HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "50",
+    "name": "ESPN 6",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/espn-6-nl.png"
+  },
+  {
+    "site_id": "84",
+    "name": "HISTORY",
+    "lang": "pt",
+    "xmltv_id": "History.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
+  },
+  {
+    "site_id": "466",
+    "name": "GE TV HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "17",
+    "name": "NICK JR",
+    "lang": "pt",
+    "xmltv_id": "NickJr.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "317",
+    "name": "RECORD HD",
     "lang": "pt"
   },
   {
@@ -83,85 +64,22 @@
     "lang": "pt"
   },
   {
-    "site_id": "72",
-    "name": "TELECINE PIPOCA",
+    "site_id": "16",
+    "name": "PARAMOUNT NETWORK",
     "lang": "pt",
-    "logo": "https://i.imgur.com/hW9JYXr.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/960px-5Action_logo.svg.png"
   },
   {
-    "site_id": "73",
-    "name": "TELECINE CULT",
+    "site_id": "116",
+    "name": "DISCOVERY SCIENCE HD",
     "lang": "pt",
-    "logo": "https://i.imgur.com/6GuHXnr.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/discovery-science-hd-ca.png"
   },
   {
-    "site_id": "75",
-    "name": "TRAVEL BOX",
-    "lang": "pt"
-  },
-  {
-    "site_id": "80",
-    "name": "AGROMAIS",
+    "site_id": "118",
+    "name": "DISCOVERY WORLD HD",
     "lang": "pt",
-    "logo": "https://i.imgur.com/sFcOZeo.png"
-  },
-  {
-    "site_id": "261",
-    "name": "HBO2",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hbo2-hr.png"
-  },
-  {
-    "site_id": "262",
-    "name": "HBO+",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
-  },
-  {
-    "site_id": "337",
-    "name": "LBV",
-    "lang": "pt"
-  },
-  {
-    "site_id": "15",
-    "name": "ANIMAL PLANET HD",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/animal-planet-hd-ca.png"
-  },
-  {
-    "site_id": "77",
-    "name": "CNN BRASIL",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png"
-  },
-  {
-    "site_id": "82",
-    "name": "SONY CHANNEL",
-    "lang": "pt",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4266.png"
-  },
-  {
-    "site_id": "124",
-    "name": "GLOBO SÃO PAULO",
-    "lang": "pt"
-  },
-  {
-    "site_id": "27",
-    "name": "ESPN 5",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/espn-5-br.png"
-  },
-  {
-    "site_id": "263",
-    "name": "HBO Family",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png"
-  },
-  {
-    "site_id": "267",
-    "name": "HBO Xtreme",
-    "lang": "pt",
-    "logo": "https://www.vertvcable.com/wp-content/uploads/2022/02/hboextreme.jpg"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/discovery-world-hd-ar.png"
   },
   {
     "site_id": "324",
@@ -170,57 +88,19 @@
     "logo": "https://i.imgur.com/mqfUD1R.png"
   },
   {
-    "site_id": "338",
-    "name": "CANAL RURAL",
+    "site_id": "348",
+    "name": "SIC INTERNACIONAL",
     "lang": "pt",
-    "logo": "https://i.imgur.com/NgIBbPX.png"
+    "logo": "https://i.imgur.com/H0ZiaUd.png"
   },
   {
-    "site_id": "466",
-    "name": "GE TV HD",
+    "site_id": "373",
+    "name": "TV Pai Eterno HD",
     "lang": "pt"
   },
   {
-    "site_id": "7",
-    "name": "DISCOVERY HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "28",
-    "name": "ESPN 2",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
-  },
-  {
-    "site_id": "31",
-    "name": "SPORTV 2",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/pBiUnb2.png"
-  },
-  {
-    "site_id": "66",
-    "name": "DW-TV",
-    "lang": "pt"
-  },
-  {
-    "site_id": "79",
-    "name": "AXN",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
-  },
-  {
-    "site_id": "104",
-    "name": "CANAL BRASIL HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "329",
-    "name": "Nsports HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "10",
-    "name": "SPACE HD",
+    "site_id": "108",
+    "name": "PREMIERE 2 HD",
     "lang": "pt"
   },
   {
@@ -230,255 +110,30 @@
     "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/tcm-br.png"
   },
   {
-    "site_id": "129",
-    "name": "FRANCE 24 HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "317",
-    "name": "RECORD HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "101",
-    "name": "BIS HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "64",
-    "name": "MTV 00's",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
-  },
-  {
-    "site_id": "328",
-    "name": "CANAL DO BOI",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/pVM5MhS.png"
-  },
-  {
-    "site_id": "373",
-    "name": "TV Pai Eterno HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "6",
-    "name": "BAND NEWS",
-    "lang": "pt",
-    "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
-  },
-  {
-    "site_id": "13",
-    "name": "ID HD",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/o9SpbMI.png"
-  },
-  {
-    "site_id": "106",
-    "name": "STUDIO UNIVERSAL HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "321",
-    "name": "BM\u0026C HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "22",
-    "name": "MTV HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "54",
-    "name": "CBI",
-    "lang": "pt"
-  },
-  {
-    "site_id": "174",
-    "name": "BAND HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "260",
-    "name": "HBO",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
-  },
-  {
-    "site_id": "265",
-    "name": "HBO Pop",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png"
-  },
-  {
-    "site_id": "320",
-    "name": "TV APARECIDA HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "322",
-    "name": "Adult Swim HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "40",
-    "name": "FISH TV",
-    "lang": "pt",
-    "logo": "https://www.fishtv.com/public/site/images/logos/fishtv.svg"
-  },
-  {
     "site_id": "52",
     "name": "FOOD NETWORK HD",
     "lang": "pt"
   },
   {
-    "site_id": "81",
-    "name": "TRACE BRASIL HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "299",
-    "name": "TNT NOVELAS",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/tnt-novelas-lam.png"
-  },
-  {
-    "site_id": "33",
-    "name": "AMC HD",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/amc-hd-pt.png"
-  },
-  {
     "site_id": "70",
     "name": "TELECINE TOUCH",
     "lang": "pt",
+    "xmltv_id": "TelecineTouch.br",
     "logo": "https://i.imgur.com/Nky0hRo.png"
   },
   {
-    "site_id": "94",
-    "name": "GLOOBINHO HD",
+    "site_id": "98",
+    "name": "MULTISHOW HD",
     "lang": "pt"
   },
   {
-    "site_id": "188",
-    "name": "MEZZO HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "288",
-    "name": "Sabor \u0026 Arte",
-    "lang": "pt"
-  },
-  {
-    "site_id": "296",
-    "name": "SportyNet + 1",
-    "lang": "pt"
-  },
-  {
-    "site_id": "114",
-    "name": "COMBATE HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "118",
-    "name": "DISCOVERY WORLD HD",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/discovery-world-hd-ar.png"
-  },
-  {
-    "site_id": "349",
-    "name": "CNN Brasil Money HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "439",
-    "name": "Xsports HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "39",
-    "name": "ESPN 3",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
-  },
-  {
-    "site_id": "92",
-    "name": "Paramount+ 4",
-    "lang": "pt"
-  },
-  {
-    "site_id": "113",
-    "name": "PREMIERE 7 HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "178",
-    "name": "CINEMAX HD",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/cinemax-hd-pl.png"
-  },
-  {
-    "site_id": "1",
-    "name": "DISCOVERY KIDS HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "17",
-    "name": "NICK JR",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "58",
-    "name": "RAI INTERNATIONAL",
-    "lang": "pt"
-  },
-  {
-    "site_id": "85",
-    "name": "HISTORY 2",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
-  },
-  {
-    "site_id": "119",
-    "name": "EUROCHANNEL HD",
+    "site_id": "104",
+    "name": "CANAL BRASIL HD",
     "lang": "pt"
   },
   {
     "site_id": "185",
     "name": "REDE TV! HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "339",
-    "name": "TIMES | Exclusivo CNBC",
-    "lang": "pt"
-  },
-  {
-    "site_id": "298",
-    "name": "SportyNet + 3",
-    "lang": "pt"
-  },
-  {
-    "site_id": "314",
-    "name": "C3-TV",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/cGmUAvm.png"
-  },
-  {
-    "site_id": "182",
-    "name": "RECORD NEWS",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/HZDRG0K.png"
-  },
-  {
-    "site_id": "183",
-    "name": "LIKE",
-    "lang": "pt"
-  },
-  {
-    "site_id": "319",
-    "name": "LMC+HD",
     "lang": "pt"
   },
   {
@@ -488,110 +143,13 @@
     "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/dumdum-br.png"
   },
   {
-    "site_id": "102",
-    "name": "UNIVERSAL TV HD",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/HLzaSXP.jpeg"
-  },
-  {
-    "site_id": "12",
-    "name": "TLC HD",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
-  },
-  {
-    "site_id": "21",
-    "name": "COMEDY CENTRAL",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a4/Comedy_Central_Austria_2018.png/960px-Comedy_Central_Austria_2018.png"
-  },
-  {
-    "site_id": "48",
-    "name": "WOOHOO HD",
+    "site_id": "66",
+    "name": "DW-TV",
     "lang": "pt"
   },
   {
-    "site_id": "61",
-    "name": "TV BRASIL",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png"
-  },
-  {
-    "site_id": "63",
-    "name": "TV5 MONDE",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/960px-Logo_TV5_Monde_-_2021.svg.png"
-  },
-  {
-    "site_id": "177",
-    "name": "CNN INTERNATIONAL",
-    "lang": "pt",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "300",
-    "name": "CANÇÃO NOVA HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "335",
-    "name": "TRIP BRASIL CHANNEL",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/Aa7IbjR.png"
-  },
-  {
-    "site_id": "69",
-    "name": "TELECINE ACTION",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/BHYWG0h.png"
-  },
-  {
-    "site_id": "87",
-    "name": "E!",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/TWFDkap.png"
-  },
-  {
-    "site_id": "89",
-    "name": "Paramount+ 1",
-    "lang": "pt"
-  },
-  {
-    "site_id": "3",
-    "name": "NICKELODEON HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "29",
-    "name": "ESPN",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-  },
-  {
-    "site_id": "56",
-    "name": "PLAY TV",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/Ikrj3lk.png"
-  },
-  {
-    "site_id": "105",
-    "name": "MEGAPIX HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "115",
-    "name": "HGTV HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "71",
-    "name": "TELECINE FUN",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/MO2Ynki.png"
-  },
-  {
-    "site_id": "108",
-    "name": "PREMIERE 2 HD",
+    "site_id": "81",
+    "name": "TRACE BRASIL HD",
     "lang": "pt"
   },
   {
@@ -600,9 +158,443 @@
     "lang": "pt"
   },
   {
+    "site_id": "110",
+    "name": "PREMIERE 4 HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "177",
+    "name": "CNN INTERNATIONAL",
+    "lang": "pt",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "103",
+    "name": "USA HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "111",
+    "name": "PREMIERE 5 HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "329",
+    "name": "Nsports HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "335",
+    "name": "TRIP BRASIL CHANNEL",
+    "lang": "pt",
+    "xmltv_id": "TripBrasilChannel.br",
+    "logo": "https://i.imgur.com/Aa7IbjR.png"
+  },
+  {
+    "site_id": "80",
+    "name": "AGROMAIS",
+    "lang": "pt",
+    "xmltv_id": "AgroMais.br",
+    "logo": "https://i.imgur.com/sFcOZeo.png"
+  },
+  {
+    "site_id": "100",
+    "name": "Modo Viagem",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/modo-viagem-br.png"
+  },
+  {
+    "site_id": "264",
+    "name": "HBO Signature",
+    "lang": "pt",
+    "xmltv_id": "HBOSignature.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png"
+  },
+  {
+    "site_id": "12",
+    "name": "TLC HD",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
+  },
+  {
+    "site_id": "56",
+    "name": "PLAY TV",
+    "lang": "pt",
+    "xmltv_id": "PlayTV.br",
+    "logo": "https://i.imgur.com/Ikrj3lk.png"
+  },
+  {
+    "site_id": "71",
+    "name": "TELECINE FUN",
+    "lang": "pt",
+    "xmltv_id": "TelecineFun.br",
+    "logo": "https://i.imgur.com/MO2Ynki.png"
+  },
+  {
+    "site_id": "77",
+    "name": "CNN BRASIL",
+    "lang": "pt",
+    "xmltv_id": "CNNBrasil.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png"
+  },
+  {
+    "site_id": "78",
+    "name": "GLOBONEWS",
+    "lang": "pt",
+    "xmltv_id": "GloboNews.br",
+    "logo": "https://i.imgur.com/3yZyaCm.png"
+  },
+  {
+    "site_id": "174",
+    "name": "BAND HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "288",
+    "name": "Sabor \u0026 Arte",
+    "lang": "pt"
+  },
+  {
+    "site_id": "26",
+    "name": "ESPN 4",
+    "lang": "pt",
+    "xmltv_id": "ESPN4.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
+  },
+  {
+    "site_id": "182",
+    "name": "RECORD NEWS",
+    "lang": "pt",
+    "xmltv_id": "RecordNews.br",
+    "logo": "https://i.imgur.com/HZDRG0K.png"
+  },
+  {
+    "site_id": "19",
+    "name": "CURTA",
+    "lang": "pt",
+    "xmltv_id": "Curta.br",
+    "logo": "https://i.imgur.com/Rwrh0zU.png"
+  },
+  {
+    "site_id": "22",
+    "name": "MTV HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "62",
+    "name": "TV RA TIM BUM",
+    "lang": "pt",
+    "xmltv_id": "TVRaTimBum.br",
+    "logo": "https://i.imgur.com/JIQwz0w.png"
+  },
+  {
+    "site_id": "93",
+    "name": "GLOOB HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "101",
+    "name": "BIS HD",
+    "lang": "pt"
+  },
+  {
     "site_id": "112",
     "name": "PREMIERE 6 HD",
     "lang": "pt"
+  },
+  {
+    "site_id": "183",
+    "name": "LIKE",
+    "lang": "pt"
+  },
+  {
+    "site_id": "262",
+    "name": "HBO+",
+    "lang": "pt",
+    "xmltv_id": "HBO.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
+  },
+  {
+    "site_id": "60",
+    "name": "REDE VIDA",
+    "lang": "pt",
+    "xmltv_id": "RedeVida.br",
+    "logo": "https://i.imgur.com/mP1qfp2.png"
+  },
+  {
+    "site_id": "82",
+    "name": "SONY CHANNEL",
+    "lang": "pt",
+    "xmltv_id": "SonyChannel.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"
+  },
+  {
+    "site_id": "91",
+    "name": "Paramount+ 3",
+    "lang": "pt"
+  },
+  {
+    "site_id": "268",
+    "name": "DOG TV HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "319",
+    "name": "LMC+HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "175",
+    "name": "CULTURA HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "300",
+    "name": "CANÇÃO NOVA HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "351",
+    "name": "PREMIERE 8 HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "439",
+    "name": "Xsports HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "2",
+    "name": "CARTOON HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "53",
+    "name": "GAZETA",
+    "lang": "pt"
+  },
+  {
+    "site_id": "94",
+    "name": "GLOOBINHO HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "124",
+    "name": "GLOBO SÃO PAULO",
+    "lang": "pt"
+  },
+  {
+    "site_id": "260",
+    "name": "HBO",
+    "lang": "pt",
+    "xmltv_id": "HBO.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
+  },
+  {
+    "site_id": "349",
+    "name": "CNN Brasil Money HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "63",
+    "name": "TV5 MONDE",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/960px-Logo_TV5_Monde_-_2021.svg.png"
+  },
+  {
+    "site_id": "21",
+    "name": "COMEDY CENTRAL",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a4/Comedy_Central_Austria_2018.png/960px-Comedy_Central_Austria_2018.png"
+  },
+  {
+    "site_id": "83",
+    "name": "WARNER CHANNEL",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png"
+  },
+  {
+    "site_id": "119",
+    "name": "EUROCHANNEL HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "298",
+    "name": "SportyNet + 3",
+    "lang": "pt"
+  },
+  {
+    "site_id": "51",
+    "name": "FILM \u0026 ARTS",
+    "lang": "pt",
+    "logo": "https://i.imgur.com/ukdmEKD.png"
+  },
+  {
+    "site_id": "86",
+    "name": "A\u0026E",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/960px-A%26E_Network_%28Australia%29_logo.svg.png"
+  },
+  {
+    "site_id": "114",
+    "name": "COMBATE HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "178",
+    "name": "CINEMAX HD",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/cinemax-hd-pl.png"
+  },
+  {
+    "site_id": "261",
+    "name": "HBO2",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hbo2-hr.png"
+  },
+  {
+    "site_id": "40",
+    "name": "FISH TV",
+    "lang": "pt",
+    "xmltv_id": "FishTV.br",
+    "logo": "https://www.fishtv.com/public/site/images/logos/fishtv.svg"
+  },
+  {
+    "site_id": "88",
+    "name": "LIFETIME",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
+  },
+  {
+    "site_id": "92",
+    "name": "Paramount+ 4",
+    "lang": "pt"
+  },
+  {
+    "site_id": "96",
+    "name": "OFF HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "97",
+    "name": "GNT HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "316",
+    "name": "CGTN",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
+  },
+  {
+    "site_id": "11",
+    "name": "CARTOONITO",
+    "lang": "pt",
+    "logo": "https://i.imgur.com/6vYWCD0.png"
+  },
+  {
+    "site_id": "106",
+    "name": "STUDIO UNIVERSAL HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "107",
+    "name": "PREMIERE CLUBES HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "115",
+    "name": "HGTV HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "187",
+    "name": "JOVEM PAN NEWS",
+    "lang": "pt",
+    "xmltv_id": "JovemPanNews.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png"
+  },
+  {
+    "site_id": "6",
+    "name": "BAND NEWS",
+    "lang": "pt",
+    "xmltv_id": "BandNews.br",
+    "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
+  },
+  {
+    "site_id": "87",
+    "name": "E!",
+    "lang": "pt",
+    "logo": "https://i.imgur.com/TWFDkap.png"
+  },
+  {
+    "site_id": "179",
+    "name": "MTV LIVE",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
+  },
+  {
+    "site_id": "188",
+    "name": "MEZZO HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "266",
+    "name": "HBO Mundi",
+    "lang": "pt",
+    "xmltv_id": "HBOMundi.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png"
+  },
+  {
+    "site_id": "314",
+    "name": "C3-TV",
+    "lang": "pt",
+    "logo": "https://i.imgur.com/cGmUAvm.png"
+  },
+  {
+    "site_id": "3",
+    "name": "NICKELODEON HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "7",
+    "name": "DISCOVERY HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "9",
+    "name": "TNT HD",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tnt-hd-pl.png"
+  },
+  {
+    "site_id": "35",
+    "name": "BLOOMBERG TV",
+    "lang": "pt",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
+  },
+  {
+    "site_id": "76",
+    "name": "FASHION TV",
+    "lang": "pt",
+    "logo": "https://i.imgur.com/Bk7W39G.png"
+  },
+  {
+    "site_id": "105",
+    "name": "MEGAPIX HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "184",
+    "name": "SBT",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/sbt-br.png"
+  },
+  {
+    "site_id": "27",
+    "name": "ESPN 5",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/espn-5-br.png"
   },
   {
     "site_id": "46",
@@ -613,61 +605,90 @@
     "site_id": "57",
     "name": "PRIME BOX BRAZIL",
     "lang": "pt",
+    "xmltv_id": "PrimeBoxBrazil.br",
     "logo": "https://i.imgur.com/BMqSDNn.png"
   },
   {
-    "site_id": "107",
-    "name": "PREMIERE CLUBES HD",
+    "site_id": "90",
+    "name": "Paramount+ 2",
     "lang": "pt"
   },
   {
-    "site_id": "8",
-    "name": "DISCOVERY HOME\u0026HEALTH HD",
+    "site_id": "315",
+    "name": "SportyNet HD",
     "lang": "pt"
   },
   {
-    "site_id": "93",
-    "name": "GLOOB HD",
+    "site_id": "320",
+    "name": "TV APARECIDA HD",
     "lang": "pt"
   },
   {
-    "site_id": "99",
-    "name": "Globoplay Novelas",
+    "site_id": "328",
+    "name": "CANAL DO BOI",
     "lang": "pt",
-    "logo": "https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png"
+    "xmltv_id": "CanaldoBoi.br",
+    "logo": "https://i.imgur.com/pVM5MhS.png"
   },
   {
-    "site_id": "117",
-    "name": "DISCOVERY THEATER HD",
+    "site_id": "30",
+    "name": "SPORTV",
     "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/discovery-theater-hd-ar.png"
+    "xmltv_id": "SporTV.br",
+    "logo": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png"
   },
   {
-    "site_id": "297",
-    "name": "SportyNet + 2",
+    "site_id": "10",
+    "name": "SPACE HD",
     "lang": "pt"
   },
   {
-    "site_id": "67",
-    "name": "BBC WORLD NEWS",
+    "site_id": "13",
+    "name": "ID HD",
     "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/bbc-world-news-int.png"
+    "logo": "https://i.imgur.com/o9SpbMI.png"
   },
   {
-    "site_id": "95",
-    "name": "FUTURA HD",
+    "site_id": "28",
+    "name": "ESPN 2",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
+  },
+  {
+    "site_id": "58",
+    "name": "RAI INTERNATIONAL",
     "lang": "pt"
   },
   {
-    "site_id": "98",
-    "name": "MULTISHOW HD",
+    "site_id": "73",
+    "name": "TELECINE CULT",
+    "lang": "pt",
+    "xmltv_id": "TelecineCult.br",
+    "logo": "https://i.imgur.com/6GuHXnr.png"
+  },
+  {
+    "site_id": "79",
+    "name": "AXN",
+    "lang": "pt",
+    "xmltv_id": "AXN.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
+  },
+  {
+    "site_id": "89",
+    "name": "Paramount+ 1",
     "lang": "pt"
   },
   {
-    "site_id": "179",
-    "name": "MTV LIVE",
+    "site_id": "263",
+    "name": "HBO Family",
     "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
+    "xmltv_id": "HBOFamily.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png"
+  },
+  {
+    "site_id": "322",
+    "name": "Adult Swim HD",
+    "lang": "pt"
   },
   {
     "site_id": "467",
@@ -680,105 +701,14 @@
     "lang": "pt"
   },
   {
-    "site_id": "26",
-    "name": "ESPN 4",
+    "site_id": "33",
+    "name": "AMC HD",
     "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/amc-hd-pt.png"
   },
   {
-    "site_id": "50",
-    "name": "ESPN 6",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/espn-6-nl.png"
-  },
-  {
-    "site_id": "60",
-    "name": "REDE VIDA",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/mP1qfp2.png"
-  },
-  {
-    "site_id": "88",
-    "name": "LIFETIME",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
-  },
-  {
-    "site_id": "264",
-    "name": "HBO Signature",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png"
-  },
-  {
-    "site_id": "348",
-    "name": "SIC INTERNACIONAL",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/H0ZiaUd.png"
-  },
-  {
-    "site_id": "2",
-    "name": "CARTOON HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "9",
-    "name": "TNT HD",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tnt-hd-pl.png"
-  },
-  {
-    "site_id": "16",
-    "name": "PARAMOUNT NETWORK",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/960px-5Action_logo.svg.png"
-  },
-  {
-    "site_id": "18",
-    "name": "DISCOVERY TURBO HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "68",
-    "name": "TELECINE PREMIUM",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/uVFgIr8.png"
-  },
-  {
-    "site_id": "100",
-    "name": "Modo Viagem",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/modo-viagem-br.png"
-  },
-  {
-    "site_id": "103",
-    "name": "USA HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "175",
-    "name": "CULTURA HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "32",
-    "name": "SPORTV 3",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/mWOR8pi.png"
-  },
-  {
-    "site_id": "59",
-    "name": "REDE GOSPEL",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/mttSwgO.png"
-  },
-  {
-    "site_id": "90",
-    "name": "Paramount+ 2",
-    "lang": "pt"
-  },
-  {
-    "site_id": "110",
-    "name": "PREMIERE 4 HD",
+    "site_id": "54",
+    "name": "CBI",
     "lang": "pt"
   },
   {
@@ -787,77 +717,26 @@
     "lang": "pt"
   },
   {
-    "site_id": "184",
-    "name": "SBT",
+    "site_id": "299",
+    "name": "TNT NOVELAS",
     "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/sbt-br.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/tnt-novelas-lam.png"
   },
   {
-    "site_id": "187",
-    "name": "JOVEM PAN NEWS",
+    "site_id": "67",
+    "name": "BBC WORLD NEWS",
     "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/bbc-world-news-int.png"
   },
   {
-    "site_id": "266",
-    "name": "HBO Mundi",
+    "site_id": "117",
+    "name": "DISCOVERY THEATER HD",
     "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/discovery-theater-hd-ar.png"
   },
   {
-    "site_id": "34",
-    "name": "ARTE 1 HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "62",
-    "name": "TV RA TIM BUM",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/JIQwz0w.png"
-  },
-  {
-    "site_id": "78",
-    "name": "GLOBONEWS",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/3yZyaCm.png"
-  },
-  {
-    "site_id": "316",
-    "name": "CGTN",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
-  },
-  {
-    "site_id": "351",
-    "name": "PREMIERE 8 HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "19",
-    "name": "CURTA",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/Rwrh0zU.png"
-  },
-  {
-    "site_id": "55",
-    "name": "MUSIC BOX BRAZIL",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/CDPCF2X.png"
-  },
-  {
-    "site_id": "86",
-    "name": "A\u0026E",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/960px-A%26E_Network_%28Australia%29_logo.svg.png"
-  },
-  {
-    "site_id": "97",
-    "name": "GNT HD",
-    "lang": "pt"
-  },
-  {
-    "site_id": "111",
-    "name": "PREMIERE 5 HD",
+    "site_id": "321",
+    "name": "BM\u0026C HD",
     "lang": "pt"
   },
   {
@@ -866,8 +745,171 @@
     "lang": "pt"
   },
   {
+    "site_id": "55",
+    "name": "MUSIC BOX BRAZIL",
+    "lang": "pt",
+    "xmltv_id": "MusicBoxBrazil.br",
+    "logo": "https://i.imgur.com/CDPCF2X.png"
+  },
+  {
+    "site_id": "59",
+    "name": "REDE GOSPEL",
+    "lang": "pt",
+    "xmltv_id": "RedeGospel.br",
+    "logo": "https://i.imgur.com/mttSwgO.png"
+  },
+  {
+    "site_id": "72",
+    "name": "TELECINE PIPOCA",
+    "lang": "pt",
+    "xmltv_id": "TelecinePipoca.br",
+    "logo": "https://i.imgur.com/hW9JYXr.png"
+  },
+  {
+    "site_id": "102",
+    "name": "UNIVERSAL TV HD",
+    "lang": "pt",
+    "logo": "https://i.imgur.com/HLzaSXP.jpeg"
+  },
+  {
+    "site_id": "113",
+    "name": "PREMIERE 7 HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "339",
+    "name": "TIMES | Exclusivo CNBC",
+    "lang": "pt"
+  },
+  {
     "site_id": "5",
     "name": "BAND SPORTS HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "31",
+    "name": "SPORTV 2",
+    "lang": "pt",
+    "xmltv_id": "SporTV2.br",
+    "logo": "https://i.imgur.com/pBiUnb2.png"
+  },
+  {
+    "site_id": "69",
+    "name": "TELECINE ACTION",
+    "lang": "pt",
+    "xmltv_id": "TelecineAction.br",
+    "logo": "https://i.imgur.com/BHYWG0h.png"
+  },
+  {
+    "site_id": "338",
+    "name": "CANAL RURAL",
+    "lang": "pt",
+    "xmltv_id": "CanalRural.br",
+    "logo": "https://i.imgur.com/w9R9IIX.png"
+  },
+  {
+    "site_id": "15",
+    "name": "ANIMAL PLANET HD",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/animal-planet-hd-ca.png"
+  },
+  {
+    "site_id": "18",
+    "name": "DISCOVERY TURBO HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "29",
+    "name": "ESPN",
+    "lang": "pt",
+    "xmltv_id": "ESPN.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+  },
+  {
+    "site_id": "99",
+    "name": "Globoplay Novelas",
+    "lang": "pt",
+    "xmltv_id": "GloboplayNovelas.br",
+    "logo": "https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png"
+  },
+  {
+    "site_id": "265",
+    "name": "HBO Pop",
+    "lang": "pt",
+    "xmltv_id": "HBOPop.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png"
+  },
+  {
+    "site_id": "267",
+    "name": "HBO Xtreme",
+    "lang": "pt",
+    "xmltv_id": "HBOXtreme.br",
+    "logo": "https://www.vertvcable.com/wp-content/uploads/2022/02/hboextreme.jpg"
+  },
+  {
+    "site_id": "296",
+    "name": "SportyNet + 1",
+    "lang": "pt"
+  },
+  {
+    "site_id": "297",
+    "name": "SportyNet + 2",
+    "lang": "pt"
+  },
+  {
+    "site_id": "64",
+    "name": "MTV 00's",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
+  },
+  {
+    "site_id": "68",
+    "name": "TELECINE PREMIUM",
+    "lang": "pt",
+    "xmltv_id": "TelecinePremium.br",
+    "logo": "https://i.imgur.com/uVFgIr8.png"
+  },
+  {
+    "site_id": "75",
+    "name": "TRAVEL BOX",
+    "lang": "pt"
+  },
+  {
+    "site_id": "129",
+    "name": "FRANCE 24 HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "61",
+    "name": "TV BRASIL",
+    "lang": "pt",
+    "xmltv_id": "TVBrasil.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png"
+  },
+  {
+    "site_id": "1",
+    "name": "DISCOVERY KIDS HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "34",
+    "name": "ARTE 1 HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "85",
+    "name": "HISTORY 2",
+    "lang": "pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
+  },
+  {
+    "site_id": "95",
+    "name": "FUTURA HD",
+    "lang": "pt"
+  },
+  {
+    "site_id": "337",
+    "name": "LBV",
     "lang": "pt"
   }
 ]

@@ -1,125 +1,10 @@
 [
   {
-    "site_id": "bolovsrol",
-    "name": "Боловсрол ТВ",
+    "site_id": "ntv",
+    "name": "NTV",
     "lang": "mn",
-    "xmltv_id": "EdutainmentTV.mn@SD",
-    "logo": "https://i.imgur.com/0m8t3vh.png"
-  },
-  {
-    "site_id": "premier sports 3",
-    "name": "Premier Sports 3",
-    "lang": "mn",
-    "logo": "https://i.imgur.com/KSBrV8Q.png"
-  },
-  {
-    "site_id": "premier sports 5",
-    "name": "Premier sports 5",
-    "lang": "mn",
-    "logo": "https://i.imgur.com/LkIe9gR.png"
-  },
-  {
-    "site_id": "tv9",
-    "name": "TV9",
-    "lang": "mn",
-    "xmltv_id": "TV9.mn@SD",
-    "logo": "https://i.imgur.com/QFteAgd.png"
-  },
-  {
-    "site_id": "central_tv",
-    "name": "Central TV",
-    "lang": "mn",
-    "xmltv_id": "CentralTV.mn@SD",
-    "logo": "https://i.imgur.com/E9wAUrT.png"
-  },
-  {
-    "site_id": "etv",
-    "name": "ETV HD",
-    "lang": "mn",
-    "xmltv_id": "ETV.mn@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png"
-  },
-  {
-    "site_id": "sbn",
-    "name": "SBN",
-    "lang": "mn",
-    "xmltv_id": "SBN.mn@SD",
-    "logo": "https://i.imgur.com/E3fvpwn.png"
-  },
-  {
-    "site_id": "c1",
-    "name": "C1",
-    "lang": "mn",
-    "xmltv_id": "C1.mn@SD",
-    "logo": "https://i.imgur.com/v1mHG5x.png"
-  },
-  {
-    "site_id": "premier sports 1",
-    "name": "Premier Sports 1",
-    "lang": "mn",
-    "logo": "https://i.imgur.com/eOybZMU.png"
-  },
-  {
-    "site_id": "premier sports 4",
-    "name": "Premier sports 4",
-    "lang": "mn",
-    "logo": "https://i.imgur.com/XHBJ7UB.png"
-  },
-  {
-    "site_id": "tenger",
-    "name": "TenGer",
-    "lang": "mn",
-    "xmltv_id": "TenGerTV.mn@SD",
-    "logo": "https://i.imgur.com/MmPvkcO.png"
-  },
-  {
-    "site_id": "tv5",
-    "name": "TV5",
-    "lang": "mn",
-    "xmltv_id": "TV5.mn@SD",
-    "logo": "https://i.imgur.com/asGQfGN.png"
-  },
-  {
-    "site_id": "dream",
-    "name": "Dream",
-    "lang": "mn",
-    "xmltv_id": "DreamTV.mn@SD",
-    "logo": "https://i.imgur.com/YPbvzgV.png"
-  },
-  {
-    "site_id": "mongol_tv",
-    "name": "Монгол ТВ",
-    "lang": "mn",
-    "xmltv_id": "MongolTV.mn@SD",
-    "logo": "https://i.imgur.com/RBEnEvX.png"
-  },
-  {
-    "site_id": "moviebox",
-    "name": "MovieBox",
-    "lang": "mn",
-    "xmltv_id": "MovieBox.mn@SD",
-    "logo": "https://i.imgur.com/xeO1Zb4.png"
-  },
-  {
-    "site_id": "ntn",
-    "name": "NTN",
-    "lang": "mn",
-    "xmltv_id": "NTN.mn@SD",
-    "logo": "https://i.imgur.com/56YJg8G.png"
-  },
-  {
-    "site_id": "star-tv",
-    "name": "Star TV",
-    "lang": "mn",
-    "xmltv_id": "StarTV.mn@SD",
-    "logo": "https://i.imgur.com/R6hxJgl.png"
-  },
-  {
-    "site_id": "suld_tv_mongolia",
-    "name": "Сүлд ТВ",
-    "lang": "mn",
-    "xmltv_id": "SuldTV.mn@SD",
-    "logo": "https://i.imgur.com/CnLxehv.png"
+    "xmltv_id": "NTV.mn@SD",
+    "logo": "https://i.imgur.com/2JbqbPY.png"
   },
   {
     "site_id": "tm",
@@ -129,18 +14,11 @@
     "logo": "https://i.imgur.com/Bza9r7U.png"
   },
   {
-    "site_id": "ubs-1",
-    "name": "UBS-1",
+    "site_id": "premier sports 5",
+    "name": "Premier sports 5",
     "lang": "mn",
-    "xmltv_id": "UBS.mn@SD",
-    "logo": "https://i.imgur.com/dIRMYYd.png"
-  },
-  {
-    "site_id": "asianbox",
-    "name": "AsianBox",
-    "lang": "mn",
-    "xmltv_id": "AsianBox.mn@SD",
-    "logo": "https://i.imgur.com/WAYZSgx.png"
+    "xmltv_id": "PremierSports5.mn",
+    "logo": "https://i.imgur.com/LkIe9gR.png"
   },
   {
     "site_id": "Bloomberg_TV_Mongolia",
@@ -150,6 +28,40 @@
     "logo": "https://i.imgur.com/OuogLHx.png"
   },
   {
+    "site_id": "dream",
+    "name": "Dream",
+    "lang": "mn",
+    "xmltv_id": "DreamTV.mn@SD",
+    "logo": "https://i.imgur.com/YPbvzgV.png"
+  },
+  {
+    "site_id": "moviebox",
+    "name": "MovieBox",
+    "lang": "mn",
+    "xmltv_id": "MovieBox.mn@SD",
+    "logo": "https://i.imgur.com/xeO1Zb4.png"
+  },
+  {
+    "site_id": "premier sports 3",
+    "name": "Premier Sports 3",
+    "lang": "mn",
+    "xmltv_id": "PremierSports3.mn",
+    "logo": "https://i.imgur.com/KSBrV8Q.png"
+  },
+  {
+    "site_id": "tv5",
+    "name": "TV5",
+    "lang": "mn",
+    "xmltv_id": "TV5.mn@SD",
+    "logo": "https://i.imgur.com/asGQfGN.png"
+  },
+  {
+    "site_id": "tv7",
+    "name": "TV7",
+    "lang": "mn",
+    "logo": "https://i.imgur.com/N2gSCGT.png"
+  },
+  {
     "site_id": "mnb-sport",
     "name": "MNB Sport",
     "lang": "mn",
@@ -157,11 +69,95 @@
     "logo": "https://i.imgur.com/z854PC3.png"
   },
   {
-    "site_id": "ntv",
-    "name": "NTV",
+    "site_id": "premier sports 2",
+    "name": "Premier Sports 2",
     "lang": "mn",
-    "xmltv_id": "NTV.mn@SD",
-    "logo": "https://i.imgur.com/2JbqbPY.png"
+    "xmltv_id": "PremierSports2.mn",
+    "logo": "https://i.imgur.com/eMNWhDq.png"
+  },
+  {
+    "site_id": "mnb-ger-bl",
+    "name": "MNB Гэр Бүл",
+    "lang": "mn",
+    "xmltv_id": "MNB.mn",
+    "logo": "https://i.imgur.com/RdRd0to.png"
+  },
+  {
+    "site_id": "premier sports 4",
+    "name": "Premier sports 4",
+    "lang": "mn",
+    "xmltv_id": "PremierSports4.mn",
+    "logo": "https://i.imgur.com/XHBJ7UB.png"
+  },
+  {
+    "site_id": "sbn",
+    "name": "SBN",
+    "lang": "mn",
+    "xmltv_id": "SBN.mn@SD",
+    "logo": "https://i.imgur.com/E3fvpwn.png"
+  },
+  {
+    "site_id": "tv9",
+    "name": "TV9",
+    "lang": "mn",
+    "xmltv_id": "TV9.mn@SD",
+    "logo": "https://i.imgur.com/QFteAgd.png"
+  },
+  {
+    "site_id": "eco_suvag",
+    "name": "Eco Channel",
+    "lang": "mn",
+    "xmltv_id": "EcoTV.mn@SD",
+    "logo": "https://i.imgur.com/8LpDHYT.png"
+  },
+  {
+    "site_id": "mnb",
+    "name": "МҮОНТ",
+    "lang": "mn",
+    "xmltv_id": "MNB.mn@SD",
+    "logo": "https://i.imgur.com/RdRd0to.png"
+  },
+  {
+    "site_id": "star-tv",
+    "name": "Star TV",
+    "lang": "mn",
+    "xmltv_id": "StarTV.mn@SD",
+    "logo": "https://i.imgur.com/R6hxJgl.png"
+  },
+  {
+    "site_id": "tenger",
+    "name": "TenGer",
+    "lang": "mn",
+    "xmltv_id": "TenGerTV.mn@SD",
+    "logo": "https://i.imgur.com/MmPvkcO.png"
+  },
+  {
+    "site_id": "suld_tv_mongolia",
+    "name": "Сүлд ТВ",
+    "lang": "mn",
+    "xmltv_id": "SuldTV.mn@SD",
+    "logo": "https://i.imgur.com/CnLxehv.png"
+  },
+  {
+    "site_id": "mongol_tv",
+    "name": "Монгол ТВ",
+    "lang": "mn",
+    "xmltv_id": "MongolTV.mn@SD",
+    "logo": "https://i.imgur.com/RBEnEvX.png"
+  },
+  {
+    "site_id": "central_tv",
+    "name": "Central TV",
+    "lang": "mn",
+    "xmltv_id": "CentralTV.mn@SD",
+    "logo": "https://i.imgur.com/E9wAUrT.png"
+  },
+  {
+    "site_id": "ntn",
+    "name": "NTN",
+    "lang": "mn",
+    "xmltv_id": "NTN.mn@SD",
+    "logo": "https://i.imgur.com/56YJg8G.png"
   },
   {
     "site_id": "parlament-televiz",
@@ -178,17 +174,11 @@
     "logo": "https://i.imgur.com/EguOdxW.png"
   },
   {
-    "site_id": "mnb",
-    "name": "МҮОНТ",
+    "site_id": "c1",
+    "name": "C1",
     "lang": "mn",
-    "xmltv_id": "MNB.mn@SD",
-    "logo": "https://i.imgur.com/RdRd0to.png"
-  },
-  {
-    "site_id": "mnb-ger-bl",
-    "name": "MNB Гэр Бүл",
-    "lang": "mn",
-    "logo": "https://i.imgur.com/RdRd0to.png"
+    "xmltv_id": "C1.mn@SD",
+    "logo": "https://i.imgur.com/v1mHG5x.png"
   },
   {
     "site_id": "mn25",
@@ -198,13 +188,6 @@
     "logo": "https://i.imgur.com/F3MMJMd.png"
   },
   {
-    "site_id": "mnc",
-    "name": "MNC",
-    "lang": "mn",
-    "xmltv_id": "MongolianNewsChannel.mn@SD",
-    "logo": "https://i.imgur.com/gMVqbwU.png"
-  },
-  {
     "site_id": "mongolyn-medee",
     "name": "Mонголын Мэдээ",
     "lang": "mn",
@@ -212,22 +195,45 @@
     "logo": "https://i.imgur.com/KUvJzUD.png"
   },
   {
-    "site_id": "premier sports 2",
-    "name": "Premier Sports 2",
+    "site_id": "premier sports 1",
+    "name": "Premier Sports 1",
     "lang": "mn",
-    "logo": "https://i.imgur.com/Fx1n84p.png"
+    "xmltv_id": "PremierSports1.mn",
+    "logo": "https://i.imgur.com/t5qCejI.png"
   },
   {
-    "site_id": "eco_suvag",
-    "name": "Eco Channel",
+    "site_id": "ubs-1",
+    "name": "UBS-1",
     "lang": "mn",
-    "xmltv_id": "EcoTV.mn@SD",
-    "logo": "https://i.imgur.com/8LpDHYT.png"
+    "xmltv_id": "UBS.mn@SD",
+    "logo": "https://i.imgur.com/dIRMYYd.png"
   },
   {
-    "site_id": "tv7",
-    "name": "TV7",
+    "site_id": "asianbox",
+    "name": "AsianBox",
     "lang": "mn",
-    "logo": "https://i.imgur.com/N2gSCGT.png"
+    "xmltv_id": "AsianBox.mn@SD",
+    "logo": "https://i.imgur.com/WAYZSgx.png"
+  },
+  {
+    "site_id": "bolovsrol",
+    "name": "Боловсрол ТВ",
+    "lang": "mn",
+    "xmltv_id": "EdutainmentTV.mn@SD",
+    "logo": "https://i.imgur.com/0m8t3vh.png"
+  },
+  {
+    "site_id": "etv",
+    "name": "ETV HD",
+    "lang": "mn",
+    "xmltv_id": "ETV.mn@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png"
+  },
+  {
+    "site_id": "mnc",
+    "name": "MNC",
+    "lang": "mn",
+    "xmltv_id": "MongolianNewsChannel.mn@SD",
+    "logo": "https://i.imgur.com/gMVqbwU.png"
   }
 ]

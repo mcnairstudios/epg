@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"hash/fnv"
 	"net/http"
+	"sort"
 	"strings"
 
 	"github.com/go-chi/chi/v5"
@@ -19,6 +20,40 @@ func logoKey(xmltvID string) string {
 		return xmltvID[:i]
 	}
 	return xmltvID
+}
+
+// isValidXmltvID returns true for well-formed iptv-org channel IDs like
+// "BBC1.uk" or "AlJazeera.qa@English". Rejects garbage site IDs like
+// "64257#22624" or "syn-carstv/32277".
+func isValidXmltvID(id string) bool {
+	if len(id) < 3 {
+		return false
+	}
+	if id[0] < 'A' || (id[0] > 'Z' && id[0] < 'a') || id[0] > 'z' {
+		return false
+	}
+	if strings.ContainsAny(id, " #/,()[]") {
+		return false
+	}
+	base := id
+	if i := strings.Index(id, "@"); i >= 0 {
+		base = id[:i]
+	}
+	dot := strings.LastIndex(base, ".")
+	if dot < 0 {
+		return false
+	}
+	tld := base[dot+1:]
+	return len(tld) >= 2 && tld == strings.ToLower(tld) && !strings.ContainsAny(tld, "0123456789")
+}
+
+// logoScore returns a sortable quality score for a channel logo URL.
+// Higher is better.
+func logoScore(logo string) int {
+	if logo == "" || strings.Contains(logo, "placeholder") {
+		return 0
+	}
+	return 1
 }
 
 func (s *Server) getXMLTV(w http.ResponseWriter, r *http.Request) {
@@ -58,11 +93,27 @@ func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filt
 	base := scheme + "://" + r.Host
 
 	allChannels := s.store.GetChannels(f)
-	channels := make([]domain.Channel, 0, len(allChannels))
+
+	// Deduplicate by xmltv_id: keep the highest-quality entry per id.
+	// Skip channels with no valid xmltv_id (garbage site_ids, empty, etc.).
+	type scored struct {
+		ch    domain.Channel
+		score int
+	}
+	best := make(map[string]scored, len(allChannels))
 	for _, ch := range allChannels {
-		if disabled[ch.Source] {
+		if disabled[ch.Source] || !isValidXmltvID(ch.XmltvID) {
 			continue
 		}
+		score := logoScore(ch.Logo)
+		if existing, ok := best[ch.XmltvID]; !ok || score > existing.score {
+			best[ch.XmltvID] = scored{ch: ch, score: score}
+		}
+	}
+
+	channels := make([]domain.Channel, 0, len(best))
+	for _, s := range best {
+		ch := s.ch
 		if ch.Logo != "" {
 			ch.Logo = base + "/logos/" + logoKey(ch.XmltvID)
 		} else if ch.IsRadio() {
@@ -71,6 +122,15 @@ func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filt
 			ch.Logo = base + "/logos/placeholder-tv"
 		}
 		channels = append(channels, ch)
+	}
+	sort.Slice(channels, func(i, j int) bool {
+		return channels[i].XmltvID < channels[j].XmltvID
+	})
+
+	// Build set of valid xmltv_ids so we can filter programs.
+	validIDs := make(map[string]bool, len(best))
+	for id := range best {
+		validIDs[id] = true
 	}
 
 	programFilter := store.Filter{
@@ -81,9 +141,23 @@ func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filt
 	}
 
 	allPrograms := s.store.GetPrograms(programFilter)
-	programs := allPrograms[:0]
+
+	// Filter programs: only valid xmltv_id references, no disabled sources.
+	// Deduplicate by (channel, start) — when multiple sources cover the same
+	// channel, keep the first program seen for each timeslot.
+	type progKey struct {
+		channel string
+		start   string
+	}
+	seen := make(map[progKey]bool)
+	programs := make([]domain.Program, 0, len(allPrograms))
 	for _, p := range allPrograms {
-		if !disabled[p.Source] {
+		if disabled[p.Source] || !validIDs[p.Channel] {
+			continue
+		}
+		k := progKey{p.Channel, p.Start.String()}
+		if !seen[k] {
+			seen[k] = true
 			programs = append(programs, p)
 		}
 	}

@@ -269,13 +269,14 @@ func main() {
 	}
 
 	logosByName := make(map[string]string)
-	if *channelsCSV != "" && len(logosByID) > 0 {
+	xmltvByName := make(map[string]string)
+	if *channelsCSV != "" {
 		var err error
-		logosByName, err = buildNameLogoIndex(*channelsCSV, logosByID)
+		logosByName, xmltvByName, err = buildNameIndexes(*channelsCSV, logosByID)
 		if err != nil {
 			log.Fatal().Err(err).Msg("failed to load channels database")
 		}
-		log.Info().Int("name_entries", len(logosByName)).Msg("built name-based logo index")
+		log.Info().Int("name_entries", len(logosByName)).Int("xmltv_entries", len(xmltvByName)).Msg("built name-based indexes")
 	}
 
 	tvLogos := make(map[string]string)
@@ -323,15 +324,21 @@ func main() {
 				merged[pluginName] = make(map[string]channelEntry)
 			}
 
+			xmltvID := ch.XmltvID
+			if xmltvID == "" && name != "" {
+				siteCC := countryCodeFromDomain(ch.Site)
+				xmltvID = lookupXmltvID(xmltvByName, name, siteCC)
+			}
+
 			logo := ch.Logo
-			if logo == "" && ch.XmltvID != "" {
-				logo = lookupLogo(logosByID, ch.XmltvID)
+			if logo == "" && xmltvID != "" {
+				logo = lookupLogo(logosByID, xmltvID)
 			}
 			if logo == "" && name != "" {
 				logo = logosByName[normalizeName(name)]
 			}
 			if logo == "" && len(tvLogos) > 0 {
-				cc := countryCodeFromXmltvID(ch.XmltvID)
+				cc := countryCodeFromXmltvID(xmltvID)
 				logo = lookupTVLogo(tvLogos, name, cc)
 			}
 
@@ -341,7 +348,7 @@ func main() {
 				Name:    name,
 				Lang:    ch.Lang,
 				Region:  region,
-				XmltvID: ch.XmltvID,
+				XmltvID: xmltvID,
 				Logo:    logo,
 			}
 		}
@@ -463,20 +470,24 @@ func normalizeName(name string) string {
 	return strings.Join(strings.Fields(b.String()), " ")
 }
 
-func buildNameLogoIndex(path string, logosByID map[string]string) (map[string]string, error) {
-	r, closer, err := openCSV(path)
-	if err != nil {
-		return nil, err
+// buildNameIndexes reads channels.csv once and returns:
+//   - logosByName: normalized name → logo URL
+//   - xmltvByCountryName: "country:normalized_name" → xmltv_id (country-specific)
+//   - xmltvByName: normalized name → first-seen xmltv_id (fallback)
+func buildNameIndexes(path string, logosByID map[string]string) (logosByName, xmltvByName map[string]string, err error) {
+	r, closer, openErr := openCSV(path)
+	if openErr != nil {
+		return nil, nil, openErr
 	}
 	defer closer()
 
 	cr := csv.NewReader(r)
 	header, err := cr.Read()
 	if err != nil {
-		return nil, fmt.Errorf("reading CSV header: %w", err)
+		return nil, nil, fmt.Errorf("reading CSV header: %w", err)
 	}
 
-	idCol, nameCol, altCol := -1, -1, -1
+	idCol, nameCol, altCol, countryCol := -1, -1, -1, -1
 	for i, h := range header {
 		switch h {
 		case "id":
@@ -485,29 +496,39 @@ func buildNameLogoIndex(path string, logosByID map[string]string) (map[string]st
 			nameCol = i
 		case "alt_names":
 			altCol = i
+		case "country":
+			countryCol = i
 		}
 	}
 	if idCol < 0 || nameCol < 0 {
-		return nil, fmt.Errorf("channels.csv missing 'id' or 'name' column")
+		return nil, nil, fmt.Errorf("channels.csv missing 'id' or 'name' column")
 	}
 
-	index := make(map[string]string)
+	logosByName = make(map[string]string)
+	xmltvByName = make(map[string]string)
+	// country-specific: "cc:norm" → xmltv_id
+	xmltvByCountryName := make(map[string]string)
+
 	for {
 		row, err := cr.Read()
 		if err == io.EOF {
 			break
 		}
 		if err != nil {
-			return nil, fmt.Errorf("reading CSV row: %w", err)
+			return nil, nil, fmt.Errorf("reading CSV row: %w", err)
 		}
 		if idCol >= len(row) || nameCol >= len(row) {
 			continue
 		}
 		id := row[idCol]
 		logo := logosByID[id]
-		if logo == "" {
-			continue
+
+		// Extract country code from channel id (e.g. "BBCRadio2.uk" → "uk")
+		cc := countryCodeFromXmltvID(id)
+		if cc == "" && countryCol >= 0 && countryCol < len(row) {
+			cc = strings.ToLower(strings.TrimSpace(row[countryCol]))
 		}
+
 		names := []string{row[nameCol]}
 		if altCol >= 0 && altCol < len(row) && row[altCol] != "" {
 			for _, alt := range strings.Split(row[altCol], ";") {
@@ -516,15 +537,52 @@ func buildNameLogoIndex(path string, logosByID map[string]string) (map[string]st
 				}
 			}
 		}
+
 		for _, n := range names {
-			if norm := normalizeName(n); norm != "" {
-				if _, exists := index[norm]; !exists {
-					index[norm] = logo
+			norm := normalizeName(n)
+			if norm == "" {
+				continue
+			}
+			if logo != "" {
+				if _, exists := logosByName[norm]; !exists {
+					logosByName[norm] = logo
+				}
+			}
+			if id != "" {
+				// Country-specific index
+				if cc != "" {
+					ccKey := cc + ":" + norm
+					if _, exists := xmltvByCountryName[ccKey]; !exists {
+						xmltvByCountryName[ccKey] = id
+					}
+				}
+				// Global fallback index
+				if _, exists := xmltvByName[norm]; !exists {
+					xmltvByName[norm] = id
 				}
 			}
 		}
 	}
-	return index, nil
+
+	// Merge country-specific entries into xmltvByName under a sentinel key
+	// so lookupXmltvID can access them. Encode as "cc\x00norm" → id.
+	for k, v := range xmltvByCountryName {
+		xmltvByName["\x00"+k] = v
+	}
+
+	return logosByName, xmltvByName, nil
+}
+
+// lookupXmltvID returns the correct xmltv_id for a channel name.
+// If the source has a country code, only country-specific matches are used —
+// no fallback to a wrong-country entry. For sources without a country code,
+// the global index is used.
+func lookupXmltvID(xmltvByName map[string]string, name, countryCode string) string {
+	norm := normalizeName(name)
+	if countryCode != "" {
+		return xmltvByName["\x00"+countryCode+":"+norm]
+	}
+	return xmltvByName[norm]
 }
 
 func lookupLogo(logos map[string]string, xmltvID string) string {
@@ -685,6 +743,20 @@ func lookupTVLogo(index map[string]string, name, countryCode string) string {
 		}
 	}
 	return index[slug]
+}
+
+// countryCodeFromDomain extracts 2-letter country code from site domain TLD.
+// "freeview.co.uk" → "uk", "raiplay.it" → "it", "sky.com" → ""
+func countryCodeFromDomain(site string) string {
+	parts := strings.Split(site, ".")
+	if len(parts) == 0 {
+		return ""
+	}
+	tld := parts[len(parts)-1]
+	if len(tld) == 2 {
+		return strings.ToLower(tld)
+	}
+	return ""
 }
 
 func countryCodeFromXmltvID(xmltvID string) string {

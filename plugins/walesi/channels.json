@@ -1,10 +1,16 @@
 [
   {
-    "site_id": "fbc2",
-    "name": "FBC 2",
+    "site_id": "9-education-channel",
+    "name": "Education Channel",
     "lang": "fj",
-    "xmltv_id": "FBC2.fj@SD",
-    "logo": "https://i.imgur.com/fIm6sCt.png"
+    "logo": "https://i.imgur.com/p5TGUjo.png"
+  },
+  {
+    "site_id": "fbc-2",
+    "name": "FBC",
+    "lang": "fj",
+    "xmltv_id": "FBCTV.fj@SD",
+    "logo": "https://i.imgur.com/jEE23Cd.png"
   },
   {
     "site_id": "hope-channel",
@@ -28,12 +34,6 @@
     "logo": "https://i.imgur.com/peKAzDv.png"
   },
   {
-    "site_id": "9-education-channel",
-    "name": "Education Channel",
-    "lang": "fj",
-    "logo": "https://i.imgur.com/p5TGUjo.png"
-  },
-  {
     "site_id": "channel-2",
     "name": "Channel 2",
     "lang": "fj",
@@ -48,11 +48,11 @@
     "logo": "https://i.imgur.com/l953wkT.png"
   },
   {
-    "site_id": "fbc-2",
-    "name": "FBC",
+    "site_id": "fbc2",
+    "name": "FBC 2",
     "lang": "fj",
-    "xmltv_id": "FBCTV.fj@SD",
-    "logo": "https://i.imgur.com/jEE23Cd.png"
+    "xmltv_id": "FBC2.fj@SD",
+    "logo": "https://i.imgur.com/fIm6sCt.png"
   },
   {
     "site_id": "fiji_one",

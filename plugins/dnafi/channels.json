@@ -1,112 +1,59 @@
 [
   {
-    "site_id": "ch-4388314",
-    "name": "One Way TV",
+    "site_id": "ch-296147",
+    "name": "Eurosport 1",
     "lang": "fi",
-    "logo": "https://i.imgur.com/kgy3DV9.png"
+    "logo": "https://i.imgur.com/olQJgm7.png"
   },
   {
-    "site_id": "ch-820089",
-    "name": "CNBC",
+    "site_id": "ch-549801",
+    "name": "JIM",
     "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
-  },
-  {
-    "site_id": "ch-7662261",
-    "name": "MTV Liiga 5",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-216394",
-    "name": "Frii",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/h3BAOAC.png"
+    "xmltv_id": "Jim.fi",
+    "logo": "https://i.imgur.com/PkMgY0K.png"
   },
   {
     "site_id": "ch-295476",
     "name": "MTV Juniori",
     "lang": "fi",
+    "xmltv_id": "MTVJuniori.fi",
     "logo": "https://i.imgur.com/g0yN7DK.png"
   },
   {
-    "site_id": "ch-452010",
-    "name": "Viaplay 2 Urheilu",
+    "site_id": "ch-802619",
+    "name": "France 24",
+    "lang": "fi",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "ch-819873",
+    "name": "Nick Jr.",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "ch-820523",
+    "name": "ZDF",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/rtLb6m9.png"
+  },
+  {
+    "site_id": "ch-7662253",
+    "name": "MTV Liiga 3",
     "lang": "fi"
   },
   {
-    "site_id": "ch-549944",
-    "name": "LIV",
+    "site_id": "ch-549957",
+    "name": "Hero",
     "lang": "fi",
-    "logo": "https://i.imgur.com/k6NsXBj.png"
+    "xmltv_id": "Hero.fi",
+    "logo": "https://i.imgur.com/4t5JQLY.png"
   },
   {
-    "site_id": "ch-820087",
-    "name": "Sky News",
+    "site_id": "ch-901934",
+    "name": "Fight Sports",
     "lang": "fi",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"
-  },
-  {
-    "site_id": "ch-7662172",
-    "name": "MTV Liiga 1",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-24850821",
-    "name": "Nickelodeon",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/08ZUI9k.png"
-  },
-  {
-    "site_id": "ch-1426",
-    "name": "MTV Viihde",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/jIGFjRk.png"
-  },
-  {
-    "site_id": "ch-216370",
-    "name": "MTV Ava",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/WxNCiAk.png"
-  },
-  {
-    "site_id": "ch-556271",
-    "name": "V sport golf",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/wCw8Pmz.png"
-  },
-  {
-    "site_id": "ch-801557",
-    "name": "Iskuri.net",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-816087",
-    "name": "V film action",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/So0mOF8.png"
-  },
-  {
-    "site_id": "ch-1883879",
-    "name": "Mezzo Live",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/H9ytKPN.png"
-  },
-  {
-    "site_id": "ch-22986792",
-    "name": "MTV Liiga 8",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-819255",
-    "name": "Extreme Sports Channel",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/m7IC01U.png"
-  },
-  {
-    "site_id": "ch-820219",
-    "name": "MTV",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+    "logo": "https://i.imgur.com/nV55veq.png"
   },
   {
     "site_id": "ch-940115",
@@ -115,9 +62,135 @@
     "logo": "https://i.imgur.com/gst7wW7.png"
   },
   {
-    "site_id": "ch-7662272",
-    "name": "MTV Liiga UHD",
+    "site_id": "ch-216366",
+    "name": "Nelonen",
+    "lang": "fi",
+    "xmltv_id": "Nelonen.fi",
+    "logo": "https://i.imgur.com/BFbCyfY.png"
+  },
+  {
+    "site_id": "ch-556271",
+    "name": "V sport golf",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/wCw8Pmz.png"
+  },
+  {
+    "site_id": "ch-820066",
+    "name": "BBC Nordic",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/pC4pZuz.jpg"
+  },
+  {
+    "site_id": "ch-820382",
+    "name": "TV3",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/sCr0h4N.png"
+  },
+  {
+    "site_id": "ch-820633",
+    "name": "TVE Internacional",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/tve-internacional-int.png"
+  },
+  {
+    "site_id": "ch-22986792",
+    "name": "MTV Liiga 8",
     "lang": "fi"
+  },
+  {
+    "site_id": "ch-359767",
+    "name": "Yle Teema \u0026 Fem",
+    "lang": "fi",
+    "xmltv_id": "YleTeemaFem.fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png"
+  },
+  {
+    "site_id": "ch-820145",
+    "name": "iConcerts",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-7662172",
+    "name": "MTV Liiga 1",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-820639",
+    "name": "Al Jazeera English",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-4388314",
+    "name": "One Way TV",
+    "lang": "fi",
+    "xmltv_id": "OneWayTV.fi",
+    "logo": "https://i.imgur.com/kgy3DV9.png"
+  },
+  {
+    "site_id": "ch-820327",
+    "name": "SVT2",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/pGWvCxp.png"
+  },
+  {
+    "site_id": "ch-816669",
+    "name": "DNA Infokanava",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-816336",
+    "name": "V sport football",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/8zupSOw.png"
+  },
+  {
+    "site_id": "ch-819808",
+    "name": "Disney Channel",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+  },
+  {
+    "site_id": "ch-820071",
+    "name": "BBC World News",
+    "lang": "fi",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/bbc-world-news-int.png"
+  },
+  {
+    "site_id": "ch-549980",
+    "name": "TLC",
+    "lang": "fi",
+    "xmltv_id": "TLC.fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
+  },
+  {
+    "site_id": "ch-556382",
+    "name": "V sport 1",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/ERWOdjs.png"
+  },
+  {
+    "site_id": "ch-823459",
+    "name": "Playboy TV",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/5di4Nis.png"
+  },
+  {
+    "site_id": "ch-1883879",
+    "name": "Mezzo Live",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/H9ytKPN.png"
+  },
+  {
+    "site_id": "ch-2352053",
+    "name": "Kuukauden kanava",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-359757",
+    "name": "Yle TV2",
+    "lang": "fi",
+    "xmltv_id": "YleTV2.fi",
+    "logo": "https://i.imgur.com/4xkc6PL.png"
   },
   {
     "site_id": "ch-474278",
@@ -125,34 +198,118 @@
     "lang": "fi"
   },
   {
-    "site_id": "ch-816399",
-    "name": "V sport live 1",
+    "site_id": "ch-1426",
+    "name": "MTV Viihde",
     "lang": "fi",
-    "logo": "https://i.imgur.com/KGm37xW.png"
+    "xmltv_id": "MTVViihde.fi",
+    "logo": "https://i.imgur.com/jIGFjRk.png"
   },
   {
-    "site_id": "ch-820429",
-    "name": "TV6",
+    "site_id": "ch-86249",
+    "name": "STAR Channel",
     "lang": "fi",
-    "logo": "https://i.imgur.com/nu0CpJn.png"
+    "xmltv_id": "STARChannel.fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"
   },
   {
-    "site_id": "ch-820499",
-    "name": "3sat",
+    "site_id": "ch-816402",
+    "name": "V sport live 2",
     "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png"
+    "logo": "https://i.imgur.com/mrYUeKy.png"
   },
   {
-    "site_id": "ch-549980",
-    "name": "TLC",
+    "site_id": "ch-820095",
+    "name": "Fashion TV",
     "lang": "fi",
-    "logo": "https://i.imgur.com/UdLeLar.jpg"
+    "logo": "https://i.imgur.com/Bk7W39G.png"
   },
   {
-    "site_id": "ch-556382",
-    "name": "V sport 1",
+    "site_id": "ch-820282",
+    "name": "MTV 90s",
     "lang": "fi",
-    "logo": "https://i.imgur.com/ERWOdjs.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/MTV_90s_2022.svg"
+  },
+  {
+    "site_id": "ch-296162",
+    "name": "MTV Urheilu 1",
+    "lang": "fi",
+    "xmltv_id": "MTVUrheilu1.fi",
+    "logo": "https://i.imgur.com/b9jZgbd.png"
+  },
+  {
+    "site_id": "ch-816116",
+    "name": "Viasat Nature",
+    "lang": "fi",
+    "xmltv_id": "ViasatNature.fi",
+    "logo": "https://i.imgur.com/ousRqqD.png"
+  },
+  {
+    "site_id": "ch-819255",
+    "name": "Extreme Sports Channel",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/m7IC01U.png"
+  },
+  {
+    "site_id": "ch-816157",
+    "name": "V sport premium",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/BGXq2a4.png"
+  },
+  {
+    "site_id": "ch-820089",
+    "name": "CNBC",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
+  },
+  {
+    "site_id": "ch-24850821",
+    "name": "Nickelodeon",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/08ZUI9k.png"
+  },
+  {
+    "site_id": "ch-216400",
+    "name": "Kutonen",
+    "lang": "fi",
+    "xmltv_id": "Kutonen.fi",
+    "logo": "https://i.imgur.com/OiB7Opu.png"
+  },
+  {
+    "site_id": "ch-816405",
+    "name": "V sport live 3",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/enr8IAy.png"
+  },
+  {
+    "site_id": "ch-816519",
+    "name": "Eurosport 2",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/f56dHgR.png"
+  },
+  {
+    "site_id": "ch-816730",
+    "name": "Motorvision+ HD",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-820433",
+    "name": "Kunskapskanalen",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/960px-Kunskapskanalen_2017.svg.png"
+  },
+  {
+    "site_id": "ch-216396",
+    "name": "National Geographic",
+    "lang": "fi",
+    "xmltv_id": "NationalGeographic.fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
+  },
+  {
+    "site_id": "ch-216368",
+    "name": "MTV Sub",
+    "lang": "fi",
+    "xmltv_id": "MTVSub.fi",
+    "logo": "https://i.imgur.com/rmV8LO1.png"
   },
   {
     "site_id": "ch-816424",
@@ -167,106 +324,10 @@
     "logo": "https://i.imgur.com/6RhQKyU.png"
   },
   {
-    "site_id": "ch-819881",
-    "name": "Cartoon Network",
+    "site_id": "ch-819889",
+    "name": "CNN International",
     "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "ch-216368",
-    "name": "MTV Sub",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/rmV8LO1.png"
-  },
-  {
-    "site_id": "ch-7662208",
-    "name": "MTV Liiga 2",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-819298",
-    "name": "ID",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "ch-7293948",
-    "name": "Infokanava",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-819873",
-    "name": "Nick Jr.",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "ch-7662271",
-    "name": "MTV Urheilu 3",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-549957",
-    "name": "Hero",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/4t5JQLY.png"
-  },
-  {
-    "site_id": "ch-816712",
-    "name": "Nautical Channel",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/Sl8c9eB.png"
-  },
-  {
-    "site_id": "ch-820145",
-    "name": "iConcerts",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-820327",
-    "name": "SVT2",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/pGWvCxp.png"
-  },
-  {
-    "site_id": "ch-940072",
-    "name": "Mezzo",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/auNdGeW.png"
-  },
-  {
-    "site_id": "ch-940118",
-    "name": "V sport ultra",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-819319",
-    "name": "Discovery Science",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"
-  },
-  {
-    "site_id": "ch-820639",
-    "name": "Al Jazeera English",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-901934",
-    "name": "Fight Sports",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/nV55veq.png"
-  },
-  {
-    "site_id": "ch-556706",
-    "name": "V film premiere",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/QdFKe21.png"
-  },
-  {
-    "site_id": "ch-816336",
-    "name": "V sport football",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/8zupSOw.png"
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
   },
   {
     "site_id": "ch-820384",
@@ -275,197 +336,16 @@
     "logo": "https://i.imgur.com/AeplGsP.png"
   },
   {
-    "site_id": "ch-802619",
-    "name": "France 24",
-    "lang": "fi",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "ch-816519",
-    "name": "Eurosport 2",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/f56dHgR.png"
-  },
-  {
-    "site_id": "ch-820143",
-    "name": "MTV 80s",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
-  },
-  {
-    "site_id": "ch-216366",
-    "name": "Nelonen",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/BFbCyfY.png"
-  },
-  {
-    "site_id": "ch-359767",
-    "name": "Yle Teema \u0026 Fem",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png"
-  },
-  {
-    "site_id": "ch-2352053",
-    "name": "Kuukauden kanava",
+    "site_id": "ch-7662268",
+    "name": "MTV Liiga 7",
     "lang": "fi"
   },
   {
-    "site_id": "ch-8761536",
-    "name": "onniTV",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-216396",
-    "name": "National Geographic",
+    "site_id": "ch-1424",
+    "name": "Viasat History",
     "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
-  },
-  {
-    "site_id": "ch-359757",
-    "name": "Yle TV2",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/4xkc6PL.png"
-  },
-  {
-    "site_id": "ch-816060",
-    "name": "V film family",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/K6fQ8pe.png"
-  },
-  {
-    "site_id": "ch-820286",
-    "name": "Club MTV",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/FD6eQI3.png"
-  },
-  {
-    "site_id": "ch-820622",
-    "name": "TV5MONDE EUROPE",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/rPAbMSu.png"
-  },
-  {
-    "site_id": "ch-307370",
-    "name": "SVT1",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/j6KusQX.png"
-  },
-  {
-    "site_id": "ch-816070",
-    "name": "V film hits",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/ga6EOsb.png"
-  },
-  {
-    "site_id": "ch-820431",
-    "name": "SVTB /SVT24",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-820523",
-    "name": "ZDF",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/rtLb6m9.png"
-  },
-  {
-    "site_id": "ch-816157",
-    "name": "V sport premium",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/BGXq2a4.png"
-  },
-  {
-    "site_id": "ch-819288",
-    "name": "Nat Geo Wild",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/HoeaQJC.png"
-  },
-  {
-    "site_id": "ch-823382",
-    "name": "Euronews",
-    "lang": "fi",
-    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg"
-  },
-  {
-    "site_id": "ch-823459",
-    "name": "Playboy TV",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/5di4Nis.png"
-  },
-  {
-    "site_id": "ch-296199",
-    "name": "MTV Urheilu 2",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/tgezMDk.png"
-  },
-  {
-    "site_id": "ch-819889",
-    "name": "CNN International",
-    "lang": "fi",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "ch-820221",
-    "name": "MTV Hits",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/x1zYoCW.png"
-  },
-  {
-    "site_id": "ch-820282",
-    "name": "MTV 90s",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/MTV_90s_2022.svg"
-  },
-  {
-    "site_id": "ch-18721608",
-    "name": "EVEO",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/fFIq7tY.png"
-  },
-  {
-    "site_id": "ch-816116",
-    "name": "Viasat Nature",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/mhyK4v1.png"
-  },
-  {
-    "site_id": "ch-549801",
-    "name": "JIM",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/PkMgY0K.png"
-  },
-  {
-    "site_id": "ch-816114",
-    "name": "Viasat Explore",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/R270aef.png"
-  },
-  {
-    "site_id": "ch-901948",
-    "name": "History",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png"
-  },
-  {
-    "site_id": "ch-56786",
-    "name": "MTV Aitio",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/1Fh5bMe.png"
-  },
-  {
-    "site_id": "ch-216400",
-    "name": "Kutonen",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/OiB7Opu.png"
-  },
-  {
-    "site_id": "ch-483208",
-    "name": "Viaplay 3 Urheilu",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-816728",
-    "name": "Ginx eSport TV",
-    "lang": "fi"
+    "xmltv_id": "ViasatHistory.fi",
+    "logo": "https://i.imgur.com/wRP9XA7.png"
   },
   {
     "site_id": "ch-820485",
@@ -474,88 +354,29 @@
     "logo": "https://i.imgur.com/ecXMjNl.png"
   },
   {
-    "site_id": "ch-820521",
-    "name": "RTL",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/94K94k2.png"
-  },
-  {
-    "site_id": "ch-820641",
-    "name": "Al Jazeera Arabic",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-901961",
-    "name": "MTV LIVE",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
-  },
-  {
-    "site_id": "ch-3353262",
-    "name": "DNA Extra",
-    "lang": "fi"
-  },
-  {
     "site_id": "ch-7662264",
     "name": "MTV Liiga 6",
     "lang": "fi"
   },
   {
-    "site_id": "ch-295480",
-    "name": "MTV Max",
+    "site_id": "ch-1118",
+    "name": "Yle TV1",
     "lang": "fi",
-    "logo": "https://i.imgur.com/0QB3OK1.png"
+    "xmltv_id": "YleTV1.fi",
+    "logo": "https://i.imgur.com/6yXZwUL.png"
   },
   {
-    "site_id": "ch-296147",
-    "name": "Eurosport 1",
+    "site_id": "ch-216394",
+    "name": "Frii",
     "lang": "fi",
-    "logo": "https://i.imgur.com/olQJgm7.png"
+    "xmltv_id": "Frii.fi",
+    "logo": "https://i.imgur.com/h3BAOAC.png"
   },
   {
-    "site_id": "ch-816405",
-    "name": "V sport live 3",
+    "site_id": "ch-816087",
+    "name": "V film action",
     "lang": "fi",
-    "logo": "https://i.imgur.com/enr8IAy.png"
-  },
-  {
-    "site_id": "ch-1424",
-    "name": "Viasat History",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/AnYgIvZ.png"
-  },
-  {
-    "site_id": "ch-86249",
-    "name": "STAR Channel",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"
-  },
-  {
-    "site_id": "ch-7662258",
-    "name": "MTV Liiga 4",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-7662268",
-    "name": "MTV Liiga 7",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-23672028",
-    "name": "Alfa",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-802611",
-    "name": "TV7",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/N2gSCGT.png"
-  },
-  {
-    "site_id": "ch-816418",
-    "name": "V sport live 4",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/yjIXL9k.png"
+    "logo": "https://i.imgur.com/So0mOF8.png"
   },
   {
     "site_id": "ch-816685",
@@ -564,21 +385,22 @@
     "logo": "https://i.imgur.com/I8mviBy.png"
   },
   {
-    "site_id": "ch-819259",
-    "name": "Toto TV",
-    "lang": "fi"
+    "site_id": "ch-819298",
+    "name": "ID",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
   },
   {
-    "site_id": "ch-820382",
-    "name": "TV3",
+    "site_id": "ch-819881",
+    "name": "Cartoon Network",
     "lang": "fi",
-    "logo": "https://i.imgur.com/sCr0h4N.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
   },
   {
-    "site_id": "ch-216356",
-    "name": "MTV3",
+    "site_id": "ch-820429",
+    "name": "TV6",
     "lang": "fi",
-    "logo": "https://i.imgur.com/C5rQbBM.png"
+    "logo": "https://i.imgur.com/nu0CpJn.png"
   },
   {
     "site_id": "ch-296180",
@@ -587,16 +409,16 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
   },
   {
-    "site_id": "ch-816402",
-    "name": "V sport live 2",
+    "site_id": "ch-819288",
+    "name": "Nat Geo Wild",
     "lang": "fi",
-    "logo": "https://i.imgur.com/mrYUeKy.png"
+    "logo": "https://i.imgur.com/HoeaQJC.png"
   },
   {
-    "site_id": "ch-820519",
-    "name": "Deutsche Welle",
+    "site_id": "ch-819319",
+    "name": "Discovery Science",
     "lang": "fi",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"
   },
   {
     "site_id": "ch-901963",
@@ -605,22 +427,238 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png"
   },
   {
-    "site_id": "ch-1118",
-    "name": "Yle TV1",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/6yXZwUL.png"
+    "site_id": "ch-452010",
+    "name": "Viaplay 2 Urheilu",
+    "lang": "fi"
   },
   {
-    "site_id": "ch-216403",
-    "name": "TV5",
+    "site_id": "ch-304785",
+    "name": "Discovery Channel",
     "lang": "fi",
-    "logo": "https://i.imgur.com/L2XfQG0.png"
+    "xmltv_id": "DiscoveryChannel.fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
   },
   {
-    "site_id": "ch-820141",
-    "name": "MTV 00s",
+    "site_id": "ch-307370",
+    "name": "SVT1",
     "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
+    "logo": "https://i.imgur.com/j6KusQX.png"
+  },
+  {
+    "site_id": "ch-820219",
+    "name": "MTV",
+    "lang": "fi",
+    "xmltv_id": "MTV.fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
+  },
+  {
+    "site_id": "ch-820521",
+    "name": "RTL",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/94K94k2.png"
+  },
+  {
+    "site_id": "ch-216356",
+    "name": "MTV3",
+    "lang": "fi",
+    "xmltv_id": "MTV3.fi",
+    "logo": "https://i.imgur.com/C5rQbBM.png"
+  },
+  {
+    "site_id": "ch-816418",
+    "name": "V sport live 4",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/yjIXL9k.png"
+  },
+  {
+    "site_id": "ch-819259",
+    "name": "Toto TV",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-820221",
+    "name": "MTV Hits",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/x1zYoCW.png"
+  },
+  {
+    "site_id": "ch-816399",
+    "name": "V sport live 1",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/KGm37xW.png"
+  },
+  {
+    "site_id": "ch-820431",
+    "name": "SVTB /SVT24",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-823382",
+    "name": "Euronews",
+    "lang": "fi",
+    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg"
+  },
+  {
+    "site_id": "ch-3353262",
+    "name": "DNA Extra",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-483208",
+    "name": "Viaplay 3 Urheilu",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-296199",
+    "name": "MTV Urheilu 2",
+    "lang": "fi",
+    "xmltv_id": "MTVUrheilu2.fi",
+    "logo": "https://i.imgur.com/tgezMDk.png"
+  },
+  {
+    "site_id": "ch-556706",
+    "name": "V film premiere",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/QdFKe21.png"
+  },
+  {
+    "site_id": "ch-940118",
+    "name": "V sport ultra",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-24850792",
+    "name": "Nicktoons",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
+  },
+  {
+    "site_id": "ch-816114",
+    "name": "Viasat Explore",
+    "lang": "fi",
+    "xmltv_id": "ViasatExplore.fi",
+    "logo": "https://i.imgur.com/DyT5pKB.png"
+  },
+  {
+    "site_id": "ch-901948",
+    "name": "History",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png"
+  },
+  {
+    "site_id": "ch-7662208",
+    "name": "MTV Liiga 2",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-7662261",
+    "name": "MTV Liiga 5",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-23672028",
+    "name": "Alfa",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-801557",
+    "name": "Iskuri.net",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-820286",
+    "name": "Club MTV",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/FD6eQI3.png"
+  },
+  {
+    "site_id": "ch-901961",
+    "name": "MTV LIVE",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
+  },
+  {
+    "site_id": "ch-940072",
+    "name": "Mezzo",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/auNdGeW.png"
+  },
+  {
+    "site_id": "ch-295480",
+    "name": "MTV Max",
+    "lang": "fi",
+    "xmltv_id": "MTVMax.fi",
+    "logo": "https://i.imgur.com/0QB3OK1.png"
+  },
+  {
+    "site_id": "ch-802611",
+    "name": "TV7",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/N2gSCGT.png"
+  },
+  {
+    "site_id": "ch-816728",
+    "name": "Ginx eSport TV",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-7293948",
+    "name": "Infokanava",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-7662271",
+    "name": "MTV Urheilu 3",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-8761536",
+    "name": "onniTV",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-820519",
+    "name": "Deutsche Welle",
+    "lang": "fi",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png"
+  },
+  {
+    "site_id": "ch-816712",
+    "name": "Nautical Channel",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/Sl8c9eB.png"
+  },
+  {
+    "site_id": "ch-820499",
+    "name": "3sat",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png"
+  },
+  {
+    "site_id": "ch-549944",
+    "name": "LIV",
+    "lang": "fi",
+    "xmltv_id": "Liv.fi",
+    "logo": "https://i.imgur.com/k6NsXBj.png"
+  },
+  {
+    "site_id": "ch-815633",
+    "name": "SF-kanalen",
+    "lang": "fi",
+    "xmltv_id": "SFkanalen.fi",
+    "logo": "https://i.imgur.com/YpnN63k.png"
+  },
+  {
+    "site_id": "ch-816060",
+    "name": "V film family",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/K6fQ8pe.png"
+  },
+  {
+    "site_id": "ch-820087",
+    "name": "Sky News",
+    "lang": "fi",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"
   },
   {
     "site_id": "ch-17520315",
@@ -628,44 +666,18 @@
     "lang": "fi"
   },
   {
-    "site_id": "ch-304785",
-    "name": "Discovery Channel",
+    "site_id": "ch-18721608",
+    "name": "EVEO",
     "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+    "xmltv_id": "Eveo.fi",
+    "logo": "https://i.imgur.com/fFIq7tY.png"
   },
   {
-    "site_id": "ch-820066",
-    "name": "BBC Nordic",
+    "site_id": "ch-216403",
+    "name": "TV5",
     "lang": "fi",
-    "logo": "https://i.imgur.com/pC4pZuz.jpg"
-  },
-  {
-    "site_id": "ch-820071",
-    "name": "BBC World News",
-    "lang": "fi",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/bbc-world-news-int.png"
-  },
-  {
-    "site_id": "ch-820633",
-    "name": "TVE Internacional",
-    "lang": "fi",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/international/tve-internacional-int.png"
-  },
-  {
-    "site_id": "ch-7662253",
-    "name": "MTV Liiga 3",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-816730",
-    "name": "Motorvision+ HD",
-    "lang": "fi"
-  },
-  {
-    "site_id": "ch-815633",
-    "name": "SF-kanalen",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/YpnN63k.png"
+    "xmltv_id": "TV5.fi",
+    "logo": "https://i.imgur.com/7tzaznY.png"
   },
   {
     "site_id": "ch-816355",
@@ -674,38 +686,56 @@
     "logo": "https://i.imgur.com/1vtjktv.png"
   },
   {
-    "site_id": "ch-820095",
-    "name": "Fashion TV",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/Bk7W39G.png"
-  },
-  {
-    "site_id": "ch-820433",
-    "name": "Kunskapskanalen",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/960px-Kunskapskanalen_2017.svg.png"
-  },
-  {
-    "site_id": "ch-296162",
-    "name": "MTV Urheilu 1",
-    "lang": "fi",
-    "logo": "https://i.imgur.com/b9jZgbd.png"
-  },
-  {
-    "site_id": "ch-816669",
-    "name": "DNA Infokanava",
+    "site_id": "ch-820641",
+    "name": "Al Jazeera Arabic",
     "lang": "fi"
   },
   {
-    "site_id": "ch-819808",
-    "name": "Disney Channel",
-    "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+    "site_id": "ch-7662272",
+    "name": "MTV Liiga UHD",
+    "lang": "fi"
   },
   {
-    "site_id": "ch-24850792",
-    "name": "Nicktoons",
+    "site_id": "ch-7662258",
+    "name": "MTV Liiga 4",
+    "lang": "fi"
+  },
+  {
+    "site_id": "ch-56786",
+    "name": "MTV Aitio",
     "lang": "fi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
+    "xmltv_id": "MTVAitio.fi",
+    "logo": "https://i.imgur.com/1Fh5bMe.png"
+  },
+  {
+    "site_id": "ch-816070",
+    "name": "V film hits",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/ga6EOsb.png"
+  },
+  {
+    "site_id": "ch-820143",
+    "name": "MTV 80s",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
+  },
+  {
+    "site_id": "ch-820622",
+    "name": "TV5MONDE EUROPE",
+    "lang": "fi",
+    "logo": "https://i.imgur.com/rPAbMSu.png"
+  },
+  {
+    "site_id": "ch-216370",
+    "name": "MTV Ava",
+    "lang": "fi",
+    "xmltv_id": "MTVAva.fi",
+    "logo": "https://i.imgur.com/WxNCiAk.png"
+  },
+  {
+    "site_id": "ch-820141",
+    "name": "MTV 00s",
+    "lang": "fi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
   }
 ]

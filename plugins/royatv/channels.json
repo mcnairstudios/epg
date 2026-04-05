@@ -1,12 +1,5 @@
 [
   {
-    "site_id": "1",
-    "name": "Roya TV",
-    "lang": "ar",
-    "xmltv_id": "RoyaTV.jo@SD",
-    "logo": "https://i.imgur.com/WX80rty.png"
-  },
-  {
     "site_id": "2",
     "name": "Roya Drama",
     "lang": "ar",
@@ -35,11 +28,11 @@
     "logo": "https://i.imgur.com/acuCGF8.png"
   },
   {
-    "site_id": "25",
-    "name": "Roya Music",
+    "site_id": "21",
+    "name": "Roya News",
     "lang": "ar",
-    "xmltv_id": "RoyaMusic.jo@SD",
-    "logo": "https://i.imgur.com/7ixeqBF.png"
+    "xmltv_id": "RoyaNews.jo@SD",
+    "logo": "https://i.imgur.com/afowXIe.png"
   },
   {
     "site_id": "27",
@@ -49,20 +42,27 @@
     "logo": "https://i.imgur.com/3wIzEcs.png"
   },
   {
+    "site_id": "48",
+    "name": "Roya Sport",
+    "lang": "ar"
+  },
+  {
+    "site_id": "25",
+    "name": "Roya Music",
+    "lang": "ar",
+    "xmltv_id": "RoyaMusic.jo@SD",
+    "logo": "https://i.imgur.com/7ixeqBF.png"
+  },
+  {
     "site_id": "38",
     "name": "رؤيا فلسطين",
     "lang": "ar"
   },
   {
-    "site_id": "21",
-    "name": "Roya News",
+    "site_id": "1",
+    "name": "Roya TV",
     "lang": "ar",
-    "xmltv_id": "RoyaNews.jo@SD",
-    "logo": "https://i.imgur.com/afowXIe.png"
-  },
-  {
-    "site_id": "48",
-    "name": "Roya Sport",
-    "lang": "ar"
+    "xmltv_id": "RoyaTV.jo@SD",
+    "logo": "https://i.imgur.com/WX80rty.png"
   }
 ]
