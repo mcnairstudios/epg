@@ -1,0 +1,532 @@
+[
+  {
+    "site_id": "py#a-e-mundo",
+    "name": "A&E",
+    "lang": "es",
+    "xmltv_id": "AE.au@SD"
+  },
+  {
+    "site_id": "py#abc-tv",
+    "name": "ABC TV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "py#america-24",
+    "name": "America 24",
+    "lang": "es",
+    "xmltv_id": "A24.ar@SD"
+  },
+  {
+    "site_id": "py#america-television",
+    "name": "AMÉRICA TELEVISION",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "py#animal-planet",
+    "name": "Animal Planet",
+    "lang": "es",
+    "xmltv_id": "AnimalPlanet.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/animal-planet-us.png"
+  },
+  {
+    "site_id": "py#axn",
+    "name": "AXN",
+    "lang": "es",
+    "xmltv_id": "AXNLatinAmerica.us@Andes"
+  },
+  {
+    "site_id": "py#az-corazon",
+    "name": "Az Corazón",
+    "lang": "es",
+    "xmltv_id": "AzCorazon.mx@SD"
+  },
+  {
+    "site_id": "py#canal-5-paravision",
+    "name": "Paravisión",
+    "lang": "es",
+    "xmltv_id": "Paravision.py@SD"
+  },
+  {
+    "site_id": "py#canal-9-snt",
+    "name": "SNT",
+    "lang": "es",
+    "xmltv_id": "SNT.py@SD"
+  },
+  {
+    "site_id": "py#canal-13",
+    "name": "RPC",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "py#canal-de-las-estrellas",
+    "name": "Las Estrellas",
+    "lang": "es",
+    "xmltv_id": "LasEstrellasLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "py#caracol-internacional",
+    "name": "Caracol Internacional",
+    "lang": "es",
+    "xmltv_id": "CaracolInternacional.co@SD"
+  },
+  {
+    "site_id": "py#cartoon-network",
+    "name": "Cartoon Network",
+    "lang": "es",
+    "xmltv_id": "CartoonNetworkLatinAmerica.us@NorthAtlantic"
+  },
+  {
+    "site_id": "py#cine-latino",
+    "name": "Cinelatino",
+    "lang": "es",
+    "xmltv_id": "CineLatino.mx@SD"
+  },
+  {
+    "site_id": "py#cinecanal",
+    "name": "Cinecanal",
+    "lang": "es",
+    "xmltv_id": "Cinecanal.us@Panregional"
+  },
+  {
+    "site_id": "py#cnn-en-espanol",
+    "name": "CNN en Español",
+    "lang": "es",
+    "xmltv_id": "CNNenEspanol.us@SD"
+  },
+  {
+    "site_id": "py#comedy-central",
+    "name": "Comedy Central",
+    "lang": "es",
+    "xmltv_id": "ComedyCentralLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "py#dhe",
+    "name": "DHE",
+    "lang": "es",
+    "xmltv_id": "DHE.us@SD"
+  },
+  {
+    "site_id": "py#discovery",
+    "name": "Discovery Channel",
+    "lang": "es",
+    "xmltv_id": "DiscoveryChannelLatinAmerica.us@Brazil"
+  },
+  {
+    "site_id": "py#discovery-kids",
+    "name": "Discovery Kids",
+    "lang": "es",
+    "xmltv_id": "DiscoveryKidsLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "py#discovery-turbo",
+    "name": "Discovery Turbo",
+    "lang": "es",
+    "xmltv_id": "DiscoveryTurboLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "py#discovery-world-hd",
+    "name": "Discovery World",
+    "lang": "es",
+    "xmltv_id": "DiscoveryWorld.us@LatinAmerica"
+  },
+  {
+    "site_id": "py#disney",
+    "name": "Disney Channel",
+    "lang": "es",
+    "xmltv_id": "DisneyChannelLatinAmerica.ar@South"
+  },
+  {
+    "site_id": "py#disney-multicountry",
+    "name": "Disney Channel",
+    "lang": "es",
+    "xmltv_id": "DisneyChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/disney-channel-us.png"
+  },
+  {
+    "site_id": "py#disney-xd",
+    "name": "Disney XD",
+    "lang": "es",
+    "xmltv_id": "DisneyXD.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/disney-xd-us.png"
+  },
+  {
+    "site_id": "py#el-trece",
+    "name": "El Trece",
+    "lang": "es",
+    "xmltv_id": "ElTreceInternacionalLatinAmerica.ar@SD"
+  },
+  {
+    "site_id": "py#enlace-tbn",
+    "name": "Enlace",
+    "lang": "es",
+    "xmltv_id": "Enlace.cr@SD"
+  },
+  {
+    "site_id": "py#espn",
+    "name": "ESPN",
+    "lang": "es",
+    "xmltv_id": "ESPN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-us.png"
+  },
+  {
+    "site_id": "py#espn-1",
+    "name": "ESPN 2",
+    "lang": "es",
+    "xmltv_id": "ESPN2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-2-us.png"
+  },
+  {
+    "site_id": "py#espn-3",
+    "name": "ESPN 3",
+    "lang": "es",
+    "xmltv_id": "ESPN3.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-3-us.png"
+  },
+  {
+    "site_id": "py#fox",
+    "name": "Star Channel",
+    "lang": "es",
+    "xmltv_id": "StarChannelLatinAmerica.us@South"
+  },
+  {
+    "site_id": "py#fox-1-hd",
+    "name": "Star Series HD",
+    "lang": "es",
+    "xmltv_id": "StarSeries.us@SD"
+  },
+  {
+    "site_id": "py#fox-action-hd",
+    "name": "Star Action HD",
+    "lang": "es",
+    "xmltv_id": "StarAction.us@SD"
+  },
+  {
+    "site_id": "py#fox-comedy-hd",
+    "name": "Star Comedy HD",
+    "lang": "es",
+    "xmltv_id": "StarComedy.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/star-comedy-pt.png"
+  },
+  {
+    "site_id": "py#fox-family-hd",
+    "name": "Star Fun HD",
+    "lang": "es",
+    "xmltv_id": "StarFunPlus3.us@SD"
+  },
+  {
+    "site_id": "py#fox-hd",
+    "name": "Star Channel HD",
+    "lang": "es",
+    "xmltv_id": "StarChannelLatinAmerica.us@South"
+  },
+  {
+    "site_id": "py#fox-movies-hd",
+    "name": "Star Hits HD",
+    "lang": "es",
+    "xmltv_id": "StarHits.us@SD"
+  },
+  {
+    "site_id": "py#fox-sports",
+    "name": "FOX Sports",
+    "lang": "es",
+    "xmltv_id": "FoxSportsLatinAmerica.us@South"
+  },
+  {
+    "site_id": "py#fox-sports-3",
+    "name": "FOX Sports 3",
+    "lang": "es",
+    "xmltv_id": "FoxSports3LatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "py#fx",
+    "name": "FX",
+    "lang": "es",
+    "xmltv_id": "FXLatinAmerica.us@South"
+  },
+  {
+    "site_id": "py#gol-tv",
+    "name": "Gol TV",
+    "lang": "es",
+    "xmltv_id": "GolTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "py#golden",
+    "name": "Golden",
+    "lang": "es",
+    "xmltv_id": "Golden.mx@Panregional",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/golden-mx.png"
+  },
+  {
+    "site_id": "py#hbo",
+    "name": "HBO",
+    "lang": "es",
+    "xmltv_id": "HBOLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "py#hbo-hd-este",
+    "name": "HBO HD",
+    "lang": "es",
+    "xmltv_id": "HBOLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "py#hbo-plus-este",
+    "name": "HBO Plus Este",
+    "lang": "es",
+    "xmltv_id": "HBOPlusLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "py#hbo-signature",
+    "name": "HBO Signature",
+    "lang": "es",
+    "xmltv_id": "HBOSignatureLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "py#hei-network",
+    "name": "HEi Network",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "py#hei-network-hd",
+    "name": "HEi Network HD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "py#history",
+    "name": "History",
+    "lang": "es",
+    "xmltv_id": "HistoryChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/history-channel-us.png"
+  },
+  {
+    "site_id": "py#htv",
+    "name": "HTV",
+    "lang": "es",
+    "xmltv_id": "HTV.us@SD"
+  },
+  {
+    "site_id": "py#la-tele",
+    "name": "latele",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "py#max",
+    "name": "HBO Mundi",
+    "lang": "es",
+    "xmltv_id": "HBOMundiLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "py#max-up",
+    "name": "HBO Pop",
+    "lang": "es",
+    "xmltv_id": "HBOPopLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "py#mtv",
+    "name": "MTV",
+    "lang": "es",
+    "xmltv_id": "MTVLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "py#multipremier",
+    "name": "Multipremier",
+    "lang": "es",
+    "xmltv_id": "MultiPremier.mx@SD"
+  },
+  {
+    "site_id": "py#national-geographic",
+    "name": "National Geographic",
+    "lang": "es",
+    "xmltv_id": "NationalGeographicLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "py#paraguay-tv",
+    "name": "Paraguay TV",
+    "lang": "es",
+    "xmltv_id": "ParaguayTV.py@SD"
+  },
+  {
+    "site_id": "py#parana-tv",
+    "name": "C9N",
+    "lang": "es",
+    "xmltv_id": "C9N.py@SD"
+  },
+  {
+    "site_id": "py#playboy",
+    "name": "Playboy",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "py#red-guarani",
+    "name": "Red Guaraní",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "py#russia-today-hd",
+    "name": "Russia Today HD",
+    "lang": "es",
+    "xmltv_id": "RTenEspanol.ru@SD"
+  },
+  {
+    "site_id": "py#sony",
+    "name": "Sony",
+    "lang": "es",
+    "xmltv_id": "SonyChannel.us@SD"
+  },
+  {
+    "site_id": "py#sony-hd",
+    "name": "Sony HD",
+    "lang": "es",
+    "xmltv_id": "SonyChannel.us@SD"
+  },
+  {
+    "site_id": "py#space",
+    "name": "Space",
+    "lang": "es",
+    "xmltv_id": "Space.ar@Panregional",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/space-ar.png"
+  },
+  {
+    "site_id": "py#studio-universal",
+    "name": "Studio Universal",
+    "lang": "es",
+    "xmltv_id": "StudioUniversalLatinAmerica.us@South"
+  },
+  {
+    "site_id": "py#sur-tv",
+    "name": "Sur TV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "py#teleamiga",
+    "name": "TeleAmiga",
+    "lang": "es",
+    "xmltv_id": "TeleAmiga.co@SD"
+  },
+  {
+    "site_id": "py#telecafe",
+    "name": "Telecafé",
+    "lang": "es",
+    "xmltv_id": "Telecafe.co@SD"
+  },
+  {
+    "site_id": "py#telefe-internacional",
+    "name": "Telefe Internacional",
+    "lang": "es",
+    "xmltv_id": "TelefeInternacional.ar@SD"
+  },
+  {
+    "site_id": "py#telefuturo",
+    "name": "Telefuturo",
+    "lang": "es",
+    "xmltv_id": "Telefuturo.py@SD"
+  },
+  {
+    "site_id": "py#telemundo",
+    "name": "Telemundo",
+    "lang": "es",
+    "xmltv_id": "TelemundoInternacional.us@CentralAmerica"
+  },
+  {
+    "site_id": "py#tigo-sports",
+    "name": "Tigo Sports",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "py#tlnovelas",
+    "name": "TLNovelas",
+    "lang": "es",
+    "xmltv_id": "TlnovelasLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "py#tnt",
+    "name": "TNT",
+    "lang": "es",
+    "xmltv_id": "TNTLatinAmerica.us@South"
+  },
+  {
+    "site_id": "py#tnt-series",
+    "name": "TNT Series",
+    "lang": "es",
+    "xmltv_id": "TNTSeriesLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "py#tooncast",
+    "name": "Tooncast",
+    "lang": "es",
+    "xmltv_id": "Tooncast.us@SD"
+  },
+  {
+    "site_id": "py#tvs",
+    "name": "TVS",
+    "lang": "es",
+    "xmltv_id": "TVS.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvs-pl.png"
+  },
+  {
+    "site_id": "py#tvs-hd",
+    "name": "TVS HD",
+    "lang": "es",
+    "xmltv_id": "TVS.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvs-pl.png"
+  },
+  {
+    "site_id": "py#tyc-sports",
+    "name": "TyC Sports",
+    "lang": "es",
+    "xmltv_id": "TyCSportsLatinAmerica.ar@Panregional"
+  },
+  {
+    "site_id": "py#unicanal",
+    "name": "Unicanal",
+    "lang": "es",
+    "xmltv_id": "Unicanal.py@SD"
+  },
+  {
+    "site_id": "py#universal-channel",
+    "name": "Universal TV",
+    "lang": "es",
+    "xmltv_id": "UniversalTVLatinAmerica.us@South"
+  },
+  {
+    "site_id": "py#universal-channel-hd",
+    "name": "Universal Channel HD",
+    "lang": "es",
+    "xmltv_id": "UniversalTVLatinAmerica.us@Brazil"
+  },
+  {
+    "site_id": "py#univision",
+    "name": "Univision",
+    "lang": "es",
+    "xmltv_id": "Univision.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/univision-us.png"
+  },
+  {
+    "site_id": "py#venus",
+    "name": "Venus",
+    "lang": "es",
+    "xmltv_id": "Venus.ar@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/venus-ar.png"
+  },
+  {
+    "site_id": "py#warner",
+    "name": "Warner Channel",
+    "lang": "es",
+    "xmltv_id": "WarnerChannel.us@South"
+  },
+  {
+    "site_id": "py#warner-channel",
+    "name": "Warner Channel",
+    "lang": "es",
+    "xmltv_id": "WarnerChannel.us@South"
+  }
+]

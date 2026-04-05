@@ -1,0 +1,660 @@
+[
+  {
+    "site_id": "PA1#Canal.2.de.Panamá.(TVN-2).pa",
+    "name": "Canal 2 de Panamá (TVN-2)",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PA1#Canal.4.de.Panamá.(RPC.TV).pa",
+    "name": "Canal 4 de Panamá (RPC TV)",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PA1#Canal.7.de.Costa.Rica.(Teletica).pa",
+    "name": "Canal 7 de Costa Rica (Teletica)",
+    "lang": "es",
+    "xmltv_id": "Teletica7.cr@SD"
+  },
+  {
+    "site_id": "PA1#Canal.9.de.Panamá.(TVMax).pa",
+    "name": "Canal 9 de Panamá (TVMax)",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PA1#Canal.13.de.Panamá.(Telemetro).pa",
+    "name": "Canal 13 de Panamá (Telemetro)",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PA1#Canal.24.Horas.(TVE).pa",
+    "name": "Canal 24 Horas (TVE)",
+    "lang": "es",
+    "xmltv_id": "Canal24Horas.es@SD"
+  },
+  {
+    "site_id": "PA1#Canal.¡HOLA!.TV.pa",
+    "name": "Canal ¡HOLA! TV",
+    "lang": "es",
+    "xmltv_id": "HolaTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.A&E.(Panamá).pa",
+    "name": "Canal A&amp;E (Panamá)",
+    "lang": "es",
+    "xmltv_id": "AELatinAmerica.us@South"
+  },
+  {
+    "site_id": "PA1#Canal.Animal.Planet.(Panamá).pa",
+    "name": "Canal Animal Planet (Panamá)",
+    "lang": "es",
+    "xmltv_id": "AnimalPlanetLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Antena.3.pa",
+    "name": "Canal Antena 3",
+    "lang": "es",
+    "xmltv_id": "Antena3Internacional.es@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Atreseries.(Internacional).pa",
+    "name": "Canal Atreseries (Internacional)",
+    "lang": "es",
+    "xmltv_id": "Atreseries.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/atreseries-es.png"
+  },
+  {
+    "site_id": "PA1#Canal.AXN.(Panamá).pa",
+    "name": "Canal AXN (Panamá)",
+    "lang": "es",
+    "xmltv_id": "AXNLatinAmerica.us@Andes"
+  },
+  {
+    "site_id": "PA1#Canal.Baby.TV.(Latinoamérica).pa",
+    "name": "Canal Baby TV (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "BabyTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/baby-tv-uk.png"
+  },
+  {
+    "site_id": "PA1#Canal.BabyFirst.TV.pa",
+    "name": "Canal BabyFirst TV",
+    "lang": "es",
+    "xmltv_id": "BabyFirst.us@US"
+  },
+  {
+    "site_id": "PA1#Canal.BBC.World.News.pa",
+    "name": "Canal BBC World News",
+    "lang": "es",
+    "xmltv_id": "BBCNews.uk@LatinAmerica",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "PA1#Canal.BitMe.pa",
+    "name": "Canal BitMe",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PA1#Canal.Bloomberg.pa",
+    "name": "Canal Bloomberg",
+    "lang": "es",
+    "xmltv_id": "Bloomberg.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Caracol.Internacional.pa",
+    "name": "Canal Caracol Internacional",
+    "lang": "es",
+    "xmltv_id": "CaracolInternacional.co@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Cartoon.Network.(Panamá).pa",
+    "name": "Canal Cartoon Network (Panamá)",
+    "lang": "es",
+    "xmltv_id": "CartoonNetworkLatinAmerica.us@NorthAtlantic"
+  },
+  {
+    "site_id": "PA1#Canal.Cartoonito.(Panamá).pa",
+    "name": "Canal Cartoonito (Panamá)",
+    "lang": "es",
+    "xmltv_id": "CartoonitoLatinAmerica.us@Argentine"
+  },
+  {
+    "site_id": "PA1#Canal.Cinecanal.(Panamá).pa",
+    "name": "Canal Cinecanal (Panamá)",
+    "lang": "es",
+    "xmltv_id": "Cinecanal.us@HD"
+  },
+  {
+    "site_id": "PA1#Canal.Cinelatino.pa",
+    "name": "Canal Cinelatino",
+    "lang": "es",
+    "xmltv_id": "CineLatino.mx@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Cinemax.(Panamá).pa",
+    "name": "Canal Cinemax (Panamá)",
+    "lang": "es",
+    "xmltv_id": "CinemaxLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.CNN.en.Español.pa",
+    "name": "Canal CNN en Español",
+    "lang": "es",
+    "xmltv_id": "CNNenEspanol.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.CNN.Internacional.pa",
+    "name": "Canal CNN Internacional",
+    "lang": "es",
+    "xmltv_id": "CNN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnn-us.png"
+  },
+  {
+    "site_id": "PA1#Canal.Comedy.Central.(Panamá).pa",
+    "name": "Canal Comedy Central (Panamá)",
+    "lang": "es",
+    "xmltv_id": "ComedyCentralLatinAmerica.us@Brazil"
+  },
+  {
+    "site_id": "PA1#Canal.DHE.pa",
+    "name": "Canal DHE",
+    "lang": "es",
+    "xmltv_id": "DHE.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Discovery.Channel.(Panamá).pa",
+    "name": "Canal Discovery Channel (Panamá)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryChannelLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.Discovery.Home.&.Health.(Panamá).pa",
+    "name": "Canal Discovery Home &amp; Health (Panamá)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryHomeHealthLatinAmerica.mx@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.Discovery.Kids.(Panamá).pa",
+    "name": "Canal Discovery Kids (Panamá)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryKidsLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.Discovery.Science.(Latinoamérica).pa",
+    "name": "Canal Discovery Science (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryScienceLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Discovery.Theater.(Latinoamérica).pa",
+    "name": "Canal Discovery Theater (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryWorld.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Discovery.Turbo.(Latinoamérica).pa",
+    "name": "Canal Discovery Turbo (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryTurbo.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-turbo-uk.png"
+  },
+  {
+    "site_id": "PA1#Canal.Discovery.World.Latinoamérica.pa",
+    "name": "Canal Discovery World Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "DiscoveryWorld.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Disney.Channel.(Panamá).pa",
+    "name": "Canal Disney Channel (Panamá)",
+    "lang": "es",
+    "xmltv_id": "DisneyChannelLatinAmerica.ar@Center"
+  },
+  {
+    "site_id": "PA1#Canal.Disney.Junior.(Panamá).pa",
+    "name": "Canal Disney Junior (Panamá)",
+    "lang": "es",
+    "xmltv_id": "DisneyJrLatinAmerica.ar@North"
+  },
+  {
+    "site_id": "PA1#Canal.DW.(Latinoamérica).pa",
+    "name": "Canal DW (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "DW.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
+  },
+  {
+    "site_id": "PA1#Canal.E!.Entertainment.Television.(Panamá).pa",
+    "name": "Canal E! Entertainment Television (Panamá)",
+    "lang": "es",
+    "xmltv_id": "AELatinAmerica.us@South"
+  },
+  {
+    "site_id": "PA1#Canal.Enlace.(TBN).pa",
+    "name": "Canal Enlace (TBN)",
+    "lang": "es",
+    "xmltv_id": "Enlace.cr@SD"
+  },
+  {
+    "site_id": "PA1#Canal.ESPN.2.(Panamá).pa",
+    "name": "Canal ESPN 2 (Panamá)",
+    "lang": "es",
+    "xmltv_id": "ESPN2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-2-us.png"
+  },
+  {
+    "site_id": "PA1#Canal.ESPN.3.(Panamá).pa",
+    "name": "Canal ESPN 3 (Panamá)",
+    "lang": "es",
+    "xmltv_id": "ESPN3.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-3-us.png"
+  },
+  {
+    "site_id": "PA1#Canal.ESPN.4.(Panamá).pa",
+    "name": "Canal ESPN 4 (Panamá)",
+    "lang": "es",
+    "xmltv_id": "ESPN4.us@HD"
+  },
+  {
+    "site_id": "PA1#Canal.ESPN.(Panamá).pa",
+    "name": "Canal ESPN (Panamá)",
+    "lang": "es",
+    "xmltv_id": "ESPN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-us.png"
+  },
+  {
+    "site_id": "PA1#Canal.EWTN.en.Español.pa",
+    "name": "Canal EWTN en Español",
+    "lang": "es",
+    "xmltv_id": "EWTN.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Fox.News.pa",
+    "name": "Canal Fox News",
+    "lang": "es",
+    "xmltv_id": "FoxNewsChannel.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.FX.(Panamá).pa",
+    "name": "Canal FX (Panamá)",
+    "lang": "es",
+    "xmltv_id": "FXLatinAmerica.us@South"
+  },
+  {
+    "site_id": "PA1#Canal.Galicia.TV.pa",
+    "name": "Canal Galicia TV",
+    "lang": "es",
+    "xmltv_id": "GaliciaTVAmerica.es@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Golden.(Panamá).pa",
+    "name": "Canal Golden (Panamá)",
+    "lang": "es",
+    "xmltv_id": "Golden.mx@Panregional",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/golden-mx.png"
+  },
+  {
+    "site_id": "PA1#Canal.Golden.Edge.pa",
+    "name": "Canal Golden Edge",
+    "lang": "es",
+    "xmltv_id": "GoldenEdge.mx@Panregional",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/golden-edge-mx.png"
+  },
+  {
+    "site_id": "PA1#Canal.Golden.Premier.2.pa",
+    "name": "Canal Golden Premier 2",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PA1#Canal.Golden.Premier.pa",
+    "name": "Canal Golden Premier",
+    "lang": "es",
+    "xmltv_id": "GoldenPremier.mx@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/golden-premier-mx.png"
+  },
+  {
+    "site_id": "PA1#Canal.Golf.Channel.(Latinoamérica).pa",
+    "name": "Canal Golf Channel (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "GolfChannelLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.GolTV.Latinoamérica.pa",
+    "name": "Canal GolTV Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "GolTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.HBO.2.Latinoamérica.pa",
+    "name": "Canal HBO 2 Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "HBO2LatinAmerica.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.HBO.Family.Latinoamérica.pa",
+    "name": "Canal HBO Family Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "HBOFamily.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hbo-family-us.png"
+  },
+  {
+    "site_id": "PA1#Canal.HBO.Mundi.pa",
+    "name": "Canal HBO Mundi",
+    "lang": "es",
+    "xmltv_id": "HBOMundi.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.HBO.Plus.pa",
+    "name": "Canal HBO Plus",
+    "lang": "es",
+    "xmltv_id": "HBOPlus.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.HBO.Pop.pa",
+    "name": "Canal HBO Pop",
+    "lang": "es",
+    "xmltv_id": "HBOPop.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.HBO.Signature.Latinoamérica.pa",
+    "name": "Canal HBO Signature Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "HBOSignature.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.HBO.Xtreme.pa",
+    "name": "Canal HBO Xtreme",
+    "lang": "es",
+    "xmltv_id": "HBOXtreme.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.History.2.(Panamá).pa",
+    "name": "Canal History 2 (Panamá)",
+    "lang": "es",
+    "xmltv_id": "History2LatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.History.2.(Panregional).pa",
+    "name": "Canal History 2 (Panregional)",
+    "lang": "es",
+    "xmltv_id": "History2LatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.History.(Panamá).pa",
+    "name": "Canal History (Panamá)",
+    "lang": "es",
+    "xmltv_id": "HistoryLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.HTV.pa",
+    "name": "Canal HTV",
+    "lang": "es",
+    "xmltv_id": "HTV.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Investigation.Discovery.(Panregional).pa",
+    "name": "Canal Investigation Discovery (Panregional)",
+    "lang": "es",
+    "xmltv_id": "InvestigationDiscoveryLatinAmerica.us@South"
+  },
+  {
+    "site_id": "PA1#Canal.Las.Estrellas.(Panamá).pa",
+    "name": "Canal Las Estrellas (Panamá)",
+    "lang": "es",
+    "xmltv_id": "LasEstrellasLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Lifetime.(Panamá).pa",
+    "name": "Canal Lifetime (Panamá)",
+    "lang": "es",
+    "xmltv_id": "LifetimeLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.María.Visión.pa",
+    "name": "Canal María Visión",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PA1#Canal.MTV.(Panamá).pa",
+    "name": "Canal MTV (Panamá)",
+    "lang": "es",
+    "xmltv_id": "MTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-us.png"
+  },
+  {
+    "site_id": "PA1#Canal.MTV.Live.HD.pa",
+    "name": "Canal MTV Live HD",
+    "lang": "es",
+    "xmltv_id": "MTVLive.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-live-us.png"
+  },
+  {
+    "site_id": "PA1#Canal.Multipremier.pa",
+    "name": "Canal Multipremier",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PA1#Canal.National.Geographic.(Panamá).pa",
+    "name": "Canal National Geographic (Panamá)",
+    "lang": "es",
+    "xmltv_id": "NationalGeographicLatinAmerica.us@South"
+  },
+  {
+    "site_id": "PA1#Canal.NFL.Network.pa",
+    "name": "Canal NFL Network",
+    "lang": "es",
+    "xmltv_id": "NFLNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nfl-network-us.png"
+  },
+  {
+    "site_id": "PA1#Canal.NHK.World.pa",
+    "name": "Canal NHK World",
+    "lang": "es",
+    "xmltv_id": "NHKWorld.jp@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Nick.Jr..(Panamá).pa",
+    "name": "Canal Nick Jr. (Panamá)",
+    "lang": "es",
+    "xmltv_id": "NickJrLatinAmerica.us@South"
+  },
+  {
+    "site_id": "PA1#Canal.Nickelodeon.(Panamá).pa",
+    "name": "Canal Nickelodeon (Panamá)",
+    "lang": "es",
+    "xmltv_id": "NickelodeonLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).pa",
+    "name": "Canal NTN24 (Nuestra Tele Noticias 24 Horas)",
+    "lang": "es",
+    "xmltv_id": "NTN24.co@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Paramount.Channel.(Panamá).pa",
+    "name": "Canal Paramount Channel (Panamá)",
+    "lang": "es",
+    "xmltv_id": "ParamountNetworkLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.Pasiones.(Panregional).pa",
+    "name": "Canal Pasiones (Panregional)",
+    "lang": "es",
+    "xmltv_id": "PasionesLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.RAI.International.pa",
+    "name": "Canal RAI International",
+    "lang": "es",
+    "xmltv_id": "RaiItalia.it@SD"
+  },
+  {
+    "site_id": "PA1#Canal.RCN.Novelas.pa",
+    "name": "Canal RCN Novelas",
+    "lang": "es",
+    "xmltv_id": "RCNNovelas.co@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Real.Madrid.TV.pa",
+    "name": "Canal Real Madrid TV",
+    "lang": "es",
+    "xmltv_id": "RealMadridTV.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/real-madrid-tv-es.png"
+  },
+  {
+    "site_id": "PA1#Canal.Sony.(Panamá).pa",
+    "name": "Canal Sony (Panamá)",
+    "lang": "es",
+    "xmltv_id": "SonyChannel.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Space.(Panamá).pa",
+    "name": "Canal Space (Panamá)",
+    "lang": "es",
+    "xmltv_id": "Space.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Star.Channel.(Panamá).pa",
+    "name": "Canal Star Channel (Panamá)",
+    "lang": "es",
+    "xmltv_id": "StarChannel.br@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/star-channel-br.png"
+  },
+  {
+    "site_id": "PA1#Canal.Studio.Universal.(Panamá).pa",
+    "name": "Canal Studio Universal (Panamá)",
+    "lang": "es",
+    "xmltv_id": "StudioUniversalLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.Sun.Channel.pa",
+    "name": "Canal Sun Channel",
+    "lang": "es",
+    "xmltv_id": "SunChannel.ve@SD"
+  },
+  {
+    "site_id": "PA1#Canal.TCM.(Panamá).pa",
+    "name": "Canal TCM (Panamá)",
+    "lang": "es",
+    "xmltv_id": "TCMCinema.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tcm-cinema-fr.png"
+  },
+  {
+    "site_id": "PA1#Canal.Telemundo.(Panamá).pa",
+    "name": "Canal Telemundo (Panamá)",
+    "lang": "es",
+    "xmltv_id": "TelemundoInternacional.us@CentralAmerica"
+  },
+  {
+    "site_id": "PA1#Canal.TLC.(Panamá).pa",
+    "name": "Canal TLC (Panamá)",
+    "lang": "es",
+    "xmltv_id": "TLCLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.TLNovelas.(Panamá).pa",
+    "name": "Canal TLNovelas (Panamá)",
+    "lang": "es",
+    "xmltv_id": "TLNovelas.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.TNT.(Panamá).pa",
+    "name": "Canal TNT (Panamá)",
+    "lang": "es",
+    "xmltv_id": "TNT.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tnt-us.png"
+  },
+  {
+    "site_id": "PA1#Canal.TNT.Novelas.(Panamá).pa",
+    "name": "Canal TNT Novelas (Panamá)",
+    "lang": "es",
+    "xmltv_id": "TNTNovelas.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.TNT.Series.(Panamá).pa",
+    "name": "Canal TNT Series (Panamá)",
+    "lang": "es",
+    "xmltv_id": "TNTSeriesLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "PA1#Canal.Tooncast.pa",
+    "name": "Canal Tooncast",
+    "lang": "es",
+    "xmltv_id": "Tooncast.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.TUDN.(Panamá).pa",
+    "name": "Canal TUDN (Panamá)",
+    "lang": "es",
+    "xmltv_id": "TUDN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tudn-us.png"
+  },
+  {
+    "site_id": "PA1#Canal.TV5MONDE.pa",
+    "name": "Canal TV5MONDE",
+    "lang": "es",
+    "xmltv_id": "TV5Monde.fr@SD"
+  },
+  {
+    "site_id": "PA1#Canal.TV.Agro.Centroamérica.pa",
+    "name": "Canal TV Agro Centroamérica",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PA1#Canal.TV.Chile.pa",
+    "name": "Canal TV Chile",
+    "lang": "es",
+    "xmltv_id": "TVChile.cl@SD"
+  },
+  {
+    "site_id": "PA1#Canal.TV.Globo.Internacional.pa",
+    "name": "Canal TV Globo Internacional",
+    "lang": "es",
+    "xmltv_id": "TVGloboInternacionalAmericas.br@SD"
+  },
+  {
+    "site_id": "PA1#Canal.TVE.Internacional.(Televisión.Española).pa",
+    "name": "Canal TVE Internacional (Televisión Española)",
+    "lang": "es",
+    "xmltv_id": "TVEInternacional.es@SD"
+  },
+  {
+    "site_id": "PA1#Canal.TyC.Sports.pa",
+    "name": "Canal TyC Sports",
+    "lang": "es",
+    "xmltv_id": "TyCSports.ar@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Universal.TV.(Panamá).pa",
+    "name": "Canal Universal TV (Panamá)",
+    "lang": "es",
+    "xmltv_id": "UniversalTVLatinAmerica.us@Colombia"
+  },
+  {
+    "site_id": "PA1#Canal.USA.Network.(Panamá).pa",
+    "name": "Canal USA Network (Panamá)",
+    "lang": "es",
+    "xmltv_id": "USANetwork.us@SD"
+  },
+  {
+    "site_id": "PA1#Canal.Warner.TV.(Panamá).pa",
+    "name": "Canal Warner TV (Panamá)",
+    "lang": "es",
+    "xmltv_id": "WarnerTV.de@SD"
+  },
+  {
+    "site_id": "PA1#Canal.WOBI.pa",
+    "name": "Canal WOBI",
+    "lang": "es",
+    "xmltv_id": "WOBI.ar@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/wobi-ar.png"
+  }
+]

@@ -1,0 +1,638 @@
+[
+  {
+    "site_id": "1101",
+    "name": "قناة مصر الأولى",
+    "lang": "ar",
+    "xmltv_id": "ERTU1.eg@SD"
+  },
+  {
+    "site_id": "1119",
+    "name": "المصرية",
+    "lang": "ar",
+    "xmltv_id": "AlMasriyah.eg@SD"
+  },
+  {
+    "site_id": "1127",
+    "name": "إم بي سي",
+    "lang": "ar",
+    "xmltv_id": "MBC1.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-1-ae.png"
+  },
+  {
+    "site_id": "1128",
+    "name": "إم بي سي 2",
+    "lang": "ar",
+    "xmltv_id": "MBC2.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-2-ae.png"
+  },
+  {
+    "site_id": "1129",
+    "name": "إم بي سي 4",
+    "lang": "ar",
+    "xmltv_id": "MBC4.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-4-ae.png"
+  },
+  {
+    "site_id": "1130",
+    "name": "إم بي سي أكشن",
+    "lang": "ar",
+    "xmltv_id": "MBCAction.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-action-ae.png"
+  },
+  {
+    "site_id": "1131",
+    "name": "إم بي سي دراما +",
+    "lang": "ar",
+    "xmltv_id": "MBCPlusDrama.sa@SD"
+  },
+  {
+    "site_id": "1132",
+    "name": "إم بي سي ماكس",
+    "lang": "ar",
+    "xmltv_id": "MBCMax.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-max-ae.png"
+  },
+  {
+    "site_id": "1134",
+    "name": "أون دراما",
+    "lang": "ar",
+    "xmltv_id": "OnDrama.eg@SD"
+  },
+  {
+    "site_id": "1135",
+    "name": "اﻹمارات",
+    "lang": "ar",
+    "xmltv_id": "AbdulmajeedAbdullah.sa@SD"
+  },
+  {
+    "site_id": "1136",
+    "name": "أبو ظبي",
+    "lang": "ar",
+    "xmltv_id": "AbuDhabiTV.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/abu-dhabi-tv-ae.png"
+  },
+  {
+    "site_id": "1137",
+    "name": "الحياة",
+    "lang": "ar",
+    "xmltv_id": "AlhayatTV.eg@SD"
+  },
+  {
+    "site_id": "1145",
+    "name": "المحور",
+    "lang": "ar",
+    "xmltv_id": "ElMehwarChannel.eg@SD"
+  },
+  {
+    "site_id": "1147",
+    "name": "روتانا دراما",
+    "lang": "ar",
+    "xmltv_id": "RotanaDrama.sa@SD"
+  },
+  {
+    "site_id": "1148",
+    "name": "روتانا سينما مصر",
+    "lang": "ar",
+    "xmltv_id": "RotanaCinemaEgypt.eg@SD"
+  },
+  {
+    "site_id": "1149",
+    "name": "روتانا خليجية",
+    "lang": "ar",
+    "xmltv_id": "RotanaKhalijia.sa@SD"
+  },
+  {
+    "site_id": "1156",
+    "name": "نايل دراما",
+    "lang": "ar",
+    "xmltv_id": "NileDrama.eg@SD"
+  },
+  {
+    "site_id": "1159",
+    "name": "نايل لايف",
+    "lang": "ar",
+    "xmltv_id": "NileLife.eg@SD"
+  },
+  {
+    "site_id": "1168",
+    "name": "إل بي سي آي",
+    "lang": "ar",
+    "xmltv_id": "LBCInternational.lb@SD"
+  },
+  {
+    "site_id": "1169",
+    "name": "دبي",
+    "lang": "ar",
+    "xmltv_id": "DubaiTV.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/dubai-tv-ae.png"
+  },
+  {
+    "site_id": "1173",
+    "name": "دبي وان",
+    "lang": "ar",
+    "xmltv_id": "DubaiOne.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/dubai-one-ae.png"
+  },
+  {
+    "site_id": "1174",
+    "name": "القاهرة والناس",
+    "lang": "ar",
+    "xmltv_id": "AlKaheraWalNas.eg@SD"
+  },
+  {
+    "site_id": "1176",
+    "name": "سيما",
+    "lang": "ar",
+    "xmltv_id": "Cima.eg@SD"
+  },
+  {
+    "site_id": "1177",
+    "name": "سما دبي",
+    "lang": "ar",
+    "xmltv_id": "SamaDubai.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/sama-dubai-ae.png"
+  },
+  {
+    "site_id": "1188",
+    "name": "الشارقة",
+    "lang": "ar",
+    "xmltv_id": "SharjahTV.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/sharjah-tv-ae.png"
+  },
+  {
+    "site_id": "1193",
+    "name": "النهار",
+    "lang": "ar",
+    "xmltv_id": "AlNahar.eg@SD"
+  },
+  {
+    "site_id": "1194",
+    "name": "إم بي سي دراما",
+    "lang": "ar",
+    "xmltv_id": "MBCDrama.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-drama-ae.png"
+  },
+  {
+    "site_id": "1198",
+    "name": "سي بي سي",
+    "lang": "ar",
+    "xmltv_id": "CBC.eg@SD"
+  },
+  {
+    "site_id": "1199",
+    "name": "سي بي سي دراما",
+    "lang": "ar",
+    "xmltv_id": "CBCDrama.eg@SD"
+  },
+  {
+    "site_id": "1203",
+    "name": "أون إي",
+    "lang": "ar",
+    "xmltv_id": "OnE.eg@SD"
+  },
+  {
+    "site_id": "1204",
+    "name": "آي فيلم",
+    "lang": "ar",
+    "xmltv_id": "iFilmArabic.ir@SD"
+  },
+  {
+    "site_id": "1212",
+    "name": "ستار موفيز",
+    "lang": "ar",
+    "xmltv_id": "StarMoviesMiddleEast.ae@SD"
+  },
+  {
+    "site_id": "1216",
+    "name": "الجديد",
+    "lang": "ar",
+    "xmltv_id": "AlJadeed.lb@SD"
+  },
+  {
+    "site_id": "1217",
+    "name": "روتانا كلاسيك",
+    "lang": "ar",
+    "xmltv_id": "RotanaClassic.sa@SD"
+  },
+  {
+    "site_id": "1223",
+    "name": "النهار دراما",
+    "lang": "ar",
+    "xmltv_id": "AlNaharDrama.eg@SD"
+  },
+  {
+    "site_id": "1226",
+    "name": "صدى البلد",
+    "lang": "ar",
+    "xmltv_id": "SadaElbalad.eg@SD"
+  },
+  {
+    "site_id": "1227",
+    "name": "صدى البلد دراما",
+    "lang": "ar",
+    "xmltv_id": "SadaElbaladDrama.eg@SD"
+  },
+  {
+    "site_id": "1239",
+    "name": "إم بي سي مصر",
+    "lang": "ar",
+    "xmltv_id": "MBCMasr.eg@SD"
+  },
+  {
+    "site_id": "1241",
+    "name": "إم بي سي 3",
+    "lang": "ar",
+    "xmltv_id": "MBC3.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-3-ae.png"
+  },
+  {
+    "site_id": "1242",
+    "name": "نتورك بالعربية",
+    "lang": "ar",
+    "xmltv_id": "CartoonNetworkArabic.ae@SD"
+  },
+  {
+    "site_id": "1252",
+    "name": "القاهرة والناس 2",
+    "lang": "ar",
+    "xmltv_id": "AlKaheraWalNas2.eg@SD"
+  },
+  {
+    "site_id": "1259",
+    "name": "إم بي سي بوليوود",
+    "lang": "ar",
+    "xmltv_id": "MBCBollywood.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-bollywood-ae.png"
+  },
+  {
+    "site_id": "1260",
+    "name": "سي بي سي سفرة",
+    "lang": "ar",
+    "xmltv_id": "CBCSofra.eg@SD"
+  },
+  {
+    "site_id": "1261",
+    "name": "زي ألوان",
+    "lang": "ar",
+    "xmltv_id": "ZeeAlwan.ae@SD"
+  },
+  {
+    "site_id": "1264",
+    "name": "الظفرة",
+    "lang": "ar",
+    "xmltv_id": "AlDafrahTV.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/al-dafrah-tv-ae.png"
+  },
+  {
+    "site_id": "1266",
+    "name": "ناشونال جيوجراف...",
+    "lang": "ar",
+    "xmltv_id": "NationalGeographicAbuDhabi.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png"
+  },
+  {
+    "site_id": "1269",
+    "name": "الشرقية",
+    "lang": "ar",
+    "xmltv_id": "AlSharqiyaMinKabla.ae@SD"
+  },
+  {
+    "site_id": "1272",
+    "name": "ديسكفري",
+    "lang": "ar",
+    "xmltv_id": "DiscoveryChannelMiddleEastAfrica.us@SD"
+  },
+  {
+    "site_id": "1275",
+    "name": "ناشيونال جيوجرافيك",
+    "lang": "ar",
+    "xmltv_id": "NationalGeographicMiddleEast.uk@SD"
+  },
+  {
+    "site_id": "1278",
+    "name": "إم بي سي مصر 2",
+    "lang": "ar",
+    "xmltv_id": "MBCMasr2.eg@SD"
+  },
+  {
+    "site_id": "1279",
+    "name": "صدى البلد 2",
+    "lang": "ar",
+    "xmltv_id": "SadaElbalad2.eg@SD"
+  },
+  {
+    "site_id": "1280",
+    "name": "تن",
+    "lang": "ar",
+    "xmltv_id": "TeN.eg@SD"
+  },
+  {
+    "site_id": "1283",
+    "name": "دبي زمان",
+    "lang": "ar",
+    "xmltv_id": "DubaiZaman.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/dubai-zaman-ae.png"
+  },
+  {
+    "site_id": "1289",
+    "name": "روتانا سينما",
+    "lang": "ar",
+    "xmltv_id": "RotanaCinemaKSA.sa@SD"
+  },
+  {
+    "site_id": "1290",
+    "name": "دي إم سي",
+    "lang": "ar",
+    "xmltv_id": "DMC.eg@SD"
+  },
+  {
+    "site_id": "1292",
+    "name": "دي إم سي دراما",
+    "lang": "ar",
+    "xmltv_id": "DMCDrama.eg@SD"
+  },
+  {
+    "site_id": "1296",
+    "name": "إم تي في",
+    "lang": "ar",
+    "xmltv_id": "MTV.lb@SD"
+  },
+  {
+    "site_id": "1297",
+    "name": "إس بي سي",
+    "lang": "ar",
+    "xmltv_id": "SBC.sa@SD"
+  },
+  {
+    "site_id": "1298",
+    "name": "عَمان",
+    "lang": "ar",
+    "xmltv_id": "AmmanTV.jo@SD"
+  },
+  {
+    "site_id": "1299",
+    "name": "رؤيا",
+    "lang": "ar",
+    "xmltv_id": "RoyaTV.jo@SD"
+  },
+  {
+    "site_id": "1301",
+    "name": "السومرية",
+    "lang": "ar",
+    "xmltv_id": "Alsumaria.iq@SD"
+  },
+  {
+    "site_id": "1302",
+    "name": "الفجيرة",
+    "lang": "ar",
+    "xmltv_id": "FujairahTV.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/fujairah-tv-ae.png"
+  },
+  {
+    "site_id": "1304",
+    "name": "نسمة",
+    "lang": "ar",
+    "xmltv_id": "NessmaElJadida.tn@SD"
+  },
+  {
+    "site_id": "1306",
+    "name": "الرشيد",
+    "lang": "ar",
+    "xmltv_id": "AlRasheedTV.iq@SD"
+  },
+  {
+    "site_id": "1308",
+    "name": "الوطنية 1",
+    "lang": "ar",
+    "xmltv_id": "ElWatania1.tn@SD"
+  },
+  {
+    "site_id": "1309",
+    "name": "بي إن دراما",
+    "lang": "ar",
+    "xmltv_id": "beINDrama1.qa@SD"
+  },
+  {
+    "site_id": "1310",
+    "name": "الكويت",
+    "lang": "ar",
+    "xmltv_id": "KTV1.kw@SD"
+  },
+  {
+    "site_id": "1312",
+    "name": "الأولى المغربية",
+    "lang": "ar",
+    "xmltv_id": "AlAoula.ma@MiddleEast"
+  },
+  {
+    "site_id": "1313",
+    "name": "ال تي في",
+    "lang": "ar",
+    "xmltv_id": "LanaTV.lb@SD"
+  },
+  {
+    "site_id": "1314",
+    "name": "الأردن",
+    "lang": "ar",
+    "xmltv_id": "JordanTV.jo@SD"
+  },
+  {
+    "site_id": "1315",
+    "name": "الشروق الجزائرية",
+    "lang": "ar",
+    "xmltv_id": "EchoroukTV.dz@SD"
+  },
+  {
+    "site_id": "1317",
+    "name": "عمان",
+    "lang": "ar",
+    "xmltv_id": "OmanTV.om@SD"
+  },
+  {
+    "site_id": "1319",
+    "name": "قطر",
+    "lang": "ar",
+    "xmltv_id": "QatarTelevision.qa@SD"
+  },
+  {
+    "site_id": "1321",
+    "name": "المنار",
+    "lang": "ar",
+    "xmltv_id": "AlManar.lb@SD"
+  },
+  {
+    "site_id": "1322",
+    "name": "بي إن موفيز بريمير",
+    "lang": "ar",
+    "xmltv_id": "beINMovies1Premiere.qa@SD"
+  },
+  {
+    "site_id": "1323",
+    "name": "بي إن موفيز أكشن",
+    "lang": "ar",
+    "xmltv_id": "beINMovies2Action.qa@SD"
+  },
+  {
+    "site_id": "1324",
+    "name": "بي إن موفيز دراما",
+    "lang": "ar",
+    "xmltv_id": "beINMovies3Drama.qa@SD"
+  },
+  {
+    "site_id": "1327",
+    "name": "بي إن سيريس",
+    "lang": "ar",
+    "xmltv_id": "beINSeries1.qa@SD"
+  },
+  {
+    "site_id": "1328",
+    "name": "بي إن سيريس إتش...",
+    "lang": "ar",
+    "xmltv_id": "beINSeries2.qa@SD"
+  },
+  {
+    "site_id": "1329",
+    "name": "ستار ورلد",
+    "lang": "ar",
+    "xmltv_id": "StarWorldMiddleEast.ae@SD"
+  },
+  {
+    "site_id": "1330",
+    "name": "ستار أكشن",
+    "lang": "ar",
+    "xmltv_id": "FoxActionMoviesMENA.hk@SD"
+  },
+  {
+    "site_id": "1334",
+    "name": "الوطنية 2",
+    "lang": "ar",
+    "xmltv_id": "ElWatania2.tn@SD"
+  },
+  {
+    "site_id": "1336",
+    "name": "ماسبيرو زمان",
+    "lang": "ar",
+    "xmltv_id": "MasperoZaman.eg@SD"
+  },
+  {
+    "site_id": "1339",
+    "name": "السعيدة",
+    "lang": "ar",
+    "xmltv_id": "AlSaeedah.eg@SD"
+  },
+  {
+    "site_id": "1340",
+    "name": "إم بي سي العراق",
+    "lang": "ar",
+    "xmltv_id": "MBCIraq.iq@SD"
+  },
+  {
+    "site_id": "1341",
+    "name": "إل بي سي",
+    "lang": "ar",
+    "xmltv_id": "LBC.sa@SD"
+  },
+  {
+    "site_id": "1349",
+    "name": "العراقية",
+    "lang": "ar",
+    "xmltv_id": "AlIraqia.iq@SD"
+  },
+  {
+    "site_id": "1352",
+    "name": "السعودية",
+    "lang": "ar",
+    "xmltv_id": "AlSaudiya.sa@SD"
+  },
+  {
+    "site_id": "1353",
+    "name": "المغربية الثانية",
+    "lang": "ar",
+    "xmltv_id": "2MMonde.ma@SD"
+  },
+  {
+    "site_id": "1354",
+    "name": "إم بي سي 5",
+    "lang": "ar",
+    "xmltv_id": "MBC5.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-5-ae.png"
+  },
+  {
+    "site_id": "1358",
+    "name": "روتانا كوميدي",
+    "lang": "ar",
+    "xmltv_id": "RotanaComedy.sa@SD"
+  },
+  {
+    "site_id": "1360",
+    "name": "سلام",
+    "lang": "ar",
+    "xmltv_id": "SalamTV.ly@SD"
+  },
+  {
+    "site_id": "1366",
+    "name": "ذكريات",
+    "lang": "ar",
+    "xmltv_id": "ThikrayatTV.sa@SD"
+  },
+  {
+    "site_id": "1367",
+    "name": "يو تي في",
+    "lang": "ar",
+    "xmltv_id": "UTV.iq@SD"
+  },
+  {
+    "site_id": "1368",
+    "name": "البحرين",
+    "lang": "ar",
+    "xmltv_id": "BahrainTV.bh@SD"
+  },
+  {
+    "site_id": "1371",
+    "name": "ميكس بالعربي",
+    "lang": "ar",
+    "xmltv_id": "MixBelAraby.eg@SD"
+  },
+  {
+    "site_id": "1374",
+    "name": "تلفزيون حضرموت",
+    "lang": "ar",
+    "xmltv_id": "HadhramautTV.ye@SD"
+  },
+  {
+    "site_id": "1380",
+    "name": "إيه تي في",
+    "lang": "ar",
+    "xmltv_id": "ATV.kw@SD"
+  },
+  {
+    "site_id": "1382",
+    "name": "التلفزيون العربي 2",
+    "lang": "ar",
+    "xmltv_id": "AlArabyTV2.qa@SD"
+  },
+  {
+    "site_id": "1385",
+    "name": "دجلة",
+    "lang": "ar",
+    "xmltv_id": "DijlahTV.iq@SD"
+  },
+  {
+    "site_id": "1398",
+    "name": "الثانية",
+    "lang": "ar",
+    "xmltv_id": "Althania.sy@SD"
+  },
+  {
+    "site_id": "1399",
+    "name": "إم بي سي مصر دراما",
+    "lang": "ar",
+    "xmltv_id": "MBCMasrDrama.sa@SD"
+  },
+  {
+    "site_id": "1401",
+    "name": "ماسة",
+    "lang": "ar",
+    "xmltv_id": "Masah.sa@SD"
+  }
+]

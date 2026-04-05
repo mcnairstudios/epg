@@ -1,0 +1,332 @@
+[
+  {
+    "site_id": "ben#101",
+    "name": "M-Net West HD",
+    "lang": "en",
+    "xmltv_id": "MNet.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/m-net-za.png"
+  },
+  {
+    "site_id": "ben#105",
+    "name": "M-Net Movies 1 West HD",
+    "lang": "en",
+    "xmltv_id": "MNetMovies1.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/m-net-movies-1-za.png"
+  },
+  {
+    "site_id": "ben#106",
+    "name": "M-Net Movies 2",
+    "lang": "en",
+    "xmltv_id": "MNetMovies2.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/m-net-movies-2-za.png"
+  },
+  {
+    "site_id": "ben#108",
+    "name": "M-Net Movies 4",
+    "lang": "en",
+    "xmltv_id": "MNetMovies4.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/m-net-movies-4-za.png"
+  },
+  {
+    "site_id": "ben#113",
+    "name": "MovieRoom Africa",
+    "lang": "en",
+    "xmltv_id": "MovieRoom.za@SD"
+  },
+  {
+    "site_id": "ben#122",
+    "name": "Comedy Central",
+    "lang": "en",
+    "xmltv_id": "ComedyCentralAfrica.us@SD"
+  },
+  {
+    "site_id": "ben#124",
+    "name": "E! Entertainment",
+    "lang": "en",
+    "xmltv_id": "EAfrica.us@SD"
+  },
+  {
+    "site_id": "ben#130",
+    "name": "MTV",
+    "lang": "en",
+    "xmltv_id": "MTVAfrica.za@SD"
+  },
+  {
+    "site_id": "ben#137",
+    "name": "TNT Africa",
+    "lang": "en",
+    "xmltv_id": "TNTAfrica.uk@SD"
+  },
+  {
+    "site_id": "ben#150",
+    "name": "Akwaaba Magic",
+    "lang": "en",
+    "xmltv_id": "AkwaabaMagic.gh"
+  },
+  {
+    "site_id": "ben#151",
+    "name": "Africa Magic Showcase HD",
+    "lang": "en",
+    "xmltv_id": "AfricaMagicShowcase.ng"
+  },
+  {
+    "site_id": "ben#154",
+    "name": "Africa Magic Family",
+    "lang": "en",
+    "xmltv_id": "AfricaMagicFamily.ng"
+  },
+  {
+    "site_id": "ben#156",
+    "name": "Africa Magic Hausa",
+    "lang": "en",
+    "xmltv_id": "AfricaMagicHausa.ng"
+  },
+  {
+    "site_id": "ben#158",
+    "name": "Maisha Magic East HD",
+    "lang": "en",
+    "xmltv_id": "MaishaMagicEast.za",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/maisha-magic-east-za.png"
+  },
+  {
+    "site_id": "ben#159",
+    "name": "Africa Magic Igbo",
+    "lang": "en",
+    "xmltv_id": "AfricaMagicIgbo.ng"
+  },
+  {
+    "site_id": "ben#160",
+    "name": "Maisha Magic Bongo",
+    "lang": "en",
+    "xmltv_id": "MaishaMagicBongo.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/maisha-magic-bongo-za.png"
+  },
+  {
+    "site_id": "ben#163",
+    "name": "Maisha Magic Plus HD",
+    "lang": "en",
+    "xmltv_id": "MaishaMagicPlus.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/maisha-magic-plus-za.png"
+  },
+  {
+    "site_id": "ben#169",
+    "name": "ROK 2",
+    "lang": "en",
+    "xmltv_id": "ROK2.uk@SD"
+  },
+  {
+    "site_id": "ben#181",
+    "name": "National Geographic Channel",
+    "lang": "en",
+    "xmltv_id": "NationalGeographicSouthAfrica.za@SD"
+  },
+  {
+    "site_id": "ben#222",
+    "name": "SS Football Plus Africa",
+    "lang": "en",
+    "xmltv_id": "SuperSportFootballPlus.za@SD"
+  },
+  {
+    "site_id": "ben#223",
+    "name": "SS Premier League",
+    "lang": "en",
+    "xmltv_id": "SuperSportPremierLeague.za@SD"
+  },
+  {
+    "site_id": "ben#224",
+    "name": "SS La Liga",
+    "lang": "en",
+    "xmltv_id": "SuperSportLaLiga.za@SD"
+  },
+  {
+    "site_id": "ben#225",
+    "name": "SS Football",
+    "lang": "en",
+    "xmltv_id": "SuperSportFootball.za@SD"
+  },
+  {
+    "site_id": "ben#226",
+    "name": "SS Action",
+    "lang": "en",
+    "xmltv_id": "SuperSportAction.za@SD"
+  },
+  {
+    "site_id": "ben#227",
+    "name": "SS Africa",
+    "lang": "en",
+    "xmltv_id": "SuperSportVariety2.za@SD"
+  },
+  {
+    "site_id": "ben#228",
+    "name": "SS Africa 2",
+    "lang": "en",
+    "xmltv_id": "SuperSportVariety3.za@SD"
+  },
+  {
+    "site_id": "ben#229",
+    "name": "WWE",
+    "lang": "en",
+    "xmltv_id": "SuperSportVariety4.za@SD"
+  },
+  {
+    "site_id": "ben#234",
+    "name": "SS Tennis Africa",
+    "lang": "en",
+    "xmltv_id": "SuperSportTennis.za@SD"
+  },
+  {
+    "site_id": "ben#241",
+    "name": "SS Maximo 1 (P)",
+    "lang": "en",
+    "xmltv_id": "SuperSportMaximo1.za@SD"
+  },
+  {
+    "site_id": "ben#242",
+    "name": "SS Maximo 2 (P)",
+    "lang": "en",
+    "xmltv_id": "SuperSportMaximo2.za@SD"
+  },
+  {
+    "site_id": "ben#305",
+    "name": "Nickelodeon",
+    "lang": "en",
+    "xmltv_id": "NickelodeonAfrica.za@SD"
+  },
+  {
+    "site_id": "ben#307",
+    "name": "NickJr",
+    "lang": "en",
+    "xmltv_id": "NickJrAfrica.za@SD"
+  },
+  {
+    "site_id": "ben#308",
+    "name": "NickTOONS",
+    "lang": "en",
+    "xmltv_id": "NicktoonsAfrica.za@SD"
+  },
+  {
+    "site_id": "ben#309",
+    "name": "Disney Junior",
+    "lang": "en",
+    "xmltv_id": "DisneyJuniorSouthAfrica.za@SD"
+  },
+  {
+    "site_id": "ben#325",
+    "name": "TRACE Naija",
+    "lang": "en",
+    "xmltv_id": "TraceNaija.fr@SD"
+  },
+  {
+    "site_id": "ben#332",
+    "name": "Trace Gospel",
+    "lang": "en",
+    "xmltv_id": "TraceGospel.fr@SD"
+  },
+  {
+    "site_id": "ben#333",
+    "name": "Trace Jama",
+    "lang": "en",
+    "xmltv_id": "TraceJama.fr@SD"
+  },
+  {
+    "site_id": "ben#348",
+    "name": "Eternal Word Television Network",
+    "lang": "en",
+    "xmltv_id": "EWTN.us@AfricaAsia"
+  },
+  {
+    "site_id": "ben#349",
+    "name": "Dove TV",
+    "lang": "en",
+    "xmltv_id": "DoveTV.ng@SD"
+  },
+  {
+    "site_id": "ben#410",
+    "name": "CNBC Africa",
+    "lang": "en",
+    "xmltv_id": "CNBCAfrica.za@SD"
+  },
+  {
+    "site_id": "ben#431",
+    "name": "NHK",
+    "lang": "en",
+    "xmltv_id": "NHKWorldJapan.jp@SD"
+  },
+  {
+    "site_id": "ben#452",
+    "name": "ZeeTV",
+    "lang": "en",
+    "xmltv_id": "ZeeTV.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-tv-in.png"
+  },
+  {
+    "site_id": "ben#457",
+    "name": "SET Max",
+    "lang": "en",
+    "xmltv_id": "SonyMax.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sony-max-uk.png"
+  },
+  {
+    "site_id": "ben#489",
+    "name": "Maaddii Abol",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ben#720",
+    "name": "Canal+",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ben#721",
+    "name": "Canal+ Cinema Centre",
+    "lang": "en",
+    "xmltv_id": "CanalPlusCinemaCentre.fr"
+  },
+  {
+    "site_id": "ben#722",
+    "name": "Novelas TV",
+    "lang": "en",
+    "xmltv_id": "NovelasTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/novelas-tv-fr.png"
+  },
+  {
+    "site_id": "ben#723",
+    "name": "Canal+ Sports 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ben#724",
+    "name": "Canal+ Sports 3",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ben#726",
+    "name": "InfoSports+",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ben#727",
+    "name": "TF1",
+    "lang": "en",
+    "xmltv_id": "TF1.fr@SD"
+  },
+  {
+    "site_id": "ben#728",
+    "name": "France 2",
+    "lang": "en",
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
+  },
+  {
+    "site_id": "ben#745",
+    "name": "Piwi+",
+    "lang": "en",
+    "xmltv_id": "PiwiPlus.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/piwi-plus-fr.png"
+  }
+]

@@ -1,0 +1,847 @@
+[
+  {
+    "site_id": "Singtel/epg#5038",
+    "name": "KBS World (HD)",
+    "lang": "en",
+    "xmltv_id": "KBSWorld.kr@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5040",
+    "name": "France 24 (French)",
+    "lang": "en",
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "Singtel/epg#5041",
+    "name": "France 24 (English)",
+    "lang": "en",
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "Singtel/epg#5046",
+    "name": "ETTV News",
+    "lang": "en",
+    "xmltv_id": "ETTVNews.tw@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5056",
+    "name": "GMA Pinoy TV",
+    "lang": "en",
+    "xmltv_id": "GMAPinoyTVAsiaPacific.ph@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5111",
+    "name": "mio Sports",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#5112",
+    "name": "mio Sports 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#5113",
+    "name": "mio Sports 3",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#5117",
+    "name": "beIN SPORTS RUGBY HD",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#5118",
+    "name": "Premier Sports",
+    "lang": "en",
+    "xmltv_id": "RugbyPassTV.uk@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5119",
+    "name": "(HD) Outdoor Channel",
+    "lang": "en",
+    "xmltv_id": "OutdoorChannelInternational.us@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5123",
+    "name": "mio Cricket",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#5124",
+    "name": "mio Cricket Plus",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#5127",
+    "name": "beIN SPORTS 4 (HD)",
+    "lang": "en",
+    "xmltv_id": "beINSports4.qa@MENA"
+  },
+  {
+    "site_id": "Singtel/epg#5128",
+    "name": "beIN SPORTS 5 (HD)",
+    "lang": "en",
+    "xmltv_id": "beINSports5.qa@MENA"
+  },
+  {
+    "site_id": "Singtel/epg#5151",
+    "name": "Sky News HD",
+    "lang": "en",
+    "xmltv_id": "SkyNewsNewZealand.nz@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5155",
+    "name": "CGTN",
+    "lang": "en",
+    "xmltv_id": "CGTN.cn@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5157",
+    "name": "NHK World - Japan",
+    "lang": "en",
+    "xmltv_id": "NHKWorldJapan.jp@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5161",
+    "name": "DW (English)",
+    "lang": "en",
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
+  },
+  {
+    "site_id": "Singtel/epg#5165",
+    "name": "FOX News Channel",
+    "lang": "en",
+    "xmltv_id": "FoxNewsChannel.us@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5167",
+    "name": "CNN International",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@AsiaPacific"
+  },
+  {
+    "site_id": "Singtel/epg#5171",
+    "name": "Bloomberg TV (HD)",
+    "lang": "en",
+    "xmltv_id": "BloombergTV.us@Plus"
+  },
+  {
+    "site_id": "Singtel/epg#5173",
+    "name": "CNBC Asia",
+    "lang": "en",
+    "xmltv_id": "CNBCAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5202",
+    "name": "Discovery Ch (HD)",
+    "lang": "en",
+    "xmltv_id": "DiscoveryChannel.it@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/discovery-channel-it.png"
+  },
+  {
+    "site_id": "Singtel/epg#5204",
+    "name": "Discovery Asia (HD)",
+    "lang": "en",
+    "xmltv_id": "DiscoveryAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5206",
+    "name": "C+I (HD)",
+    "lang": "en",
+    "xmltv_id": "CrimePlusInvestigation.au@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5208",
+    "name": "Animal Planet (HD)",
+    "lang": "en",
+    "xmltv_id": "AnimalPlanetSoutheastAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5209",
+    "name": "HISTORY (HD)",
+    "lang": "en",
+    "xmltv_id": "HistoryAsia.us@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5211",
+    "name": "CGTN-Documentary",
+    "lang": "en",
+    "xmltv_id": "CGTNDocumentary.cn@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5226",
+    "name": "Cartoon Network (HD)",
+    "lang": "en",
+    "xmltv_id": "CartoonNetworkAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5228",
+    "name": "Cartoonito (HD)",
+    "lang": "en",
+    "xmltv_id": "CartoonitoCEE.uk@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5233",
+    "name": "DreamWorks (HD)",
+    "lang": "en",
+    "xmltv_id": "DreamWorksChannelAsia.us@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5238",
+    "name": "Nick Jr.",
+    "lang": "en",
+    "xmltv_id": "NickJrAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5240",
+    "name": "Nickelodeon Asia HD",
+    "lang": "en",
+    "xmltv_id": "NickelodeonAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5250",
+    "name": "HGTV (HD)",
+    "lang": "en",
+    "xmltv_id": "HGTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hgtv-us.png"
+  },
+  {
+    "site_id": "Singtel/epg#5251",
+    "name": "ABC Australia",
+    "lang": "en",
+    "xmltv_id": "ABCAustralia.au@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5252",
+    "name": "Food Network (HD)",
+    "lang": "en",
+    "xmltv_id": "FoodNetwork.nz"
+  },
+  {
+    "site_id": "Singtel/epg#5254",
+    "name": "TLC (HD)",
+    "lang": "en",
+    "xmltv_id": "TLC.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tlc-us.png"
+  },
+  {
+    "site_id": "Singtel/epg#5256",
+    "name": "AFN (HD)",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#5257",
+    "name": "TRACE Sport Stars HD",
+    "lang": "en",
+    "xmltv_id": "TraceSportStars.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/trace-sport-stars-fr.png"
+  },
+  {
+    "site_id": "Singtel/epg#5260",
+    "name": "TechStorm (HD)",
+    "lang": "en",
+    "xmltv_id": "TechStorm.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5302",
+    "name": "Lifetime (HD)",
+    "lang": "en",
+    "xmltv_id": "Lifetime.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/lifetime-us.png"
+  },
+  {
+    "site_id": "Singtel/epg#5303",
+    "name": "HITS NOW (HD)",
+    "lang": "en",
+    "xmltv_id": "HITSNOW.sg"
+  },
+  {
+    "site_id": "Singtel/epg#5304",
+    "name": "AXN (HD)",
+    "lang": "en",
+    "xmltv_id": "AXNAsia.sg@Indonesia"
+  },
+  {
+    "site_id": "Singtel/epg#5310",
+    "name": "ROCK Action (HD)",
+    "lang": "en",
+    "xmltv_id": "ROCKExtreme.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5318",
+    "name": "ROCK ENT (HD)",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#5326",
+    "name": "HITS (HD)",
+    "lang": "en",
+    "xmltv_id": "HITS.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5340",
+    "name": "ANIPLUS HD",
+    "lang": "en",
+    "xmltv_id": "AniplusAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5342",
+    "name": "Animax (HD)",
+    "lang": "en",
+    "xmltv_id": "AnimaxAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5349",
+    "name": "MTV LIVE HD",
+    "lang": "en",
+    "xmltv_id": "MTVLive.uk@HD"
+  },
+  {
+    "site_id": "Singtel/epg#5418",
+    "name": "Paramount Network HD",
+    "lang": "en",
+    "xmltv_id": "ParamountNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/paramount-network-us.png"
+  },
+  {
+    "site_id": "Singtel/epg#5501",
+    "name": "e-Le (HD)",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#5502",
+    "name": "Jia Le Channel (HD)",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#5511",
+    "name": "TVB Jade (HD)",
+    "lang": "en",
+    "xmltv_id": "Jade.hk@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5512",
+    "name": "now Jelli (HD)",
+    "lang": "en",
+    "xmltv_id": "nowJelli.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-jelli-hk.png"
+  },
+  {
+    "site_id": "Singtel/epg#5513",
+    "name": "ONE HD (Mandarin)",
+    "lang": "en",
+    "xmltv_id": "ONE.sg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/singapore/one-sg.png"
+  },
+  {
+    "site_id": "Singtel/epg#5517",
+    "name": "TVB Xing He (HD)",
+    "lang": "en",
+    "xmltv_id": "TVBXingHe.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/tvb-xing-he-hk.png"
+  },
+  {
+    "site_id": "Singtel/epg#5518",
+    "name": "tvN HD (Mandarin)",
+    "lang": "en",
+    "xmltv_id": "tvNAsia.hk@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5519",
+    "name": "GEM (HD)",
+    "lang": "en",
+    "xmltv_id": "GEM.sg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/singapore/gem-sg.png"
+  },
+  {
+    "site_id": "Singtel/epg#5521",
+    "name": "ETTV Asia (HD)",
+    "lang": "en",
+    "xmltv_id": "ETTVAsiaNews.tw@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5534",
+    "name": "CCTV Entertainment",
+    "lang": "en",
+    "xmltv_id": "CCTVEntertainment.cn@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5535",
+    "name": "Dragon TV Intl",
+    "lang": "en",
+    "xmltv_id": "DragonTVInternational.cn@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5536",
+    "name": "Hunan International",
+    "lang": "en",
+    "xmltv_id": "HunanTVInternational.cn@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5537",
+    "name": "BRTV International",
+    "lang": "en",
+    "xmltv_id": "BRTVInternationalChannel.cn@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5538",
+    "name": "China Movie Channel",
+    "lang": "en",
+    "xmltv_id": "ChinaMovieChannel.cn@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5555",
+    "name": "CCTV-4 (HD)",
+    "lang": "en",
+    "xmltv_id": "CCTV4Asia.cn@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5557",
+    "name": "CTI Asia (HD)",
+    "lang": "en",
+    "xmltv_id": "CTiAsia.tw@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5580",
+    "name": "CCM",
+    "lang": "en",
+    "xmltv_id": "CelestialClassicMovies.id@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5585",
+    "name": "Celestial Movies(HD)",
+    "lang": "en",
+    "xmltv_id": "CelestialMoviesIndonesia.id@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5602",
+    "name": "Astro Prima HD",
+    "lang": "en",
+    "xmltv_id": "AstroPrima.my@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/astro-prima-my.png"
+  },
+  {
+    "site_id": "Singtel/epg#5604",
+    "name": "ONE HD (Malay)",
+    "lang": "en",
+    "xmltv_id": "ONE.sg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/singapore/one-sg.png"
+  },
+  {
+    "site_id": "Singtel/epg#5605",
+    "name": "GEM (HD)",
+    "lang": "en",
+    "xmltv_id": "GEM.sg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/singapore/gem-sg.png"
+  },
+  {
+    "site_id": "Singtel/epg#5607",
+    "name": "Pesona HD",
+    "lang": "en",
+    "xmltv_id": "Pesona.my@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5608",
+    "name": "Astro Ria HD",
+    "lang": "en",
+    "xmltv_id": "AstroRia.my@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/astro-ria-my.png"
+  },
+  {
+    "site_id": "Singtel/epg#5610",
+    "name": "Citra Drama (HD)",
+    "lang": "en",
+    "xmltv_id": "CitraDrama.id@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5615",
+    "name": "SEA Today",
+    "lang": "en",
+    "xmltv_id": "SEAToday.id@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5618",
+    "name": "Drama Channel",
+    "lang": "en",
+    "xmltv_id": "DramaChannel.th"
+  },
+  {
+    "site_id": "Singtel/epg#5619",
+    "name": "tvN HD",
+    "lang": "en",
+    "xmltv_id": "tvNAsia.hk@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5622",
+    "name": "Sun TV HD",
+    "lang": "en",
+    "xmltv_id": "SunTVMalaysia.my@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5623",
+    "name": "Colors Tamil HD",
+    "lang": "en",
+    "xmltv_id": "ColorsTamil.in@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5624",
+    "name": "Zee Thirai",
+    "lang": "en",
+    "xmltv_id": "ZeeThirai.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-thirai-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5625",
+    "name": "KTV HD",
+    "lang": "en",
+    "xmltv_id": "KTV.in@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5626",
+    "name": "Sun Life",
+    "lang": "en",
+    "xmltv_id": "SunLife.in@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5627",
+    "name": "Sun Music HD",
+    "lang": "en",
+    "xmltv_id": "SunMusic.in@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5628",
+    "name": "Adithya TV",
+    "lang": "en",
+    "xmltv_id": "AdithyaTV.in@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5630",
+    "name": "Sony YAY",
+    "lang": "en",
+    "xmltv_id": "SonyYay.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/sony-yay-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5632",
+    "name": "Zee Tamil HD",
+    "lang": "en",
+    "xmltv_id": "ZeeTamil.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-tamil-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5634",
+    "name": "Vijay TV (HD)",
+    "lang": "en",
+    "xmltv_id": "VijayTVAsia.in@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5636",
+    "name": "Sun News",
+    "lang": "en",
+    "xmltv_id": "SunNews.in@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5638",
+    "name": "Asianet",
+    "lang": "en",
+    "xmltv_id": "Asianet.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/asianet-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5639",
+    "name": "Asianet Movies",
+    "lang": "en",
+    "xmltv_id": "AsianetMovies.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/asianet-movies-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5644",
+    "name": "SET (HINDI)",
+    "lang": "en",
+    "xmltv_id": "SonyEntertainmentTelevision.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/sony-entertainment-television-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5646",
+    "name": "Zee TV",
+    "lang": "en",
+    "xmltv_id": "ZeeTVAsiaPacific.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5648",
+    "name": "SAB TV",
+    "lang": "en",
+    "xmltv_id": "ATNSABTV.ca@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5652",
+    "name": "Colors",
+    "lang": "en",
+    "xmltv_id": "Colors.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/colors-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5654",
+    "name": "Star Bharat",
+    "lang": "en",
+    "xmltv_id": "StarBharat.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-bharat-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5656",
+    "name": "STAR Plus",
+    "lang": "en",
+    "xmltv_id": "StarPlus.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-plus-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5658",
+    "name": "MTV India",
+    "lang": "en",
+    "xmltv_id": "MTV.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/mtv-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5662",
+    "name": "STAR Gold",
+    "lang": "en",
+    "xmltv_id": "StarGold.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-gold-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5668",
+    "name": "Sony MAX",
+    "lang": "en",
+    "xmltv_id": "SonyMAX.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/sony-max-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5670",
+    "name": "maa movies",
+    "lang": "en",
+    "xmltv_id": "StarMaaMovies.in@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5671",
+    "name": "Star Maa",
+    "lang": "en",
+    "xmltv_id": "StarMaa.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-maa-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5676",
+    "name": "Times Now",
+    "lang": "en",
+    "xmltv_id": "TimesNow.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/times-now-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5677",
+    "name": "Zoom TV",
+    "lang": "en",
+    "xmltv_id": "ZoomTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/zoom-tv-pl.png"
+  },
+  {
+    "site_id": "Singtel/epg#5678",
+    "name": "NDTV 24x7",
+    "lang": "en",
+    "xmltv_id": "NDTV24x7.in@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5679",
+    "name": "NDTV India",
+    "lang": "en",
+    "xmltv_id": "NDTVIndia.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/ndtv-india-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5680",
+    "name": "WION",
+    "lang": "en",
+    "xmltv_id": "WION.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/wion-in.png"
+  },
+  {
+    "site_id": "Singtel/epg#5682",
+    "name": "NHK World Premium",
+    "lang": "en",
+    "xmltv_id": "NHKWorldPremium.jp@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5689",
+    "name": "GMA Life TV",
+    "lang": "en",
+    "xmltv_id": "GMALifeTV.ph@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5690",
+    "name": "GMA News TV Intl",
+    "lang": "en",
+    "xmltv_id": "GMANewsTV.ph@SD"
+  },
+  {
+    "site_id": "Singtel/epg#5693",
+    "name": "The Filipino Channel",
+    "lang": "en",
+    "xmltv_id": "TheFilipinoChannelAsia.us@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6110",
+    "name": "beIN SPORTS 3 (HD)",
+    "lang": "en",
+    "xmltv_id": "beINSports3.qa@MENA"
+  },
+  {
+    "site_id": "Singtel/epg#6114",
+    "name": "SPOTV (HD)",
+    "lang": "en",
+    "xmltv_id": "SPOTV.id@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6115",
+    "name": "SPOTV 2 (HD)",
+    "lang": "en",
+    "xmltv_id": "SPOTV2.id@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6116",
+    "name": "EUROSPORT (HD)",
+    "lang": "en",
+    "xmltv_id": "Eurosport.fr@Asia"
+  },
+  {
+    "site_id": "Singtel/epg#6119",
+    "name": "Fight Sports (HD)",
+    "lang": "en",
+    "xmltv_id": "FightSports.us@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6126",
+    "name": "beIN SPORTS (HD)",
+    "lang": "en",
+    "xmltv_id": "beINSports.qa@MENA"
+  },
+  {
+    "site_id": "Singtel/epg#6127",
+    "name": "beIN SPORTS 2 (HD)",
+    "lang": "en",
+    "xmltv_id": "beINSports2.qa@MENA"
+  },
+  {
+    "site_id": "Singtel/epg#6166",
+    "name": "BBC News (HD)",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "Singtel/epg#6203",
+    "name": "BBC Earth (HD)",
+    "lang": "en",
+    "xmltv_id": "BBCEarth.uk@HD"
+  },
+  {
+    "site_id": "Singtel/epg#6236",
+    "name": "CBeebies (HD)",
+    "lang": "en",
+    "xmltv_id": "CBeebies.uk@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6255",
+    "name": "BBC Lifestyle (HD)",
+    "lang": "en",
+    "xmltv_id": "BBCLifestyle.uk@Asia"
+  },
+  {
+    "site_id": "Singtel/epg#6301",
+    "name": "HITS MOVIES (HD)",
+    "lang": "en",
+    "xmltv_id": "HITSMovies.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6350",
+    "name": "MTV 90s HD",
+    "lang": "en",
+    "xmltv_id": "MTV90s.uk@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6420",
+    "name": "HBO HD",
+    "lang": "en",
+    "xmltv_id": "HBOAsia.sg@Vietnam"
+  },
+  {
+    "site_id": "Singtel/epg#6421",
+    "name": "HBO Signature (HD)",
+    "lang": "en",
+    "xmltv_id": "HBOSignatureAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6422",
+    "name": "HBO Family (HD)",
+    "lang": "en",
+    "xmltv_id": "HBOFamilyAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6423",
+    "name": "HBO Hits (HD)",
+    "lang": "en",
+    "xmltv_id": "HBOHitsAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6424",
+    "name": "CINEMAX (HD)",
+    "lang": "en",
+    "xmltv_id": "CinemaxAsia.sg@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6507",
+    "name": "TVBS Asia",
+    "lang": "en",
+    "xmltv_id": "TVBSAsia.tw@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6516",
+    "name": "TVBS News",
+    "lang": "en",
+    "xmltv_id": "TVBSNews.tw@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6547",
+    "name": "Phoenix InfoNews",
+    "lang": "en",
+    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6571",
+    "name": "CM+",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "Singtel/epg#6692",
+    "name": "Cinema One Global",
+    "lang": "en",
+    "xmltv_id": "CinemaOneGlobal.ph@SD"
+  },
+  {
+    "site_id": "Singtel/epg#6694",
+    "name": "ABS-CBN News Channel",
+    "lang": "en",
+    "xmltv_id": ""
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "site_id": "ES1#24.Horas.es",
+    "name": "24 Horas",
+    "lang": "es",
+    "xmltv_id": "Canal24Horas.es@SD"
+  },
+  {
+    "site_id": "ES1#Al.Jazeera.English.es",
+    "name": "Al Jazeera English",
+    "lang": "es",
+    "xmltv_id": "AlJazeera.qa@English"
+  },
+  {
+    "site_id": "ES1#Alquiler.1.es",
+    "name": "Alquiler 1",
+    "lang": "es",
+    "xmltv_id": "Alquiler1.es"
+  },
+  {
+    "site_id": "ES1#Alquiler.HD.es",
+    "name": "Alquiler HD",
+    "lang": "es",
+    "xmltv_id": "AlquilerHD.es"
+  },
+  {
+    "site_id": "ES1#Antena.3.es",
+    "name": "Antena 3",
+    "lang": "es",
+    "xmltv_id": "Antena3.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/antena-3-es.png"
+  },
+  {
+    "site_id": "ES1#Aragón.TV.Int.es",
+    "name": "Aragón TV Int",
+    "lang": "es",
+    "xmltv_id": "AragonTVInternacional.es@SD"
+  },
+  {
+    "site_id": "ES1#Arirang.TV.HD.es",
+    "name": "Arirang TV HD",
+    "lang": "es",
+    "xmltv_id": "ArirangTV.kr@HD"
+  },
+  {
+    "site_id": "ES1#AXN.es",
+    "name": "AXN",
+    "lang": "es",
+    "xmltv_id": "AXN.us@SD"
+  },
+  {
+    "site_id": "ES1#Baby.TV.es",
+    "name": "Baby TV",
+    "lang": "es",
+    "xmltv_id": "BabyTV.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/baby-tv-uk.png"
+  },
+  {
+    "site_id": "ES1#BBC.World.es",
+    "name": "BBC World",
+    "lang": "es",
+    "xmltv_id": "BBCNews.uk@LatinAmerica",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "ES1#BE.MAD.es",
+    "name": "BE MAD",
+    "lang": "es",
+    "xmltv_id": "BeMad.es@SD"
+  },
+  {
+    "site_id": "ES1#Bloomberg.es",
+    "name": "Bloomberg",
+    "lang": "es",
+    "xmltv_id": "BloombergTV.us@US"
+  },
+  {
+    "site_id": "ES1#Boing.es",
+    "name": "Boing",
+    "lang": "es",
+    "xmltv_id": "Boing.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/boing-es.png"
+  },
+  {
+    "site_id": "ES1#Calle.13.es",
+    "name": "Calle 13",
+    "lang": "es",
+    "xmltv_id": "Calle13Universal.es@SD"
+  },
+  {
+    "site_id": "ES1#Canal.Cocina.es",
+    "name": "Canal Cocina",
+    "lang": "es",
+    "xmltv_id": "CanalCocina.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/canal-cocina-es.png"
+  },
+  {
+    "site_id": "ES1#Canal.Decasa.es",
+    "name": "Canal Decasa",
+    "lang": "es",
+    "xmltv_id": "CanalDecasa.es@SD"
+  },
+  {
+    "site_id": "ES1#Canal.Parlamento.es",
+    "name": "Canal Parlamento",
+    "lang": "es",
+    "xmltv_id": "CanalParlamento.es@SD"
+  },
+  {
+    "site_id": "ES1#Canal.Sur.Andalucía.es",
+    "name": "Canal Sur Andalucía",
+    "lang": "es",
+    "xmltv_id": "CanalSurAndalucia.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/canal-sur-andalucia-es.png"
+  },
+  {
+    "site_id": "ES1#Caza.y.Pesca.es",
+    "name": "Caza y Pesca",
+    "lang": "es",
+    "xmltv_id": "CazayPesca.es@SD"
+  },
+  {
+    "site_id": "ES1#CGTN.Documentary.HD.es",
+    "name": "CGTN Documentary HD",
+    "lang": "es",
+    "xmltv_id": "CGTNDocumentary.cn@HD"
+  },
+  {
+    "site_id": "ES1#CGTN.English.HD.es",
+    "name": "CGTN English HD",
+    "lang": "es",
+    "xmltv_id": "CGTN.cn@HD"
+  },
+  {
+    "site_id": "ES1#CGTN.Français.HD.es",
+    "name": "CGTN Français HD",
+    "lang": "es",
+    "xmltv_id": "CGTNFrench.cn@SD"
+  },
+  {
+    "site_id": "ES1#Clan.TVE.es",
+    "name": "Clan TVE",
+    "lang": "es",
+    "xmltv_id": "Clan.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/clan-es.png"
+  },
+  {
+    "site_id": "ES1#Classica.es",
+    "name": "Classica",
+    "lang": "es",
+    "xmltv_id": "Classica.us@SD"
+  },
+  {
+    "site_id": "ES1#CNN.Int.es",
+    "name": "CNN Int",
+    "lang": "es",
+    "xmltv_id": "CNN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnn-us.png"
+  },
+  {
+    "site_id": "ES1#Comedy.Central.es",
+    "name": "Comedy Central",
+    "lang": "es",
+    "xmltv_id": "ComedyCentral.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/comedy-central-us.png"
+  },
+  {
+    "site_id": "ES1#COSMO.es",
+    "name": "COSMO",
+    "lang": "es",
+    "xmltv_id": "COSMO.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/cosmo-es.png"
+  },
+  {
+    "site_id": "ES1#Cuatro.es",
+    "name": "Cuatro",
+    "lang": "es",
+    "xmltv_id": "Cuatro.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/cuatro-es.png"
+  },
+  {
+    "site_id": "ES1#Daystar.Español.HD.es",
+    "name": "Daystar Español HD",
+    "lang": "es",
+    "xmltv_id": "DaystarTVEspanol.us@SD"
+  },
+  {
+    "site_id": "ES1#DAZN.1.es",
+    "name": "DAZN 1",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#DAZN.2.es",
+    "name": "DAZN 2",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#DAZN.3.es",
+    "name": "DAZN 3",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#DAZN.4.es",
+    "name": "DAZN 4",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#DAZN.F1.es",
+    "name": "DAZN F1",
+    "lang": "es",
+    "xmltv_id": "DAZNF1.uk"
+  },
+  {
+    "site_id": "ES1#DAZN.LALIGA.2.es",
+    "name": "DAZN LALIGA 2",
+    "lang": "es",
+    "xmltv_id": "DAZNLaLiga2.uk@Spain"
+  },
+  {
+    "site_id": "ES1#DAZN.LALIGA.es",
+    "name": "DAZN LALIGA",
+    "lang": "es",
+    "xmltv_id": "DAZNLaLiga.uk@Spain"
+  },
+  {
+    "site_id": "ES1#Discovery.es",
+    "name": "Discovery",
+    "lang": "es",
+    "xmltv_id": "DiscoveryChannel.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/discovery-channel-es.png"
+  },
+  {
+    "site_id": "ES1#Disney.Channel.es",
+    "name": "Disney Channel",
+    "lang": "es",
+    "xmltv_id": "DisneyChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/disney-channel-us.png"
+  },
+  {
+    "site_id": "ES1#Disney.Junior.es",
+    "name": "Disney Junior",
+    "lang": "es",
+    "xmltv_id": "DisneyJunior.es@SD"
+  },
+  {
+    "site_id": "ES1#Divinity.es",
+    "name": "Divinity",
+    "lang": "es",
+    "xmltv_id": "Divinity.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/divinity-es.png"
+  },
+  {
+    "site_id": "ES1#Dreamworks.es",
+    "name": "Dreamworks",
+    "lang": "es",
+    "xmltv_id": "DreamWorksChannel.es@SD"
+  },
+  {
+    "site_id": "ES1#EITB.BASQUE.es",
+    "name": "EITB BASQUE",
+    "lang": "eu",
+    "xmltv_id": "ETBBasque.es",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/etb-basque-es.png"
+  },
+  {
+    "site_id": "ES1#Energy.es",
+    "name": "Energy",
+    "lang": "es",
+    "xmltv_id": "Energy.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/energy-es.png"
+  },
+  {
+    "site_id": "ES1#Enfamilia.es",
+    "name": "Enfamilia",
+    "lang": "es",
+    "xmltv_id": "CanalPanda.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/canal-panda-es.png"
+  },
+  {
+    "site_id": "ES1#ETB1.es",
+    "name": "ETB1",
+    "lang": "eu",
+    "xmltv_id": "ETB1.es@SD"
+  },
+  {
+    "site_id": "ES1#ETB2.es",
+    "name": "ETB2",
+    "lang": "eu",
+    "xmltv_id": "ETB2.es@SD"
+  },
+  {
+    "site_id": "ES1#ETB3.es",
+    "name": "ETB3",
+    "lang": "eu",
+    "xmltv_id": "ETB3.es@SD"
+  },
+  {
+    "site_id": "ES1#ETB4.es",
+    "name": "ETB4",
+    "lang": "eu",
+    "xmltv_id": "ETB4.es@SD"
+  },
+  {
+    "site_id": "ES1#Eurosport.1.es",
+    "name": "Eurosport 1",
+    "lang": "es",
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
+  },
+  {
+    "site_id": "ES1#Eurosport.2.es",
+    "name": "Eurosport 2",
+    "lang": "es",
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
+  },
+  {
+    "site_id": "ES1#Factoría.de.Ficción.es",
+    "name": "Factoría de Ficción",
+    "lang": "es",
+    "xmltv_id": "FactoriadeFiccion.es"
+  },
+  {
+    "site_id": "ES1#FRANCE24.(FR).es",
+    "name": "FRANCE24 (FR)",
+    "lang": "es",
+    "xmltv_id": "France24.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "ES1#GOL.PLAY.es",
+    "name": "GOL PLAY",
+    "lang": "es",
+    "xmltv_id": "Gol.es",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/gol-es.png"
+  },
+  {
+    "site_id": "ES1#Historia.es",
+    "name": "Historia",
+    "lang": "es",
+    "xmltv_id": "Historia.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/historia-es.png"
+  },
+  {
+    "site_id": "ES1#Hollywood.es",
+    "name": "Hollywood",
+    "lang": "es",
+    "xmltv_id": "CanalHollywood.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/canal-hollywood-es.png"
+  },
+  {
+    "site_id": "ES1#Iberalia.TV.es",
+    "name": "Iberalia TV",
+    "lang": "es",
+    "xmltv_id": "IberaliaTV.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/iberalia-tv-es.png"
+  },
+  {
+    "site_id": "ES1#LA.1.es",
+    "name": "LA 1",
+    "lang": "es",
+    "xmltv_id": "La1.es@SD"
+  },
+  {
+    "site_id": "ES1#LA.2.es",
+    "name": "LA 2",
+    "lang": "es",
+    "xmltv_id": "La2.es@SD"
+  },
+  {
+    "site_id": "ES1#La.Resistencia.es",
+    "name": "La Resistencia",
+    "lang": "es",
+    "xmltv_id": "LaResistencia.es"
+  },
+  {
+    "site_id": "ES1#La.Sexta.es",
+    "name": "La Sexta",
+    "lang": "es",
+    "xmltv_id": "LaSexta.es@SD"
+  },
+  {
+    "site_id": "ES1#LALIGA.TV.BAR.es",
+    "name": "LALIGA TV BAR",
+    "lang": "es",
+    "xmltv_id": "LaLigaTVBar.es"
+  },
+  {
+    "site_id": "ES1#LALIGA.TV.HYPERMOTION.2.es",
+    "name": "LALIGA TV HYPERMOTION 2",
+    "lang": "es",
+    "xmltv_id": "LaLigaHypermotion2.es@SD"
+  },
+  {
+    "site_id": "ES1#LALIGA.TV.HYPERMOTION.3.es",
+    "name": "LALIGA TV HYPERMOTION 3",
+    "lang": "es",
+    "xmltv_id": "LaLigaHypermotion3.es@SD"
+  },
+  {
+    "site_id": "ES1#LALIGA.TV.HYPERMOTION.es",
+    "name": "LALIGA TV HYPERMOTION",
+    "lang": "es",
+    "xmltv_id": "LaLigaHypermotion.es@SD"
+  },
+  {
+    "site_id": "ES1#Libertad.Digital.TV.es",
+    "name": "Libertad Digital TV",
+    "lang": "es",
+    "xmltv_id": "LibertadDigitalTV.es"
+  },
+  {
+    "site_id": "ES1#M+.Acción.es",
+    "name": "M+ Acción",
+    "lang": "es",
+    "xmltv_id": "AccionporMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Anime.es",
+    "name": "M+ Anime",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.BBC.Earth.es",
+    "name": "M+ BBC Earth",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Cine.es",
+    "name": "M+ Cine",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Cine.Español.es",
+    "name": "M+ Cine Español",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Clásicos.es",
+    "name": "M+ Clásicos",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Comedia.es",
+    "name": "M+ Comedia",
+    "lang": "es",
+    "xmltv_id": "ComediaporMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Copa.del.Rey.es",
+    "name": "M+ Copa del Rey",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Deportes.es",
+    "name": "M+ Deportes",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Documentales.es",
+    "name": "M+ Documentales",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Drama.es",
+    "name": "M+ Drama",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Ellas.V.es",
+    "name": "M+ Ellas V",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Golf.2.es",
+    "name": "M+ Golf 2",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Golf.es",
+    "name": "M+ Golf",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Indie.es",
+    "name": "M+ Indie",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.LALIGA.TV.2.es",
+    "name": "M+ LALIGA TV 2",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.LALIGA.TV.3.es",
+    "name": "M+ LALIGA TV 3",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.LALIGA.TV.4.es",
+    "name": "M+ LALIGA TV 4",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.LALIGA.TV.es",
+    "name": "M+ LALIGA TV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.2.es",
+    "name": "M+ Liga de Campeones 2",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones1porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.3.es",
+    "name": "M+ Liga de Campeones 3",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones2porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.4.es",
+    "name": "M+ Liga de Campeones 4",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones3porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.5.es",
+    "name": "M+ Liga de Campeones 5",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones4porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.6.es",
+    "name": "M+ Liga de Campeones 6",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones5porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.7.es",
+    "name": "M+ Liga de Campeones 7",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones6porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.8.es",
+    "name": "M+ Liga de Campeones 8",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones7porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.9.es",
+    "name": "M+ Liga de Campeones 9",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones8porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.10.es",
+    "name": "M+ Liga de Campeones 10",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones9porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.11.es",
+    "name": "M+ Liga de Campeones 11",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones10porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.12.es",
+    "name": "M+ Liga de Campeones 12",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones11porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.13.es",
+    "name": "M+ Liga de Campeones 13",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeones12porMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Liga.de.Campeones.es",
+    "name": "M+ Liga de Campeones",
+    "lang": "es",
+    "xmltv_id": "LigadeCampeonesporMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#M+.Originales.es",
+    "name": "M+ Originales",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Series.es",
+    "name": "M+ Series",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Vamos.BAR.es",
+    "name": "M+ Vamos BAR",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "ES1#M+.Vamos.es",
+    "name": "M+ Vamos",
+    "lang": "es",
+    "xmltv_id": "VamosporMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "ES1#Mezzo.es",
+    "name": "Mezzo",
+    "lang": "es",
+    "xmltv_id": "Mezzo.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mezzo-fr.png"
+  },
+  {
+    "site_id": "ES1#Movistar.Plus+.2.es",
+    "name": "Movistar Plus+ 2",
+    "lang": "es",
+    "xmltv_id": "MovistarPlusPlus2.es"
+  },
+  {
+    "site_id": "ES1#Movistar.Plus+.es",
+    "name": "Movistar Plus+",
+    "lang": "es",
+    "xmltv_id": "MovistarPlusPlus.es"
+  },
+  {
+    "site_id": "ES1#MTV.00s.es",
+    "name": "MTV 00s",
+    "lang": "es",
+    "xmltv_id": "MTV00s.uk@SD"
+  },
+  {
+    "site_id": "ES1#MTV.es",
+    "name": "MTV",
+    "lang": "es",
+    "xmltv_id": "MTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-us.png"
+  },
+  {
+    "site_id": "ES1#Nat.Geo.Wild.es",
+    "name": "Nat Geo Wild",
+    "lang": "es",
+    "xmltv_id": "NationalGeographicWild.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/national-geographic-wild-es.png"
+  },
+  {
+    "site_id": "ES1#National.Geographic.es",
+    "name": "National Geographic",
+    "lang": "es",
+    "xmltv_id": "NatGeo.us@SD"
+  },
+  {
+    "site_id": "ES1#Neox.es",
+    "name": "Neox",
+    "lang": "es",
+    "xmltv_id": "Neox.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/neox-es.png"
+  },
+  {
+    "site_id": "ES1#NICK.JR.es",
+    "name": "NICK JR",
+    "lang": "es",
+    "xmltv_id": "NickJr.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nick-jr-us.png"
+  },
+  {
+    "site_id": "ES1#Nickelodeon.es",
+    "name": "Nickelodeon",
+    "lang": "es",
+    "xmltv_id": "Nickelodeon.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nickelodeon-us.png"
+  },
+  {
+    "site_id": "ES1#Nova.es",
+    "name": "Nova",
+    "lang": "es",
+    "xmltv_id": "Nova.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/nova-es.png"
+  },
+  {
+    "site_id": "ES1#Paramount.Network.es",
+    "name": "Paramount Network",
+    "lang": "es",
+    "xmltv_id": "ParamountNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/paramount-network-us.png"
+  },
+  {
+    "site_id": "ES1#Sky.News.es",
+    "name": "Sky News",
+    "lang": "es",
+    "xmltv_id": "SkyNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-news-uk.png"
+  },
+  {
+    "site_id": "ES1#STAR.Channel.es",
+    "name": "STAR Channel",
+    "lang": "es",
+    "xmltv_id": "StarChannelSpain.es@SD"
+  },
+  {
+    "site_id": "ES1#SYFY.es",
+    "name": "SYFY",
+    "lang": "es",
+    "xmltv_id": "Syfy.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/syfy-us.png"
+  },
+  {
+    "site_id": "ES1#TCM.es",
+    "name": "TCM",
+    "lang": "es",
+    "xmltv_id": "TCM.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tcm-us.png"
+  },
+  {
+    "site_id": "ES1#Telecinco.es",
+    "name": "Telecinco",
+    "lang": "es",
+    "xmltv_id": "Telecinco.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/telecinco-es.png"
+  },
+  {
+    "site_id": "ES1#Teledeporte.es",
+    "name": "Teledeporte",
+    "lang": "es",
+    "xmltv_id": "Teledeporte.es@SD"
+  },
+  {
+    "site_id": "ES1#Telemadrid.es",
+    "name": "Telemadrid",
+    "lang": "es",
+    "xmltv_id": "Telemadrid.es@SD"
+  },
+  {
+    "site_id": "ES1#Telesur.es",
+    "name": "Telesur",
+    "lang": "es",
+    "xmltv_id": "Telesur.ve@SD"
+  },
+  {
+    "site_id": "ES1#TV5MONDE.es",
+    "name": "TV5MONDE",
+    "lang": "es",
+    "xmltv_id": "TV5Monde.fr@SD"
+  },
+  {
+    "site_id": "ES1#TVG.Europa.es",
+    "name": "TVG Europa",
+    "lang": "es",
+    "xmltv_id": "GaliciaTVEuropa.es@SD"
+  },
+  {
+    "site_id": "ES1#Warner.TV.es",
+    "name": "Warner TV",
+    "lang": "es",
+    "xmltv_id": "WarnerTV.de@SD"
+  }
+]

@@ -1,0 +1,2425 @@
+[
+  {
+    "site_id": "iptv/plutotv#0",
+    "name": "TV Land Drama",
+    "lang": "en",
+    "xmltv_id": "TVLandDrama.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2",
+    "name": "Announcement",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3",
+    "name": "Announcement",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#4",
+    "name": "Announcement",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#5",
+    "name": "Announcement",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#10",
+    "name": "Pluto TV Spotlight",
+    "lang": "en",
+    "xmltv_id": "PlutoTVSpotlight.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#20",
+    "name": "Pluto TV Icons",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#30",
+    "name": "Pluto TV Action",
+    "lang": "en",
+    "xmltv_id": "PlutoTVAction.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#40",
+    "name": "Pluto TV Reaction",
+    "lang": "en",
+    "xmltv_id": "PlutoTVReaction.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#50",
+    "name": "Pluto TV Comedy",
+    "lang": "en",
+    "xmltv_id": "PlutoTVComedy.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#55",
+    "name": "Movies on Verizon",
+    "lang": "en",
+    "xmltv_id": "MoviesonVerizon.us"
+  },
+  {
+    "site_id": "iptv/plutotv#60",
+    "name": "Pluto TV Drama",
+    "lang": "en",
+    "xmltv_id": "PlutoTVDrama.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#70",
+    "name": "Pluto TV Fantastic",
+    "lang": "en",
+    "xmltv_id": "PlutoTVFantastic.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#80",
+    "name": "Pluto TV Romance",
+    "lang": "en",
+    "xmltv_id": "PlutoTVRomance.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#90",
+    "name": "Pluto TV Crime Movies",
+    "lang": "en",
+    "xmltv_id": "PlutoTVCrimeMovies.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#100",
+    "name": "Pluto TV Thrillers",
+    "lang": "en",
+    "xmltv_id": "PlutoTVThrillers.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#110",
+    "name": "Pluto TV Horror",
+    "lang": "en",
+    "xmltv_id": "PlutoTVHorror.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#120",
+    "name": "Pluto TV Terror",
+    "lang": "en",
+    "xmltv_id": "PlutoTVTerror.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#130",
+    "name": "Black Cinema",
+    "lang": "en",
+    "xmltv_id": "BlackCinema.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#140",
+    "name": "MovieSphere by Lionsgate",
+    "lang": "en",
+    "xmltv_id": "MovieSphere.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/movie-sphere-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#150",
+    "name": "Pluto TV Staff Picks",
+    "lang": "en",
+    "xmltv_id": "PlutoTVStaffPicks.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#160",
+    "name": "Pluto TV Documentaries",
+    "lang": "en",
+    "xmltv_id": "PlutoTVDocumentaries.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#170",
+    "name": "00s Replay",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#180",
+    "name": "90s Throwback",
+    "lang": "en",
+    "xmltv_id": "90sThrowback.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#190",
+    "name": "80s Rewind",
+    "lang": "en",
+    "xmltv_id": "80sRewind.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#200",
+    "name": "70s Cinema",
+    "lang": "en",
+    "xmltv_id": "70sCinema.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#210",
+    "name": "Paramount Movie Channel",
+    "lang": "en",
+    "xmltv_id": "ParamountMovieChannel.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#220",
+    "name": "Pluto TV Westerns",
+    "lang": "en",
+    "xmltv_id": "PlutoTVWesterns.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#230",
+    "name": "Classic Movies Channel",
+    "lang": "en",
+    "xmltv_id": "ClassicMoviesChannel.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#240",
+    "name": "Pluto TV Cult Films",
+    "lang": "en",
+    "xmltv_id": "PlutoTVCultFilms.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#260",
+    "name": "Flicks of Fury",
+    "lang": "en",
+    "xmltv_id": "FlicksofFury.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#280",
+    "name": "Holiday Movie Favorites By Lifetime",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#290",
+    "name": "Hallmark Movies & More",
+    "lang": "en",
+    "xmltv_id": "HallmarkMoviesMore.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#300",
+    "name": "Pluto TV Christmas",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#310",
+    "name": "Festive Fireplace",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#320",
+    "name": "Crackling Fireplace",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#330",
+    "name": "Holiday Lights",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#340",
+    "name": "Home for the Holidays",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#350",
+    "name": "Vevo Holiday",
+    "lang": "en",
+    "xmltv_id": "VevoHoliday.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#360",
+    "name": "Cine navideño",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#370",
+    "name": "Sitcom Legends",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#380",
+    "name": "TV Land Sitcoms",
+    "lang": "en",
+    "xmltv_id": "TVLandSitcoms.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#381",
+    "name": "TV Land Sitcoms 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#390",
+    "name": "More TV Sitcoms",
+    "lang": "en",
+    "xmltv_id": "MoreTVSitcoms.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#400",
+    "name": "Black Throwbacks",
+    "lang": "en",
+    "xmltv_id": "BlackThrowbacks.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#410",
+    "name": "Funny AF",
+    "lang": "en",
+    "xmltv_id": "FunnyAF.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#420",
+    "name": "Comedy Central Pluto TV",
+    "lang": "en",
+    "xmltv_id": "ComedyCentralPlutoTV.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#430",
+    "name": "Comedy Central Animation",
+    "lang": "en",
+    "xmltv_id": "ComedyCentralAnimation.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#440",
+    "name": "Pluto TV Pranks",
+    "lang": "en",
+    "xmltv_id": "PlutoTVPranks.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#450",
+    "name": "Tosh.0",
+    "lang": "en",
+    "xmltv_id": "Tosh0.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#460",
+    "name": "Wild 'N Out",
+    "lang": "en",
+    "xmltv_id": "WildNOut.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#470",
+    "name": "Kevin Hart’s LOL! Network",
+    "lang": "en",
+    "xmltv_id": "KevinHartsLOLNetwork.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#480",
+    "name": "Stand-Up TV",
+    "lang": "en",
+    "xmltv_id": "StandUpTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#490",
+    "name": "Slightly Off IFC",
+    "lang": "en",
+    "xmltv_id": "SlightlyOffIFC.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#500",
+    "name": "British Comedy",
+    "lang": "en",
+    "xmltv_id": "BritishComedy.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#510",
+    "name": "MST3K",
+    "lang": "en",
+    "xmltv_id": "MST3K.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#520",
+    "name": "RiffTrax",
+    "lang": "en",
+    "xmltv_id": "RiffTrax.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#530",
+    "name": "Always Funny Videos",
+    "lang": "en",
+    "xmltv_id": "AlwaysFunnyVideos.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#540",
+    "name": "FailArmy",
+    "lang": "en",
+    "xmltv_id": "FailArmy.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#550",
+    "name": "Classic TV Comedy",
+    "lang": "en",
+    "xmltv_id": "ClassicTVComedy.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#560",
+    "name": "Classic TV: Families",
+    "lang": "en",
+    "xmltv_id": "ClassicTVFamilies.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#570",
+    "name": "Black Classics",
+    "lang": "en",
+    "xmltv_id": "BlackClassics.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#580",
+    "name": "I Love Lucy",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#590",
+    "name": "The Andy Griffith Show",
+    "lang": "en",
+    "xmltv_id": "TheAndyGriffithShow.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#600",
+    "name": "The Addams Family",
+    "lang": "en",
+    "xmltv_id": "TheAddamsFamily.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#610",
+    "name": "Beverly Hillbillies",
+    "lang": "en",
+    "xmltv_id": "BeverlyHillbillies.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#620",
+    "name": "The Dick Van Dyke Show",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#630",
+    "name": "Happy Days",
+    "lang": "en",
+    "xmltv_id": "HappyDays.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#640",
+    "name": "Three's Company",
+    "lang": "en",
+    "xmltv_id": "ThreesCompany.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#650",
+    "name": "Family Ties",
+    "lang": "en",
+    "xmltv_id": "FamilyTies.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#660",
+    "name": "90210",
+    "lang": "en",
+    "xmltv_id": "90210.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#670",
+    "name": "Baywatch",
+    "lang": "en",
+    "xmltv_id": "Baywatch.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#680",
+    "name": "The Love Boat",
+    "lang": "en",
+    "xmltv_id": "TheLoveBoat.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#690",
+    "name": "Dynasty",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#710",
+    "name": "Classic TV Drama",
+    "lang": "en",
+    "xmltv_id": "ClassicTVDrama.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#720",
+    "name": "Classic TV Crime Drama",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#740",
+    "name": "Matlock",
+    "lang": "en",
+    "xmltv_id": "Matlock.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#760",
+    "name": "Perry Mason",
+    "lang": "en",
+    "xmltv_id": "PerryMason.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#770",
+    "name": "Mission Impossible",
+    "lang": "en",
+    "xmltv_id": "MissionImpossible.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#780",
+    "name": "Western TV",
+    "lang": "en",
+    "xmltv_id": "WesternTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#790",
+    "name": "Gunsmoke",
+    "lang": "en",
+    "xmltv_id": "Gunsmoke.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#800",
+    "name": "Rawhide",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#810",
+    "name": "Wanted: Dead or Alive",
+    "lang": "en",
+    "xmltv_id": "WantedDeadorAlive.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#820",
+    "name": "The Rifleman",
+    "lang": "en",
+    "xmltv_id": "TheRifleman.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#830",
+    "name": "Classic TV Variety",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#870",
+    "name": "The Bob Ross Channel",
+    "lang": "en",
+    "xmltv_id": "TheBobRossChannel.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#890",
+    "name": "Shout! TV",
+    "lang": "en",
+    "xmltv_id": "ShoutFactoryTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#910",
+    "name": "Star Trek",
+    "lang": "en",
+    "xmltv_id": "StarTrek.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#911",
+    "name": "Star Trek 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#920",
+    "name": "More Star Trek",
+    "lang": "en",
+    "xmltv_id": "MoreStarTrek.us"
+  },
+  {
+    "site_id": "iptv/plutotv#930",
+    "name": "Stargate",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#940",
+    "name": "Doctor Who Classic",
+    "lang": "en",
+    "xmltv_id": "DoctorWhoClassic.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#950",
+    "name": "Pluto TV Sci-Fi",
+    "lang": "en",
+    "xmltv_id": "PlutoTVSciFi.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#960",
+    "name": "The Asylum",
+    "lang": "en",
+    "xmltv_id": "TheAsylum.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#970",
+    "name": "Godzilla",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#980",
+    "name": "TokuSHOUTsu",
+    "lang": "en",
+    "xmltv_id": "TokuSHOUTsu.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1010",
+    "name": "CSI",
+    "lang": "en",
+    "xmltv_id": "CSI.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1011",
+    "name": "CSI 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1020",
+    "name": "CSI: Miami",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1030",
+    "name": "CSI: NY",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1040",
+    "name": "Blue Bloods",
+    "lang": "en",
+    "xmltv_id": "BlueBloods.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1050",
+    "name": "Pluto TV Crime Drama",
+    "lang": "en",
+    "xmltv_id": "PlutoTVCrimeDrama.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1060",
+    "name": "More Crime Drama",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1070",
+    "name": "TV Land Drama",
+    "lang": "en",
+    "xmltv_id": "TVLandDrama.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1080",
+    "name": "More TV Drama",
+    "lang": "en",
+    "xmltv_id": "MoreTVDrama.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1090",
+    "name": "Action Drama",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1120",
+    "name": "The Walking Dead Universe",
+    "lang": "en",
+    "xmltv_id": "TheWalkingDeadUniverse.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1130",
+    "name": "Stories by AMC",
+    "lang": "en",
+    "xmltv_id": "StoriesbyAMC.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1140",
+    "name": "Midsomer Murders",
+    "lang": "en",
+    "xmltv_id": "MidsomerMurders.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1150",
+    "name": "BritBox Mysteries",
+    "lang": "en",
+    "xmltv_id": "BritBoxMysteries.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1160",
+    "name": "British Drama",
+    "lang": "en",
+    "xmltv_id": "BritishDrama.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1170",
+    "name": "Pluto TV Suspense",
+    "lang": "en",
+    "xmltv_id": "PlutoTVSuspense.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1180",
+    "name": "Pluto TV Drama Life",
+    "lang": "en",
+    "xmltv_id": "PlutoTVDramaLife.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1190",
+    "name": "Heartland",
+    "lang": "en",
+    "xmltv_id": "Heartland.us@Web",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/heartland-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#1200",
+    "name": "Degrassi",
+    "lang": "en",
+    "xmltv_id": "Degrassi.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#1210",
+    "name": "Pluto TV True Crime",
+    "lang": "en",
+    "xmltv_id": "PlutoTVTrueCrime.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#1220",
+    "name": "Dateline 24/7",
+    "lang": "en",
+    "xmltv_id": "Dateline247.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1230",
+    "name": "48 Hours",
+    "lang": "en",
+    "xmltv_id": "48Hours.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1240",
+    "name": "Unsolved Mysteries",
+    "lang": "en",
+    "xmltv_id": "UnsolvedMysteries.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#1241",
+    "name": "Unsolved Mysteries 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1250",
+    "name": "The New Detectives",
+    "lang": "en",
+    "xmltv_id": "TheNewDetectives.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#1260",
+    "name": "Cold Case Files",
+    "lang": "en",
+    "xmltv_id": "ColdCaseFiles.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1270",
+    "name": "Forensic Files",
+    "lang": "en",
+    "xmltv_id": "ForensicFiles.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1271",
+    "name": "Forensic Files 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1280",
+    "name": "Court TV",
+    "lang": "en",
+    "xmltv_id": "CourtTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/court-tv-uk.png"
+  },
+  {
+    "site_id": "iptv/plutotv#1290",
+    "name": "Crime 360",
+    "lang": "en",
+    "xmltv_id": "Crime360.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1300",
+    "name": "COPS",
+    "lang": "en",
+    "xmltv_id": "Cops.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1305",
+    "name": "Car Chase",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1310",
+    "name": "Dog the Bounty Hunter",
+    "lang": "en",
+    "xmltv_id": "DogtheBountyHunter.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#1320",
+    "name": "Rescue 911",
+    "lang": "en",
+    "xmltv_id": "Rescue911.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1330",
+    "name": "Spike Pluto TV",
+    "lang": "en",
+    "xmltv_id": "SpikePlutoTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1340",
+    "name": "Pluto TV Reality",
+    "lang": "en",
+    "xmltv_id": "PlutoTVReality.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#1350",
+    "name": "Bar Rescue",
+    "lang": "en",
+    "xmltv_id": "BarRescue.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1360",
+    "name": "Pluto TV Lives",
+    "lang": "en",
+    "xmltv_id": "PlutoTVLives.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#1390",
+    "name": "Xtreme Outdoor Presented by HISTORY",
+    "lang": "en",
+    "xmltv_id": "SkillsPlusThrills.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1400",
+    "name": "Spike Outdoors",
+    "lang": "en",
+    "xmltv_id": "SpikeOutdoors.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1410",
+    "name": "Pluto TV Backcountry",
+    "lang": "en",
+    "xmltv_id": "PlutoTVBackcountry.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1420",
+    "name": "Real Disaster Channel",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1430",
+    "name": "Pluto TV Paranormal",
+    "lang": "en",
+    "xmltv_id": "PlutoTVParanormal.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#1440",
+    "name": "Ghost Hunters",
+    "lang": "en",
+    "xmltv_id": "GhostHunters.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#1450",
+    "name": "Pluto TV Cars",
+    "lang": "en",
+    "xmltv_id": "PlutoTVCars.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1460",
+    "name": "Top Gear",
+    "lang": "en",
+    "xmltv_id": "TopGear.uk@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1475",
+    "name": "Dating Disasters",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1480",
+    "name": "Love & Hip Hop",
+    "lang": "en",
+    "xmltv_id": "LoveHipHop.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1481",
+    "name": "Love & Hip Hop 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1490",
+    "name": "VH1 Hip Hop Family",
+    "lang": "en",
+    "xmltv_id": "PlutoTVVH1HipHopFamily.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1491",
+    "name": "VH1 Hip Hop Family 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1500",
+    "name": "VH1 I Love Reality",
+    "lang": "en",
+    "xmltv_id": "PlutoTVVH1ILoveReality.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1530",
+    "name": "Jersey Shore",
+    "lang": "en",
+    "xmltv_id": "JerseyShore.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1550",
+    "name": "Teen Mom",
+    "lang": "en",
+    "xmltv_id": "TeenMom.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1560",
+    "name": "MTV Dating",
+    "lang": "en",
+    "xmltv_id": "MTVDating.us@Germany"
+  },
+  {
+    "site_id": "iptv/plutotv#1570",
+    "name": "Pluto TV Celebrity",
+    "lang": "en",
+    "xmltv_id": "PlutoTVCelebrity.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1590",
+    "name": "Pluto TV Weddings",
+    "lang": "en",
+    "xmltv_id": "PlutoTVWeddings.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#1595",
+    "name": "Real Life on Verizon",
+    "lang": "en",
+    "xmltv_id": "RealLifeonVerizon.us"
+  },
+  {
+    "site_id": "iptv/plutotv#1600",
+    "name": "All Reality by WE tv",
+    "lang": "en",
+    "xmltv_id": "AllRealitybyWEtv.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1610",
+    "name": "Pluto TV Competition",
+    "lang": "en",
+    "xmltv_id": "PlutoTVVs.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1620",
+    "name": "Black Ink Crew",
+    "lang": "en",
+    "xmltv_id": "BlackInkCrew.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1630",
+    "name": "Ink Master",
+    "lang": "en",
+    "xmltv_id": "InkMaster.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1640",
+    "name": "The Challenge",
+    "lang": "en",
+    "xmltv_id": "TheChallenge.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1650",
+    "name": "Dallas Cowboys Cheerleaders",
+    "lang": "en",
+    "xmltv_id": "DallasCowboysCheerleaders.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1660",
+    "name": "Survivor",
+    "lang": "en",
+    "xmltv_id": "Survivor.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1670",
+    "name": "The Amazing Race",
+    "lang": "en",
+    "xmltv_id": "TheAmazingRace.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1680",
+    "name": "Fear Factor",
+    "lang": "en",
+    "xmltv_id": "FearFactor.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#1740",
+    "name": "Paramount+ Picks",
+    "lang": "en",
+    "xmltv_id": "ParamountPlusPicks.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1750",
+    "name": "Showtime Selects",
+    "lang": "en",
+    "xmltv_id": "ShowtimeSelects.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1760",
+    "name": "BET Pluto TV",
+    "lang": "en",
+    "xmltv_id": "BETPlutoTV.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#1761",
+    "name": "BET Pluto TV 3",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1770",
+    "name": "BET Her",
+    "lang": "en",
+    "xmltv_id": "BETHer.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bet-her-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#1780",
+    "name": "Holiday Movie Favorites By Lifetime",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1790",
+    "name": "Hallmark Movies & More",
+    "lang": "en",
+    "xmltv_id": "HallmarkMoviesMore.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1800",
+    "name": "Pluto TV Christmas",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1810",
+    "name": "Pluto TV Love Stories",
+    "lang": "en",
+    "xmltv_id": "PlutoTVLoveStories.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1860",
+    "name": "Bounce XL",
+    "lang": "en",
+    "xmltv_id": "BounceXL.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1870",
+    "name": "Shades of Black",
+    "lang": "en",
+    "xmltv_id": "FuseBeat.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1880",
+    "name": "theGrio",
+    "lang": "en",
+    "xmltv_id": "TheGrioTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1890",
+    "name": "AspireTV Life",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1900",
+    "name": "MTV Pluto TV",
+    "lang": "en",
+    "xmltv_id": "MTVPlutoTV.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#1910",
+    "name": "CMT Pluto TV",
+    "lang": "en",
+    "xmltv_id": "CMTPlutoTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1920",
+    "name": "Logo Pluto TV",
+    "lang": "en",
+    "xmltv_id": "LogoPlutoTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1921",
+    "name": "Logo Pluto TV 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1930",
+    "name": "OUTtv Proud",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#1940",
+    "name": "K-Content by CJ ENM",
+    "lang": "en",
+    "xmltv_id": "KContentbyCJENM.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1950",
+    "name": "Mixible",
+    "lang": "en",
+    "xmltv_id": "ETLive.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/et-live-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#1960",
+    "name": "Live Music Replay",
+    "lang": "en",
+    "xmltv_id": "LiveMusicReplay.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1970",
+    "name": "The Price Is Right",
+    "lang": "en",
+    "xmltv_id": "ThePriceIsRight.us@HD"
+  },
+  {
+    "site_id": "iptv/plutotv#1980",
+    "name": "The Price Is Right: The Barker Era",
+    "lang": "en",
+    "xmltv_id": "ThePriceIsRightTheBarkerEra.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#1990",
+    "name": "Let's Make A Deal",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2020",
+    "name": "Family Feud Classic",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2030",
+    "name": "Hollywood Squares",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2040",
+    "name": "Deal or No Deal",
+    "lang": "en",
+    "xmltv_id": "DealorNoDeal.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2050",
+    "name": "Are You Smarter Than A 5th Grader",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2060",
+    "name": "BUZZR",
+    "lang": "en",
+    "xmltv_id": "Buzzr.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/buzzr-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2070",
+    "name": "Pluto TV Game Shows",
+    "lang": "en",
+    "xmltv_id": "PlutoTVGameShows.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2080",
+    "name": "More TV Game Shows",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2090",
+    "name": "Game Show Central",
+    "lang": "en",
+    "xmltv_id": "GameShowCentral.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2100",
+    "name": "Best of The Drew Barrymore Show",
+    "lang": "en",
+    "xmltv_id": "BestofTheDrewBarrymoreShow.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2110",
+    "name": "Best of Dr. Phil",
+    "lang": "en",
+    "xmltv_id": "BestofDrPhil.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2120",
+    "name": "Nosey",
+    "lang": "en",
+    "xmltv_id": "KTBUDT2.us"
+  },
+  {
+    "site_id": "iptv/plutotv#2121",
+    "name": "Nosey 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2130",
+    "name": "Confess by Nosey",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2140",
+    "name": "Judge Nosey",
+    "lang": "en",
+    "xmltv_id": "JudgeNosey.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#2150",
+    "name": "The Judge Judy Channel",
+    "lang": "en",
+    "xmltv_id": "TheJudgeJudyChannel.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2160",
+    "name": "Hot Bench",
+    "lang": "en",
+    "xmltv_id": "PlutoTVCourtroom.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2180",
+    "name": "Pluto TV Soaps",
+    "lang": "en",
+    "xmltv_id": "PlutoTVSoaps.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2190",
+    "name": "QVC",
+    "lang": "en",
+    "xmltv_id": "QVC.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/qvc-uk.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2200",
+    "name": "HSN",
+    "lang": "en",
+    "xmltv_id": "HSN.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hsn-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2210",
+    "name": "Pluto TV News",
+    "lang": "en",
+    "xmltv_id": "PlutoTVNews.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2220",
+    "name": "CBS News",
+    "lang": "en",
+    "xmltv_id": "CBSNews247.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2240",
+    "name": "CBS News New York",
+    "lang": "en",
+    "xmltv_id": "CBSNewsNewYork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-new-york-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2250",
+    "name": "CBS News Los Angeles",
+    "lang": "en",
+    "xmltv_id": "CBSNewsLosAngeles.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-los-angeles-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2260",
+    "name": "CBS News Chicago",
+    "lang": "en",
+    "xmltv_id": "CBSNewsChicago.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-chicago-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2261",
+    "name": "ABC News Live",
+    "lang": "en",
+    "xmltv_id": "ABCNewsLive.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/abc-news-live-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2270",
+    "name": "CNN HEADLINES",
+    "lang": "en",
+    "xmltv_id": "CNNRePlay.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2280",
+    "name": "NBC News NOW",
+    "lang": "en",
+    "xmltv_id": "NBCNewsNOW.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nbc-news-now-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2290",
+    "name": "TODAY All Day",
+    "lang": "en",
+    "xmltv_id": "TODAYAllDay.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2300",
+    "name": "CBS News Spotlight",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2310",
+    "name": "WeatherNation",
+    "lang": "en",
+    "xmltv_id": "WeatherNation.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2311",
+    "name": "WeatherNation Los Angeles",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2330",
+    "name": "Sky News",
+    "lang": "en",
+    "xmltv_id": "SkyNews.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-news-uk.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2340",
+    "name": "Bloomberg TV",
+    "lang": "en",
+    "xmltv_id": "BloombergTV.us@Plus"
+  },
+  {
+    "site_id": "iptv/plutotv#2350",
+    "name": "Cheddar News",
+    "lang": "en",
+    "xmltv_id": "CheddarNews.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cheddar-news-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2360",
+    "name": "Scripps News",
+    "lang": "en",
+    "xmltv_id": "Newsy.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/newsy-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2370",
+    "name": "Newsmax2",
+    "lang": "en",
+    "xmltv_id": "Newsmax2.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2380",
+    "name": "Blaze Live",
+    "lang": "en",
+    "xmltv_id": "BlazeLive.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2390",
+    "name": "America's Voice News",
+    "lang": "en",
+    "xmltv_id": "AmericasVoiceNews.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2400",
+    "name": "OAN Plus",
+    "lang": "en",
+    "xmltv_id": "OANPlus.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2410",
+    "name": "The First",
+    "lang": "en",
+    "xmltv_id": "TheFirstTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2420",
+    "name": "TYT Network",
+    "lang": "en",
+    "xmltv_id": "TYTNetwork.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2460",
+    "name": "CBS Sports HQ",
+    "lang": "en",
+    "xmltv_id": "CBSSportsHQ.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-sports-hq-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2470",
+    "name": "FOX Sports",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2480",
+    "name": "NFL Channel",
+    "lang": "en",
+    "xmltv_id": "NFLChannel.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2490",
+    "name": "MLB",
+    "lang": "en",
+    "xmltv_id": "MLB.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2500",
+    "name": "PGA TOUR",
+    "lang": "en",
+    "xmltv_id": "PGATour.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2510",
+    "name": "Golazo Network",
+    "lang": "en",
+    "xmltv_id": "CBSSportsGolazoNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-sports-golazo-network-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2520",
+    "name": "PBR RidePass",
+    "lang": "en",
+    "xmltv_id": "PBRRidePass.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2530",
+    "name": "Pluto TV Sports",
+    "lang": "en",
+    "xmltv_id": "PlutoTVSports.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#2540",
+    "name": "Fight",
+    "lang": "en",
+    "xmltv_id": "Fight.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2550",
+    "name": "Bellator MMA",
+    "lang": "en",
+    "xmltv_id": "BellatorMMA.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2560",
+    "name": "PFL MMA",
+    "lang": "en",
+    "xmltv_id": "PFLMMA.pl@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2570",
+    "name": "IMPACT Wrestling",
+    "lang": "en",
+    "xmltv_id": "IMPACTWrestling.us"
+  },
+  {
+    "site_id": "iptv/plutotv#2580",
+    "name": "GLORY Kickboxing",
+    "lang": "en",
+    "xmltv_id": "GloryKickboxing.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#2590",
+    "name": "beIN SPORTS XTRA",
+    "lang": "en",
+    "xmltv_id": "beINSPORTSXTRA.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2600",
+    "name": "MAVTV Select",
+    "lang": "en",
+    "xmltv_id": "RacerSelect.us"
+  },
+  {
+    "site_id": "iptv/plutotv#2610",
+    "name": "Waypoint TV",
+    "lang": "en",
+    "xmltv_id": "WaypointTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/waypoint-tv-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2620",
+    "name": "World Poker Tour",
+    "lang": "en",
+    "xmltv_id": "WorldPokerTour.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#2630",
+    "name": "PokerGo",
+    "lang": "en",
+    "xmltv_id": "PokerGo.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#2690",
+    "name": "Home for the Holidays",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#2700",
+    "name": "This Old House",
+    "lang": "en",
+    "xmltv_id": "ThisOldHouse.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2710",
+    "name": "Pluto TV Home",
+    "lang": "en",
+    "xmltv_id": "PlutoTVHome.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#2720",
+    "name": "Tiny House Nation",
+    "lang": "en",
+    "xmltv_id": "TinyHouseNation.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2730",
+    "name": "PBS Antiques Roadshow",
+    "lang": "en",
+    "xmltv_id": "PBSAntiquesRoadshow.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2740",
+    "name": "Antiques Roadshow UK",
+    "lang": "en",
+    "xmltv_id": "AntiquesRoadshowUK.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2750",
+    "name": "Antiques Road Trip",
+    "lang": "en",
+    "xmltv_id": "AntiquesRoadTrip.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2760",
+    "name": "BBC Home & Garden",
+    "lang": "en",
+    "xmltv_id": "BBCHomeGarden.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2770",
+    "name": "Home.Made.Nation",
+    "lang": "en",
+    "xmltv_id": "LivelyPlace.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2780",
+    "name": "Dabl",
+    "lang": "en",
+    "xmltv_id": "Dabl.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/dabl-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#2790",
+    "name": "The Design Network",
+    "lang": "en",
+    "xmltv_id": "TheDesignNetwork.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2800",
+    "name": "America's Test Kitchen",
+    "lang": "en",
+    "xmltv_id": "AmericasTestKitchen.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2810",
+    "name": "Food TV",
+    "lang": "en",
+    "xmltv_id": "FoodTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2820",
+    "name": "Gordon Ramsay's Hell's Kitchen",
+    "lang": "en",
+    "xmltv_id": "GordonRamsaysHellsKitchen.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2828",
+    "name": "The Jamie Oliver Channel",
+    "lang": "en",
+    "xmltv_id": "TheJamieOliverChannel.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2830",
+    "name": "Iron Chef",
+    "lang": "en",
+    "xmltv_id": "IronChef.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#2840",
+    "name": "BBC Food",
+    "lang": "en",
+    "xmltv_id": "BBCFood.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2850",
+    "name": "Julia Child",
+    "lang": "en",
+    "xmltv_id": "JuliaChild.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2860",
+    "name": "Smithsonian Channel Selects",
+    "lang": "en",
+    "xmltv_id": "SmithsonianChannelSelects.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2870",
+    "name": "Pluto TV History",
+    "lang": "en",
+    "xmltv_id": "PlutoTVHistory.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#2880",
+    "name": "Pluto TV Military",
+    "lang": "en",
+    "xmltv_id": "PlutoTVMilitary.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2890",
+    "name": "POWERNATION",
+    "lang": "en",
+    "xmltv_id": "PowerNationTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2900",
+    "name": "Pluto TV Science",
+    "lang": "en",
+    "xmltv_id": "PlutoTVScience.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#2910",
+    "name": "Voyager Documentaries",
+    "lang": "en",
+    "xmltv_id": "VoyagerDocumentaries.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#2920",
+    "name": "Pluto TV Travel",
+    "lang": "en",
+    "xmltv_id": "PlutoTVTravel.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#2930",
+    "name": "Pluto TV Animals",
+    "lang": "en",
+    "xmltv_id": "PlutoTVAnimals.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#2940",
+    "name": "PBS Nature",
+    "lang": "en",
+    "xmltv_id": "PBSNature.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2950",
+    "name": "The Pet Collective",
+    "lang": "en",
+    "xmltv_id": "ThePetCollective.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#2960",
+    "name": "Dogs 24/7",
+    "lang": "en",
+    "xmltv_id": "Dogs247.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2970",
+    "name": "Cats 24/7",
+    "lang": "en",
+    "xmltv_id": "Cats247.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2980",
+    "name": "Faith TV",
+    "lang": "en",
+    "xmltv_id": "FaithTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#2990",
+    "name": "TBN",
+    "lang": "en",
+    "xmltv_id": "TBN.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tbn-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#3000",
+    "name": "Naturescape",
+    "lang": "en",
+    "xmltv_id": "StingrayNaturescape.ca@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3010",
+    "name": "Nick Jr. Pluto TV",
+    "lang": "en",
+    "xmltv_id": "NickJrPlutoTV.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3020",
+    "name": "Zoom! Zoom!",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3030",
+    "name": "Dora TV",
+    "lang": "en",
+    "xmltv_id": "DoraTV.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3040",
+    "name": "Little Stars Universe",
+    "lang": "en",
+    "xmltv_id": "LittleStarsUniverse.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3050",
+    "name": "Little Baby Bum",
+    "lang": "en",
+    "xmltv_id": "LittleBabyBum.us@UK"
+  },
+  {
+    "site_id": "iptv/plutotv#3060",
+    "name": "Bebecito Bum y sus amigos",
+    "lang": "en",
+    "xmltv_id": "BebecitoBumysusamigos.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3070",
+    "name": "Baby Shark TV",
+    "lang": "en",
+    "xmltv_id": "BabySharkTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3080",
+    "name": "Nick Pluto TV",
+    "lang": "en",
+    "xmltv_id": "NickPlutoTV.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3090",
+    "name": "Nickelodeon en español",
+    "lang": "en",
+    "xmltv_id": "NickenEspanol.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3100",
+    "name": "90's Kids",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3110",
+    "name": "Totally Teen",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3120",
+    "name": "TOTALLY TURTLES",
+    "lang": "en",
+    "xmltv_id": "TotallyTurtles.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3130",
+    "name": "Transformers TV",
+    "lang": "en",
+    "xmltv_id": "TransformersTV.cm"
+  },
+  {
+    "site_id": "iptv/plutotv#3140",
+    "name": "Team Spirit",
+    "lang": "en",
+    "xmltv_id": "TeamSpirit.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3150",
+    "name": "LEGO Kids TV",
+    "lang": "en",
+    "xmltv_id": "LEGOKidsTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3160",
+    "name": "Kids Movie Club",
+    "lang": "en",
+    "xmltv_id": "KidsMovieClub.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3170",
+    "name": "Rainbow Squad",
+    "lang": "en",
+    "xmltv_id": "RainbowSquad.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3180",
+    "name": "Kartoon Channel!",
+    "lang": "en",
+    "xmltv_id": "KartoonChannel.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3190",
+    "name": "pocket.watch",
+    "lang": "en",
+    "xmltv_id": "pocketwatch.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3200",
+    "name": "Ryan and Friends",
+    "lang": "en",
+    "xmltv_id": "RyanandFriends.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3210",
+    "name": "Find Out Why",
+    "lang": "en",
+    "xmltv_id": "FindOutWhy.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3220",
+    "name": "Forever Kids",
+    "lang": "en",
+    "xmltv_id": "ForeverKids.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3230",
+    "name": "Garfield and Friends",
+    "lang": "en",
+    "xmltv_id": "GarfieldandFriends.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3240",
+    "name": "Grande-ish",
+    "lang": "en",
+    "xmltv_id": "Grandeish.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3250",
+    "name": "No Parents Allowed",
+    "lang": "en",
+    "xmltv_id": "NoParentsAllowed.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3260",
+    "name": "Pluto TV Gamer",
+    "lang": "en",
+    "xmltv_id": "PlutoTVGamer.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3265",
+    "name": "Movies for Gamers",
+    "lang": "en",
+    "xmltv_id": "MoviesforGamers.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3270",
+    "name": "IGN",
+    "lang": "en",
+    "xmltv_id": "IGN.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3280",
+    "name": "Pluto TV Pixel World",
+    "lang": "en",
+    "xmltv_id": "MinecrafTV.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3290",
+    "name": "Sailor Moon",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3300",
+    "name": "Anime All Day",
+    "lang": "en",
+    "xmltv_id": "AnimeAllDay.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3310",
+    "name": "One Piece",
+    "lang": "en",
+    "xmltv_id": "OnePiece.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3320",
+    "name": "Naruto",
+    "lang": "en",
+    "xmltv_id": "Naruto.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3330",
+    "name": "Yu-Gi-Oh!",
+    "lang": "en",
+    "xmltv_id": "YuGiOh.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3340",
+    "name": "Lupin the 3rd",
+    "lang": "en",
+    "xmltv_id": "Lupinthe3rd.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3355",
+    "name": "Gaming on Verizon",
+    "lang": "en",
+    "xmltv_id": "GamingonVerizon.us"
+  },
+  {
+    "site_id": "iptv/plutotv#3360",
+    "name": "Vevo Holiday",
+    "lang": "en",
+    "xmltv_id": "VevoHoliday.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3370",
+    "name": "Vevo '70s",
+    "lang": "en",
+    "xmltv_id": "Vevo70s.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3380",
+    "name": "Vevo '80s",
+    "lang": "en",
+    "xmltv_id": "Vevo80s.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3390",
+    "name": "Vevo '90s",
+    "lang": "en",
+    "xmltv_id": "Vevo90s.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3400",
+    "name": "Vevo 2K",
+    "lang": "en",
+    "xmltv_id": "Vevo2K.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3410",
+    "name": "CMT Equal Play",
+    "lang": "en",
+    "xmltv_id": "CMTEqualPlay.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3420",
+    "name": "XITE Classic Country",
+    "lang": "en",
+    "xmltv_id": "XITEClassicCountry.nl@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3430",
+    "name": "Vevo Country",
+    "lang": "en",
+    "xmltv_id": "VevoCountry.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3440",
+    "name": "Yo! MTV",
+    "lang": "en",
+    "xmltv_id": "YoMTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3450",
+    "name": "Vevo True School Hip-Hop",
+    "lang": "en",
+    "xmltv_id": "VevoTrueSchoolHipHop.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3460",
+    "name": "Vevo R&B",
+    "lang": "en",
+    "xmltv_id": "VevoRB.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3470",
+    "name": "Vevo Retro Rock",
+    "lang": "en",
+    "xmltv_id": "VevoRetroRock.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3480",
+    "name": "XITE Rock",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3490",
+    "name": "Vevo Pop",
+    "lang": "en",
+    "xmltv_id": "VevoPop.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3500",
+    "name": "MTV Spankin' New",
+    "lang": "en",
+    "xmltv_id": "MTVSpankinNew.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3510",
+    "name": "MTV Biggest Pop",
+    "lang": "en",
+    "xmltv_id": "MTVBiggestPop.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3520",
+    "name": "MTV Flow Latino",
+    "lang": "en",
+    "xmltv_id": "MTVBlockParty.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3530",
+    "name": "XITE Gospel",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3540",
+    "name": "Classica",
+    "lang": "en",
+    "xmltv_id": "StingrayClassica.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/stingray-classica-ca.png"
+  },
+  {
+    "site_id": "iptv/plutotv#3570",
+    "name": "Vevo Latino",
+    "lang": "en",
+    "xmltv_id": "VevoLatino.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3580",
+    "name": "Vevo Reggaeton & Trap",
+    "lang": "en",
+    "xmltv_id": "VevoReggaetonTrap.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3590",
+    "name": "Cine navideño",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3600",
+    "name": "Cine Premiere",
+    "lang": "en",
+    "xmltv_id": "CinePremiere.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3610",
+    "name": "Séptimo arte",
+    "lang": "en",
+    "xmltv_id": "Septimoarte.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3620",
+    "name": "Cine Clásico",
+    "lang": "en",
+    "xmltv_id": "PlutoTVCineClasico.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3630",
+    "name": "Pelis y Popcorn",
+    "lang": "en",
+    "xmltv_id": "PelisyPopcorn.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3640",
+    "name": "Cine adrenalina",
+    "lang": "en",
+    "xmltv_id": "CineAdrenalina.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3650",
+    "name": "Cine terror",
+    "lang": "en",
+    "xmltv_id": "CineTerror.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3660",
+    "name": "Cine ¡¡jaja!!",
+    "lang": "en",
+    "xmltv_id": "Cinejaja.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3670",
+    "name": "Cine XOXO",
+    "lang": "en",
+    "xmltv_id": "CineXOXO.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3680",
+    "name": "Telemundo telenovelas clásicas",
+    "lang": "en",
+    "xmltv_id": "TelemundoTelenovelasClasicas.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3690",
+    "name": "Novelas con la abuela",
+    "lang": "en",
+    "xmltv_id": "Novelasconlaabuela.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3700",
+    "name": "Amantes del romance",
+    "lang": "en",
+    "xmltv_id": "Amantesdelromance.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3710",
+    "name": "Corazón turco",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3720",
+    "name": "Badass novelas",
+    "lang": "en",
+    "xmltv_id": "Badassnovelas.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3722",
+    "name": "Entre nosotras",
+    "lang": "en",
+    "xmltv_id": "Entrenosotras.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3728",
+    "name": "Series con Ñ",
+    "lang": "en",
+    "xmltv_id": "SeriesconN.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3730",
+    "name": "CSI en Español",
+    "lang": "en",
+    "xmltv_id": "CSIenespanol.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3740",
+    "name": "CSI: Miami en español",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3750",
+    "name": "CSI: NY en español",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#3760",
+    "name": "Crímenes imperfectos",
+    "lang": "en",
+    "xmltv_id": "CrimenesImperfectos.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3770",
+    "name": "Misterios sin resolver",
+    "lang": "en",
+    "xmltv_id": "Misteriossinresolver.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3780",
+    "name": "Investiga",
+    "lang": "en",
+    "xmltv_id": "Investiga.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3790",
+    "name": "Emergencia 911",
+    "lang": "en",
+    "xmltv_id": "Emergencia911.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3800",
+    "name": "Mi obsesión favorita",
+    "lang": "en",
+    "xmltv_id": "Miobsesionfavorita.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3810",
+    "name": "Acapulco Shore",
+    "lang": "en",
+    "xmltv_id": "AcapulcoShore.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3820",
+    "name": "MTV en español",
+    "lang": "en",
+    "xmltv_id": "MTVenEspanol.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3830",
+    "name": "Sony Canal Escape Perfecto",
+    "lang": "en",
+    "xmltv_id": "SonyCanalEscapePerfecto.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3840",
+    "name": "Spike ¡extremo!",
+    "lang": "en",
+    "xmltv_id": "Spikeextremo.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3860",
+    "name": "The Walking Dead en español",
+    "lang": "en",
+    "xmltv_id": "TheWalkingDeadenEspanol.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3870",
+    "name": "AMC en español",
+    "lang": "en",
+    "xmltv_id": "AMCenEspanol.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3900",
+    "name": "EstrellaTV",
+    "lang": "en",
+    "xmltv_id": "EstrellaTV.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3910",
+    "name": "Casos de la Dra. Polo",
+    "lang": "en",
+    "xmltv_id": "Saladeparejas.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3920",
+    "name": "Nosey escándalos",
+    "lang": "en",
+    "xmltv_id": "NoseyEscandalos.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3940",
+    "name": "Comedy Central en español",
+    "lang": "en",
+    "xmltv_id": "ComedyCentralenEspanol.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3950",
+    "name": "Hell's Kitchen en español",
+    "lang": "en",
+    "xmltv_id": "HellsKitchenenespanol.us@US"
+  },
+  {
+    "site_id": "iptv/plutotv#3960",
+    "name": "Foodies",
+    "lang": "en",
+    "xmltv_id": "Foodies.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3970",
+    "name": "Mundo paranormal",
+    "lang": "en",
+    "xmltv_id": "MundoParanormal.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3980",
+    "name": "Mundo viajero",
+    "lang": "en",
+    "xmltv_id": "MundoViajero.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#3990",
+    "name": "Mundo geek",
+    "lang": "en",
+    "xmltv_id": "MundoGeek.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#4000",
+    "name": "Estrella News",
+    "lang": "en",
+    "xmltv_id": "EstrellaNews.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#4010",
+    "name": "Euronews",
+    "lang": "en",
+    "xmltv_id": "EuronewsEnglish.fr@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#4020",
+    "name": "Telefe noticias",
+    "lang": "en",
+    "xmltv_id": "TelefeNoticias.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#4030",
+    "name": "beIN SPORTS XTRA en español",
+    "lang": "en",
+    "xmltv_id": "beINSPORTSXTRAenEspanol.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#4040",
+    "name": "Lucha Libre AAA",
+    "lang": "en",
+    "xmltv_id": "LuchaLibreAAA.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#4050",
+    "name": "Vevo Íconos Latinos",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#4070",
+    "name": "Vevo Regional Mexicano",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#4130",
+    "name": "CBS News Baltimore",
+    "lang": "en",
+    "xmltv_id": "CBSNewsBaltimore.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-baltimore-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4140",
+    "name": "CBS News Bay Area",
+    "lang": "en",
+    "xmltv_id": "CBSNewsBayArea.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-bay-area-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4150",
+    "name": "CBS News Boston",
+    "lang": "en",
+    "xmltv_id": "CBSNewsBoston.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-boston-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4180",
+    "name": "CBS News Chicago",
+    "lang": "en",
+    "xmltv_id": "CBSNewsChicago.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-chicago-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4190",
+    "name": "CBS News Colorado",
+    "lang": "en",
+    "xmltv_id": "CBSNewsColorado.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-colorado-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4200",
+    "name": "CBS News Detroit",
+    "lang": "en",
+    "xmltv_id": "CBSNewsDetroit.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-detroit-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4210",
+    "name": "CBS News Los Angeles",
+    "lang": "en",
+    "xmltv_id": "CBSNewsLosAngeles.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-los-angeles-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4220",
+    "name": "CBS News Miami",
+    "lang": "en",
+    "xmltv_id": "CBSNewsMiami.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-miami-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4230",
+    "name": "CBS News Minnesota",
+    "lang": "en",
+    "xmltv_id": "CBSNewsMinnesota.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-minnesota-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4240",
+    "name": "CBS News New York",
+    "lang": "en",
+    "xmltv_id": "CBSNewsNewYork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-new-york-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4250",
+    "name": "News 12 New York",
+    "lang": "en",
+    "xmltv_id": "News12NewYork.us@SD"
+  },
+  {
+    "site_id": "iptv/plutotv#4270",
+    "name": "CBS News Philadelphia",
+    "lang": "en",
+    "xmltv_id": "CBSNewsPhilly.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-philly-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4280",
+    "name": "CBS News Pittsburgh",
+    "lang": "en",
+    "xmltv_id": "CBSNewsPittsburgh.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-pittsburgh-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4290",
+    "name": "CBS News Sacramento",
+    "lang": "en",
+    "xmltv_id": "CBSNewsSacramento.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cbs-news-sacramento-us.png"
+  },
+  {
+    "site_id": "iptv/plutotv#4300",
+    "name": "KIRO Seattle",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "iptv/plutotv#4310",
+    "name": "CBS News Texas",
+    "lang": "en",
+    "xmltv_id": "CBSNewsDFW.us@SD"
+  }
+]

@@ -1,0 +1,933 @@
+[
+  {
+    "site_id": "HK1#ABC.Australia.hk",
+    "name": "ABC Australia",
+    "lang": "en",
+    "xmltv_id": "ABCAustralia.au@SD"
+  },
+  {
+    "site_id": "HK1#Adult.Promotional.Channel.hk",
+    "name": "Adult Promotional Channel",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#Al.Jazeera.English.hk",
+    "name": "Al Jazeera English",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@English"
+  },
+  {
+    "site_id": "HK1#Animal.Planet.hk",
+    "name": "Animal Planet",
+    "lang": "en",
+    "xmltv_id": "AnimalPlanetSoutheastAsia.sg@SD"
+  },
+  {
+    "site_id": "HK1#Animax.hk",
+    "name": "Animax",
+    "lang": "en",
+    "xmltv_id": "AnimaxAsia.sg@SD"
+  },
+  {
+    "site_id": "HK1#Asian.Food.Network.hk",
+    "name": "Asian Food Network",
+    "lang": "en",
+    "xmltv_id": "AsianFoodNetwork.sg@SD"
+  },
+  {
+    "site_id": "HK1#Astro.Cricket.hk",
+    "name": "Astro Cricket",
+    "lang": "en",
+    "xmltv_id": "AstroCricket.my@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/astro-cricket-my.png"
+  },
+  {
+    "site_id": "HK1#AXN.hk",
+    "name": "AXN",
+    "lang": "en",
+    "xmltv_id": "AXNAsia.sg@Indonesia"
+  },
+  {
+    "site_id": "HK1#BBC.Earth.hk",
+    "name": "BBC Earth",
+    "lang": "en",
+    "xmltv_id": "BBCEarth.uk@HD"
+  },
+  {
+    "site_id": "HK1#BBC.Lifestyle.hk",
+    "name": "BBC Lifestyle",
+    "lang": "en",
+    "xmltv_id": "BBCLifestyle.uk@Asia"
+  },
+  {
+    "site_id": "HK1#BBC.News.hk",
+    "name": "BBC News",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "HK1#beIN.SPORTS.1.hk",
+    "name": "beIN SPORTS 1",
+    "lang": "en",
+    "xmltv_id": "beINSports.qa@MENA"
+  },
+  {
+    "site_id": "HK1#beIN.SPORTS.2.hk",
+    "name": "beIN SPORTS 2",
+    "lang": "en",
+    "xmltv_id": "beINSports2.qa@MENA"
+  },
+  {
+    "site_id": "HK1#beIN.SPORTS.3.hk",
+    "name": "beIN SPORTS 3",
+    "lang": "en",
+    "xmltv_id": "beINSports3.qa@MENA"
+  },
+  {
+    "site_id": "HK1#beIN.SPORTS.4.hk",
+    "name": "beIN SPORTS 4",
+    "lang": "en",
+    "xmltv_id": "beINSports4.qa@MENA"
+  },
+  {
+    "site_id": "HK1#beIN.SPORTS.5.hk",
+    "name": "beIN SPORTS 5",
+    "lang": "en",
+    "xmltv_id": "beINSports5.qa@MENA"
+  },
+  {
+    "site_id": "HK1#beIN.SPORTS.6.hk",
+    "name": "beIN SPORTS 6",
+    "lang": "en",
+    "xmltv_id": "beINSports6.qa@MENA"
+  },
+  {
+    "site_id": "HK1#Bloomberg.Television.hk",
+    "name": "Bloomberg Television",
+    "lang": "en",
+    "xmltv_id": "BloombergTV.us@Asia"
+  },
+  {
+    "site_id": "HK1#Cartoon.Network.hk",
+    "name": "Cartoon Network",
+    "lang": "en",
+    "xmltv_id": "CartoonNetworkAsia.sg@SD"
+  },
+  {
+    "site_id": "HK1#CBeebies.hk",
+    "name": "CBeebies",
+    "lang": "en",
+    "xmltv_id": "CBeebies.uk@SD"
+  },
+  {
+    "site_id": "HK1#CCTV-1.hk",
+    "name": "CCTV-1",
+    "lang": "en",
+    "xmltv_id": "CCTV1.cn@SD"
+  },
+  {
+    "site_id": "HK1#CCTV-4.hk",
+    "name": "CCTV-4",
+    "lang": "en",
+    "xmltv_id": "CCTV4Asia.cn@SD"
+  },
+  {
+    "site_id": "HK1#CCTV-13.hk",
+    "name": "CCTV-13",
+    "lang": "en",
+    "xmltv_id": "CCTV13.cn@SD"
+  },
+  {
+    "site_id": "HK1#CGTN.hk",
+    "name": "CGTN",
+    "lang": "en",
+    "xmltv_id": "CGTN.cn@SD"
+  },
+  {
+    "site_id": "HK1#Channel.Adult.hk",
+    "name": "Channel Adult",
+    "lang": "en",
+    "xmltv_id": "ChannelAdult.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/channel-adult-hk.png"
+  },
+  {
+    "site_id": "HK1#Channel.NewsAsia.hk",
+    "name": "Channel NewsAsia",
+    "lang": "en",
+    "xmltv_id": "CNA.sg@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/singapore/cna-sg.png"
+  },
+  {
+    "site_id": "HK1#CINEMAX.hk",
+    "name": "CINEMAX",
+    "lang": "en",
+    "xmltv_id": "CinemaxAsia.sg@SD"
+  },
+  {
+    "site_id": "HK1#CNBC.hk",
+    "name": "CNBC",
+    "lang": "en",
+    "xmltv_id": "CNBC.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnbc-us.png"
+  },
+  {
+    "site_id": "HK1#CNN.International.hk",
+    "name": "CNN International",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@AsiaPacific"
+  },
+  {
+    "site_id": "HK1#COLORS.hk",
+    "name": "COLORS",
+    "lang": "en",
+    "xmltv_id": "Colors.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/colors-in.png"
+  },
+  {
+    "site_id": "HK1#Crime.+.Investigation.hk",
+    "name": "Crime + Investigation",
+    "lang": "en",
+    "xmltv_id": "CrimePlusInvestigation.uk@SD"
+  },
+  {
+    "site_id": "HK1#CTI.Asia.Channel.hk",
+    "name": "CTI Asia Channel",
+    "lang": "en",
+    "xmltv_id": "CTiAsia.tw@SD"
+  },
+  {
+    "site_id": "HK1#Da.Vinci.hk",
+    "name": "Da Vinci",
+    "lang": "en",
+    "xmltv_id": "DaVinci.de@SD"
+  },
+  {
+    "site_id": "HK1#Discovery.Asia.hk",
+    "name": "Discovery Asia",
+    "lang": "en",
+    "xmltv_id": "DiscoveryAsia.sg@SD"
+  },
+  {
+    "site_id": "HK1#Discovery.Channel.hk",
+    "name": "Discovery Channel",
+    "lang": "en",
+    "xmltv_id": "DiscoveryChannel.id@SD"
+  },
+  {
+    "site_id": "HK1#Discovery.Science.hk",
+    "name": "Discovery Science",
+    "lang": "en",
+    "xmltv_id": "DiscoveryScience.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/discovery-science-us.png"
+  },
+  {
+    "site_id": "HK1#DMAX.hk",
+    "name": "DMAX",
+    "lang": "en",
+    "xmltv_id": "DMAX.de@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dmax-de.png"
+  },
+  {
+    "site_id": "HK1#Dragon.TV.hk",
+    "name": "Dragon TV",
+    "lang": "en",
+    "xmltv_id": "DragonTV.cn@SD"
+  },
+  {
+    "site_id": "HK1#DreamWorks.hk",
+    "name": "DreamWorks",
+    "lang": "en",
+    "xmltv_id": "DreamWorksChannelAsia.us@SD"
+  },
+  {
+    "site_id": "HK1#DW.(English).hk",
+    "name": "DW (English)",
+    "lang": "en",
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
+  },
+  {
+    "site_id": "HK1#ETTV.Asia.Channel.hk",
+    "name": "ETTV Asia Channel",
+    "lang": "en",
+    "xmltv_id": "ETTVAsiaNews.tw@SD"
+  },
+  {
+    "site_id": "HK1#ETTV.Asia.News.hk",
+    "name": "ETTV Asia News",
+    "lang": "en",
+    "xmltv_id": "EBCNewsAsia.tw@SD"
+  },
+  {
+    "site_id": "HK1#euronews.hk",
+    "name": "euronews",
+    "lang": "en",
+    "xmltv_id": "EuronewsEnglish.fr@SD"
+  },
+  {
+    "site_id": "HK1#Food.Network.hk",
+    "name": "Food Network",
+    "lang": "en",
+    "xmltv_id": "FoodNetwork.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/food-network-uk.png"
+  },
+  {
+    "site_id": "HK1#France.24.(French).hk",
+    "name": "France 24 (French)",
+    "lang": "en",
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "HK1#France.24.hk",
+    "name": "France 24",
+    "lang": "en",
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "HK1#GBA.Satellite.TV.hk",
+    "name": "GBA Satellite TV",
+    "lang": "en",
+    "xmltv_id": "TVS2SouthernTV.cn@SD"
+  },
+  {
+    "site_id": "HK1#GMA.Life.TV.hk",
+    "name": "GMA Life TV",
+    "lang": "en",
+    "xmltv_id": "GMALifeTV.ph@SD"
+  },
+  {
+    "site_id": "HK1#GMA.News.TV.hk",
+    "name": "GMA News TV",
+    "lang": "en",
+    "xmltv_id": "GMANewsTV.ph@SD"
+  },
+  {
+    "site_id": "HK1#GMA.Pinoy.TV.hk",
+    "name": "GMA Pinoy TV",
+    "lang": "en",
+    "xmltv_id": "GMAPinoyTVAsiaPacific.ph@SD"
+  },
+  {
+    "site_id": "HK1#HBO.Family.hk",
+    "name": "HBO Family",
+    "lang": "en",
+    "xmltv_id": "HBOFamilyAsia.sg@SD"
+  },
+  {
+    "site_id": "HK1#HBO.Hits.hk",
+    "name": "HBO Hits",
+    "lang": "en",
+    "xmltv_id": "HBOHitsAsia.sg@SD"
+  },
+  {
+    "site_id": "HK1#HBO.hk",
+    "name": "HBO",
+    "lang": "en",
+    "xmltv_id": "HBOAsia.sg@Vietnam"
+  },
+  {
+    "site_id": "HK1#HBO.Signature.hk",
+    "name": "HBO Signature",
+    "lang": "en",
+    "xmltv_id": "HBOSignatureAsia.sg@SD"
+  },
+  {
+    "site_id": "HK1#HISTORY.hk",
+    "name": "HISTORY",
+    "lang": "en",
+    "xmltv_id": "HistoryAsia.us@SD"
+  },
+  {
+    "site_id": "HK1#HITS.hk",
+    "name": "HITS",
+    "lang": "en",
+    "xmltv_id": "HITS.sg@SD"
+  },
+  {
+    "site_id": "HK1#HITS.MOVIES.hk",
+    "name": "HITS MOVIES",
+    "lang": "en",
+    "xmltv_id": "HITSMovies.sg@SD"
+  },
+  {
+    "site_id": "HK1#Ice.Fire.hk",
+    "name": "Ice Fire",
+    "lang": "en",
+    "xmltv_id": "IceFire.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/ice-fire-hk.png"
+  },
+  {
+    "site_id": "HK1#Jade.hk",
+    "name": "Jade",
+    "lang": "zh",
+    "xmltv_id": "Jade.hk@SD"
+  },
+  {
+    "site_id": "HK1#KBS.World.hk",
+    "name": "KBS World",
+    "lang": "en",
+    "xmltv_id": "KBSWorld.kr@SD"
+  },
+  {
+    "site_id": "HK1#Lifetime.hk",
+    "name": "Lifetime",
+    "lang": "en",
+    "xmltv_id": "Lifetime.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/lifetime-us.png"
+  },
+  {
+    "site_id": "HK1#Love.Nature.4K.hk",
+    "name": "Love Nature 4K",
+    "lang": "en",
+    "xmltv_id": "LoveNature.ca@4K",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/love-nature-ca.png"
+  },
+  {
+    "site_id": "HK1#Love.Nature.hk",
+    "name": "Love Nature",
+    "lang": "en",
+    "xmltv_id": "LoveNature.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/love-nature-ca.png"
+  },
+  {
+    "site_id": "HK1#Moonbug.hk",
+    "name": "Moonbug",
+    "lang": "en",
+    "xmltv_id": "MoonbugKids.uk@SD"
+  },
+  {
+    "site_id": "HK1#MOOV.Concert/MV.hk",
+    "name": "MOOV Concert/MV",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#MOVIE.MOVIE.hk",
+    "name": "MOVIE MOVIE",
+    "lang": "en",
+    "xmltv_id": "MovieMovie.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/movie-movie-hk.png"
+  },
+  {
+    "site_id": "HK1#MTV.India.hk",
+    "name": "MTV India",
+    "lang": "en",
+    "xmltv_id": "MTV.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/mtv-in.png"
+  },
+  {
+    "site_id": "HK1#MUTV.hk",
+    "name": "MUTV",
+    "lang": "en",
+    "xmltv_id": "MUTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/mutv-uk.png"
+  },
+  {
+    "site_id": "HK1#NBA.TV.hk",
+    "name": "NBA TV",
+    "lang": "en",
+    "xmltv_id": "NBATV.us@SD"
+  },
+  {
+    "site_id": "HK1#Netflix.hk",
+    "name": "Netflix",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#NHK.WORLD-JAPAN.hk",
+    "name": "NHK WORLD-JAPAN",
+    "lang": "en",
+    "xmltv_id": "NHKWorldJapan.jp@SD"
+  },
+  {
+    "site_id": "HK1#NHK.World.Premium.hk",
+    "name": "NHK World Premium",
+    "lang": "en",
+    "xmltv_id": "NHKWorldPremium.jp@SD"
+  },
+  {
+    "site_id": "HK1#Nick.Jr..hk",
+    "name": "Nick Jr.",
+    "lang": "en",
+    "xmltv_id": "NickJrAsia.sg@SD"
+  },
+  {
+    "site_id": "HK1#Nickelodeon.hk",
+    "name": "Nickelodeon",
+    "lang": "en",
+    "xmltv_id": "NickelodeonAsia.sg@SD"
+  },
+  {
+    "site_id": "HK1#Now668.hk",
+    "name": "Now668",
+    "lang": "en",
+    "xmltv_id": "now668.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-668-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Baogu.Movies.hk",
+    "name": "Now Baogu Movies",
+    "lang": "en",
+    "xmltv_id": "nowBaoguMovies.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-baogu-movies-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Baogu.Superstars.hk",
+    "name": "Now Baogu Superstars",
+    "lang": "en",
+    "xmltv_id": "nowBaoguSuperstars.hk@SD"
+  },
+  {
+    "site_id": "HK1#Now.Business.News.Channel.hk",
+    "name": "Now Business News Channel",
+    "lang": "en",
+    "xmltv_id": "nowBusinessNewsChannel.hk@SD"
+  },
+  {
+    "site_id": "HK1#Now.Chinese.Drama.Channel.hk",
+    "name": "Now Chinese Drama Channel",
+    "lang": "en",
+    "xmltv_id": "nowChineseDramaChannel.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-chinese-drama-channel-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Data.hk",
+    "name": "Now Data",
+    "lang": "en",
+    "xmltv_id": "nowData.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-data-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Direct.hk",
+    "name": "Now Direct",
+    "lang": "en",
+    "xmltv_id": "nowDirect.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-direct-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Golf.2.hk",
+    "name": "Now Golf 2",
+    "lang": "en",
+    "xmltv_id": "nowGolf2.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-golf-2-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Golf.3.hk",
+    "name": "Now Golf 3",
+    "lang": "en",
+    "xmltv_id": "nowGolf3.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-golf-3-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.NEWS.hk",
+    "name": "Now NEWS",
+    "lang": "en",
+    "xmltv_id": "nowNews.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-news-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.1.hk",
+    "name": "Now Sports 1",
+    "lang": "en",
+    "xmltv_id": "nowSports1.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-1-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.2.hk",
+    "name": "Now Sports 2",
+    "lang": "en",
+    "xmltv_id": "nowSports2.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-2-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.3.hk",
+    "name": "Now Sports 3",
+    "lang": "en",
+    "xmltv_id": "nowSports3.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-3-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.4.hk",
+    "name": "Now Sports 4",
+    "lang": "en",
+    "xmltv_id": "nowSports4.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-4-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.4K.1.hk",
+    "name": "Now Sports 4K 1",
+    "lang": "en",
+    "xmltv_id": "nowSports4K1.hk@SD"
+  },
+  {
+    "site_id": "HK1#Now.Sports.4K.2.hk",
+    "name": "Now Sports 4K 2",
+    "lang": "en",
+    "xmltv_id": "nowSports4K2.hk"
+  },
+  {
+    "site_id": "HK1#Now.Sports.4K.3.hk",
+    "name": "Now Sports 4K 3",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#Now.Sports.5.hk",
+    "name": "Now Sports 5",
+    "lang": "en",
+    "xmltv_id": "nowSports5.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-5-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.6.hk",
+    "name": "Now Sports 6",
+    "lang": "en",
+    "xmltv_id": "nowSports6.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-6-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.7.hk",
+    "name": "Now Sports 7",
+    "lang": "en",
+    "xmltv_id": "nowSports7.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-7-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.641.hk",
+    "name": "Now Sports 641",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#Now.Sports.650.hk",
+    "name": "Now Sports 650",
+    "lang": "en",
+    "xmltv_id": "nowSports650.hk"
+  },
+  {
+    "site_id": "HK1#Now.Sports.651.hk",
+    "name": "Now Sports 651",
+    "lang": "en",
+    "xmltv_id": "nowSports651.hk"
+  },
+  {
+    "site_id": "HK1#Now.Sports.652.hk",
+    "name": "Now Sports 652",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#Now.Sports.Plus.hk",
+    "name": "Now Sports Plus",
+    "lang": "en",
+    "xmltv_id": "nowSportsPlus.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-plus-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.Premier.League.1.hk",
+    "name": "Now Sports Premier League 1",
+    "lang": "en",
+    "xmltv_id": "nowSportsPremierLeague1.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-premier-league-1-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.Premier.League.2.hk",
+    "name": "Now Sports Premier League 2",
+    "lang": "en",
+    "xmltv_id": "nowSportsPremierLeague2.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-premier-league-2-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.Premier.League.3.hk",
+    "name": "Now Sports Premier League 3",
+    "lang": "en",
+    "xmltv_id": "nowSportsPremierLeague3.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-premier-league-3-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.Premier.League.4.hk",
+    "name": "Now Sports Premier League 4",
+    "lang": "en",
+    "xmltv_id": "nowSportsPremierLeague4.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-premier-league-4-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.Premier.League.5.hk",
+    "name": "Now Sports Premier League 5",
+    "lang": "en",
+    "xmltv_id": "nowSportsPremierLeague5.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-premier-league-5-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.Premier.League.6.hk",
+    "name": "Now Sports Premier League 6",
+    "lang": "en",
+    "xmltv_id": "nowSportsPremierLeague6.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-premier-league-6-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.Premier.League.7.hk",
+    "name": "Now Sports Premier League 7",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#Now.Sports.Premier.League.TV.hk",
+    "name": "Now Sports Premier League TV",
+    "lang": "en",
+    "xmltv_id": "nowSportsPremierLeagueTV.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-premier-league-tv-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Sports.Prime.hk",
+    "name": "Now Sports Prime",
+    "lang": "en",
+    "xmltv_id": "nowSportsPrime.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-sports-prime-hk.png"
+  },
+  {
+    "site_id": "HK1#Now.Video.Express.hk",
+    "name": "Now Video Express",
+    "lang": "en",
+    "xmltv_id": "nowVideoExpress.hk@SD"
+  },
+  {
+    "site_id": "HK1#NowJelli.hk",
+    "name": "NowJelli",
+    "lang": "en",
+    "xmltv_id": "nowJelli.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/now-jelli-hk.png"
+  },
+  {
+    "site_id": "HK1#OneTV.General.Channel.hk",
+    "name": "OneTV General Channel",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#Outdoor.Channel.hk",
+    "name": "Outdoor Channel",
+    "lang": "en",
+    "xmltv_id": "OutdoorChannelInternational.us@SD"
+  },
+  {
+    "site_id": "HK1#Panda.TV.hk",
+    "name": "Panda TV",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#Pearl.hk",
+    "name": "Pearl",
+    "lang": "zh",
+    "xmltv_id": "Pearl.hk@SD"
+  },
+  {
+    "site_id": "HK1#Phoenix.Chinese.Channel.hk",
+    "name": "Phoenix Chinese Channel",
+    "lang": "en",
+    "xmltv_id": "PhoenixChineseChannel.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/phoenix-chinese-channel-hk.png"
+  },
+  {
+    "site_id": "HK1#Phoenix.Hong.Kong.Channel.hk",
+    "name": "Phoenix Hong Kong Channel",
+    "lang": "en",
+    "xmltv_id": "PhoenixHongKongChannel.hk@SD"
+  },
+  {
+    "site_id": "HK1#Phoenix.InfoNews.Channel.hk",
+    "name": "Phoenix InfoNews Channel",
+    "lang": "en",
+    "xmltv_id": "PhoenixInfoNewsChannel.hk@SD"
+  },
+  {
+    "site_id": "HK1#Premier.Sports.hk",
+    "name": "Premier Sports",
+    "lang": "en",
+    "xmltv_id": "RugbyPassTV.uk@SD"
+  },
+  {
+    "site_id": "HK1#ROCK.Entertainment.hk",
+    "name": "ROCK Entertainment",
+    "lang": "en",
+    "xmltv_id": "ROCKEntertainment.sg@SD"
+  },
+  {
+    "site_id": "HK1#RT.hk",
+    "name": "RT",
+    "lang": "en",
+    "xmltv_id": "RTIndia.in@HD"
+  },
+  {
+    "site_id": "HK1#Sansha.TV.hk",
+    "name": "Sansha TV",
+    "lang": "en",
+    "xmltv_id": "SanshaTV.cn@SD"
+  },
+  {
+    "site_id": "HK1#Shenzhen.TV.hk",
+    "name": "Shenzhen TV",
+    "lang": "en",
+    "xmltv_id": "ShenzhenSatelliteTV.cn@SD"
+  },
+  {
+    "site_id": "HK1#Sky.News.hk",
+    "name": "Sky News",
+    "lang": "en",
+    "xmltv_id": "SkyNews.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-news-uk.png"
+  },
+  {
+    "site_id": "HK1#Sony.MAX.hk",
+    "name": "Sony MAX",
+    "lang": "en",
+    "xmltv_id": "SonyMAX.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/sony-max-in.png"
+  },
+  {
+    "site_id": "HK1#Sony.SAB.hk",
+    "name": "Sony SAB",
+    "lang": "en",
+    "xmltv_id": "SonySAB.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/sony-sab-in.png"
+  },
+  {
+    "site_id": "HK1#Sony.TV.(India).hk",
+    "name": "Sony TV (India)",
+    "lang": "en",
+    "xmltv_id": "SonyEntertainmentTelevision.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/sony-entertainment-television-in.png"
+  },
+  {
+    "site_id": "HK1#Sports.Schedule.Highlights.hk",
+    "name": "Sports Schedule Highlights",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#Star.Bharat.hk",
+    "name": "Star Bharat",
+    "lang": "en",
+    "xmltv_id": "StarBharat.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-bharat-in.png"
+  },
+  {
+    "site_id": "HK1#Star.Gold.hk",
+    "name": "Star Gold",
+    "lang": "en",
+    "xmltv_id": "StarGold.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-gold-in.png"
+  },
+  {
+    "site_id": "HK1#STAR.PLUS.hk",
+    "name": "STAR PLUS",
+    "lang": "en",
+    "xmltv_id": "StarPlus.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-plus-in.png"
+  },
+  {
+    "site_id": "HK1#TFC.hk",
+    "name": "TFC",
+    "lang": "en",
+    "xmltv_id": "TheFilipinoChannelAsia.us@SD"
+  },
+  {
+    "site_id": "HK1#TLC.hk",
+    "name": "TLC",
+    "lang": "en",
+    "xmltv_id": "TLC.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tlc-us.png"
+  },
+  {
+    "site_id": "HK1#TV5MONDE.ASIE.hk",
+    "name": "TV5MONDE ASIE",
+    "lang": "en",
+    "xmltv_id": "TV5MondeAsia.fr@SD"
+  },
+  {
+    "site_id": "HK1#TV5MONDE.Style.hk",
+    "name": "TV5MONDE Style",
+    "lang": "en",
+    "xmltv_id": "TV5MondeStyle.fr@SD"
+  },
+  {
+    "site_id": "HK1#TVB.News.hk",
+    "name": "TVB News",
+    "lang": "zh",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#TVB.Plus.hk",
+    "name": "TVB Plus",
+    "lang": "zh",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#tvN.hk",
+    "name": "tvN",
+    "lang": "en",
+    "xmltv_id": "tvNAsia.hk@SD"
+  },
+  {
+    "site_id": "HK1#Viu.channel.hk",
+    "name": "Viu channel",
+    "lang": "en",
+    "xmltv_id": "ViuChannel.hk"
+  },
+  {
+    "site_id": "HK1#ViuTV.hk",
+    "name": "ViuTV",
+    "lang": "en",
+    "xmltv_id": "ViuTV.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/viu-tv-hk.png"
+  },
+  {
+    "site_id": "HK1#ViuTVsix.hk",
+    "name": "ViuTVsix",
+    "lang": "en",
+    "xmltv_id": "ViuTVsix.hk@SD"
+  },
+  {
+    "site_id": "HK1#Watch.N.Learn.hk",
+    "name": "Watch N Learn",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#Yicai.TV.hk",
+    "name": "Yicai TV",
+    "lang": "en",
+    "xmltv_id": "YicaiTV.cn@SD"
+  },
+  {
+    "site_id": "HK1#Zee.Cinema.International.hk",
+    "name": "Zee Cinema International",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "HK1#Zee.News.hk",
+    "name": "Zee News",
+    "lang": "en",
+    "xmltv_id": "ZeeNews.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-news-in.png"
+  },
+  {
+    "site_id": "HK1#Zee.TV.hk",
+    "name": "Zee TV",
+    "lang": "en",
+    "xmltv_id": "ZeeTVAsiaPacific.sg@SD"
+  },
+  {
+    "site_id": "HK1#Zhejiang.Satellite.TV.hk",
+    "name": "Zhejiang Satellite TV",
+    "lang": "en",
+    "xmltv_id": "ZhejiangSatelliteTV.cn@SD"
+  }
+]

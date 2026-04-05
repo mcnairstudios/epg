@@ -1,0 +1,518 @@
+[
+  {
+    "site_id": "AR1#Canal.1.(Colombia).ar",
+    "name": "Canal 1 (Colombia)",
+    "lang": "es",
+    "xmltv_id": "Canal1.co@SD"
+  },
+  {
+    "site_id": "AR1#Canal.13.de.Argentina.(El.Trece).ar",
+    "name": "Canal 13 de Argentina (El Trece)",
+    "lang": "es",
+    "xmltv_id": "ElTrece.ar@SD"
+  },
+  {
+    "site_id": "AR1#Canal.24.Horas.(TVE).ar",
+    "name": "Canal 24 Horas (TVE)",
+    "lang": "es",
+    "xmltv_id": "Canal24Horas.es@SD"
+  },
+  {
+    "site_id": "AR1#Canal.America.TV.(Argentina).ar",
+    "name": "Canal America TV (Argentina)",
+    "lang": "es",
+    "xmltv_id": "AmericaTV.ar@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Animal.Planet.(Argentina).ar",
+    "name": "Canal Animal Planet (Argentina)",
+    "lang": "es",
+    "xmltv_id": "AnimalPlanet.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/animal-planet-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.AXN.(Argentina).ar",
+    "name": "Canal AXN (Argentina)",
+    "lang": "es",
+    "xmltv_id": "AXN.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Baby.TV.(Latinoamérica).ar",
+    "name": "Canal Baby TV (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "BabyTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/baby-tv-uk.png"
+  },
+  {
+    "site_id": "AR1#Canal.Cablenoticias.ar",
+    "name": "Canal Cablenoticias",
+    "lang": "es",
+    "xmltv_id": "Cablenoticias.co@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Capital.(Colombia).ar",
+    "name": "Canal Capital (Colombia)",
+    "lang": "es",
+    "xmltv_id": "CanalCapital.co@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Cartoon.Network.(Argentina).ar",
+    "name": "Canal Cartoon Network (Argentina)",
+    "lang": "es",
+    "xmltv_id": "CartoonNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoon-network-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.Cartoonito.(Argentina).ar",
+    "name": "Canal Cartoonito (Argentina)",
+    "lang": "es",
+    "xmltv_id": "Cartoonito.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoonito-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.Cinecanal.(Argentina).ar",
+    "name": "Canal Cinecanal (Argentina)",
+    "lang": "es",
+    "xmltv_id": "Cinecanal.us@South"
+  },
+  {
+    "site_id": "AR1#Canal.City.TV.ar",
+    "name": "Canal City TV",
+    "lang": "es",
+    "xmltv_id": "CitytvBogota.co@SD"
+  },
+  {
+    "site_id": "AR1#Canal.CNN.en.Español.ar",
+    "name": "Canal CNN en Español",
+    "lang": "es",
+    "xmltv_id": "CNNenEspanol.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.CNN.Internacional.ar",
+    "name": "Canal CNN Internacional",
+    "lang": "es",
+    "xmltv_id": "CNN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnn-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.De.Película.ar",
+    "name": "Canal De Película",
+    "lang": "es",
+    "xmltv_id": "DePeliculaLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Discovery.Kids.(Argentina).ar",
+    "name": "Canal Discovery Kids (Argentina)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryKids.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Discovery.Theater.(Latinoamérica).ar",
+    "name": "Canal Discovery Theater (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryWorld.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Discovery.Turbo.(Latinoamérica).ar",
+    "name": "Canal Discovery Turbo (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryTurbo.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-turbo-uk.png"
+  },
+  {
+    "site_id": "AR1#Canal.Discovery.World.Latinoamérica.ar",
+    "name": "Canal Discovery World Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "DiscoveryWorld.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Disney.Channel.(Argentina).ar",
+    "name": "Canal Disney Channel (Argentina)",
+    "lang": "es",
+    "xmltv_id": "DisneyChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/disney-channel-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.Disney.Junior.(Argentina).ar",
+    "name": "Canal Disney Junior (Argentina)",
+    "lang": "es",
+    "xmltv_id": "DisneyJunior.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.DW.(Latinoamérica).ar",
+    "name": "Canal DW (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "DW.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
+  },
+  {
+    "site_id": "AR1#Canal.Elgourmet.ar",
+    "name": "Canal Elgourmet",
+    "lang": "es",
+    "xmltv_id": "ElGourmet.ar@South",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/el-gourmet-ar.png"
+  },
+  {
+    "site_id": "AR1#Canal.Enlace.(TBN).ar",
+    "name": "Canal Enlace (TBN)",
+    "lang": "es",
+    "xmltv_id": "Enlace.cr@SD"
+  },
+  {
+    "site_id": "AR1#Canal.ESPN.2.(Bolivia).ar",
+    "name": "Canal ESPN 2 (Bolivia)",
+    "lang": "es",
+    "xmltv_id": "ESPN2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-2-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.ESPN.3.(Argentina).ar",
+    "name": "Canal ESPN 3 (Argentina)",
+    "lang": "es",
+    "xmltv_id": "ESPN3.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-3-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.ESPN.3.(Bolivia).ar",
+    "name": "Canal ESPN 3 (Bolivia)",
+    "lang": "es",
+    "xmltv_id": "ESPN3.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-3-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.ESPN.(Argentina).ar",
+    "name": "Canal ESPN (Argentina)",
+    "lang": "es",
+    "xmltv_id": "ESPN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.Europa.Europa.ar",
+    "name": "Canal Europa Europa",
+    "lang": "es",
+    "xmltv_id": "EuropaEuropa.ar@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/europa-europa-ar.png"
+  },
+  {
+    "site_id": "AR1#Canal.EWTN.en.Español.ar",
+    "name": "Canal EWTN en Español",
+    "lang": "es",
+    "xmltv_id": "EWTN.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Film.&.Arts.ar",
+    "name": "Canal Film &amp; Arts",
+    "lang": "es",
+    "xmltv_id": "FilmArts.ar@Panregional"
+  },
+  {
+    "site_id": "AR1#Canal.Galicia.TV.ar",
+    "name": "Canal Galicia TV",
+    "lang": "es",
+    "xmltv_id": "GaliciaTVEuropa.es@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Golden.(Argentina).ar",
+    "name": "Canal Golden (Argentina)",
+    "lang": "es",
+    "xmltv_id": "Golden.mx@Panregional",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/golden-mx.png"
+  },
+  {
+    "site_id": "AR1#Canal.HBO.(Argentina).ar",
+    "name": "Canal HBO (Argentina)",
+    "lang": "es",
+    "xmltv_id": "HBOLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.HBO.Family.Latinoamérica.ar",
+    "name": "Canal HBO Family Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "HBOFamily.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hbo-family-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.HBO.Mundi.ar",
+    "name": "Canal HBO Mundi",
+    "lang": "es",
+    "xmltv_id": "HBOMundi.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.HBO.Plus.ar",
+    "name": "Canal HBO Plus",
+    "lang": "es",
+    "xmltv_id": "HBOPlus.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.HBO.Pop.ar",
+    "name": "Canal HBO Pop",
+    "lang": "es",
+    "xmltv_id": "HBOPop.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.HBO.Signature.Latinoamérica.ar",
+    "name": "Canal HBO Signature Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "HBOSignature.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.HBO.Xtreme.ar",
+    "name": "Canal HBO Xtreme",
+    "lang": "es",
+    "xmltv_id": "HBOXtreme.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.History.2.(Argentina).ar",
+    "name": "Canal History 2 (Argentina)",
+    "lang": "es",
+    "xmltv_id": "H2.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.HTV.ar",
+    "name": "Canal HTV",
+    "lang": "es",
+    "xmltv_id": "HTV.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Institucional.(Colombia).ar",
+    "name": "Canal Institucional (Colombia)",
+    "lang": "es",
+    "xmltv_id": "CanalInstitucional.co@SD"
+  },
+  {
+    "site_id": "AR1#Canal.La.Tele.(Paraguay).ar",
+    "name": "Canal La Tele (Paraguay)",
+    "lang": "es",
+    "xmltv_id": "Latele.py@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Las.Estrellas.(Argentina).ar",
+    "name": "Canal Las Estrellas (Argentina)",
+    "lang": "es",
+    "xmltv_id": "LasEstrellasLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Lifetime.(Argentina).ar",
+    "name": "Canal Lifetime (Argentina)",
+    "lang": "es",
+    "xmltv_id": "LifetimeLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Más.Chic.Latinoamérica.ar",
+    "name": "Canal Más Chic Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "MasChic.ar@Panregional",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/mas-chic-ar.png"
+  },
+  {
+    "site_id": "AR1#Canal.MTV.00s.ar",
+    "name": "Canal MTV 00s",
+    "lang": "es",
+    "xmltv_id": "MTVLive.uk@SD"
+  },
+  {
+    "site_id": "AR1#Canal.MTV.80s.ar",
+    "name": "Canal MTV 80s",
+    "lang": "es",
+    "xmltv_id": "MTV80s.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.MTV.(Argentina).ar",
+    "name": "Canal MTV (Argentina)",
+    "lang": "es",
+    "xmltv_id": "MTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.MTV.Hits.ar",
+    "name": "Canal MTV Hits",
+    "lang": "es",
+    "xmltv_id": "MTVHits.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/mtv-hits-uk.png"
+  },
+  {
+    "site_id": "AR1#Canal.MTV.Live.HD.ar",
+    "name": "Canal MTV Live HD",
+    "lang": "es",
+    "xmltv_id": "MTVLive.uk@SD"
+  },
+  {
+    "site_id": "AR1#Canal.NHK.World.ar",
+    "name": "Canal NHK World",
+    "lang": "es",
+    "xmltv_id": "NHKWorld.jp@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Nick.Jr..(Argentina).ar",
+    "name": "Canal Nick Jr. (Argentina)",
+    "lang": "es",
+    "xmltv_id": "NickJr.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nick-jr-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.NickMusic.ar",
+    "name": "Canal NickMusic",
+    "lang": "es",
+    "xmltv_id": "NickMusic.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nick-music-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).ar",
+    "name": "Canal NTN24 (Nuestra Tele Noticias 24 Horas)",
+    "lang": "es",
+    "xmltv_id": "NTN24.co@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Pakapaka.ar",
+    "name": "Canal Pakapaka",
+    "lang": "es",
+    "xmltv_id": "Pakapaka.ar@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/pakapaka-ar.png"
+  },
+  {
+    "site_id": "AR1#Canal.Paravisión.ar",
+    "name": "Canal Paravisión",
+    "lang": "es",
+    "xmltv_id": "Paravision.py@SD"
+  },
+  {
+    "site_id": "AR1#Canal.RAI.International.ar",
+    "name": "Canal RAI International",
+    "lang": "es",
+    "xmltv_id": "RaiItalia.it@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Señal.Colombia.ar",
+    "name": "Canal Señal Colombia",
+    "lang": "es",
+    "xmltv_id": "SenalColombia.co@SD"
+  },
+  {
+    "site_id": "AR1#Canal.SNT.(Paraguay).ar",
+    "name": "Canal SNT (Paraguay)",
+    "lang": "es",
+    "xmltv_id": "SNT.py@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Sony.(Argentina).ar",
+    "name": "Canal Sony (Argentina)",
+    "lang": "es",
+    "xmltv_id": "SonyChannel.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Space.(Argentina).ar",
+    "name": "Canal Space (Argentina)",
+    "lang": "es",
+    "xmltv_id": "Space.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Star.Channel.(Argentina).ar",
+    "name": "Canal Star Channel (Argentina)",
+    "lang": "es",
+    "xmltv_id": "StarChannel.br@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/star-channel-br.png"
+  },
+  {
+    "site_id": "AR1#Canal.Sun.Channel.ar",
+    "name": "Canal Sun Channel",
+    "lang": "es",
+    "xmltv_id": "SunChannel.ve@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Teleantioquia.ar",
+    "name": "Canal Teleantioquia",
+    "lang": "es",
+    "xmltv_id": "Teleantioquia.co@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Telecaribe.ar",
+    "name": "Canal Telecaribe",
+    "lang": "es",
+    "xmltv_id": "Telecaribe.co@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Telefé.(Argentina).ar",
+    "name": "Canal Telefé (Argentina)",
+    "lang": "es",
+    "xmltv_id": "Telefé.ar@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Telehit.ar",
+    "name": "Canal Telehit",
+    "lang": "es",
+    "xmltv_id": "TeleHit.mx@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Telenostalgia.ar",
+    "name": "Canal Telenostalgia",
+    "lang": "es",
+    "xmltv_id": "TeleNostalgia.co@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Televisión.Pública.(Argentina).ar",
+    "name": "Canal Televisión Pública (Argentina)",
+    "lang": "es",
+    "xmltv_id": "TVPublica.ar@SD"
+  },
+  {
+    "site_id": "AR1#Canal.TLNovelas.(Argentina).ar",
+    "name": "Canal TLNovelas (Argentina)",
+    "lang": "es",
+    "xmltv_id": "TLNovelas.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.TNT.(Argentina).ar",
+    "name": "Canal TNT (Argentina)",
+    "lang": "es",
+    "xmltv_id": "TNT.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tnt-us.png"
+  },
+  {
+    "site_id": "AR1#Canal.TNT.Novelas.(Argentina).ar",
+    "name": "Canal TNT Novelas (Argentina)",
+    "lang": "es",
+    "xmltv_id": "TNTNovelas.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Tooncast.ar",
+    "name": "Canal Tooncast",
+    "lang": "es",
+    "xmltv_id": "Tooncast.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.TV.Chile.ar",
+    "name": "Canal TV Chile",
+    "lang": "es",
+    "xmltv_id": "TVChile.cl@SD"
+  },
+  {
+    "site_id": "AR1#Canal.TV.Globo.Internacional.ar",
+    "name": "Canal TV Globo Internacional",
+    "lang": "es",
+    "xmltv_id": "TVGloboInternacionalAmericas.br@SD"
+  },
+  {
+    "site_id": "AR1#Canal.TVE.Internacional.(Televisión.Española).ar",
+    "name": "Canal TVE Internacional (Televisión Española)",
+    "lang": "es",
+    "xmltv_id": "TVEInternacional.es@SD"
+  },
+  {
+    "site_id": "AR1#Canal.TyC.Sports.ar",
+    "name": "Canal TyC Sports",
+    "lang": "es",
+    "xmltv_id": "TyCSports.ar@SD"
+  },
+  {
+    "site_id": "AR1#Canal.USA.Network.(Argentina).ar",
+    "name": "Canal USA Network (Argentina)",
+    "lang": "es",
+    "xmltv_id": "USANetwork.us@SD"
+  },
+  {
+    "site_id": "AR1#Canal.Warner.TV.(Argentina).ar",
+    "name": "Canal Warner TV (Argentina)",
+    "lang": "es",
+    "xmltv_id": "WarnerTV.de@SD"
+  }
+]

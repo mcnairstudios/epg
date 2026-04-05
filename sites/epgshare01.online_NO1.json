@@ -1,0 +1,996 @@
+[
+  {
+    "site_id": "NO1#6'eren.Denmark.(DK,DA).no",
+    "name": "6'eren Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "6eren.dk"
+  },
+  {
+    "site_id": "NO1#Adult.Channel.(GB,EN).no",
+    "name": "Adult Channel (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "AdultChannel.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/adult-channel-uk.png"
+  },
+  {
+    "site_id": "NO1#Al.Jazeera.English.(QA,EN).no",
+    "name": "Al Jazeera English (QA,EN)",
+    "lang": "nb",
+    "xmltv_id": "AlJazeera.qa@English"
+  },
+  {
+    "site_id": "NO1#Animal.Planet.Denmark.(DK,DA).no",
+    "name": "Animal Planet Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "AnimalPlanetNordic.uk@SD"
+  },
+  {
+    "site_id": "NO1#Animal.Planet.Norway.(NO,NO).no",
+    "name": "Animal Planet Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "AnimalPlanetNordic.uk@SD"
+  },
+  {
+    "site_id": "NO1#Baby.TV.English.(GB,EN).no",
+    "name": "Baby TV English (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "BabyTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/baby-tv-uk.png"
+  },
+  {
+    "site_id": "NO1#Barnkanalen.SVT-B.(SE,SV).no",
+    "name": "Barnkanalen SVT-B (SE,SV)",
+    "lang": "nb",
+    "xmltv_id": "SVTBarn.se"
+  },
+  {
+    "site_id": "NO1#BBC.1.(GB,EN).no",
+    "name": "BBC 1 (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "BBCOne.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+  },
+  {
+    "site_id": "NO1#BBC.Brit.Denmark.(DK,DA).no",
+    "name": "BBC Brit Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "BBCBrit.uk@SD"
+  },
+  {
+    "site_id": "NO1#BBC.Brit.Nordics.English.(IS,EN).no",
+    "name": "BBC Brit Nordics English (IS,EN)",
+    "lang": "nb",
+    "xmltv_id": "BBCBrit.uk@SD"
+  },
+  {
+    "site_id": "NO1#BBC.Brit.Norway.(NO,NO).no",
+    "name": "BBC Brit Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "BBCBrit.uk@SD"
+  },
+  {
+    "site_id": "NO1#BBC.Earth.Nordics.English.(IS,EN).no",
+    "name": "BBC Earth Nordics English (IS,EN)",
+    "lang": "nb",
+    "xmltv_id": "BBCEarth.uk@SD"
+  },
+  {
+    "site_id": "NO1#BBC.World.News.(GB,EN).no",
+    "name": "BBC World News (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "BBCNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "NO1#Bloomberg.TV.(US,EN).no",
+    "name": "Bloomberg TV (US,EN)",
+    "lang": "nb",
+    "xmltv_id": "Bloomberg.us@SD"
+  },
+  {
+    "site_id": "NO1#Blue.Hustler.(GB,EN).no",
+    "name": "Blue Hustler (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "BlueHustler.nl@SD"
+  },
+  {
+    "site_id": "NO1#Boomerang.Denmark.(DK,DA).no",
+    "name": "Boomerang Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "Boomerang.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/boomerang-uk.png"
+  },
+  {
+    "site_id": "NO1#Boomerang.Nordics.English.(IS,EN).no",
+    "name": "Boomerang Nordics English (IS,EN)",
+    "lang": "nb",
+    "xmltv_id": "Boomerang.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/boomerang-uk.png"
+  },
+  {
+    "site_id": "NO1#Boomerang.Norway.(NO,NO).no",
+    "name": "Boomerang Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "Boomerang.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/boomerang-uk.png"
+  },
+  {
+    "site_id": "NO1#C.More.First.HD.Denmark.(DK,DA).no",
+    "name": "C More First HD Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "CMoreFirst.se@HD"
+  },
+  {
+    "site_id": "NO1#C.More.First.Norway.(NO,NO).no",
+    "name": "C More First Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "CMoreFirst.se@SD"
+  },
+  {
+    "site_id": "NO1#C.More.Hits.Denmark.(DK,DA).no",
+    "name": "C More Hits Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "CMoreHits.se@SD"
+  },
+  {
+    "site_id": "NO1#C.More.Hits.Norway.(NO,NO).no",
+    "name": "C More Hits Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "CMoreHits.se@SD"
+  },
+  {
+    "site_id": "NO1#C.More.Series.Denmark.(DK,DA).no",
+    "name": "C More Series Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "CMoreSeries.se@SD"
+  },
+  {
+    "site_id": "NO1#C.More.Series.Norway.(NO,NO).no",
+    "name": "C More Series Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "CMoreSeries.se@SD"
+  },
+  {
+    "site_id": "NO1#C.More.Stars.Norway.(NO,NO).no",
+    "name": "C More Stars Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "CMoreStars.se@SD"
+  },
+  {
+    "site_id": "NO1#Canal.9.(DK,DA).no",
+    "name": "Canal 9 (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "Kanal9.dk@SD"
+  },
+  {
+    "site_id": "NO1#Cartoon.Network.Denmark.(DK,DA).no",
+    "name": "Cartoon Network Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "CartoonNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoon-network-us.png"
+  },
+  {
+    "site_id": "NO1#Cartoon.Network.Nordics.English.(IS,EN).no",
+    "name": "Cartoon Network Nordics English (IS,EN)",
+    "lang": "nb",
+    "xmltv_id": "CartoonNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoon-network-us.png"
+  },
+  {
+    "site_id": "NO1#Cartoon.Network.Norway.(NO,NO).no",
+    "name": "Cartoon Network Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "CartoonNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoon-network-us.png"
+  },
+  {
+    "site_id": "NO1#CBS.Reality.Europe.(GB,EN).no",
+    "name": "CBS Reality Europe (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "CBSReality.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/cbs-reality-uk.png"
+  },
+  {
+    "site_id": "NO1#CGTN.(CN,EN).no",
+    "name": "CGTN (CN,EN)",
+    "lang": "nb",
+    "xmltv_id": "CGTNAmerica.cn@SD"
+  },
+  {
+    "site_id": "NO1#Club.MTV.(GB,EN).no",
+    "name": "Club MTV (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "ClubMTV.uk@SD"
+  },
+  {
+    "site_id": "NO1#CNBC.(US,EN).no",
+    "name": "CNBC (US,EN)",
+    "lang": "nb",
+    "xmltv_id": "CNBC.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnbc-us.png"
+  },
+  {
+    "site_id": "NO1#CNN.International.(US,EN).no",
+    "name": "CNN International (US,EN)",
+    "lang": "nb",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "NO1#Deutsche.Welle.(DW).(DE,EN).no",
+    "name": "Deutsche Welle (DW) (DE,EN)",
+    "lang": "nb",
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
+  },
+  {
+    "site_id": "NO1#Discovery.Channel.Central.Europe.English.(GB,EN).no",
+    "name": "Discovery Channel Central Europe English (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "DiscoveryChannel.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
+  },
+  {
+    "site_id": "NO1#Discovery.Channel.Denmark.(DK,DA).no",
+    "name": "Discovery Channel Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "DiscoveryChannel.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
+  },
+  {
+    "site_id": "NO1#Discovery.Channel.Norway.(NO,NO).no",
+    "name": "Discovery Channel Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "DiscoveryChannel.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
+  },
+  {
+    "site_id": "NO1#Discovery.Science.Europe.English.(GB,EN).no",
+    "name": "Discovery Science Europe English (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "DiscoveryScience.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/discovery-science-us.png"
+  },
+  {
+    "site_id": "NO1#Disney.Channel.Denmark.(DK,DA).no",
+    "name": "Disney Channel Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "DisneyChannel.se@SD"
+  },
+  {
+    "site_id": "NO1#Disney.Channel.Nordics.(IS,EN).no",
+    "name": "Disney Channel Nordics (IS,EN)",
+    "lang": "nb",
+    "xmltv_id": "DisneyChannel.se@SD"
+  },
+  {
+    "site_id": "NO1#Disney.Junior.Denmark.(DK,DA).no",
+    "name": "Disney Junior Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "DisneyJunior.se@SD"
+  },
+  {
+    "site_id": "NO1#Disney.Junior.Norway.(NO,NO).no",
+    "name": "Disney Junior Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "DisneyJunior.no@SD"
+  },
+  {
+    "site_id": "NO1#DK4.Denmark.(DK,DA).no",
+    "name": "DK4 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "DK4.dk@SD"
+  },
+  {
+    "site_id": "NO1#DR1.Denmark.(DK,DA).no",
+    "name": "DR1 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "DR1.dk@SD"
+  },
+  {
+    "site_id": "NO1#DR2.Denmark.(DK,DA).no",
+    "name": "DR2 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "DR2.dk@SD"
+  },
+  {
+    "site_id": "NO1#DR.Ramasjang.(DK,DA).no",
+    "name": "DR Ramasjang (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "DRRamasjang.dk@SD"
+  },
+  {
+    "site_id": "NO1#E!.Entertainment.Europe.(GB,EN).no",
+    "name": "E! Entertainment Europe (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "E.uk@SD"
+  },
+  {
+    "site_id": "NO1#Euronews.English.(FR,EN).no",
+    "name": "Euronews English (FR,EN)",
+    "lang": "nb",
+    "xmltv_id": "EuronewsEnglish.fr@SD"
+  },
+  {
+    "site_id": "NO1#Eurosport.1.Denmark.(DK,DA).no",
+    "name": "Eurosport 1 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "Eurosport1.fr@Denmark",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
+  },
+  {
+    "site_id": "NO1#Eurosport.1.Norway.(NO,NO).no",
+    "name": "Eurosport 1 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "Eurosport1.fr@Norway",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
+  },
+  {
+    "site_id": "NO1#Eurosport.2.Denmark.(DK,DA).no",
+    "name": "Eurosport 2 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "Eurosport2.fr@Denmark",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
+  },
+  {
+    "site_id": "NO1#Eurosport.N.Norway.(NO,NO).no",
+    "name": "Eurosport N Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "Eurosport1.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png"
+  },
+  {
+    "site_id": "NO1#FEM.Norway.(NO,NO).no",
+    "name": "FEM Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "FEM.no@SD"
+  },
+  {
+    "site_id": "NO1#Folketinget.Denmark.(DK,DA).no",
+    "name": "Folketinget Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "NO1#France.24.English.(FR,EN).no",
+    "name": "France 24 English (FR,EN)",
+    "lang": "nb",
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "NO1#Fuel.TV.English.(PT,EN).no",
+    "name": "Fuel.TV English (PT,EN)",
+    "lang": "nb",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "NO1#Ginx.TV.Esports.(GB,EN).no",
+    "name": "Ginx TV Esports (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "GinxTV.uk@SD"
+  },
+  {
+    "site_id": "NO1#HISTORY2.Denmark.(DK,DA).no",
+    "name": "HISTORY2 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "H2.uk@SD"
+  },
+  {
+    "site_id": "NO1#HISTORY2.Europe.(GB,EN).no",
+    "name": "HISTORY2 Europe (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "H2.uk@SD"
+  },
+  {
+    "site_id": "NO1#HISTORY2.Norway.(NO,NO).no",
+    "name": "HISTORY2 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "H2.uk@SD"
+  },
+  {
+    "site_id": "NO1#History.Channel.Denmark.(DK,DA).no",
+    "name": "History Channel Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "History.uk@SD"
+  },
+  {
+    "site_id": "NO1#History.Norway.(NO,NO).no",
+    "name": "History Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "History.uk@SD"
+  },
+  {
+    "site_id": "NO1#Hustler.TV.(GB,EN).no",
+    "name": "Hustler TV (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "NO1#Investigation.Discovery.Denmark.(DK,DA).no",
+    "name": "Investigation Discovery Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "IDCrime.us@SD"
+  },
+  {
+    "site_id": "NO1#Investigation.Discovery.Norway.(NO,NO).no",
+    "name": "Investigation Discovery Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "IDCrime.us@SD"
+  },
+  {
+    "site_id": "NO1#Kanal.4.Denmark.(DK,DA).no",
+    "name": "Kanal 4 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "Kanal4.dk@SD"
+  },
+  {
+    "site_id": "NO1#Kanal.5.Denmark.(DK,DA).no",
+    "name": "Kanal 5 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "Kanal5.dk@SD"
+  },
+  {
+    "site_id": "NO1#Matkanalen.Norway.(NO,NO).no",
+    "name": "Matkanalen Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "NO1#MAX.Norway.(NO,NO).no",
+    "name": "MAX Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "Max.us@SD"
+  },
+  {
+    "site_id": "NO1#MEZZO.LIVE.HD.EN.(FR,EN).no",
+    "name": "MEZZO LIVE HD EN (FR,EN)",
+    "lang": "nb",
+    "xmltv_id": "MezzoLive.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mezzo-live-fr.png"
+  },
+  {
+    "site_id": "NO1#Motorvision.TV.(DE,EN).no",
+    "name": "Motorvision TV (DE,EN)",
+    "lang": "nb",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "NO1#MTV.00s.(GB,EN).no",
+    "name": "MTV 00s (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "MTV00s.uk@SD"
+  },
+  {
+    "site_id": "NO1#MTV.80s.(GB,EN).no",
+    "name": "MTV 80s (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "MTV80s.uk@SD"
+  },
+  {
+    "site_id": "NO1#MTV.90s.(GB,EN).no",
+    "name": "MTV 90s (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "MTV90s.uk@SD"
+  },
+  {
+    "site_id": "NO1#MTV.Denmark.(DK,DA).no",
+    "name": "MTV Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "MTV.dk@SD"
+  },
+  {
+    "site_id": "NO1#MTV.Hits.(GB,EN).no",
+    "name": "MTV Hits (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "MTVHits.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/mtv-hits-uk.png"
+  },
+  {
+    "site_id": "NO1#MTV.Live.HD.(GB,EN).no",
+    "name": "MTV Live HD (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "MTVLive.uk@HD"
+  },
+  {
+    "site_id": "NO1#MTV.Norway.(NO,NO).no",
+    "name": "MTV Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "MTV.no@SD"
+  },
+  {
+    "site_id": "NO1#National.Geographic.Denmark.(DK,DA).no",
+    "name": "National Geographic Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "NatGeo.uk@SD"
+  },
+  {
+    "site_id": "NO1#National.Geographic.Norway.(NO,NO).no",
+    "name": "National Geographic Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "NatGeo.uk@SD"
+  },
+  {
+    "site_id": "NO1#National.Geographic.Wild.Denmark.(DK,DA).no",
+    "name": "National Geographic Wild Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "NatGeoWild.uk@SD"
+  },
+  {
+    "site_id": "NO1#National.Geographic.Wild.Nordics.(IS,EN).no",
+    "name": "National Geographic Wild Nordics (IS,EN)",
+    "lang": "nb",
+    "xmltv_id": "NatGeoWild.uk@SD"
+  },
+  {
+    "site_id": "NO1#National.Geographic.Wild.Norway.(NO,NO).no",
+    "name": "National Geographic Wild Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "NatGeoWild.uk@SD"
+  },
+  {
+    "site_id": "NO1#Nautical.Channel.(US,EN).no",
+    "name": "Nautical Channel (US,EN)",
+    "lang": "nb",
+    "xmltv_id": "NauticalChannel.it@SD"
+  },
+  {
+    "site_id": "NO1#Nick.Jr..Denmark.(DK,DA).no",
+    "name": "Nick Jr. Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "NickJr.dk@SD"
+  },
+  {
+    "site_id": "NO1#Nick.Jr..Norway.(NO,NO).no",
+    "name": "Nick Jr. Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "NickJr.no@SD"
+  },
+  {
+    "site_id": "NO1#Nickelodeon.Norway.(NO,NO).no",
+    "name": "Nickelodeon Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "Nickelodeon.no@SD"
+  },
+  {
+    "site_id": "NO1#Nicktoons.Denmark.(DK,DA).no",
+    "name": "Nicktoons Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "Nicktoons.us@SD"
+  },
+  {
+    "site_id": "NO1#Norway.Live.(NO,NO).no",
+    "name": "Norway Live (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "NO1#NRK1.Norway.(NO,NO).no",
+    "name": "NRK1 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "NRK1.no@SD"
+  },
+  {
+    "site_id": "NO1#NRK2.Norway.(NO,NO).no",
+    "name": "NRK2 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "NRK2.no@SD"
+  },
+  {
+    "site_id": "NO1#NRK3.Norway.(NO,NO).no",
+    "name": "NRK3 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "NRK3.no@SD"
+  },
+  {
+    "site_id": "NO1#NRK.Super.Norway.(NO,NO).no",
+    "name": "NRK Super Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "NRKSuper.no@SD"
+  },
+  {
+    "site_id": "NO1#See.Denmark.(DK,DA).no",
+    "name": "See Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "NO1#SF-kanalen.Denmark.(DK,DA).no",
+    "name": "SF-kanalen Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "SFKanalen.se@SD"
+  },
+  {
+    "site_id": "NO1#SF-kanalen.Norway.(NO,NO).no",
+    "name": "SF-kanalen Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "SFKanalen.se@SD"
+  },
+  {
+    "site_id": "NO1#Sky.News.International.(GB,EN).no",
+    "name": "Sky News International (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "SkyNewsInternational.uk@SD"
+  },
+  {
+    "site_id": "NO1#SVT1.Sweden.(SE,SV).no",
+    "name": "SVT1 Sweden (SE,SV)",
+    "lang": "nb",
+    "xmltv_id": "SVT1.se@SD"
+  },
+  {
+    "site_id": "NO1#SVT2.Sweden.(SE,SV).no",
+    "name": "SVT2 Sweden (SE,SV)",
+    "lang": "nb",
+    "xmltv_id": "SVT2.se@SD"
+  },
+  {
+    "site_id": "NO1#SVT.24.Sweden.(SE,SV).no",
+    "name": "SVT 24 Sweden (SE,SV)",
+    "lang": "nb",
+    "xmltv_id": "SVT24.se@SD"
+  },
+  {
+    "site_id": "NO1#TLC.Denmark.(DK,DA).no",
+    "name": "TLC Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TLC.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tlc-uk.png"
+  },
+  {
+    "site_id": "NO1#TLC.Norway.(NO,NO).no",
+    "name": "TLC Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TLC.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tlc-uk.png"
+  },
+  {
+    "site_id": "NO1#Travel.Channel.EMEA.English.(GB,EN).no",
+    "name": "Travel Channel EMEA English (GB,EN)",
+    "lang": "nb",
+    "xmltv_id": "TravelChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/travel-channel-us.png"
+  },
+  {
+    "site_id": "NO1#TV3+.Denmark.(DK,DA).no",
+    "name": "TV3+ Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV3Plus.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV3+.Norway.(NO,NO).no",
+    "name": "TV3+ Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TV3.no@SD"
+  },
+  {
+    "site_id": "NO1#TV3.Denmark.(DK,DA).no",
+    "name": "TV3 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV3.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV3.Max.Denmark.(DK,DA).no",
+    "name": "TV3 Max Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV3Max.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV3.Norway.(NO,NO).no",
+    "name": "TV3 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TV3.no@SD"
+  },
+  {
+    "site_id": "NO1#TV3.Puls.Denmark.(DK,DA).no",
+    "name": "TV3 Puls Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV3PlusDK.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV3.Sport.Denmark.(DK,DA).no",
+    "name": "TV3 Sport Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV3Sport.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV3.Sweden.(SE,SV).no",
+    "name": "TV3 Sweden (SE,SV)",
+    "lang": "nb",
+    "xmltv_id": "TV3.se@SD"
+  },
+  {
+    "site_id": "NO1#TV4.Sweden.(SE,SV).no",
+    "name": "TV4 Sweden (SE,SV)",
+    "lang": "nb",
+    "xmltv_id": "TV4.se@SD"
+  },
+  {
+    "site_id": "NO1#TV6.Norway.(NO,NO).no",
+    "name": "TV6 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TV6.no@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Charlie.Denmark.(DK,DA).no",
+    "name": "TV 2 Charlie Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV2Charlie.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Denmark.(DK,DA).no",
+    "name": "TV 2 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV2.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Direkte.Norway.(NO,NO).no",
+    "name": "TV 2 Direkte Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TV2.no@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Fri.Denmark.(DK,DA).no",
+    "name": "TV 2 Fri Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV2Fri.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Livsstil.Norway.(NO,NO).no",
+    "name": "TV 2 Livsstil Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TV2Livsstil.no@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.News.Denmark.(DK,DA).no",
+    "name": "TV 2 News Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV2News.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Nyheter.Norway.(NO,NO).no",
+    "name": "TV 2 Nyheter Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TV2Nyhetskanalen.no@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Sport.1.Norway.(NO,NO).no",
+    "name": "TV 2 Sport 1 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TV2Sport.no@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Sport.2.Norway.(NO,NO).no",
+    "name": "TV 2 Sport 2 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TV2Sport2.no@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Sport.Denmark.(DK,DA).no",
+    "name": "TV 2 Sport Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV2Sport.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Sport.Premium.(NO,NO).no",
+    "name": "TV 2 Sport Premium (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TV2SportPremium.no@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Sport.X.Denmark.(DK,DA).no",
+    "name": "TV 2 Sport X Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV2SportX.dk@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Zebra.Norway.(NO,NO).no",
+    "name": "TV 2 Zebra Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TV2Zebra.no@SD"
+  },
+  {
+    "site_id": "NO1#TV.2.Zulu.(DK,DA).no",
+    "name": "TV 2 Zulu (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "TV2Zulu.dk@SD"
+  },
+  {
+    "site_id": "NO1#TVNorge.(NO,NO).no",
+    "name": "TVNorge (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "TVNorge.no@SD"
+  },
+  {
+    "site_id": "NO1#V.sport.Premier.League.1.Norway.(NO,NO).no",
+    "name": "V sport Premier League 1 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "VSportPremierLeague.no@SD"
+  },
+  {
+    "site_id": "NO1#V.sport.Premier.League.2.Norway.(NO,NO).no",
+    "name": "V sport Premier League 2 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "VSportPremierLeague2.no@SD"
+  },
+  {
+    "site_id": "NO1#V.sport.Premier.League.3.Norway.(NO,NO).no",
+    "name": "V sport Premier League 3 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "VSportPremierLeague3.no@SD"
+  },
+  {
+    "site_id": "NO1#V.sport.Premier.League.4.Norway.(NO,NO).no",
+    "name": "V sport Premier League 4 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "VSportPremierLeague4.no@SD"
+  },
+  {
+    "site_id": "NO1#V.sport.Premier.League.Norway.(NO,NO).no",
+    "name": "V sport Premier League Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "VSportPremierLeague.no@SD"
+  },
+  {
+    "site_id": "NO1#VG.Norway.(NO,NO).no",
+    "name": "VG Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "NO1#VH1.Denmark.(DK,DA).no",
+    "name": "VH1 Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "VH1.uk@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Explore.Denmark.(DK,DA).no",
+    "name": "Viasat Explore Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "ViasatExplore.dk@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Explore.Norway.(NO,NO).no",
+    "name": "Viasat Explore Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "ViasatExplore.no@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Film.Action.Denmark.(DK,DA).no",
+    "name": "Viasat Film Action Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "ViasatFilmAction.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Film.Action.Norway.(NO,NO).no",
+    "name": "Viasat Film Action Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "ViasatFilmAction.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Film.Family.Denmark.(DK,DA).no",
+    "name": "Viasat Film Family Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "ViasatFilmFamily.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Film.Family.Norway.(NO,NO).no",
+    "name": "Viasat Film Family Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "ViasatFilmFamily.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Film.Hits.Denmark.(DK,DA).no",
+    "name": "Viasat Film Hits Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "ViasatFilmHits.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Film.Hits.Norway.(NO,NO).no",
+    "name": "Viasat Film Hits Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "ViasatFilmHits.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Film.Premiere.HD.Denmark.(DK,DA).no",
+    "name": "Viasat Film Premiere HD Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "ViasatFilmPremiere.se@HD"
+  },
+  {
+    "site_id": "NO1#Viasat.Film.Premiere.Norway.(NO,NO).no",
+    "name": "Viasat Film Premiere Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "ViasatFilmPremiere.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Golf.Denmark.(DK,DA).no",
+    "name": "Viasat Golf Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "ViasatGolf.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Golf.Norway.(NO,NO).no",
+    "name": "Viasat Golf Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "ViasatGolf.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.History.Denmark.(DK,DA).no",
+    "name": "Viasat History Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "ViasatHistory.dk@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.History.Norway.(NO,NO).no",
+    "name": "Viasat History Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "ViasatHistory.no@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Nature.Nordic.Denmark.(DK,DA).no",
+    "name": "Viasat Nature Nordic Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "ViasatNature.dk@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Nature.Nordic.Norway.(NO,NO).no",
+    "name": "Viasat Nature Nordic Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "ViasatNature.no@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Series.Denmark.(DK,DA).no",
+    "name": "Viasat Series Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": "ViasatSeries.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Series.Norway.(NO,NO).no",
+    "name": "Viasat Series Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "ViasatSeries.se@SD"
+  },
+  {
+    "site_id": "NO1#Viasat.Ultra.HD.Denmark.(DK,DA).no",
+    "name": "Viasat Ultra HD Denmark (DK,DA)",
+    "lang": "nb",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "NO1#Viasport+.Norway.(NO,NO).no",
+    "name": "Viasport+ Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "ViasportPlus.no@SD"
+  },
+  {
+    "site_id": "NO1#Viasport.1.Norway.(NO,NO).no",
+    "name": "Viasport 1 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "Viasport1.no@SD"
+  },
+  {
+    "site_id": "NO1#Viasport.2.Norway.(NO,NO).no",
+    "name": "Viasport 2 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "Viasport2.no@SD"
+  },
+  {
+    "site_id": "NO1#Viasport.3.Norway.(NO,NO).no",
+    "name": "Viasport 3 Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "Viasport3.no@SD"
+  },
+  {
+    "site_id": "NO1#Visjon.Norge.Norway.(NO,NO).no",
+    "name": "Visjon Norge Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "VisjonNorge.no@SD"
+  },
+  {
+    "site_id": "NO1#VOX.Norway.(NO,NO).no",
+    "name": "VOX Norway (NO,NO)",
+    "lang": "nb",
+    "xmltv_id": "VOX.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/vox-de.png"
+  }
+]

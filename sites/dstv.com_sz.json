@@ -1,0 +1,661 @@
+[
+  {
+    "site_id": "swz#102",
+    "name": "M-Net Africa",
+    "lang": "en",
+    "xmltv_id": "MNet.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/m-net-za.png"
+  },
+  {
+    "site_id": "swz#104",
+    "name": "M-Net Movies 1 HD",
+    "lang": "en",
+    "xmltv_id": "MNetMovies1.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/m-net-movies-1-za.png"
+  },
+  {
+    "site_id": "swz#106",
+    "name": "M-Net Movies 2 HD",
+    "lang": "en",
+    "xmltv_id": "MNetMovies2.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/m-net-movies-2-za.png"
+  },
+  {
+    "site_id": "swz#108",
+    "name": "M-Net Movies 4 HD",
+    "lang": "en",
+    "xmltv_id": "MNetMovies4.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/m-net-movies-4-za.png"
+  },
+  {
+    "site_id": "swz#110",
+    "name": "SWiTCH'D ON",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "swz#112",
+    "name": "Studio Universal HD",
+    "lang": "en",
+    "xmltv_id": "StudioUniversal.us@SD"
+  },
+  {
+    "site_id": "swz#113",
+    "name": "MovieRoom",
+    "lang": "en",
+    "xmltv_id": "MovieRoom.za@SD"
+  },
+  {
+    "site_id": "swz#114",
+    "name": "KIX",
+    "lang": "en",
+    "xmltv_id": "KIX.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/kix-hk.png"
+  },
+  {
+    "site_id": "swz#117",
+    "name": "Universal TV HD",
+    "lang": "en",
+    "xmltv_id": "UniversalTV.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/universal-tv-de.png"
+  },
+  {
+    "site_id": "swz#118",
+    "name": "TeleMundo",
+    "lang": "en",
+    "xmltv_id": "TelemundoInternacional.us@South"
+  },
+  {
+    "site_id": "swz#121",
+    "name": "Discovery Channel HD",
+    "lang": "en",
+    "xmltv_id": "DiscoveryChannel.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
+  },
+  {
+    "site_id": "swz#122",
+    "name": "Comedy Central HD",
+    "lang": "en",
+    "xmltv_id": "ComedyCentralAfrica.us@SD"
+  },
+  {
+    "site_id": "swz#124",
+    "name": "E! Entertainment HD",
+    "lang": "en",
+    "xmltv_id": "EAfrica.us@SD"
+  },
+  {
+    "site_id": "swz#130",
+    "name": "MTV HD",
+    "lang": "en",
+    "xmltv_id": "MTVAfrica.za@SD"
+  },
+  {
+    "site_id": "swz#132",
+    "name": "CBS Reality",
+    "lang": "en",
+    "xmltv_id": "CBSReality.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/cbs-reality-uk.png"
+  },
+  {
+    "site_id": "swz#134",
+    "name": "BBC UKTV",
+    "lang": "en",
+    "xmltv_id": "BBCUKTV.au@NewZealand"
+  },
+  {
+    "site_id": "swz#136",
+    "name": "Discovery Family HD",
+    "lang": "en",
+    "xmltv_id": "DiscoveryFamily.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/discovery-family-us.png"
+  },
+  {
+    "site_id": "swz#137",
+    "name": "TNT Africa",
+    "lang": "en",
+    "xmltv_id": "TNTAfrica.uk@SD"
+  },
+  {
+    "site_id": "swz#144",
+    "name": "KykNET HD",
+    "lang": "en",
+    "xmltv_id": "KykNet.za@SD"
+  },
+  {
+    "site_id": "swz#145",
+    "name": "KykNET & Kie HD",
+    "lang": "en",
+    "xmltv_id": "kykNETkie.za@SD"
+  },
+  {
+    "site_id": "swz#146",
+    "name": "KykNET Nou",
+    "lang": "en",
+    "xmltv_id": "kykNETNOU.za@SD"
+  },
+  {
+    "site_id": "swz#147",
+    "name": "VIA HD",
+    "lang": "en",
+    "xmltv_id": "VIA.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/via-za.png"
+  },
+  {
+    "site_id": "swz#148",
+    "name": "KykNET Lekker",
+    "lang": "en",
+    "xmltv_id": "KykNetLekker.za"
+  },
+  {
+    "site_id": "swz#151",
+    "name": "Africa Magic Showcase",
+    "lang": "en",
+    "xmltv_id": "AfricaMagicShowcase.ng"
+  },
+  {
+    "site_id": "swz#152",
+    "name": "Africa Magic Epic",
+    "lang": "en",
+    "xmltv_id": "AfricaMagicEpic.ng"
+  },
+  {
+    "site_id": "swz#154",
+    "name": "Africa Magic Family",
+    "lang": "en",
+    "xmltv_id": "AfricaMagicFamily.ng"
+  },
+  {
+    "site_id": "swz#155",
+    "name": "Real Time",
+    "lang": "en",
+    "xmltv_id": "RealTime.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/real-time-it.png"
+  },
+  {
+    "site_id": "swz#158",
+    "name": "Moja 9.9 HD",
+    "lang": "en",
+    "xmltv_id": "MaishaMagicEast.za",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/maisha-magic-east-za.png"
+  },
+  {
+    "site_id": "swz#160",
+    "name": "Star Khanya",
+    "lang": "en",
+    "xmltv_id": "MaishaMagicBongo.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/maisha-magic-bongo-za.png"
+  },
+  {
+    "site_id": "swz#161",
+    "name": "Mzansi Magic",
+    "lang": "en",
+    "xmltv_id": "MzansiMagic.za",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/mzansi-magic-za.png"
+  },
+  {
+    "site_id": "swz#162",
+    "name": "Zambezi Magic HD",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "swz#163",
+    "name": "Mzansi Wethu HD",
+    "lang": "en",
+    "xmltv_id": "MzansiWethu.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/mzansi-wethu-za.png"
+  },
+  {
+    "site_id": "swz#164",
+    "name": "Mzansi Bioskop",
+    "lang": "en",
+    "xmltv_id": "MzansiBioskop.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/mzansi-bioskop-za.png"
+  },
+  {
+    "site_id": "swz#166",
+    "name": "Zee World HD",
+    "lang": "en",
+    "xmltv_id": "ZeeWorld.za"
+  },
+  {
+    "site_id": "swz#167",
+    "name": "Star Life",
+    "lang": "en",
+    "xmltv_id": "StarLifeAfrica.in@SD"
+  },
+  {
+    "site_id": "swz#168",
+    "name": "ROK",
+    "lang": "en",
+    "xmltv_id": "ROK.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/rok-uk.png"
+  },
+  {
+    "site_id": "swz#170",
+    "name": "CBS Justice HD",
+    "lang": "en",
+    "xmltv_id": "CBSJustice.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/cbs-justice-uk.png"
+  },
+  {
+    "site_id": "swz#171",
+    "name": "Discovery ID",
+    "lang": "en",
+    "xmltv_id": "InvestigationDiscoveryEurope.us@SD"
+  },
+  {
+    "site_id": "swz#172",
+    "name": "OneZED",
+    "lang": "en",
+    "xmltv_id": "OneZed.za"
+  },
+  {
+    "site_id": "swz#175",
+    "name": "Food Network HD",
+    "lang": "en",
+    "xmltv_id": "FoodNetworkEMEA.us@SD"
+  },
+  {
+    "site_id": "swz#176",
+    "name": "The Home Channel",
+    "lang": "en",
+    "xmltv_id": "TheHomeChannel.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/the-home-channel-za.png"
+  },
+  {
+    "site_id": "swz#179",
+    "name": "Travel Channel",
+    "lang": "en",
+    "xmltv_id": "TravelChannelEMEA.uk@SD"
+  },
+  {
+    "site_id": "swz#181",
+    "name": "National Geographic",
+    "lang": "en",
+    "xmltv_id": "NationalGeographicSouthAfrica.za@SD"
+  },
+  {
+    "site_id": "swz#185",
+    "name": "Curiosity Channel HD",
+    "lang": "en",
+    "xmltv_id": "CuriosityChannel.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/curiosity-channel-de.png"
+  },
+  {
+    "site_id": "swz#186",
+    "name": "History HD",
+    "lang": "en",
+    "xmltv_id": "History.uk@SD"
+  },
+  {
+    "site_id": "swz#189",
+    "name": "IGNITION",
+    "lang": "en",
+    "xmltv_id": "Ignition.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/ignition-za.png"
+  },
+  {
+    "site_id": "swz#190",
+    "name": "Spice TV",
+    "lang": "en",
+    "xmltv_id": "SpiceTV.ng"
+  },
+  {
+    "site_id": "swz#198",
+    "name": "Big Brother Naija pop up",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "swz#202",
+    "name": "SS PSL",
+    "lang": "en",
+    "xmltv_id": "SuperSportPSL.za@SD"
+  },
+  {
+    "site_id": "swz#216",
+    "name": "SuperSport School HD",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "swz#218",
+    "name": "ESPN HD",
+    "lang": "en",
+    "xmltv_id": "ESPN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-us.png"
+  },
+  {
+    "site_id": "swz#222",
+    "name": "SS Football Plus Africa",
+    "lang": "en",
+    "xmltv_id": "SuperSportFootballPlus.za@SD"
+  },
+  {
+    "site_id": "swz#223",
+    "name": "SS Premier League",
+    "lang": "en",
+    "xmltv_id": "SuperSportPremierLeague.za@SD"
+  },
+  {
+    "site_id": "swz#224",
+    "name": "SS La Liga",
+    "lang": "en",
+    "xmltv_id": "SuperSportLaLiga.za@SD"
+  },
+  {
+    "site_id": "swz#225",
+    "name": "SS Football",
+    "lang": "en",
+    "xmltv_id": "SuperSportFootball.za@SD"
+  },
+  {
+    "site_id": "swz#227",
+    "name": "SS Africa",
+    "lang": "en",
+    "xmltv_id": "SuperSportVariety2.za@SD"
+  },
+  {
+    "site_id": "swz#228",
+    "name": "SS Africa 2",
+    "lang": "en",
+    "xmltv_id": "SuperSportVariety3.za@SD"
+  },
+  {
+    "site_id": "swz#229",
+    "name": "WWE",
+    "lang": "en",
+    "xmltv_id": "SuperSportVariety4.za@SD"
+  },
+  {
+    "site_id": "swz#230",
+    "name": "SS Variety 1",
+    "lang": "en",
+    "xmltv_id": "SuperSportVariety1.za@SD"
+  },
+  {
+    "site_id": "swz#231",
+    "name": "SS Rugby Africa",
+    "lang": "en",
+    "xmltv_id": "SuperSportRugby.za@SD"
+  },
+  {
+    "site_id": "swz#232",
+    "name": "SS Cricket Africa",
+    "lang": "en",
+    "xmltv_id": "SuperSportCricket.za@SD"
+  },
+  {
+    "site_id": "swz#233",
+    "name": "SS Golf Africa",
+    "lang": "en",
+    "xmltv_id": "SuperSportGolf.za@SD"
+  },
+  {
+    "site_id": "swz#234",
+    "name": "SS Tennis Africa",
+    "lang": "en",
+    "xmltv_id": "SuperSportTennis.za@SD"
+  },
+  {
+    "site_id": "swz#235",
+    "name": "SS Motorsport Africa",
+    "lang": "en",
+    "xmltv_id": "SuperSportMotorsport.za@SD"
+  },
+  {
+    "site_id": "swz#241",
+    "name": "SS Maximo 1 HD",
+    "lang": "en",
+    "xmltv_id": "SuperSportMaximo1.za@SD"
+  },
+  {
+    "site_id": "swz#301",
+    "name": "Cartoon Network",
+    "lang": "en",
+    "xmltv_id": "CartoonNetworkMENA.uk@SD"
+  },
+  {
+    "site_id": "swz#302",
+    "name": "Cartoonito",
+    "lang": "en",
+    "xmltv_id": "CartoonitoMENA.uk@SD"
+  },
+  {
+    "site_id": "swz#304",
+    "name": "DreamWorks",
+    "lang": "en",
+    "xmltv_id": "DreamWorks.us@SD"
+  },
+  {
+    "site_id": "swz#306",
+    "name": "Cbeebies",
+    "lang": "en",
+    "xmltv_id": "CBeebiesAsia.uk@SD"
+  },
+  {
+    "site_id": "swz#307",
+    "name": "NickJr",
+    "lang": "en",
+    "xmltv_id": "NickJrAfrica.za@SD"
+  },
+  {
+    "site_id": "swz#308",
+    "name": "NickTOONS",
+    "lang": "en",
+    "xmltv_id": "NicktoonsAfrica.za@SD"
+  },
+  {
+    "site_id": "swz#309",
+    "name": "Disney Junior",
+    "lang": "en",
+    "xmltv_id": "DisneyJuniorSouthAfrica.za@SD"
+  },
+  {
+    "site_id": "swz#310",
+    "name": "Jim Jam",
+    "lang": "en",
+    "xmltv_id": "JimJamMEA.uk@SD"
+  },
+  {
+    "site_id": "swz#312",
+    "name": "Nickelodeon Africa",
+    "lang": "en",
+    "xmltv_id": "NickelodeonAfrica.za"
+  },
+  {
+    "site_id": "swz#319",
+    "name": "Mindset",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "swz#320",
+    "name": "Channel O HD",
+    "lang": "en",
+    "xmltv_id": "ChannelO.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/channel-o-za.png"
+  },
+  {
+    "site_id": "swz#321",
+    "name": "Mzansi Music",
+    "lang": "en",
+    "xmltv_id": "MzansiMagicMusic.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/mzansi-magic-music-za.png"
+  },
+  {
+    "site_id": "swz#325",
+    "name": "TRACE URBAN HD",
+    "lang": "en",
+    "xmltv_id": "TraceUrban.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/trace-urban-fr.png"
+  },
+  {
+    "site_id": "swz#326",
+    "name": "TRACE Africa",
+    "lang": "en",
+    "xmltv_id": "TraceAfrica.fr@SD"
+  },
+  {
+    "site_id": "swz#327",
+    "name": "Sound City",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "swz#331",
+    "name": "One Gospel",
+    "lang": "en",
+    "xmltv_id": "OneGospel.za@SD"
+  },
+  {
+    "site_id": "swz#332",
+    "name": "Trace Gospel",
+    "lang": "en",
+    "xmltv_id": "TraceGospel.fr@SD"
+  },
+  {
+    "site_id": "swz#341",
+    "name": "FAITH",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "swz#343",
+    "name": "TBN",
+    "lang": "en",
+    "xmltv_id": "TBNAfrica.za"
+  },
+  {
+    "site_id": "swz#345",
+    "name": "iNX Prime",
+    "lang": "en",
+    "xmltv_id": "INXPrime.za"
+  },
+  {
+    "site_id": "swz#400",
+    "name": "BBC World News",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "swz#401",
+    "name": "CNN International",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@AsiaPacific"
+  },
+  {
+    "site_id": "swz#402",
+    "name": "Sky News",
+    "lang": "en",
+    "xmltv_id": "SkyNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-news-uk.png"
+  },
+  {
+    "site_id": "swz#403",
+    "name": "eNCA HD",
+    "lang": "en",
+    "xmltv_id": "eNewsChannelAfrica.za@SD"
+  },
+  {
+    "site_id": "swz#405",
+    "name": "Newzroom Afrika",
+    "lang": "en",
+    "xmltv_id": "NewzroomAfrika.za",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/newzroom-afrika-za.png"
+  },
+  {
+    "site_id": "swz#406",
+    "name": "Al Jazeera",
+    "lang": "en",
+    "xmltv_id": "AlJazeera.qa@English"
+  },
+  {
+    "site_id": "swz#407",
+    "name": "Russia Today",
+    "lang": "en",
+    "xmltv_id": "RT.ru@SD"
+  },
+  {
+    "site_id": "swz#408",
+    "name": "Parliamentary Service",
+    "lang": "en",
+    "xmltv_id": "ParliamentTV.za@SD"
+  },
+  {
+    "site_id": "swz#409",
+    "name": "CGTN News",
+    "lang": "en",
+    "xmltv_id": "CGTN.cn@SD"
+  },
+  {
+    "site_id": "swz#410",
+    "name": "CNBC Africa",
+    "lang": "en",
+    "xmltv_id": "CNBCAfrica.za@SD"
+  },
+  {
+    "site_id": "swz#412",
+    "name": "Business Day",
+    "lang": "en",
+    "xmltv_id": "BusinessDayTV.za@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/south-africa/business-day-tv-za.png"
+  },
+  {
+    "site_id": "swz#413",
+    "name": "NDTV 24x7",
+    "lang": "en",
+    "xmltv_id": "NDTV24x7.in@SD"
+  },
+  {
+    "site_id": "swz#414",
+    "name": "EuroNews",
+    "lang": "en",
+    "xmltv_id": "EuronewsEnglish.fr@SD"
+  },
+  {
+    "site_id": "swz#417",
+    "name": "Africanews",
+    "lang": "en",
+    "xmltv_id": "AfricanewsEnglish.fr@SD"
+  },
+  {
+    "site_id": "swz#430",
+    "name": "RAI International",
+    "lang": "en",
+    "xmltv_id": "RaiItalia.it@SD"
+  },
+  {
+    "site_id": "swz#431",
+    "name": "NHK",
+    "lang": "en",
+    "xmltv_id": "NHKWorldJapan.jp@SD"
+  },
+  {
+    "site_id": "swz#435",
+    "name": "RTPI",
+    "lang": "en",
+    "xmltv_id": "RTPInternacional.pt@SD"
+  },
+  {
+    "site_id": "swz#437",
+    "name": "TV5 Monde Afrique",
+    "lang": "en",
+    "xmltv_id": "TV5MondeAfrique.fr@SD"
+  },
+  {
+    "site_id": "swz#447",
+    "name": "CCTV 4",
+    "lang": "en",
+    "xmltv_id": "CCTV4.cn@SD"
+  },
+  {
+    "site_id": "swz#489",
+    "name": "Maaddii Abol",
+    "lang": "en",
+    "xmltv_id": ""
+  }
+]

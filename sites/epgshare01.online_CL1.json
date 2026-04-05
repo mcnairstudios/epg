@@ -1,0 +1,553 @@
+[
+  {
+    "site_id": "CL1#Canal.13.de.Chile.cl",
+    "name": "Canal 13 de Chile",
+    "lang": "es",
+    "xmltv_id": "Canal13.cl@SD"
+  },
+  {
+    "site_id": "CL1#Canal.24.Horas.(Chile).cl",
+    "name": "Canal 24 Horas (Chile)",
+    "lang": "es",
+    "xmltv_id": "24Horas.cl@SD"
+  },
+  {
+    "site_id": "CL1#Canal.¡HOLA!.TV.cl",
+    "name": "Canal ¡HOLA! TV",
+    "lang": "es",
+    "xmltv_id": "HolaTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.A&E.(Chile).cl",
+    "name": "Canal A&amp;E (Chile)",
+    "lang": "es",
+    "xmltv_id": "AELatinAmerica.us@South"
+  },
+  {
+    "site_id": "CL1#Canal.AMC.(Chile).cl",
+    "name": "Canal AMC (Chile)",
+    "lang": "es",
+    "xmltv_id": "AMCLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Animal.Planet.(Chile).cl",
+    "name": "Canal Animal Planet (Chile)",
+    "lang": "es",
+    "xmltv_id": "AnimalPlanetLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Atreseries.(Internacional).cl",
+    "name": "Canal Atreseries (Internacional)",
+    "lang": "es",
+    "xmltv_id": "Atreseries.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/atreseries-es.png"
+  },
+  {
+    "site_id": "CL1#Canal.AXN.(Chile).cl",
+    "name": "Canal AXN (Chile)",
+    "lang": "es",
+    "xmltv_id": "AXNLatinAmerica.us@Andes"
+  },
+  {
+    "site_id": "CL1#Canal.Baby.TV.(Latinoamérica).cl",
+    "name": "Canal Baby TV (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "BabyTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/baby-tv-uk.png"
+  },
+  {
+    "site_id": "CL1#Canal.Cartoon.Network.(Chile).cl",
+    "name": "Canal Cartoon Network (Chile)",
+    "lang": "es",
+    "xmltv_id": "CartoonNetworkLatinAmerica.us@NorthAtlantic"
+  },
+  {
+    "site_id": "CL1#Canal.Cartoonito.(Chile).cl",
+    "name": "Canal Cartoonito (Chile)",
+    "lang": "es",
+    "xmltv_id": "CartoonitoLatinAmerica.us@Argentine"
+  },
+  {
+    "site_id": "CL1#Canal.Chilevisión.(CHV).cl",
+    "name": "Canal Chilevisión (CHV)",
+    "lang": "es",
+    "xmltv_id": "ChileVision.cl@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Cinecanal.(Chile).cl",
+    "name": "Canal Cinecanal (Chile)",
+    "lang": "es",
+    "xmltv_id": "Cinecanal.us@Pacific"
+  },
+  {
+    "site_id": "CL1#Canal.Cinelatino.cl",
+    "name": "Canal Cinelatino",
+    "lang": "es",
+    "xmltv_id": "CineLatino.mx@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Cinemax.(Chile).cl",
+    "name": "Canal Cinemax (Chile)",
+    "lang": "es",
+    "xmltv_id": "CinemaxLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Claro.TV.cl",
+    "name": "Canal Claro TV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "CL1#Canal.CNN.Chile.cl",
+    "name": "Canal CNN Chile",
+    "lang": "es",
+    "xmltv_id": "CNNChile.cl@SD"
+  },
+  {
+    "site_id": "CL1#Canal.CNN.en.Español.cl",
+    "name": "Canal CNN en Español",
+    "lang": "es",
+    "xmltv_id": "CNNenEspanol.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.CNN.Internacional.cl",
+    "name": "Canal CNN Internacional",
+    "lang": "es",
+    "xmltv_id": "CNN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnn-us.png"
+  },
+  {
+    "site_id": "CL1#Canal.Concert.Channel.cl",
+    "name": "Canal Concert Channel",
+    "lang": "es",
+    "xmltv_id": "ConcertChannel.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.De.Película.cl",
+    "name": "Canal De Película",
+    "lang": "es",
+    "xmltv_id": "DePeliculaLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "CL1#Canal.DHE.cl",
+    "name": "Canal DHE",
+    "lang": "es",
+    "xmltv_id": "DHE.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Discovery.Channel.(Chile).cl",
+    "name": "Canal Discovery Channel (Chile)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryChannelLatinAmerica.us@Chile"
+  },
+  {
+    "site_id": "CL1#Canal.Discovery.Kids.(Chile).cl",
+    "name": "Canal Discovery Kids (Chile)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryKidsLatinAmerica.us@Chile"
+  },
+  {
+    "site_id": "CL1#Canal.Discovery.Science.(Latinoamérica).cl",
+    "name": "Canal Discovery Science (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryScienceLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Discovery.Theater.(Latinoamérica).cl",
+    "name": "Canal Discovery Theater (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryWorld.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Discovery.Turbo.(Latinoamérica).cl",
+    "name": "Canal Discovery Turbo (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "DiscoveryTurbo.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-turbo-uk.png"
+  },
+  {
+    "site_id": "CL1#Canal.Discovery.World.Latinoamérica.cl",
+    "name": "Canal Discovery World Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "DiscoveryWorld.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Disney.Channel.(Chile).cl",
+    "name": "Canal Disney Channel (Chile)",
+    "lang": "es",
+    "xmltv_id": "DisneyChannelLatinAmerica.ar@Center"
+  },
+  {
+    "site_id": "CL1#Canal.Disney.Junior.(Chile).cl",
+    "name": "Canal Disney Junior (Chile)",
+    "lang": "es",
+    "xmltv_id": "DisneyJunior.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.E!.Entertainment.Television.(Chile).cl",
+    "name": "Canal E! Entertainment Television (Chile)",
+    "lang": "es",
+    "xmltv_id": "AELatinAmerica.us@South"
+  },
+  {
+    "site_id": "CL1#Canal.Elgourmet.cl",
+    "name": "Canal Elgourmet",
+    "lang": "es",
+    "xmltv_id": "ElGourmet.ar@South",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/el-gourmet-ar.png"
+  },
+  {
+    "site_id": "CL1#Canal.Enlace.(TBN).cl",
+    "name": "Canal Enlace (TBN)",
+    "lang": "es",
+    "xmltv_id": "Enlace.cr@SD"
+  },
+  {
+    "site_id": "CL1#Canal.ESNE.TV.cl",
+    "name": "Canal ESNE TV",
+    "lang": "es",
+    "xmltv_id": "ESNETV.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.ESPN.2.(Chile).cl",
+    "name": "Canal ESPN 2 (Chile)",
+    "lang": "es",
+    "xmltv_id": "ESPN2LatinAmerica.us@Chile"
+  },
+  {
+    "site_id": "CL1#Canal.ESPN.3.(Chile).cl",
+    "name": "Canal ESPN 3 (Chile)",
+    "lang": "es",
+    "xmltv_id": "ESPN3LatinAmerica.us@South"
+  },
+  {
+    "site_id": "CL1#Canal.ESPN.(Chile).cl",
+    "name": "Canal ESPN (Chile)",
+    "lang": "es",
+    "xmltv_id": "ESPNLatinAmerica.us@Chile"
+  },
+  {
+    "site_id": "CL1#Canal.FX.(Chile).cl",
+    "name": "Canal FX (Chile)",
+    "lang": "es",
+    "xmltv_id": "FX.cl@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Golden.Edge.cl",
+    "name": "Canal Golden Edge",
+    "lang": "es",
+    "xmltv_id": "GoldenEdge.mx@Panregional",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/golden-edge-mx.png"
+  },
+  {
+    "site_id": "CL1#Canal.Golden.Plus.cl",
+    "name": "Canal Golden Plus",
+    "lang": "es",
+    "xmltv_id": "GoldenPlus.mx@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/golden-plus-mx.png"
+  },
+  {
+    "site_id": "CL1#Canal.Golden.Premier.cl",
+    "name": "Canal Golden Premier",
+    "lang": "es",
+    "xmltv_id": "GoldenPremier.mx@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/golden-premier-mx.png"
+  },
+  {
+    "site_id": "CL1#Canal.GolTV.Latinoamérica.cl",
+    "name": "Canal GolTV Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "GolTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.HBO.2.Latinoamérica.cl",
+    "name": "Canal HBO 2 Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "HBO2LatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.HBO.(Chile).cl",
+    "name": "Canal HBO (Chile)",
+    "lang": "es",
+    "xmltv_id": "HBOLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.HBO.Family.Latinoamérica.cl",
+    "name": "Canal HBO Family Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "HBOFamily.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hbo-family-us.png"
+  },
+  {
+    "site_id": "CL1#Canal.HBO.Mundi.cl",
+    "name": "Canal HBO Mundi",
+    "lang": "es",
+    "xmltv_id": "HBOMundi.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.HBO.Plus.cl",
+    "name": "Canal HBO Plus",
+    "lang": "es",
+    "xmltv_id": "HBOPlus.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.HBO.Pop.cl",
+    "name": "Canal HBO Pop",
+    "lang": "es",
+    "xmltv_id": "HBOPop.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.HBO.Signature.Latinoamérica.cl",
+    "name": "Canal HBO Signature Latinoamérica",
+    "lang": "es",
+    "xmltv_id": "HBOSignature.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.HBO.Xtreme.cl",
+    "name": "Canal HBO Xtreme",
+    "lang": "es",
+    "xmltv_id": "HBOXtreme.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.History.2.(Chile).cl",
+    "name": "Canal History 2 (Chile)",
+    "lang": "es",
+    "xmltv_id": "History2LatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "CL1#Canal.History.(Chile).cl",
+    "name": "Canal History (Chile)",
+    "lang": "es",
+    "xmltv_id": "HistoryLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "CL1#Canal.HTV.cl",
+    "name": "Canal HTV",
+    "lang": "es",
+    "xmltv_id": "HTV.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Inti.Network.cl",
+    "name": "Canal Inti Network",
+    "lang": "es",
+    "xmltv_id": "IntiTV.ec@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Investigation.Discovery.(Chile).cl",
+    "name": "Canal Investigation Discovery (Chile)",
+    "lang": "es",
+    "xmltv_id": "InvestigationDiscoveryLatinAmerica.us@South"
+  },
+  {
+    "site_id": "CL1#Canal.La.Red.(Chile).cl",
+    "name": "Canal La Red (Chile)",
+    "lang": "es",
+    "xmltv_id": "LaRed.cl@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Las.Estrellas.(Chile).cl",
+    "name": "Canal Las Estrellas (Chile)",
+    "lang": "es",
+    "xmltv_id": "LasEstrellasLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Lifetime.(Chile).cl",
+    "name": "Canal Lifetime (Chile)",
+    "lang": "es",
+    "xmltv_id": "LifetimeLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "CL1#Canal.Mega.(Chile).cl",
+    "name": "Canal Mega (Chile)",
+    "lang": "es",
+    "xmltv_id": "Mega.cl@SD"
+  },
+  {
+    "site_id": "CL1#Canal.MTV.00s.cl",
+    "name": "Canal MTV 00s",
+    "lang": "es",
+    "xmltv_id": "MTVLive.uk@SD"
+  },
+  {
+    "site_id": "CL1#Canal.MTV.(Chile).cl",
+    "name": "Canal MTV (Chile)",
+    "lang": "es",
+    "xmltv_id": "MTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.MTV.Live.HD.cl",
+    "name": "Canal MTV Live HD",
+    "lang": "es",
+    "xmltv_id": "MTVLive.uk@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Multipremier.cl",
+    "name": "Canal Multipremier",
+    "lang": "es",
+    "xmltv_id": "MultiPremier.mx@SD"
+  },
+  {
+    "site_id": "CL1#Canal.National.Geographic.(Chile).cl",
+    "name": "Canal National Geographic (Chile)",
+    "lang": "es",
+    "xmltv_id": "NationalGeographicLatinAmerica.us@South"
+  },
+  {
+    "site_id": "CL1#Canal.NHK.World.cl",
+    "name": "Canal NHK World",
+    "lang": "es",
+    "xmltv_id": "NHKWorld.jp@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Nick.Jr..(Chile).cl",
+    "name": "Canal Nick Jr. (Chile)",
+    "lang": "es",
+    "xmltv_id": "NickJrLatinAmerica.us@South"
+  },
+  {
+    "site_id": "CL1#Canal.Nickelodeon.(Chile).cl",
+    "name": "Canal Nickelodeon (Chile)",
+    "lang": "es",
+    "xmltv_id": "NickelodeonLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "CL1#Canal.Paramount.Channel.(Chile).cl",
+    "name": "Canal Paramount Channel (Chile)",
+    "lang": "es",
+    "xmltv_id": "ParamountNetworkLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "CL1#Canal.Pasiones.(Latinoamérica).cl",
+    "name": "Canal Pasiones (Latinoamérica)",
+    "lang": "es",
+    "xmltv_id": "PasionesLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.RCN.Novelas.cl",
+    "name": "Canal RCN Novelas",
+    "lang": "es",
+    "xmltv_id": "RCNNovelas.co@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Sony.(Chile).cl",
+    "name": "Canal Sony (Chile)",
+    "lang": "es",
+    "xmltv_id": "SonyChannel.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Space.(Chile).cl",
+    "name": "Canal Space (Chile)",
+    "lang": "es",
+    "xmltv_id": "Space.ar@Alternate",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/space-ar.png"
+  },
+  {
+    "site_id": "CL1#Canal.Star.Channel.(Chile).cl",
+    "name": "Canal Star Channel (Chile)",
+    "lang": "es",
+    "xmltv_id": "StarChannel.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Sun.Channel.cl",
+    "name": "Canal Sun Channel",
+    "lang": "es",
+    "xmltv_id": "SunChannel.ve@SD"
+  },
+  {
+    "site_id": "CL1#Canal.TCM.(Chile).cl",
+    "name": "Canal TCM (Chile)",
+    "lang": "es",
+    "xmltv_id": "TCMLatinAmerica.us@South"
+  },
+  {
+    "site_id": "CL1#Canal.TeenNick.cl",
+    "name": "Canal TeenNick",
+    "lang": "es",
+    "xmltv_id": "TeenNickLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Telemundo.(Chile).cl",
+    "name": "Canal Telemundo (Chile)",
+    "lang": "es",
+    "xmltv_id": "TelemundoInternacional.us@CentralAmerica"
+  },
+  {
+    "site_id": "CL1#Canal.TLC.(Chile).cl",
+    "name": "Canal TLC (Chile)",
+    "lang": "es",
+    "xmltv_id": "TLCLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "CL1#Canal.TLNovelas.(Chile).cl",
+    "name": "Canal TLNovelas (Chile)",
+    "lang": "es",
+    "xmltv_id": "TlnovelasLatinAmerica.mx@SD"
+  },
+  {
+    "site_id": "CL1#Canal.TNT.(Chile).cl",
+    "name": "Canal TNT (Chile)",
+    "lang": "es",
+    "xmltv_id": "TNTLatinAmerica.us@Chile"
+  },
+  {
+    "site_id": "CL1#Canal.TNT.Novelas.(Chile).cl",
+    "name": "Canal TNT Novelas (Chile)",
+    "lang": "es",
+    "xmltv_id": "TNTNovelas.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Tooncast.cl",
+    "name": "Canal Tooncast",
+    "lang": "es",
+    "xmltv_id": "Tooncast.us@SD"
+  },
+  {
+    "site_id": "CL1#Canal.TVE.Internacional.(Televisión.Española).cl",
+    "name": "Canal TVE Internacional (Televisión Española)",
+    "lang": "es",
+    "xmltv_id": "TVEInternacional.es@SD"
+  },
+  {
+    "site_id": "CL1#Canal.TVN.(Chile).cl",
+    "name": "Canal TVN (Chile)",
+    "lang": "es",
+    "xmltv_id": "TVN.cl@SD"
+  },
+  {
+    "site_id": "CL1#Canal.TyC.Sports.cl",
+    "name": "Canal TyC Sports",
+    "lang": "es",
+    "xmltv_id": "TyCSports.ar@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Univision.(Chile).cl",
+    "name": "Canal Univision (Chile)",
+    "lang": "es",
+    "xmltv_id": "Univision.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/univision-us.png"
+  },
+  {
+    "site_id": "CL1#Canal.Vía.X.cl",
+    "name": "Canal Vía X",
+    "lang": "es",
+    "xmltv_id": "ViaX.cl@SD"
+  },
+  {
+    "site_id": "CL1#Canal.Warner.TV.(Chile).cl",
+    "name": "Canal Warner TV (Chile)",
+    "lang": "es",
+    "xmltv_id": "WarnerChannel.us@HD"
+  },
+  {
+    "site_id": "CL1#Canal.Zona.Latina.cl",
+    "name": "Canal Zona Latina",
+    "lang": "es",
+    "xmltv_id": "ZonaLatina.cl@SD"
+  },
+  {
+    "site_id": "CL1#TV.Chile.cl",
+    "name": "TV Chile",
+    "lang": "en",
+    "xmltv_id": "TVChile.cl@SD"
+  }
+]

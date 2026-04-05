@@ -1,0 +1,986 @@
+[
+  {
+    "site_id": "TR1#24.tr",
+    "name": "24",
+    "lang": "tr",
+    "xmltv_id": "24TV.tr@SD"
+  },
+  {
+    "site_id": "TR1#360.tr",
+    "name": "360",
+    "lang": "tr",
+    "xmltv_id": "360.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/360-tr.png"
+  },
+  {
+    "site_id": "TR1#a2.tr",
+    "name": "a2",
+    "lang": "tr",
+    "xmltv_id": "A2TV.tr@SD"
+  },
+  {
+    "site_id": "TR1#A.Haber.tr",
+    "name": "A Haber",
+    "lang": "tr",
+    "xmltv_id": "AHaber.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/a-haber-tr.png"
+  },
+  {
+    "site_id": "TR1#A.News.tr",
+    "name": "A News",
+    "lang": "tr",
+    "xmltv_id": "ANews.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/a-news-tr.png"
+  },
+  {
+    "site_id": "TR1#a.Para.tr",
+    "name": "a Para",
+    "lang": "tr",
+    "xmltv_id": "APara.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/a-para-tr.png"
+  },
+  {
+    "site_id": "TR1#A.Spor.tr",
+    "name": "A Spor",
+    "lang": "tr",
+    "xmltv_id": "ASpor.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/a-spor-tr.png"
+  },
+  {
+    "site_id": "TR1#Akit.tr",
+    "name": "Akit",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#Al.Jazeera.(Arapça).tr",
+    "name": "Al Jazeera (Arapça)",
+    "lang": "tr",
+    "xmltv_id": "AlJazeera.qa@Arabic"
+  },
+  {
+    "site_id": "TR1#Al.Jazeera.(İngilizce).tr",
+    "name": "Al Jazeera (İngilizce)",
+    "lang": "tr",
+    "xmltv_id": "AlJazeeraEnglish.qa@SD"
+  },
+  {
+    "site_id": "TR1#Al.Quran.Al.Kareem.tr",
+    "name": "Al Quran Al Kareem",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#Al.Sunnah.Al.Nabawiya.tr",
+    "name": "Al Sunnah Al Nabawiya",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#Arirang.tr",
+    "name": "Arirang",
+    "lang": "tr",
+    "xmltv_id": "ArirangTV.kr@SD"
+  },
+  {
+    "site_id": "TR1#Atv.tr",
+    "name": "Atv",
+    "lang": "tr",
+    "xmltv_id": "ATV.tr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/atv-tr.png"
+  },
+  {
+    "site_id": "TR1#Az.TV.tr",
+    "name": "Az TV",
+    "lang": "tr",
+    "xmltv_id": "AzTV.az@SD"
+  },
+  {
+    "site_id": "TR1#BabyTV.tr",
+    "name": "BabyTV",
+    "lang": "tr",
+    "xmltv_id": "BabyTV.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/baby-tv-uk.png"
+  },
+  {
+    "site_id": "TR1#beIN.SPORTS.HABER.tr",
+    "name": "beIN SPORTS HABER",
+    "lang": "tr",
+    "xmltv_id": "beINSportsHaber.tr@SD"
+  },
+  {
+    "site_id": "TR1#Bein.Sports.Haber.tr",
+    "name": "Bein Sports Haber",
+    "lang": "tr",
+    "xmltv_id": "beINSportsHaber.tr@SD"
+  },
+  {
+    "site_id": "TR1#Beinsports.2.tr",
+    "name": "Beinsports 2",
+    "lang": "tr",
+    "xmltv_id": "beINSports2.qa@SD"
+  },
+  {
+    "site_id": "TR1#Beinsports.3.tr",
+    "name": "Beinsports 3",
+    "lang": "tr",
+    "xmltv_id": "beINSports3.qa@SD"
+  },
+  {
+    "site_id": "TR1#Beinsports.4.tr",
+    "name": "Beinsports 4",
+    "lang": "tr",
+    "xmltv_id": "beINSports4.qa@SD"
+  },
+  {
+    "site_id": "TR1#Beinsports.tr",
+    "name": "Beinsports",
+    "lang": "tr",
+    "xmltv_id": "beINSports.qa@SD"
+  },
+  {
+    "site_id": "TR1#Bengü.Türk.TV.tr",
+    "name": "Bengü Türk TV",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#Beyaz.TV.tr",
+    "name": "Beyaz TV",
+    "lang": "tr",
+    "xmltv_id": "BeyazTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/beyaz-tv-tr.png"
+  },
+  {
+    "site_id": "TR1#Bloomberg.HT.tr",
+    "name": "Bloomberg HT",
+    "lang": "tr",
+    "xmltv_id": "BloombergHT.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/bloomberg-ht-tr.png"
+  },
+  {
+    "site_id": "TR1#Bloomberg.tr",
+    "name": "Bloomberg",
+    "lang": "tr",
+    "xmltv_id": "BloombergTV.us@Europe"
+  },
+  {
+    "site_id": "TR1#Brt.1.tr",
+    "name": "Brt 1",
+    "lang": "tr",
+    "xmltv_id": "BRT1.cy@SD"
+  },
+  {
+    "site_id": "TR1#Brt.3.tr",
+    "name": "Brt 3",
+    "lang": "tr",
+    "xmltv_id": "BRT3.cy@SD"
+  },
+  {
+    "site_id": "TR1#Cartoon.Network.tr",
+    "name": "Cartoon Network",
+    "lang": "tr",
+    "xmltv_id": "CartoonNetwork.tr@SD"
+  },
+  {
+    "site_id": "TR1#Cctv.4.tr",
+    "name": "Cctv 4",
+    "lang": "tr",
+    "xmltv_id": "CCTV4.cn@SD"
+  },
+  {
+    "site_id": "TR1#CGTN.Documentary.tr",
+    "name": "CGTN Documentary",
+    "lang": "tr",
+    "xmltv_id": "CGTNDocumentary.cn@SD"
+  },
+  {
+    "site_id": "TR1#CGTN.tr",
+    "name": "CGTN",
+    "lang": "tr",
+    "xmltv_id": "CGTN.cn@SD"
+  },
+  {
+    "site_id": "TR1#Classical.Harmony.tr",
+    "name": "Classical Harmony",
+    "lang": "tr",
+    "xmltv_id": "ClassicalHarmony.uk@SD"
+  },
+  {
+    "site_id": "TR1#CNBC-e.tr",
+    "name": "CNBC-e",
+    "lang": "tr",
+    "xmltv_id": "CNBCe.tr"
+  },
+  {
+    "site_id": "TR1#CNN.International.tr",
+    "name": "CNN International",
+    "lang": "tr",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "TR1#CNN.Türk.tr",
+    "name": "CNN Türk",
+    "lang": "tr",
+    "xmltv_id": "CNNTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/cnn-turk-tr.png"
+  },
+  {
+    "site_id": "TR1#Da.Vinci.tr",
+    "name": "Da Vinci",
+    "lang": "tr",
+    "xmltv_id": "DaVinci.de@SD"
+  },
+  {
+    "site_id": "TR1#Discovery.Channel.tr",
+    "name": "Discovery Channel",
+    "lang": "tr",
+    "xmltv_id": "DiscoveryChannel.tr@SD"
+  },
+  {
+    "site_id": "TR1#Disney.Junior.tr",
+    "name": "Disney Junior",
+    "lang": "tr",
+    "xmltv_id": "DisneyJr.tr@SD"
+  },
+  {
+    "site_id": "TR1#Diyanet.TV.tr",
+    "name": "Diyanet TV",
+    "lang": "tr",
+    "xmltv_id": "DiyanetTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/diyanet-tv-tr.png"
+  },
+  {
+    "site_id": "TR1#DMAX.tr",
+    "name": "DMAX",
+    "lang": "tr",
+    "xmltv_id": "DMAX.tr@SD"
+  },
+  {
+    "site_id": "TR1#DocuSCREEN.tr",
+    "name": "DocuSCREEN",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#Dream.Türk.tr",
+    "name": "Dream Türk",
+    "lang": "tr",
+    "xmltv_id": "DreamTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/dream-turk-tr.png"
+  },
+  {
+    "site_id": "TR1#Duck.TV.tr",
+    "name": "Duck TV",
+    "lang": "tr",
+    "xmltv_id": "ducktv.sk@SD"
+  },
+  {
+    "site_id": "TR1#Dw.Tv.(İngilizce).tr",
+    "name": "Dw Tv (İngilizce)",
+    "lang": "tr",
+    "xmltv_id": "DW.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
+  },
+  {
+    "site_id": "TR1#Ekol.TV.tr",
+    "name": "Ekol TV",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#Ekotürk.tr",
+    "name": "Ekotürk",
+    "lang": "tr",
+    "xmltv_id": "Ekoturk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/ekoturk-tr.png"
+  },
+  {
+    "site_id": "TR1#English.Club.TV.tr",
+    "name": "English Club TV",
+    "lang": "tr",
+    "xmltv_id": "EnglishClubTV.uk@SD"
+  },
+  {
+    "site_id": "TR1#Epic.Drama.tr",
+    "name": "Epic Drama",
+    "lang": "tr",
+    "xmltv_id": "EpicDrama.uk@SD"
+  },
+  {
+    "site_id": "TR1#Eurosport.1.tr",
+    "name": "Eurosport 1",
+    "lang": "tr",
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
+  },
+  {
+    "site_id": "TR1#Eurosport.2.tr",
+    "name": "Eurosport 2",
+    "lang": "tr",
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
+  },
+  {
+    "site_id": "TR1#FB.TV.tr",
+    "name": "FB TV",
+    "lang": "tr",
+    "xmltv_id": "FBTV.tr@SD"
+  },
+  {
+    "site_id": "TR1#FightSCREEN.tr",
+    "name": "FightSCREEN",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#FILMSCREEN.tr",
+    "name": "FILMSCREEN",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#France.24.(Fransızca).tr",
+    "name": "France 24 (Fransızca)",
+    "lang": "tr",
+    "xmltv_id": "France24.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "TR1#France.24.(İngilizce).tr",
+    "name": "France 24 (İngilizce)",
+    "lang": "tr",
+    "xmltv_id": "France24.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "TR1#Freedom.tr",
+    "name": "Freedom",
+    "lang": "tr",
+    "xmltv_id": "FREEDOM.ua@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/freedom-ua.png"
+  },
+  {
+    "site_id": "TR1#FX.tr",
+    "name": "FX",
+    "lang": "tr",
+    "xmltv_id": "FX.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fx-us.png"
+  },
+  {
+    "site_id": "TR1#GameSCREEN.tr",
+    "name": "GameSCREEN",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#Genç.TV.tr",
+    "name": "Genç TV",
+    "lang": "tr",
+    "xmltv_id": "GenTV.ar@SD"
+  },
+  {
+    "site_id": "TR1#GZT.tr",
+    "name": "GZT",
+    "lang": "tr",
+    "xmltv_id": "GZT.tr@SD"
+  },
+  {
+    "site_id": "TR1#Haber.Global.tr",
+    "name": "Haber Global",
+    "lang": "tr",
+    "xmltv_id": "HaberGlobal.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/haber-global-tr.png"
+  },
+  {
+    "site_id": "TR1#HABERTÜRK.TV.tr",
+    "name": "HABERTÜRK TV",
+    "lang": "tr",
+    "xmltv_id": "HaberturkTV.tr@SD"
+  },
+  {
+    "site_id": "TR1#Halk.TV.tr",
+    "name": "Halk TV",
+    "lang": "tr",
+    "xmltv_id": "HalkTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/halk-tv-tr.png"
+  },
+  {
+    "site_id": "TR1#Hayat.Plus.tr",
+    "name": "Hayat Plus",
+    "lang": "tr",
+    "xmltv_id": "HayatPlus.ba@SD"
+  },
+  {
+    "site_id": "TR1#HT.Spor.tr",
+    "name": "HT Spor",
+    "lang": "tr",
+    "xmltv_id": "HTSporTV.tr@SD"
+  },
+  {
+    "site_id": "TR1#ID.tr",
+    "name": "ID",
+    "lang": "tr",
+    "xmltv_id": "InvestigationDiscovery.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/investigation-discovery-us.png"
+  },
+  {
+    "site_id": "TR1#Kablo.Info.tr",
+    "name": "Kablo Info",
+    "lang": "tr",
+    "xmltv_id": "KabloInfo.tr@SD"
+  },
+  {
+    "site_id": "TR1#Kanal.7.tr",
+    "name": "Kanal 7",
+    "lang": "tr",
+    "xmltv_id": "Kanal7.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kanal-7-tr.png"
+  },
+  {
+    "site_id": "TR1#Kanal.B.tr",
+    "name": "Kanal B",
+    "lang": "tr",
+    "xmltv_id": "KanalB.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kanal-b-tr.png"
+  },
+  {
+    "site_id": "TR1#Kanal.D.tr",
+    "name": "Kanal D",
+    "lang": "tr",
+    "xmltv_id": "KanalD.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kanal-d-tr.png"
+  },
+  {
+    "site_id": "TR1#Kbs.World.tr",
+    "name": "Kbs World",
+    "lang": "tr",
+    "xmltv_id": "KBSWorld.kr@SD"
+  },
+  {
+    "site_id": "TR1#Kitchen.TV.tr",
+    "name": "Kitchen TV",
+    "lang": "tr",
+    "xmltv_id": "KitchenTV.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/kitchen-tv-rs.png"
+  },
+  {
+    "site_id": "TR1#Kon.TV.tr",
+    "name": "Kon TV",
+    "lang": "tr",
+    "xmltv_id": "KonTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kon-tv-tr.png"
+  },
+  {
+    "site_id": "TR1#KRT.TV.tr",
+    "name": "KRT TV",
+    "lang": "tr",
+    "xmltv_id": "KRT.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/krt-tr.png"
+  },
+  {
+    "site_id": "TR1#Langlab.tr",
+    "name": "Langlab",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#Lider.Haber.tr",
+    "name": "Lider Haber",
+    "lang": "tr",
+    "xmltv_id": "LiderHaber.tr@SD"
+  },
+  {
+    "site_id": "TR1#Lingotoons.tr",
+    "name": "Lingotoons",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#Love.Nature.tr",
+    "name": "Love Nature",
+    "lang": "tr",
+    "xmltv_id": "LoveNature.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/love-nature-ca.png"
+  },
+  {
+    "site_id": "TR1#Mezzo.tr",
+    "name": "Mezzo",
+    "lang": "tr",
+    "xmltv_id": "Mezzo.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mezzo-fr.png"
+  },
+  {
+    "site_id": "TR1#Minika.Çocuk.tr",
+    "name": "Minika Çocuk",
+    "lang": "tr",
+    "xmltv_id": "MinikaCocuk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/minika-cocuk-tr.png"
+  },
+  {
+    "site_id": "TR1#Minika.Go.tr",
+    "name": "Minika Go",
+    "lang": "tr",
+    "xmltv_id": "MinikaGo.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/minika-go-tr.png"
+  },
+  {
+    "site_id": "TR1#Moonbug.Kids.tr",
+    "name": "Moonbug Kids",
+    "lang": "tr",
+    "xmltv_id": "MoonbugKids.uk@SD"
+  },
+  {
+    "site_id": "TR1#MyZEN.TV.tr",
+    "name": "MyZEN TV",
+    "lang": "tr",
+    "xmltv_id": "MyZenTV.fr@SD"
+  },
+  {
+    "site_id": "TR1#National.Geographic.tr",
+    "name": "National Geographic",
+    "lang": "tr",
+    "xmltv_id": "NationalGeographic.tr@SD"
+  },
+  {
+    "site_id": "TR1#National.Geographic.Wild.tr",
+    "name": "National Geographic Wild",
+    "lang": "tr",
+    "xmltv_id": "NationalGeographicWild.tr@SD"
+  },
+  {
+    "site_id": "TR1#NBA.TV.tr",
+    "name": "NBA TV",
+    "lang": "tr",
+    "xmltv_id": "NBATV.us@SD"
+  },
+  {
+    "site_id": "TR1#Nhk.World.tr",
+    "name": "Nhk World",
+    "lang": "tr",
+    "xmltv_id": "NHKWorld.jp@SD"
+  },
+  {
+    "site_id": "TR1#NOW.tr",
+    "name": "NOW",
+    "lang": "tr",
+    "xmltv_id": "NOWTV.tr@SD"
+  },
+  {
+    "site_id": "TR1#NTV.tr",
+    "name": "NTV",
+    "lang": "tr",
+    "xmltv_id": "NTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/ntv-tr.png"
+  },
+  {
+    "site_id": "TR1#Planeta.RTR.tr",
+    "name": "Planeta RTR",
+    "lang": "tr",
+    "xmltv_id": "RTRPlaneta.ru@SD"
+  },
+  {
+    "site_id": "TR1#Russia.24.tr",
+    "name": "Russia 24",
+    "lang": "tr",
+    "xmltv_id": "Russia24.ru@SD"
+  },
+  {
+    "site_id": "TR1#S.Sport2.tr",
+    "name": "S Sport2",
+    "lang": "tr",
+    "xmltv_id": "SSport2.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/s-sport-2-tr.png"
+  },
+  {
+    "site_id": "TR1#S.Sport.tr",
+    "name": "S Sport",
+    "lang": "tr",
+    "xmltv_id": "SSport.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/s-sport-tr.png"
+  },
+  {
+    "site_id": "TR1#Saudi.TV.tr",
+    "name": "Saudi TV",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#Show.tr",
+    "name": "Show",
+    "lang": "tr",
+    "xmltv_id": "ShowTV.tr@SD"
+  },
+  {
+    "site_id": "TR1#Sinema.2.tr",
+    "name": "Sinema 2",
+    "lang": "tr",
+    "xmltv_id": "Sinema2.tr@SD"
+  },
+  {
+    "site_id": "TR1#Sinema.1001.tr",
+    "name": "Sinema 1001",
+    "lang": "tr",
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
+  },
+  {
+    "site_id": "TR1#Sinema.1002.tr",
+    "name": "Sinema 1002",
+    "lang": "tr",
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
+  },
+  {
+    "site_id": "TR1#Sinema.Aile.2.tr",
+    "name": "Sinema Aile 2",
+    "lang": "tr",
+    "xmltv_id": "SinemaAile2.tr@SD"
+  },
+  {
+    "site_id": "TR1#Sinema.Aile.tr",
+    "name": "Sinema Aile",
+    "lang": "tr",
+    "xmltv_id": "SinemaAile.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile-tr.png"
+  },
+  {
+    "site_id": "TR1#Sinema.Aksiyon.2.tr",
+    "name": "Sinema Aksiyon 2",
+    "lang": "tr",
+    "xmltv_id": "SinemaAksiyon2.tr@SD"
+  },
+  {
+    "site_id": "TR1#Sinema.Aksiyon.tr",
+    "name": "Sinema Aksiyon",
+    "lang": "tr",
+    "xmltv_id": "SinemaAksiyon.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png"
+  },
+  {
+    "site_id": "TR1#Sinema.Komedi.2.tr",
+    "name": "Sinema Komedi 2",
+    "lang": "tr",
+    "xmltv_id": "SinemaKomedi2.tr@SD"
+  },
+  {
+    "site_id": "TR1#Sinema.Komedi.tr",
+    "name": "Sinema Komedi",
+    "lang": "tr",
+    "xmltv_id": "SinemaKomedi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-komedi-tr.png"
+  },
+  {
+    "site_id": "TR1#Sinema.TV.tr",
+    "name": "Sinema TV",
+    "lang": "tr",
+    "xmltv_id": "SinemaTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-tv-tr.png"
+  },
+  {
+    "site_id": "TR1#Sinema.Yerli.2.tr",
+    "name": "Sinema Yerli 2",
+    "lang": "tr",
+    "xmltv_id": "SinemaYerli2.tr@SD"
+  },
+  {
+    "site_id": "TR1#Sinema.Yerli.tr",
+    "name": "Sinema Yerli",
+    "lang": "tr",
+    "xmltv_id": "SinemaYerli.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-yerli-tr.png"
+  },
+  {
+    "site_id": "TR1#Sports.Tv.tr",
+    "name": "Sports Tv",
+    "lang": "tr",
+    "xmltv_id": "SportsTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sports-tv-tr.png"
+  },
+  {
+    "site_id": "TR1#Star.tr",
+    "name": "Star",
+    "lang": "tr",
+    "xmltv_id": "StarTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/star-tv-tr.png"
+  },
+  {
+    "site_id": "TR1#SZC.tr",
+    "name": "SZC",
+    "lang": "tr",
+    "xmltv_id": "SozcuTV.tr@SD"
+  },
+  {
+    "site_id": "TR1#Tarih.Tv.tr",
+    "name": "Tarih Tv",
+    "lang": "tr",
+    "xmltv_id": "TarihTV.tr@SD"
+  },
+  {
+    "site_id": "TR1#Teve.2.tr",
+    "name": "Teve 2",
+    "lang": "tr",
+    "xmltv_id": "Teve2.tr@SD"
+  },
+  {
+    "site_id": "TR1#TGRT.Haber.tr",
+    "name": "TGRT Haber",
+    "lang": "tr",
+    "xmltv_id": "TGRTHaber.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tgrt-haber-tr.png"
+  },
+  {
+    "site_id": "TR1#TH.Türk.Haber.tr",
+    "name": "TH Türk Haber",
+    "lang": "tr",
+    "xmltv_id": "TurkHaberTV.tr"
+  },
+  {
+    "site_id": "TR1#Tinyteen.tr",
+    "name": "Tinyteen",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#TLC.tr",
+    "name": "TLC",
+    "lang": "tr",
+    "xmltv_id": "TLC.tr@SD"
+  },
+  {
+    "site_id": "TR1#TMB.tr",
+    "name": "TMB",
+    "lang": "tr",
+    "xmltv_id": "TMB.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tmb-tr.png"
+  },
+  {
+    "site_id": "TR1#Trace.Sport.Stars.tr",
+    "name": "Trace Sport Stars",
+    "lang": "tr",
+    "xmltv_id": "TraceSportStars.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/trace-sport-stars-fr.png"
+  },
+  {
+    "site_id": "TR1#Trace.Urban.tr",
+    "name": "Trace Urban",
+    "lang": "tr",
+    "xmltv_id": "TraceUrban.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/trace-urban-fr.png"
+  },
+  {
+    "site_id": "TR1#TRT3.Spor.-.TBMM.TV.tr",
+    "name": "TRT3 Spor - TBMM TV",
+    "lang": "tr",
+    "xmltv_id": "TRT3.tr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-3-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.1.tr",
+    "name": "TRT 1",
+    "lang": "tr",
+    "xmltv_id": "TRT1.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-1-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.2.tr",
+    "name": "TRT 2",
+    "lang": "tr",
+    "xmltv_id": "TRT2.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-2-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.Arabi.tr",
+    "name": "TRT Arabi",
+    "lang": "tr",
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-arabi-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.Avaz.tr",
+    "name": "TRT Avaz",
+    "lang": "tr",
+    "xmltv_id": "TRTAvaz.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-avaz-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.Belgesel.tr",
+    "name": "TRT Belgesel",
+    "lang": "tr",
+    "xmltv_id": "TRTBelgesel.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-belgesel-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.Çocuk.tr",
+    "name": "TRT Çocuk",
+    "lang": "tr",
+    "xmltv_id": "TRTCocuk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-cocuk-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.Diyanet.Çocuk.tr",
+    "name": "TRT Diyanet Çocuk",
+    "lang": "tr",
+    "xmltv_id": "TRTDiyanetCocuk.tr"
+  },
+  {
+    "site_id": "TR1#TRT.Eba.tr",
+    "name": "TRT Eba",
+    "lang": "tr",
+    "xmltv_id": "TRTEBA.tr@SD"
+  },
+  {
+    "site_id": "TR1#TRT.Haber.tr",
+    "name": "TRT Haber",
+    "lang": "tr",
+    "xmltv_id": "TRTHaber.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-haber-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.Kurdî.tr",
+    "name": "TRT Kurdî",
+    "lang": "tr",
+    "xmltv_id": "TRTKurdi.tr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-kurdi-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.Müzik.tr",
+    "name": "TRT Müzik",
+    "lang": "tr",
+    "xmltv_id": "TRTMuzik.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-muzik-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.Spor.tr",
+    "name": "TRT Spor",
+    "lang": "tr",
+    "xmltv_id": "TRTSpor.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-spor-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.Spor.Yıldız.tr",
+    "name": "TRT Spor Yıldız",
+    "lang": "tr",
+    "xmltv_id": "TRTSporYildiz.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.Türk.tr",
+    "name": "TRT Türk",
+    "lang": "tr",
+    "xmltv_id": "TRTTurk.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-turk-tr.png"
+  },
+  {
+    "site_id": "TR1#TRT.World.tr",
+    "name": "TRT World",
+    "lang": "tr",
+    "xmltv_id": "TRTWorld.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-world-tr.png"
+  },
+  {
+    "site_id": "TR1#Türkmeneli.TV.tr",
+    "name": "Türkmeneli TV",
+    "lang": "tr",
+    "xmltv_id": "TurkmeneliTV.iq"
+  },
+  {
+    "site_id": "TR1#TV41.tr",
+    "name": "TV41",
+    "lang": "tr",
+    "xmltv_id": "TV41.tr@SD"
+  },
+  {
+    "site_id": "TR1#TV.4.tr",
+    "name": "TV 4",
+    "lang": "tr",
+    "xmltv_id": "TV4.tr@SD"
+  },
+  {
+    "site_id": "TR1#Tv.5.Monde.Europe.tr",
+    "name": "Tv 5 Monde Europe",
+    "lang": "tr",
+    "xmltv_id": "TV5MondeEurope.fr@SD"
+  },
+  {
+    "site_id": "TR1#TV.5.tr",
+    "name": "TV 5",
+    "lang": "tr",
+    "xmltv_id": "TV5.tr@SD"
+  },
+  {
+    "site_id": "TR1#TV.8,5.tr",
+    "name": "TV 8,5",
+    "lang": "tr",
+    "xmltv_id": "TV85.tr@SD"
+  },
+  {
+    "site_id": "TR1#TV.8.tr",
+    "name": "TV 8",
+    "lang": "tr",
+    "xmltv_id": "TV8.tr"
+  },
+  {
+    "site_id": "TR1#TV.42.tr",
+    "name": "TV 42",
+    "lang": "tr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "TR1#tv.100.tr",
+    "name": "tv 100",
+    "lang": "tr",
+    "xmltv_id": "TV100.tr@SD"
+  },
+  {
+    "site_id": "TR1#Tvnet.tr",
+    "name": "Tvnet",
+    "lang": "tr",
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tvnet-tr.png"
+  },
+  {
+    "site_id": "TR1#Ülke.TV.tr",
+    "name": "Ülke TV",
+    "lang": "tr",
+    "xmltv_id": "UlkeTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/ulke-tv-tr.png"
+  },
+  {
+    "site_id": "TR1#Ulusal.1.tr",
+    "name": "Ulusal 1",
+    "lang": "tr",
+    "xmltv_id": "Ulusal.tr"
+  },
+  {
+    "site_id": "TR1#Vav.TV.tr",
+    "name": "Vav TV",
+    "lang": "tr",
+    "xmltv_id": "VavTV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/vav-tv-tr.png"
+  },
+  {
+    "site_id": "TR1#Viasat.Explore.tr",
+    "name": "Viasat Explore",
+    "lang": "tr",
+    "xmltv_id": "ViasatExplore.tr@SD"
+  },
+  {
+    "site_id": "TR1#Viasat.History.tr",
+    "name": "Viasat History",
+    "lang": "tr",
+    "xmltv_id": "ViasatHistory.tr@SD"
+  },
+  {
+    "site_id": "TR1#Viasat.Nature.tr",
+    "name": "Viasat Nature",
+    "lang": "tr",
+    "xmltv_id": "ViasatNature.uk@SD"
+  },
+  {
+    "site_id": "TR1#W-Sport.tr",
+    "name": "W-Sport",
+    "lang": "tr",
+    "xmltv_id": "WSport.za@SD"
+  }
+]

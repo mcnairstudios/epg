@@ -1,0 +1,658 @@
+[
+  {
+    "site_id": "DUMMY_CHANNELS#24.7.Dummy.us",
+    "name": "24/7 Programming",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Adult.Programming.Dummy.us",
+    "name": "Adult Programming",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Amazon.Programming.Dummy.us",
+    "name": "Amazon Programming",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#AMC+.Originals.Dummy.us",
+    "name": "AMC+ Originals",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Apple.TV+.Originals.Dummy.us",
+    "name": "Apple TV+ Originals",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#AUS.Rules.Football.Dummy.us",
+    "name": "Australian Rules Football",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Barstool.Sports.Dummy.us",
+    "name": "Barstool Sports",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Baseball.Dummy.us",
+    "name": "Baseball",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Basketball.Dummy.us",
+    "name": "Basketball",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#BBC.World.News.Dummy.us",
+    "name": "BBC World News",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@Africa",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Beisbol.LMP.Dummy.us",
+    "name": "Beisbol LMP",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#BIG.10.us",
+    "name": "Big 10",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#BilliardTV.Dummy.us",
+    "name": "Billiard TV",
+    "lang": "en",
+    "xmltv_id": "BilliardTV.us@SD"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Christmas.Dummy.us",
+    "name": "Christmas",
+    "lang": "en",
+    "xmltv_id": "ERTChristmas.gr"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Christmas.Fireplace.Dummy.us",
+    "name": "Christmas Fireplace",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Christmas.Message.Dummy.us",
+    "name": "Christmas Message",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Christmas.Music.Dummy.us",
+    "name": "Christmas Music",
+    "lang": "en",
+    "xmltv_id": "ChristmasMusic.us"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Christmas.Radio.Dummy.us",
+    "name": "Christmas Radio",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Cinebox.Dummy.us",
+    "name": "Cinebox",
+    "lang": "en",
+    "xmltv_id": "cinebox.bg"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Cricket.Dummy.us",
+    "name": "Cricket",
+    "lang": "en",
+    "xmltv_id": "SuperSportCricket.za@SD"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Darts.Dummy.us",
+    "name": "Darts",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#DAZN.Dummy.us",
+    "name": "DAZN",
+    "lang": "en",
+    "xmltv_id": "DAZN1.uk@Germany"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Discovery+.Disney+.us",
+    "name": "Disney+",
+    "lang": "en",
+    "xmltv_id": "DisneyChannel.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/disney-channel-us.png"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Discovery+.Dummy.us",
+    "name": "Discovery+",
+    "lang": "en",
+    "xmltv_id": "DiscoveryChannel.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#English.Football.League.Dummy.us",
+    "name": "English Football League",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#ESPN+.Dummy.us",
+    "name": "ESPN+",
+    "lang": "en",
+    "xmltv_id": "ESPNAfrica.za@SD"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#ESPN.Play.Dummy.us",
+    "name": "ESPN Play",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Fishtank.Live.Dummy.us",
+    "name": "Fishtank Live",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#FITE.TV.Dummy.us",
+    "name": "FITE TV",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Flo.Events.Dummy.us",
+    "name": "Flo Events",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Football.Dummy.us",
+    "name": "Football",
+    "lang": "en",
+    "xmltv_id": "Football.ru"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Fox.Live.Now.Dummy.us",
+    "name": "Fox Live Now",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#GaaGo.TV.Dummy.us",
+    "name": "GaaGo TV",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Golf.Dummy.us",
+    "name": "Golf",
+    "lang": "en",
+    "xmltv_id": "GolfChannel.us@SD"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Grande.Fratello.Party.Dummy.us",
+    "name": "Grande Fratello Party",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Grande.Fratello.Regia.1.Dummy.us",
+    "name": "Grande Fratello Regia 1",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Grande.Fratello.Regia.2.Dummy.us",
+    "name": "Grande Fratello Regia 2",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Grande.Fratello.Un'ora.fa.Dummy.us",
+    "name": "Grande Fratello Un'ora fa",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#HBO.MAX.us",
+    "name": "HBO MAX",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#HULU.us",
+    "name": "HULU",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Info.Guide.Dummy.us",
+    "name": "Info Guide",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#ITVX.Dummy.us",
+    "name": "ITVX",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Kids.Dummy.us",
+    "name": "Kids Programming",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Lazio.Style.Radio.Dummy.us",
+    "name": "Lazio Style Radio",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Lazio.Style.TV.Dummy.us",
+    "name": "Lazio Style TV",
+    "lang": "en",
+    "xmltv_id": "LazioStyleChannel.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/lazio-style-channel-it.png"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Local.Programming.Dummy.us",
+    "name": "Local Programming",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#LOI.TV.Dummy.us",
+    "name": "LOI TV",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Love.Nature.Dummy.us",
+    "name": "Love Nature",
+    "lang": "en",
+    "xmltv_id": "LoveNature.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/love-nature-ca.png"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#March.Madness.us",
+    "name": "March Madness",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Minor.League.Baseball.Dummy.us",
+    "name": "Minor League Baseball",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Minor.League.Hockey.Dummy.us",
+    "name": "Minor League Hockey",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#MLB.Baseball.Dummy.us",
+    "name": "MLB Baseball",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#MLS.Soccer.Dummy.us",
+    "name": "MLS Soccer",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Monday.Night.Football.Dummy.us",
+    "name": "Monday Night Football",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#MorbidoTV.Dummy.us",
+    "name": "MorbidoTV",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Movie.Dummy.us",
+    "name": "Movie",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Music.Dummy.us",
+    "name": "Music",
+    "lang": "en",
+    "xmltv_id": "TNTMusic.ru@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/russia/tnt-music-ru.png"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#National.League.Dummy.us",
+    "name": "National League",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#NBA.Basketball.Dummy.us",
+    "name": "NBA Basketball",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#NCAA.Baseball.Dummy.us",
+    "name": "NCAA Baseball",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#NCAA.Football.Dummy.us",
+    "name": "NCAA Football",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#NCAA.Mens.Basketball.Dummy.us",
+    "name": "NCAA Mens Basketball",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#NCAA.Softball.Dummy.us",
+    "name": "NCAA Softball",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#NCAA.Womens.Basketball.Dummy.us",
+    "name": "NCAA Womens Basketball",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Netflix.Dummy.us",
+    "name": "Netflix",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#NEWS.dummy.us",
+    "name": "NEWS",
+    "lang": "en",
+    "xmltv_id": "ERTNews.gr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/greece/ert-news-gr.png"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#NFL.Dummy.us",
+    "name": "NFL",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#NHL.Hockey.Dummy.us",
+    "name": "NHL Hockey",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#No.Game.Dummy.Scheduled.us",
+    "name": "No Game Scheduled",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Olympics.Dummy.us",
+    "name": "Olympics",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Paramount+.Originals.Dummy.us",
+    "name": "Paramount+ Originals",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Peacock.Dummy.us",
+    "name": "Peacock",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Pluto.TV.Dummy.us",
+    "name": "Pluto TV",
+    "lang": "en",
+    "xmltv_id": "NickelodeonUkrainePlutoTV.ua"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#PPV.EVENTS.Dummy.us",
+    "name": "PPV EVENT",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Premier.League.Dummy.us",
+    "name": "Premier League",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#R101.Dummy.us",
+    "name": "R101",
+    "lang": "en",
+    "xmltv_id": "R101TV.it@SD"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Racing.Dummy.us",
+    "name": "Racing",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Radio.105.Dummy.us",
+    "name": "Radio 105",
+    "lang": "en",
+    "xmltv_id": "Radio105TV.it@SD"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Radio.Monte.Carlo.Dummy.us",
+    "name": "Radio Monte Carlo",
+    "lang": "en",
+    "xmltv_id": "RadioMonteCarloTV.it@SD"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Radio.TV.RDS.Serie.A.Dummy.us",
+    "name": "Radio TV RDS Serie A",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#RAI.4K.Dummy.us",
+    "name": "RAI 4K",
+    "lang": "en",
+    "xmltv_id": "Rai4K.it"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Redbull.Dummy.us",
+    "name": "Redbull",
+    "lang": "en",
+    "xmltv_id": "RedBullTV.at@SD"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Religious.Dummy.us",
+    "name": "Religious Programming",
+    "lang": "en",
+    "xmltv_id": "QUBEReligiousProgramming.us"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Rugby.Dummy.us",
+    "name": "Rugby",
+    "lang": "en",
+    "xmltv_id": "SuperSportRugby.za@SD"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Scottish.Premiership.Dummy.us",
+    "name": "Scottish Premiership",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Scottish.Professional.Football.League.Dummy.us",
+    "name": "Scottish Professional Football League",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Shopping.Dummy.us",
+    "name": "Shopping",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Sky.Store.Premiere.us",
+    "name": "Sky Store Premiere",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Soccer.Dummy.us",
+    "name": "Soccer",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Sports.Dummy.us",
+    "name": "Sports",
+    "lang": "en",
+    "xmltv_id": "QUBESports.us"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Sporty.Stuff.TV.Dummy.us",
+    "name": "Sporty Stuff TV",
+    "lang": "en",
+    "xmltv_id": "SportyStuffTV.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sporty-stuff-tv-uk.png"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#StarzPlay.Originals.Dummy.us",
+    "name": "StarzPlay Originals",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Stingray.Music.Dummy.us",
+    "name": "Stingray Music",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Sunday.Night.Football.Dummy.us",
+    "name": "Sunday Night Football",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Tennis.Dummy.us",
+    "name": "Tennis",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Test.Dummy.us",
+    "name": "Test Channel",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#TgCom24.Dummy.us",
+    "name": "TgCom24",
+    "lang": "en",
+    "xmltv_id": "TGCom24.it@SD"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#ThrillerTV.Dummy.us",
+    "name": "ThrillerTV",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Thursday.Night.Football.Dummy.us",
+    "name": "Thursday Night Football",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#UEFA.Champions.League.Dummy.us",
+    "name": "UEFA Champions League",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#UFC.247.Dummy.us",
+    "name": "UFC 247",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#UFC.Fight.Pass.Dummy.us",
+    "name": "UFC Fight Pass",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Virnin.Radio.TV.Dummy.us",
+    "name": "Virgin Radio TV",
+    "lang": "en",
+    "xmltv_id": "VirginRadioTV.it"
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#Volleyball.Dummy.us",
+    "name": "Volleyball",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#WEATHER.dummy.us",
+    "name": "WEATHER",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#WNBA.dummy.us",
+    "name": "WNBA",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#World.Soccer.Dummy.us",
+    "name": "World Soccer",
+    "lang": "en",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "DUMMY_CHANNELS#X-Games.Dummy.us",
+    "name": "X-Games",
+    "lang": "en",
+    "xmltv_id": ""
+  }
+]

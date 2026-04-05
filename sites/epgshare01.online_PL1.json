@@ -1,0 +1,4022 @@
+[
+  {
+    "site_id": "PL1#2x2.HD.pl",
+    "name": "2x2 HD",
+    "lang": "pl",
+    "xmltv_id": "2x2.pl"
+  },
+  {
+    "site_id": "PL1#2x2.pl",
+    "name": "2x2",
+    "lang": "pl",
+    "xmltv_id": "2x2.pl"
+  },
+  {
+    "site_id": "PL1#3SAT.pl",
+    "name": "3SAT",
+    "lang": "pl",
+    "xmltv_id": "3sat.de@SD"
+  },
+  {
+    "site_id": "PL1#4FUN.DANCE.pl",
+    "name": "4FUN DANCE",
+    "lang": "pl",
+    "xmltv_id": "4FunDance.pl@SD"
+  },
+  {
+    "site_id": "PL1#4FUN.KIDS.pl",
+    "name": "4FUN KIDS",
+    "lang": "pl",
+    "xmltv_id": "4FunKids.pl@SD"
+  },
+  {
+    "site_id": "PL1#4FUN.TV.pl",
+    "name": "4FUN.TV",
+    "lang": "pl",
+    "xmltv_id": "4FunTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#13.tv.3D.pl",
+    "name": "13.tv 3D",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#13.tv.HD.pl",
+    "name": "13.tv HD",
+    "lang": "pl",
+    "xmltv_id": "13tv.pl@SD"
+  },
+  {
+    "site_id": "PL1#13.tv.pl",
+    "name": "13.tv",
+    "lang": "pl",
+    "xmltv_id": "13tv.pl@SD"
+  },
+  {
+    "site_id": "PL1#13.Ulica.HD.pl",
+    "name": "13 Ulica HD",
+    "lang": "pl",
+    "xmltv_id": "13Ulica.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/13-ulica-pl.png"
+  },
+  {
+    "site_id": "PL1#13.Ulica.pl",
+    "name": "13 Ulica",
+    "lang": "pl",
+    "xmltv_id": "13Ulica.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/13-ulica-pl.png"
+  },
+  {
+    "site_id": "PL1#13th.Street.pl",
+    "name": "13th Street",
+    "lang": "pl",
+    "xmltv_id": "13thStreet.us@SD"
+  },
+  {
+    "site_id": "PL1#360TuneBox.HD.pl",
+    "name": "360TuneBox HD",
+    "lang": "pl",
+    "xmltv_id": "360TuneBox.nl@SD"
+  },
+  {
+    "site_id": "PL1#360TuneBox.pl",
+    "name": "360TuneBox",
+    "lang": "pl",
+    "xmltv_id": "360TuneBox.nl@SD"
+  },
+  {
+    "site_id": "PL1#Active.Family.HD.pl",
+    "name": "Active Family HD",
+    "lang": "pl",
+    "xmltv_id": "ActiveFamily.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/active-family-pl.png"
+  },
+  {
+    "site_id": "PL1#Active.Family.pl",
+    "name": "Active Family",
+    "lang": "pl",
+    "xmltv_id": "ActiveFamily.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/active-family-pl.png"
+  },
+  {
+    "site_id": "PL1#Adult.Channel.pl",
+    "name": "Adult Channel",
+    "lang": "pl",
+    "xmltv_id": "AdultChannel.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/adult-channel-uk.png"
+  },
+  {
+    "site_id": "PL1#Adventure.HD.pl",
+    "name": "Adventure HD",
+    "lang": "pl",
+    "xmltv_id": "AdventureTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Adventure.pl",
+    "name": "Adventure",
+    "lang": "pl",
+    "xmltv_id": "AdventureTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Al.Jazeera.HD.pl",
+    "name": "Al Jazeera HD",
+    "lang": "pl",
+    "xmltv_id": "AlJazeeraEnglish.qa@SD"
+  },
+  {
+    "site_id": "PL1#Al.Jazeera.pl",
+    "name": "Al Jazeera",
+    "lang": "pl",
+    "xmltv_id": "AlJazeeraEnglish.qa@SD"
+  },
+  {
+    "site_id": "PL1#Ale.kino+.HD.pl",
+    "name": "Ale kino+ HD",
+    "lang": "pl",
+    "xmltv_id": "AleKinoPlus.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/ale-kino-plus-pl.png"
+  },
+  {
+    "site_id": "PL1#Ale.kino+.pl",
+    "name": "Ale kino+",
+    "lang": "pl",
+    "xmltv_id": "AleKinoPlus.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/ale-kino-plus-pl.png"
+  },
+  {
+    "site_id": "PL1#Amazing.TV.pl",
+    "name": "Amazing TV",
+    "lang": "pl",
+    "xmltv_id": "AmazingTV.tw"
+  },
+  {
+    "site_id": "PL1#AMC.HD.pl",
+    "name": "AMC HD",
+    "lang": "pl",
+    "xmltv_id": "AMCEurope.uk@Poland"
+  },
+  {
+    "site_id": "PL1#AMC.pl",
+    "name": "AMC",
+    "lang": "pl",
+    "xmltv_id": "AMCEurope.uk@Poland"
+  },
+  {
+    "site_id": "PL1#Animal.Planet.(niem.).pl",
+    "name": "Animal Planet (niem.)",
+    "lang": "pl",
+    "xmltv_id": "AnimalPlanet.pl@SD"
+  },
+  {
+    "site_id": "PL1#Animal.Planet.HD.pl",
+    "name": "Animal Planet HD",
+    "lang": "pl",
+    "xmltv_id": "AnimalPlanet.pl@SD"
+  },
+  {
+    "site_id": "PL1#Antena.HD.pl",
+    "name": "Antena HD",
+    "lang": "pl",
+    "xmltv_id": "AntenaHD.pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/antena-hd-pl.png"
+  },
+  {
+    "site_id": "PL1#Antena.pl",
+    "name": "Antena",
+    "lang": "pl",
+    "xmltv_id": "AntenaHD.pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/antena-hd-pl.png"
+  },
+  {
+    "site_id": "PL1#ARD-alpha.pl",
+    "name": "ARD-alpha",
+    "lang": "pl",
+    "xmltv_id": "ARDAlpha.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/ard-alpha-de.png"
+  },
+  {
+    "site_id": "PL1#Arirang.TV.pl",
+    "name": "Arirang TV",
+    "lang": "pl",
+    "xmltv_id": "ArirangTV.kr@SD"
+  },
+  {
+    "site_id": "PL1#Arte.HD.pl",
+    "name": "Arte HD",
+    "lang": "pl",
+    "xmltv_id": "Arte.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/arte-fr.png"
+  },
+  {
+    "site_id": "PL1#Arte.pl",
+    "name": "Arte",
+    "lang": "pl",
+    "xmltv_id": "Arte.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/arte-fr.png"
+  },
+  {
+    "site_id": "PL1#ATV.pl",
+    "name": "ATV",
+    "lang": "pl",
+    "xmltv_id": "ATV.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/atv-tr.png"
+  },
+  {
+    "site_id": "PL1#AXN.Black.pl",
+    "name": "AXN Black",
+    "lang": "pl",
+    "xmltv_id": "AXNBlack.us@Bulgary"
+  },
+  {
+    "site_id": "PL1#AXN.HD.pl",
+    "name": "AXN HD",
+    "lang": "pl",
+    "xmltv_id": "AXN.us@HD"
+  },
+  {
+    "site_id": "PL1#AXN.pl",
+    "name": "AXN",
+    "lang": "pl",
+    "xmltv_id": "AXN.us@SD"
+  },
+  {
+    "site_id": "PL1#AXN.Spin.HD.pl",
+    "name": "AXN Spin HD",
+    "lang": "pl",
+    "xmltv_id": "AXNSpin.pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/axn-spin-pl.png"
+  },
+  {
+    "site_id": "PL1#AXN.Spin.pl",
+    "name": "AXN Spin",
+    "lang": "pl",
+    "xmltv_id": "AXNSpin.pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/axn-spin-pl.png"
+  },
+  {
+    "site_id": "PL1#AXN.White.pl",
+    "name": "AXN White",
+    "lang": "pl",
+    "xmltv_id": "AXNWhite.us@SD"
+  },
+  {
+    "site_id": "PL1#Baby.TV.pl",
+    "name": "Baby TV",
+    "lang": "pl",
+    "xmltv_id": "BabyTV.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/baby-tv-uk.png"
+  },
+  {
+    "site_id": "PL1#BabyFirstTV.pl",
+    "name": "BabyFirstTV",
+    "lang": "pl",
+    "xmltv_id": "BabyFirst.us@US"
+  },
+  {
+    "site_id": "PL1#Barely.Legal.pl",
+    "name": "Barely Legal",
+    "lang": "pl",
+    "xmltv_id": "BarelyLegalTV.us@SD"
+  },
+  {
+    "site_id": "PL1#BBC.Brit.HD.pl",
+    "name": "BBC Brit HD",
+    "lang": "pl",
+    "xmltv_id": "BBCBrit.uk@Poland"
+  },
+  {
+    "site_id": "PL1#BBC.Brit.pl",
+    "name": "BBC Brit",
+    "lang": "pl",
+    "xmltv_id": "BBCBrit.uk@Poland"
+  },
+  {
+    "site_id": "PL1#BBC.CBeebies.pl",
+    "name": "BBC CBeebies",
+    "lang": "pl",
+    "xmltv_id": "CBeebies.pl@SD"
+  },
+  {
+    "site_id": "PL1#BBC.Earth.HD.pl",
+    "name": "BBC Earth HD",
+    "lang": "pl",
+    "xmltv_id": "BBCEarth.uk@Poland"
+  },
+  {
+    "site_id": "PL1#BBC.Earth.pl",
+    "name": "BBC Earth",
+    "lang": "pl",
+    "xmltv_id": "BBCEarth.uk@Poland"
+  },
+  {
+    "site_id": "PL1#BBC.First.HD.pl",
+    "name": "BBC First HD",
+    "lang": "pl",
+    "xmltv_id": "BBCFirst.uk@Asia"
+  },
+  {
+    "site_id": "PL1#BBC.First.pl",
+    "name": "BBC First",
+    "lang": "pl",
+    "xmltv_id": "BBCFirst.uk@SD"
+  },
+  {
+    "site_id": "PL1#BBC.Lifestyle.HD.pl",
+    "name": "BBC Lifestyle HD",
+    "lang": "pl",
+    "xmltv_id": "BBCLifestyle.uk@Asia"
+  },
+  {
+    "site_id": "PL1#BBC.Lifestyle.pl",
+    "name": "BBC Lifestyle",
+    "lang": "pl",
+    "xmltv_id": "BBCLifestyle.uk@SD"
+  },
+  {
+    "site_id": "PL1#BBC.World.News.pl",
+    "name": "BBC World News",
+    "lang": "pl",
+    "xmltv_id": "BBCNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "PL1#Beate-Uhse.TV.pl",
+    "name": "Beate-Uhse.TV",
+    "lang": "pl",
+    "xmltv_id": "BeateUhseTV.de@SD"
+  },
+  {
+    "site_id": "PL1#Belgia.-.TV1.pl",
+    "name": "Belgia - TV1",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Belsat.TV.pl",
+    "name": "Belsat TV",
+    "lang": "pl",
+    "xmltv_id": "BelsatTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/belsat-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Bibel.TV.pl",
+    "name": "Bibel TV",
+    "lang": "pl",
+    "xmltv_id": "BibelTV.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/bibel-tv-de.png"
+  },
+  {
+    "site_id": "PL1#Biznes24.HD.pl",
+    "name": "Biznes24 HD",
+    "lang": "pl",
+    "xmltv_id": "Biznes24.pl@SD"
+  },
+  {
+    "site_id": "PL1#Bloomberg.(ang.).pl",
+    "name": "Bloomberg (ang.)",
+    "lang": "pl",
+    "xmltv_id": "BloombergTV.us@Europe"
+  },
+  {
+    "site_id": "PL1#Blue.Hustler.pl",
+    "name": "Blue Hustler",
+    "lang": "pl",
+    "xmltv_id": "BlueHustler.nl@SD"
+  },
+  {
+    "site_id": "PL1#Bollywood.HD.pl",
+    "name": "Bollywood HD",
+    "lang": "pl",
+    "xmltv_id": "Bollywood.ru@SD"
+  },
+  {
+    "site_id": "PL1#Boomerang.HD.pl",
+    "name": "Boomerang HD",
+    "lang": "pl",
+    "xmltv_id": "Boomerang.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/boomerang-us.png"
+  },
+  {
+    "site_id": "PL1#Boomerang.pl",
+    "name": "Boomerang",
+    "lang": "pl",
+    "xmltv_id": "Boomerang.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/boomerang-us.png"
+  },
+  {
+    "site_id": "PL1#BR.pl",
+    "name": "BR",
+    "lang": "pl",
+    "xmltv_id": "BRFernsehen.de@Süd",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/br-fernsehen-de.png"
+  },
+  {
+    "site_id": "PL1#Brazzers.TV.Europe.pl",
+    "name": "Brazzers TV Europe",
+    "lang": "pl",
+    "xmltv_id": "BrazzersTVEurope.us@SD"
+  },
+  {
+    "site_id": "PL1#CANAL+.1.HD.pl",
+    "name": "CANAL+ 1 HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlus1.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-1-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.1.pl",
+    "name": "CANAL+ 1",
+    "lang": "pl",
+    "xmltv_id": "CanalPlus1.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-1-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.4K.Ultra.HD.pl",
+    "name": "CANAL+ 4K Ultra HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlus4KUltraHD.pl@SD"
+  },
+  {
+    "site_id": "PL1#CANAL+.DOKUMENT.HD.pl",
+    "name": "CANAL+ DOKUMENT HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusDokument.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-dokument-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.DOKUMENT.pl",
+    "name": "CANAL+ DOKUMENT",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusDokument.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-dokument-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.DOMO.HD.pl",
+    "name": "CANAL+ DOMO HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusDomo.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-domo-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.DOMO.pl",
+    "name": "CANAL+ DOMO",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusDomo.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-domo-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.EXTRA.1.HD.pl",
+    "name": "CANAL+ EXTRA 1 HD",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusExtra1.pl@HD"
+  },
+  {
+    "site_id": "PL1#CANAL+.EXTRA.2.HD.pl",
+    "name": "CANAL+ EXTRA 2 HD",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusExtra2.pl@HD"
+  },
+  {
+    "site_id": "PL1#CANAL+.EXTRA.3.HD.pl",
+    "name": "CANAL+ EXTRA 3 HD",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusExtra3.pl@HD"
+  },
+  {
+    "site_id": "PL1#CANAL+.EXTRA.4.HD.pl",
+    "name": "CANAL+ EXTRA 4 HD",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusExtra4.pl@HD"
+  },
+  {
+    "site_id": "PL1#CANAL+.EXTRA.5.HD.pl",
+    "name": "CANAL+ EXTRA 5 HD",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusExtra5.pl@HD"
+  },
+  {
+    "site_id": "PL1#CANAL+.EXTRA.6.HD.pl",
+    "name": "CANAL+ EXTRA 6 HD",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusExtra6.pl@HD"
+  },
+  {
+    "site_id": "PL1#CANAL+.EXTRA.7.HD.pl",
+    "name": "CANAL+ EXTRA 7 HD",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusExtra7.pl@HD"
+  },
+  {
+    "site_id": "PL1#CANAL+.Family.HD.pl",
+    "name": "CANAL+ Family HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusFamily.fr"
+  },
+  {
+    "site_id": "PL1#CANAL+.Family.pl",
+    "name": "CANAL+ Family",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusFamily.fr"
+  },
+  {
+    "site_id": "PL1#CANAL+.Film.HD.pl",
+    "name": "CANAL+ Film HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusFilm.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-film-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Film.pl",
+    "name": "CANAL+ Film",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusFilm.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-film-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.KUCHNIA.HD.pl",
+    "name": "CANAL+ KUCHNIA HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusKuchnia.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-kuchnia-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.KUCHNIA.pl",
+    "name": "CANAL+ KUCHNIA",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusKuchnia.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-kuchnia-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.PREMIUM.HD.pl",
+    "name": "CANAL+ PREMIUM HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusPremium.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-premium-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.PREMIUM.pl",
+    "name": "CANAL+ PREMIUM",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusPremium.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-premium-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Seriale.HD.pl",
+    "name": "CANAL+ Seriale HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusSeriale.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-seriale-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Seriale.pl",
+    "name": "CANAL+ Seriale",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusSeriale.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-seriale-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Sport.2.HD.pl",
+    "name": "CANAL+ Sport 2 HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusSport2.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-sport-2-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Sport.2.pl",
+    "name": "CANAL+ Sport 2",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusSport2.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-sport-2-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Sport.3.HD.pl",
+    "name": "CANAL+ Sport 3 HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusSport3.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-sport-3-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Sport.3.pl",
+    "name": "CANAL+ Sport 3",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusSport3.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-sport-3-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Sport.4.HD.pl",
+    "name": "CANAL+ Sport 4 HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusSport4.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-sport-4-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Sport.4.pl",
+    "name": "CANAL+ Sport 4",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusSport4.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-sport-4-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Sport.5.HD.pl",
+    "name": "CANAL+ Sport 5 HD",
+    "lang": "pl",
+    "xmltv_id": "NSportPlus.pl@SD"
+  },
+  {
+    "site_id": "PL1#CANAL+.Sport.5.pl",
+    "name": "CANAL+ Sport 5",
+    "lang": "pl",
+    "xmltv_id": "NSportPlus.pl@SD"
+  },
+  {
+    "site_id": "PL1#CANAL+.Sport.HD.pl",
+    "name": "CANAL+ Sport HD",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusSport.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-sport-pl.png"
+  },
+  {
+    "site_id": "PL1#CANAL+.Sport.pl",
+    "name": "CANAL+ Sport",
+    "lang": "pl",
+    "xmltv_id": "CanalPlusSport.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/canal-plus-sport-pl.png"
+  },
+  {
+    "site_id": "PL1#Cartoon.Network.HD.pl",
+    "name": "Cartoon Network HD",
+    "lang": "pl",
+    "xmltv_id": "CartoonNetworkCEE.uk@Poland"
+  },
+  {
+    "site_id": "PL1#Cartoon.Network.pl",
+    "name": "Cartoon Network",
+    "lang": "pl",
+    "xmltv_id": "CartoonNetworkCEE.uk@Poland"
+  },
+  {
+    "site_id": "PL1#Cartoon.Network/Warner.TV.pl",
+    "name": "Cartoon Network/Warner TV",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#CAVEMMA.2:.Resurrection.pl",
+    "name": "CAVEMMA 2: Resurrection",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#CBS.Europa.HD.pl",
+    "name": "CBS Europa HD",
+    "lang": "pl",
+    "xmltv_id": "CBSEuropa.pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/cbs-europa-pl.png"
+  },
+  {
+    "site_id": "PL1#CBS.Europa.pl",
+    "name": "CBS Europa",
+    "lang": "pl",
+    "xmltv_id": "CBSEuropa.pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/cbs-europa-pl.png"
+  },
+  {
+    "site_id": "PL1#CBS.Reality.pl",
+    "name": "CBS Reality",
+    "lang": "pl",
+    "xmltv_id": "CBSReality.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/cbs-reality-pl.png"
+  },
+  {
+    "site_id": "PL1#CI.Polsat.HD.pl",
+    "name": "CI Polsat HD",
+    "lang": "pl",
+    "xmltv_id": "CrimePlusInvestigationPolsat.pl@SD"
+  },
+  {
+    "site_id": "PL1#CI.Polsat.pl",
+    "name": "CI Polsat",
+    "lang": "pl",
+    "xmltv_id": "CrimePlusInvestigationPolsat.pl@SD"
+  },
+  {
+    "site_id": "PL1#Cinemax2.HD.pl",
+    "name": "Cinemax2 HD",
+    "lang": "pl",
+    "xmltv_id": "Cinemax2CentralEurope.hu@HD"
+  },
+  {
+    "site_id": "PL1#Cinemax2.pl",
+    "name": "Cinemax2",
+    "lang": "pl",
+    "xmltv_id": "Cinemax2CentralEurope.hu@HD"
+  },
+  {
+    "site_id": "PL1#Cinemax.HD.pl",
+    "name": "Cinemax HD",
+    "lang": "pl",
+    "xmltv_id": "CinemaxCentralEurope.hu@HD"
+  },
+  {
+    "site_id": "PL1#Cinemax.pl",
+    "name": "Cinemax",
+    "lang": "pl",
+    "xmltv_id": "CinemaxCentralEurope.hu@HD"
+  },
+  {
+    "site_id": "PL1#Club.MTV.pl",
+    "name": "Club MTV",
+    "lang": "pl",
+    "xmltv_id": "MTVClub.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/mtv-club-uk.png"
+  },
+  {
+    "site_id": "PL1#Clubbing.TV.pl",
+    "name": "Clubbing TV",
+    "lang": "pl",
+    "xmltv_id": "ClubbingTV.us@Germany"
+  },
+  {
+    "site_id": "PL1#CNBC.pl",
+    "name": "CNBC",
+    "lang": "pl",
+    "xmltv_id": "CNBC.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnbc-us.png"
+  },
+  {
+    "site_id": "PL1#CNN.pl",
+    "name": "CNN",
+    "lang": "pl",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "PL1#Comedy.Central.HD.pl",
+    "name": "Comedy Central HD",
+    "lang": "pl",
+    "xmltv_id": "ComedyCentral.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/comedy-central-pl.png"
+  },
+  {
+    "site_id": "PL1#Comedy.Central.pl",
+    "name": "Comedy Central",
+    "lang": "pl",
+    "xmltv_id": "ComedyCentral.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/comedy-central-pl.png"
+  },
+  {
+    "site_id": "PL1#CT.1.pl",
+    "name": "CT 1",
+    "lang": "pl",
+    "xmltv_id": "CT1.cz@SD"
+  },
+  {
+    "site_id": "PL1#CT.2.pl",
+    "name": "CT 2",
+    "lang": "pl",
+    "xmltv_id": "CT2.cz@SD"
+  },
+  {
+    "site_id": "PL1#Czwórka.Polskie.Radio.HD.pl",
+    "name": "Czwórka Polskie Radio HD",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Czwórka.Polskie.Radio.pl",
+    "name": "Czwórka Polskie Radio",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Da.Vinci.HD.pl",
+    "name": "Da Vinci HD",
+    "lang": "pl",
+    "xmltv_id": "DaVinci.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/da-vinci-hu.png"
+  },
+  {
+    "site_id": "PL1#Da.Vinci.pl",
+    "name": "Da Vinci",
+    "lang": "pl",
+    "xmltv_id": "DaVinci.us@SD"
+  },
+  {
+    "site_id": "PL1#Dacha.TV.pl",
+    "name": "Dacha TV",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Dami.Skarżysko-Kamienna.pl",
+    "name": "Dami Skarżysko-Kamienna",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Das.Erste.pl",
+    "name": "Das Erste",
+    "lang": "pl",
+    "xmltv_id": "DasErste.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/das-erste-de.png"
+  },
+  {
+    "site_id": "PL1#Deutsches.Musik.Fernsehen.pl",
+    "name": "Deutsches Musik Fernsehen",
+    "lang": "pl",
+    "xmltv_id": "DMF.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dmf-de.png"
+  },
+  {
+    "site_id": "PL1#Disco.Polo.Music.pl",
+    "name": "Disco Polo Music",
+    "lang": "pl",
+    "xmltv_id": "DiscoPoloMusic.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/disco-polo-music-pl.png"
+  },
+  {
+    "site_id": "PL1#Discovery.Channel.(niem.).pl",
+    "name": "Discovery Channel (niem.)",
+    "lang": "pl",
+    "xmltv_id": "DiscoveryChannel.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/discovery-channel-de.png"
+  },
+  {
+    "site_id": "PL1#Discovery.Channel.HD.pl",
+    "name": "Discovery Channel HD",
+    "lang": "pl",
+    "xmltv_id": "DiscoveryChannel.pl@SD"
+  },
+  {
+    "site_id": "PL1#Discovery.Channel.pl",
+    "name": "Discovery Channel",
+    "lang": "pl",
+    "xmltv_id": "DiscoveryChannel.pl@SD"
+  },
+  {
+    "site_id": "PL1#Discovery.HD.(niem.).pl",
+    "name": "Discovery HD (niem.)",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Discovery.Historia.pl",
+    "name": "Discovery Historia",
+    "lang": "pl",
+    "xmltv_id": "DiscoveryHistoria.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/discovery-historia-pl.png"
+  },
+  {
+    "site_id": "PL1#Discovery.Life.HD.pl",
+    "name": "Discovery Life HD",
+    "lang": "pl",
+    "xmltv_id": "DiscoveryLife.pl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/discovery-life-pl.png"
+  },
+  {
+    "site_id": "PL1#Discovery.Life.pl",
+    "name": "Discovery Life",
+    "lang": "pl",
+    "xmltv_id": "DiscoveryLife.pl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/discovery-life-pl.png"
+  },
+  {
+    "site_id": "PL1#Discovery.Science.HD.pl",
+    "name": "Discovery Science HD",
+    "lang": "pl",
+    "xmltv_id": "DiscoveryScienceEurope.uk@Poland"
+  },
+  {
+    "site_id": "PL1#Discovery.Science.pl",
+    "name": "Discovery Science",
+    "lang": "pl",
+    "xmltv_id": "DiscoveryScienceEurope.uk@Poland"
+  },
+  {
+    "site_id": "PL1#Disney.Channel.HD.pl",
+    "name": "Disney Channel HD",
+    "lang": "pl",
+    "xmltv_id": "DisneyChannel.pl@SD"
+  },
+  {
+    "site_id": "PL1#Disney.Channel.pl",
+    "name": "Disney Channel",
+    "lang": "pl",
+    "xmltv_id": "DisneyChannel.pl@SD"
+  },
+  {
+    "site_id": "PL1#Disney.Junior.pl",
+    "name": "Disney Junior",
+    "lang": "pl",
+    "xmltv_id": "DisneyJunior.pl@SD"
+  },
+  {
+    "site_id": "PL1#Disney.XD.pl",
+    "name": "Disney XD",
+    "lang": "pl",
+    "xmltv_id": "DisneyXD.pl@SD"
+  },
+  {
+    "site_id": "PL1#DIZI.pl",
+    "name": "DIZI",
+    "lang": "pl",
+    "xmltv_id": "DIZI.tr@SD"
+  },
+  {
+    "site_id": "PL1#dlaCiebie.tv.pl",
+    "name": "dlaCiebie.tv",
+    "lang": "pl",
+    "xmltv_id": "dlaCiebietv.pl@SD"
+  },
+  {
+    "site_id": "PL1#DMAX.pl",
+    "name": "DMAX",
+    "lang": "pl",
+    "xmltv_id": "DMAX.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dmax-de.png"
+  },
+  {
+    "site_id": "PL1#DocuBox.HD.pl",
+    "name": "DocuBox HD",
+    "lang": "pl",
+    "xmltv_id": "DocuBox.nl@SD"
+  },
+  {
+    "site_id": "PL1#DocuBox.pl",
+    "name": "DocuBox",
+    "lang": "pl",
+    "xmltv_id": "DocuBox.nl@SD"
+  },
+  {
+    "site_id": "PL1#Dorcel.TV.HD.pl",
+    "name": "Dorcel TV HD",
+    "lang": "pl",
+    "xmltv_id": "DorcelTV.nl@SD"
+  },
+  {
+    "site_id": "PL1#Dorcel.TV.pl",
+    "name": "Dorcel TV",
+    "lang": "pl",
+    "xmltv_id": "DorcelTV.nl@SD"
+  },
+  {
+    "site_id": "PL1#Dorcel.XXX.HD.pl",
+    "name": "Dorcel XXX HD",
+    "lang": "pl",
+    "xmltv_id": "DorcelXXX.nl@HD"
+  },
+  {
+    "site_id": "PL1#Dorcel.XXX.pl",
+    "name": "Dorcel XXX",
+    "lang": "pl",
+    "xmltv_id": "DorcelXXX.nl@HD"
+  },
+  {
+    "site_id": "PL1#DR.1.pl",
+    "name": "DR 1",
+    "lang": "pl",
+    "xmltv_id": "DR1.dk@SD"
+  },
+  {
+    "site_id": "PL1#DR.2.pl",
+    "name": "DR 2",
+    "lang": "pl",
+    "xmltv_id": "DR2.dk@SD"
+  },
+  {
+    "site_id": "PL1#DTX.HD.pl",
+    "name": "DTX HD",
+    "lang": "pl",
+    "xmltv_id": "DTX.pl@SD"
+  },
+  {
+    "site_id": "PL1#DTX.pl",
+    "name": "DTX",
+    "lang": "pl",
+    "xmltv_id": "DTX.pl@SD"
+  },
+  {
+    "site_id": "PL1#ducktv.HD.pl",
+    "name": "ducktv HD",
+    "lang": "pl",
+    "xmltv_id": "ducktv.sk@SD"
+  },
+  {
+    "site_id": "PL1#ducktv.pl",
+    "name": "ducktv",
+    "lang": "pl",
+    "xmltv_id": "ducktv.sk@SD"
+  },
+  {
+    "site_id": "PL1#ducktv.plus.pl",
+    "name": "ducktv plus",
+    "lang": "pl",
+    "xmltv_id": "ducktvPLUS.sk@SD"
+  },
+  {
+    "site_id": "PL1#DW.-.DE.pl",
+    "name": "DW - DE",
+    "lang": "pl",
+    "xmltv_id": "DW.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
+  },
+  {
+    "site_id": "PL1#DW.pl",
+    "name": "DW",
+    "lang": "pl",
+    "xmltv_id": "DW.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
+  },
+  {
+    "site_id": "PL1#E!.Entertainment.HD.pl",
+    "name": "E! Entertainment HD",
+    "lang": "pl",
+    "xmltv_id": "EEntertainment.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/e-entertainment-us.png"
+  },
+  {
+    "site_id": "PL1#E!.Entertainment.pl",
+    "name": "E! Entertainment",
+    "lang": "pl",
+    "xmltv_id": "EEntertainment.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/e-entertainment-us.png"
+  },
+  {
+    "site_id": "PL1#E-SPORT.HD.pl",
+    "name": "E-SPORT HD",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#E-SPORT.pl",
+    "name": "E-SPORT",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Echo.24.pl",
+    "name": "Echo 24",
+    "lang": "pl",
+    "xmltv_id": "Echo24.pl@SD"
+  },
+  {
+    "site_id": "PL1#EinsLive.pl",
+    "name": "EinsLive",
+    "lang": "pl",
+    "xmltv_id": "WDR1Live.de@SD"
+  },
+  {
+    "site_id": "PL1#Eleven.Sports.1.4K.pl",
+    "name": "Eleven Sports 1 4K",
+    "lang": "pl",
+    "xmltv_id": "ElevenSports14K.pl"
+  },
+  {
+    "site_id": "PL1#Eleven.Sports.1.HD.pl",
+    "name": "Eleven Sports 1 HD",
+    "lang": "pl",
+    "xmltv_id": "ElevenSports1.pl@SD"
+  },
+  {
+    "site_id": "PL1#Eleven.Sports.1.pl",
+    "name": "Eleven Sports 1",
+    "lang": "pl",
+    "xmltv_id": "ElevenSports1.pl@SD"
+  },
+  {
+    "site_id": "PL1#Eleven.Sports.2.HD.pl",
+    "name": "Eleven Sports 2 HD",
+    "lang": "pl",
+    "xmltv_id": "ElevenSports2.pl@SD"
+  },
+  {
+    "site_id": "PL1#Eleven.Sports.2.pl",
+    "name": "Eleven Sports 2",
+    "lang": "pl",
+    "xmltv_id": "ElevenSports2.pl@SD"
+  },
+  {
+    "site_id": "PL1#Eleven.Sports.3.HD.pl",
+    "name": "Eleven Sports 3 HD",
+    "lang": "pl",
+    "xmltv_id": "ElevenSports3.pl@SD"
+  },
+  {
+    "site_id": "PL1#Eleven.Sports.3.pl",
+    "name": "Eleven Sports 3",
+    "lang": "pl",
+    "xmltv_id": "ElevenSports3.pl@SD"
+  },
+  {
+    "site_id": "PL1#Eleven.Sports.4.HD.pl",
+    "name": "Eleven Sports 4 HD",
+    "lang": "pl",
+    "xmltv_id": "ElevenSports4.pl@SD"
+  },
+  {
+    "site_id": "PL1#Eleven.Sports.4.pl",
+    "name": "Eleven Sports 4",
+    "lang": "pl",
+    "xmltv_id": "ElevenSports4.pl@SD"
+  },
+  {
+    "site_id": "PL1#English.Club.TV.HD.pl",
+    "name": "English Club TV HD",
+    "lang": "pl",
+    "xmltv_id": "EnglishClubTV.uk@SD"
+  },
+  {
+    "site_id": "PL1#English.Club.TV.pl",
+    "name": "English Club TV",
+    "lang": "pl",
+    "xmltv_id": "EnglishClubTV.uk@SD"
+  },
+  {
+    "site_id": "PL1#Epic.Drama.HD.pl",
+    "name": "Epic Drama HD",
+    "lang": "pl",
+    "xmltv_id": "EpicDrama.uk@Sweden"
+  },
+  {
+    "site_id": "PL1#Erox.HD.pl",
+    "name": "Erox HD",
+    "lang": "pl",
+    "xmltv_id": "EroX.nl@SD"
+  },
+  {
+    "site_id": "PL1#Eroxxx.HD.pl",
+    "name": "Eroxxx HD",
+    "lang": "pl",
+    "xmltv_id": "EroXXX.nl@SD"
+  },
+  {
+    "site_id": "PL1#Eska.Rock.TV.pl",
+    "name": "Eska Rock TV",
+    "lang": "pl",
+    "xmltv_id": "EskaRockTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/eska-rock-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Eska.TV.Extra.HD.pl",
+    "name": "Eska TV Extra HD",
+    "lang": "pl",
+    "xmltv_id": "EskaTVExtra.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/eska-tv-extra-pl.png"
+  },
+  {
+    "site_id": "PL1#Eska.TV.Extra.pl",
+    "name": "Eska TV Extra",
+    "lang": "pl",
+    "xmltv_id": "EskaTVExtra.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/eska-tv-extra-pl.png"
+  },
+  {
+    "site_id": "PL1#Eska.TV.HD.pl",
+    "name": "Eska TV HD",
+    "lang": "pl",
+    "xmltv_id": "EskaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/eska-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Eska.TV.pl",
+    "name": "Eska TV",
+    "lang": "pl",
+    "xmltv_id": "EskaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/eska-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Euronews.HD.pl",
+    "name": "Euronews HD",
+    "lang": "pl",
+    "xmltv_id": "Euronews.pl"
+  },
+  {
+    "site_id": "PL1#Euronews.pl",
+    "name": "Euronews",
+    "lang": "pl",
+    "xmltv_id": "Euronews.pl"
+  },
+  {
+    "site_id": "PL1#Eurosport.1.(niem.).pl",
+    "name": "Eurosport 1 (niem.)",
+    "lang": "pl",
+    "xmltv_id": "Eurosport1.fr@Germany",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
+  },
+  {
+    "site_id": "PL1#Eurosport.1.HD.pl",
+    "name": "Eurosport 1 HD",
+    "lang": "pl",
+    "xmltv_id": "Eurosport1.fr@Poland",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
+  },
+  {
+    "site_id": "PL1#Eurosport.1.pl",
+    "name": "Eurosport 1",
+    "lang": "pl",
+    "xmltv_id": "Eurosport1.fr@Poland",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
+  },
+  {
+    "site_id": "PL1#Eurosport.2.HD.pl",
+    "name": "Eurosport 2 HD",
+    "lang": "pl",
+    "xmltv_id": "Eurosport2.fr@Poland",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
+  },
+  {
+    "site_id": "PL1#Eurosport.2.pl",
+    "name": "Eurosport 2",
+    "lang": "pl",
+    "xmltv_id": "Eurosport2.fr@Poland",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
+  },
+  {
+    "site_id": "PL1#EWTN.pl",
+    "name": "EWTN",
+    "lang": "pl",
+    "xmltv_id": "EWTN.us@SD"
+  },
+  {
+    "site_id": "PL1#Extreme.Channel.HD.pl",
+    "name": "Extreme Channel HD",
+    "lang": "pl",
+    "xmltv_id": "ExtremeSportsChannelPolska.pl@SD"
+  },
+  {
+    "site_id": "PL1#Extreme.Channel.pl",
+    "name": "Extreme Channel",
+    "lang": "pl",
+    "xmltv_id": "ExtremeSportsChannelPolska.pl@SD"
+  },
+  {
+    "site_id": "PL1#Fanklub.TV.pl",
+    "name": "Fanklub TV",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Fashion.TV.HD.pl",
+    "name": "Fashion TV HD",
+    "lang": "pl",
+    "xmltv_id": "FashionTV.fr@HD"
+  },
+  {
+    "site_id": "PL1#Fashion.TV.pl",
+    "name": "Fashion TV",
+    "lang": "pl",
+    "xmltv_id": "FashionTV.fr@SD"
+  },
+  {
+    "site_id": "PL1#FashionBox.HD.pl",
+    "name": "FashionBox HD",
+    "lang": "pl",
+    "xmltv_id": "FashionBox.nl@SD"
+  },
+  {
+    "site_id": "PL1#Fast&FunBox.HD.pl",
+    "name": "Fast&amp;FunBox HD",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#FightBox.HD.pl",
+    "name": "FightBox HD",
+    "lang": "pl",
+    "xmltv_id": "FightBox.nl@SD"
+  },
+  {
+    "site_id": "PL1#FightBox.pl",
+    "name": "FightBox",
+    "lang": "pl",
+    "xmltv_id": "FightBox.nl@SD"
+  },
+  {
+    "site_id": "PL1#Fightklub.HD.pl",
+    "name": "Fightklub HD",
+    "lang": "pl",
+    "xmltv_id": "FightKlub.pl@SD"
+  },
+  {
+    "site_id": "PL1#Fightklub.pl",
+    "name": "Fightklub",
+    "lang": "pl",
+    "xmltv_id": "FightKlub.pl@SD"
+  },
+  {
+    "site_id": "PL1#Film.UA.Drama.pl",
+    "name": "Film UA Drama",
+    "lang": "pl",
+    "xmltv_id": "FilmUADrama.ua@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/film-ua-drama-ua.png"
+  },
+  {
+    "site_id": "PL1#FILMAX.HD.pl",
+    "name": "FILMAX HD",
+    "lang": "pl",
+    "xmltv_id": "Filmax.pk"
+  },
+  {
+    "site_id": "PL1#FILMAX.pl",
+    "name": "FILMAX",
+    "lang": "pl",
+    "xmltv_id": "Filmax.pk"
+  },
+  {
+    "site_id": "PL1#FilmBox.Action.pl",
+    "name": "FilmBox Action",
+    "lang": "pl",
+    "xmltv_id": "FilmBoxAction.nl@Africa"
+  },
+  {
+    "site_id": "PL1#FilmBox.Arthouse.HD.pl",
+    "name": "FilmBox Arthouse HD",
+    "lang": "pl",
+    "xmltv_id": "FilmBoxArthouse.nl@SD"
+  },
+  {
+    "site_id": "PL1#FilmBox.Arthouse.pl",
+    "name": "FilmBox Arthouse",
+    "lang": "pl",
+    "xmltv_id": "FilmBoxArthouse.nl@SD"
+  },
+  {
+    "site_id": "PL1#FilmBox.Extra.HD.pl",
+    "name": "FilmBox Extra HD",
+    "lang": "pl",
+    "xmltv_id": "FilmBoxExtra.nl"
+  },
+  {
+    "site_id": "PL1#FilmBox.Family.pl",
+    "name": "FilmBox Family",
+    "lang": "pl",
+    "xmltv_id": "FilmBoxFamily.nl@Africa"
+  },
+  {
+    "site_id": "PL1#FilmBox.Premium.HD.pl",
+    "name": "FilmBox Premium HD",
+    "lang": "pl",
+    "xmltv_id": "FilmBoxPremium.nl@PolandHD"
+  },
+  {
+    "site_id": "PL1#Fokus.TV.HD.pl",
+    "name": "Fokus TV HD",
+    "lang": "pl",
+    "xmltv_id": "FokusTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/fokus-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Fokus.TV.pl",
+    "name": "Fokus TV",
+    "lang": "pl",
+    "xmltv_id": "FokusTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/fokus-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Folx.TV.pl",
+    "name": "Folx TV",
+    "lang": "pl",
+    "xmltv_id": "FolxMusicTelevision.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/folx-music-television-de.png"
+  },
+  {
+    "site_id": "PL1#Food.Network.HD.-.EN.pl",
+    "name": "Food Network HD - EN",
+    "lang": "pl",
+    "xmltv_id": "FoodNetwork.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/food-network-us.png"
+  },
+  {
+    "site_id": "PL1#Food.Network.HD.pl",
+    "name": "Food Network HD",
+    "lang": "pl",
+    "xmltv_id": "FoodNetwork.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/food-network-pl.png"
+  },
+  {
+    "site_id": "PL1#Food.Network.pl",
+    "name": "Food Network",
+    "lang": "pl",
+    "xmltv_id": "FoodNetwork.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/food-network-pl.png"
+  },
+  {
+    "site_id": "PL1#FOX.Comedy.HD.pl",
+    "name": "FOX Comedy HD",
+    "lang": "pl",
+    "xmltv_id": "FoxComedy.pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/fox-comedy-pt.png"
+  },
+  {
+    "site_id": "PL1#FOX.Comedy.pl",
+    "name": "FOX Comedy",
+    "lang": "pl",
+    "xmltv_id": "FoxComedy.pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/fox-comedy-pt.png"
+  },
+  {
+    "site_id": "PL1#FOX.HD.pl",
+    "name": "FOX HD",
+    "lang": "pl",
+    "xmltv_id": "FOX.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-us.png"
+  },
+  {
+    "site_id": "PL1#FOX.pl",
+    "name": "FOX",
+    "lang": "pl",
+    "xmltv_id": "FOX.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-us.png"
+  },
+  {
+    "site_id": "PL1#France.2.-.PL.pl",
+    "name": "France 2 - PL",
+    "lang": "pl",
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
+  },
+  {
+    "site_id": "PL1#France.24.-.EN.pl",
+    "name": "France 24 - EN",
+    "lang": "pl",
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "PL1#France.24.HD.-.EN.pl",
+    "name": "France 24 HD - EN",
+    "lang": "pl",
+    "xmltv_id": "France24.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "PL1#France.24.HD.pl",
+    "name": "France 24 HD",
+    "lang": "pl",
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "PL1#France.24.pl",
+    "name": "France 24",
+    "lang": "pl",
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
+  },
+  {
+    "site_id": "PL1#Freedom.pl",
+    "name": "Freedom",
+    "lang": "pl",
+    "xmltv_id": "FREEDOM.ua@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/freedom-ua.png"
+  },
+  {
+    "site_id": "PL1#FunBox.UHD.pl",
+    "name": "FunBox UHD",
+    "lang": "pl",
+    "xmltv_id": "FunBoxUHD.nl@SD"
+  },
+  {
+    "site_id": "PL1#Futsal.1.pl",
+    "name": "Futsal 1",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Futsal.2.pl",
+    "name": "Futsal 2",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Gametoon.HD.pl",
+    "name": "Gametoon HD",
+    "lang": "pl",
+    "xmltv_id": "Gametoon.nl@SD"
+  },
+  {
+    "site_id": "PL1#Ginx.eSports.TV.HD.pl",
+    "name": "Ginx eSports TV HD",
+    "lang": "pl",
+    "xmltv_id": "GINXTV.uk@SD"
+  },
+  {
+    "site_id": "PL1#Ginx.eSports.TV.pl",
+    "name": "Ginx eSports TV",
+    "lang": "pl",
+    "xmltv_id": "GINXTV.uk@SD"
+  },
+  {
+    "site_id": "PL1#GM24.pl",
+    "name": "GM24",
+    "lang": "pl",
+    "xmltv_id": "GM24.it@SD"
+  },
+  {
+    "site_id": "PL1#God.TV.pl",
+    "name": "God TV",
+    "lang": "pl",
+    "xmltv_id": "GODTV.uk@SD"
+  },
+  {
+    "site_id": "PL1#GOLD.TV.pl",
+    "name": "GOLD TV",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Goldstar.TV.pl",
+    "name": "Goldstar TV",
+    "lang": "pl",
+    "xmltv_id": "GoldstarTV.de@Germany",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/goldstar-tv-de.png"
+  },
+  {
+    "site_id": "PL1#Golf.Channel.HD.pl",
+    "name": "Golf Channel HD",
+    "lang": "pl",
+    "xmltv_id": "GolfChannel.us@SD"
+  },
+  {
+    "site_id": "PL1#Golf.Channel.pl",
+    "name": "Golf Channel",
+    "lang": "pl",
+    "xmltv_id": "GolfChannel.us@SD"
+  },
+  {
+    "site_id": "PL1#Hamburg.1.pl",
+    "name": "Hamburg 1",
+    "lang": "pl",
+    "xmltv_id": "Hamburg1.de@SD"
+  },
+  {
+    "site_id": "PL1#HBO2.HD.pl",
+    "name": "HBO2 HD",
+    "lang": "pl",
+    "xmltv_id": "HBO2.pl@SD"
+  },
+  {
+    "site_id": "PL1#HBO2.pl",
+    "name": "HBO2",
+    "lang": "pl",
+    "xmltv_id": "HBO2.pl@SD"
+  },
+  {
+    "site_id": "PL1#HBO3.HD.pl",
+    "name": "HBO3 HD",
+    "lang": "pl",
+    "xmltv_id": "HBOEurope.hu@HD"
+  },
+  {
+    "site_id": "PL1#HBO3.pl",
+    "name": "HBO3",
+    "lang": "pl",
+    "xmltv_id": "HBOEurope.hu@SD"
+  },
+  {
+    "site_id": "PL1#HBO.HD.pl",
+    "name": "HBO HD",
+    "lang": "pl",
+    "xmltv_id": "HBO.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/hbo-pl.png"
+  },
+  {
+    "site_id": "PL1#HBO.pl",
+    "name": "HBO",
+    "lang": "pl",
+    "xmltv_id": "HBO.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/hbo-pl.png"
+  },
+  {
+    "site_id": "PL1#Heimatkanal.pl",
+    "name": "Heimatkanal",
+    "lang": "pl",
+    "xmltv_id": "Heimatkanal.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/heimatkanal-de.png"
+  },
+  {
+    "site_id": "PL1#HGTV.HD.pl",
+    "name": "HGTV HD",
+    "lang": "pl",
+    "xmltv_id": "HGTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#HGTV.pl",
+    "name": "HGTV",
+    "lang": "pl",
+    "xmltv_id": "HGTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#HISTORY2.HD.pl",
+    "name": "HISTORY2 HD",
+    "lang": "pl",
+    "xmltv_id": "History2.ru@HD"
+  },
+  {
+    "site_id": "PL1#HISTORY2.pl",
+    "name": "HISTORY2",
+    "lang": "pl",
+    "xmltv_id": "HistoryChannel2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/history-channel-2-us.png"
+  },
+  {
+    "site_id": "PL1#HISTORY.HD.(niem.).pl",
+    "name": "HISTORY HD (niem.)",
+    "lang": "pl",
+    "xmltv_id": "History.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/history-de.png"
+  },
+  {
+    "site_id": "PL1#HISTORY.HD.pl",
+    "name": "HISTORY HD",
+    "lang": "pl",
+    "xmltv_id": "History.pl@SD"
+  },
+  {
+    "site_id": "PL1#HISTORY.pl",
+    "name": "HISTORY",
+    "lang": "pl",
+    "xmltv_id": "History.pl@SD"
+  },
+  {
+    "site_id": "PL1#HOME.4K.pl",
+    "name": "HOME 4K",
+    "lang": "pl",
+    "xmltv_id": "Home4K.ru@SD"
+  },
+  {
+    "site_id": "PL1#HOME.TV.HD.pl",
+    "name": "HOME TV HD",
+    "lang": "pl",
+    "xmltv_id": "HomeTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/home-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#HOME.TV.pl",
+    "name": "HOME TV",
+    "lang": "pl",
+    "xmltv_id": "HomeTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/home-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#HR.pl",
+    "name": "HR",
+    "lang": "pl",
+    "xmltv_id": "hrfernsehen.de@SD"
+  },
+  {
+    "site_id": "PL1#Hustler.HD.pl",
+    "name": "Hustler HD",
+    "lang": "pl",
+    "xmltv_id": "HustlerHD.nl@SD"
+  },
+  {
+    "site_id": "PL1#Hustler.TV.pl",
+    "name": "Hustler TV",
+    "lang": "pl",
+    "xmltv_id": "HustlerTVEurope.nl@SD"
+  },
+  {
+    "site_id": "PL1#ID.HD.pl",
+    "name": "ID HD",
+    "lang": "pl",
+    "xmltv_id": "InvestigationDiscovery.pl@SD"
+  },
+  {
+    "site_id": "PL1#ID.pl",
+    "name": "ID",
+    "lang": "pl",
+    "xmltv_id": "InvestigationDiscovery.pl@SD"
+  },
+  {
+    "site_id": "PL1#INULTRA.pl",
+    "name": "INULTRA",
+    "lang": "pl",
+    "xmltv_id": "INULTRA.nl"
+  },
+  {
+    "site_id": "PL1#iTVN.Extra.International.pl",
+    "name": "iTVN Extra International",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#iTVN.pl",
+    "name": "iTVN",
+    "lang": "pl",
+    "xmltv_id": "ITVNEurope.pl@SD"
+  },
+  {
+    "site_id": "PL1#iTVS.pl",
+    "name": "iTVS",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#JAZZ.HD.pl",
+    "name": "JAZZ HD",
+    "lang": "pl",
+    "xmltv_id": "JAZZ.pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/jazz-pl.png"
+  },
+  {
+    "site_id": "PL1#Junior.(niem.).pl",
+    "name": "Junior (niem.)",
+    "lang": "pl",
+    "xmltv_id": "Junior.il"
+  },
+  {
+    "site_id": "PL1#JUNIOR.MUSIC.HD.pl",
+    "name": "JUNIOR MUSIC HD",
+    "lang": "pl",
+    "xmltv_id": "JuniorMusic.pl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/junior-music-pl.png"
+  },
+  {
+    "site_id": "PL1#JUNIOR.MUSIC.pl",
+    "name": "JUNIOR MUSIC",
+    "lang": "pl",
+    "xmltv_id": "JuniorMusic.pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/junior-music-pl.png"
+  },
+  {
+    "site_id": "PL1#Kabaret.TV.pl",
+    "name": "Kabaret TV",
+    "lang": "pl",
+    "xmltv_id": "KabaretTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Kabel.Eins.pl",
+    "name": "Kabel Eins",
+    "lang": "pl",
+    "xmltv_id": "Kabel1.de@SD"
+  },
+  {
+    "site_id": "PL1#KI.KA.pl",
+    "name": "KI.KA",
+    "lang": "pl",
+    "xmltv_id": "KiKA.de@SD"
+  },
+  {
+    "site_id": "PL1#Kino.Polska.HD.pl",
+    "name": "Kino Polska HD",
+    "lang": "pl",
+    "xmltv_id": "KinoPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/kino-polska-pl.png"
+  },
+  {
+    "site_id": "PL1#Kino.Polska.Muzyka.pl",
+    "name": "Kino Polska Muzyka",
+    "lang": "pl",
+    "xmltv_id": "KinoPolskaMuzyka.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/kino-polska-muzyka-pl.png"
+  },
+  {
+    "site_id": "PL1#Kino.Polska.pl",
+    "name": "Kino Polska",
+    "lang": "pl",
+    "xmltv_id": "KinoPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/kino-polska-pl.png"
+  },
+  {
+    "site_id": "PL1#Kino.TV.HD.pl",
+    "name": "Kino TV HD",
+    "lang": "pl",
+    "xmltv_id": "KinoTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/kino-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Kino.TV.pl",
+    "name": "Kino TV",
+    "lang": "pl",
+    "xmltv_id": "KinoTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/kino-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#KSW.HD.pl",
+    "name": "KSW HD",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#KSW.pl",
+    "name": "KSW",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Love.Nature.4K.pl",
+    "name": "Love Nature 4K",
+    "lang": "pl",
+    "xmltv_id": "LoveNature.ca@4K",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/love-nature-ca.png"
+  },
+  {
+    "site_id": "PL1#Lubelska.tv.HD.pl",
+    "name": "Lubelska.tv HD",
+    "lang": "pl",
+    "xmltv_id": "NewTV.pl"
+  },
+  {
+    "site_id": "PL1#Lubelska.tv.pl",
+    "name": "Lubelska.tv",
+    "lang": "pl",
+    "xmltv_id": "NewTV.pl"
+  },
+  {
+    "site_id": "PL1#M.6.pl",
+    "name": "M 6",
+    "lang": "pl",
+    "xmltv_id": "M6.fr@SD"
+  },
+  {
+    "site_id": "PL1#MCM.Top.pl",
+    "name": "MCM Top",
+    "lang": "pl",
+    "xmltv_id": "MCMTop.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mcm-top-fr.png"
+  },
+  {
+    "site_id": "PL1#MDR.pl",
+    "name": "MDR",
+    "lang": "pl",
+    "xmltv_id": "MDRFernsehen.de@Sachsen"
+  },
+  {
+    "site_id": "PL1#METRO.HD.pl",
+    "name": "METRO HD",
+    "lang": "pl",
+    "xmltv_id": "Metro.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/metro-pl.png"
+  },
+  {
+    "site_id": "PL1#METRO.pl",
+    "name": "METRO",
+    "lang": "pl",
+    "xmltv_id": "Metro.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/metro-pl.png"
+  },
+  {
+    "site_id": "PL1#Mezzo.Live.HD.pl",
+    "name": "Mezzo Live HD",
+    "lang": "pl",
+    "xmltv_id": "MezzoLive.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mezzo-live-fr.png"
+  },
+  {
+    "site_id": "PL1#Mezzo.pl",
+    "name": "Mezzo",
+    "lang": "pl",
+    "xmltv_id": "Mezzo.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mezzo-fr.png"
+  },
+  {
+    "site_id": "PL1#MiniMini+.HD.pl",
+    "name": "MiniMini+ HD",
+    "lang": "pl",
+    "xmltv_id": "MiniMiniPlus.pl@SD"
+  },
+  {
+    "site_id": "PL1#MiniMini+.pl",
+    "name": "MiniMini+",
+    "lang": "pl",
+    "xmltv_id": "MiniMiniPlus.pl@SD"
+  },
+  {
+    "site_id": "PL1#MIXTAPE.HD.pl",
+    "name": "MIXTAPE HD",
+    "lang": "pl",
+    "xmltv_id": "MixtapeTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#MIXTAPE.pl",
+    "name": "MIXTAPE",
+    "lang": "pl",
+    "xmltv_id": "MixtapeTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Motorvision.pl",
+    "name": "Motorvision",
+    "lang": "pl",
+    "xmltv_id": "Motorvision.de@SD"
+  },
+  {
+    "site_id": "PL1#Motowizja.HD.pl",
+    "name": "Motowizja HD",
+    "lang": "pl",
+    "xmltv_id": "Motowizja.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/motowizja-pl.png"
+  },
+  {
+    "site_id": "PL1#Motowizja.pl",
+    "name": "Motowizja",
+    "lang": "pl",
+    "xmltv_id": "Motowizja.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/motowizja-pl.png"
+  },
+  {
+    "site_id": "PL1#MTV.00s.pl",
+    "name": "MTV 00s",
+    "lang": "pl",
+    "xmltv_id": "MTV00s.uk@SD"
+  },
+  {
+    "site_id": "PL1#MTV.80s.pl",
+    "name": "MTV 80s",
+    "lang": "pl",
+    "xmltv_id": "MTV80s.uk@SD"
+  },
+  {
+    "site_id": "PL1#MTV.90s.pl",
+    "name": "MTV 90s",
+    "lang": "pl",
+    "xmltv_id": "MTV90s.uk@SD"
+  },
+  {
+    "site_id": "PL1#MTV.Europe.pl",
+    "name": "MTV Europe",
+    "lang": "pl",
+    "xmltv_id": "MTVGlobal.uk@SD"
+  },
+  {
+    "site_id": "PL1#MTV.Germany.pl",
+    "name": "MTV Germany",
+    "lang": "pl",
+    "xmltv_id": "MTV.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/mtv-de.png"
+  },
+  {
+    "site_id": "PL1#MTV.Hits.pl",
+    "name": "MTV Hits",
+    "lang": "pl",
+    "xmltv_id": "MTVHits.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/mtv-hits-uk.png"
+  },
+  {
+    "site_id": "PL1#MTV.Live.HD.pl",
+    "name": "MTV Live HD",
+    "lang": "pl",
+    "xmltv_id": "MTVLive.uk@HD"
+  },
+  {
+    "site_id": "PL1#MTV.Polska.HD.pl",
+    "name": "MTV Polska HD",
+    "lang": "pl",
+    "xmltv_id": "MTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#MTV.Polska.pl",
+    "name": "MTV Polska",
+    "lang": "pl",
+    "xmltv_id": "MTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#muenchen.tv.pl",
+    "name": "muenchen.tv",
+    "lang": "pl",
+    "xmltv_id": "MunchenTV.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/munchen-tv-de.png"
+  },
+  {
+    "site_id": "PL1#Music.Box.HD.pl",
+    "name": "Music Box HD",
+    "lang": "pl",
+    "xmltv_id": "MusicBoxUkraine.ua@SD"
+  },
+  {
+    "site_id": "PL1#Music.Box.pl",
+    "name": "Music Box",
+    "lang": "pl",
+    "xmltv_id": "MusicBoxUkraine.ua@SD"
+  },
+  {
+    "site_id": "PL1#myZen.tv.HD.pl",
+    "name": "myZen.tv HD",
+    "lang": "pl",
+    "xmltv_id": "MyZenTV.fr@SD"
+  },
+  {
+    "site_id": "PL1#n-tv.pl",
+    "name": "n-tv",
+    "lang": "pl",
+    "xmltv_id": "NTV.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/ntv-de.png"
+  },
+  {
+    "site_id": "PL1#NASA.TV.pl",
+    "name": "NASA TV",
+    "lang": "pl",
+    "xmltv_id": "NASATV.us@SD"
+  },
+  {
+    "site_id": "PL1#Nat.Geo.People.HD.pl",
+    "name": "Nat Geo People HD",
+    "lang": "pl",
+    "xmltv_id": "NatGeoPeople.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nat-geo-people-pl.png"
+  },
+  {
+    "site_id": "PL1#Nat.Geo.People.pl",
+    "name": "Nat Geo People",
+    "lang": "pl",
+    "xmltv_id": "NatGeoPeople.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nat-geo-people-pl.png"
+  },
+  {
+    "site_id": "PL1#National.Geographic.HD.pl",
+    "name": "National Geographic HD",
+    "lang": "pl",
+    "xmltv_id": "NationalGeographic.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/national-geographic-pl.png"
+  },
+  {
+    "site_id": "PL1#National.Geographic.pl",
+    "name": "National Geographic",
+    "lang": "pl",
+    "xmltv_id": "NationalGeographic.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/national-geographic-pl.png"
+  },
+  {
+    "site_id": "PL1#National.Geographic.Wild.HD.pl",
+    "name": "National Geographic Wild HD",
+    "lang": "pl",
+    "xmltv_id": "NationalGeographicWild.pl@SD"
+  },
+  {
+    "site_id": "PL1#National.Geographic.Wild.pl",
+    "name": "National Geographic Wild",
+    "lang": "pl",
+    "xmltv_id": "NationalGeographicWild.pl@SD"
+  },
+  {
+    "site_id": "PL1#Nautical.Channel.HD.pl",
+    "name": "Nautical Channel HD",
+    "lang": "pl",
+    "xmltv_id": "NauticalChannel.it@SD"
+  },
+  {
+    "site_id": "PL1#Nautical.Channel.pl",
+    "name": "Nautical Channel",
+    "lang": "pl",
+    "xmltv_id": "NauticalChannel.it@SD"
+  },
+  {
+    "site_id": "PL1#NDR.pl",
+    "name": "NDR",
+    "lang": "pl",
+    "xmltv_id": "NDRFernsehen.de@Hamburg"
+  },
+  {
+    "site_id": "PL1#News24.pl",
+    "name": "News24",
+    "lang": "pl",
+    "xmltv_id": "News24.pl@SD"
+  },
+  {
+    "site_id": "PL1#Nick.Jr..HD.pl",
+    "name": "Nick Jr. HD",
+    "lang": "pl",
+    "xmltv_id": "NickJr.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nick-jr-pl.png"
+  },
+  {
+    "site_id": "PL1#Nick.Jr..pl",
+    "name": "Nick Jr.",
+    "lang": "pl",
+    "xmltv_id": "NickJr.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nick-jr-pl.png"
+  },
+  {
+    "site_id": "PL1#NICK.pl",
+    "name": "NICK",
+    "lang": "pl",
+    "xmltv_id": "Nickelodeon.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nickelodeon-us.png"
+  },
+  {
+    "site_id": "PL1#Nickelodeon.pl",
+    "name": "Nickelodeon",
+    "lang": "pl",
+    "xmltv_id": "Nickelodeon.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nickelodeon-pl.png"
+  },
+  {
+    "site_id": "PL1#NickMusic.pl",
+    "name": "NickMusic",
+    "lang": "pl",
+    "xmltv_id": "NickMusic.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nick-music-us.png"
+  },
+  {
+    "site_id": "PL1#Nicktoons.HD.pl",
+    "name": "Nicktoons HD",
+    "lang": "pl",
+    "xmltv_id": "Nicktoons.pl@SD"
+  },
+  {
+    "site_id": "PL1#Nicktoons.pl",
+    "name": "Nicktoons",
+    "lang": "pl",
+    "xmltv_id": "Nicktoons.pl@SD"
+  },
+  {
+    "site_id": "PL1#Nitro.pl",
+    "name": "Nitro",
+    "lang": "pl",
+    "xmltv_id": "NITRO.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/nitro-de.png"
+  },
+  {
+    "site_id": "PL1#NLO.TV.2.pl",
+    "name": "NLO TV 2",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Nova.pl",
+    "name": "Nova",
+    "lang": "pl",
+    "xmltv_id": "TVNova.cz@SD"
+  },
+  {
+    "site_id": "PL1#Novela.tv.HD.pl",
+    "name": "Novela tv HD",
+    "lang": "pl",
+    "xmltv_id": "NovelaTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Novelas+.pl",
+    "name": "Novelas+",
+    "lang": "pl",
+    "xmltv_id": "NovelasPlus.pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/novelas-plus-pl.png"
+  },
+  {
+    "site_id": "PL1#Nowa.TV.HD.pl",
+    "name": "Nowa TV HD",
+    "lang": "pl",
+    "xmltv_id": "NowaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nowa-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Nowa.TV.pl",
+    "name": "Nowa TV",
+    "lang": "pl",
+    "xmltv_id": "NowaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nowa-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#NPO.1.pl",
+    "name": "NPO 1",
+    "lang": "pl",
+    "xmltv_id": "NPO1.nl@SD"
+  },
+  {
+    "site_id": "PL1#NPO.2.pl",
+    "name": "NPO 2",
+    "lang": "pl",
+    "xmltv_id": "NPO2.nl@SD"
+  },
+  {
+    "site_id": "PL1#NPO.3.pl",
+    "name": "NPO 3",
+    "lang": "pl",
+    "xmltv_id": "NPO3.nl@SD"
+  },
+  {
+    "site_id": "PL1#Nuta.Gold.HD.pl",
+    "name": "Nuta Gold HD",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Nuta.Gold.pl",
+    "name": "Nuta Gold",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Nuta.TV.HD.pl",
+    "name": "Nuta.TV HD",
+    "lang": "pl",
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Nuta.TV.pl",
+    "name": "Nuta.TV",
+    "lang": "pl",
+    "xmltv_id": "NutaTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/nuta-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#ONE.pl",
+    "name": "ONE",
+    "lang": "pl",
+    "xmltv_id": "One.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/one-de.png"
+  },
+  {
+    "site_id": "PL1#ONTV.HD.pl",
+    "name": "ONTV HD",
+    "lang": "pl",
+    "xmltv_id": "OneNationTV.sn@SD"
+  },
+  {
+    "site_id": "PL1#ONTV.pl",
+    "name": "ONTV",
+    "lang": "pl",
+    "xmltv_id": "OneNationTV.sn@SD"
+  },
+  {
+    "site_id": "PL1#ORF.1.pl",
+    "name": "ORF 1",
+    "lang": "pl",
+    "xmltv_id": "ORF1.at@SD"
+  },
+  {
+    "site_id": "PL1#ORF.2.pl",
+    "name": "ORF 2",
+    "lang": "pl",
+    "xmltv_id": "ORF2.at@SD"
+  },
+  {
+    "site_id": "PL1#Paramount.Network.pl",
+    "name": "Paramount Network",
+    "lang": "pl",
+    "xmltv_id": "ParamountNetwork.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/paramount-network-pl.png"
+  },
+  {
+    "site_id": "PL1#Phoenix.pl",
+    "name": "Phoenix",
+    "lang": "pl",
+    "xmltv_id": "Phoenix.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/phoenix-de.png"
+  },
+  {
+    "site_id": "PL1#Planete+.HD.pl",
+    "name": "Planete+ HD",
+    "lang": "pl",
+    "xmltv_id": "PlanetePlus.pl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/planete-plus-pl.png"
+  },
+  {
+    "site_id": "PL1#Planete+.pl",
+    "name": "Planete+",
+    "lang": "pl",
+    "xmltv_id": "PlanetePlus.pl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/planete-plus-pl.png"
+  },
+  {
+    "site_id": "PL1#Playboy.TV.pl",
+    "name": "Playboy TV",
+    "lang": "pl",
+    "xmltv_id": "PlayboyTVEurope.us@SD"
+  },
+  {
+    "site_id": "PL1#Polo.TV.HD.pl",
+    "name": "Polo TV HD",
+    "lang": "pl",
+    "xmltv_id": "PoloTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polo-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Polo.TV.pl",
+    "name": "Polo TV",
+    "lang": "pl",
+    "xmltv_id": "PoloTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polo-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Polonia.1.HD.pl",
+    "name": "Polonia 1 HD",
+    "lang": "pl",
+    "xmltv_id": "Polonia1.pl@SD"
+  },
+  {
+    "site_id": "PL1#Polonia.1.pl",
+    "name": "Polonia 1",
+    "lang": "pl",
+    "xmltv_id": "Polonia1.pl@SD"
+  },
+  {
+    "site_id": "PL1#Polsat.1.pl",
+    "name": "Polsat 1",
+    "lang": "pl",
+    "xmltv_id": "Polsat1.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-1-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.2.HD.pl",
+    "name": "Polsat 2 HD",
+    "lang": "pl",
+    "xmltv_id": "Polsat2.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-2-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.2.pl",
+    "name": "Polsat 2",
+    "lang": "pl",
+    "xmltv_id": "Polsat2.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-2-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Boxing.Night.HD.pl",
+    "name": "Polsat Boxing Night HD",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Polsat.Boxing.Night.pl",
+    "name": "Polsat Boxing Night",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Polsat.Café.HD.pl",
+    "name": "Polsat Café HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatCafe.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-cafe-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Café.pl",
+    "name": "Polsat Café",
+    "lang": "pl",
+    "xmltv_id": "PolsatCafe.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-cafe-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Comedy.Central.Extra.HD.pl",
+    "name": "Polsat Comedy Central Extra HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatComedyCentralExtra.pl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-comedy-central-extra-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Comedy.Central.Extra.pl",
+    "name": "Polsat Comedy Central Extra",
+    "lang": "pl",
+    "xmltv_id": "ComedyCentral.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/comedy-central-us.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Doku.HD.pl",
+    "name": "Polsat Doku HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatDoku.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-doku-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Doku.pl",
+    "name": "Polsat Doku",
+    "lang": "pl",
+    "xmltv_id": "PolsatDoku.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-doku-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Film.HD.pl",
+    "name": "Polsat Film HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatFilm.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-film-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Film.pl",
+    "name": "Polsat Film",
+    "lang": "pl",
+    "xmltv_id": "PolsatFilm.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-film-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Games.HD.pl",
+    "name": "Polsat Games HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatGames.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-games-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Games.pl",
+    "name": "Polsat Games",
+    "lang": "pl",
+    "xmltv_id": "PolsatGames.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-games-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.HD.pl",
+    "name": "Polsat HD",
+    "lang": "pl",
+    "xmltv_id": "Polsat.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.JimJam.pl",
+    "name": "Polsat JimJam",
+    "lang": "pl",
+    "xmltv_id": "PolsatJimJam.pl@SD"
+  },
+  {
+    "site_id": "PL1#Polsat.Music.HD.pl",
+    "name": "Polsat Music HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatMusic.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-music-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Music.pl",
+    "name": "Polsat Music",
+    "lang": "pl",
+    "xmltv_id": "PolsatMusic.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-music-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.News.2.HD.pl",
+    "name": "Polsat News 2 HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatNews2.pl@SD"
+  },
+  {
+    "site_id": "PL1#Polsat.News.2.pl",
+    "name": "Polsat News 2",
+    "lang": "pl",
+    "xmltv_id": "PolsatNews2.pl@SD"
+  },
+  {
+    "site_id": "PL1#Polsat.News.HD.pl",
+    "name": "Polsat News HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatNews.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-news-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.News.pl",
+    "name": "Polsat News",
+    "lang": "pl",
+    "xmltv_id": "PolsatNews.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-news-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.pl",
+    "name": "Polsat",
+    "lang": "pl",
+    "xmltv_id": "Polsat.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Play.HD.pl",
+    "name": "Polsat Play HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatPlay.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-play-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Play.pl",
+    "name": "Polsat Play",
+    "lang": "pl",
+    "xmltv_id": "PolsatPlay.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-play-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Rodzina.HD.pl",
+    "name": "Polsat Rodzina HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatRodzina.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-rodzina-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Rodzina.pl",
+    "name": "Polsat Rodzina",
+    "lang": "pl",
+    "xmltv_id": "PolsatRodzina.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-rodzina-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Seriale.HD.pl",
+    "name": "Polsat Seriale HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatSeriale.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-seriale-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Seriale.pl",
+    "name": "Polsat Seriale",
+    "lang": "pl",
+    "xmltv_id": "PolsatSeriale.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-seriale-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.Extra.HD.pl",
+    "name": "Polsat Sport Extra HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportExtra.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-sport-extra-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.Extra.pl",
+    "name": "Polsat Sport Extra",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportExtra.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-sport-extra-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.Fight.HD.pl",
+    "name": "Polsat Sport Fight HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportFight.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-sport-fight-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.Fight.pl",
+    "name": "Polsat Sport Fight",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportFight.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-sport-fight-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.HD.pl",
+    "name": "Polsat Sport HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatSport.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-sport-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.News.HD.pl",
+    "name": "Polsat Sport News HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportNews.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-sport-news-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.pl",
+    "name": "Polsat Sport",
+    "lang": "pl",
+    "xmltv_id": "PolsatSport.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-sport-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.Premium.1.pl",
+    "name": "Polsat Sport Premium 1",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportPremium1.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-sport-premium-1-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.Premium.2.pl",
+    "name": "Polsat Sport Premium 2",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportPremium2.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-sport-premium-2-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.Premium.3.pl",
+    "name": "Polsat Sport Premium 3",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportPremium3PPV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.Premium.4.pl",
+    "name": "Polsat Sport Premium 4",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportPremium4PPV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.Premium.5.pl",
+    "name": "Polsat Sport Premium 5",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportPremium5PPV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Polsat.Sport.Premium.6.pl",
+    "name": "Polsat Sport Premium 6",
+    "lang": "pl",
+    "xmltv_id": "PolsatSportPremium6PPV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Polsat.Viasat.Explore.HD.pl",
+    "name": "Polsat Viasat Explore HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatViasatExplore.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-viasat-explore-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Viasat.History.HD.pl",
+    "name": "Polsat Viasat History HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatViasatHistory.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-viasat-history-pl.png"
+  },
+  {
+    "site_id": "PL1#Polsat.Viasat.Nature.HD.pl",
+    "name": "Polsat Viasat Nature HD",
+    "lang": "pl",
+    "xmltv_id": "PolsatViasatNature.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/polsat-viasat-nature-pl.png"
+  },
+  {
+    "site_id": "PL1#Polskie.Radio.Program.1.pl",
+    "name": "Polskie Radio Program 1",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Polskie.Radio.Program.2.pl",
+    "name": "Polskie Radio Program 2",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Power.TV.HD.pl",
+    "name": "Power TV HD",
+    "lang": "pl",
+    "xmltv_id": "PowerTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/power-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Power.TV.pl",
+    "name": "Power TV",
+    "lang": "pl",
+    "xmltv_id": "PowerTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/power-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Prime.Fight.HD.pl",
+    "name": "Prime Fight HD",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Private.TV.HD.pl",
+    "name": "Private TV HD",
+    "lang": "pl",
+    "xmltv_id": "PrivateTV.nl@SD"
+  },
+  {
+    "site_id": "PL1#PRO.7.pl",
+    "name": "PRO 7",
+    "lang": "pl",
+    "xmltv_id": "ProSieben.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/pro-sieben-de.png"
+  },
+  {
+    "site_id": "PL1#PROART.HD.pl",
+    "name": "PROART HD",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#PULS.2.HD.pl",
+    "name": "PULS 2 HD",
+    "lang": "pl",
+    "xmltv_id": "Puls2.pl@SD"
+  },
+  {
+    "site_id": "PL1#PULS.2.pl",
+    "name": "PULS 2",
+    "lang": "pl",
+    "xmltv_id": "Puls2.pl@SD"
+  },
+  {
+    "site_id": "PL1#QVC.pl",
+    "name": "QVC",
+    "lang": "pl",
+    "xmltv_id": "QVC.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/qvc-us.png"
+  },
+  {
+    "site_id": "PL1#Radio.Nowy.Świat.pl",
+    "name": "Radio Nowy Świat",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Radio.Silesia.pl",
+    "name": "Radio Silesia",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#RAI.1.pl",
+    "name": "RAI 1",
+    "lang": "pl",
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
+  },
+  {
+    "site_id": "PL1#RAI.2.pl",
+    "name": "RAI 2",
+    "lang": "pl",
+    "xmltv_id": "Rai2.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-2-it.png"
+  },
+  {
+    "site_id": "PL1#RBB.pl",
+    "name": "RBB",
+    "lang": "pl",
+    "xmltv_id": "RBBBerlin.de@Berlin",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/rbb-berlin-de.png"
+  },
+  {
+    "site_id": "PL1#Reality.Kings.TV.pl",
+    "name": "Reality Kings TV",
+    "lang": "pl",
+    "xmltv_id": "RealityKingsTV.us@SD"
+  },
+  {
+    "site_id": "PL1#Record.TV.pl",
+    "name": "Record TV",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Red.Carpet.TV.HD.pl",
+    "name": "Red Carpet TV HD",
+    "lang": "pl",
+    "xmltv_id": "RedCarpetTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Red.Carpet.TV.pl",
+    "name": "Red Carpet TV",
+    "lang": "pl",
+    "xmltv_id": "RedCarpetTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Red.Top.TV.pl",
+    "name": "Red Top TV",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Redlight.HD.pl",
+    "name": "Redlight HD",
+    "lang": "pl",
+    "xmltv_id": "RedlightHD.nl@SD"
+  },
+  {
+    "site_id": "PL1#Redlight.pl",
+    "name": "Redlight",
+    "lang": "pl",
+    "xmltv_id": "RedlightHD.nl@SD"
+  },
+  {
+    "site_id": "PL1#RFM.TV.pl",
+    "name": "RFM TV",
+    "lang": "pl",
+    "xmltv_id": "RFMTV.fr@SD"
+  },
+  {
+    "site_id": "PL1#rheinmaintv.pl",
+    "name": "rheinmaintv",
+    "lang": "pl",
+    "xmltv_id": "RheinMainTV.de@SD"
+  },
+  {
+    "site_id": "PL1#Romance.TV.HD.pl",
+    "name": "Romance TV HD",
+    "lang": "pl",
+    "xmltv_id": "RomanceTV.de@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/romance-tv-de.png"
+  },
+  {
+    "site_id": "PL1#Romance.TV.pl",
+    "name": "Romance TV",
+    "lang": "pl",
+    "xmltv_id": "RomanceTV.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/romance-tv-de.png"
+  },
+  {
+    "site_id": "PL1#RTL.102.5.pl",
+    "name": "RTL 102.5",
+    "lang": "pl",
+    "xmltv_id": "RTL1025TV.it@SD"
+  },
+  {
+    "site_id": "PL1#RTL.HD.pl",
+    "name": "RTL HD",
+    "lang": "pl",
+    "xmltv_id": "RTL.de@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/rtl-de.png"
+  },
+  {
+    "site_id": "PL1#RTLZWEI.pl",
+    "name": "RTLZWEI",
+    "lang": "pl",
+    "xmltv_id": "RTL2.de@SD"
+  },
+  {
+    "site_id": "PL1#RTS.Deux.pl",
+    "name": "RTS Deux",
+    "lang": "pl",
+    "xmltv_id": "RTS2.ch@SD"
+  },
+  {
+    "site_id": "PL1#RTS.Un.pl",
+    "name": "RTS Un",
+    "lang": "pl",
+    "xmltv_id": "RTS1.ch@SD"
+  },
+  {
+    "site_id": "PL1#Rybalka.TV.pl",
+    "name": "Rybalka TV",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#SAT.1.pl",
+    "name": "SAT.1",
+    "lang": "pl",
+    "xmltv_id": "Sat1.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
+  },
+  {
+    "site_id": "PL1#SBN.pl",
+    "name": "SBN",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#SCI.FI.HD.pl",
+    "name": "SCI FI HD",
+    "lang": "pl",
+    "xmltv_id": "SciFi.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/sci-fi-pl.png"
+  },
+  {
+    "site_id": "PL1#SCI.FI.pl",
+    "name": "SCI FI",
+    "lang": "pl",
+    "xmltv_id": "SciFi.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/sci-fi-pl.png"
+  },
+  {
+    "site_id": "PL1#sixx.pl",
+    "name": "sixx",
+    "lang": "pl",
+    "xmltv_id": "Sixx.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sixx-de.png"
+  },
+  {
+    "site_id": "PL1#Sky.Action.pl",
+    "name": "Sky Action",
+    "lang": "pl",
+    "xmltv_id": "SkyCinemaAction.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sky-cinema-action-de.png"
+  },
+  {
+    "site_id": "PL1#Sky.Cinema.+.24.pl",
+    "name": "Sky Cinema + 24",
+    "lang": "pl",
+    "xmltv_id": "SkyCinemaUno.it@Plus24",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-cinema-uno-it.png"
+  },
+  {
+    "site_id": "PL1#Sky.Cinema.pl",
+    "name": "Sky Cinema",
+    "lang": "pl",
+    "xmltv_id": "SkyCinemaPremieren.de"
+  },
+  {
+    "site_id": "PL1#Sky.Cinema.Special.pl",
+    "name": "Sky Cinema Special",
+    "lang": "pl",
+    "xmltv_id": "SkyCinemaSpecial.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sky-cinema-special-de.png"
+  },
+  {
+    "site_id": "PL1#Sky.Comedy.pl",
+    "name": "Sky Comedy",
+    "lang": "pl",
+    "xmltv_id": "SkyCinemaFun.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sky-cinema-fun-de.png"
+  },
+  {
+    "site_id": "PL1#Sky.Fussball.Bundesliga.pl",
+    "name": "Sky Fussball Bundesliga",
+    "lang": "pl",
+    "xmltv_id": "SkySportBundesliga.de"
+  },
+  {
+    "site_id": "PL1#Sky.Hits.pl",
+    "name": "Sky Hits",
+    "lang": "pl",
+    "xmltv_id": "SkyCinemaBestOf.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sky-cinema-best-of-de.png"
+  },
+  {
+    "site_id": "PL1#Sky.Krimi.pl",
+    "name": "Sky Krimi",
+    "lang": "pl",
+    "xmltv_id": "SkyKrimi.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sky-krimi-de.png"
+  },
+  {
+    "site_id": "PL1#Sky.News.pl",
+    "name": "Sky News",
+    "lang": "pl",
+    "xmltv_id": "SkyNews.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-news-uk.png"
+  },
+  {
+    "site_id": "PL1#Sky.Select.pl",
+    "name": "Sky Select",
+    "lang": "pl",
+    "xmltv_id": "SkyCinemaSelect.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png"
+  },
+  {
+    "site_id": "PL1#Sky.Sport.Austria.pl",
+    "name": "Sky Sport Austria",
+    "lang": "pl",
+    "xmltv_id": "SkySportAustria1.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/sky-sport-austria-1-at.png"
+  },
+  {
+    "site_id": "PL1#Sky.Sport.HD.1.pl",
+    "name": "Sky Sport HD 1",
+    "lang": "pl",
+    "xmltv_id": "SkySport1.de@HD"
+  },
+  {
+    "site_id": "PL1#Spiegel.Geschichte.pl",
+    "name": "Spiegel Geschichte",
+    "lang": "pl",
+    "xmltv_id": "SpiegelGeschichte.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/spiegel-geschichte-de.png"
+  },
+  {
+    "site_id": "PL1#Sport.1.pl",
+    "name": "Sport 1",
+    "lang": "pl",
+    "xmltv_id": "Sport1.de@SD"
+  },
+  {
+    "site_id": "PL1#Sportklub.HD.pl",
+    "name": "Sportklub HD",
+    "lang": "pl",
+    "xmltv_id": "SportKlub.pl@SD"
+  },
+  {
+    "site_id": "PL1#Sportklub.pl",
+    "name": "Sportklub",
+    "lang": "pl",
+    "xmltv_id": "SportKlub.pl@SD"
+  },
+  {
+    "site_id": "PL1#Sportowa.TV.HD.pl",
+    "name": "Sportowa.TV HD",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Sportowa.TV.pl",
+    "name": "Sportowa.TV",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Spreekanal.pl",
+    "name": "Spreekanal",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#SRF.1.pl",
+    "name": "SRF 1",
+    "lang": "pl",
+    "xmltv_id": "SRF1.ch@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/switzerland/srf-1-ch.png"
+  },
+  {
+    "site_id": "PL1#SRF.Zwei.pl",
+    "name": "SRF Zwei",
+    "lang": "pl",
+    "xmltv_id": "SRFzwei.ch@SD"
+  },
+  {
+    "site_id": "PL1#Star.Cinema.pl",
+    "name": "Star Cinema",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Star.Family.pl",
+    "name": "Star Family",
+    "lang": "pl",
+    "xmltv_id": "StarFamily.ru@SD"
+  },
+  {
+    "site_id": "PL1#STARS.TV.HD.pl",
+    "name": "STARS.TV HD",
+    "lang": "pl",
+    "xmltv_id": "StarsTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/stars-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#STARS.TV.pl",
+    "name": "STARS.TV",
+    "lang": "pl",
+    "xmltv_id": "StarsTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/stars-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Stingray.Classica.HD.pl",
+    "name": "Stingray Classica HD",
+    "lang": "pl",
+    "xmltv_id": "StingrayClassica.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/stingray-classica-ca.png"
+  },
+  {
+    "site_id": "PL1#Stingray.Classica.pl",
+    "name": "Stingray Classica",
+    "lang": "pl",
+    "xmltv_id": "StingrayClassica.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/stingray-classica-ca.png"
+  },
+  {
+    "site_id": "PL1#Stingray.CMusic.pl",
+    "name": "Stingray CMusic",
+    "lang": "pl",
+    "xmltv_id": "StingrayCMusic.ca@SD"
+  },
+  {
+    "site_id": "PL1#Stingray.DJAZZ.HD.pl",
+    "name": "Stingray DJAZZ HD",
+    "lang": "pl",
+    "xmltv_id": "StingrayDJAZZ.ca@SD"
+  },
+  {
+    "site_id": "PL1#Stingray.DJAZZ.pl",
+    "name": "Stingray DJAZZ",
+    "lang": "pl",
+    "xmltv_id": "StingrayDJAZZ.ca@SD"
+  },
+  {
+    "site_id": "PL1#Stingray.Festival.4K.pl",
+    "name": "Stingray Festival 4K",
+    "lang": "pl",
+    "xmltv_id": "StingrayFestival4K.ca@SD"
+  },
+  {
+    "site_id": "PL1#Stingray.iConcerts.HD.pl",
+    "name": "Stingray iConcerts HD",
+    "lang": "pl",
+    "xmltv_id": "StingrayiConcerts.ca@SD"
+  },
+  {
+    "site_id": "PL1#Stingray.iConcerts.pl",
+    "name": "Stingray iConcerts",
+    "lang": "pl",
+    "xmltv_id": "StingrayiConcerts.ca@SD"
+  },
+  {
+    "site_id": "PL1#Stingray.Juicebox.HD.pl",
+    "name": "Stingray Juicebox HD",
+    "lang": "pl",
+    "xmltv_id": "StingrayJuicebox.ca@SD"
+  },
+  {
+    "site_id": "PL1#Stingray.Loud.HD.pl",
+    "name": "Stingray Loud HD",
+    "lang": "pl",
+    "xmltv_id": "StingrayLoud.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/stingray-loud-ca.png"
+  },
+  {
+    "site_id": "PL1#Stingray.Retro.pl",
+    "name": "Stingray Retro",
+    "lang": "pl",
+    "xmltv_id": "StingrayRetro.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/stingray-retro-ca.png"
+  },
+  {
+    "site_id": "PL1#STOPKLATKA.HD.pl",
+    "name": "STOPKLATKA HD",
+    "lang": "pl",
+    "xmltv_id": "StopklatkaTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#STOPKLATKA.pl",
+    "name": "STOPKLATKA",
+    "lang": "pl",
+    "xmltv_id": "StopklatkaTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#StudioMED.TV.pl",
+    "name": "StudioMED TV",
+    "lang": "pl",
+    "xmltv_id": "StudioMedTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#Sundance.TV.HD.pl",
+    "name": "Sundance TV HD",
+    "lang": "pl",
+    "xmltv_id": "SundanceTV.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/sundance-tv-us.png"
+  },
+  {
+    "site_id": "PL1#Sundance.TV.pl",
+    "name": "Sundance TV",
+    "lang": "pl",
+    "xmltv_id": "SundanceTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/sundance-tv-us.png"
+  },
+  {
+    "site_id": "PL1#Super.Polsat.HD.pl",
+    "name": "Super Polsat HD",
+    "lang": "pl",
+    "xmltv_id": "SuperPolsat.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/super-polsat-pl.png"
+  },
+  {
+    "site_id": "PL1#Super.Polsat.pl",
+    "name": "Super Polsat",
+    "lang": "pl",
+    "xmltv_id": "SuperPolsat.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/super-polsat-pl.png"
+  },
+  {
+    "site_id": "PL1#Super.RTL.pl",
+    "name": "Super RTL",
+    "lang": "pl",
+    "xmltv_id": "SuperRTL.de@SD"
+  },
+  {
+    "site_id": "PL1#SWR.pl",
+    "name": "SWR",
+    "lang": "pl",
+    "xmltv_id": "SWR.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/swr-de.png"
+  },
+  {
+    "site_id": "PL1#Syfy.pl",
+    "name": "Syfy",
+    "lang": "pl",
+    "xmltv_id": "Syfy.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/syfy-us.png"
+  },
+  {
+    "site_id": "PL1#TBN.Polska.HD.pl",
+    "name": "TBN Polska HD",
+    "lang": "pl",
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
+  },
+  {
+    "site_id": "PL1#TBN.Polska.pl",
+    "name": "TBN Polska",
+    "lang": "pl",
+    "xmltv_id": "TBNPolska.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tbn-polska-pl.png"
+  },
+  {
+    "site_id": "PL1#TeenNick.pl",
+    "name": "TeenNick",
+    "lang": "pl",
+    "xmltv_id": "TeenNick.pl@SD"
+  },
+  {
+    "site_id": "PL1#Tele.5.(niem.).pl",
+    "name": "Tele 5 (niem.)",
+    "lang": "pl",
+    "xmltv_id": "TELE5.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/tele-5-de.png"
+  },
+  {
+    "site_id": "PL1#Tele.5.HD.pl",
+    "name": "Tele 5 HD",
+    "lang": "pl",
+    "xmltv_id": "Tele5.pl@SD"
+  },
+  {
+    "site_id": "PL1#Tele.5.pl",
+    "name": "Tele 5",
+    "lang": "pl",
+    "xmltv_id": "Tele5.pl@SD"
+  },
+  {
+    "site_id": "PL1#teleTOON+.HD.pl",
+    "name": "teleTOON+ HD",
+    "lang": "pl",
+    "xmltv_id": "TeletoonPlus.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/teletoon-plus-pl.png"
+  },
+  {
+    "site_id": "PL1#teleTOON+.pl",
+    "name": "teleTOON+",
+    "lang": "pl",
+    "xmltv_id": "TeletoonPlus.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/teletoon-plus-pl.png"
+  },
+  {
+    "site_id": "PL1#Telewizja.Kłodzka.pl",
+    "name": "Telewizja Kłodzka",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Telewizja.Pomerania.pl",
+    "name": "Telewizja Pomerania",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#TLC.HD.pl",
+    "name": "TLC HD",
+    "lang": "pl",
+    "xmltv_id": "TLC.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tlc-pl.png"
+  },
+  {
+    "site_id": "PL1#TLC.pl",
+    "name": "TLC",
+    "lang": "pl",
+    "xmltv_id": "TLC.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tlc-pl.png"
+  },
+  {
+    "site_id": "PL1#Top.Kids.HD.pl",
+    "name": "Top Kids HD",
+    "lang": "pl",
+    "xmltv_id": "TopKids.pl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/top-kids-pl.png"
+  },
+  {
+    "site_id": "PL1#Top.Kids.pl",
+    "name": "Top Kids",
+    "lang": "pl",
+    "xmltv_id": "TopKids.pl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/top-kids-pl.png"
+  },
+  {
+    "site_id": "PL1#TOYA.pl",
+    "name": "TOYA",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Travel.Channel.HD.pl",
+    "name": "Travel Channel HD",
+    "lang": "pl",
+    "xmltv_id": "TravelChannel.pl@SD"
+  },
+  {
+    "site_id": "PL1#Travel.Channel.pl",
+    "name": "Travel Channel",
+    "lang": "pl",
+    "xmltv_id": "TravelChannel.pl@SD"
+  },
+  {
+    "site_id": "PL1#Travelxp.4K.pl",
+    "name": "Travelxp 4K",
+    "lang": "pl",
+    "xmltv_id": "TravelXP.in@4K"
+  },
+  {
+    "site_id": "PL1#Travelxp.HD.pl",
+    "name": "Travelxp HD",
+    "lang": "pl",
+    "xmltv_id": "Travelxp.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/travelxp-in.png"
+  },
+  {
+    "site_id": "PL1#TTV.HD.pl",
+    "name": "TTV HD",
+    "lang": "pl",
+    "xmltv_id": "TTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/ttv-pl.png"
+  },
+  {
+    "site_id": "PL1#TTV.pl",
+    "name": "TTV",
+    "lang": "pl",
+    "xmltv_id": "TTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/ttv-pl.png"
+  },
+  {
+    "site_id": "PL1#TV.4.HD.pl",
+    "name": "TV 4 HD",
+    "lang": "pl",
+    "xmltv_id": "TV4.hu@SD"
+  },
+  {
+    "site_id": "PL1#TV.4.pl",
+    "name": "TV 4",
+    "lang": "pl",
+    "xmltv_id": "TV4.hu@SD"
+  },
+  {
+    "site_id": "PL1#TV.5.Monde.Europe.pl",
+    "name": "TV 5 Monde Europe",
+    "lang": "pl",
+    "xmltv_id": "TV5MondeEurope.fr@SD"
+  },
+  {
+    "site_id": "PL1#TV.6.HD.pl",
+    "name": "TV 6 HD",
+    "lang": "pl",
+    "xmltv_id": "TV6.pl@SD"
+  },
+  {
+    "site_id": "PL1#TV.6.pl",
+    "name": "TV 6",
+    "lang": "pl",
+    "xmltv_id": "TV6.pl@SD"
+  },
+  {
+    "site_id": "PL1#TV.ASTA.HD.pl",
+    "name": "TV ASTA HD",
+    "lang": "pl",
+    "xmltv_id": "TVASTA.pl@HD"
+  },
+  {
+    "site_id": "PL1#TV.ASTA.pl",
+    "name": "TV ASTA",
+    "lang": "pl",
+    "xmltv_id": "TVASTA.pl@HD"
+  },
+  {
+    "site_id": "PL1#TV.Berlin.pl",
+    "name": "TV.Berlin",
+    "lang": "pl",
+    "xmltv_id": "TVBerlin.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/tv-berlin-de.png"
+  },
+  {
+    "site_id": "PL1#TV.Okazje.HD.pl",
+    "name": "TV Okazje HD",
+    "lang": "pl",
+    "xmltv_id": "TVOkazje.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tv-okazje-pl.png"
+  },
+  {
+    "site_id": "PL1#TV.Okazje.pl",
+    "name": "TV Okazje",
+    "lang": "pl",
+    "xmltv_id": "TVOkazje.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tv-okazje-pl.png"
+  },
+  {
+    "site_id": "PL1#TV.Puls.HD.pl",
+    "name": "TV Puls HD",
+    "lang": "pl",
+    "xmltv_id": "TVPuls.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tv-puls-pl.png"
+  },
+  {
+    "site_id": "PL1#TV.Puls.pl",
+    "name": "TV Puls",
+    "lang": "pl",
+    "xmltv_id": "TVPuls.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tv-puls-pl.png"
+  },
+  {
+    "site_id": "PL1#TV.Regio.pl",
+    "name": "TV Regio",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#TV.Regionalna.Lubin.pl",
+    "name": "TV Regionalna Lubin",
+    "lang": "pl",
+    "xmltv_id": "TVRegionalnaLubin.pl@SD"
+  },
+  {
+    "site_id": "PL1#TV.Relax.pl",
+    "name": "TV Relax",
+    "lang": "pl",
+    "xmltv_id": "Relax.cz@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/relax-cz.png"
+  },
+  {
+    "site_id": "PL1#TV.Republika.HD.pl",
+    "name": "TV Republika HD",
+    "lang": "pl",
+    "xmltv_id": "TVRepublika.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tv-republika-pl.png"
+  },
+  {
+    "site_id": "PL1#TV.Republika.pl",
+    "name": "TV Republika",
+    "lang": "pl",
+    "xmltv_id": "TVRepublika.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tv-republika-pl.png"
+  },
+  {
+    "site_id": "PL1#TV.Toruń.pl",
+    "name": "TV Toruń",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#TV.Trwam.pl",
+    "name": "TV Trwam",
+    "lang": "pl",
+    "xmltv_id": "TVTrwam.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVC.pl",
+    "name": "TVC",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#TVE.pl",
+    "name": "TVE",
+    "lang": "pl",
+    "xmltv_id": "TVE.es@SD"
+  },
+  {
+    "site_id": "PL1#TVN24.BiS.HD.pl",
+    "name": "TVN24 BiS HD",
+    "lang": "pl",
+    "xmltv_id": "TVN24BiS.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVN24.BiS.pl",
+    "name": "TVN24 BiS",
+    "lang": "pl",
+    "xmltv_id": "TVN24BiS.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVN.7.HD.pl",
+    "name": "TVN 7 HD",
+    "lang": "pl",
+    "xmltv_id": "TVN7.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVN.7.pl",
+    "name": "TVN 7",
+    "lang": "pl",
+    "xmltv_id": "TVN7.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVN.24.HD.pl",
+    "name": "TVN 24 HD",
+    "lang": "pl",
+    "xmltv_id": "TVN24.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVN.24.pl",
+    "name": "TVN 24",
+    "lang": "pl",
+    "xmltv_id": "TVN24.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVN.Fabuła.HD.pl",
+    "name": "TVN Fabuła HD",
+    "lang": "pl",
+    "xmltv_id": "TVNFabula.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvn-fabula-pl.png"
+  },
+  {
+    "site_id": "PL1#TVN.Fabuła.pl",
+    "name": "TVN Fabuła",
+    "lang": "pl",
+    "xmltv_id": "TVNFabula.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvn-fabula-pl.png"
+  },
+  {
+    "site_id": "PL1#TVN.HD.pl",
+    "name": "TVN HD",
+    "lang": "pl",
+    "xmltv_id": "TVN.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvn-pl.png"
+  },
+  {
+    "site_id": "PL1#TVN.pl",
+    "name": "TVN",
+    "lang": "pl",
+    "xmltv_id": "TVN.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvn-pl.png"
+  },
+  {
+    "site_id": "PL1#TVN.Style.HD.pl",
+    "name": "TVN Style HD",
+    "lang": "pl",
+    "xmltv_id": "TVNStyle.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvn-style-pl.png"
+  },
+  {
+    "site_id": "PL1#TVN.Style.pl",
+    "name": "TVN Style",
+    "lang": "pl",
+    "xmltv_id": "TVNStyle.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvn-style-pl.png"
+  },
+  {
+    "site_id": "PL1#TVN.Turbo.HD.pl",
+    "name": "TVN Turbo HD",
+    "lang": "pl",
+    "xmltv_id": "TVNTurbo.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvn-turbo-pl.png"
+  },
+  {
+    "site_id": "PL1#TVN.Turbo.pl",
+    "name": "TVN Turbo",
+    "lang": "pl",
+    "xmltv_id": "TVNTurbo.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvn-turbo-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.1.HD.pl",
+    "name": "TVP 1 HD",
+    "lang": "pl",
+    "xmltv_id": "TVP1.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.1.pl",
+    "name": "TVP 1",
+    "lang": "pl",
+    "xmltv_id": "TVP1.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.2.HD.pl",
+    "name": "TVP 2 HD",
+    "lang": "pl",
+    "xmltv_id": "TVP2.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.2.pl",
+    "name": "TVP 2",
+    "lang": "pl",
+    "xmltv_id": "TVP2.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Białystok.pl",
+    "name": "TVP 3 Białystok",
+    "lang": "pl",
+    "xmltv_id": "TVP3Bialystok.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Bydgoszcz.pl",
+    "name": "TVP 3 Bydgoszcz",
+    "lang": "pl",
+    "xmltv_id": "TVP3Bydgoszcz.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Gdańsk.pl",
+    "name": "TVP 3 Gdańsk",
+    "lang": "pl",
+    "xmltv_id": "TVP3Gdansk.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Gorzów.Wielkopolski.pl",
+    "name": "TVP 3 Gorzów Wielkopolski",
+    "lang": "pl",
+    "xmltv_id": "TVP3GorzowWielkopolski.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Katowice.pl",
+    "name": "TVP 3 Katowice",
+    "lang": "pl",
+    "xmltv_id": "TVP3Katowice.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Kielce.pl",
+    "name": "TVP 3 Kielce",
+    "lang": "pl",
+    "xmltv_id": "TVP3Kielce.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Kraków.pl",
+    "name": "TVP 3 Kraków",
+    "lang": "pl",
+    "xmltv_id": "TVP3Krakow.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Łódź.pl",
+    "name": "TVP 3 Łódź",
+    "lang": "pl",
+    "xmltv_id": "TVP3Lodz.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Lublin.pl",
+    "name": "TVP 3 Lublin",
+    "lang": "pl",
+    "xmltv_id": "TVP3Lublin.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Olsztyn.pl",
+    "name": "TVP 3 Olsztyn",
+    "lang": "pl",
+    "xmltv_id": "TVP3Olsztyn.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Opole.pl",
+    "name": "TVP 3 Opole",
+    "lang": "pl",
+    "xmltv_id": "TVP3Opole.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.pl",
+    "name": "TVP 3",
+    "lang": "pl",
+    "xmltv_id": "TVP3Warszawa.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Poznań.pl",
+    "name": "TVP 3 Poznań",
+    "lang": "pl",
+    "xmltv_id": "TVP3Poznan.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Rzeszów.pl",
+    "name": "TVP 3 Rzeszów",
+    "lang": "pl",
+    "xmltv_id": "TVP3Rzeszow.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Szczecin.pl",
+    "name": "TVP 3 Szczecin",
+    "lang": "pl",
+    "xmltv_id": "TVP3Szczecin.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Warszawa.pl",
+    "name": "TVP 3 Warszawa",
+    "lang": "pl",
+    "xmltv_id": "TVP3Warszawa.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.3.Wrocław.pl",
+    "name": "TVP 3 Wrocław",
+    "lang": "pl",
+    "xmltv_id": "TVP3Wroclaw.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.4K.pl",
+    "name": "TVP 4K",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#TVP.ABC.pl",
+    "name": "TVP ABC",
+    "lang": "pl",
+    "xmltv_id": "TVPABC.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.Dokument.HD.pl",
+    "name": "TVP Dokument HD",
+    "lang": "pl",
+    "xmltv_id": "TVPDokument.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-dokument-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Dokument.pl",
+    "name": "TVP Dokument",
+    "lang": "pl",
+    "xmltv_id": "TVPDokument.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-dokument-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.HD.pl",
+    "name": "TVP HD",
+    "lang": "pl",
+    "xmltv_id": "TVPHD.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.Historia.pl",
+    "name": "TVP Historia",
+    "lang": "pl",
+    "xmltv_id": "TVPHistoria.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-historia-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Info.HD.pl",
+    "name": "TVP Info HD",
+    "lang": "pl",
+    "xmltv_id": "TVPInfo.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-info-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Info.pl",
+    "name": "TVP Info",
+    "lang": "pl",
+    "xmltv_id": "TVPInfo.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-info-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Kobieta.HD.pl",
+    "name": "TVP Kobieta HD",
+    "lang": "pl",
+    "xmltv_id": "TVPKobieta.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-kobieta-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Kobieta.pl",
+    "name": "TVP Kobieta",
+    "lang": "pl",
+    "xmltv_id": "TVPKobieta.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-kobieta-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Kultura.HD.pl",
+    "name": "TVP Kultura HD",
+    "lang": "pl",
+    "xmltv_id": "TVPKultura.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-kultura-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Kultura.pl",
+    "name": "TVP Kultura",
+    "lang": "pl",
+    "xmltv_id": "TVPKultura.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-kultura-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Nauka.HD.pl",
+    "name": "TVP Nauka HD",
+    "lang": "pl",
+    "xmltv_id": "TVPNauka.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.Nauka.pl",
+    "name": "TVP Nauka",
+    "lang": "pl",
+    "xmltv_id": "TVPNauka.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.Polonia.HD.pl",
+    "name": "TVP Polonia HD",
+    "lang": "pl",
+    "xmltv_id": "TVPPolonia.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-polonia-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Polonia.pl",
+    "name": "TVP Polonia",
+    "lang": "pl",
+    "xmltv_id": "TVPPolonia.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-polonia-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Rozrywka.pl",
+    "name": "TVP Rozrywka",
+    "lang": "pl",
+    "xmltv_id": "TVPRozrywka.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-rozrywka-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Seriale.pl",
+    "name": "TVP Seriale",
+    "lang": "pl",
+    "xmltv_id": "TVPSeriale.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-seriale-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Sport.HD.pl",
+    "name": "TVP Sport HD",
+    "lang": "pl",
+    "xmltv_id": "TVPSport.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-sport-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Sport.pl",
+    "name": "TVP Sport",
+    "lang": "pl",
+    "xmltv_id": "TVPSport.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-sport-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Wilno.HD.pl",
+    "name": "TVP Wilno HD",
+    "lang": "pl",
+    "xmltv_id": "TVPWilno.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-wilno-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.Wilno.pl",
+    "name": "TVP Wilno",
+    "lang": "pl",
+    "xmltv_id": "TVPWilno.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvp-wilno-pl.png"
+  },
+  {
+    "site_id": "PL1#TVP.World.HD.pl",
+    "name": "TVP World HD",
+    "lang": "pl",
+    "xmltv_id": "TVPWorld.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVP.World.pl",
+    "name": "TVP World",
+    "lang": "pl",
+    "xmltv_id": "TVPWorld.pl@SD"
+  },
+  {
+    "site_id": "PL1#tvregionalna.pl.pl",
+    "name": "tvregionalna.pl",
+    "lang": "pl",
+    "xmltv_id": "tvregionalnapl.pl@SD"
+  },
+  {
+    "site_id": "PL1#TVS.HD.pl",
+    "name": "TVS HD",
+    "lang": "pl",
+    "xmltv_id": "TVS.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvs-pl.png"
+  },
+  {
+    "site_id": "PL1#TVS.pl",
+    "name": "TVS",
+    "lang": "pl",
+    "xmltv_id": "TVS.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/tvs-pl.png"
+  },
+  {
+    "site_id": "PL1#TVT.pl",
+    "name": "TVT",
+    "lang": "pl",
+    "xmltv_id": "TVT.pl@SD"
+  },
+  {
+    "site_id": "PL1#Twoja.Telewizja.Morska.pl",
+    "name": "Twoja Telewizja Morska",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#Twoja.TV.pl",
+    "name": "Twoja.TV",
+    "lang": "pl",
+    "xmltv_id": "TwojaTV.pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/twoja-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#Ukraina.1.HD.pl",
+    "name": "Ukraina 1 HD",
+    "lang": "pl",
+    "xmltv_id": "Ukraine1.ua@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/ukraine-1-ua.png"
+  },
+  {
+    "site_id": "PL1#Ukraina.1.pl",
+    "name": "Ukraina 1",
+    "lang": "pl",
+    "xmltv_id": "Ukraine1.ua@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/ukraine-1-ua.png"
+  },
+  {
+    "site_id": "PL1#Ukraina.2.pl",
+    "name": "Ukraina 2",
+    "lang": "pl",
+    "xmltv_id": "Ukraine2.ua@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/ukraine-2-ua.png"
+  },
+  {
+    "site_id": "PL1#Ukraina.24.pl",
+    "name": "Ukraina 24",
+    "lang": "pl",
+    "xmltv_id": "Ukraina24.ua"
+  },
+  {
+    "site_id": "PL1#ULTRA.TV.4K.pl",
+    "name": "ULTRA TV 4K",
+    "lang": "pl",
+    "xmltv_id": "UltraTV4K.pl@SD"
+  },
+  {
+    "site_id": "PL1#Vivid.RED.HD.pl",
+    "name": "Vivid RED HD",
+    "lang": "pl",
+    "xmltv_id": "VividRedHD.us"
+  },
+  {
+    "site_id": "PL1#Vivid.Touch.pl",
+    "name": "Vivid Touch",
+    "lang": "pl",
+    "xmltv_id": "VividTouch.uk@SD"
+  },
+  {
+    "site_id": "PL1#VOX.Music.TV.pl",
+    "name": "VOX Music TV",
+    "lang": "pl",
+    "xmltv_id": "VOXMusicTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/vox-music-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#VOX.pl",
+    "name": "VOX",
+    "lang": "pl",
+    "xmltv_id": "VOX.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/vox-de.png"
+  },
+  {
+    "site_id": "PL1#Warner.TV.HD.pl",
+    "name": "Warner TV HD",
+    "lang": "pl",
+    "xmltv_id": "WarnerTV.de@HD"
+  },
+  {
+    "site_id": "PL1#Warner.TV.pl",
+    "name": "Warner TV",
+    "lang": "pl",
+    "xmltv_id": "WarnerTV.de@SD"
+  },
+  {
+    "site_id": "PL1#Water.Planet.HD.pl",
+    "name": "Water Planet HD",
+    "lang": "pl",
+    "xmltv_id": "WaterPlanet.pl@SD"
+  },
+  {
+    "site_id": "PL1#WDR.pl",
+    "name": "WDR",
+    "lang": "pl",
+    "xmltv_id": "WDRFernsehen.de@Koln"
+  },
+  {
+    "site_id": "PL1#WELT.pl",
+    "name": "WELT",
+    "lang": "pl",
+    "xmltv_id": "WELT.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/welt-de.png"
+  },
+  {
+    "site_id": "PL1#WP.HD.pl",
+    "name": "WP HD",
+    "lang": "pl",
+    "xmltv_id": "WPTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#WP.pl",
+    "name": "WP",
+    "lang": "pl",
+    "xmltv_id": "WPTV.pl@SD"
+  },
+  {
+    "site_id": "PL1#wPolsce.pl.HD.pl",
+    "name": "wPolsce.pl HD",
+    "lang": "pl",
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
+  },
+  {
+    "site_id": "PL1#wPolsce.pl.pl",
+    "name": "wPolsce.pl",
+    "lang": "pl",
+    "xmltv_id": "WPolscePL.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/w-polsce-pl-pl.png"
+  },
+  {
+    "site_id": "PL1#WTK.pl",
+    "name": "WTK",
+    "lang": "pl",
+    "xmltv_id": "WTK.pl@SD"
+  },
+  {
+    "site_id": "PL1#Wydarzenia.24.HD.pl",
+    "name": "Wydarzenia 24 HD",
+    "lang": "pl",
+    "xmltv_id": "Superstacja.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/superstacja-pl.png"
+  },
+  {
+    "site_id": "PL1#Wydarzenia.24.pl",
+    "name": "Wydarzenia 24",
+    "lang": "pl",
+    "xmltv_id": "Superstacja.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/superstacja-pl.png"
+  },
+  {
+    "site_id": "PL1#XSport.pl",
+    "name": "XSport",
+    "lang": "pl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "PL1#XTREME.TV.pl",
+    "name": "XTREME TV",
+    "lang": "pl",
+    "xmltv_id": "XtremeTV.br"
+  },
+  {
+    "site_id": "PL1#ZDF.HD.pl",
+    "name": "ZDF HD",
+    "lang": "pl",
+    "xmltv_id": "ZDF.de@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/zdf-de.png"
+  },
+  {
+    "site_id": "PL1#ZDF.Info.pl",
+    "name": "ZDF Info",
+    "lang": "pl",
+    "xmltv_id": "ZDFinfo.de@SD"
+  },
+  {
+    "site_id": "PL1#ZOOM.TV.HD.pl",
+    "name": "ZOOM TV HD",
+    "lang": "pl",
+    "xmltv_id": "ZoomTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/zoom-tv-pl.png"
+  },
+  {
+    "site_id": "PL1#ZOOM.TV.pl",
+    "name": "ZOOM TV",
+    "lang": "pl",
+    "xmltv_id": "ZoomTV.pl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/poland/zoom-tv-pl.png"
+  }
+]
