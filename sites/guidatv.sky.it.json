@@ -28,8 +28,7 @@
     "site_id": "DTH#319",
     "name": "LA7 HD",
     "lang": "it",
-    "xmltv_id": "LA7d.it@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/la7d-it.png"
+    "xmltv_id": "LA7d.it@HD"
   },
   {
     "site_id": "DTH#320",
@@ -42,7 +41,8 @@
     "site_id": "DTH#321",
     "name": "Sky Meteo24",
     "lang": "it",
-    "xmltv_id": "SkyMeteo24.it@SD"
+    "xmltv_id": "SkyMeteo24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-meteo-24-it.png"
   },
   {
     "site_id": "DTH#349",
@@ -165,25 +165,29 @@
     "site_id": "DTH#895",
     "name": "Rai News 24",
     "lang": "it",
-    "xmltv_id": "RaiNews24.it@SD"
+    "xmltv_id": "RaiNews24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-news-24-it.png"
   },
   {
     "site_id": "DTH#897",
     "name": "Rai 3 HD",
     "lang": "it",
-    "xmltv_id": "Rai3.it@HD"
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "DTH#898",
     "name": "Rai 2 HD",
     "lang": "it",
-    "xmltv_id": "Rai2.it@HD"
+    "xmltv_id": "Rai2.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-2-it.png"
   },
   {
     "site_id": "DTH#899",
     "name": "Rai 1 HD",
     "lang": "it",
-    "xmltv_id": "Rai1.it@HD"
+    "xmltv_id": "Rai1.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "DTH#5113",
@@ -195,7 +199,8 @@
     "site_id": "DTH#5119",
     "name": "France 24 Francais HD",
     "lang": "fr",
-    "xmltv_id": "France24.fr@FrenchHD"
+    "xmltv_id": "France24.fr@FrenchHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "DTH#6000",
@@ -228,20 +233,21 @@
     "site_id": "DTH#6481",
     "name": "TG NORBA 24",
     "lang": "it",
-    "xmltv_id": "TGNorba24.it@SD"
+    "xmltv_id": "TGNorba24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/tg-norba-24-it.png"
   },
   {
     "site_id": "DTH#6510",
     "name": "TG24PrimoPiano",
     "lang": "it",
-    "xmltv_id": "SkyTG24PrimoPiano.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-tg24-primo-piano-it.png"
+    "xmltv_id": "SkyTG24PrimoPiano.it@SD"
   },
   {
     "site_id": "DTH#6607",
     "name": "Rai 5",
     "lang": "it",
-    "xmltv_id": "Rai5.it@SD"
+    "xmltv_id": "Rai5.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-5-it.png"
   },
   {
     "site_id": "DTH#6608",
@@ -268,7 +274,8 @@
     "site_id": "DTH#6622",
     "name": "Rai 4",
     "lang": "it",
-    "xmltv_id": "Rai4.it@SD"
+    "xmltv_id": "Rai4.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-4-it.png"
   },
   {
     "site_id": "DTH#6623",
@@ -281,8 +288,7 @@
     "site_id": "DTH#6624",
     "name": "LA7D",
     "lang": "it",
-    "xmltv_id": "LA7d.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/la7d-it.png"
+    "xmltv_id": "LA7d.it@SD"
   },
   {
     "site_id": "DTH#6626",
@@ -379,7 +385,8 @@
     "site_id": "DTH#7968",
     "name": "France 24 English HD",
     "lang": "en",
-    "xmltv_id": "France24.fr@EnglishHD"
+    "xmltv_id": "France24.fr@EnglishHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "DTH#8132",
@@ -399,8 +406,7 @@
     "site_id": "DTH#8195",
     "name": "TV8 HD",
     "lang": "it",
-    "xmltv_id": "TV8.it@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/tv8-it.png"
+    "xmltv_id": "TV8.it@HD"
   },
   {
     "site_id": "DTH#8213",
@@ -533,7 +539,8 @@
     "site_id": "DTH#9094",
     "name": "Sky Sport24",
     "lang": "it",
-    "xmltv_id": "SkySport24.it@SD"
+    "xmltv_id": "SkySport24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-sport-24-it.png"
   },
   {
     "site_id": "DTH#9095",
@@ -546,8 +553,7 @@
     "site_id": "DTH#9096",
     "name": "Sky Sport F1",
     "lang": "it",
-    "xmltv_id": "SkySportF1.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-sport-f1-it.png"
+    "xmltv_id": "SkySportF1.it@SD"
   },
   {
     "site_id": "DTH#9099",
@@ -605,8 +611,7 @@
     "site_id": "DTH#9117",
     "name": "Sky TG24",
     "lang": "it",
-    "xmltv_id": "SkyTG24.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-tg24-it.png"
+    "xmltv_id": "SkyTG24.it@SD"
   },
   {
     "site_id": "DTH#9195",
@@ -665,15 +670,13 @@
     "site_id": "DTH#10354",
     "name": "Canale 5 HD",
     "lang": "it",
-    "xmltv_id": "Canale5.it@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/canale5-it.png"
+    "xmltv_id": "Canale5.it@HD"
   },
   {
     "site_id": "DTH#10454",
     "name": "Italia 1 HD",
     "lang": "it",
-    "xmltv_id": "Italia1.it@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/italia1-it.png"
+    "xmltv_id": "Italia1.it@HD"
   },
   {
     "site_id": "DTH#10458",
@@ -686,8 +689,7 @@
     "site_id": "DTH#10464",
     "name": "Rete 4 HD",
     "lang": "it",
-    "xmltv_id": "Rete4.it@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rete4-it.png"
+    "xmltv_id": "Rete4.it@HD"
   },
   {
     "site_id": "DTH#10465",
@@ -700,8 +702,7 @@
     "site_id": "DTH#10466",
     "name": "La 5 HD",
     "lang": "it",
-    "xmltv_id": "La5.it@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/la5-it.png"
+    "xmltv_id": "La5.it@HD"
   },
   {
     "site_id": "DTH#10467",
@@ -721,8 +722,7 @@
     "site_id": "DTH#10469",
     "name": "Mediaset Italia2 HD",
     "lang": "it",
-    "xmltv_id": "Italia2.it@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/italia2-it.png"
+    "xmltv_id": "Italia2.it@HD"
   },
   {
     "site_id": "DTH#10470",
@@ -774,8 +774,7 @@
     "site_id": "DTH#10893",
     "name": "Cine34 HD",
     "lang": "it",
-    "xmltv_id": "Cine34.it@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/cine34-it.png"
+    "xmltv_id": "Cine34.it@HD"
   },
   {
     "site_id": "DTH#10993",

@@ -9,7 +9,8 @@
     "site_id": "206963752404",
     "name": "SAT.1 HD",
     "lang": "de",
-    "xmltv_id": "SAT1.de@HD"
+    "xmltv_id": "SAT1.de@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
   },
   {
     "site_id": "206963752417",
@@ -22,7 +23,8 @@
     "site_id": "206963752441",
     "name": "SAT.1 Gold HD",
     "lang": "de",
-    "xmltv_id": "SAT1Gold.de@HD"
+    "xmltv_id": "SAT1Gold.de@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-gold-de.png"
   },
   {
     "site_id": "206964776230",
@@ -73,8 +75,7 @@
     "site_id": "206964776420",
     "name": "R9 HD",
     "lang": "de",
-    "xmltv_id": "R9.at@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/r9-at.png"
+    "xmltv_id": "R9.at@HD"
   },
   {
     "site_id": "206964776430",
@@ -93,8 +94,7 @@
     "site_id": "206965288091",
     "name": "ORF 1 HD",
     "lang": "de",
-    "xmltv_id": "ORF1.at@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/orf1-at.png"
+    "xmltv_id": "ORF1.at@HD"
   },
   {
     "site_id": "206965288109",
@@ -107,8 +107,7 @@
     "site_id": "206965288121",
     "name": "PULS 4 HD",
     "lang": "de",
-    "xmltv_id": "Puls4.at@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/puls4-at.png"
+    "xmltv_id": "Puls4.at@HD"
   },
   {
     "site_id": "206965288143",
@@ -121,15 +120,13 @@
     "site_id": "206965288149",
     "name": "W24 HD",
     "lang": "de",
-    "xmltv_id": "W24.at@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/w24-at.png"
+    "xmltv_id": "W24.at@HD"
   },
   {
     "site_id": "206965288206",
     "name": "PULS24 HD",
     "lang": "de",
-    "xmltv_id": "Puls24.at@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/puls24-at.png"
+    "xmltv_id": "Puls24.at@HD"
   },
   {
     "site_id": "206965288223",
@@ -182,8 +179,7 @@
     "site_id": "206965800229",
     "name": "ATV2 HD",
     "lang": "de",
-    "xmltv_id": "ATV2.at@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/atv2-at.png"
+    "xmltv_id": "ATV2.at@HD"
   },
   {
     "site_id": "206965800268",
@@ -196,8 +192,7 @@
     "site_id": "206965800282",
     "name": "N24 doku",
     "lang": "de",
-    "xmltv_id": "N24Doku.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/n24-doku-de.png"
+    "xmltv_id": "N24Doku.de@SD"
   },
   {
     "site_id": "206965800291",
@@ -243,8 +238,7 @@
     "site_id": "206965800383",
     "name": "tagesschau24 HD",
     "lang": "de",
-    "xmltv_id": "tagesschau24.de@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/tagesschau24-de.png"
+    "xmltv_id": "tagesschau24.de@HD"
   },
   {
     "site_id": "206965800435",
@@ -289,14 +283,14 @@
     "site_id": "206966312002",
     "name": "TELE 5",
     "lang": "de",
-    "xmltv_id": "TELE5.de@SD"
+    "xmltv_id": "TELE5.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/tele-5-de.png"
   },
   {
     "site_id": "206966312019",
     "name": "3sat HD",
     "lang": "de",
-    "xmltv_id": "3sat.de@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@HD"
   },
   {
     "site_id": "206966312058",
@@ -373,7 +367,8 @@
     "site_id": "206966312266",
     "name": "123.tv",
     "lang": "de",
-    "xmltv_id": "123tv.de@SD"
+    "xmltv_id": "123tv.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/123-tv-de.png"
   },
   {
     "site_id": "206966312277",
@@ -386,7 +381,8 @@
     "site_id": "206966312300",
     "name": "Eurosport 1 HD",
     "lang": "de",
-    "xmltv_id": "Eurosport1.fr@GermanyHD"
+    "xmltv_id": "Eurosport1.fr@GermanyHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "206966312315",
@@ -398,8 +394,7 @@
     "site_id": "206966312329",
     "name": "K19",
     "lang": "de",
-    "xmltv_id": "K19.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/k19-at.png"
+    "xmltv_id": "K19.at@SD"
   },
   {
     "site_id": "206966312362",
@@ -513,8 +508,7 @@
     "site_id": "206966824334",
     "name": "KT 1",
     "lang": "de",
-    "xmltv_id": "KT1.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/kt1-at.png"
+    "xmltv_id": "KT1.at@SD"
   },
   {
     "site_id": "206966824377",
@@ -561,8 +555,7 @@
     "site_id": "206967336046",
     "name": "Sport1+ HD",
     "lang": "de",
-    "xmltv_id": "Sport1Plus.de@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sport1-plus-de.png"
+    "xmltv_id": "Sport1Plus.de@HD"
   },
   {
     "site_id": "206967336053",
@@ -606,8 +599,7 @@
     "site_id": "206967848012",
     "name": "Sport 1 HD",
     "lang": "de",
-    "xmltv_id": "Sport1.de@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sport1-de.png"
+    "xmltv_id": "Sport1.de@HD"
   },
   {
     "site_id": "206967848043",
@@ -625,8 +617,7 @@
     "site_id": "206967848295",
     "name": "Hitradio OE3 HD",
     "lang": "de",
-    "xmltv_id": "HitradioO3.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/hitradio-o3-at.png"
+    "xmltv_id": "HitradioO3.at@SD"
   },
   {
     "site_id": "206968871962",
@@ -664,14 +655,14 @@
     "site_id": "206968872127",
     "name": "Eurosport 1",
     "lang": "de",
-    "xmltv_id": "Eurosport1.fr@Germany"
+    "xmltv_id": "Eurosport1.fr@Germany",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "206968872135",
     "name": "Sport 1",
     "lang": "de",
-    "xmltv_id": "Sport1.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sport1-de.png"
+    "xmltv_id": "Sport1.de@SD"
   },
   {
     "site_id": "206969383991",
@@ -716,7 +707,8 @@
     "site_id": "206969384080",
     "name": "France 24 HD",
     "lang": "de",
-    "xmltv_id": "France24.fr@EnglishHD"
+    "xmltv_id": "France24.fr@EnglishHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "206969384112",
@@ -742,7 +734,8 @@
     "site_id": "206969384183",
     "name": "Sat.1 Gold",
     "lang": "de",
-    "xmltv_id": "SAT1Gold.de@SD"
+    "xmltv_id": "SAT1Gold.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-gold-de.png"
   },
   {
     "site_id": "206969384188",
@@ -768,8 +761,7 @@
     "site_id": "206969384250",
     "name": "W24",
     "lang": "de",
-    "xmltv_id": "W24.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/w24-at.png"
+    "xmltv_id": "W24.at@SD"
   },
   {
     "site_id": "206969895972",
@@ -800,8 +792,7 @@
     "site_id": "206969896113",
     "name": "PULS 4",
     "lang": "de",
-    "xmltv_id": "Puls4.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/puls4-at.png"
+    "xmltv_id": "Puls4.at@SD"
   },
   {
     "site_id": "206969896174",
@@ -873,7 +864,8 @@
     "site_id": "206970408378",
     "name": "SAT.1",
     "lang": "de",
-    "xmltv_id": "SAT1.de@SD"
+    "xmltv_id": "SAT1.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
   },
   {
     "site_id": "206970408401",
@@ -978,7 +970,8 @@
     "site_id": "207381032291",
     "name": "Sky Sport Austria 1 HD",
     "lang": "de",
-    "xmltv_id": "SkySportAustria1.at@HD"
+    "xmltv_id": "SkySportAustria1.at@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/sky-sport-austria-1-at.png"
   },
   {
     "site_id": "207381032310",
@@ -1117,7 +1110,8 @@
     "site_id": "207381032387",
     "name": "Sky Sport Austria 4 HD",
     "lang": "de",
-    "xmltv_id": "SkySportAustria4.at@HD"
+    "xmltv_id": "SkySportAustria4.at@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/sky-sport-austria-4-at.png"
   },
   {
     "site_id": "207381032388",
@@ -1161,7 +1155,8 @@
     "site_id": "207381032402",
     "name": "Eurosport 1 Srbija",
     "lang": "de",
-    "xmltv_id": "Eurosport1.fr@Serbia"
+    "xmltv_id": "Eurosport1.fr@Serbia",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "207381032405",
@@ -1273,7 +1268,8 @@
     "site_id": "207382568053",
     "name": "HRT TV1 HD",
     "lang": "de",
-    "xmltv_id": "HRT1.hr@HD"
+    "xmltv_id": "HRT1.hr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-1-hr.png"
   },
   {
     "site_id": "207382568056",
@@ -1350,7 +1346,8 @@
     "site_id": "207382568112",
     "name": "SAT.1 emotions HD",
     "lang": "de",
-    "xmltv_id": "SAT1emotions.de@HD"
+    "xmltv_id": "SAT1emotions.de@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-emotions-de.png"
   },
   {
     "site_id": "207382568113",
@@ -1431,13 +1428,15 @@
     "site_id": "207382568157",
     "name": "Sky Sport Austria 2 HD",
     "lang": "de",
-    "xmltv_id": "SkySportAustria2.at@HD"
+    "xmltv_id": "SkySportAustria2.at@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/sky-sport-austria-2-at.png"
   },
   {
     "site_id": "207382568158",
     "name": "Sky Sport Austria 3 HD",
     "lang": "de",
-    "xmltv_id": "SkySportAustria3.at@HD"
+    "xmltv_id": "SkySportAustria3.at@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/sky-sport-austria-3-at.png"
   },
   {
     "site_id": "207382568161",
@@ -1462,19 +1461,22 @@
     "site_id": "215440936100",
     "name": "Sky Sport Austria 5 HD",
     "lang": "de",
-    "xmltv_id": "SkySportAustria5.at@HD"
+    "xmltv_id": "SkySportAustria5.at@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/sky-sport-austria-5-at.png"
   },
   {
     "site_id": "215440936101",
     "name": "Sky Sport Austria 6 HD",
     "lang": "de",
-    "xmltv_id": "SkySportAustria6.at@HD"
+    "xmltv_id": "SkySportAustria6.at@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/sky-sport-austria-6-at.png"
   },
   {
     "site_id": "215440936102",
     "name": "Sky Sport Austria 7 HD",
     "lang": "de",
-    "xmltv_id": "SkySportAustria7.at@HD"
+    "xmltv_id": "SkySportAustria7.at@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/sky-sport-austria-7-at.png"
   },
   {
     "site_id": "224872488137",
@@ -1492,8 +1494,7 @@
     "site_id": "224890919986",
     "name": "Hitradio Ö3",
     "lang": "de",
-    "xmltv_id": "HitradioO3.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/hitradio-o3-at.png"
+    "xmltv_id": "HitradioO3.at@SD"
   },
   {
     "site_id": "224890919993",
@@ -1511,19 +1512,22 @@
     "site_id": "225890344066",
     "name": "RAI Uno",
     "lang": "de",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "225890344089",
     "name": "RAI Tre",
     "lang": "de",
-    "xmltv_id": "Rai3.it@HD"
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "225890855955",
     "name": "RAI Due",
     "lang": "de",
-    "xmltv_id": "Rai2.it@SD"
+    "xmltv_id": "Rai2.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-2-it.png"
   },
   {
     "site_id": "225893928278",

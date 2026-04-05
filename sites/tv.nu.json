@@ -9,8 +9,7 @@
     "site_id": "3sat",
     "name": "3sat",
     "lang": "de",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "adult-channel",
@@ -321,13 +320,15 @@
     "site_id": "eurosport-1",
     "name": "Eurosport 1",
     "lang": "sv",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "eurosport-2",
     "name": "Eurosport 2",
     "lang": "sv",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "extreme-sports-channel",
@@ -346,13 +347,15 @@
     "site_id": "france-2",
     "name": "France 2",
     "lang": "fr",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "france-24-english-hd",
     "name": "France 24 English HD",
     "lang": "en",
-    "xmltv_id": "France24.fr@EnglishHD"
+    "xmltv_id": "France24.fr@EnglishHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "ftv",
@@ -425,7 +428,8 @@
     "site_id": "hrt1",
     "name": "HRT1",
     "lang": "sv",
-    "xmltv_id": "HRT1.hr@SD"
+    "xmltv_id": "HRT1.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-1-hr.png"
   },
   {
     "site_id": "hustler-tv",
@@ -719,13 +723,15 @@
     "site_id": "rai-1",
     "name": "Rai 1",
     "lang": "it",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "rai-2",
     "name": "Rai 2",
     "lang": "it",
-    "xmltv_id": "Rai2.it@SD"
+    "xmltv_id": "Rai2.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-2-it.png"
   },
   {
     "site_id": "rtl",

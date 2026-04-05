@@ -3,8 +3,7 @@
     "site_id": "3SAT",
     "name": "3Sat",
     "lang": "hu",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "360TUNEBOX",
@@ -48,8 +47,7 @@
     "site_id": "ARENA4",
     "name": "Aréna4",
     "lang": "hu",
-    "xmltv_id": "Arena4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/arena4-hu.png"
+    "xmltv_id": "Arena4.hu@SD"
   },
   {
     "site_id": "ARTE",
@@ -287,13 +285,15 @@
     "site_id": "EUROSPORT",
     "name": "Eurosport HD",
     "lang": "hu",
-    "xmltv_id": "Eurosport1.fr@HD"
+    "xmltv_id": "Eurosport1.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "EUROSPORT2",
     "name": "Eurosport 2 HD",
     "lang": "hu",
-    "xmltv_id": "Eurosport2.uk@HD"
+    "xmltv_id": "Eurosport2.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png"
   },
   {
     "site_id": "EUROSPORT4K",
@@ -336,8 +336,7 @@
     "site_id": "FILM4",
     "name": "Film4",
     "lang": "hu",
-    "xmltv_id": "Film4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/film4-hu.png"
+    "xmltv_id": "Film4.hu@SD"
   },
   {
     "site_id": "FILMBOX",
@@ -429,8 +428,7 @@
     "site_id": "GALAXY4",
     "name": "Galaxy4",
     "lang": "hu",
-    "xmltv_id": "Galaxy4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/galaxy4-hu.png"
+    "xmltv_id": "Galaxy4.hu@SD"
   },
   {
     "site_id": "GAMETOON",
@@ -485,13 +483,15 @@
     "site_id": "HRT1",
     "name": "HRT-1",
     "lang": "hu",
-    "xmltv_id": "HRT1.hr@SD"
+    "xmltv_id": "HRT1.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-1-hr.png"
   },
   {
     "site_id": "HRT2",
     "name": "HRT-2",
     "lang": "hu",
-    "xmltv_id": "HRT2.hr@SD"
+    "xmltv_id": "HRT2.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-2-hr.png"
   },
   {
     "site_id": "HUSTLERTV",
@@ -561,15 +561,13 @@
     "site_id": "M1HD",
     "name": "m1 HD",
     "lang": "hu",
-    "xmltv_id": "M1.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m1-hu.png"
+    "xmltv_id": "M1.hu@SD"
   },
   {
     "site_id": "M2HD",
     "name": "m2 HD",
     "lang": "hu",
-    "xmltv_id": "M2.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m2-hu.png"
+    "xmltv_id": "M2.hu@SD"
   },
   {
     "site_id": "M4",
@@ -581,15 +579,13 @@
     "site_id": "M4_SPORT_PLUSZ",
     "name": "m4sport+",
     "lang": "hu",
-    "xmltv_id": "M4SportPlus.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m4-sport-plus-hu.png"
+    "xmltv_id": "M4SportPlus.hu@SD"
   },
   {
     "site_id": "M5",
     "name": "m5",
     "lang": "hu",
-    "xmltv_id": "M5.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m5-hu.png"
+    "xmltv_id": "M5.hu@SD"
   },
   {
     "site_id": "MAGYARMOZITV",
@@ -602,15 +598,13 @@
     "site_id": "MATCH4",
     "name": "Match 4",
     "lang": "hu",
-    "xmltv_id": "Match4.hu",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/match4-hu.png"
+    "xmltv_id": "Match4.hu"
   },
   {
     "site_id": "MAX4",
     "name": "Max4",
     "lang": "hu",
-    "xmltv_id": "MAX4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/max4-hu.png"
+    "xmltv_id": "MAX4.hu@SD"
   },
   {
     "site_id": "MEZZO",
@@ -804,15 +798,13 @@
     "site_id": "ORF1",
     "name": "ORF1",
     "lang": "hu",
-    "xmltv_id": "ORF1.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/orf1-at.png"
+    "xmltv_id": "ORF1.at@SD"
   },
   {
     "site_id": "ORF2",
     "name": "ORF2",
     "lang": "hu",
-    "xmltv_id": "ORF2.at@Österreich",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/orf2-at.png"
+    "xmltv_id": "ORF2.at@Österreich"
   },
   {
     "site_id": "OZONETV",
@@ -864,7 +856,8 @@
     "site_id": "RAIUNO",
     "name": "Rai 1",
     "lang": "hu",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "REDLIGHTHD",
@@ -923,7 +916,8 @@
     "site_id": "SAT1",
     "name": "SAT 1",
     "lang": "hu",
-    "xmltv_id": "Sat1.de@SD"
+    "xmltv_id": "Sat1.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
   },
   {
     "site_id": "SLAGERTV",
@@ -976,34 +970,33 @@
     "site_id": "SPILER1TV",
     "name": "Spíler1 TV",
     "lang": "hu",
-    "xmltv_id": "Spiler1.hu@SD"
+    "xmltv_id": "Spiler1.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/spiler-1-hu.png"
   },
   {
     "site_id": "SPILER2TV",
     "name": "Spíler2 TV",
     "lang": "hu",
-    "xmltv_id": "Spiler2.hu@SD"
+    "xmltv_id": "Spiler2.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/spiler-2-hu.png"
   },
   {
     "site_id": "SPORT1",
     "name": "Sport1",
     "lang": "hu",
-    "xmltv_id": "Sport1.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/sport1-hu.png"
+    "xmltv_id": "Sport1.hu@SD"
   },
   {
     "site_id": "SPORT2",
     "name": "Sport2",
     "lang": "hu",
-    "xmltv_id": "Sport2.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/sport2-hu.png"
+    "xmltv_id": "Sport2.hu@SD"
   },
   {
     "site_id": "STORY4",
     "name": "Story4",
     "lang": "hu",
-    "xmltv_id": "Story4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/story4-hu.png"
+    "xmltv_id": "Story4.hu@SD"
   },
   {
     "site_id": "SUPERONEHD",
@@ -1077,43 +1070,37 @@
     "site_id": "TV2",
     "name": "TV2",
     "lang": "hu",
-    "xmltv_id": "TV2.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-hu.png"
+    "xmltv_id": "TV2.hu@SD"
   },
   {
     "site_id": "TV2_KIDS",
     "name": "TV2 Kids",
     "lang": "hu",
-    "xmltv_id": "TV2Kids.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-kids-hu.png"
+    "xmltv_id": "TV2Kids.hu@SD"
   },
   {
     "site_id": "TV2COMEDY",
     "name": "TV2 Comedy",
     "lang": "hu",
-    "xmltv_id": "TV2Comedy.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-comedy-hu.png"
+    "xmltv_id": "TV2Comedy.hu@SD"
   },
   {
     "site_id": "TV2KLUB",
     "name": "TV2 Klub",
     "lang": "hu",
-    "xmltv_id": "FEM3.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/fem3-hu.png"
+    "xmltv_id": "FEM3.hu@SD"
   },
   {
     "site_id": "TV2SEF",
     "name": "TV2 Séf",
     "lang": "hu",
-    "xmltv_id": "TV2Sef.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-sef-hu.png"
+    "xmltv_id": "TV2Sef.hu@SD"
   },
   {
     "site_id": "TV4",
     "name": "TV4",
     "lang": "hu",
-    "xmltv_id": "TV4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv4-hu.png"
+    "xmltv_id": "TV4.hu@SD"
   },
   {
     "site_id": "TV5MONDE",
@@ -1138,22 +1125,19 @@
     "site_id": "VIASAT2",
     "name": "Viasat 2",
     "lang": "hu",
-    "xmltv_id": "Viasat2.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/viasat2-hu.png"
+    "xmltv_id": "Viasat2.hu@SD"
   },
   {
     "site_id": "VIASAT3",
     "name": "Viasat 3",
     "lang": "hu",
-    "xmltv_id": "Viasat3.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/viasat3-hu.png"
+    "xmltv_id": "Viasat3.hu@SD"
   },
   {
     "site_id": "VIASAT6",
     "name": "Viasat 6",
     "lang": "hu",
-    "xmltv_id": "Viasat6.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/viasat6-hu.png"
+    "xmltv_id": "Viasat6.hu@SD"
   },
   {
     "site_id": "VIASAT_FILM",

@@ -3,15 +3,13 @@
     "site_id": "3sat-10501",
     "name": "3Sat",
     "lang": "fr",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "6ter-202",
     "name": "6ter",
     "lang": "fr",
-    "xmltv_id": "6ter.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/6ter-fr.png"
+    "xmltv_id": "6ter.fr@SD"
   },
   {
     "site_id": "8-mont-blanc-385",
@@ -35,8 +33,7 @@
     "site_id": "ab-1-31",
     "name": "AB 1",
     "lang": "fr",
-    "xmltv_id": "AB1.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/ab1-fr.png"
+    "xmltv_id": "AB1.fr@SD"
   },
   {
     "site_id": "ab-3-138",
@@ -146,8 +143,7 @@
     "site_id": "be-1-248",
     "name": "BE 1",
     "lang": "fr",
-    "xmltv_id": "Be1.be@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/be1-be.png"
+    "xmltv_id": "Be1.be@SD"
   },
   {
     "site_id": "be-cine-249",
@@ -305,8 +301,7 @@
     "site_id": "c8-4",
     "name": "C8",
     "lang": "fr",
-    "xmltv_id": "C8.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/c8-fr.png"
+    "xmltv_id": "C8.fr@SD"
   },
   {
     "site_id": "canal-32-390",
@@ -379,8 +374,7 @@
     "site_id": "canalplus-formula-1-10503",
     "name": "Canal+ Formula 1",
     "lang": "fr",
-    "xmltv_id": "CanalPlusFormula1.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-plus-formula1-fr.png"
+    "xmltv_id": "CanalPlusFormula1.fr@SD"
   },
   {
     "site_id": "canalplus-grand-ecran-11504",
@@ -434,7 +428,8 @@
     "site_id": "canalplus-sport-360-11509",
     "name": "Canal+ Sport 360",
     "lang": "fr",
-    "xmltv_id": "CanalPlusSport360.fr@SD"
+    "xmltv_id": "CanalPlusSport360.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-plus-sport-360-fr.png"
   },
   {
     "site_id": "canalplus-top-14-10507",
@@ -660,13 +655,15 @@
     "site_id": "eurosport-1-5",
     "name": "Eurosport 1",
     "lang": "fr",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "eurosport-2-63",
     "name": "Eurosport 2",
     "lang": "fr",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "fashion-tv-358",
@@ -678,175 +675,204 @@
     "site_id": "france-2-6",
     "name": "France 2",
     "lang": "fr",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "france-3-7",
     "name": "France 3",
     "lang": "fr",
-    "xmltv_id": "France3.fr@SD"
+    "xmltv_id": "France3.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-alpes-275",
     "name": "France 3 Alpes",
     "lang": "fr",
-    "xmltv_id": "France3.fr@Alpes"
+    "xmltv_id": "France3.fr@Alpes",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-alsace-276",
     "name": "France 3 Alsace",
     "lang": "fr",
-    "xmltv_id": "France3.fr@Alsace"
+    "xmltv_id": "France3.fr@Alsace",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-aquitaine-277",
     "name": "France 3 Aquitaine",
     "lang": "fr",
-    "xmltv_id": "France3.fr@Aquitaine"
+    "xmltv_id": "France3.fr@Aquitaine",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-auvergne-278",
     "name": "France 3 Auvergne",
     "lang": "fr",
-    "xmltv_id": "France3.fr@Auvergne"
+    "xmltv_id": "France3.fr@Auvergne",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-basse-normandie-279",
     "name": "France 3 Basse-Normandie",
     "lang": "fr",
-    "xmltv_id": "France3.fr@BasseNormandie"
+    "xmltv_id": "France3.fr@BasseNormandie",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-bourgogne-280",
     "name": "France 3 Bourgogne",
     "lang": "fr",
-    "xmltv_id": "France3.fr@Bourgogne"
+    "xmltv_id": "France3.fr@Bourgogne",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-bretagne-281",
     "name": "France 3 Bretagne",
     "lang": "fr",
-    "xmltv_id": "France3.fr@Bretagne"
+    "xmltv_id": "France3.fr@Bretagne",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-centre-val-de-loire-282",
     "name": "France 3 Centre-Val de Loire",
     "lang": "fr",
-    "xmltv_id": "France3.fr@CentreValdeLoire"
+    "xmltv_id": "France3.fr@CentreValdeLoire",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-champagne-ardennes-283",
     "name": "France 3 Champagne-Ardennes",
     "lang": "fr",
-    "xmltv_id": "France3.fr@ChampagneArdenne"
+    "xmltv_id": "France3.fr@ChampagneArdenne",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-corse-via-stella-284",
     "name": "France 3 Corse Via Stella",
     "lang": "fr",
-    "xmltv_id": "France3.fr@CorseViaStella"
+    "xmltv_id": "France3.fr@CorseViaStella",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-cote-dazur-285",
     "name": "France 3 Côte d'Azur",
     "lang": "fr",
-    "xmltv_id": "France3.fr@CotedAzur"
+    "xmltv_id": "France3.fr@CotedAzur",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-franche-comte-286",
     "name": "France 3 Franche-Comté",
     "lang": "fr",
-    "xmltv_id": "France3.fr@FrancheComte"
+    "xmltv_id": "France3.fr@FrancheComte",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-haute-normandie-287",
     "name": "France 3 Haute-Normandie",
     "lang": "fr",
-    "xmltv_id": "France3.fr@HauteNormandie"
+    "xmltv_id": "France3.fr@HauteNormandie",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-languedoc-roussillon-288",
     "name": "France 3 Languedoc-Roussillon",
     "lang": "fr",
-    "xmltv_id": "France3.fr@LanguedocRoussillon"
+    "xmltv_id": "France3.fr@LanguedocRoussillon",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-limousin-289",
     "name": "France 3 Limousin",
     "lang": "fr",
-    "xmltv_id": "France3.fr@Limousin"
+    "xmltv_id": "France3.fr@Limousin",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-lorraine-290",
     "name": "France 3 Lorraine",
     "lang": "fr",
-    "xmltv_id": "France3.fr@Lorraine"
+    "xmltv_id": "France3.fr@Lorraine",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-midi-pyrenees-291",
     "name": "France 3 Midi-Pyrénées",
     "lang": "fr",
-    "xmltv_id": "France3.fr@MidiPyrenees"
+    "xmltv_id": "France3.fr@MidiPyrenees",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-nord-pas-de-calais-292",
     "name": "France 3 Nord Pas-de-Calais",
     "lang": "fr",
-    "xmltv_id": "France3.fr@NordPasdeCalais"
+    "xmltv_id": "France3.fr@NordPasdeCalais",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-paris-ile-de-france-293",
     "name": "France 3 Paris Ile-de-France",
     "lang": "fr",
-    "xmltv_id": "France3.fr@ParisIledeFrance"
+    "xmltv_id": "France3.fr@ParisIledeFrance",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-pays-de-la-loire-294",
     "name": "France 3 Pays de la Loire",
     "lang": "fr",
-    "xmltv_id": "France3.fr@PaysdelaLoire"
+    "xmltv_id": "France3.fr@PaysdelaLoire",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-picardie-295",
     "name": "France 3 Picardie",
     "lang": "fr",
-    "xmltv_id": "France3.fr@Picardie"
+    "xmltv_id": "France3.fr@Picardie",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-poitou-charentes-296",
     "name": "France 3 Poitou-Charentes",
     "lang": "fr",
-    "xmltv_id": "France3.fr@PoitouCharentes"
+    "xmltv_id": "France3.fr@PoitouCharentes",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-provence-alpes-297",
     "name": "France 3 Provence-Alpes",
     "lang": "fr",
-    "xmltv_id": "France3.fr@ProvenceAlpes"
+    "xmltv_id": "France3.fr@ProvenceAlpes",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-3-rhone-alpes-298",
     "name": "France 3 Rhône-Alpes",
     "lang": "fr",
-    "xmltv_id": "France3.fr@RhoneAlpes"
+    "xmltv_id": "France3.fr@RhoneAlpes",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-4-8",
     "name": "France 4",
     "lang": "fr",
-    "xmltv_id": "France4.fr@SD"
+    "xmltv_id": "France4.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-4-fr.png"
   },
   {
     "site_id": "france-5-9",
     "name": "France 5",
     "lang": "fr",
-    "xmltv_id": "France5.fr@SD"
+    "xmltv_id": "France5.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-5-fr.png"
   },
   {
     "site_id": "france-24-142",
     "name": "France 24",
     "lang": "fr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "franceinfo-307",
@@ -1017,8 +1043,7 @@
     "site_id": "m6-12",
     "name": "M6",
     "lang": "fr",
-    "xmltv_id": "M6.fr@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/m6-fr.png"
+    "xmltv_id": "M6.fr@HD"
   },
   {
     "site_id": "m6-boutique-238",
@@ -1030,8 +1055,7 @@
     "site_id": "m6-music-80",
     "name": "M6 Music",
     "lang": "fr",
-    "xmltv_id": "M6Music.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/m6-music-fr.png"
+    "xmltv_id": "M6Music.fr@SD"
   },
   {
     "site_id": "mangas-82",
@@ -1199,21 +1223,20 @@
     "site_id": "npo1-266",
     "name": "NPO1",
     "lang": "fr",
-    "xmltv_id": "NPO1.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/npo1-nl.png"
+    "xmltv_id": "NPO1.nl@SD"
   },
   {
     "site_id": "npo2-267",
     "name": "NPO2",
     "lang": "fr",
-    "xmltv_id": "NPO2.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/npo2-nl.png"
+    "xmltv_id": "NPO2.nl@SD"
   },
   {
     "site_id": "nrj-12-13",
     "name": "NRJ 12",
     "lang": "fr",
-    "xmltv_id": "NRJ12.fr@SD"
+    "xmltv_id": "NRJ12.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/nrj-12-fr.png"
   },
   {
     "site_id": "nrj-hits-167",
@@ -1359,7 +1382,8 @@
     "site_id": "rai-uno-188",
     "name": "Rai Uno",
     "lang": "fr",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "rfm-tv-85",
@@ -1378,43 +1402,50 @@
     "site_id": "rmc-sport-1-452",
     "name": "RMC Sport 1",
     "lang": "fr",
-    "xmltv_id": "RMCSport1.fr@SD"
+    "xmltv_id": "RMCSport1.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-1-fr.png"
   },
   {
     "site_id": "rmc-sport-1-uhd-334",
     "name": "RMC Sport 1 UHD",
     "lang": "fr",
-    "xmltv_id": "RMCSport1.fr@UHD"
+    "xmltv_id": "RMCSport1.fr@UHD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-1-fr.png"
   },
   {
     "site_id": "rmc-sport-2-453",
     "name": "RMC Sport 2",
     "lang": "fr",
-    "xmltv_id": "RMCSport2.fr@SD"
+    "xmltv_id": "RMCSport2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-2-fr.png"
   },
   {
     "site_id": "rmc-sport-3-454",
     "name": "RMC Sport 3",
     "lang": "fr",
-    "xmltv_id": "RMCSport3.fr"
+    "xmltv_id": "RMCSport3.fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-3-fr.png"
   },
   {
     "site_id": "rmc-sport-4-335",
     "name": "RMC Sport 4",
     "lang": "fr",
-    "xmltv_id": "RMCSport4.fr"
+    "xmltv_id": "RMCSport4.fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-4-fr.png"
   },
   {
     "site_id": "rmc-sport-access-1-336",
     "name": "RMC Sport Access 1",
     "lang": "fr",
-    "xmltv_id": "RMCSportAccess1.fr@SD"
+    "xmltv_id": "RMCSportAccess1.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-access-1-fr.png"
   },
   {
     "site_id": "rmc-sport-access-2-178",
     "name": "RMC Sport Access 2",
     "lang": "fr",
-    "xmltv_id": "RMCSportAccess2.fr"
+    "xmltv_id": "RMCSportAccess2.fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-access-2-fr.png"
   },
   {
     "site_id": "rmc-sport-access-3-404",
@@ -1426,73 +1457,85 @@
     "site_id": "rmc-sport-live-5-464",
     "name": "RMC Sport Live 5",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive5.fr@SD"
+    "xmltv_id": "RMCSportLive5.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-5-fr.png"
   },
   {
     "site_id": "rmc-sport-live-6-465",
     "name": "RMC Sport Live 6",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive6.fr@SD"
+    "xmltv_id": "RMCSportLive6.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-6-fr.png"
   },
   {
     "site_id": "rmc-sport-live-7-457",
     "name": "RMC Sport Live 7",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive7.fr@SD"
+    "xmltv_id": "RMCSportLive7.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-7-fr.png"
   },
   {
     "site_id": "rmc-sport-live-8-458",
     "name": "RMC Sport Live 8",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive8.fr@SD"
+    "xmltv_id": "RMCSportLive8.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-8-fr.png"
   },
   {
     "site_id": "rmc-sport-live-9-460",
     "name": "RMC Sport Live 9",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive9.fr@SD"
+    "xmltv_id": "RMCSportLive9.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-9-fr.png"
   },
   {
     "site_id": "rmc-sport-live-10-459",
     "name": "RMC Sport Live 10",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive10.fr@SD"
+    "xmltv_id": "RMCSportLive10.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-10-fr.png"
   },
   {
     "site_id": "rmc-sport-live-11-455",
     "name": "RMC Sport Live 11",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive11.fr@SD"
+    "xmltv_id": "RMCSportLive11.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-11-fr.png"
   },
   {
     "site_id": "rmc-sport-live-12-456",
     "name": "RMC Sport Live 12",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive12.fr@SD"
+    "xmltv_id": "RMCSportLive12.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-12-fr.png"
   },
   {
     "site_id": "rmc-sport-live-13-466",
     "name": "RMC Sport Live 13",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive13.fr@SD"
+    "xmltv_id": "RMCSportLive13.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-13-fr.png"
   },
   {
     "site_id": "rmc-sport-live-14-462",
     "name": "RMC Sport Live 14",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive14.fr@SD"
+    "xmltv_id": "RMCSportLive14.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-14-fr.png"
   },
   {
     "site_id": "rmc-sport-live-15-463",
     "name": "RMC Sport Live 15",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive15.fr"
+    "xmltv_id": "RMCSportLive15.fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-15-fr.png"
   },
   {
     "site_id": "rmc-sport-live-16-461",
     "name": "RMC Sport Live 16",
     "lang": "fr",
-    "xmltv_id": "RMCSportLive16.fr"
+    "xmltv_id": "RMCSportLive16.fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-live-16-fr.png"
   },
   {
     "site_id": "rmc-story-203",
@@ -1645,15 +1688,13 @@
     "site_id": "tf1-19",
     "name": "TF1",
     "lang": "fr",
-    "xmltv_id": "TF1.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tf1-fr.png"
+    "xmltv_id": "TF1.fr@SD"
   },
   {
     "site_id": "tf1-series-films-201",
     "name": "TF1 Séries Films",
     "lang": "fr",
-    "xmltv_id": "TF1SeriesFilms.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tf1-series-films-fr.png"
+    "xmltv_id": "TF1SeriesFilms.fr@SD"
   },
   {
     "site_id": "tfx-14",
@@ -1835,22 +1876,19 @@
     "site_id": "vtm2-244",
     "name": "VTM2",
     "lang": "fr",
-    "xmltv_id": "VTM2.be@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vtm2-be.png"
+    "xmltv_id": "VTM2.be@SD"
   },
   {
     "site_id": "vtm3-262",
     "name": "VTM3",
     "lang": "fr",
-    "xmltv_id": "VTM3.be@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vtm3-be.png"
+    "xmltv_id": "VTM3.be@SD"
   },
   {
     "site_id": "vtm4-245",
     "name": "VTM4",
     "lang": "fr",
-    "xmltv_id": "VTM4.be@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vtm4-be.png"
+    "xmltv_id": "VTM4.be@SD"
   },
   {
     "site_id": "vtm-263",
@@ -1863,8 +1901,7 @@
     "site_id": "w9-24",
     "name": "W9",
     "lang": "fr",
-    "xmltv_id": "W9.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/w9-fr.png"
+    "xmltv_id": "W9.fr@SD"
   },
   {
     "site_id": "warner-tv-403",

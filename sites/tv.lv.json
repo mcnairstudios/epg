@@ -9,8 +9,7 @@
     "site_id": "3sat",
     "name": "3SAT",
     "lang": "lv",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "8tv",
@@ -255,25 +254,29 @@
     "site_id": "eurosport-1",
     "name": "Eurosport 1",
     "lang": "lv",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "eurosport-2",
     "name": "Eurosport 2",
     "lang": "lv",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "eurosport-2-bundesliga",
     "name": "Eurosport 2 (Bundesliga)",
     "lang": "lv",
-    "xmltv_id": "Eurosport2.fr@Germany"
+    "xmltv_id": "Eurosport2.fr@Germany",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "eurosport-deutchland",
     "name": "Eurosport Deutchland",
     "lang": "lv",
-    "xmltv_id": "Eurosport1.fr@Germany"
+    "xmltv_id": "Eurosport1.fr@Germany",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "extreme-sports",
@@ -334,7 +337,8 @@
     "site_id": "france-24-uk",
     "name": "France 24 UK",
     "lang": "lv",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "futbol",
@@ -511,8 +515,7 @@
     "site_id": "n24-doku",
     "name": "N24 Doku",
     "lang": "lv",
-    "xmltv_id": "N24Doku.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/n24-doku-de.png"
+    "xmltv_id": "N24Doku.de@SD"
   },
   {
     "site_id": "n-tv",
@@ -570,15 +573,13 @@
     "site_id": "orf1",
     "name": "ORF1",
     "lang": "lv",
-    "xmltv_id": "ORF1.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/orf1-at.png"
+    "xmltv_id": "ORF1.at@SD"
   },
   {
     "site_id": "orf2",
     "name": "ORF2",
     "lang": "lv",
-    "xmltv_id": "ORF2.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/orf2-at.png"
+    "xmltv_id": "ORF2.at@SD"
   },
   {
     "site_id": "pro-7",
@@ -623,13 +624,15 @@
     "site_id": "sat1-gold",
     "name": "SAT.1 Gold",
     "lang": "lv",
-    "xmltv_id": "SAT1Gold.de@SD"
+    "xmltv_id": "SAT1Gold.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-gold-de.png"
   },
   {
     "site_id": "sat-1",
     "name": "SAT 1",
     "lang": "lv",
-    "xmltv_id": "SAT1.de@HD"
+    "xmltv_id": "SAT1.de@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
   },
   {
     "site_id": "sixx",
@@ -744,7 +747,8 @@
     "site_id": "tv-21",
     "name": "TV-21",
     "lang": "lv",
-    "xmltv_id": "TVNZ2.nz@Plus1"
+    "xmltv_id": "TVNZ2.nz@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/new-zealand/tvnz-2-nz.png"
   },
   {
     "site_id": "tv-kurzeme",
@@ -774,8 +778,7 @@
     "site_id": "vh1-euro-imm",
     "name": "VH1 Euro IMM",
     "lang": "lv",
-    "xmltv_id": "VH1.us@East",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/vh1-us.png"
+    "xmltv_id": "VH1.us@East"
   },
   {
     "site_id": "viasat-explore-nordic",

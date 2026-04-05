@@ -3,27 +3,27 @@
     "site_id": "1/programme-television-tf1",
     "name": "TF1",
     "lang": "fr",
-    "xmltv_id": "TF1.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tf1-fr.png"
+    "xmltv_id": "TF1.fr@SD"
   },
   {
     "site_id": "2/programme-television-france-2",
     "name": "FRANCE 2",
     "lang": "fr",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "3/programme-television-france-3",
     "name": "FRANCE 3",
     "lang": "fr",
-    "xmltv_id": "France3.fr@SD"
+    "xmltv_id": "France3.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "13/programme-television-m6",
     "name": "M6",
     "lang": "fr",
-    "xmltv_id": "M6.fr@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/m6-fr.png"
+    "xmltv_id": "M6.fr@HD"
   },
   {
     "site_id": "14/programme-television-arte",
@@ -82,7 +82,8 @@
     "site_id": "69/programme-television-france-5",
     "name": "FRANCE 5",
     "lang": "fr",
-    "xmltv_id": "France5.fr@SD"
+    "xmltv_id": "France5.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-5-fr.png"
   },
   {
     "site_id": "70/programme-television-tmc",
@@ -128,7 +129,8 @@
     "site_id": "83/programme-television-eurosport",
     "name": "EUROSPORT",
     "lang": "fr",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "86/programme-television-mezzo",
@@ -181,8 +183,7 @@
     "site_id": "115/programme-television-m6-music",
     "name": "M6 MUSIC",
     "lang": "fr",
-    "xmltv_id": "M6Music.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/m6-music-fr.png"
+    "xmltv_id": "M6Music.fr@SD"
   },
   {
     "site_id": "119/programme-television-bbc-entertainment",
@@ -194,7 +195,8 @@
     "site_id": "120/programme-television-rai-1",
     "name": "RAI 1",
     "lang": "fr",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "127/programme-television-chasse-peche",
@@ -226,22 +228,19 @@
     "site_id": "139/programme-television-npo1",
     "name": "NPO1",
     "lang": "fr",
-    "xmltv_id": "NPO1.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/npo1-nl.png"
+    "xmltv_id": "NPO1.nl@SD"
   },
   {
     "site_id": "140/programme-television-npo2",
     "name": "NPO2",
     "lang": "fr",
-    "xmltv_id": "NPO2.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/npo2-nl.png"
+    "xmltv_id": "NPO2.nl@SD"
   },
   {
     "site_id": "141/programme-television-npo3",
     "name": "NPO3",
     "lang": "fr",
-    "xmltv_id": "NPO3.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/npo3-nl.png"
+    "xmltv_id": "NPO3.nl@SD"
   },
   {
     "site_id": "148/programme-television-vtm",
@@ -390,8 +389,7 @@
     "site_id": "298/programme-television-be-1",
     "name": "BE 1",
     "lang": "fr",
-    "xmltv_id": "Be1.be@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/be1-be.png"
+    "xmltv_id": "Be1.be@SD"
   },
   {
     "site_id": "300/programme-television-be-cine",
@@ -434,13 +432,15 @@
     "site_id": "321/programme-television-france-4",
     "name": "FRANCE 4",
     "lang": "fr",
-    "xmltv_id": "France4.fr@SD"
+    "xmltv_id": "France4.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-4-fr.png"
   },
   {
     "site_id": "323/programme-television-eurosport-2",
     "name": "EUROSPORT 2",
     "lang": "fr",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "344/programme-television-france-o",
@@ -506,7 +506,8 @@
     "site_id": "419/programme-television-france-24",
     "name": "FRANCE 24",
     "lang": "fr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "446/programme-television-planete-ci",
@@ -519,15 +520,13 @@
     "site_id": "467/programme-television-vtm2",
     "name": "VTM2",
     "lang": "fr",
-    "xmltv_id": "VTM2.be@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vtm2-be.png"
+    "xmltv_id": "VTM2.be@SD"
   },
   {
     "site_id": "541/programme-television-vtm3",
     "name": "VTM3",
     "lang": "fr",
-    "xmltv_id": "VTM3.be@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vtm3-be.png"
+    "xmltv_id": "VTM3.be@SD"
   },
   {
     "site_id": "581/programme-television-canvas",
@@ -540,13 +539,15 @@
     "site_id": "584/programme-television-rmc-sport-2",
     "name": "RMC SPORT 2",
     "lang": "fr",
-    "xmltv_id": "RMCSport2.fr@SD"
+    "xmltv_id": "RMCSport2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-sport-2-fr.png"
   },
   {
     "site_id": "618/programme-television-eurosport-nl",
     "name": "EUROSPORT NL",
     "lang": "fr",
-    "xmltv_id": "Eurosport1.fr@Netherlands"
+    "xmltv_id": "Eurosport1.fr@Netherlands",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "637/programme-television-national-geographic-wild",
@@ -565,8 +566,7 @@
     "site_id": "688/programme-television-vtm4",
     "name": "VTM4",
     "lang": "fr",
-    "xmltv_id": "VTM4.be@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vtm4-be.png"
+    "xmltv_id": "VTM4.be@SD"
   },
   {
     "site_id": "717/programme-television-la-trois",
@@ -625,8 +625,7 @@
     "site_id": "1032/programme-television-c8",
     "name": "C8",
     "lang": "fr",
-    "xmltv_id": "C8.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/c8-fr.png"
+    "xmltv_id": "C8.fr@SD"
   },
   {
     "site_id": "1033/programme-television-cstar",
@@ -639,8 +638,7 @@
     "site_id": "1045/programme-television-tf1-series-films",
     "name": "TF1 Séries Films",
     "lang": "fr",
-    "xmltv_id": "TF1SeriesFilms.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tf1-series-films-fr.png"
+    "xmltv_id": "TF1SeriesFilms.fr@SD"
   },
   {
     "site_id": "1116/programme-television-paramount-channel",
@@ -660,7 +658,8 @@
     "site_id": "1168/programme-television-studio100tv",
     "name": "STUDIO100tv",
     "lang": "fr",
-    "xmltv_id": "Studio100TV.be@SD"
+    "xmltv_id": "Studio100TV.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/studio-100-tv-be.png"
   },
   {
     "site_id": "1170/programme-television-vtm-kids",
@@ -717,8 +716,7 @@
     "site_id": "1873/programme-television-ln24",
     "name": "LN24",
     "lang": "fr",
-    "xmltv_id": "LN24.be@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/ln24-be.png"
+    "xmltv_id": "LN24.be@SD"
   },
   {
     "site_id": "1916/programme-television-tipik",

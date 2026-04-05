@@ -3,8 +3,7 @@
     "site_id": "3sat",
     "name": "3SAT",
     "lang": "de",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "7maxx",
@@ -37,8 +36,7 @@
     "site_id": "atv2",
     "name": "ATV2",
     "lang": "de",
-    "xmltv_id": "ATV2.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/atv2-at.png"
+    "xmltv_id": "ATV2.at@SD"
   },
   {
     "site_id": "br",
@@ -58,8 +56,7 @@
     "site_id": "dazn",
     "name": "DAZN",
     "lang": "de",
-    "xmltv_id": "DAZN1.uk@Germany",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dazn1-uk.png"
+    "xmltv_id": "DAZN1.uk@Germany"
   },
   {
     "site_id": "disney",
@@ -79,7 +76,8 @@
     "site_id": "euro",
     "name": "EURO",
     "lang": "de",
-    "xmltv_id": "Eurosport1.fr@Germany"
+    "xmltv_id": "Eurosport1.fr@Germany",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "hr",
@@ -148,15 +146,13 @@
     "site_id": "orf1",
     "name": "ORF1",
     "lang": "de",
-    "xmltv_id": "ORF1.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/orf1-at.png"
+    "xmltv_id": "ORF1.at@SD"
   },
   {
     "site_id": "orf2",
     "name": "ORF2",
     "lang": "de",
-    "xmltv_id": "ORF2.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/orf2-at.png"
+    "xmltv_id": "ORF2.at@SD"
   },
   {
     "site_id": "orf_+",
@@ -188,8 +184,7 @@
     "site_id": "puls_4",
     "name": "PULS 4",
     "lang": "de",
-    "xmltv_id": "Puls4.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/puls4-at.png"
+    "xmltv_id": "Puls4.at@SD"
   },
   {
     "site_id": "rbb",
@@ -263,7 +258,8 @@
     "site_id": "skyaut",
     "name": "SKYaut",
     "lang": "de",
-    "xmltv_id": "SkySportAustria1.at@SD"
+    "xmltv_id": "SkySportAustria1.at@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/sky-sport-austria-1-at.png"
   },
   {
     "site_id": "skybl",
@@ -293,8 +289,7 @@
     "site_id": "sport1",
     "name": "Sport1",
     "lang": "de",
-    "xmltv_id": "Sport1.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sport1-de.png"
+    "xmltv_id": "Sport1.de@SD"
   },
   {
     "site_id": "swr",
@@ -306,7 +301,8 @@
     "site_id": "tele_5",
     "name": "Tele 5",
     "lang": "de",
-    "xmltv_id": "TELE5.de@SD"
+    "xmltv_id": "TELE5.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/tele-5-de.png"
   },
   {
     "site_id": "vox",

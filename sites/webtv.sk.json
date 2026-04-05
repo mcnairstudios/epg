@@ -34,13 +34,15 @@
     "site_id": "arena_sport_1",
     "name": "Arena Sport 1",
     "lang": "sk",
-    "xmltv_id": "ArenaSport1.rs@SD"
+    "xmltv_id": "ArenaSport1.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-1-rs.png"
   },
   {
     "site_id": "arena_sport_2",
     "name": "Arena Sport 2",
     "lang": "sk",
-    "xmltv_id": "ArenaSport2.rs@SD"
+    "xmltv_id": "ArenaSport2.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-2-rs.png"
   },
   {
     "site_id": "arirang_tv",
@@ -155,22 +157,19 @@
     "site_id": "ct_1",
     "name": "ČT1",
     "lang": "sk",
-    "xmltv_id": "CT1.cz@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/ct1-cz.png"
+    "xmltv_id": "CT1.cz@SD"
   },
   {
     "site_id": "ct_2",
     "name": "ČT2",
     "lang": "sk",
-    "xmltv_id": "CT2.cz@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/ct2-cz.png"
+    "xmltv_id": "CT2.cz@SD"
   },
   {
     "site_id": "ct_24",
     "name": "ČT24",
     "lang": "sk",
-    "xmltv_id": "CT24.cz@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/ct24-cz.png"
+    "xmltv_id": "CT24.cz@SD"
   },
   {
     "site_id": "ct_detem_ct_art",
@@ -275,13 +274,15 @@
     "site_id": "eurosport_1",
     "name": "Eurosport 1",
     "lang": "sk",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "eurosport_2",
     "name": "Eurosport 2",
     "lang": "sk",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "fashion_tv",
@@ -374,13 +375,15 @@
     "site_id": "france24",
     "name": "France 24",
     "lang": "sk",
-    "xmltv_id": "France24.fr"
+    "xmltv_id": "France24.fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "france_24_english",
     "name": "France 24 English",
     "lang": "sk",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "golf_channel",
@@ -466,7 +469,8 @@
     "site_id": "joj_24",
     "name": "JOJ 24",
     "lang": "sk",
-    "xmltv_id": "JOJ24.sk@SD"
+    "xmltv_id": "JOJ24.sk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/slovakia/joj-24-sk.png"
   },
   {
     "site_id": "joj_cinema",
@@ -506,7 +510,8 @@
     "site_id": "joj_sport_2",
     "name": "JOJ Šport 2",
     "lang": "sk",
-    "xmltv_id": "JOJSport2.sk"
+    "xmltv_id": "JOJSport2.sk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/slovakia/joj-sport-2-sk.png"
   },
   {
     "site_id": "joj_svet",
@@ -694,13 +699,15 @@
     "site_id": "nova_sport_1_hd",
     "name": "Nova Sport 1",
     "lang": "sk",
-    "xmltv_id": "NovaSport1.cz@SD"
+    "xmltv_id": "NovaSport1.cz@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/nova-sport-1-cz.png"
   },
   {
     "site_id": "nova_sport_2_hd",
     "name": "Nova Sport 2",
     "lang": "sk",
-    "xmltv_id": "NovaSport2.cz@SD"
+    "xmltv_id": "NovaSport2.cz@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/czech-republic/nova-sport-2-cz.png"
   },
   {
     "site_id": "nrsr_tv",
@@ -808,13 +815,15 @@
     "site_id": "rai_tre",
     "name": "Rai Tre",
     "lang": "sk",
-    "xmltv_id": "Rai3.it@HD"
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "rai_uno",
     "name": "Rai Uno",
     "lang": "sk",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "regio_tv",
@@ -965,8 +974,7 @@
     "site_id": "ta_3",
     "name": "TA3",
     "lang": "sk",
-    "xmltv_id": "TA3.sk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/slovakia/ta3-sk.png"
+    "xmltv_id": "TA3.sk@SD"
   },
   {
     "site_id": "tanecnesutaze",

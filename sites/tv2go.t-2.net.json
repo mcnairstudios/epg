@@ -64,8 +64,7 @@
     "site_id": "60",
     "name": "SPORT1",
     "lang": "sl",
-    "xmltv_id": "Sport1.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sport1-de.png"
+    "xmltv_id": "Sport1.de@SD"
   },
   {
     "site_id": "61",
@@ -77,8 +76,7 @@
     "site_id": "66",
     "name": "ORF1",
     "lang": "sl",
-    "xmltv_id": "ORF1.at@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/austria/orf1-at.png"
+    "xmltv_id": "ORF1.at@SD"
   },
   {
     "site_id": "67",
@@ -111,7 +109,8 @@
     "site_id": "72",
     "name": "SAT1",
     "lang": "sl",
-    "xmltv_id": "SAT1.de@SD"
+    "xmltv_id": "SAT1.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
   },
   {
     "site_id": "73",
@@ -157,13 +156,15 @@
     "site_id": "105",
     "name": "HRT 1",
     "lang": "sl",
-    "xmltv_id": "HRT1.hr@SD"
+    "xmltv_id": "HRT1.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-1-hr.png"
   },
   {
     "site_id": "106",
     "name": "HRT 2",
     "lang": "sl",
-    "xmltv_id": "HRT2.hr@SD"
+    "xmltv_id": "HRT2.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-2-hr.png"
   },
   {
     "site_id": "107",
@@ -243,8 +244,7 @@
     "site_id": "151",
     "name": "Z1 televizija",
     "lang": "sl",
-    "xmltv_id": "Z1.hr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/z1-hr.png"
+    "xmltv_id": "Z1.hr@SD"
   },
   {
     "site_id": "152",
@@ -268,8 +268,7 @@
     "site_id": "1000010",
     "name": "Viasat Kino",
     "lang": "sl",
-    "xmltv_id": "vijuTV1000.ru@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/russia/viju-tv1000-ru.png"
+    "xmltv_id": "vijuTV1000.ru@SD"
   },
   {
     "site_id": "1000018",
@@ -281,7 +280,8 @@
     "site_id": "1000025",
     "name": "Eurosport",
     "lang": "sl",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "1000026",
@@ -315,7 +315,8 @@
     "site_id": "1000044",
     "name": "Eurosport (NEM)",
     "lang": "sl",
-    "xmltv_id": "Eurosport1.fr@Germany"
+    "xmltv_id": "Eurosport1.fr@Germany",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "1000045",
@@ -346,8 +347,7 @@
     "site_id": "1000050",
     "name": "M2",
     "lang": "sl",
-    "xmltv_id": "M2.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m2-hu.png"
+    "xmltv_id": "M2.hu@SD"
   },
   {
     "site_id": "1000055",
@@ -497,13 +497,15 @@
     "site_id": "1000158",
     "name": "France 24 French",
     "lang": "sl",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "1000159",
     "name": "France 24 English",
     "lang": "sl",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "1000167",
@@ -596,8 +598,7 @@
     "site_id": "1000207",
     "name": "B92",
     "lang": "sl",
-    "xmltv_id": "B92.rs@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/b92-rs.png"
+    "xmltv_id": "B92.rs@SD"
   },
   {
     "site_id": "1000209",
@@ -616,15 +617,13 @@
     "site_id": "1000211",
     "name": "RTS 1",
     "lang": "sl",
-    "xmltv_id": "RTS1.rs@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rts1-rs.png"
+    "xmltv_id": "RTS1.rs@SD"
   },
   {
     "site_id": "1000212",
     "name": "RTS 2",
     "lang": "sl",
-    "xmltv_id": "RTS2.rs@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/rts2-rs.png"
+    "xmltv_id": "RTS2.rs@SD"
   },
   {
     "site_id": "1000216",
@@ -871,8 +870,7 @@
     "site_id": "1000322",
     "name": "RTL 2 HR",
     "lang": "sl",
-    "xmltv_id": "RTL2.hr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/rtl2-hr.png"
+    "xmltv_id": "RTL2.hr@SD"
   },
   {
     "site_id": "1000323",
@@ -1001,8 +999,7 @@
     "site_id": "1000405",
     "name": "TV 8",
     "lang": "sl",
-    "xmltv_id": "TV8.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/tv8-it.png"
+    "xmltv_id": "TV8.it@SD"
   },
   {
     "site_id": "1000407",
@@ -1183,7 +1180,8 @@
     "site_id": "1000504",
     "name": "Eurosport 2",
     "lang": "sl",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "1000507",
@@ -1208,8 +1206,7 @@
     "site_id": "1000510",
     "name": "TV 3",
     "lang": "sl",
-    "xmltv_id": "TV3.si@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/slovenia/tv3-si.png"
+    "xmltv_id": "TV3.si@SD"
   },
   {
     "site_id": "1000511",
@@ -1406,32 +1403,35 @@
     "site_id": "1000625",
     "name": "RAI 1",
     "lang": "sl",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "1000626",
     "name": "RAI 2",
     "lang": "sl",
-    "xmltv_id": "Rai2.it@SD"
+    "xmltv_id": "Rai2.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-2-it.png"
   },
   {
     "site_id": "1000627",
     "name": "RAI 3",
     "lang": "sl",
-    "xmltv_id": "Rai3.it@HD"
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "1000639",
     "name": "FR2",
     "lang": "sl",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "1000640",
     "name": "3SAT",
     "lang": "sl",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "1000641",
@@ -1467,8 +1467,7 @@
     "site_id": "1000647",
     "name": "M1",
     "lang": "sl",
-    "xmltv_id": "M1.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m1-hu.png"
+    "xmltv_id": "M1.hu@SD"
   },
   {
     "site_id": "1000648",
@@ -1481,8 +1480,7 @@
     "site_id": "1000650",
     "name": "M5",
     "lang": "sl",
-    "xmltv_id": "M5.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m5-hu.png"
+    "xmltv_id": "M5.hu@SD"
   },
   {
     "site_id": "1000652",
@@ -1533,13 +1531,15 @@
     "site_id": "1000688",
     "name": "Arena Sport 1",
     "lang": "sl",
-    "xmltv_id": "ArenaSport1.rs@SD"
+    "xmltv_id": "ArenaSport1.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-1-rs.png"
   },
   {
     "site_id": "1000689",
     "name": "Arena Sport 2",
     "lang": "sl",
-    "xmltv_id": "ArenaSport2.rs@SD"
+    "xmltv_id": "ArenaSport2.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-2-rs.png"
   },
   {
     "site_id": "1000727",
@@ -1627,13 +1627,15 @@
     "site_id": "1000787",
     "name": "Arena Sport 3",
     "lang": "sl",
-    "xmltv_id": "ArenaSport3.rs@SD"
+    "xmltv_id": "ArenaSport3.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-3-rs.png"
   },
   {
     "site_id": "1000788",
     "name": "Arena Sport 4",
     "lang": "sl",
-    "xmltv_id": "ArenaSport4.rs@SD"
+    "xmltv_id": "ArenaSport4.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/arena-sport-4-rs.png"
   },
   {
     "site_id": "1000789",
@@ -1672,7 +1674,8 @@
     "site_id": "1000796",
     "name": "Happy Reality 2",
     "lang": "sl",
-    "xmltv_id": "HappyReality2.rs@SD"
+    "xmltv_id": "HappyReality2.rs@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/happy-reality-2-rs.png"
   },
   {
     "site_id": "1000797",
@@ -1853,8 +1856,7 @@
     "site_id": "1000835",
     "name": "Prva TV",
     "lang": "sl",
-    "xmltv_id": "TV3.si",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/slovenia/tv3-si.png"
+    "xmltv_id": "TV3.si"
   },
   {
     "site_id": "1000868",

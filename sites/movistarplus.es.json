@@ -28,7 +28,8 @@
     "site_id": "a3",
     "name": "Antena 3",
     "lang": "es",
-    "xmltv_id": "Antena3.es@SD"
+    "xmltv_id": "Antena3.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/antena-3-es.png"
   },
   {
     "site_id": "aljaze",
@@ -80,7 +81,8 @@
     "site_id": "arthur",
     "name": "M+ Deportes 2",
     "lang": "es",
-    "xmltv_id": "Deportes2porMovistarPlus.es"
+    "xmltv_id": "Deportes2porMovistarPlus.es",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/deportes-2-por-movistar-plus-es.png"
   },
   {
     "site_id": "atress",
@@ -396,8 +398,7 @@
     "site_id": "cyltv",
     "name": "La 7",
     "lang": "es",
-    "xmltv_id": "La7.es",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/la7-es.png"
+    "xmltv_id": "La7.es"
   },
   {
     "site_id": "dayst",
@@ -493,19 +494,22 @@
     "site_id": "esp",
     "name": "Eurosport 1",
     "lang": "es",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "esp2",
     "name": "Eurosport 2",
     "lang": "es",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "esp3",
     "name": "Esport 3",
     "lang": "es",
-    "xmltv_id": "Esport3.es@SD"
+    "xmltv_id": "Esport3.es@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/esport-3-es.png"
   },
   {
     "site_id": "esp4k",
@@ -524,22 +528,19 @@
     "site_id": "etb1",
     "name": "ETB 1",
     "lang": "es",
-    "xmltv_id": "ETB1.es@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/etb1-es.png"
+    "xmltv_id": "ETB1.es@SD"
   },
   {
     "site_id": "etb2",
     "name": "ETB 2",
     "lang": "es",
-    "xmltv_id": "ETB2.es@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/etb2-es.png"
+    "xmltv_id": "ETB2.es@SD"
   },
   {
     "site_id": "etb3",
     "name": "ETB 3",
     "lang": "es",
-    "xmltv_id": "ETB3.es@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/etb3-es.png"
+    "xmltv_id": "ETB3.es@SD"
   },
   {
     "site_id": "ewtn",
@@ -576,7 +577,8 @@
     "site_id": "france",
     "name": "FRANCE24 (FR)",
     "lang": "es",
-    "xmltv_id": "France24.fr@SD"
+    "xmltv_id": "France24.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "futrep",
@@ -626,8 +628,7 @@
     "site_id": "ib3",
     "name": "IB3",
     "lang": "es",
-    "xmltv_id": "IB3.es",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/ib3-es.png"
+    "xmltv_id": "IB3.es"
   },
   {
     "site_id": "iberal",
@@ -1050,15 +1051,13 @@
     "site_id": "tv5",
     "name": "TV5MONDE",
     "lang": "es",
-    "xmltv_id": "TV5Monde.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tv5-monde-fr.png"
+    "xmltv_id": "TV5Monde.fr@SD"
   },
   {
     "site_id": "tvc",
     "name": "TV3 Cat",
     "lang": "es",
-    "xmltv_id": "TV3CAT.es@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/tv3-cat-es.png"
+    "xmltv_id": "TV3CAT.es@SD"
   },
   {
     "site_id": "tve",

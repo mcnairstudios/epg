@@ -3,8 +3,7 @@
     "site_id": "3sat",
     "name": "3sat",
     "lang": "ro",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "24-mix-teleshop",
@@ -28,8 +27,7 @@
     "site_id": "a7tv",
     "name": "A7TV",
     "lang": "ro",
-    "xmltv_id": "A7TV.ro@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/a7-tv-ro.png"
+    "xmltv_id": "A7TV.ro@SD"
   },
   {
     "site_id": "acasa",
@@ -119,25 +117,29 @@
     "site_id": "antena-1",
     "name": "Antena 1",
     "lang": "ro",
-    "xmltv_id": "Antena1.ro@SD"
+    "xmltv_id": "Antena1.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/antena-1-ro.png"
   },
   {
     "site_id": "antena-1-hd",
     "name": "Antena 1 HD",
     "lang": "ro",
-    "xmltv_id": "Antena1.ro@SD"
+    "xmltv_id": "Antena1.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/antena-1-ro.png"
   },
   {
     "site_id": "antena-3-cnn",
     "name": "Antena 3 CNN",
     "lang": "ro",
-    "xmltv_id": "Antena3CNN.ro"
+    "xmltv_id": "Antena3CNN.ro",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/antena-3-cnn-ro.png"
   },
   {
     "site_id": "antena-3-cnn-hd",
     "name": "Antena 3 CNN HD",
     "lang": "ro",
-    "xmltv_id": "Antena3CNN.ro"
+    "xmltv_id": "Antena3CNN.ro",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/antena-3-cnn-ro.png"
   },
   {
     "site_id": "antena-international",
@@ -451,13 +453,15 @@
     "site_id": "digi-24",
     "name": "Digi 24",
     "lang": "ro",
-    "xmltv_id": "Digi24.ro@SD"
+    "xmltv_id": "Digi24.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/digi-24-ro.png"
   },
   {
     "site_id": "digi-24-hd",
     "name": "Digi 24 HD",
     "lang": "ro",
-    "xmltv_id": "Digi24.ro@SD"
+    "xmltv_id": "Digi24.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/digi-24-ro.png"
   },
   {
     "site_id": "digi-animal-world",
@@ -491,43 +495,50 @@
     "site_id": "digi-sport-1",
     "name": "Digi Sport 1",
     "lang": "ro",
-    "xmltv_id": "DigiSport1.ro@SD"
+    "xmltv_id": "DigiSport1.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/digi-sport-1-ro.png"
   },
   {
     "site_id": "digi-sport-1-hd",
     "name": "Digi Sport 1 HD",
     "lang": "ro",
-    "xmltv_id": "DigiSport1.ro@SD"
+    "xmltv_id": "DigiSport1.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/digi-sport-1-ro.png"
   },
   {
     "site_id": "digi-sport-2",
     "name": "Digi Sport 2",
     "lang": "ro",
-    "xmltv_id": "DigiSport2.ro@SD"
+    "xmltv_id": "DigiSport2.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/digi-sport-2-ro.png"
   },
   {
     "site_id": "digi-sport-2-hd",
     "name": "Digi Sport 2 HD",
     "lang": "ro",
-    "xmltv_id": "DigiSport2.ro@SD"
+    "xmltv_id": "DigiSport2.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/digi-sport-2-ro.png"
   },
   {
     "site_id": "digi-sport-3",
     "name": "Digi Sport 3",
     "lang": "ro",
-    "xmltv_id": "DigiSport3.ro@SD"
+    "xmltv_id": "DigiSport3.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/digi-sport-3-ro.png"
   },
   {
     "site_id": "digi-sport-3-hd",
     "name": "Digi Sport 3 HD",
     "lang": "ro",
-    "xmltv_id": "DigiSport3.ro@SD"
+    "xmltv_id": "DigiSport3.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/digi-sport-3-ro.png"
   },
   {
     "site_id": "digi-sport-4",
     "name": "Digi Sport 4",
     "lang": "ro",
-    "xmltv_id": "DigiSport4.ro@SD"
+    "xmltv_id": "DigiSport4.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/digi-sport-4-ro.png"
   },
   {
     "site_id": "digi-world",
@@ -696,25 +707,29 @@
     "site_id": "eurosport-1",
     "name": "Eurosport 1",
     "lang": "ro",
-    "xmltv_id": "Eurosport1.fr@Romania"
+    "xmltv_id": "Eurosport1.fr@Romania",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "eurosport-1-hd",
     "name": "Eurosport 1 HD",
     "lang": "ro",
-    "xmltv_id": "Eurosport1.fr@Romania"
+    "xmltv_id": "Eurosport1.fr@Romania",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "eurosport-2",
     "name": "Eurosport 2",
     "lang": "ro",
-    "xmltv_id": "Eurosport2.fr@Romania"
+    "xmltv_id": "Eurosport2.fr@Romania",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "eurosport-2-hd",
     "name": "Eurosport 2 HD",
     "lang": "ro",
-    "xmltv_id": "Eurosport2.fr@Romania"
+    "xmltv_id": "Eurosport2.fr@Romania",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "eurosport-4k",
@@ -770,7 +785,8 @@
     "site_id": "film4",
     "name": "Film4",
     "lang": "ro",
-    "xmltv_id": "Film4.uk@SD"
+    "xmltv_id": "Film4.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/film-4-uk.png"
   },
   {
     "site_id": "film-cafe",
@@ -852,31 +868,36 @@
     "site_id": "france-2",
     "name": "France 2",
     "lang": "ro",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "france-3",
     "name": "France 3",
     "lang": "ro",
-    "xmltv_id": "France3.fr@SD"
+    "xmltv_id": "France3.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "france-5",
     "name": "France 5",
     "lang": "ro",
-    "xmltv_id": "France5.fr@SD"
+    "xmltv_id": "France5.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-5-fr.png"
   },
   {
     "site_id": "france-24",
     "name": "France 24",
     "lang": "ro",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "france-24-en",
     "name": "France 24 En",
     "lang": "ro",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "fuel-tv-hd",
@@ -894,8 +915,7 @@
     "site_id": "galaxy4",
     "name": "Galaxy4",
     "lang": "ro",
-    "xmltv_id": "Galaxy4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/galaxy4-hu.png"
+    "xmltv_id": "Galaxy4.hu@SD"
   },
   {
     "site_id": "gametoon-hd",
@@ -934,29 +954,25 @@
     "site_id": "hbo-2",
     "name": "HBO 2",
     "lang": "ro",
-    "xmltv_id": "HBO2.ro@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/hbo2-ro.png"
+    "xmltv_id": "HBO2.ro@SD"
   },
   {
     "site_id": "hbo-2-hd",
     "name": "HBO 2 HD",
     "lang": "ro",
-    "xmltv_id": "HBO2.ro@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/hbo2-ro.png"
+    "xmltv_id": "HBO2.ro@SD"
   },
   {
     "site_id": "hbo-3",
     "name": "HBO 3",
     "lang": "ro",
-    "xmltv_id": "HBO3.ro@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/hbo3-ro.png"
+    "xmltv_id": "HBO3.ro@SD"
   },
   {
     "site_id": "hbo-3-hd",
     "name": "HBO 3 HD",
     "lang": "ro",
-    "xmltv_id": "HBO3.ro@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/hbo3-ro.png"
+    "xmltv_id": "HBO3.ro@SD"
   },
   {
     "site_id": "hbo-hd",
@@ -1095,29 +1111,25 @@
     "site_id": "m1",
     "name": "M1",
     "lang": "ro",
-    "xmltv_id": "M1.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m1-hu.png"
+    "xmltv_id": "M1.hu@SD"
   },
   {
     "site_id": "m2",
     "name": "M2",
     "lang": "ro",
-    "xmltv_id": "M2.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m2-hu.png"
+    "xmltv_id": "M2.hu@SD"
   },
   {
     "site_id": "m4-sport",
     "name": "M4 Sport",
     "lang": "ro",
-    "xmltv_id": "M4Sport.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m4-sport-hu.png"
+    "xmltv_id": "M4Sport.hu@SD"
   },
   {
     "site_id": "m5-hd",
     "name": "M5 HD",
     "lang": "ro",
-    "xmltv_id": "M5.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m5-hu.png"
+    "xmltv_id": "M5.hu@SD"
   },
   {
     "site_id": "magic-tv",
@@ -1310,7 +1322,8 @@
     "site_id": "national-24-plus",
     "name": "National 24 Plus",
     "lang": "ro",
-    "xmltv_id": "National24Plus.ro@SD"
+    "xmltv_id": "National24Plus.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/national-24-plus-ro.png"
   },
   {
     "site_id": "national-geographic",
@@ -1381,25 +1394,29 @@
     "site_id": "orange-sport-1-hd",
     "name": "Orange Sport 1 HD",
     "lang": "ro",
-    "xmltv_id": "OrangeSport1.ro@SD"
+    "xmltv_id": "OrangeSport1.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/orange-sport-1-ro.png"
   },
   {
     "site_id": "orange-sport-2-hd",
     "name": "Orange Sport 2 HD",
     "lang": "ro",
-    "xmltv_id": "OrangeSport2.ro@SD"
+    "xmltv_id": "OrangeSport2.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/orange-sport-2-ro.png"
   },
   {
     "site_id": "orange-sport-3-hd",
     "name": "Orange Sport 3 HD",
     "lang": "ro",
-    "xmltv_id": "OrangeSport3.ro@SD"
+    "xmltv_id": "OrangeSport3.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/orange-sport-3-ro.png"
   },
   {
     "site_id": "orange-sport-4-hd",
     "name": "Orange Sport 4 HD",
     "lang": "ro",
-    "xmltv_id": "OrangeSport4.ro@SD"
+    "xmltv_id": "OrangeSport4.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/orange-sport-4-ro.png"
   },
   {
     "site_id": "orizont-tv",
@@ -1444,61 +1461,71 @@
     "site_id": "prima-sport-1",
     "name": "Prima Sport 1",
     "lang": "ro",
-    "xmltv_id": "PrimaSport1.ro@SD"
+    "xmltv_id": "PrimaSport1.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/prima-sport-1-ro.png"
   },
   {
     "site_id": "prima-sport-1-hd",
     "name": "Prima Sport 1 HD",
     "lang": "ro",
-    "xmltv_id": "PrimaSport1.ro@SD"
+    "xmltv_id": "PrimaSport1.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/prima-sport-1-ro.png"
   },
   {
     "site_id": "prima-sport-2",
     "name": "Prima Sport 2",
     "lang": "ro",
-    "xmltv_id": "PrimaSport2.ro@SD"
+    "xmltv_id": "PrimaSport2.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/prima-sport-2-ro.png"
   },
   {
     "site_id": "prima-sport-2-hd",
     "name": "Prima Sport 2 HD",
     "lang": "ro",
-    "xmltv_id": "PrimaSport2.ro@SD"
+    "xmltv_id": "PrimaSport2.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/prima-sport-2-ro.png"
   },
   {
     "site_id": "prima-sport-3",
     "name": "Prima Sport 3",
     "lang": "ro",
-    "xmltv_id": "PrimaSport3.ro@SD"
+    "xmltv_id": "PrimaSport3.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/prima-sport-3-ro.png"
   },
   {
     "site_id": "prima-sport-3-hd",
     "name": "Prima Sport 3 HD",
     "lang": "ro",
-    "xmltv_id": "PrimaSport3.ro@SD"
+    "xmltv_id": "PrimaSport3.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/prima-sport-3-ro.png"
   },
   {
     "site_id": "prima-sport-4",
     "name": "Prima Sport 4",
     "lang": "ro",
-    "xmltv_id": "PrimaSport4.ro@SD"
+    "xmltv_id": "PrimaSport4.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/prima-sport-4-ro.png"
   },
   {
     "site_id": "prima-sport-4-hd",
     "name": "Prima Sport 4 HD",
     "lang": "ro",
-    "xmltv_id": "PrimaSport4.ro@SD"
+    "xmltv_id": "PrimaSport4.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/prima-sport-4-ro.png"
   },
   {
     "site_id": "prima-sport-5",
     "name": "Prima Sport 5",
     "lang": "ro",
-    "xmltv_id": "PrimaSport5.ro"
+    "xmltv_id": "PrimaSport5.ro",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/prima-sport-5-ro.png"
   },
   {
     "site_id": "prima-sport-5-hd",
     "name": "Prima Sport 5 HD",
     "lang": "ro",
-    "xmltv_id": "PrimaSport5.ro"
+    "xmltv_id": "PrimaSport5.ro",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/prima-sport-5-ro.png"
   },
   {
     "site_id": "prima-tv",
@@ -1590,19 +1617,22 @@
     "site_id": "rai-1",
     "name": "Rai 1",
     "lang": "it",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "rai-2",
     "name": "Rai 2",
     "lang": "it",
-    "xmltv_id": "Rai2.it@SD"
+    "xmltv_id": "Rai2.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-2-it.png"
   },
   {
     "site_id": "rai-3",
     "name": "Rai 3",
     "lang": "it",
-    "xmltv_id": "Rai3.it@HD"
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "realitatea-plus",
@@ -1697,7 +1727,8 @@
     "site_id": "sat-1",
     "name": "Sat 1",
     "lang": "ro",
-    "xmltv_id": "SAT1.de@SD"
+    "xmltv_id": "SAT1.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
   },
   {
     "site_id": "shop-on-tv-hd",
@@ -1769,8 +1800,7 @@
     "site_id": "story4",
     "name": "Story4",
     "lang": "ro",
-    "xmltv_id": "Story4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/story4-hu.png"
+    "xmltv_id": "Story4.hu@SD"
   },
   {
     "site_id": "super-rtl",
@@ -1880,8 +1910,7 @@
     "site_id": "tv4",
     "name": "TV4",
     "lang": "ro",
-    "xmltv_id": "TV4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv4-hu.png"
+    "xmltv_id": "TV4.hu@SD"
   },
   {
     "site_id": "tv5-monde-europe",
@@ -1893,8 +1922,7 @@
     "site_id": "tv1000",
     "name": "TV1000",
     "lang": "ro",
-    "xmltv_id": "vijuTV1000.ru@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/russia/viju-tv1000-ru.png"
+    "xmltv_id": "vijuTV1000.ru@SD"
   },
   {
     "site_id": "tv1000-russian-kino",
@@ -1931,31 +1959,36 @@
     "site_id": "tvr-1",
     "name": "TVR 1",
     "lang": "ro",
-    "xmltv_id": "TVR1.ro@SD"
+    "xmltv_id": "TVR1.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/tvr-1-ro.png"
   },
   {
     "site_id": "tvr-1-hd",
     "name": "TVR 1 HD",
     "lang": "ro",
-    "xmltv_id": "TVR1.ro@SD"
+    "xmltv_id": "TVR1.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/tvr-1-ro.png"
   },
   {
     "site_id": "tvr-2",
     "name": "TVR 2",
     "lang": "ro",
-    "xmltv_id": "TVR2.ro@SD"
+    "xmltv_id": "TVR2.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/tvr-2-ro.png"
   },
   {
     "site_id": "tvr-2-hd",
     "name": "TVR 2 HD",
     "lang": "ro",
-    "xmltv_id": "TVR2.ro@SD"
+    "xmltv_id": "TVR2.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/tvr-2-ro.png"
   },
   {
     "site_id": "tvr-3",
     "name": "TVR 3",
     "lang": "ro",
-    "xmltv_id": "TVR3.ro@SD"
+    "xmltv_id": "TVR3.ro@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/romania/tvr-3-ro.png"
   },
   {
     "site_id": "tvr-cluj",

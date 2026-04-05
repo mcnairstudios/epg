@@ -148,8 +148,7 @@
     "site_id": "5585",
     "name": "Canal 11",
     "lang": "pt",
-    "xmltv_id": "Canal11.pt@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/canal11-pt.png"
+    "xmltv_id": "Canal11.pt@SD"
   },
   {
     "site_id": "2814",
@@ -246,8 +245,7 @@
     "site_id": "3885",
     "name": "DAZN 1",
     "lang": "pt",
-    "xmltv_id": "DAZN1.uk@Portugal",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dazn1-uk.png"
+    "xmltv_id": "DAZN1.uk@Portugal"
   },
   {
     "site_id": "3886",
@@ -338,13 +336,15 @@
     "site_id": "2675",
     "name": "Eurosport 1",
     "lang": "pt",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "5043",
     "name": "Eurosport 2",
     "lang": "pt",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "2706",
@@ -381,13 +381,15 @@
     "site_id": "2769",
     "name": "France 24 English",
     "lang": "pt",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "2770",
     "name": "France 24 Français",
     "lang": "pt",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "5610",
@@ -467,8 +469,7 @@
     "site_id": "2856",
     "name": "M6",
     "lang": "pt",
-    "xmltv_id": "M6.fr@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/m6-fr.png"
+    "xmltv_id": "M6.fr@HD"
   },
   {
     "site_id": "8646",
@@ -588,13 +589,15 @@
     "site_id": "2772",
     "name": "Rai 1",
     "lang": "pt",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "2773",
     "name": "Rai News",
     "lang": "pt",
-    "xmltv_id": "RaiNews24.it@SD"
+    "xmltv_id": "RaiNews24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-news-24-it.png"
   },
   {
     "site_id": "2812",
@@ -633,13 +636,15 @@
     "site_id": "3028",
     "name": "RTP1",
     "lang": "pt",
-    "xmltv_id": "RTP1.pt@SD"
+    "xmltv_id": "RTP1.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/rtp-1-pt.png"
   },
   {
     "site_id": "2825",
     "name": "RTP2",
     "lang": "pt",
-    "xmltv_id": "RTP2.pt@SD"
+    "xmltv_id": "RTP2.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/rtp-2-pt.png"
   },
   {
     "site_id": "7084",
@@ -740,37 +745,43 @@
     "site_id": "2687",
     "name": "SportTV1",
     "lang": "pt",
-    "xmltv_id": "SportTV1.pt@SD"
+    "xmltv_id": "SportTV1.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/sport-tv-1-pt.png"
   },
   {
     "site_id": "2688",
     "name": "SportTV2",
     "lang": "pt",
-    "xmltv_id": "SportTV2.pt@SD"
+    "xmltv_id": "SportTV2.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/sport-tv-2-pt.png"
   },
   {
     "site_id": "2689",
     "name": "SportTV3",
     "lang": "pt",
-    "xmltv_id": "SportTV3.pt@SD"
+    "xmltv_id": "SportTV3.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/sport-tv-3-pt.png"
   },
   {
     "site_id": "2690",
     "name": "SportTV4",
     "lang": "pt",
-    "xmltv_id": "SportTV4.pt@SD"
+    "xmltv_id": "SportTV4.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/sport-tv-4-pt.png"
   },
   {
     "site_id": "2691",
     "name": "SportTV5",
     "lang": "pt",
-    "xmltv_id": "SportTV5.pt@SD"
+    "xmltv_id": "SportTV5.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/sport-tv-5-pt.png"
   },
   {
     "site_id": "7250",
     "name": "SportTV6",
     "lang": "pt",
-    "xmltv_id": "SportTV6.pt@SD"
+    "xmltv_id": "SportTV6.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/sport-tv-6-pt.png"
   },
   {
     "site_id": "8743",

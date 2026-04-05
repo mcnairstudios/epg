@@ -323,7 +323,8 @@
     "site_id": "france-24",
     "name": "France 24",
     "lang": "fr",
-    "xmltv_id": "France24.fr@SD"
+    "xmltv_id": "France24.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "gold-hd",
@@ -390,7 +391,8 @@
     "site_id": "kanal-7",
     "name": "Kanal 7",
     "lang": "tr",
-    "xmltv_id": "Kanal7.tr@SD"
+    "xmltv_id": "Kanal7.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kanal-7-tr.png"
   },
   {
     "site_id": "kanal-10",
@@ -1017,7 +1019,8 @@
     "site_id": "trt-1",
     "name": "TRT 1",
     "lang": "tr",
-    "xmltv_id": "TRT1.tr@SD"
+    "xmltv_id": "TRT1.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-1-tr.png"
   },
   {
     "site_id": "trt-belgesel",
@@ -1084,8 +1087,7 @@
     "site_id": "tv-4",
     "name": "TV 4",
     "lang": "tr",
-    "xmltv_id": "TV4.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tv4-tr.png"
+    "xmltv_id": "TV4.tr@SD"
   },
   {
     "site_id": "tv-5-monde",

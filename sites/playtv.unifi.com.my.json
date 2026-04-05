@@ -22,15 +22,13 @@
     "site_id": "20000009",
     "name": "TV1",
     "lang": "my",
-    "xmltv_id": "TV1.my@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/tv1-my.png"
+    "xmltv_id": "TV1.my@SD"
   },
   {
     "site_id": "20000011",
     "name": "TV3",
     "lang": "my",
-    "xmltv_id": "TV3.my@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/tv3-my.png"
+    "xmltv_id": "TV3.my@SD"
   },
   {
     "site_id": "20000012",
@@ -69,8 +67,7 @@
     "site_id": "20000020",
     "name": "TV9",
     "lang": "my",
-    "xmltv_id": "TV9.my@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/tv9-my.png"
+    "xmltv_id": "TV9.my@SD"
   },
   {
     "site_id": "20000021",
@@ -94,15 +91,13 @@
     "site_id": "20000031",
     "name": "DidikTV KPM",
     "lang": "my",
-    "xmltv_id": "NTV7.my@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/ntv7-my.png"
+    "xmltv_id": "NTV7.my@SD"
   },
   {
     "site_id": "20000036",
     "name": "TV2",
     "lang": "my",
-    "xmltv_id": "TV2.my@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/tv2-my.png"
+    "xmltv_id": "TV2.my@SD"
   },
   {
     "site_id": "20000038",
@@ -375,7 +370,8 @@
     "site_id": "57622577",
     "name": "France 24",
     "lang": "en",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "57623657",

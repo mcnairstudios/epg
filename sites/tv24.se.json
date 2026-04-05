@@ -3,8 +3,7 @@
     "site_id": "3sat",
     "name": "3sat",
     "lang": "de",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "al-arabiya",
@@ -439,25 +438,29 @@
     "site_id": "eurosport-1",
     "name": "Eurosport 1",
     "lang": "sv",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "eurosport-1-hd",
     "name": "Eurosport 1 HD",
     "lang": "sv",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "eurosport-2",
     "name": "Eurosport 2",
     "lang": "sv",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "eurosport-2-hd",
     "name": "Eurosport 2 HD",
     "lang": "sv",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "extreme-sports-channel",
@@ -508,25 +511,29 @@
     "site_id": "france-2",
     "name": "France 2",
     "lang": "sv",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "france-2-hd",
     "name": "France 2 HD",
     "lang": "sv",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "france-24",
     "name": "France 24",
     "lang": "fr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "france-24-english-hd",
     "name": "France 24 English HD",
     "lang": "fr",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "freedom",
@@ -635,7 +642,8 @@
     "site_id": "hrt1",
     "name": "HRT1",
     "lang": "sv",
-    "xmltv_id": "HRT1.hr@SD"
+    "xmltv_id": "HRT1.hr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/croatia/hrt-1-hr.png"
   },
   {
     "site_id": "hustler-tv",
@@ -757,13 +765,15 @@
     "site_id": "mbc",
     "name": "MBC",
     "lang": "sv",
-    "xmltv_id": "MBC1.ae@SD"
+    "xmltv_id": "MBC1.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-1-ae.png"
   },
   {
     "site_id": "mbc-1",
     "name": "MBC",
     "lang": "sv",
-    "xmltv_id": "MBC1.ae@SD"
+    "xmltv_id": "MBC1.ae@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-arab-emirates/mbc-1-ae.png"
   },
   {
     "site_id": "mezzo",
@@ -1056,19 +1066,22 @@
     "site_id": "rai-1",
     "name": "Rai 1",
     "lang": "it",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "rai-2",
     "name": "Rai 2",
     "lang": "it",
-    "xmltv_id": "Rai2.it@SD"
+    "xmltv_id": "Rai2.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-2-it.png"
   },
   {
     "site_id": "rai-3",
     "name": "Rai 3",
     "lang": "it",
-    "xmltv_id": "Rai3.it@HD"
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "rt",
@@ -1113,7 +1126,8 @@
     "site_id": "sat1",
     "name": "Sat.1",
     "lang": "sv",
-    "xmltv_id": "Sat1.de@SD"
+    "xmltv_id": "Sat1.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
   },
   {
     "site_id": "sf-kanalen",
@@ -1150,7 +1164,8 @@
     "site_id": "sky-history-2-hd",
     "name": "Sky History 2 HD",
     "lang": "en",
-    "xmltv_id": "SkyHistory2.uk@SD"
+    "xmltv_id": "SkyHistory2.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-history-2-uk.png"
   },
   {
     "site_id": "sky-news",
@@ -1322,13 +1337,15 @@
     "site_id": "trt-1",
     "name": "TRT 1",
     "lang": "sv",
-    "xmltv_id": "TRT1.tr@SD"
+    "xmltv_id": "TRT1.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-1-tr.png"
   },
   {
     "site_id": "trt-1-hd",
     "name": "TRT 1 HD",
     "lang": "sv",
-    "xmltv_id": "TRT1.tr@SD"
+    "xmltv_id": "TRT1.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-1-tr.png"
   },
   {
     "site_id": "trt-turk",
@@ -1468,8 +1485,7 @@
     "site_id": "tv4-hd",
     "name": "TV4 HD",
     "lang": "sv",
-    "xmltv_id": "TV4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv4-hu.png"
+    "xmltv_id": "TV4.hu@SD"
   },
   {
     "site_id": "tv4-hd-text",

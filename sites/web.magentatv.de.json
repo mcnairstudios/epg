@@ -3,7 +3,8 @@
     "site_id": "18",
     "name": "Eurosport 2",
     "lang": "de",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "21",
@@ -44,7 +45,8 @@
     "site_id": "29",
     "name": "Kanal 7",
     "lang": "de",
-    "xmltv_id": "Kanal7.tr@SD"
+    "xmltv_id": "Kanal7.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kanal-7-tr.png"
   },
   {
     "site_id": "31",
@@ -95,14 +97,14 @@
     "site_id": "43",
     "name": "Rai 1",
     "lang": "de",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "44",
     "name": "SPORT1+",
     "lang": "de",
-    "xmltv_id": "Sport1Plus.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sport1-plus-de.png"
+    "xmltv_id": "Sport1Plus.de@SD"
   },
   {
     "site_id": "45",
@@ -114,13 +116,15 @@
     "site_id": "46",
     "name": "Rai 2",
     "lang": "de",
-    "xmltv_id": "Rai2.it@SD"
+    "xmltv_id": "Rai2.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-2-it.png"
   },
   {
     "site_id": "48",
     "name": "TELE 5",
     "lang": "de",
-    "xmltv_id": "TELE5.de@SD"
+    "xmltv_id": "TELE5.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/tele-5-de.png"
   },
   {
     "site_id": "50",
@@ -608,7 +612,8 @@
     "site_id": "210",
     "name": "Rai 3",
     "lang": "de",
-    "xmltv_id": "Rai3.it@HD"
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "211",
@@ -660,7 +665,8 @@
     "site_id": "224",
     "name": "SAT.1 emotions",
     "lang": "de",
-    "xmltv_id": "SAT1emotions.de@SD"
+    "xmltv_id": "SAT1emotions.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-emotions-de.png"
   },
   {
     "site_id": "227",
@@ -837,7 +843,8 @@
     "site_id": "338",
     "name": "SAT.1 GOLD",
     "lang": "de",
-    "xmltv_id": "SAT1Gold.de@SD"
+    "xmltv_id": "SAT1Gold.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-gold-de.png"
   },
   {
     "site_id": "366",
@@ -934,7 +941,8 @@
     "site_id": "381",
     "name": "SAT.1",
     "lang": "de",
-    "xmltv_id": "SAT1.de@SD"
+    "xmltv_id": "SAT1.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
   },
   {
     "site_id": "382",
@@ -980,7 +988,8 @@
     "site_id": "389",
     "name": "Eurosport 1",
     "lang": "de",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "391",
@@ -992,8 +1001,7 @@
     "site_id": "392",
     "name": "3sat",
     "lang": "de",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "393",
@@ -1044,15 +1052,13 @@
     "site_id": "400",
     "name": "tagesschau24",
     "lang": "de",
-    "xmltv_id": "tagesschau24.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/tagesschau24-de.png"
+    "xmltv_id": "tagesschau24.de@SD"
   },
   {
     "site_id": "401",
     "name": "SPORT1",
     "lang": "de",
-    "xmltv_id": "Sport1.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sport1-de.png"
+    "xmltv_id": "Sport1.de@SD"
   },
   {
     "site_id": "402",
@@ -1373,8 +1379,7 @@
     "site_id": "553",
     "name": "N24 Doku",
     "lang": "de",
-    "xmltv_id": "N24Doku.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/n24-doku-de.png"
+    "xmltv_id": "N24Doku.de@SD"
   },
   {
     "site_id": "569",
@@ -1629,8 +1634,7 @@
     "site_id": "3045",
     "name": "OK4",
     "lang": "de",
-    "xmltv_id": "OK4.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/ok4-de.png"
+    "xmltv_id": "OK4.de@SD"
   },
   {
     "site_id": "3073",
@@ -1810,7 +1814,8 @@
     "site_id": "4724",
     "name": "1-2-3.tv",
     "lang": "de",
-    "xmltv_id": "123tv.de@SD"
+    "xmltv_id": "123tv.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/123-tv-de.png"
   },
   {
     "site_id": "4727",
@@ -1945,7 +1950,8 @@
     "site_id": "5176",
     "name": "CHANNEL21",
     "lang": "de",
-    "xmltv_id": "Channel21.de@SD"
+    "xmltv_id": "Channel21.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/channel-21-de.png"
   },
   {
     "site_id": "5206",
@@ -1983,7 +1989,8 @@
     "site_id": "5316",
     "name": "France 24 francais",
     "lang": "de",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "5329",
@@ -2007,7 +2014,8 @@
     "site_id": "5386",
     "name": "France 24 english",
     "lang": "de",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "5387",
@@ -2109,8 +2117,7 @@
     "site_id": "5507",
     "name": "DAZN 1",
     "lang": "de",
-    "xmltv_id": "DAZN1.uk@GermanyHD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dazn1-uk.png"
+    "xmltv_id": "DAZN1.uk@GermanyHD"
   },
   {
     "site_id": "5508",
@@ -2198,13 +2205,15 @@
     "site_id": "6002",
     "name": "France 2",
     "lang": "de",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "6003",
     "name": "France 3",
     "lang": "de",
-    "xmltv_id": "France3.fr@SD"
+    "xmltv_id": "France3.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "6047",

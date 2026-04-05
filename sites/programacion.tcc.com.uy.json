@@ -96,7 +96,8 @@
     "site_id": "270",
     "name": "France 24 HD",
     "lang": "es",
-    "xmltv_id": "France24.fr@Spanish"
+    "xmltv_id": "France24.fr@Spanish",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "271",
@@ -316,7 +317,8 @@
     "site_id": "311",
     "name": "Fox Sports 3 HD",
     "lang": "es",
-    "xmltv_id": "FoxSports3.ar"
+    "xmltv_id": "FoxSports3.ar",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/fox-sports-3-ar.png"
   },
   {
     "site_id": "312",
@@ -329,13 +331,15 @@
     "site_id": "313",
     "name": "ESPN 2 HD",
     "lang": "es",
-    "xmltv_id": "ESPN2.us@SD"
+    "xmltv_id": "ESPN2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-2-us.png"
   },
   {
     "site_id": "314",
     "name": "ESPN 3 HD",
     "lang": "es",
-    "xmltv_id": "ESPN3.us@HD"
+    "xmltv_id": "ESPN3.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-3-us.png"
   },
   {
     "site_id": "315",
@@ -664,7 +668,8 @@
     "site_id": "420",
     "name": "Canal 26",
     "lang": "es",
-    "xmltv_id": "Canal26.ar@SD"
+    "xmltv_id": "Canal26.ar@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/canal-26-ar.png"
   },
   {
     "site_id": "421",
@@ -676,8 +681,7 @@
     "site_id": "422",
     "name": "America 24",
     "lang": "es",
-    "xmltv_id": "A24.ar@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/a24-ar.png"
+    "xmltv_id": "A24.ar@SD"
   },
   {
     "site_id": "423",

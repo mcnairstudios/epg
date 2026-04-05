@@ -200,7 +200,8 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10270",
     "name": "HSN2",
     "lang": "es",
-    "xmltv_id": "HSN2.us@SD"
+    "xmltv_id": "HSN2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hsn-2-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10724",
@@ -328,7 +329,8 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11116",
     "name": "SHO2",
     "lang": "es",
-    "xmltv_id": "Showtime2.us@East"
+    "xmltv_id": "Showtime2.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/showtime-2-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11117",
@@ -399,8 +401,7 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11218",
     "name": "VH1",
     "lang": "es",
-    "xmltv_id": "VH1.us@East",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/vh1-us.png"
+    "xmltv_id": "VH1.us@East"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11221",
@@ -437,7 +438,8 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12444",
     "name": "ESPN2",
     "lang": "es",
-    "xmltv_id": "ESPN2.us@SD"
+    "xmltv_id": "ESPN2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-2-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12508",
@@ -734,7 +736,8 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16361",
     "name": "MTV2",
     "lang": "es",
-    "xmltv_id": "MTV2.us@East"
+    "xmltv_id": "MTV2.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-2-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16365",
@@ -1198,7 +1201,8 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/33178",
     "name": "FS2",
     "lang": "es",
-    "xmltv_id": "FoxSports2.us"
+    "xmltv_id": "FoxSports2.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-sports-2-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/33395",
@@ -1311,8 +1315,7 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/36139",
     "name": "CANAL11",
     "lang": "es",
-    "xmltv_id": "Canal11.pt@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/canal11-pt.png"
+    "xmltv_id": "Canal11.pt@SD"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/36225",
@@ -1387,7 +1390,8 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/45507",
     "name": "ESPN2HD",
     "lang": "es",
-    "xmltv_id": "ESPN2.us@SD"
+    "xmltv_id": "ESPN2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-2-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/45526",
@@ -1609,7 +1613,8 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/55433",
     "name": "MASN2",
     "lang": "es",
-    "xmltv_id": "MASN2.us@SD"
+    "xmltv_id": "MASN2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/masn-2-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/55887",
@@ -2039,8 +2044,7 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60046",
     "name": "VH1HD",
     "lang": "es",
-    "xmltv_id": "VH1.us@East",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/vh1-us.png"
+    "xmltv_id": "VH1.us@East"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60048",
@@ -2998,7 +3002,8 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/78803",
     "name": "RAINW24",
     "lang": "es",
-    "xmltv_id": "RaiNews24.it@SD"
+    "xmltv_id": "RaiNews24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-news-24-it.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/78808",
@@ -3055,13 +3060,15 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82541",
     "name": "FS1",
     "lang": "es",
-    "xmltv_id": "FoxSports1.us"
+    "xmltv_id": "FoxSports1.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-sports-1-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82547",
     "name": "FS1HD",
     "lang": "es",
-    "xmltv_id": "FoxSports1.us@HD"
+    "xmltv_id": "FoxSports1.us@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-sports-1-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82563",
@@ -3080,7 +3087,8 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82682",
     "name": "QVC2",
     "lang": "es",
-    "xmltv_id": "QVC2.us@SD"
+    "xmltv_id": "QVC2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/qvc-2-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82773",
@@ -3354,7 +3362,8 @@
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/101260",
     "name": "QVC3",
     "lang": "es",
-    "xmltv_id": "QVC3.us@SD"
+    "xmltv_id": "QVC3.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/qvc-3-us.png"
   },
   {
     "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/101449",

@@ -69,27 +69,27 @@
     "site_id": "CH32",
     "name": "Makan",
     "lang": "he",
-    "xmltv_id": "Makan33.il@SD"
+    "xmltv_id": "Makan33.il@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/israel/makan-33-il.png"
   },
   {
     "site_id": "CH33",
     "name": "Eurosport 2",
     "lang": "he",
-    "xmltv_id": "Eurosport2.fr@SD"
+    "xmltv_id": "Eurosport2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "CH34",
     "name": "Keshet HD",
     "lang": "he",
-    "xmltv_id": "Keshet12.il@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/israel/keshet12-il.png"
+    "xmltv_id": "Keshet12.il@HD"
   },
   {
     "site_id": "CH36",
     "name": "Reshet HD",
     "lang": "he",
-    "xmltv_id": "Reshet13.il@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/israel/reshet13-il.png"
+    "xmltv_id": "Reshet13.il@HD"
   },
   {
     "site_id": "CH41",
@@ -186,7 +186,8 @@
     "site_id": "CH74",
     "name": "FRANCE3",
     "lang": "he",
-    "xmltv_id": "France3.fr@SD"
+    "xmltv_id": "France3.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "CH75",
@@ -313,7 +314,8 @@
     "site_id": "CN05",
     "name": "France 24 fr",
     "lang": "he",
-    "xmltv_id": "France24.fr"
+    "xmltv_id": "France24.fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "CN06",
@@ -349,15 +351,13 @@
     "site_id": "CN13",
     "name": "i24 English",
     "lang": "he",
-    "xmltv_id": "i24News.il@English",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/israel/i24-news-il.png"
+    "xmltv_id": "i24News.il@English"
   },
   {
     "site_id": "CN14",
     "name": "i24 Arabic",
     "lang": "he",
-    "xmltv_id": "i24News.il@Arabic",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/israel/i24-news-il.png"
+    "xmltv_id": "i24News.il@Arabic"
   },
   {
     "site_id": "CN19",
@@ -491,14 +491,14 @@
     "site_id": "PT15",
     "name": "1+1",
     "lang": "he",
-    "xmltv_id": "Kan11.il@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/israel/kan11-il.png"
+    "xmltv_id": "Kan11.il@SD"
   },
   {
     "site_id": "PT18",
     "name": "FRANCE 24",
     "lang": "he",
-    "xmltv_id": "France24.fr@SD"
+    "xmltv_id": "France24.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "PT19",
@@ -566,7 +566,8 @@
     "site_id": "PT39",
     "name": "EUROSPORT HD",
     "lang": "he",
-    "xmltv_id": "Eurosport1.uk@HD"
+    "xmltv_id": "Eurosport1.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png"
   },
   {
     "site_id": "PT41",
@@ -609,8 +610,7 @@
     "site_id": "PT53",
     "name": "Sport 1 HD",
     "lang": "he",
-    "xmltv_id": "Sport1.de@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sport1-de.png"
+    "xmltv_id": "Sport1.de@HD"
   },
   {
     "site_id": "PT55",
@@ -841,7 +841,8 @@
     "site_id": "TV45",
     "name": "SAT 1",
     "lang": "he",
-    "xmltv_id": "Sat1.de@SD"
+    "xmltv_id": "Sat1.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
   },
   {
     "site_id": "TV46",
@@ -866,8 +867,7 @@
     "site_id": "TV50",
     "name": "Israel Plus (9)",
     "lang": "he",
-    "xmltv_id": "Channel9.il@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/israel/channel9-il.png"
+    "xmltv_id": "Channel9.il@SD"
   },
   {
     "site_id": "TV51",
@@ -980,7 +980,8 @@
     "site_id": "TV94",
     "name": "France 2 (F2)",
     "lang": "he",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "TV98",

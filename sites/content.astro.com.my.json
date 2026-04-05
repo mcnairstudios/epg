@@ -124,8 +124,7 @@
     "site_id": "48",
     "name": "TV9",
     "lang": "ms",
-    "xmltv_id": "TV9.my@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/tv9-my.png"
+    "xmltv_id": "TV9.my@SD"
   },
   {
     "site_id": "67",
@@ -143,15 +142,13 @@
     "site_id": "93",
     "name": "NTV7",
     "lang": "ms",
-    "xmltv_id": "NTV7.my@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/ntv7-my.png"
+    "xmltv_id": "NTV7.my@SD"
   },
   {
     "site_id": "106",
     "name": "TV3",
     "lang": "ms",
-    "xmltv_id": "TV3.my@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/tv3-my.png"
+    "xmltv_id": "TV3.my@SD"
   },
   {
     "site_id": "115",
@@ -361,7 +358,8 @@
     "site_id": "289",
     "name": "France24",
     "lang": "en",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "292",
@@ -594,15 +592,13 @@
     "site_id": "395",
     "name": "TV1 HD",
     "lang": "ms",
-    "xmltv_id": "TV1.my@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/tv1-my.png"
+    "xmltv_id": "TV1.my@SD"
   },
   {
     "site_id": "396",
     "name": "TV2 HD",
     "lang": "ms",
-    "xmltv_id": "TV2.my@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/tv2-my.png"
+    "xmltv_id": "TV2.my@SD"
   },
   {
     "site_id": "397",
@@ -753,7 +749,8 @@
     "site_id": "457",
     "name": "Astro Arena 2",
     "lang": "ms",
-    "xmltv_id": "AstroArena2.my@SD"
+    "xmltv_id": "AstroArena2.my@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/astro-arena-2-my.png"
   },
   {
     "site_id": "458",
@@ -883,13 +880,15 @@
     "site_id": "537",
     "name": "Astro Premier League 2",
     "lang": "ms",
-    "xmltv_id": "AstroPremierLeague2.my"
+    "xmltv_id": "AstroPremierLeague2.my",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/astro-premier-league-2-my.png"
   },
   {
     "site_id": "538",
     "name": "Astro Premier League 3",
     "lang": "ms",
-    "xmltv_id": "AstroPremierLeague3.my"
+    "xmltv_id": "AstroPremierLeague3.my",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/malaysia/astro-premier-league-3-my.png"
   },
   {
     "site_id": "539",

@@ -274,13 +274,15 @@
     "site_id": "eurosport-1/77",
     "name": "EUROSPORT 1",
     "lang": "tr",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "eurosport-2/106",
     "name": "EUROSPORT 2",
     "lang": "tr",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "fb-tv/148",
@@ -304,13 +306,15 @@
     "site_id": "france-24-arabic/161",
     "name": "FRANCE 24 ARABIC",
     "lang": "tr",
-    "xmltv_id": "France24.fr@Arabic"
+    "xmltv_id": "France24.fr@Arabic",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "france-24-english/16",
     "name": "FRANCE 24 ENGLISH",
     "lang": "tr",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "fx/131",
@@ -361,26 +365,29 @@
     "site_id": "kanal-7/90",
     "name": "KANAL 7",
     "lang": "tr",
-    "xmltv_id": "Kanal7.tr@SD"
+    "xmltv_id": "Kanal7.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kanal-7-tr.png"
   },
   {
     "site_id": "kanal-23/2359",
     "name": "KANAL 23",
     "lang": "tr",
     "xmltv_id": "Kanal23.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kanal23-tr.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kanal-23-tr.png"
   },
   {
     "site_id": "kanal-26/143",
     "name": "KANAL 26",
     "lang": "tr",
-    "xmltv_id": "Kanal26.tr@SD"
+    "xmltv_id": "Kanal26.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kanal-26-tr.png"
   },
   {
     "site_id": "kanal-33/146",
     "name": "KANAL 33",
     "lang": "tr",
-    "xmltv_id": "Kanal33.tr@SD"
+    "xmltv_id": "Kanal33.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/kanal-33-tr.png"
   },
   {
     "site_id": "kanal-d/88",
@@ -557,7 +564,8 @@
     "site_id": "s-sport-2/170",
     "name": "S SPORT 2",
     "lang": "tr",
-    "xmltv_id": "SSport2.tr@SD"
+    "xmltv_id": "SSport2.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/s-sport-2-tr.png"
   },
   {
     "site_id": "s-sport/11",
@@ -583,14 +591,14 @@
     "site_id": "sinema-1002/190",
     "name": "SİNEMA 1002",
     "lang": "tr",
-    "xmltv_id": "Sinema1002.tr@SD"
+    "xmltv_id": "Sinema1002.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1002-tr.png"
   },
   {
     "site_id": "sinema-aile-2/182",
     "name": "SİNEMA AİLE 2",
     "lang": "tr",
-    "xmltv_id": "SinemaAile2.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aile2-tr.png"
+    "xmltv_id": "SinemaAile2.tr@SD"
   },
   {
     "site_id": "sinema-aile/155",
@@ -603,8 +611,7 @@
     "site_id": "sinema-aksiyon-2/196",
     "name": "SİNEMA AKSİYON 2",
     "lang": "tr",
-    "xmltv_id": "SinemaAksiyon2.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-aksiyon2-tr.png"
+    "xmltv_id": "SinemaAksiyon2.tr@SD"
   },
   {
     "site_id": "sinema-komedi/154",
@@ -623,7 +630,8 @@
     "site_id": "sinema-tv-1001/181",
     "name": "SİNEMA TV 1001",
     "lang": "tr",
-    "xmltv_id": "Sinema1001.tr@SD"
+    "xmltv_id": "Sinema1001.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-1001-tr.png"
   },
   {
     "site_id": "sinema-tv-aksiyon/129",
@@ -643,8 +651,7 @@
     "site_id": "sinema-yerli-2/61",
     "name": "SİNEMA YERLİ 2",
     "lang": "tr",
-    "xmltv_id": "SinemaYerli2.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/sinema-yerli2-tr.png"
+    "xmltv_id": "SinemaYerli2.tr@SD"
   },
   {
     "site_id": "sinema-yerli/12",
@@ -720,15 +727,13 @@
     "site_id": "tele1/189",
     "name": "TELE1",
     "lang": "tr",
-    "xmltv_id": "Tele1.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tele1-tr.png"
+    "xmltv_id": "Tele1.tr@SD"
   },
   {
     "site_id": "teve2/95",
     "name": "TEVE2",
     "lang": "tr",
-    "xmltv_id": "Teve2.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/teve2-tr.png"
+    "xmltv_id": "Teve2.tr@SD"
   },
   {
     "site_id": "tgrt-haber/34",
@@ -741,8 +746,7 @@
     "site_id": "tivi6/4481",
     "name": "TİVİ6",
     "lang": "tr",
-    "xmltv_id": "Tivi6.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tivi6-tr.png"
+    "xmltv_id": "Tivi6.tr@SD"
   },
   {
     "site_id": "tlc/174",
@@ -761,19 +765,22 @@
     "site_id": "trt1/144",
     "name": "TRT1",
     "lang": "tr",
-    "xmltv_id": "TRT1.tr@SD"
+    "xmltv_id": "TRT1.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-1-tr.png"
   },
   {
     "site_id": "trt-2/83",
     "name": "TRT 2",
     "lang": "tr",
-    "xmltv_id": "TRT2.tr@SD"
+    "xmltv_id": "TRT2.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-2-tr.png"
   },
   {
     "site_id": "trt-3/116",
     "name": "TRT 3",
     "lang": "tr",
-    "xmltv_id": "TRT3.tr@SD"
+    "xmltv_id": "TRT3.tr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/trt-3-tr.png"
   },
   {
     "site_id": "trt-arabi/76",
@@ -880,36 +887,31 @@
     "site_id": "tv5/4359",
     "name": "TV5",
     "lang": "tr",
-    "xmltv_id": "TV5.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tv5-tr.png"
+    "xmltv_id": "TV5.tr@SD"
   },
   {
     "site_id": "tv8/134",
     "name": "TV8",
     "lang": "tr",
-    "xmltv_id": "TV8.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tv8-tr.png"
+    "xmltv_id": "TV8.tr@SD"
   },
   {
     "site_id": "tv85/188",
     "name": "TV8,5",
     "lang": "tr",
-    "xmltv_id": "TV85.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tv85-tr.png"
+    "xmltv_id": "TV85.tr@SD"
   },
   {
     "site_id": "tv100/179",
     "name": "TV100",
     "lang": "tr",
-    "xmltv_id": "TV100.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tv100-tr.png"
+    "xmltv_id": "TV100.tr@SD"
   },
   {
     "site_id": "tv-4/2899",
     "name": "TV 4",
     "lang": "tr",
-    "xmltv_id": "TV4.tr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tv4-tr.png"
+    "xmltv_id": "TV4.tr@SD"
   },
   {
     "site_id": "tv-2020/4301",

@@ -83,8 +83,7 @@
     "site_id": "canale-5/187",
     "name": "Canale 5",
     "lang": "it",
-    "xmltv_id": "Canale5.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/canale5-it.png"
+    "xmltv_id": "Canale5.it@SD"
   },
   {
     "site_id": "cartoon-network/sky-bambini/212",
@@ -118,8 +117,7 @@
     "site_id": "cine34/574",
     "name": "Cine34",
     "lang": "it",
-    "xmltv_id": "Cine34.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/cine34-it.png"
+    "xmltv_id": "Cine34.it@SD"
   },
   {
     "site_id": "class-cnbc/sky-news/113",
@@ -169,8 +167,7 @@
     "site_id": "dazn/dazn/459",
     "name": "DAZN",
     "lang": "it",
-    "xmltv_id": "DAZN1.uk@Germany",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dazn1-uk.png"
+    "xmltv_id": "DAZN1.uk@Germany"
   },
   {
     "site_id": "dea-junior/sky-bambini/150",
@@ -247,13 +244,15 @@
     "site_id": "eurosport-2hd/sky-sport/46",
     "name": "Eurosport 2HD",
     "lang": "it",
-    "xmltv_id": "Eurosport2.fr@Italy"
+    "xmltv_id": "Eurosport2.fr@Italy",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "eurosport-hd/sky-sport/45",
     "name": "Eurosport HD",
     "lang": "it",
-    "xmltv_id": "Eurosport1.fr@Italy"
+    "xmltv_id": "Eurosport1.fr@Italy",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "focus/249",
@@ -298,19 +297,22 @@
     "site_id": "france-24-english-/sky-news/124",
     "name": "France 24 English",
     "lang": "en",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "france-24/252",
     "name": "France 24",
     "lang": "it",
-    "xmltv_id": "France24.fr@SD"
+    "xmltv_id": "France24.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "france-24/sky-news/252",
     "name": "France 24",
     "lang": "fr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "frisbee/246",
@@ -350,8 +352,7 @@
     "site_id": "gm24/576",
     "name": "GM24",
     "lang": "it",
-    "xmltv_id": "GM24.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/gm24-it.png"
+    "xmltv_id": "GM24.it@SD"
   },
   {
     "site_id": "hgtv-homegarden/575",
@@ -402,22 +403,19 @@
     "site_id": "italia-1/188",
     "name": "Italia 1",
     "lang": "it",
-    "xmltv_id": "Italia1.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/italia1-it.png"
+    "xmltv_id": "Italia1.it@SD"
   },
   {
     "site_id": "italia-2/191",
     "name": "Italia 2",
     "lang": "it",
-    "xmltv_id": "Italia2.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/italia2-it.png"
+    "xmltv_id": "Italia2.it@SD"
   },
   {
     "site_id": "italia-2/sky-intrattenimento/191",
     "name": "Italia 2",
     "lang": "it",
-    "xmltv_id": "Italia2.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/italia2-it.png"
+    "xmltv_id": "Italia2.it@SD"
   },
   {
     "site_id": "italia-7-gold/310",
@@ -429,57 +427,49 @@
     "site_id": "k2/245",
     "name": "K2",
     "lang": "it",
-    "xmltv_id": "K2.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/k2-it.png"
+    "xmltv_id": "K2.it@SD"
   },
   {
     "site_id": "k2/sky-bambini/245",
     "name": "K2",
     "lang": "it",
-    "xmltv_id": "K2.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/k2-it.png"
+    "xmltv_id": "K2.it@SD"
   },
   {
     "site_id": "la7/253",
     "name": "La7",
     "lang": "it",
-    "xmltv_id": "LA7.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/la7-it.png"
+    "xmltv_id": "LA7.it@SD"
   },
   {
     "site_id": "la7d/254",
     "name": "La7d",
     "lang": "it",
-    "xmltv_id": "LA7d.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/la7d-it.png"
+    "xmltv_id": "LA7d.it@SD"
   },
   {
     "site_id": "la-1/rsi/231",
     "name": "La 1",
     "lang": "it",
-    "xmltv_id": "RSILa1.ch@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/switzerland/rsi-la1-ch.png"
+    "xmltv_id": "RSILa1.ch@SD"
   },
   {
     "site_id": "la-2/rsi/232",
     "name": "La 2",
     "lang": "it",
-    "xmltv_id": "RSILa2.ch@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/switzerland/rsi-la2-ch.png"
+    "xmltv_id": "RSILa2.ch@SD"
   },
   {
     "site_id": "la-5/190",
     "name": "La 5",
     "lang": "it",
-    "xmltv_id": "La5.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/la5-it.png"
+    "xmltv_id": "La5.it@SD"
   },
   {
     "site_id": "la-5/sky-intrattenimento/190",
     "name": "La 5",
     "lang": "it",
-    "xmltv_id": "La5.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/la5-it.png"
+    "xmltv_id": "La5.it@SD"
   },
   {
     "site_id": "lazio-style-channel/sky-sport/58",
@@ -622,19 +612,22 @@
     "site_id": "premium-cinema-1/premium/445",
     "name": "Premium Cinema 1",
     "lang": "it",
-    "xmltv_id": "PremiumCinema1.it@SD"
+    "xmltv_id": "PremiumCinema1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/premium-cinema-1-it.png"
   },
   {
     "site_id": "premium-cinema-2/premium/447",
     "name": "Premium Cinema 2",
     "lang": "it",
-    "xmltv_id": "PremiumCinema2.it@SD"
+    "xmltv_id": "PremiumCinema2.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/premium-cinema-2-it.png"
   },
   {
     "site_id": "premium-cinema-3/premium/448",
     "name": "Premium Cinema 3",
     "lang": "it",
-    "xmltv_id": "PremiumCinema3.it@SD"
+    "xmltv_id": "PremiumCinema3.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/premium-cinema-3-it.png"
   },
   {
     "site_id": "premium-crime/premium/202",
@@ -696,8 +689,7 @@
     "site_id": "r101/463",
     "name": "R101",
     "lang": "it",
-    "xmltv_id": "R101TV.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/r101-tv-it.png"
+    "xmltv_id": "R101TV.it@SD"
   },
   {
     "site_id": "radio-105/460",
@@ -734,31 +726,36 @@
     "site_id": "rai-1/217",
     "name": "Rai 1",
     "lang": "it",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "rai-2/218",
     "name": "Rai 2",
     "lang": "it",
-    "xmltv_id": "Rai2.it@SD"
+    "xmltv_id": "Rai2.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-2-it.png"
   },
   {
     "site_id": "rai-3/219",
     "name": "Rai 3",
     "lang": "it",
-    "xmltv_id": "Rai3.it@HD"
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "rai-4/220",
     "name": "Rai 4",
     "lang": "it",
-    "xmltv_id": "Rai4.it@SD"
+    "xmltv_id": "Rai4.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-4-it.png"
   },
   {
     "site_id": "rai-5/221",
     "name": "Rai 5",
     "lang": "it",
-    "xmltv_id": "Rai5.it@SD"
+    "xmltv_id": "Rai5.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-5-it.png"
   },
   {
     "site_id": "rai-gulp/228",
@@ -813,7 +810,8 @@
     "site_id": "rainews24/222",
     "name": "RaiNews24",
     "lang": "it",
-    "xmltv_id": "RaiNews24.it@SD"
+    "xmltv_id": "RaiNews24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-news-24-it.png"
   },
   {
     "site_id": "raisport/sky-sport/600",
@@ -840,8 +838,7 @@
     "site_id": "rete-4/189",
     "name": "Rete 4",
     "lang": "it",
-    "xmltv_id": "Rete4.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rete4-it.png"
+    "xmltv_id": "Rete4.it@SD"
   },
   {
     "site_id": "rt-doc-hd/sky-news/128",
@@ -1017,7 +1014,8 @@
     "site_id": "sky-meteo24/sky-news/109",
     "name": "Sky Meteo24",
     "lang": "it",
-    "xmltv_id": "SkyMeteo24.it@SD"
+    "xmltv_id": "SkyMeteo24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-meteo-24-it.png"
   },
   {
     "site_id": "sky-nature-hd/sky-doc-e-lifestyle/597",
@@ -1058,7 +1056,8 @@
     "site_id": "sky-sport24/sky-sport/36",
     "name": "Sky Sport24",
     "lang": "it",
-    "xmltv_id": "SkySport24.it@SD"
+    "xmltv_id": "SkySport24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-sport-24-it.png"
   },
   {
     "site_id": "sky-sport-251/sky-sport/584",
@@ -1151,8 +1150,7 @@
     "site_id": "sky-sport-f1-hd/sky-sport/43",
     "name": "Sky Sport F1 HD",
     "lang": "it",
-    "xmltv_id": "SkySportF1.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-sport-f1-it.png"
+    "xmltv_id": "SkySportF1.it@SD"
   },
   {
     "site_id": "sky-sport-football-hd/sky-sport/39",
@@ -1191,15 +1189,13 @@
     "site_id": "sky-tg24/240",
     "name": "Sky Tg24",
     "lang": "it",
-    "xmltv_id": "SkyTG24.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-tg24-it.png"
+    "xmltv_id": "SkyTG24.it@SD"
   },
   {
     "site_id": "sky-tg24/sky-news/240",
     "name": "Sky Tg24",
     "lang": "it",
-    "xmltv_id": "SkyTG24.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/sky-tg24-it.png"
+    "xmltv_id": "SkyTG24.it@SD"
   },
   {
     "site_id": "sky-uno-1hd/sky-intrattenimento/2",
@@ -1259,7 +1255,8 @@
     "site_id": "tg-norba24/sky-news/114",
     "name": "TG Norba24",
     "lang": "it",
-    "xmltv_id": "TGNorba24.it@SD"
+    "xmltv_id": "TGNorba24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/tg-norba-24-it.png"
   },
   {
     "site_id": "tgcom24/197",
@@ -1297,15 +1294,13 @@
     "site_id": "tv8/237",
     "name": "TV8",
     "lang": "it",
-    "xmltv_id": "TV8.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/tv8-it.png"
+    "xmltv_id": "TV8.it@SD"
   },
   {
     "site_id": "tv8/sky-intrattenimento/237",
     "name": "TV8",
     "lang": "it",
-    "xmltv_id": "TV8.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/tv8-it.png"
+    "xmltv_id": "TV8.it@SD"
   },
   {
     "site_id": "tv2000/241",

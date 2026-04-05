@@ -28,8 +28,7 @@
     "site_id": "arte-1",
     "name": "Arte 1",
     "lang": "pt",
-    "xmltv_id": "Arte1.br@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/arte1-br.png"
+    "xmltv_id": "Arte1.br@SD"
   },
   {
     "site_id": "axn",
@@ -220,7 +219,8 @@
     "site_id": "espn-2",
     "name": "ESPN 2",
     "lang": "pt",
-    "xmltv_id": "ESPN2.us@SD"
+    "xmltv_id": "ESPN2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-2-us.png"
   },
   {
     "site_id": "espn-3",
@@ -232,13 +232,15 @@
     "site_id": "espn-4",
     "name": "ESPN 4",
     "lang": "pt",
-    "xmltv_id": "ESPN4.br"
+    "xmltv_id": "ESPN4.br",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/espn-4-br.png"
   },
   {
     "site_id": "espn-5",
     "name": "ESPN 5",
     "lang": "pt",
-    "xmltv_id": "ESPN5.br@SD"
+    "xmltv_id": "ESPN5.br@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/espn-5-br.png"
   },
   {
     "site_id": "espn-6",
@@ -321,7 +323,8 @@
     "site_id": "hbo-2",
     "name": "HBO 2",
     "lang": "pt",
-    "xmltv_id": "HBO2.br@SD"
+    "xmltv_id": "HBO2.br@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/hbo-2-br.png"
   },
   {
     "site_id": "hbo-family",

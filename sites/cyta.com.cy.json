@@ -132,7 +132,8 @@
     "site_id": "213889",
     "name": "France 24 (French)",
     "lang": "el",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "213936",
@@ -332,13 +333,15 @@
     "site_id": "4185119",
     "name": "Eurosport 1 HD",
     "lang": "el",
-    "xmltv_id": "Eurosport1.fr@Greece"
+    "xmltv_id": "Eurosport1.fr@Greece",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "5183085",
     "name": "Eurosport 2 HD",
     "lang": "el",
-    "xmltv_id": "Eurosport2.fr@Greece"
+    "xmltv_id": "Eurosport2.fr@Greece",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "6260715",
@@ -655,8 +658,7 @@
     "site_id": "54184415",
     "name": "ANT1 HD",
     "lang": "el",
-    "xmltv_id": "ANT1.gr",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/greece/ant1-gr.png"
+    "xmltv_id": "ANT1.gr"
   },
   {
     "site_id": "55844755",

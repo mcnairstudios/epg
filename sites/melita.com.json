@@ -85,7 +85,8 @@
     "site_id": "06d3bf63-23e2-4d1c-bdf8-9fac367d8343",
     "name": "Rai Due HD",
     "lang": "en",
-    "xmltv_id": "Rai2.it@HD"
+    "xmltv_id": "Rai2.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-2-it.png"
   },
   {
     "site_id": "6c626f5e-f6c1-41f9-ae7d-15063fee3320",
@@ -147,7 +148,8 @@
     "site_id": "9b2ff2da-b9d9-4ef7-be19-c16f7b6981f3",
     "name": "Eurosport HD",
     "lang": "en",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "9b3f6254-4f89-4a4b-9046-dc4c4f03b928",
@@ -166,8 +168,7 @@
     "site_id": "9cae1f6f-9783-49e9-8a25-32cd47ffe217",
     "name": "Italia 1 HD",
     "lang": "it",
-    "xmltv_id": "Italia1.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/italia1-it.png"
+    "xmltv_id": "Italia1.it@SD"
   },
   {
     "site_id": "9d2651e6-1f1f-4cc7-9d9c-6c37f7cfed5f",
@@ -379,7 +380,8 @@
     "site_id": "13753d1a-e123-41f8-8144-748737450630",
     "name": "Rai Tre HD",
     "lang": "en",
-    "xmltv_id": "Rai3.it@HD"
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-3-it.png"
   },
   {
     "site_id": "024900dd-988d-4875-b86d-b1615556dfe4",
@@ -456,14 +458,14 @@
     "site_id": "20408161-5fbf-4ab2-bf31-f6869b9f85c2",
     "name": "Rete 4 HD",
     "lang": "it",
-    "xmltv_id": "Rete4.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rete4-it.png"
+    "xmltv_id": "Rete4.it@SD"
   },
   {
     "site_id": "3e7cac2b-4039-4d6d-8be4-6305458a2798",
     "name": "France 24 in English",
     "lang": "en",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "53973351-44ad-4b4f-8584-5b511279b268",
@@ -518,7 +520,8 @@
     "site_id": "a990d4ab-1a2b-47ec-b622-b28075d1f1ba",
     "name": "France 2 HD",
     "lang": "fr",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "aa9aa3c5-8858-4b69-b152-d41ec3ed030b",
@@ -605,8 +608,7 @@
     "site_id": "b3730b38-fe5a-48e6-8a3d-51931629e19d",
     "name": "La 5",
     "lang": "it",
-    "xmltv_id": "La5.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/la5-it.png"
+    "xmltv_id": "La5.it@SD"
   },
   {
     "site_id": "b6034786-587f-47c3-b9df-5ccfa21e332d",
@@ -618,7 +620,8 @@
     "site_id": "bce83c2d-b975-41cc-b863-ff53dc7fab9f",
     "name": "France 24 in French",
     "lang": "fr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "c9e7448b-838c-4fb8-ae0e-a745b87634fd",
@@ -642,20 +645,21 @@
     "site_id": "c199e302-4b17-4355-b433-88e5fb930b4a",
     "name": "France 3",
     "lang": "en",
-    "xmltv_id": "France3.fr@SD"
+    "xmltv_id": "France3.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "d3aeada1-455f-4305-b696-fdcb9b463733",
     "name": "Italia 2",
     "lang": "it",
-    "xmltv_id": "Italia2.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/italia2-it.png"
+    "xmltv_id": "Italia2.it@SD"
   },
   {
     "site_id": "d47d3ca9-4d06-4805-9833-351cc69a0395",
     "name": "Rai News",
     "lang": "it",
-    "xmltv_id": "RaiNews24.it@SD"
+    "xmltv_id": "RaiNews24.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-news-24-it.png"
   },
   {
     "site_id": "d71d5637-86da-4c38-a434-ed119cf0e83c",
@@ -679,14 +683,14 @@
     "site_id": "dcd6ade6-f76c-4ba9-b9c4-588f53645e92",
     "name": "Canale 5 HD",
     "lang": "it",
-    "xmltv_id": "Canale5.it@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/canale5-it.png"
+    "xmltv_id": "Canale5.it@SD"
   },
   {
     "site_id": "ddd38bf4-0324-4a46-9174-b7023c632c60",
     "name": "Eurosport 2",
     "lang": "en",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "e5e0148d-ca55-4ab5-a0f3-fb303fd39ee9",
@@ -704,7 +708,8 @@
     "site_id": "e9b2cec6-22e1-4056-9cb5-460c6cad3f84",
     "name": "Rai Uno HD",
     "lang": "en",
-    "xmltv_id": "Rai1.it@HD"
+    "xmltv_id": "Rai1.it@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "ea7aaadc-6667-4d97-93a0-a927de332814",

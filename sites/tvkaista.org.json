@@ -3,8 +3,7 @@
     "site_id": "3sat",
     "name": "3sat",
     "lang": "fi",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "24-horas",
@@ -246,13 +245,15 @@
     "site_id": "eurosport-1",
     "name": "Eurosport 1",
     "lang": "fi",
-    "xmltv_id": "Eurosport1.uk@SD"
+    "xmltv_id": "Eurosport1.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png"
   },
   {
     "site_id": "eurosport-2",
     "name": "Eurosport 2",
     "lang": "fi",
-    "xmltv_id": "Eurosport2.fr@SD"
+    "xmltv_id": "Eurosport2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "extreme-sports-channel",
@@ -290,25 +291,29 @@
     "site_id": "france24",
     "name": "France24",
     "lang": "fi",
-    "xmltv_id": "France24.fr@SD"
+    "xmltv_id": "France24.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "france-2",
     "name": "France 2",
     "lang": "fi",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "france-5",
     "name": "France 5",
     "lang": "fi",
-    "xmltv_id": "France5.fr@SD"
+    "xmltv_id": "France5.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-5-fr.png"
   },
   {
     "site_id": "france-24-fr",
     "name": "France 24 Français",
     "lang": "fi",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "frii",
@@ -609,7 +614,8 @@
     "site_id": "rai-1",
     "name": "Rai 1",
     "lang": "fi",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "rtl-television",
@@ -717,15 +723,13 @@
     "site_id": "tv5",
     "name": "TV5",
     "lang": "fi",
-    "xmltv_id": "TV5Monde.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tv5-monde-fr.png"
+    "xmltv_id": "TV5Monde.fr@SD"
   },
   {
     "site_id": "tv5-monde",
     "name": "TV5Monde",
     "lang": "fi",
-    "xmltv_id": "TV5Monde.fr@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tv5-monde-fr.png"
+    "xmltv_id": "TV5Monde.fr@SD"
   },
   {
     "site_id": "tv6-se",

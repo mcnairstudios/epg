@@ -15,7 +15,8 @@
     "site_id": "90009",
     "name": "News24",
     "lang": "en",
-    "xmltv_id": "News24.in@SD"
+    "xmltv_id": "News24.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/news-24-in.png"
   },
   {
     "site_id": "90012",
@@ -403,7 +404,8 @@
     "site_id": "142747",
     "name": "CNN-News18",
     "lang": "en",
-    "xmltv_id": "CNNNews18.in@SD"
+    "xmltv_id": "CNNNews18.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/cnn-news-18-in.png"
   },
   {
     "site_id": "142748",
@@ -926,15 +928,13 @@
     "site_id": "143132",
     "name": "History TV18",
     "lang": "en",
-    "xmltv_id": "HistoryTV18.in@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/history-tv18-in.png"
+    "xmltv_id": "HistoryTV18.in@SD"
   },
   {
     "site_id": "143133",
     "name": "History TV18 HD",
     "lang": "en",
-    "xmltv_id": "HistoryTV18.in@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/history-tv18-in.png"
+    "xmltv_id": "HistoryTV18.in@HD"
   },
   {
     "site_id": "143136",
@@ -952,7 +952,8 @@
     "site_id": "143156",
     "name": "IBC24",
     "lang": "en",
-    "xmltv_id": "IBC24.in@SD"
+    "xmltv_id": "IBC24.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/ibc-24-in.png"
   },
   {
     "site_id": "143190",
@@ -1421,7 +1422,8 @@
     "site_id": "143608",
     "name": "News18 Bihar Jharkhand",
     "lang": "en",
-    "xmltv_id": "News18BiharJharkhand.in@SD"
+    "xmltv_id": "News18BiharJharkhand.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/news-18-bihar-jharkhand-in.png"
   },
   {
     "site_id": "143609",
@@ -1433,7 +1435,8 @@
     "site_id": "143610",
     "name": "News18 India",
     "lang": "en",
-    "xmltv_id": "News18India.in@SD"
+    "xmltv_id": "News18India.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/news-18-india-in.png"
   },
   {
     "site_id": "143611",
@@ -1457,13 +1460,15 @@
     "site_id": "143614",
     "name": "News18 Lokmat",
     "lang": "en",
-    "xmltv_id": "News18Lokmat.in@SD"
+    "xmltv_id": "News18Lokmat.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/news-18-lokmat-in.png"
   },
   {
     "site_id": "143615",
     "name": "News18 Madhya Pradesh Chhattisgarh",
     "lang": "en",
-    "xmltv_id": "News18MadhyaPradeshChhattisgarh.in@SD"
+    "xmltv_id": "News18MadhyaPradeshChhattisgarh.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/news-18-madhya-pradesh-chhattisgarh-in.png"
   },
   {
     "site_id": "143616",
@@ -1481,7 +1486,8 @@
     "site_id": "143618",
     "name": "NEWS18 RAJASTHAN",
     "lang": "en",
-    "xmltv_id": "News18Rajasthan.in@SD"
+    "xmltv_id": "News18Rajasthan.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/news-18-rajasthan-in.png"
   },
   {
     "site_id": "143619",
@@ -1499,7 +1505,8 @@
     "site_id": "143621",
     "name": "News18 Uttar Pradesh Uttarakhand",
     "lang": "en",
-    "xmltv_id": "News18UttarPradeshUttarakhand.in@SD"
+    "xmltv_id": "News18UttarPradeshUttarakhand.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/news-18-uttar-pradesh-uttarakhand-in.png"
   },
   {
     "site_id": "143623",
@@ -1972,7 +1979,8 @@
     "site_id": "143801",
     "name": "SONY MAX 2",
     "lang": "en",
-    "xmltv_id": "SonyMax2.in@SD"
+    "xmltv_id": "SonyMax2.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/sony-max-2-in.png"
   },
   {
     "site_id": "143802",
@@ -2016,7 +2024,8 @@
     "site_id": "143814",
     "name": "Star Gold 2",
     "lang": "en",
-    "xmltv_id": "StarGold2.in@SD"
+    "xmltv_id": "StarGold2.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-gold-2-in.png"
   },
   {
     "site_id": "143815",
@@ -2138,61 +2147,71 @@
     "site_id": "143835",
     "name": "Star Sports 1",
     "lang": "en",
-    "xmltv_id": "StarSports1.in@SD"
+    "xmltv_id": "StarSports1.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-in.png"
   },
   {
     "site_id": "143837",
     "name": "Star Sports 1 HD",
     "lang": "en",
-    "xmltv_id": "StarSports1.in@HD"
+    "xmltv_id": "StarSports1.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-in.png"
   },
   {
     "site_id": "143838",
     "name": "Star Sports 1 HD Hindi",
     "lang": "en",
-    "xmltv_id": "StarSports1Hindi.in@HD"
+    "xmltv_id": "StarSports1Hindi.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-hindi-in.png"
   },
   {
     "site_id": "143839",
     "name": "Star Sports 1 Hindi",
     "lang": "en",
-    "xmltv_id": "StarSports1Hindi.in@SD"
+    "xmltv_id": "StarSports1Hindi.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-hindi-in.png"
   },
   {
     "site_id": "143840",
     "name": "Star Sports 1 Kannada",
     "lang": "en",
-    "xmltv_id": "StarSports1Kannada.in@SD"
+    "xmltv_id": "StarSports1Kannada.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-kannada-in.png"
   },
   {
     "site_id": "143842",
     "name": "Star Sports 1 Tamil",
     "lang": "en",
-    "xmltv_id": "StarSports1Tamil.in@SD"
+    "xmltv_id": "StarSports1Tamil.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-tamil-in.png"
   },
   {
     "site_id": "143843",
     "name": "Star Sports 1 Telugu",
     "lang": "en",
-    "xmltv_id": "StarSports1Telugu.in@SD"
+    "xmltv_id": "StarSports1Telugu.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-telugu-in.png"
   },
   {
     "site_id": "143844",
     "name": "Star Sports 2",
     "lang": "en",
-    "xmltv_id": "StarSports2.in@SD"
+    "xmltv_id": "StarSports2.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-2-in.png"
   },
   {
     "site_id": "143845",
     "name": "Star Sports 2 HD",
     "lang": "en",
-    "xmltv_id": "StarSports2.in@HD"
+    "xmltv_id": "StarSports2.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-2-in.png"
   },
   {
     "site_id": "143846",
     "name": "Star Sports 3",
     "lang": "en",
-    "xmltv_id": "StarSports3.in@SD"
+    "xmltv_id": "StarSports3.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-3-in.png"
   },
   {
     "site_id": "143847",
@@ -2204,25 +2223,29 @@
     "site_id": "143848",
     "name": "Star Sports Select 1",
     "lang": "en",
-    "xmltv_id": "StarSportsSelect1.in@SD"
+    "xmltv_id": "StarSportsSelect1.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-select-1-in.png"
   },
   {
     "site_id": "143849",
     "name": "Star Sports Select 1 HD",
     "lang": "en",
-    "xmltv_id": "StarSportsSelect1.in@HD"
+    "xmltv_id": "StarSportsSelect1.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-select-1-in.png"
   },
   {
     "site_id": "143850",
     "name": "Star Sports Select 2",
     "lang": "en",
-    "xmltv_id": "StarSportsSelect2.in@SD"
+    "xmltv_id": "StarSportsSelect2.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-select-2-in.png"
   },
   {
     "site_id": "143851",
     "name": "Star Sports Select 2 HD",
     "lang": "en",
-    "xmltv_id": "StarSportsSelect2.in@HD"
+    "xmltv_id": "StarSportsSelect2.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-select-2-in.png"
   },
   {
     "site_id": "143852",
@@ -2419,8 +2442,7 @@
     "site_id": "144027",
     "name": "TV9 Bharatvarsh",
     "lang": "en",
-    "xmltv_id": "TV9Bharatvarsh.in@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/tv9-bharatvarsh-in.png"
+    "xmltv_id": "TV9Bharatvarsh.in@SD"
   },
   {
     "site_id": "144028",
@@ -2563,19 +2585,22 @@
     "site_id": "144431",
     "name": "Zee 24 Ghanta",
     "lang": "en",
-    "xmltv_id": "Zee24Ghanta.in@SD"
+    "xmltv_id": "Zee24Ghanta.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-24-ghanta-in.png"
   },
   {
     "site_id": "144432",
     "name": "Zee 24 Kalak",
     "lang": "en",
-    "xmltv_id": "Zee24Kalak.in@SD"
+    "xmltv_id": "Zee24Kalak.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-24-kalak-in.png"
   },
   {
     "site_id": "144433",
     "name": "Zee 24 Taas",
     "lang": "en",
-    "xmltv_id": "Zee24Taas.in@SD"
+    "xmltv_id": "Zee24Taas.in@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/zee-24-taas-in.png"
   },
   {
     "site_id": "144434",
@@ -3289,7 +3314,8 @@
     "site_id": "158297",
     "name": "Star Gold 2 HD",
     "lang": "en",
-    "xmltv_id": "StarGold2.in@HD"
+    "xmltv_id": "StarGold2.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-gold-2-in.png"
   },
   {
     "site_id": "158298",
@@ -3301,13 +3327,15 @@
     "site_id": "158299",
     "name": "Star Sports 1 Tamil HD",
     "lang": "en",
-    "xmltv_id": "StarSports1Tamil.in@HD"
+    "xmltv_id": "StarSports1Tamil.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-tamil-in.png"
   },
   {
     "site_id": "158300",
     "name": "Star Sports 1 Telugu HD",
     "lang": "en",
-    "xmltv_id": "StarSports1Telugu.in@HD"
+    "xmltv_id": "StarSports1Telugu.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-telugu-in.png"
   },
   {
     "site_id": "158301",
@@ -3567,7 +3595,8 @@
     "site_id": "159111",
     "name": "France 24",
     "lang": "en",
-    "xmltv_id": "France24.fr@English"
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "159121",
@@ -3735,13 +3764,15 @@
     "site_id": "179406",
     "name": "Star Sports 2 Telugu HD",
     "lang": "en",
-    "xmltv_id": "StarSports1Telugu.in@HD"
+    "xmltv_id": "StarSports1Telugu.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-telugu-in.png"
   },
   {
     "site_id": "179407",
     "name": "Star Sports 2 Tamil HD",
     "lang": "en",
-    "xmltv_id": "StarSports1Tamil.in@HD"
+    "xmltv_id": "StarSports1Tamil.in@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/india/star-sports-1-tamil-in.png"
   },
   {
     "site_id": "179440",

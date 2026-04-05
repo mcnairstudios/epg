@@ -81,7 +81,8 @@
     "site_id": "5_mexico",
     "name": "5 de México",
     "lang": "es",
-    "xmltv_id": "Canal5.mx@SD"
+    "xmltv_id": "Canal5.mx@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/canal-5-mx.png"
   },
   {
     "site_id": "6_de_costa_rica",
@@ -178,8 +179,7 @@
     "site_id": "13_de_chile",
     "name": "13 de Chile",
     "lang": "es",
-    "xmltv_id": "Canal13.cl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/chile/canal13-cl.png"
+    "xmltv_id": "Canal13.cl@SD"
   },
   {
     "site_id": "13_de_colombia",
@@ -409,7 +409,8 @@
     "site_id": "antena_3_espana",
     "name": "Antena 3 de España",
     "lang": "es",
-    "xmltv_id": "Antena3.es@National"
+    "xmltv_id": "Antena3.es@National",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/antena-3-es.png"
   },
   {
     "site_id": "antigua",
@@ -483,7 +484,8 @@
     "site_id": "azteca_7",
     "name": "Azteca 7",
     "lang": "es",
-    "xmltv_id": "Azteca7.mx@SD"
+    "xmltv_id": "Azteca7.mx@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/azteca-7-mx.png"
   },
   {
     "site_id": "azteca_guatemala",
@@ -1262,15 +1264,13 @@
     "site_id": "etb_1",
     "name": "ETB 1",
     "lang": "es",
-    "xmltv_id": "ETB1.es@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/etb1-es.png"
+    "xmltv_id": "ETB1.es@SD"
   },
   {
     "site_id": "etb_2",
     "name": "ETB 2",
     "lang": "es",
-    "xmltv_id": "ETB2.es@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/etb2-es.png"
+    "xmltv_id": "ETB2.es@SD"
   },
   {
     "site_id": "eurochannel",
@@ -1295,13 +1295,15 @@
     "site_id": "eurosport_1_espana",
     "name": "Eurosport 1 España",
     "lang": "es",
-    "xmltv_id": "Eurosport1.fr@Spain"
+    "xmltv_id": "Eurosport1.fr@Spain",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "eurosport_2_espana",
     "name": "Eurosport 2 España",
     "lang": "es",
-    "xmltv_id": "Eurosport2.fr@Spain"
+    "xmltv_id": "Eurosport2.fr@Spain",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "ewtn_en_espanol",
@@ -2839,8 +2841,7 @@
     "site_id": "vh1",
     "name": "VH1 Lat.",
     "lang": "es",
-    "xmltv_id": "VH1.us@East",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/vh1-us.png"
+    "xmltv_id": "VH1.us@East"
   },
   {
     "site_id": "via_x",

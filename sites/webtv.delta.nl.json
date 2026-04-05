@@ -3,50 +3,43 @@
     "site_id": "1",
     "name": "NPO 1",
     "lang": "nl",
-    "xmltv_id": "NPO1.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/npo1-nl.png"
+    "xmltv_id": "NPO1.nl@SD"
   },
   {
     "site_id": "2",
     "name": "NPO 2",
     "lang": "nl",
-    "xmltv_id": "NPO2.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/npo2-nl.png"
+    "xmltv_id": "NPO2.nl@SD"
   },
   {
     "site_id": "3",
     "name": "NPO 3",
     "lang": "nl",
-    "xmltv_id": "NPO3.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/npo3-nl.png"
+    "xmltv_id": "NPO3.nl@SD"
   },
   {
     "site_id": "4",
     "name": "RTL4",
     "lang": "nl",
-    "xmltv_id": "RTL4.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/rtl4-nl.png"
+    "xmltv_id": "RTL4.nl@SD"
   },
   {
     "site_id": "5",
     "name": "RTL5",
     "lang": "nl",
-    "xmltv_id": "RTL5.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/rtl5-nl.png"
+    "xmltv_id": "RTL5.nl@SD"
   },
   {
     "site_id": "6",
     "name": "SBS6",
     "lang": "nl",
-    "xmltv_id": "SBS6.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/sbs6-nl.png"
+    "xmltv_id": "SBS6.nl@SD"
   },
   {
     "site_id": "7",
     "name": "RTL7",
     "lang": "nl",
-    "xmltv_id": "RTL7.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/rtl7-nl.png"
+    "xmltv_id": "RTL7.nl@SD"
   },
   {
     "site_id": "8",
@@ -58,15 +51,13 @@
     "site_id": "9",
     "name": "NET5",
     "lang": "nl",
-    "xmltv_id": "NET5.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/net5-nl.png"
+    "xmltv_id": "NET5.nl@SD"
   },
   {
     "site_id": "10",
     "name": "RTL8",
     "lang": "nl",
-    "xmltv_id": "RTL8.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/rtl8-nl.png"
+    "xmltv_id": "RTL8.nl@SD"
   },
   {
     "site_id": "11",
@@ -144,13 +135,15 @@
     "site_id": "26",
     "name": "Eurosport 1",
     "lang": "nl",
-    "xmltv_id": "Eurosport1.fr@France"
+    "xmltv_id": "Eurosport1.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-1-fr.png"
   },
   {
     "site_id": "28",
     "name": "VRT 1",
     "lang": "nl",
-    "xmltv_id": "VRT1.be"
+    "xmltv_id": "VRT1.be",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vrt-1-be.png"
   },
   {
     "site_id": "29",
@@ -176,7 +169,8 @@
     "site_id": "32",
     "name": "Eurosport 2",
     "lang": "nl",
-    "xmltv_id": "Eurosport2.fr@France"
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/eurosport-2-fr.png"
   },
   {
     "site_id": "33",
@@ -267,7 +261,8 @@
     "site_id": "50",
     "name": "France 2",
     "lang": "fr",
-    "xmltv_id": "France2.fr@SD"
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-2-fr.png"
   },
   {
     "site_id": "51",
@@ -293,8 +288,7 @@
     "site_id": "54",
     "name": "SBS9",
     "lang": "nl",
-    "xmltv_id": "SBS9.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/sbs9-nl.png"
+    "xmltv_id": "SBS9.nl@SD"
   },
   {
     "site_id": "55",
@@ -348,7 +342,8 @@
     "site_id": "63",
     "name": "TV 538",
     "lang": "nl",
-    "xmltv_id": "TV538.nl@SD"
+    "xmltv_id": "TV538.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/tv-538-nl.png"
   },
   {
     "site_id": "64",
@@ -360,8 +355,7 @@
     "site_id": "65",
     "name": "Family 7",
     "lang": "nl",
-    "xmltv_id": "Family7.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/family7-nl.png"
+    "xmltv_id": "Family7.nl@SD"
   },
   {
     "site_id": "67",
@@ -571,7 +565,8 @@
     "site_id": "3012",
     "name": "Sat.1",
     "lang": "de",
-    "xmltv_id": "SAT1.de@SD"
+    "xmltv_id": "SAT1.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/sat-1-de.png"
   },
   {
     "site_id": "3013",
@@ -597,8 +592,7 @@
     "site_id": "3016",
     "name": "3Sat",
     "lang": "de",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+    "xmltv_id": "3sat.de@SD"
   },
   {
     "site_id": "3017",
@@ -624,13 +618,15 @@
     "site_id": "3020",
     "name": "Rai Uno",
     "lang": "it",
-    "xmltv_id": "Rai1.it@SD"
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-1-it.png"
   },
   {
     "site_id": "3021",
     "name": "France24",
     "lang": "fr",
-    "xmltv_id": "France24.fr@French"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-24-fr.png"
   },
   {
     "site_id": "3022",
@@ -649,29 +645,25 @@
     "site_id": "3025",
     "name": "Film1 Premiere",
     "lang": "nl",
-    "xmltv_id": "Film1Premiere.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/film1-premiere-nl.png"
+    "xmltv_id": "Film1Premiere.nl@SD"
   },
   {
     "site_id": "3026",
     "name": "Film1 Action",
     "lang": "nl",
-    "xmltv_id": "Film1Action.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/film1-action-nl.png"
+    "xmltv_id": "Film1Action.nl@SD"
   },
   {
     "site_id": "3027",
     "name": "Film1 Family",
     "lang": "nl",
-    "xmltv_id": "Film1Family.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/film1-family-nl.png"
+    "xmltv_id": "Film1Family.nl@SD"
   },
   {
     "site_id": "3029",
     "name": "Film1 Drama",
     "lang": "nl",
-    "xmltv_id": "Film1Drama.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/film1-drama-nl.png"
+    "xmltv_id": "Film1Drama.nl@SD"
   },
   {
     "site_id": "3030",
@@ -683,31 +675,36 @@
     "site_id": "3031",
     "name": "Ziggo Sport Voetbal",
     "lang": "nl",
-    "xmltv_id": "ZiggoSport2.nl"
+    "xmltv_id": "ZiggoSport2.nl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/ziggo-sport-2-nl.png"
   },
   {
     "site_id": "3032",
     "name": "Ziggo Sport Golf",
     "lang": "nl",
-    "xmltv_id": "ZiggoSport6.nl"
+    "xmltv_id": "ZiggoSport6.nl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/ziggo-sport-6-nl.png"
   },
   {
     "site_id": "3033",
     "name": "Ziggo Sport Racing",
     "lang": "nl",
-    "xmltv_id": "ZiggoSport3.nl"
+    "xmltv_id": "ZiggoSport3.nl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/ziggo-sport-3-nl.png"
   },
   {
     "site_id": "3034",
     "name": "Ziggo Sport Docu",
     "lang": "nl",
-    "xmltv_id": "ZiggoSport5.nl"
+    "xmltv_id": "ZiggoSport5.nl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/ziggo-sport-5-nl.png"
   },
   {
     "site_id": "3035",
     "name": "Ziggo Sport Tennis",
     "lang": "nl",
-    "xmltv_id": "ZiggoSport4.nl"
+    "xmltv_id": "ZiggoSport4.nl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/ziggo-sport-4-nl.png"
   },
   {
     "site_id": "3036",
@@ -720,19 +717,22 @@
     "site_id": "3037",
     "name": "ESPN 2",
     "lang": "nl",
-    "xmltv_id": "ESPN2.nl@HD"
+    "xmltv_id": "ESPN2.nl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/espn-2-nl.png"
   },
   {
     "site_id": "3038",
     "name": "ESPN 3",
     "lang": "nl",
-    "xmltv_id": "ESPN3.nl@HD"
+    "xmltv_id": "ESPN3.nl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/espn-3-nl.png"
   },
   {
     "site_id": "3039",
     "name": "ESPN 4",
     "lang": "nl",
-    "xmltv_id": "ESPN4.nl@HD"
+    "xmltv_id": "ESPN4.nl@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/espn-4-nl.png"
   },
   {
     "site_id": "3043",
@@ -922,8 +922,7 @@
     "site_id": "3093",
     "name": "AT5",
     "lang": "nl",
-    "xmltv_id": "AT5.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/at5-nl.png"
+    "xmltv_id": "AT5.nl@SD"
   },
   {
     "site_id": "3095",
@@ -971,8 +970,7 @@
     "site_id": "3108",
     "name": "L1",
     "lang": "nl",
-    "xmltv_id": "L1TV.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/l1-tv-nl.png"
+    "xmltv_id": "L1TV.nl@SD"
   },
   {
     "site_id": "3109",
@@ -1021,7 +1019,8 @@
     "site_id": "3120",
     "name": "France 3",
     "lang": "fr",
-    "xmltv_id": "France3.fr@SD"
+    "xmltv_id": "France3.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/france-3-fr.png"
   },
   {
     "site_id": "3121",

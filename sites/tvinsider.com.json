@@ -480,8 +480,7 @@
     "site_id": "dazn",
     "name": "DAZN",
     "lang": "en",
-    "xmltv_id": "DAZN1.uk@Germany",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dazn1-uk.png"
+    "xmltv_id": "DAZN1.uk@Germany"
   },
   {
     "site_id": "dc-universe",
@@ -587,7 +586,8 @@
     "site_id": "espn2",
     "name": "ESPN2",
     "lang": "en",
-    "xmltv_id": "ESPN2.us@SD"
+    "xmltv_id": "ESPN2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-2-us.png"
   },
   {
     "site_id": "espn-deportes",
@@ -798,13 +798,15 @@
     "site_id": "fox-sports-1",
     "name": "Fox Sports 1",
     "lang": "en",
-    "xmltv_id": "FoxSports1.us@SD"
+    "xmltv_id": "FoxSports1.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-sports-1-us.png"
   },
   {
     "site_id": "fox-sports-2",
     "name": "Fox Sports 2",
     "lang": "en",
-    "xmltv_id": "FoxSports2.us@SD"
+    "xmltv_id": "FoxSports2.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-sports-2-us.png"
   },
   {
     "site_id": "freeform",
@@ -870,8 +872,7 @@
     "site_id": "g4",
     "name": "G4",
     "lang": "en",
-    "xmltv_id": "G4.us",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/g4-us.png"
+    "xmltv_id": "G4.us"
   },
   {
     "site_id": "game-show-network",
@@ -1339,7 +1340,8 @@
     "site_id": "mtv2",
     "name": "MTV2",
     "lang": "en",
-    "xmltv_id": "MTV2.us@East"
+    "xmltv_id": "MTV2.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-2-us.png"
   },
   {
     "site_id": "mtv-classic",
@@ -1804,7 +1806,8 @@
     "site_id": "showtime-2",
     "name": "Showtime 2",
     "lang": "en",
-    "xmltv_id": "Showtime2.us@East"
+    "xmltv_id": "Showtime2.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/showtime-2-us.png"
   },
   {
     "site_id": "showtime-extreme",
@@ -2324,8 +2327,7 @@
     "site_id": "vh1",
     "name": "VH1",
     "lang": "en",
-    "xmltv_id": "VH1.us@East",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/vh1-us.png"
+    "xmltv_id": "VH1.us@East"
   },
   {
     "site_id": "viaplay",
