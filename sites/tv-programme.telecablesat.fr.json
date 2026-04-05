@@ -1,0 +1,1727 @@
+[
+  {
+    "site_id": "2",
+    "name": "13eme RUE",
+    "lang": "fr",
+    "xmltv_id": "13emeRue.fr@SD"
+  },
+  {
+    "site_id": "3",
+    "name": "3SAT",
+    "lang": "fr",
+    "xmltv_id": "3sat.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/3sat-de.png"
+  },
+  {
+    "site_id": "4",
+    "name": "France 2",
+    "lang": "fr",
+    "xmltv_id": "France2.fr@SD"
+  },
+  {
+    "site_id": "5",
+    "name": "AB 1",
+    "lang": "fr",
+    "xmltv_id": "AB1.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/ab1-fr.png"
+  },
+  {
+    "site_id": "6",
+    "name": "Mangas",
+    "lang": "fr",
+    "xmltv_id": "Mangas.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mangas-fr.png"
+  },
+  {
+    "site_id": "7",
+    "name": "Toute l'histoire",
+    "lang": "fr",
+    "xmltv_id": "ToutelHistoire.fr@SD"
+  },
+  {
+    "site_id": "10",
+    "name": "Action",
+    "lang": "fr",
+    "xmltv_id": "Action.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/action-fr.png"
+  },
+  {
+    "site_id": "12",
+    "name": "Animaux",
+    "lang": "fr",
+    "xmltv_id": "Animaux.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/animaux-fr.png"
+  },
+  {
+    "site_id": "13",
+    "name": "Das Erste",
+    "lang": "de",
+    "xmltv_id": "DasErste.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/das-erste-de.png"
+  },
+  {
+    "site_id": "15",
+    "name": "Automoto",
+    "lang": "fr",
+    "xmltv_id": "Automotolachaine.fr@SD"
+  },
+  {
+    "site_id": "16",
+    "name": "BBC 1",
+    "lang": "en",
+    "xmltv_id": "BBCOne.uk@London",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+  },
+  {
+    "site_id": "17",
+    "name": "BBC 2",
+    "lang": "en",
+    "xmltv_id": "BBCTwo.uk@England",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
+  },
+  {
+    "site_id": "18",
+    "name": "BBC Entertainment",
+    "lang": "en",
+    "xmltv_id": "BBCEntertainment.uk@SD"
+  },
+  {
+    "site_id": "19",
+    "name": "BBC World News",
+    "lang": "en",
+    "xmltv_id": "BBCNews.uk@Europe",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+  },
+  {
+    "site_id": "23",
+    "name": "één",
+    "lang": "nl",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "24",
+    "name": "Canvas",
+    "lang": "nl",
+    "xmltv_id": "VRTCanvas.be",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vrt-canvas-be.png"
+  },
+  {
+    "site_id": "29",
+    "name": "BE 1",
+    "lang": "fr",
+    "xmltv_id": "Be1.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/be1-be.png"
+  },
+  {
+    "site_id": "32",
+    "name": "Canal J",
+    "lang": "fr",
+    "xmltv_id": "CanalJ.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-j-fr.png"
+  },
+  {
+    "site_id": "33",
+    "name": "Canal+ Cinéma(s)",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusCinemas.fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-plus-cinemas-fr.png"
+  },
+  {
+    "site_id": "34",
+    "name": "Canal+",
+    "lang": "fr",
+    "xmltv_id": "CanalPlus.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-plus-fr.png"
+  },
+  {
+    "site_id": "35",
+    "name": "Canal+ Sport",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusSport.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-plus-sport-fr.png"
+  },
+  {
+    "site_id": "36",
+    "name": "Cartoon Network",
+    "lang": "fr",
+    "xmltv_id": "CartoonNetworkCEE.uk@France"
+  },
+  {
+    "site_id": "38",
+    "name": "Chasse et pêche",
+    "lang": "fr",
+    "xmltv_id": "ChassePeche.fr@SD"
+  },
+  {
+    "site_id": "47",
+    "name": "France 5",
+    "lang": "fr",
+    "xmltv_id": "France5.fr@SD"
+  },
+  {
+    "site_id": "49",
+    "name": "serieclub",
+    "lang": "fr",
+    "xmltv_id": "SerieClub.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/serie-club-fr.png"
+  },
+  {
+    "site_id": "50",
+    "name": "RTL Club",
+    "lang": "fr",
+    "xmltv_id": "RTLclub.be@SD"
+  },
+  {
+    "site_id": "53",
+    "name": "CNN",
+    "lang": "en",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "54",
+    "name": "Comédie+",
+    "lang": "fr",
+    "xmltv_id": "ComediePlus.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/comedie-plus-fr.png"
+  },
+  {
+    "site_id": "57",
+    "name": "Demain TV",
+    "lang": "fr",
+    "xmltv_id": "DemainTV.fr@SD"
+  },
+  {
+    "site_id": "58",
+    "name": "Disney Channel",
+    "lang": "fr",
+    "xmltv_id": "DisneyChannel.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/disney-channel-fr.png"
+  },
+  {
+    "site_id": "61",
+    "name": "DW (English)",
+    "lang": "en",
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
+  },
+  {
+    "site_id": "63",
+    "name": "Science & Vie TV",
+    "lang": "fr",
+    "xmltv_id": "ScienceVieTV.fr@SD"
+  },
+  {
+    "site_id": "64",
+    "name": "Equidia",
+    "lang": "fr",
+    "xmltv_id": "Equidia.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/equidia-fr.png"
+  },
+  {
+    "site_id": "76",
+    "name": "Eurosport 1",
+    "lang": "fr",
+    "xmltv_id": "Eurosport1.fr@France"
+  },
+  {
+    "site_id": "78",
+    "name": "France 4",
+    "lang": "fr",
+    "xmltv_id": "France4.fr@SD"
+  },
+  {
+    "site_id": "80",
+    "name": "France 3",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@SD"
+  },
+  {
+    "site_id": "87",
+    "name": "Game One",
+    "lang": "fr",
+    "xmltv_id": "GameOne.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/game-one-fr.png"
+  },
+  {
+    "site_id": "88",
+    "name": "Histoire TV",
+    "lang": "fr",
+    "xmltv_id": "HistoireTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/histoire-tv-fr.png"
+  },
+  {
+    "site_id": "94",
+    "name": "Infosport+",
+    "lang": "fr",
+    "xmltv_id": "InfosportPlus.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/infosport-plus-fr.png"
+  },
+  {
+    "site_id": "110",
+    "name": "KTO",
+    "lang": "fr",
+    "xmltv_id": "KTO.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/kto-fr.png"
+  },
+  {
+    "site_id": "111",
+    "name": "Arte",
+    "lang": "fr",
+    "xmltv_id": "arte.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/arte-fr.png"
+  },
+  {
+    "site_id": "112",
+    "name": "LCI - La Chaîne Info",
+    "lang": "fr",
+    "xmltv_id": "LCI.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/lci-fr.png"
+  },
+  {
+    "site_id": "115",
+    "name": "RTL 9",
+    "lang": "fr",
+    "xmltv_id": "RTL9.lu@SD"
+  },
+  {
+    "site_id": "116",
+    "name": "BFM Lyon Métropole",
+    "lang": "fr",
+    "xmltv_id": "BFMLyon.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/bfm-lyon-fr.png"
+  },
+  {
+    "site_id": "118",
+    "name": "M6",
+    "lang": "fr",
+    "xmltv_id": "M6.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/m6-fr.png"
+  },
+  {
+    "site_id": "119",
+    "name": "W9",
+    "lang": "fr",
+    "xmltv_id": "W9.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/w9-fr.png"
+  },
+  {
+    "site_id": "121",
+    "name": "MCM",
+    "lang": "fr",
+    "xmltv_id": "MCM.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mcm-fr.png"
+  },
+  {
+    "site_id": "125",
+    "name": "Mezzo",
+    "lang": "fr",
+    "xmltv_id": "Mezzo.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mezzo-fr.png"
+  },
+  {
+    "site_id": "128",
+    "name": "MTV",
+    "lang": "fr",
+    "xmltv_id": "MTV.fr@SD"
+  },
+  {
+    "site_id": "140",
+    "name": "Euronews",
+    "lang": "fr",
+    "xmltv_id": "EuronewsFrench.fr@SD"
+  },
+  {
+    "site_id": "145",
+    "name": "Paris Première",
+    "lang": "fr",
+    "xmltv_id": "ParisPremiere.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/paris-premiere-fr.png"
+  },
+  {
+    "site_id": "147",
+    "name": "Planète+",
+    "lang": "fr",
+    "xmltv_id": "PlanetePlus.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/planete-plus-fr.png"
+  },
+  {
+    "site_id": "154",
+    "name": "Rai Due",
+    "lang": "it",
+    "xmltv_id": "Rai2.it@SD"
+  },
+  {
+    "site_id": "155",
+    "name": "Rai Tre",
+    "lang": "it",
+    "xmltv_id": "Rai3.it@HD"
+  },
+  {
+    "site_id": "156",
+    "name": "Rai Uno",
+    "lang": "it",
+    "xmltv_id": "Rai1.it@SD"
+  },
+  {
+    "site_id": "164",
+    "name": "La Une",
+    "lang": "fr",
+    "xmltv_id": "LaUne.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/la-une-be.png"
+  },
+  {
+    "site_id": "168",
+    "name": "RTL TVI",
+    "lang": "fr",
+    "xmltv_id": "RTLTVI.be@SD"
+  },
+  {
+    "site_id": "169",
+    "name": "RTPI",
+    "lang": "fr",
+    "xmltv_id": "RTPInternacional.pt@SD"
+  },
+  {
+    "site_id": "173",
+    "name": "Seasons",
+    "lang": "fr",
+    "xmltv_id": "Seasons.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/seasons-fr.png"
+  },
+  {
+    "site_id": "183",
+    "name": "RTS 2",
+    "lang": "fr",
+    "xmltv_id": "RTS2.ch@SD"
+  },
+  {
+    "site_id": "185",
+    "name": "TCM Cinéma",
+    "lang": "fr",
+    "xmltv_id": "TCMCinema.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tcm-cinema-fr.png"
+  },
+  {
+    "site_id": "187",
+    "name": "Tipik",
+    "lang": "fr",
+    "xmltv_id": "Tipik.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/tipik-be.png"
+  },
+  {
+    "site_id": "191",
+    "name": "Téva",
+    "lang": "fr",
+    "xmltv_id": "Teva.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/teva-fr.png"
+  },
+  {
+    "site_id": "192",
+    "name": "TF1",
+    "lang": "fr",
+    "xmltv_id": "TF1.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tf1-fr.png"
+  },
+  {
+    "site_id": "195",
+    "name": "TMC",
+    "lang": "fr",
+    "xmltv_id": "TMC.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tmc-fr.png"
+  },
+  {
+    "site_id": "197",
+    "name": "TéléToon+",
+    "lang": "fr",
+    "xmltv_id": "TeletoonPlus.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/teletoon-plus-fr.png"
+  },
+  {
+    "site_id": "200",
+    "name": "RSI LA 1",
+    "lang": "fr",
+    "xmltv_id": "RSILa1.ch@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/switzerland/rsi-la1-ch.png"
+  },
+  {
+    "site_id": "201",
+    "name": "RSI LA 2",
+    "lang": "fr",
+    "xmltv_id": "RSILa2.ch@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/switzerland/rsi-la2-ch.png"
+  },
+  {
+    "site_id": "202",
+    "name": "RTS 1",
+    "lang": "fr",
+    "xmltv_id": "RTS1.ch@SD"
+  },
+  {
+    "site_id": "205",
+    "name": "TV5MONDE",
+    "lang": "fr",
+    "xmltv_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD"
+  },
+  {
+    "site_id": "206",
+    "name": "TVE 1",
+    "lang": "fr",
+    "xmltv_id": "La1.es@SD"
+  },
+  {
+    "site_id": "207",
+    "name": "TVE 2",
+    "lang": "fr",
+    "xmltv_id": "La2.es@SD"
+  },
+  {
+    "site_id": "208",
+    "name": "TVE",
+    "lang": "fr",
+    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD"
+  },
+  {
+    "site_id": "215",
+    "name": "VTM",
+    "lang": "nl",
+    "xmltv_id": "VTM.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vtm-be.png"
+  },
+  {
+    "site_id": "218",
+    "name": "XXL",
+    "lang": "fr",
+    "xmltv_id": "XXL.fr@SD"
+  },
+  {
+    "site_id": "219",
+    "name": "ZDF",
+    "lang": "de",
+    "xmltv_id": "ZDF.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/zdf-de.png"
+  },
+  {
+    "site_id": "225",
+    "name": "TvBreizh",
+    "lang": "fr",
+    "xmltv_id": "TVBreizh.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tv-breizh-fr.png"
+  },
+  {
+    "site_id": "226",
+    "name": "CNEWS",
+    "lang": "fr",
+    "xmltv_id": "CNews.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/c-news-fr.png"
+  },
+  {
+    "site_id": "229",
+    "name": "TIJI",
+    "lang": "fr",
+    "xmltv_id": "TiJi.fr@SD"
+  },
+  {
+    "site_id": "232",
+    "name": "TV5MONDE Europe",
+    "lang": "fr",
+    "xmltv_id": "TV5MondeEurope.fr@SD"
+  },
+  {
+    "site_id": "234",
+    "name": "La Chaîne parlementaire",
+    "lang": "fr",
+    "xmltv_id": "LCP.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/lcp-fr.png"
+  },
+  {
+    "site_id": "240",
+    "name": "Nouvelle-Calédonie la 1ère",
+    "lang": "fr",
+    "xmltv_id": "NouvelleCaledonie1ere.nc@SD"
+  },
+  {
+    "site_id": "243",
+    "name": "National Geographic",
+    "lang": "fr",
+    "xmltv_id": "NationalGeographic.fr@SD"
+  },
+  {
+    "site_id": "245",
+    "name": "Réunion la 1ère",
+    "lang": "fr",
+    "xmltv_id": "Reunion1ere.re@SD"
+  },
+  {
+    "site_id": "254",
+    "name": "AB 3",
+    "lang": "fr",
+    "xmltv_id": "AB3.be@SD"
+  },
+  {
+    "site_id": "260",
+    "name": "Guyane la 1ère",
+    "lang": "fr",
+    "xmltv_id": "Guyane1ere.gf@SD"
+  },
+  {
+    "site_id": "265",
+    "name": "Melody",
+    "lang": "fr",
+    "xmltv_id": "Melody.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/melody-fr.png"
+  },
+  {
+    "site_id": "273",
+    "name": "TV7 Bordeaux",
+    "lang": "fr",
+    "xmltv_id": "TV7Bordeaux.fr@SD"
+  },
+  {
+    "site_id": "282",
+    "name": "Ciné+ Premier",
+    "lang": "fr",
+    "xmltv_id": "CinePlusPremier.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/cine-plus-premier-fr.png"
+  },
+  {
+    "site_id": "283",
+    "name": "Ciné+ Emotion",
+    "lang": "fr",
+    "xmltv_id": "CinePlusEmotion.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/cine-plus-emotion-fr.png"
+  },
+  {
+    "site_id": "284",
+    "name": "Ciné+ Frisson",
+    "lang": "fr",
+    "xmltv_id": "CinePlusFrisson.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/cine-plus-frisson-fr.png"
+  },
+  {
+    "site_id": "285",
+    "name": "Ciné+ Club",
+    "lang": "fr",
+    "xmltv_id": "CinePlusClub.fr@SD"
+  },
+  {
+    "site_id": "287",
+    "name": "Ciné+ Classic",
+    "lang": "fr",
+    "xmltv_id": "CinePlusClassic.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/cine-plus-classic-fr.png"
+  },
+  {
+    "site_id": "294",
+    "name": "Ciné+ Premier Belgique",
+    "lang": "fr",
+    "xmltv_id": "CinePlusPremier.be",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/cine-plus-premier-be.png"
+  },
+  {
+    "site_id": "295",
+    "name": "ATV Martinique",
+    "lang": "fr",
+    "xmltv_id": "ViaATV.mq@SD"
+  },
+  {
+    "site_id": "300",
+    "name": "Disney Junior",
+    "lang": "fr",
+    "xmltv_id": "DisneyJr.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/disney-jr-fr.png"
+  },
+  {
+    "site_id": "303",
+    "name": "ABXPLORE",
+    "lang": "fr",
+    "xmltv_id": "ABXplore.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/ab-xplore-be.png"
+  },
+  {
+    "site_id": "308",
+    "name": "France 3 Corse Via Stella",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@CorseViaStella"
+  },
+  {
+    "site_id": "317",
+    "name": "Ciné+ Frisson Belgique",
+    "lang": "fr",
+    "xmltv_id": "CinePlusFrisson.be",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/cine-plus-frisson-be.png"
+  },
+  {
+    "site_id": "318",
+    "name": "CGTN",
+    "lang": "fr",
+    "xmltv_id": "CGTNFrench.cn@SD"
+  },
+  {
+    "site_id": "321",
+    "name": "Boomerang",
+    "lang": "fr",
+    "xmltv_id": "Boomerang.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/boomerang-fr.png"
+  },
+  {
+    "site_id": "328",
+    "name": "Martinique la 1ère",
+    "lang": "fr",
+    "xmltv_id": "Martinique1ere.mq@SD"
+  },
+  {
+    "site_id": "329",
+    "name": "Guadeloupe la 1ère",
+    "lang": "fr",
+    "xmltv_id": "Guadeloupe1ere.gp@SD"
+  },
+  {
+    "site_id": "340",
+    "name": "2M Monde",
+    "lang": "fr",
+    "xmltv_id": "2MMonde.ma@SD"
+  },
+  {
+    "site_id": "344",
+    "name": "Piwi+",
+    "lang": "fr",
+    "xmltv_id": "PiwiPlus.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/piwi-plus-fr.png"
+  },
+  {
+    "site_id": "376",
+    "name": "Canal+ Antilles",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusCaraibes.fr@SD"
+  },
+  {
+    "site_id": "377",
+    "name": "RTL Plug",
+    "lang": "fr",
+    "xmltv_id": "RTLplug.be@SD"
+  },
+  {
+    "site_id": "382",
+    "name": "BX1",
+    "lang": "fr",
+    "xmltv_id": "BX1.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/bx1-be.png"
+  },
+  {
+    "site_id": "383",
+    "name": "Télé Sambre",
+    "lang": "fr",
+    "xmltv_id": "Telesambre.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/telesambre-be.png"
+  },
+  {
+    "site_id": "385",
+    "name": "TV COM",
+    "lang": "fr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "386",
+    "name": "Canal Zoom",
+    "lang": "fr",
+    "xmltv_id": "CanalZoom.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/canal-zoom-be.png"
+  },
+  {
+    "site_id": "387",
+    "name": "Télé MB",
+    "lang": "fr",
+    "xmltv_id": "TeleMB.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/tele-mb-be.png"
+  },
+  {
+    "site_id": "388",
+    "name": "ACTV",
+    "lang": "fr",
+    "xmltv_id": "ACTV.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/actv-be.png"
+  },
+  {
+    "site_id": "389",
+    "name": "Canal C",
+    "lang": "fr",
+    "xmltv_id": "Bouke.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/bouke-be.png"
+  },
+  {
+    "site_id": "390",
+    "name": "RTC Télé Liège",
+    "lang": "fr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "391",
+    "name": "VEDIA",
+    "lang": "fr",
+    "xmltv_id": "Vedia.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/vedia-be.png"
+  },
+  {
+    "site_id": "392",
+    "name": "TV Lux",
+    "lang": "fr",
+    "xmltv_id": "TVLux.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/tv-lux-be.png"
+  },
+  {
+    "site_id": "393",
+    "name": "MAtélé",
+    "lang": "fr",
+    "xmltv_id": "Matele.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/matele-be.png"
+  },
+  {
+    "site_id": "400",
+    "name": "Discovery Channel",
+    "lang": "fr",
+    "xmltv_id": "DiscoveryChannel.fr@SD"
+  },
+  {
+    "site_id": "401",
+    "name": "Ciné+ Famiz",
+    "lang": "fr",
+    "xmltv_id": "CinePlusFamily.fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/cine-plus-family-fr.png"
+  },
+  {
+    "site_id": "402",
+    "name": "Planète+ Aventure & Expérience",
+    "lang": "fr",
+    "xmltv_id": "PlanetePlusAventure.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/planete-plus-aventure-fr.png"
+  },
+  {
+    "site_id": "405",
+    "name": "E !",
+    "lang": "fr",
+    "xmltv_id": "E.fr@SD"
+  },
+  {
+    "site_id": "406",
+    "name": "Pink TV",
+    "lang": "fr",
+    "xmltv_id": "PinkTV.fr@SD"
+  },
+  {
+    "site_id": "413",
+    "name": "VOOsport World 1",
+    "lang": "fr",
+    "xmltv_id": "VOOsportWorld1.be@SD"
+  },
+  {
+    "site_id": "414",
+    "name": "VOOsport World 2",
+    "lang": "fr",
+    "xmltv_id": "VOOsportWorld2.be@SD"
+  },
+  {
+    "site_id": "415",
+    "name": "Nautical Channel",
+    "lang": "fr",
+    "xmltv_id": "NauticalChannel.it@SD"
+  },
+  {
+    "site_id": "416",
+    "name": "Hustler TV",
+    "lang": "fr",
+    "xmltv_id": "HustlerTVEurope.nl@SD"
+  },
+  {
+    "site_id": "417",
+    "name": "Be Ciné",
+    "lang": "fr",
+    "xmltv_id": "BeCine.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/be-cine-be.png"
+  },
+  {
+    "site_id": "418",
+    "name": "Be Séries",
+    "lang": "fr",
+    "xmltv_id": "BeSeries.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/be-series-be.png"
+  },
+  {
+    "site_id": "421",
+    "name": "8 Mont-Blanc",
+    "lang": "fr",
+    "xmltv_id": "TV8MontBlanc.fr@SD"
+  },
+  {
+    "site_id": "436",
+    "name": "Antenne Réunion",
+    "lang": "fr",
+    "xmltv_id": "AntenneReunion.fr@SD"
+  },
+  {
+    "site_id": "437",
+    "name": "Ciné+ Classic Belgique",
+    "lang": "fr",
+    "xmltv_id": "CinePlusClassic.be",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/cine-plus-classic-be.png"
+  },
+  {
+    "site_id": "439",
+    "name": "Eurosport 2",
+    "lang": "fr",
+    "xmltv_id": "Eurosport2.fr@France"
+  },
+  {
+    "site_id": "444",
+    "name": "NRJ 12",
+    "lang": "fr",
+    "xmltv_id": "NRJ12.fr@SD"
+  },
+  {
+    "site_id": "445",
+    "name": "C8",
+    "lang": "fr",
+    "xmltv_id": "C8.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/c8-fr.png"
+  },
+  {
+    "site_id": "446",
+    "name": "TFX",
+    "lang": "fr",
+    "xmltv_id": "TFX.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tfx-fr.png"
+  },
+  {
+    "site_id": "451",
+    "name": "Ushuaïa TV",
+    "lang": "fr",
+    "xmltv_id": "UshuaiaTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/ushuaia-tv-fr.png"
+  },
+  {
+    "site_id": "458",
+    "name": "CSTAR",
+    "lang": "fr",
+    "xmltv_id": "CStar.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/c-star-fr.png"
+  },
+  {
+    "site_id": "463",
+    "name": "OLTV",
+    "lang": "fr",
+    "xmltv_id": "OLTV.fr@SD"
+  },
+  {
+    "site_id": "472",
+    "name": "VOOsport World 3",
+    "lang": "fr",
+    "xmltv_id": "VOOsportWorld3.be@SD"
+  },
+  {
+    "site_id": "473",
+    "name": "Nickelodéon",
+    "lang": "fr",
+    "xmltv_id": "Nickelodeon.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/nickelodeon-fr.png"
+  },
+  {
+    "site_id": "479",
+    "name": "Syfy",
+    "lang": "fr",
+    "xmltv_id": "Syfy.fr@SD"
+  },
+  {
+    "site_id": "481",
+    "name": "BFMTV",
+    "lang": "fr",
+    "xmltv_id": "BFMTV.fr@SD"
+  },
+  {
+    "site_id": "482",
+    "name": "Gulli",
+    "lang": "fr",
+    "xmltv_id": "Gulli.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/gulli-fr.png"
+  },
+  {
+    "site_id": "491",
+    "name": "Télénantes",
+    "lang": "fr",
+    "xmltv_id": "Telenantes.fr@SD"
+  },
+  {
+    "site_id": "492",
+    "name": "TVSUD Marseille",
+    "lang": "fr",
+    "xmltv_id": "TVSudProvence.fr@SD"
+  },
+  {
+    "site_id": "519",
+    "name": "Wallis et Futuna la 1ère",
+    "lang": "fr",
+    "xmltv_id": "WallisFutuna1ere.wf@SD"
+  },
+  {
+    "site_id": "525",
+    "name": "Al Jazeera English",
+    "lang": "fr",
+    "xmltv_id": "AlJazeera.qa@English"
+  },
+  {
+    "site_id": "529",
+    "name": "France 24",
+    "lang": "fr",
+    "xmltv_id": "France24.fr@French"
+  },
+  {
+    "site_id": "538",
+    "name": "Vià Occitanie Pays Gardois",
+    "lang": "fr",
+    "xmltv_id": "ViaOccitaniePaysGardois.fr@SD"
+  },
+  {
+    "site_id": "540",
+    "name": "TV Tours",
+    "lang": "fr",
+    "xmltv_id": "TVTours.fr@SD"
+  },
+  {
+    "site_id": "560",
+    "name": "Dorcel TV",
+    "lang": "fr",
+    "xmltv_id": "DorcelTV.nl@SD"
+  },
+  {
+    "site_id": "657",
+    "name": "Canal+ KIDS",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusFamily.fr@SD"
+  },
+  {
+    "site_id": "662",
+    "name": "Planète+ Crime Investigation",
+    "lang": "fr",
+    "xmltv_id": "PlanetePlusCrime.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/planete-plus-crime-fr.png"
+  },
+  {
+    "site_id": "683",
+    "name": "Man-X",
+    "lang": "fr",
+    "xmltv_id": "ManX.be@SD"
+  },
+  {
+    "site_id": "704",
+    "name": "Vià Occitanie Montpellier",
+    "lang": "fr",
+    "xmltv_id": "ViaOccitanieMontpellier.fr@SD"
+  },
+  {
+    "site_id": "719",
+    "name": "National Geographic Wild",
+    "lang": "fr",
+    "xmltv_id": "NationalGeographicWild.fr@SD"
+  },
+  {
+    "site_id": "730",
+    "name": "OCS Max",
+    "lang": "fr",
+    "xmltv_id": "OCSMax.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/ocs-max-fr.png"
+  },
+  {
+    "site_id": "732",
+    "name": "OCS Pulp",
+    "lang": "fr",
+    "xmltv_id": "OCSChoc.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/ocs-choc-fr.png"
+  },
+  {
+    "site_id": "733",
+    "name": "OCS City",
+    "lang": "fr",
+    "xmltv_id": "OCSCity.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/ocs-city-fr.png"
+  },
+  {
+    "site_id": "734",
+    "name": "OCS Géants",
+    "lang": "fr",
+    "xmltv_id": "OCSGeants.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/ocs-geants-fr.png"
+  },
+  {
+    "site_id": "781",
+    "name": "I24news",
+    "lang": "fr",
+    "xmltv_id": "i24NEWSFrench.il@SD"
+  },
+  {
+    "site_id": "822",
+    "name": "Rouge TV",
+    "lang": "fr",
+    "xmltv_id": "RougeTV.ch@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/switzerland/rouge-tv-ch.png"
+  },
+  {
+    "site_id": "829",
+    "name": "MyZen.tv",
+    "lang": "fr",
+    "xmltv_id": "MyZenTV.fr@SD"
+  },
+  {
+    "site_id": "832",
+    "name": "Nick Jr",
+    "lang": "fr",
+    "xmltv_id": "NickelodeonJunior.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/nickelodeon-junior-fr.png"
+  },
+  {
+    "site_id": "835",
+    "name": "Stingray Brava",
+    "lang": "fr",
+    "xmltv_id": "StingrayClassica.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/stingray-classica-ca.png"
+  },
+  {
+    "site_id": "888",
+    "name": "Nickelodeon Junior",
+    "lang": "fr",
+    "xmltv_id": "NickelodeonJunior.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/nickelodeon-junior-fr.png"
+  },
+  {
+    "site_id": "892",
+    "name": "La Trois",
+    "lang": "fr",
+    "xmltv_id": "LaTrois.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/la-trois-be.png"
+  },
+  {
+    "site_id": "907",
+    "name": "Mezzo Live HD",
+    "lang": "fr",
+    "xmltv_id": "MezzoLive.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/mezzo-live-fr.png"
+  },
+  {
+    "site_id": "930",
+    "name": "BFM Grand Lille",
+    "lang": "fr",
+    "xmltv_id": "BFMGrandLille.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/bfm-grand-lille-fr.png"
+  },
+  {
+    "site_id": "936",
+    "name": "Canal Z",
+    "lang": "fr",
+    "xmltv_id": "CanalZ.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/canal-z-be.png"
+  },
+  {
+    "site_id": "964",
+    "name": "Pro7",
+    "lang": "fr",
+    "xmltv_id": "ProSieben.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/pro-sieben-de.png"
+  },
+  {
+    "site_id": "1045",
+    "name": "ViàMoselleTV",
+    "lang": "fr",
+    "xmltv_id": "MoselleTV.fr@SD"
+  },
+  {
+    "site_id": "1072",
+    "name": "Museum TV",
+    "lang": "fr",
+    "xmltv_id": "MuseumTVFrench.fr@SD"
+  },
+  {
+    "site_id": "1073",
+    "name": "BFM Business",
+    "lang": "fr",
+    "xmltv_id": "BFMBusiness.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/bfm-business-fr.png"
+  },
+  {
+    "site_id": "1075",
+    "name": "Proximus 11",
+    "lang": "fr",
+    "xmltv_id": "Proximus11.be@SD"
+  },
+  {
+    "site_id": "1080",
+    "name": "Mayotte la 1ère",
+    "lang": "fr",
+    "xmltv_id": "Mayotte1ere.yt@SD"
+  },
+  {
+    "site_id": "1094",
+    "name": "Saint-Pierre et Miquelon la 1ère",
+    "lang": "fr",
+    "xmltv_id": "SaintPierreMiquelon1ere.pm@SD"
+  },
+  {
+    "site_id": "1140",
+    "name": "ATV Guadeloupe",
+    "lang": "fr",
+    "xmltv_id": "ViaGuadeloupe.fr@SD"
+  },
+  {
+    "site_id": "1144",
+    "name": "Voo Foot",
+    "lang": "fr",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "1166",
+    "name": "Golf Channel",
+    "lang": "fr",
+    "xmltv_id": "GolfChannel.fr@SD"
+  },
+  {
+    "site_id": "1168",
+    "name": "TRACE Sport Stars",
+    "lang": "fr",
+    "xmltv_id": "TraceSportStars.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/trace-sport-stars-fr.png"
+  },
+  {
+    "site_id": "1190",
+    "name": "Eurochannel",
+    "lang": "fr",
+    "xmltv_id": "Eurochannel.uk@SD"
+  },
+  {
+    "site_id": "1280",
+    "name": "Ketnet",
+    "lang": "fr",
+    "xmltv_id": "Ketnet.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/ketnet-be.png"
+  },
+  {
+    "site_id": "1290",
+    "name": "beIN SPORTS 1",
+    "lang": "fr",
+    "xmltv_id": "beINSports1.qa@France"
+  },
+  {
+    "site_id": "1295",
+    "name": "Golf+",
+    "lang": "fr",
+    "xmltv_id": "GolfPlus.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/golf-plus-fr.png"
+  },
+  {
+    "site_id": "1304",
+    "name": "beIN SPORTS 2",
+    "lang": "fr",
+    "xmltv_id": "beINSports2.qa@France"
+  },
+  {
+    "site_id": "1335",
+    "name": "beIN SPORTS 3",
+    "lang": "fr",
+    "xmltv_id": "beINSports3.qa@France"
+  },
+  {
+    "site_id": "1336",
+    "name": "beIN SPORTS MAX 4",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax4.qa@France"
+  },
+  {
+    "site_id": "1337",
+    "name": "beIN SPORTS MAX 5",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax5.qa@France"
+  },
+  {
+    "site_id": "1338",
+    "name": "beIN SPORTS MAX 6",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax6.qa@France"
+  },
+  {
+    "site_id": "1339",
+    "name": "beIN SPORTS MAX 7",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax7.qa@France"
+  },
+  {
+    "site_id": "1340",
+    "name": "beIN SPORTS MAX 8",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax8.qa@France"
+  },
+  {
+    "site_id": "1341",
+    "name": "beIN SPORTS MAX 9",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax9.qa@France"
+  },
+  {
+    "site_id": "1342",
+    "name": "beIN SPORTS MAX 10",
+    "lang": "fr",
+    "xmltv_id": "beINSportsMax10.qa@France"
+  },
+  {
+    "site_id": "1357",
+    "name": "Stingray Djazz",
+    "lang": "fr",
+    "xmltv_id": "StingrayDJAZZ.ca@SD"
+  },
+  {
+    "site_id": "1374",
+    "name": "Discovery Science",
+    "lang": "fr",
+    "xmltv_id": "DiscoveryScienceEurope.uk@France"
+  },
+  {
+    "site_id": "1399",
+    "name": "Chérie 25",
+    "lang": "fr",
+    "xmltv_id": "RMCLife.fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-life-fr.png"
+  },
+  {
+    "site_id": "1400",
+    "name": "RMC Découverte",
+    "lang": "fr",
+    "xmltv_id": "RMCDecouverte.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-decouverte-fr.png"
+  },
+  {
+    "site_id": "1401",
+    "name": "L'Equipe",
+    "lang": "fr",
+    "xmltv_id": "LEquipe.fr@SD"
+  },
+  {
+    "site_id": "1402",
+    "name": "RMC Story",
+    "lang": "fr",
+    "xmltv_id": "RMCStory.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/rmc-story-fr.png"
+  },
+  {
+    "site_id": "1403",
+    "name": "6ter",
+    "lang": "fr",
+    "xmltv_id": "6ter.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/6ter-fr.png"
+  },
+  {
+    "site_id": "1404",
+    "name": "TF1 Séries Films",
+    "lang": "fr",
+    "xmltv_id": "TF1SeriesFilms.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tf1-series-films-fr.png"
+  },
+  {
+    "site_id": "1452",
+    "name": "Men's UP TV",
+    "lang": "fr",
+    "xmltv_id": "MensUPTV.fr@SD"
+  },
+  {
+    "site_id": "1461",
+    "name": "Nollywood TV",
+    "lang": "fr",
+    "xmltv_id": "NollywoodTV.fr@SD"
+  },
+  {
+    "site_id": "1531",
+    "name": "ATV Guyane",
+    "lang": "fr",
+    "xmltv_id": "ViaGuyane.fr@SD"
+  },
+  {
+    "site_id": "1562",
+    "name": "Paramount Channel",
+    "lang": "fr",
+    "xmltv_id": "ParamountChannel.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/paramount-channel-fr.png"
+  },
+  {
+    "site_id": "1563",
+    "name": "Canal+ Séries",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusSeries.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-plus-series-fr.png"
+  },
+  {
+    "site_id": "1585",
+    "name": "J-One",
+    "lang": "fr",
+    "xmltv_id": "JOne.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/j-one-fr.png"
+  },
+  {
+    "site_id": "1776",
+    "name": "Trek",
+    "lang": "fr",
+    "xmltv_id": "Trek.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/trek-fr.png"
+  },
+  {
+    "site_id": "1832",
+    "name": "Novelas TV",
+    "lang": "fr",
+    "xmltv_id": "NovelasTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/novelas-tv-fr.png"
+  },
+  {
+    "site_id": "1833",
+    "name": "NoTélé",
+    "lang": "fr",
+    "xmltv_id": "Notele.be@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/belgium/notele-be.png"
+  },
+  {
+    "site_id": "1921",
+    "name": "France 3 Alpes",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Alpes"
+  },
+  {
+    "site_id": "1922",
+    "name": "France 3 Alsace",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Alsace"
+  },
+  {
+    "site_id": "1923",
+    "name": "France 3 Aquitaine",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Aquitaine"
+  },
+  {
+    "site_id": "1924",
+    "name": "France 3 Auvergne",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Auvergne"
+  },
+  {
+    "site_id": "1925",
+    "name": "France 3 Normandie - Caen",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@NormandieCaen"
+  },
+  {
+    "site_id": "1926",
+    "name": "France 3 Bourgogne",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Bourgogne"
+  },
+  {
+    "site_id": "1927",
+    "name": "France 3 Bretagne",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Bretagne"
+  },
+  {
+    "site_id": "1928",
+    "name": "France 3 Centre-Val de Loire",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@CentreValdeLoire"
+  },
+  {
+    "site_id": "1929",
+    "name": "France 3 Champagne-Ardennes",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@ChampagneArdenne"
+  },
+  {
+    "site_id": "1931",
+    "name": "France 3 Côte d'Azur",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@CotedAzur"
+  },
+  {
+    "site_id": "1932",
+    "name": "France 3 Franche-Comté",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@FrancheComte"
+  },
+  {
+    "site_id": "1933",
+    "name": "France 3 Normandie - Rouen",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@NormandieRouen"
+  },
+  {
+    "site_id": "1934",
+    "name": "France 3 Languedoc-Roussillon",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@LanguedocRoussillon"
+  },
+  {
+    "site_id": "1935",
+    "name": "France 3 Limousin",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Limousin"
+  },
+  {
+    "site_id": "1936",
+    "name": "France 3 Lorraine",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Lorraine"
+  },
+  {
+    "site_id": "1937",
+    "name": "France 3 Midi-Pyrénées",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@MidiPyrenees"
+  },
+  {
+    "site_id": "1938",
+    "name": "France 3 Nord Pas-de-Calais",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@NordPasdeCalais"
+  },
+  {
+    "site_id": "1939",
+    "name": "France 3 Paris Ile-de-France",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@ParisIledeFrance"
+  },
+  {
+    "site_id": "1940",
+    "name": "France 3 Pays de la Loire",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@PaysdelaLoire"
+  },
+  {
+    "site_id": "1941",
+    "name": "France 3 Picardie",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@Picardie"
+  },
+  {
+    "site_id": "1942",
+    "name": "France 3 Poitou-Charentes",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@PoitouCharentes"
+  },
+  {
+    "site_id": "1943",
+    "name": "France 3 Provence-Alpes",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@ProvenceAlpes"
+  },
+  {
+    "site_id": "1944",
+    "name": "France 3 Rhône-Alpes",
+    "lang": "fr",
+    "xmltv_id": "France3.fr@RhoneAlpes"
+  },
+  {
+    "site_id": "1960",
+    "name": "BET",
+    "lang": "fr",
+    "xmltv_id": "BET.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/bet-fr.png"
+  },
+  {
+    "site_id": "1967",
+    "name": "Disney Channel Wallonia",
+    "lang": "fr",
+    "xmltv_id": "DisneyChannel.be@SD"
+  },
+  {
+    "site_id": "1968",
+    "name": "Nickelodéon Wallonia",
+    "lang": "fr",
+    "xmltv_id": "Nickelodeon.nl@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/nickelodeon-nl.png"
+  },
+  {
+    "site_id": "2024",
+    "name": "Eleven Sports 1",
+    "lang": "fr",
+    "xmltv_id": "ElevenSports1.pl@SD"
+  },
+  {
+    "site_id": "2025",
+    "name": "Eleven Sports 2",
+    "lang": "fr",
+    "xmltv_id": "ElevenSports2.pl@SD"
+  },
+  {
+    "site_id": "2029",
+    "name": "RMC Sport 1 UHD",
+    "lang": "fr",
+    "xmltv_id": "RMCSport1.fr@UHD"
+  },
+  {
+    "site_id": "2037",
+    "name": "Crime District",
+    "lang": "fr",
+    "xmltv_id": "CrimeDistrict.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/crime-district-fr.png"
+  },
+  {
+    "site_id": "2040",
+    "name": "Warner TV Next",
+    "lang": "fr",
+    "xmltv_id": "Toonami.fr@SD"
+  },
+  {
+    "site_id": "2049",
+    "name": "A+ International France",
+    "lang": "fr",
+    "xmltv_id": "APlusInternational.fr@SD"
+  },
+  {
+    "site_id": "2090",
+    "name": "Stingray Festival 4K",
+    "lang": "fr",
+    "xmltv_id": "StingrayFestival4K.ca@SD"
+  },
+  {
+    "site_id": "2095",
+    "name": "RMC Sport Access 1",
+    "lang": "fr",
+    "xmltv_id": "RMCSportAccess1.fr@SD"
+  },
+  {
+    "site_id": "2111",
+    "name": "Franceinfo",
+    "lang": "fr",
+    "xmltv_id": "Franceinfo.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/franceinfo-fr.png"
+  },
+  {
+    "site_id": "2184",
+    "name": "Discovery Investigation",
+    "lang": "fr",
+    "xmltv_id": "InvestigationDiscovery.fr@SD"
+  },
+  {
+    "site_id": "2321",
+    "name": "Melody d'Afrique",
+    "lang": "fr",
+    "xmltv_id": "MelodydAfrique.fr@SD"
+  },
+  {
+    "site_id": "2326",
+    "name": "Polar+",
+    "lang": "fr",
+    "xmltv_id": "PolarPlus.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/polar-plus-fr.png"
+  },
+  {
+    "site_id": "2334",
+    "name": "Warner TV",
+    "lang": "fr",
+    "xmltv_id": "WarnerTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/warner-tv-fr.png"
+  },
+  {
+    "site_id": "2381",
+    "name": "Eleven Sports 3",
+    "lang": "fr",
+    "xmltv_id": "ElevenSports3.pl@SD"
+  },
+  {
+    "site_id": "2665",
+    "name": "RMC Sport 1",
+    "lang": "fr",
+    "xmltv_id": "RMCSport1.fr@SD"
+  },
+  {
+    "site_id": "2666",
+    "name": "RMC Sport 2",
+    "lang": "fr",
+    "xmltv_id": "RMCSport2.fr@SD"
+  },
+  {
+    "site_id": "2668",
+    "name": "RMC Sport Live 5",
+    "lang": "fr",
+    "xmltv_id": "RMCSportLive5.fr@SD"
+  },
+  {
+    "site_id": "2669",
+    "name": "RMC Sport Live 6",
+    "lang": "fr",
+    "xmltv_id": "RMCSportLive6.fr@SD"
+  },
+  {
+    "site_id": "2670",
+    "name": "RMC Sport Live 7",
+    "lang": "fr",
+    "xmltv_id": "RMCSportLive7.fr@SD"
+  },
+  {
+    "site_id": "2671",
+    "name": "RMC Sport Live 8",
+    "lang": "fr",
+    "xmltv_id": "RMCSportLive8.fr@SD"
+  },
+  {
+    "site_id": "2672",
+    "name": "RMC Sport Live 9",
+    "lang": "fr",
+    "xmltv_id": "RMCSportLive9.fr@SD"
+  },
+  {
+    "site_id": "2673",
+    "name": "RMC Sport Live 10",
+    "lang": "fr",
+    "xmltv_id": "RMCSportLive10.fr@SD"
+  },
+  {
+    "site_id": "2674",
+    "name": "RMC Sport Live 11",
+    "lang": "fr",
+    "xmltv_id": "RMCSportLive11.fr@SD"
+  },
+  {
+    "site_id": "2675",
+    "name": "RMC Sport Live 12",
+    "lang": "fr",
+    "xmltv_id": "RMCSportLive12.fr@SD"
+  },
+  {
+    "site_id": "2676",
+    "name": "RMC Sport Live 13",
+    "lang": "fr",
+    "xmltv_id": "RMCSportLive13.fr@SD"
+  },
+  {
+    "site_id": "2677",
+    "name": "RMC Sport Live 14",
+    "lang": "fr",
+    "xmltv_id": "RMCSportLive14.fr@SD"
+  },
+  {
+    "site_id": "2752",
+    "name": "Comedy Central",
+    "lang": "fr",
+    "xmltv_id": "ComedyCentral.fr@SD"
+  },
+  {
+    "site_id": "2958",
+    "name": "Olympia TV",
+    "lang": "fr",
+    "xmltv_id": "OlympiaTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/olympia-tv-fr.png"
+  },
+  {
+    "site_id": "3347",
+    "name": "Canal+ DOCS",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusDocs.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-plus-docs-fr.png"
+  },
+  {
+    "site_id": "3349",
+    "name": "Canal+ Grand Ecran",
+    "lang": "fr",
+    "xmltv_id": "CanalPlusGrandEcran.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/canal-plus-grand-ecran-fr.png"
+  }
+]

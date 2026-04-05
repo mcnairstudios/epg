@@ -1,0 +1,648 @@
+[
+  {
+    "site_id": "1",
+    "name": "M1",
+    "lang": "hu",
+    "xmltv_id": "M1.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m1-hu.png"
+  },
+  {
+    "site_id": "2",
+    "name": "M2 / Petőfi TV",
+    "lang": "hu",
+    "xmltv_id": "M2.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m2-hu.png"
+  },
+  {
+    "site_id": "3",
+    "name": "TV2",
+    "lang": "hu",
+    "xmltv_id": "TV2.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-hu.png"
+  },
+  {
+    "site_id": "5",
+    "name": "RTL",
+    "lang": "hu",
+    "xmltv_id": "RTL.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/rtl-hu.png"
+  },
+  {
+    "site_id": "6",
+    "name": "DUNA Televízió",
+    "lang": "hu",
+    "xmltv_id": "Duna.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/duna-hu.png"
+  },
+  {
+    "site_id": "8",
+    "name": "HBO",
+    "lang": "hu",
+    "xmltv_id": "HBOCentralEurope.hu@HD"
+  },
+  {
+    "site_id": "9",
+    "name": "Spektrum",
+    "lang": "hu",
+    "xmltv_id": "Spektrum.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/spektrum-hu.png"
+  },
+  {
+    "site_id": "10",
+    "name": "Hír TV",
+    "lang": "hu",
+    "xmltv_id": "HirTV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/hir-tv-hu.png"
+  },
+  {
+    "site_id": "14",
+    "name": "National Geographic",
+    "lang": "hu",
+    "xmltv_id": "NationalGeographic.hu@SD"
+  },
+  {
+    "site_id": "15",
+    "name": "ATV",
+    "lang": "hu",
+    "xmltv_id": "ATV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/atv-hu.png"
+  },
+  {
+    "site_id": "16",
+    "name": "Minimax",
+    "lang": "hu",
+    "xmltv_id": "Minimax.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/minimax-hu.png"
+  },
+  {
+    "site_id": "21",
+    "name": "VIASAT3",
+    "lang": "hu",
+    "xmltv_id": "Viasat3.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/viasat3-hu.png"
+  },
+  {
+    "site_id": "32",
+    "name": "Film+",
+    "lang": "hu",
+    "xmltv_id": "FilmPlus.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/film-plus-hu.png"
+  },
+  {
+    "site_id": "35",
+    "name": "Disney Channel",
+    "lang": "hu",
+    "xmltv_id": "DisneyChannel.hu@SD"
+  },
+  {
+    "site_id": "37",
+    "name": "Eurosport 2",
+    "lang": "hu",
+    "xmltv_id": "Eurosport2.fr@France"
+  },
+  {
+    "site_id": "38",
+    "name": "TV4",
+    "lang": "hu",
+    "xmltv_id": "TV4.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv4-hu.png"
+  },
+  {
+    "site_id": "41",
+    "name": "Nickelodeon",
+    "lang": "hu",
+    "xmltv_id": "Nickelodeon.hu@SD"
+  },
+  {
+    "site_id": "42",
+    "name": "AXN",
+    "lang": "hu",
+    "xmltv_id": "AXN.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/axn-hu.png"
+  },
+  {
+    "site_id": "44",
+    "name": "Sport2",
+    "lang": "hu",
+    "xmltv_id": "Sport2.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/sport2-hu.png"
+  },
+  {
+    "site_id": "46",
+    "name": "TV Paprika",
+    "lang": "hu",
+    "xmltv_id": "TVPaprika.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv-paprika-hu.png"
+  },
+  {
+    "site_id": "47",
+    "name": "Cinemax",
+    "lang": "hu",
+    "xmltv_id": "CinemaxCentralEurope.hu@HD"
+  },
+  {
+    "site_id": "59",
+    "name": "HBO 2",
+    "lang": "hu",
+    "xmltv_id": "HBO2CentralEurope.hu@HD"
+  },
+  {
+    "site_id": "66",
+    "name": "Viasat History",
+    "lang": "hu",
+    "xmltv_id": "ViasatHistory.se@SD"
+  },
+  {
+    "site_id": "77",
+    "name": "Cartoonito",
+    "lang": "hu",
+    "xmltv_id": "CartoonitoCEE.uk@SD"
+  },
+  {
+    "site_id": "79",
+    "name": "Cool",
+    "lang": "hu",
+    "xmltv_id": "CoolTV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/cool-tv-hu.png"
+  },
+  {
+    "site_id": "82",
+    "name": "Animal Planet",
+    "lang": "hu",
+    "xmltv_id": "AnimalPlanetEurope.uk@SD"
+  },
+  {
+    "site_id": "83",
+    "name": "Discovery Channel",
+    "lang": "hu",
+    "xmltv_id": "DiscoveryChannel.hu@SD"
+  },
+  {
+    "site_id": "85",
+    "name": "Discovery Science",
+    "lang": "en",
+    "xmltv_id": "DiscoveryScience.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/discovery-science-us.png"
+  },
+  {
+    "site_id": "89",
+    "name": "Filmcafe",
+    "lang": "hu",
+    "xmltv_id": "FilmCafe.hu@Hungary",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/film-cafe-hu.png"
+  },
+  {
+    "site_id": "90",
+    "name": "Sport1",
+    "lang": "hu",
+    "xmltv_id": "Sport1.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/sport1-hu.png"
+  },
+  {
+    "site_id": "91",
+    "name": "Cartoon Network",
+    "lang": "hu",
+    "xmltv_id": "CartoonNetworkCEE.uk@Hungary"
+  },
+  {
+    "site_id": "94",
+    "name": "Eurosport 1",
+    "lang": "hu",
+    "xmltv_id": "Eurosport1.fr@France"
+  },
+  {
+    "site_id": "95",
+    "name": "Film Mánia",
+    "lang": "hu",
+    "xmltv_id": "FilmMania.hu@SD"
+  },
+  {
+    "site_id": "103",
+    "name": "Duna World",
+    "lang": "hu",
+    "xmltv_id": "DunaWorld.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/duna-world-hu.png"
+  },
+  {
+    "site_id": "132",
+    "name": "VIASAT2",
+    "lang": "hu",
+    "xmltv_id": "Viasat2.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/viasat2-hu.png"
+  },
+  {
+    "site_id": "138",
+    "name": "VIASAT FILM",
+    "lang": "hu",
+    "xmltv_id": "ViasatFilm.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/viasat-film-hu.png"
+  },
+  {
+    "site_id": "139",
+    "name": "AMC",
+    "lang": "hu",
+    "xmltv_id": "AMC.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/amc-us.png"
+  },
+  {
+    "site_id": "141",
+    "name": "National Geographic Wild",
+    "lang": "hu",
+    "xmltv_id": "NationalGeographicWild.hu@SD"
+  },
+  {
+    "site_id": "143",
+    "name": "HBO 3",
+    "lang": "hu",
+    "xmltv_id": "HBO3CentralEurope.hu@HD"
+  },
+  {
+    "site_id": "144",
+    "name": "MTV",
+    "lang": "hu",
+    "xmltv_id": "MTVGlobal.uk@SD"
+  },
+  {
+    "site_id": "156",
+    "name": "Duck TV",
+    "lang": "hu",
+    "xmltv_id": "ducktv.sk@SD"
+  },
+  {
+    "site_id": "164",
+    "name": "VIASAT6",
+    "lang": "hu",
+    "xmltv_id": "Viasat6.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/viasat6-hu.png"
+  },
+  {
+    "site_id": "176",
+    "name": "Fishing & Hunting",
+    "lang": "hu",
+    "xmltv_id": "TheFishingHuntingChannel.hu@SD"
+  },
+  {
+    "site_id": "178",
+    "name": "RTL III",
+    "lang": "hu",
+    "xmltv_id": "RTLHarom.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/rtl-harom-hu.png"
+  },
+  {
+    "site_id": "179",
+    "name": "Sorozat+",
+    "lang": "hu",
+    "xmltv_id": "SorozatPlus.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/sorozat-plus-hu.png"
+  },
+  {
+    "site_id": "180",
+    "name": "RTL Gold",
+    "lang": "hu",
+    "xmltv_id": "RTLGold.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/rtl-gold-hu.png"
+  },
+  {
+    "site_id": "194",
+    "name": "Comedy Central",
+    "lang": "hu",
+    "xmltv_id": "ComedyCentral.hu@SD"
+  },
+  {
+    "site_id": "202",
+    "name": "Da Vinci",
+    "lang": "hu",
+    "xmltv_id": "DaVinci.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/da-vinci-hu.png"
+  },
+  {
+    "site_id": "212",
+    "name": "LifeTv",
+    "lang": "hu",
+    "xmltv_id": "LifeTV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/life-tv-hu.png"
+  },
+  {
+    "site_id": "213",
+    "name": "OzoneTv",
+    "lang": "hu",
+    "xmltv_id": "OzoneTV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/ozone-tv-hu.png"
+  },
+  {
+    "site_id": "215",
+    "name": "Prime",
+    "lang": "hu",
+    "xmltv_id": "Prime.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/prime-hu.png"
+  },
+  {
+    "site_id": "216",
+    "name": "Sláger TV",
+    "lang": "hu",
+    "xmltv_id": "SlagerTV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/slager-tv-hu.png"
+  },
+  {
+    "site_id": "217",
+    "name": "Muzsika TV",
+    "lang": "hu",
+    "xmltv_id": "MuzsikaTV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/muzsika-tv-hu.png"
+  },
+  {
+    "site_id": "223",
+    "name": "Viasat Nature",
+    "lang": "hu",
+    "xmltv_id": "ViasatNature.se@SD"
+  },
+  {
+    "site_id": "229",
+    "name": "Mozi+",
+    "lang": "hu",
+    "xmltv_id": "MoziPlus.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/mozi-plus-hu.png"
+  },
+  {
+    "site_id": "236",
+    "name": "Nick Jr.",
+    "lang": "hu",
+    "xmltv_id": "NickJr.hu@SD"
+  },
+  {
+    "site_id": "241",
+    "name": "RTL II",
+    "lang": "hu",
+    "xmltv_id": "RTLKetto.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/rtl-ketto-hu.png"
+  },
+  {
+    "site_id": "244",
+    "name": "SuperTV2",
+    "lang": "hu",
+    "xmltv_id": "SuperTV2.hu@SD"
+  },
+  {
+    "site_id": "251",
+    "name": "BBC Earth",
+    "lang": "hu",
+    "xmltv_id": "BBCEarth.uk@Romania"
+  },
+  {
+    "site_id": "257",
+    "name": "Paramount Network",
+    "lang": "hu",
+    "xmltv_id": "ParamountNetwork.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/paramount-network-hu.png"
+  },
+  {
+    "site_id": "285",
+    "name": "Food Network",
+    "lang": "en",
+    "xmltv_id": "FoodNetworkEMEA.us@SD"
+  },
+  {
+    "site_id": "290",
+    "name": "M4 Sport",
+    "lang": "hu",
+    "xmltv_id": "M4Sport.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m4-sport-hu.png"
+  },
+  {
+    "site_id": "301",
+    "name": "M5",
+    "lang": "hu",
+    "xmltv_id": "M5.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/m5-hu.png"
+  },
+  {
+    "site_id": "304",
+    "name": "Izaura TV",
+    "lang": "hu",
+    "xmltv_id": "IzauraTV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/izaura-tv-hu.png"
+  },
+  {
+    "site_id": "305",
+    "name": "Spíler1 TV",
+    "lang": "hu",
+    "xmltv_id": "Spiler1.hu@SD"
+  },
+  {
+    "site_id": "307",
+    "name": "FEM3",
+    "lang": "hu",
+    "xmltv_id": "FEM3.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/fem3-hu.png"
+  },
+  {
+    "site_id": "309",
+    "name": "TV2 Séf",
+    "lang": "hu",
+    "xmltv_id": "TV2Sef.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-sef-hu.png"
+  },
+  {
+    "site_id": "310",
+    "name": "TV2 Kids",
+    "lang": "hu",
+    "xmltv_id": "TV2Kids.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-kids-hu.png"
+  },
+  {
+    "site_id": "312",
+    "name": "TeenNick",
+    "lang": "hu",
+    "xmltv_id": "TeenNick.hu@SD"
+  },
+  {
+    "site_id": "317",
+    "name": "ATV Spirit",
+    "lang": "hu",
+    "xmltv_id": "ATVSpirit.hu"
+  },
+  {
+    "site_id": "318",
+    "name": "CBS Reality",
+    "lang": "hu",
+    "xmltv_id": "CBSReality.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/cbs-reality-uk.png"
+  },
+  {
+    "site_id": "319",
+    "name": "Cinemax 2",
+    "lang": "hu",
+    "xmltv_id": "Cinemax2CentralEurope.hu@HD"
+  },
+  {
+    "site_id": "320",
+    "name": "D1 TV",
+    "lang": "hu",
+    "xmltv_id": "D1TV.hu"
+  },
+  {
+    "site_id": "321",
+    "name": "Dikh TV",
+    "lang": "hu",
+    "xmltv_id": "DikhTV.hu",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/dikh-tv-hu.png"
+  },
+  {
+    "site_id": "322",
+    "name": "EsportGuru",
+    "lang": "hu",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "323",
+    "name": "Euronews",
+    "lang": "hu",
+    "xmltv_id": "EuronewsHungarian.fr@SD"
+  },
+  {
+    "site_id": "324",
+    "name": "FilmBox Extra HD",
+    "lang": "hu",
+    "xmltv_id": "FilmBoxExtra.nl"
+  },
+  {
+    "site_id": "325",
+    "name": "FilmBox Family",
+    "lang": "hu",
+    "xmltv_id": "FilmBoxFamily.nl@Africa"
+  },
+  {
+    "site_id": "326",
+    "name": "Film4",
+    "lang": "hu",
+    "xmltv_id": "Film4.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/film4-hu.png"
+  },
+  {
+    "site_id": "327",
+    "name": "FilmBox Stars HD",
+    "lang": "hu",
+    "xmltv_id": "FilmBoxStars.nl@CzechRepublic"
+  },
+  {
+    "site_id": "328",
+    "name": "Főnix TV",
+    "lang": "hu",
+    "xmltv_id": "FonixTV.hu"
+  },
+  {
+    "site_id": "329",
+    "name": "Galaxy4",
+    "lang": "hu",
+    "xmltv_id": "Galaxy4.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/galaxy4-hu.png"
+  },
+  {
+    "site_id": "330",
+    "name": "Apostol TV",
+    "lang": "hu",
+    "xmltv_id": "ApostolTV.hu@SD"
+  },
+  {
+    "site_id": "331",
+    "name": "DunaMédia TV",
+    "lang": "hu",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "332",
+    "name": "PAX Tv",
+    "lang": "hu",
+    "xmltv_id": "PaxTV.hu@SD"
+  },
+  {
+    "site_id": "333",
+    "name": "Direct One",
+    "lang": "hu",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "334",
+    "name": "Jocky TV",
+    "lang": "hu",
+    "xmltv_id": "JockyTV.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/jocky-tv-hu.png"
+  },
+  {
+    "site_id": "335",
+    "name": "TV2 Comedy",
+    "lang": "hu",
+    "xmltv_id": "TV2Comedy.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/tv2-comedy-hu.png"
+  },
+  {
+    "site_id": "336",
+    "name": "Moziverzum",
+    "lang": "hu",
+    "xmltv_id": "Moziverzum.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/moziverzum-hu.png"
+  },
+  {
+    "site_id": "337",
+    "name": "Investigation Discovery",
+    "lang": "hu",
+    "xmltv_id": "InvestigationDiscovery.hu"
+  },
+  {
+    "site_id": "338",
+    "name": "Jazz TV",
+    "lang": "hu",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "339",
+    "name": "Kanapé TV",
+    "lang": "hu",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "340",
+    "name": "Match4",
+    "lang": "hu",
+    "xmltv_id": "Match4.hu",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/match4-hu.png"
+  },
+  {
+    "site_id": "341",
+    "name": "Max4",
+    "lang": "hu",
+    "xmltv_id": "MAX4.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/max4-hu.png"
+  },
+  {
+    "site_id": "342",
+    "name": "Nicktoons",
+    "lang": "hu",
+    "xmltv_id": "Nicktoons.hu"
+  },
+  {
+    "site_id": "343",
+    "name": "Epic Drama",
+    "lang": "hu",
+    "xmltv_id": "EpicDrama.uk@Sweden"
+  },
+  {
+    "site_id": "344",
+    "name": "Spíler2 TV",
+    "lang": "hu",
+    "xmltv_id": "Spiler2.hu@SD"
+  },
+  {
+    "site_id": "345",
+    "name": "Aréna 4",
+    "lang": "hu",
+    "xmltv_id": "Arena4.hu@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/arena4-hu.png"
+  },
+  {
+    "site_id": "346",
+    "name": "Fit HD",
+    "lang": "hu",
+    "xmltv_id": "FitHD.hu@SD"
+  }
+]

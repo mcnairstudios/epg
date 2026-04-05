@@ -1,0 +1,405 @@
+[
+  {
+    "site_id": "1",
+    "name": "Yle TV1",
+    "lang": "fi",
+    "xmltv_id": "YleTV1.fi@SD"
+  },
+  {
+    "site_id": "2",
+    "name": "Yle TV2",
+    "lang": "fi",
+    "xmltv_id": "YleTV2.fi@SD"
+  },
+  {
+    "site_id": "3",
+    "name": "MTV3",
+    "lang": "fi",
+    "xmltv_id": "MTV3.fi@SD"
+  },
+  {
+    "site_id": "4",
+    "name": "Nelonen",
+    "lang": "fi",
+    "xmltv_id": "Nelonen.fi@SD"
+  },
+  {
+    "site_id": "5",
+    "name": "SubTV",
+    "lang": "fi",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "6",
+    "name": "Discovery Channel",
+    "lang": "fi",
+    "xmltv_id": "DiscoveryChannel.fi@SD"
+  },
+  {
+    "site_id": "9",
+    "name": "Animal Planet",
+    "lang": "fi",
+    "xmltv_id": "AnimalPlanetNordic.uk@SD"
+  },
+  {
+    "site_id": "12",
+    "name": "TLC",
+    "lang": "fi",
+    "xmltv_id": "TLC.fi@SD"
+  },
+  {
+    "site_id": "13",
+    "name": "Yle Teema & Fem",
+    "lang": "fi",
+    "xmltv_id": "YleTeemaFem.fi@SD"
+  },
+  {
+    "site_id": "17",
+    "name": "MTV Aitio",
+    "lang": "fi",
+    "xmltv_id": "CMoreFirst.se@SD"
+  },
+  {
+    "site_id": "18",
+    "name": "C More Hits",
+    "lang": "fi",
+    "xmltv_id": "TV4Hits.se"
+  },
+  {
+    "site_id": "22",
+    "name": "TV Finland",
+    "lang": "fi",
+    "xmltv_id": "TVFinland.fi@SD"
+  },
+  {
+    "site_id": "26",
+    "name": "TV4",
+    "lang": "fi",
+    "xmltv_id": "TV4.se@SD"
+  },
+  {
+    "site_id": "27",
+    "name": "Sjuan",
+    "lang": "fi",
+    "xmltv_id": "Sjuan.se@SD"
+  },
+  {
+    "site_id": "29",
+    "name": "Deutsche Welle",
+    "lang": "fi",
+    "xmltv_id": "DW.de@English",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/dw-de.png"
+  },
+  {
+    "site_id": "30",
+    "name": "MTV Max",
+    "lang": "fi",
+    "xmltv_id": "MTVMax.fi"
+  },
+  {
+    "site_id": "32",
+    "name": "MTV Finland",
+    "lang": "fi",
+    "xmltv_id": "MTVGlobal.uk@SD"
+  },
+  {
+    "site_id": "33",
+    "name": "V Film Premiere",
+    "lang": "fi",
+    "xmltv_id": "VFilmPremiere.se@SD"
+  },
+  {
+    "site_id": "35",
+    "name": "V Film Action",
+    "lang": "fi",
+    "xmltv_id": "VFilmAction.se@SD"
+  },
+  {
+    "site_id": "36",
+    "name": "V Film Family",
+    "lang": "fi",
+    "xmltv_id": "VFilmFamily.se@SD"
+  },
+  {
+    "site_id": "41",
+    "name": "Travel",
+    "lang": "fi",
+    "xmltv_id": "TravelChannel.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/travel-channel-us.png"
+  },
+  {
+    "site_id": "46",
+    "name": "Disney Channel",
+    "lang": "fi",
+    "xmltv_id": "DisneyChannelScandinavia.uk@SD"
+  },
+  {
+    "site_id": "47",
+    "name": "National Geographic",
+    "lang": "fi",
+    "xmltv_id": "NationalGeographic.fi@SD"
+  },
+  {
+    "site_id": "49",
+    "name": "Eurosport 1",
+    "lang": "fi",
+    "xmltv_id": "Eurosport1.uk@SD"
+  },
+  {
+    "site_id": "50",
+    "name": "Eurosport 2",
+    "lang": "fi",
+    "xmltv_id": "Eurosport2.fr@SD"
+  },
+  {
+    "site_id": "51",
+    "name": "CNBC",
+    "lang": "fi",
+    "xmltv_id": "CNBC.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnbc-us.png"
+  },
+  {
+    "site_id": "52",
+    "name": "CNN",
+    "lang": "fi",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "56",
+    "name": "JIM",
+    "lang": "fi",
+    "xmltv_id": "Jim.fi@SD"
+  },
+  {
+    "site_id": "57",
+    "name": "MTV Viihde",
+    "lang": "fi",
+    "xmltv_id": "MTVViihde.se@SD"
+  },
+  {
+    "site_id": "60",
+    "name": "Ava",
+    "lang": "fi",
+    "xmltv_id": "MTVAva.fi"
+  },
+  {
+    "site_id": "63",
+    "name": "Liv",
+    "lang": "fi",
+    "xmltv_id": "Liv.fi@SD"
+  },
+  {
+    "site_id": "64",
+    "name": "Kutonen",
+    "lang": "fi",
+    "xmltv_id": "Kutonen.fi@SD"
+  },
+  {
+    "site_id": "65",
+    "name": "TV7",
+    "lang": "fi",
+    "xmltv_id": "TaivasTV7.fi@SD"
+  },
+  {
+    "site_id": "66",
+    "name": "BBC Earth",
+    "lang": "fi",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "68",
+    "name": "Cartoon Network",
+    "lang": "fi",
+    "xmltv_id": "CartoonNetwork.se@SD"
+  },
+  {
+    "site_id": "74",
+    "name": "MTV Juniori",
+    "lang": "fi",
+    "xmltv_id": "CMoreJuniori.fi@SD"
+  },
+  {
+    "site_id": "82",
+    "name": "Viasat Explore",
+    "lang": "fi",
+    "xmltv_id": "ViasatExplore.fi"
+  },
+  {
+    "site_id": "83",
+    "name": "V Sport Golf",
+    "lang": "fi",
+    "xmltv_id": "VSportGolf.se@SD"
+  },
+  {
+    "site_id": "84",
+    "name": "Viasat History",
+    "lang": "fi",
+    "xmltv_id": "ViasatHistory.fi"
+  },
+  {
+    "site_id": "86",
+    "name": "V Sport 1",
+    "lang": "fi",
+    "xmltv_id": "VSport1.se@Sweden"
+  },
+  {
+    "site_id": "88",
+    "name": "TV Viisi",
+    "lang": "fi",
+    "xmltv_id": "TV5.fi@SD"
+  },
+  {
+    "site_id": "90",
+    "name": "History",
+    "lang": "fi",
+    "xmltv_id": "HistoryChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/history-channel-us.png"
+  },
+  {
+    "site_id": "99",
+    "name": "RTL",
+    "lang": "fi",
+    "xmltv_id": "RTL.de@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/germany/rtl-de.png"
+  },
+  {
+    "site_id": "103",
+    "name": "Hero",
+    "lang": "fi",
+    "xmltv_id": "Hero.fi@SD"
+  },
+  {
+    "site_id": "104",
+    "name": "Frii",
+    "lang": "fi",
+    "xmltv_id": "Frii.fi@SD"
+  },
+  {
+    "site_id": "105",
+    "name": "MTV Urheilu 1",
+    "lang": "fi",
+    "xmltv_id": "MTVUrheilu1.fi"
+  },
+  {
+    "site_id": "106",
+    "name": "MTV Urheilu 2",
+    "lang": "fi",
+    "xmltv_id": "MTVUrheilu2.fi"
+  },
+  {
+    "site_id": "107",
+    "name": "Al Jazeera",
+    "lang": "fi",
+    "xmltv_id": "AlJazeera.qa@Arabic"
+  },
+  {
+    "site_id": "113",
+    "name": "V Sport Football",
+    "lang": "fi",
+    "xmltv_id": "VSportFootball.se@SD"
+  },
+  {
+    "site_id": "114",
+    "name": "V Film Hits",
+    "lang": "fi",
+    "xmltv_id": "VFilmHits.se@SD"
+  },
+  {
+    "site_id": "116",
+    "name": "SF Kanalen",
+    "lang": "fi",
+    "xmltv_id": "SFkanalen.se@SD"
+  },
+  {
+    "site_id": "118",
+    "name": "Disney Junior",
+    "lang": "fi",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "119",
+    "name": "NickJr",
+    "lang": "fi",
+    "xmltv_id": "NickJr.fi@SD"
+  },
+  {
+    "site_id": "120",
+    "name": "NatGeo Wild",
+    "lang": "fi",
+    "xmltv_id": "NatGeoWild.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nat-geo-wild-us.png"
+  },
+  {
+    "site_id": "122",
+    "name": "C More Stars",
+    "lang": "fi",
+    "xmltv_id": "TV4Stars.se"
+  },
+  {
+    "site_id": "123",
+    "name": "Star Channel",
+    "lang": "fi",
+    "xmltv_id": "STARChannel.fi@SD"
+  },
+  {
+    "site_id": "124",
+    "name": "MTV 80s",
+    "lang": "fi",
+    "xmltv_id": "MTV80s.us@SD"
+  },
+  {
+    "site_id": "125",
+    "name": "MTV 90s",
+    "lang": "fi",
+    "xmltv_id": "MTV90s.uk@SD"
+  },
+  {
+    "site_id": "126",
+    "name": "MTV 00s",
+    "lang": "fi",
+    "xmltv_id": "MTV00s.uk@SD"
+  },
+  {
+    "site_id": "127",
+    "name": "MTV Hits",
+    "lang": "fi",
+    "xmltv_id": "MTVHits.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/mtv-hits-uk.png"
+  },
+  {
+    "site_id": "128",
+    "name": "Club MTV",
+    "lang": "fi",
+    "xmltv_id": "ClubMTV.uk@SD"
+  },
+  {
+    "site_id": "129",
+    "name": "MTV Live HD",
+    "lang": "fi",
+    "xmltv_id": "MTVLiveHD.uk@SD"
+  },
+  {
+    "site_id": "130",
+    "name": "ETV",
+    "lang": "fi",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "131",
+    "name": "RTL 2",
+    "lang": "fi",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "132",
+    "name": "BBC Nordic",
+    "lang": "fi",
+    "xmltv_id": "BBCNordic.uk@SD"
+  },
+  {
+    "site_id": "133",
+    "name": "Eveo",
+    "lang": "fi",
+    "xmltv_id": "Eveo.fi"
+  }
+]

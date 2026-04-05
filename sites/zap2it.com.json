@@ -1,0 +1,3718 @@
+[
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10021",
+    "name": "AMC",
+    "lang": "es",
+    "xmltv_id": "AMC.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/amc-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10035",
+    "name": "AETV",
+    "lang": "es",
+    "xmltv_id": "AE.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10051",
+    "name": "BET",
+    "lang": "es",
+    "xmltv_id": "BET.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bet-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10057",
+    "name": "BRAVO",
+    "lang": "es",
+    "xmltv_id": "Bravo.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bravo-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10093",
+    "name": "FREEFRM",
+    "lang": "es",
+    "xmltv_id": "Freeform.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/freeform-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10120",
+    "name": "MAX",
+    "lang": "es",
+    "xmltv_id": "MAX.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10121",
+    "name": "MOMAX",
+    "lang": "es",
+    "xmltv_id": "MoreMAX.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10138",
+    "name": "CMTV",
+    "lang": "es",
+    "xmltv_id": "CMTV.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/cmtv-pt.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10139",
+    "name": "CNBC",
+    "lang": "es",
+    "xmltv_id": "CNBC.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnbc-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10142",
+    "name": "CNN",
+    "lang": "es",
+    "xmltv_id": "CNN.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnn-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10145",
+    "name": "HLN",
+    "lang": "es",
+    "xmltv_id": "HLN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hln-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10146",
+    "name": "CNNI",
+    "lang": "es",
+    "xmltv_id": "CNNInternational.us@MENA"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10149",
+    "name": "COMEDY",
+    "lang": "es",
+    "xmltv_id": "Comedy.au@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/comedy-au.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10153",
+    "name": "TRUTV",
+    "lang": "es",
+    "xmltv_id": "truTV.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tru-tv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10161",
+    "name": "CSPAN",
+    "lang": "es",
+    "xmltv_id": "CSPAN.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10162",
+    "name": "CSPAN2",
+    "lang": "es",
+    "xmltv_id": "CSPAN2.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10171",
+    "name": "DISN",
+    "lang": "es",
+    "xmltv_id": "DisneyChannel.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/disney-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10178",
+    "name": "STZENC",
+    "lang": "es",
+    "xmltv_id": "StarzEncore.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/starz-encore-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10179",
+    "name": "ESPN",
+    "lang": "es",
+    "xmltv_id": "ESPN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10183",
+    "name": "EWTN",
+    "lang": "es",
+    "xmltv_id": "EWTN.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10188",
+    "name": "COWBOY",
+    "lang": "es",
+    "xmltv_id": "CowboyChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cowboy-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10201",
+    "name": "FLIX",
+    "lang": "es",
+    "xmltv_id": "Flix.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/flix-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10222",
+    "name": "GALA",
+    "lang": "es",
+    "xmltv_id": "Galavision.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/galavision-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10240",
+    "name": "HBO",
+    "lang": "es",
+    "xmltv_id": "HBOLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10241",
+    "name": "HBO2",
+    "lang": "es",
+    "xmltv_id": "HBO2LatinAmerica.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10242",
+    "name": "HBO2P",
+    "lang": "es",
+    "xmltv_id": "HBO2.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10243",
+    "name": "HBOSIG",
+    "lang": "es",
+    "xmltv_id": "HBOSignature.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10244",
+    "name": "HBOP",
+    "lang": "es",
+    "xmltv_id": "HBOPlus.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10262",
+    "name": "FDSW",
+    "lang": "es",
+    "xmltv_id": "FoxSportsSouthwest.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10269",
+    "name": "HSN",
+    "lang": "es",
+    "xmltv_id": "HSN.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hsn-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10270",
+    "name": "HSN2",
+    "lang": "es",
+    "xmltv_id": "HSN2.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10724",
+    "name": "KTLA",
+    "lang": "es",
+    "xmltv_id": "KTLADT1.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10918",
+    "name": "LIFE",
+    "lang": "es",
+    "xmltv_id": "Life.id@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10977",
+    "name": "FDSNOR",
+    "lang": "es",
+    "xmltv_id": "FoxSportsNorth.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10979",
+    "name": "MSG",
+    "lang": "es",
+    "xmltv_id": "MSG.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/msg-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10986",
+    "name": "MTV",
+    "lang": "es",
+    "xmltv_id": "MTV.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10989",
+    "name": "E",
+    "lang": "es",
+    "xmltv_id": "ELatinAmerica.us@Andes"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/10996",
+    "name": "NESN",
+    "lang": "es",
+    "xmltv_id": "NESN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nesn-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11006",
+    "name": "NIK",
+    "lang": "es",
+    "xmltv_id": "Nickelodeon.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nickelodeon-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11007",
+    "name": "NIKP",
+    "lang": "es",
+    "xmltv_id": "NickelodeonPlus.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11054",
+    "name": "FDW",
+    "lang": "es",
+    "xmltv_id": "FoxSportsWest.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11062",
+    "name": "RTNW",
+    "lang": "es",
+    "xmltv_id": "Root.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11066",
+    "name": "INSP",
+    "lang": "es",
+    "xmltv_id": "INSP.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/insp-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11069",
+    "name": "QVC",
+    "lang": "es",
+    "xmltv_id": "QVC.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/qvc-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11095",
+    "name": "FDSFL",
+    "lang": "es",
+    "xmltv_id": "FoxSportsFlorida.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11097",
+    "name": "SYFY",
+    "lang": "es",
+    "xmltv_id": "Syfy.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/syfy-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11104",
+    "name": "NBCSB",
+    "lang": "es",
+    "xmltv_id": "NBCSportsBayArea.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11105",
+    "name": "MSGSNZ1",
+    "lang": "es",
+    "xmltv_id": "MSG.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/msg-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11109",
+    "name": "NBCSBA",
+    "lang": "es",
+    "xmltv_id": "NBCSportsBayArea.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11115",
+    "name": "PARSHO",
+    "lang": "es",
+    "xmltv_id": "ParamountShowtime.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11116",
+    "name": "SHO2",
+    "lang": "es",
+    "xmltv_id": "Showtime2.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11117",
+    "name": "PARSHOW",
+    "lang": "es",
+    "xmltv_id": "ParamountShowtime.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11118",
+    "name": "UNI",
+    "lang": "es",
+    "xmltv_id": "Univision.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/univision-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11150",
+    "name": "DSC",
+    "lang": "es",
+    "xmltv_id": "DiscoveryChannel.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11158",
+    "name": "TLC",
+    "lang": "es",
+    "xmltv_id": "TLCLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11160",
+    "name": "TMC",
+    "lang": "es",
+    "xmltv_id": "TMC.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11163",
+    "name": "PAR",
+    "lang": "es",
+    "xmltv_id": "Paramount.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11164",
+    "name": "TNT",
+    "lang": "es",
+    "xmltv_id": "TNT.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tnt-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11180",
+    "name": "TRAV",
+    "lang": "es",
+    "xmltv_id": "TravelChannel.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/travel-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11187",
+    "name": "WEATH",
+    "lang": "es",
+    "xmltv_id": "WeatherChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/weather-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11207",
+    "name": "USA",
+    "lang": "es",
+    "xmltv_id": "USANetwork.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11218",
+    "name": "VH1",
+    "lang": "es",
+    "xmltv_id": "VH1.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/vh1-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11221",
+    "name": "HALL",
+    "lang": "es",
+    "xmltv_id": "Hallmark.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11514",
+    "name": "WHMBSAT",
+    "lang": "es",
+    "xmltv_id": "Hallmark.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/11867",
+    "name": "TBS",
+    "lang": "es",
+    "xmltv_id": "TBSLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12131",
+    "name": "TOON",
+    "lang": "es",
+    "xmltv_id": "CartoonNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoon-network-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12410",
+    "name": "FDSSO",
+    "lang": "es",
+    "xmltv_id": "FoxSportsSouth.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12444",
+    "name": "ESPN2",
+    "lang": "es",
+    "xmltv_id": "ESPN2.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12508",
+    "name": "MAXP",
+    "lang": "es",
+    "xmltv_id": "MAXPrime.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12509",
+    "name": "TMCP",
+    "lang": "es",
+    "xmltv_id": "TMC.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12510",
+    "name": "DISNP",
+    "lang": "es",
+    "xmltv_id": "DisneyPlus.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/disney-plus-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12574",
+    "name": "FOOD",
+    "lang": "es",
+    "xmltv_id": "FoodNetwork.ca@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/canada/food-network-ca.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12719",
+    "name": "STARZ",
+    "lang": "es",
+    "xmltv_id": "Starz.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/starz-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12741",
+    "name": "STARZP",
+    "lang": "es",
+    "xmltv_id": "StarzPlus.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12782",
+    "name": "NEWSMIX",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12785",
+    "name": "DITV105",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12792",
+    "name": "DITV112",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12801",
+    "name": "DITV131",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/12852",
+    "name": "TCM",
+    "lang": "es",
+    "xmltv_id": "TCM.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tcm-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14321",
+    "name": "FX",
+    "lang": "es",
+    "xmltv_id": "FXLatinAmerica.us@South"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14755",
+    "name": "BLOOM",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14762",
+    "name": "UNIP",
+    "lang": "es",
+    "xmltv_id": "Univision.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/univision-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14764",
+    "name": "STZENCL",
+    "lang": "es",
+    "xmltv_id": "StarzEncoreClassic.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/starz-encore-classic-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14766",
+    "name": "STZENSU",
+    "lang": "es",
+    "xmltv_id": "StarzEncoreSuspense.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/starz-encore-suspense-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14771",
+    "name": "HISTORY",
+    "lang": "es",
+    "xmltv_id": "HistoryLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14776",
+    "name": "OUTD",
+    "lang": "es",
+    "xmltv_id": "OutdoorChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/outdoor-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14791",
+    "name": "UNVSO",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14870",
+    "name": "STZENBK",
+    "lang": "es",
+    "xmltv_id": "StarzEncoreBlack.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/starz-encore-black-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14871",
+    "name": "STZENAC",
+    "lang": "es",
+    "xmltv_id": "StarzEncoreAction.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/starz-encore-action-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14873",
+    "name": "IFC",
+    "lang": "es",
+    "xmltv_id": "IFC.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/ifc-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14897",
+    "name": "BHER",
+    "lang": "es",
+    "xmltv_id": "BETHer.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bet-her-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14899",
+    "name": "GOLF",
+    "lang": "es",
+    "xmltv_id": "GolfChannel.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14902",
+    "name": "HGTV",
+    "lang": "es",
+    "xmltv_id": "HGTVLatinAmerica.us@Panregional"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14909",
+    "name": "GSN",
+    "lang": "es",
+    "xmltv_id": "GameShowNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/game-show-network-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14948",
+    "name": "SHOPHQ",
+    "lang": "es",
+    "xmltv_id": "ShopHQ.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/shop-hq-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/14988",
+    "name": "FXM",
+    "lang": "es",
+    "xmltv_id": "FXM.us"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/15377",
+    "name": "FXDEP",
+    "lang": "es",
+    "xmltv_id": "FoxDeportes.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/15796",
+    "name": "FDOH2",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/15807",
+    "name": "OVATION",
+    "lang": "es",
+    "xmltv_id": "Ovation.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/ovation-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16046",
+    "name": "TVNI",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16056",
+    "name": "FDSW4",
+    "lang": "es",
+    "xmltv_id": "FanDuelSportsNetworkOklahoma.us"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16062",
+    "name": "GFAM",
+    "lang": "es",
+    "xmltv_id": "GreatAmericanFamily.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/great-american-family-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16108",
+    "name": "SUNDANC",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16123",
+    "name": "TVLAND",
+    "lang": "es",
+    "xmltv_id": "TVLand.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tv-land-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16125",
+    "name": "DLC",
+    "lang": "es",
+    "xmltv_id": "DiscoveryLife.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/discovery-life-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16176",
+    "name": "FDOH1",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16189",
+    "name": "TEFEI",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16220",
+    "name": "FSTV",
+    "lang": "es",
+    "xmltv_id": "FreeSpeechTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/free-speech-tv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16292",
+    "name": "MNMX",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16300",
+    "name": "MSNBC",
+    "lang": "es",
+    "xmltv_id": "MSNBC.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16311",
+    "name": "STZE",
+    "lang": "es",
+    "xmltv_id": "StarzEdge.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/starz-edge-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16331",
+    "name": "APL",
+    "lang": "es",
+    "xmltv_id": "AnimalPlanet.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/animal-planet-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16348",
+    "name": "FDWI",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16361",
+    "name": "MTV2",
+    "lang": "es",
+    "xmltv_id": "MTV2.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16365",
+    "name": "CBSSN",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16374",
+    "name": "FNC",
+    "lang": "es",
+    "xmltv_id": "FoxNews.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-news-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16409",
+    "name": "WE",
+    "lang": "es",
+    "xmltv_id": "KairaliWe.in"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16485",
+    "name": "ESPNEWS",
+    "lang": "es",
+    "xmltv_id": "ESPNews.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16585",
+    "name": "HBOF",
+    "lang": "es",
+    "xmltv_id": "HBOFamily.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hbo-family-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16604",
+    "name": "JTV",
+    "lang": "es",
+    "xmltv_id": "JTV.id@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/indonesia/jtv-id.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16615",
+    "name": "ID",
+    "lang": "es",
+    "xmltv_id": "InvestigationDiscovery.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/investigation-discovery-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16616",
+    "name": "SCIENCE",
+    "lang": "es",
+    "xmltv_id": "Science.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16617",
+    "name": "DEST",
+    "lang": "es",
+    "xmltv_id": "DestinationAmerica.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/destination-america-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16618",
+    "name": "DFC",
+    "lang": "es",
+    "xmltv_id": "DiscoveryFamily.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/discovery-family-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16619",
+    "name": "HBOFP",
+    "lang": "es",
+    "xmltv_id": "HBOFamily.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hbo-family-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16715",
+    "name": "POPSD",
+    "lang": "es",
+    "xmltv_id": "Pop.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/pop-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16743",
+    "name": "FDSNSC",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16800",
+    "name": "ANT3I",
+    "lang": "es",
+    "xmltv_id": "ANT1Satellite.gr@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16833",
+    "name": "STZIB",
+    "lang": "es",
+    "xmltv_id": "StarzInBlack.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/starz-in-black-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/16834",
+    "name": "FYISD",
+    "lang": "es",
+    "xmltv_id": "FYI.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fyi-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/17054",
+    "name": "CNNL",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/17125",
+    "name": "STZENCP",
+    "lang": "es",
+    "xmltv_id": "StarzEncore.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/starz-encore-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/17142",
+    "name": "HITN",
+    "lang": "es",
+    "xmltv_id": "HITN.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/17250",
+    "name": "RAII",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/17619",
+    "name": "FDSD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/17798",
+    "name": "MSGSN21",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/17927",
+    "name": "FXX",
+    "lang": "es",
+    "xmltv_id": "FXX.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fxx-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18003",
+    "name": "SUNNET",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18086",
+    "name": "SHOWX",
+    "lang": "es",
+    "xmltv_id": "ShowtimeExtreme.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/showtime-extreme-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18151",
+    "name": "TOONP",
+    "lang": "es",
+    "xmltv_id": "CartoonNetwork.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoon-network-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18279",
+    "name": "DXD",
+    "lang": "es",
+    "xmltv_id": "DisneyXD.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/disney-xd-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18284",
+    "name": "AHC",
+    "lang": "es",
+    "xmltv_id": "AmericanHero.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18332",
+    "name": "BBCA",
+    "lang": "es",
+    "xmltv_id": "BBCAmerica.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bbc-america-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18480",
+    "name": "LMN",
+    "lang": "es",
+    "xmltv_id": "LifetimeMovies.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/lifetime-movies-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18544",
+    "name": "MAGN",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18715",
+    "name": "TR3S",
+    "lang": "es",
+    "xmltv_id": "MTVTr3s.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18822",
+    "name": "VICE",
+    "lang": "es",
+    "xmltv_id": "VICETV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/18999",
+    "name": "GEB",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/19211",
+    "name": "NICJR",
+    "lang": "es",
+    "xmltv_id": "NickJr.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nick-jr-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/19247",
+    "name": "DSCE",
+    "lang": "es",
+    "xmltv_id": "DiscoveryenEspanol.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/19515",
+    "name": "KTLADT",
+    "lang": "es",
+    "xmltv_id": "KTLADT1.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/19548",
+    "name": "HBOHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/19566",
+    "name": "HBOHDP",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/19620",
+    "name": "ESPNA",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/19621",
+    "name": "ESPN2A",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/20622",
+    "name": "SHOBET",
+    "lang": "es",
+    "xmltv_id": "ShoxBet.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/20638",
+    "name": "FDMWSAT",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/20789",
+    "name": "FDSE",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/21345",
+    "name": "FDUELTV",
+    "lang": "es",
+    "xmltv_id": "FanDuelTV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/21484",
+    "name": "OXYGEN",
+    "lang": "es",
+    "xmltv_id": "Oxygen.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/oxygen-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/21781",
+    "name": "WORD",
+    "lang": "es",
+    "xmltv_id": "TheWordNetwork.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/21855",
+    "name": "BYUTV",
+    "lang": "es",
+    "xmltv_id": "BYUTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/21868",
+    "name": "PARSHOH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/21883",
+    "name": "BOOM",
+    "lang": "es",
+    "xmltv_id": "Boomerang.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/boomerang-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/22447",
+    "name": "DITV113",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/22448",
+    "name": "DITV114",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/22532",
+    "name": "PASHOHW",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/22561",
+    "name": "MTVCLAS",
+    "lang": "es",
+    "xmltv_id": "MTVClassic.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-classic-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/24553",
+    "name": "HBOLAT",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/24959",
+    "name": "NGC",
+    "lang": "es",
+    "xmltv_id": "NationalGeographicSouthAfrica.za@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/25595",
+    "name": "ESPND",
+    "lang": "es",
+    "xmltv_id": "ESPNDeportes.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-deportes-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/25615",
+    "name": "VROLA",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/26028",
+    "name": "SNPT",
+    "lang": "es",
+    "xmltv_id": "ATTSportsNetPittsburgh.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/26643",
+    "name": "GEM",
+    "lang": "es",
+    "xmltv_id": "GemShoppingNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/gem-shopping-network-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/26849",
+    "name": "CNBCWLD",
+    "lang": "es",
+    "xmltv_id": "CNBCWorld.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnbc-world-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/26853",
+    "name": "LOOR201",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/28506",
+    "name": "AXSTV",
+    "lang": "es",
+    "xmltv_id": "AXSTV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/30017",
+    "name": "YES",
+    "lang": "es",
+    "xmltv_id": "YES.mv"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/30156",
+    "name": "COOK",
+    "lang": "es",
+    "xmltv_id": "CookingChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cooking-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/30324",
+    "name": "SBN",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/30420",
+    "name": "NIKTON",
+    "lang": "es",
+    "xmltv_id": "Nicktoons.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/31046",
+    "name": "MTHD",
+    "lang": "es",
+    "xmltv_id": "MotorTrend.it@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/31541",
+    "name": "UNIMWST",
+    "lang": "es",
+    "xmltv_id": "UniMas.us@West"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/32161",
+    "name": "GOLTV",
+    "lang": "es",
+    "xmltv_id": "GolTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/32281",
+    "name": "NBATV",
+    "lang": "es",
+    "xmltv_id": "NBATV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/32645",
+    "name": "ESPNHD",
+    "lang": "es",
+    "xmltv_id": "ESPN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/espn-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/33178",
+    "name": "FS2",
+    "lang": "es",
+    "xmltv_id": "FoxSports2.us"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/33395",
+    "name": "TENNIS",
+    "lang": "es",
+    "xmltv_id": "TennisChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tennis-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/33431",
+    "name": "NUESTRT",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/33527",
+    "name": "ENLUSA",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/33628",
+    "name": "DEPELC",
+    "lang": "es",
+    "xmltv_id": "DePeliculaClasico.mx@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/de-pelicula-clasico-mx.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/33668",
+    "name": "HDNETMV",
+    "lang": "es",
+    "xmltv_id": "HDNetMovies.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/33930",
+    "name": "SPRTMAN",
+    "lang": "es",
+    "xmltv_id": "SportsmanChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/sportsman-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/34085",
+    "name": "SBS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/34710",
+    "name": "NFLNET",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/34933",
+    "name": "MAXHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/34941",
+    "name": "STZHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/34949",
+    "name": "STZHDP",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/35038",
+    "name": "NESNHD",
+    "lang": "es",
+    "xmltv_id": "NESN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nesn-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/35329",
+    "name": "TMCHD",
+    "lang": "es",
+    "xmltv_id": "TMC.fr@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/france/tmc-fr.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/35383",
+    "name": "MSGSNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/35401",
+    "name": "DEPELUS",
+    "lang": "es",
+    "xmltv_id": "DePeliculaUS.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/35402",
+    "name": "MSGHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/35975",
+    "name": "MAXHDP",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/36139",
+    "name": "CANAL11",
+    "lang": "es",
+    "xmltv_id": "Canal11.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/canal11-pt.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/36225",
+    "name": "STZENHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/39719",
+    "name": "CARAI",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/42642",
+    "name": "TNTHD",
+    "lang": "es",
+    "xmltv_id": "TNT.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tnt-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/43362",
+    "name": "HISTE",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/44263",
+    "name": "ALTSPRT",
+    "lang": "es",
+    "xmltv_id": "AltitudeSports.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/altitude-sports-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/44322",
+    "name": "WAPAUS",
+    "lang": "es",
+    "xmltv_id": "WAPADT1.pr@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/44448",
+    "name": "CENTROA",
+    "lang": "es",
+    "xmltv_id": "CentroamericaTV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/44644",
+    "name": "ECUAVI",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/44714",
+    "name": "CMEX",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/44940",
+    "name": "UP",
+    "lang": "es",
+    "xmltv_id": "UpTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/up-tv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/45399",
+    "name": "NFLHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/45507",
+    "name": "ESPN2HD",
+    "lang": "es",
+    "xmltv_id": "ESPN2.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/45526",
+    "name": "NBATVHD",
+    "lang": "es",
+    "xmltv_id": "NBATV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/45654",
+    "name": "ESPNU",
+    "lang": "es",
+    "xmltv_id": "ESPNU.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/46275",
+    "name": "YESHDNY",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/46350",
+    "name": "RAIPREM",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/46421",
+    "name": "ESNE",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/46710",
+    "name": "HMYSHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/46737",
+    "name": "OUTHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/46753",
+    "name": "SURPERU",
+    "lang": "es",
+    "xmltv_id": "SurPeru.pe@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/46762",
+    "name": "LOGO",
+    "lang": "es",
+    "xmltv_id": "Logo.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/logo-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/46817",
+    "name": "MASN",
+    "lang": "es",
+    "xmltv_id": "MASN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/masn-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/47174",
+    "name": "ANC",
+    "lang": "es",
+    "xmltv_id": "ANC.ph@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/philippines/anc-ph.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/47216",
+    "name": "NFLRZ",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/47540",
+    "name": "UKIDS",
+    "lang": "es",
+    "xmltv_id": "UniversalKids.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/universal-kids-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/49097",
+    "name": "NRBTV",
+    "lang": "es",
+    "xmltv_id": "NRBTV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/49128",
+    "name": "CTN",
+    "lang": "es",
+    "xmltv_id": "CTN.kh"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/49141",
+    "name": "MTVLIVE",
+    "lang": "es",
+    "xmltv_id": "MTVLive.uk@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/49198",
+    "name": "NBCSBH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/49266",
+    "name": "HOPE",
+    "lang": "es",
+    "xmltv_id": "HopeChannelNorthAmerica.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/49438",
+    "name": "NGCHD",
+    "lang": "es",
+    "xmltv_id": "NationalGeographic.ru@HD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/49603",
+    "name": "SNY",
+    "lang": "es",
+    "xmltv_id": "SportsNetNewYork.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/49788",
+    "name": "HGTVD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/49848",
+    "name": "FDSGLHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/49882",
+    "name": "SNPTHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/50038",
+    "name": "SNYHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/50167",
+    "name": "FDSGL",
+    "lang": "es",
+    "xmltv_id": "FanDuelSportsNetworkGreatLakes.us"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/50335",
+    "name": "PMAGIC",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/50338",
+    "name": "BABY1",
+    "lang": "es",
+    "xmltv_id": "BabyFirst.us@US"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/50404",
+    "name": "PLAYHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/50747",
+    "name": "FOODHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/51529",
+    "name": "AETVHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/52199",
+    "name": "REELZ",
+    "lang": "es",
+    "xmltv_id": "Reelz.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/reelz-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/52649",
+    "name": "EWTNES",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/52697",
+    "name": "GODTV",
+    "lang": "es",
+    "xmltv_id": "GODTV.uk@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/54867",
+    "name": "BANDAUS",
+    "lang": "es",
+    "xmltv_id": "Bandamax.mx@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/mexico/bandamax-mx.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/55250",
+    "name": "VME",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/55433",
+    "name": "MASN2",
+    "lang": "es",
+    "xmltv_id": "MASN2.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/55887",
+    "name": "LMNHD",
+    "lang": "es",
+    "xmltv_id": "LifetimeMovies.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/lifetime-movies-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/56032",
+    "name": "SHOPLC",
+    "lang": "es",
+    "xmltv_id": "ShopLC.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/shop-lc-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/56783",
+    "name": "BIGTEN",
+    "lang": "es",
+    "xmltv_id": "BigTenNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/big-ten-network-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/56905",
+    "name": "DSCHD",
+    "lang": "es",
+    "xmltv_id": "DiscoveryChannel.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/discovery-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/57390",
+    "name": "SCIHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/57391",
+    "name": "TLCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/57394",
+    "name": "APLHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/57569",
+    "name": "STZCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/57573",
+    "name": "STZEHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/57581",
+    "name": "STZKHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/57708",
+    "name": "HSTRYHD",
+    "lang": "es",
+    "xmltv_id": "History.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/57806",
+    "name": "DT268",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58321",
+    "name": "BIG10HD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58428",
+    "name": "DFAM",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58452",
+    "name": "USAHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58515",
+    "name": "TBSHD",
+    "lang": "es",
+    "xmltv_id": "TBS.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tbs-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58532",
+    "name": "SMTHHD",
+    "lang": "es",
+    "xmltv_id": "SmithsonianChannel.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/smithsonian-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58533",
+    "name": "SHO2HD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58570",
+    "name": "NHLNET",
+    "lang": "es",
+    "xmltv_id": "NHLNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nhl-network-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58574",
+    "name": "FXHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58623",
+    "name": "SYFYHD",
+    "lang": "es",
+    "xmltv_id": "Syfy.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/syfy-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58625",
+    "name": "BRAVOHD",
+    "lang": "es",
+    "xmltv_id": "Bravo.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bravo-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58646",
+    "name": "CNNHD",
+    "lang": "es",
+    "xmltv_id": "CNN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cnn-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58649",
+    "name": "FBN",
+    "lang": "es",
+    "xmltv_id": "FoxBusinessNetwork.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58690",
+    "name": "NHLHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58698",
+    "name": "MEGAUS",
+    "lang": "es",
+    "xmltv_id": "MegaTV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58718",
+    "name": "FBNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58780",
+    "name": "CNBCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58812",
+    "name": "WEATHHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58933",
+    "name": "ADLTPPV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/58988",
+    "name": "FYIHD",
+    "lang": "es",
+    "xmltv_id": "FYI.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fyi-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59036",
+    "name": "TNCK",
+    "lang": "es",
+    "xmltv_id": "TeenNick.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/teen-nick-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59116",
+    "name": "FUSEHD",
+    "lang": "es",
+    "xmltv_id": "Fuse.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fuse-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59155",
+    "name": "NHKWRLD",
+    "lang": "es",
+    "xmltv_id": "NHKWorldJapan.jp@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59186",
+    "name": "PARHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59250",
+    "name": "CBSSNHD",
+    "lang": "es",
+    "xmltv_id": "CBSSportsNetworkUSA.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59296",
+    "name": "WEHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59303",
+    "name": "TRAVHD",
+    "lang": "es",
+    "xmltv_id": "TravelChannel.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/travel-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59305",
+    "name": "FS2HD",
+    "lang": "es",
+    "xmltv_id": "FoxSports2LatinAmerica.us@South"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59337",
+    "name": "AMCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59355",
+    "name": "HBO2PHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59357",
+    "name": "HBOFHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59363",
+    "name": "HBOSGHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59368",
+    "name": "HBO2HD",
+    "lang": "es",
+    "xmltv_id": "HBOEurope.hu@HD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59373",
+    "name": "MOMAXHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59432",
+    "name": "NIKHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59440",
+    "name": "CMTVHD",
+    "lang": "es",
+    "xmltv_id": "CMTV.pt@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/cmtv-pt.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59444",
+    "name": "IFCHD",
+    "lang": "es",
+    "xmltv_id": "IFC.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/ifc-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59534",
+    "name": "DT222",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59539",
+    "name": "TBNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59607",
+    "name": "MASNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59615",
+    "name": "FREFMHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59625",
+    "name": "FDSCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59627",
+    "name": "FDWHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59629",
+    "name": "FDSWHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59644",
+    "name": "FDSTHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59646",
+    "name": "DTV323",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59684",
+    "name": "DISNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59837",
+    "name": "HBOLAHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59839",
+    "name": "HBOCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59845",
+    "name": "HBOZHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59948",
+    "name": "ACMAXHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59954",
+    "name": "THMAXHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59961",
+    "name": "5MAXHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59963",
+    "name": "MOVIEHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59965",
+    "name": "CMAXHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/59976",
+    "name": "ESPNWHD",
+    "lang": "es",
+    "xmltv_id": "ESPNews.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60006",
+    "name": "DXDHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60046",
+    "name": "VH1HD",
+    "lang": "es",
+    "xmltv_id": "VH1.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/vh1-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60048",
+    "name": "TOONHD",
+    "lang": "es",
+    "xmltv_id": "CartoonNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cartoon-network-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60111",
+    "name": "PURST",
+    "lang": "es",
+    "xmltv_id": "PursuitChannel.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60150",
+    "name": "LIFEHD",
+    "lang": "es",
+    "xmltv_id": "Lifetime.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/lifetime-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60165",
+    "name": "JLTV",
+    "lang": "es",
+    "xmltv_id": "JewishLifeTelevision.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60179",
+    "name": "FNCHD",
+    "lang": "es",
+    "xmltv_id": "FoxNewsChannel.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60222",
+    "name": "QVCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60296",
+    "name": "HONV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60316",
+    "name": "TENISHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60468",
+    "name": "DESTHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60597",
+    "name": "DITV366",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60631",
+    "name": "CINENOS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60690",
+    "name": "TLCN",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60696",
+    "name": "ESPNUHD",
+    "lang": "es",
+    "xmltv_id": "ESPNU.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60947",
+    "name": "SHOWXHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60951",
+    "name": "TMCXHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/60964",
+    "name": "MTVHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61001",
+    "name": "SHOCSHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61036",
+    "name": "MAVTVHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61084",
+    "name": "DTVSUNN",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61090",
+    "name": "RTNWHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61092",
+    "name": "DFDSOHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61135",
+    "name": "BIGTENO",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61143",
+    "name": "BTENOHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61313",
+    "name": "SALE",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61340",
+    "name": "TNTPHD",
+    "lang": "es",
+    "xmltv_id": "TNT.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tnt-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61469",
+    "name": "CINHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61776",
+    "name": "PASNUS",
+    "lang": "es",
+    "xmltv_id": "Pasiones.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61812",
+    "name": "EHD",
+    "lang": "es",
+    "xmltv_id": "E.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61854",
+    "name": "GOLFHD",
+    "lang": "es",
+    "xmltv_id": "GolfporMovistarPlusPlus.es@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61960",
+    "name": "TVONEHD",
+    "lang": "es",
+    "xmltv_id": "TVOne.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/61988",
+    "name": "NTN24",
+    "lang": "es",
+    "xmltv_id": "NTN24.co@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62055",
+    "name": "DT227",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62058",
+    "name": "DT225",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62077",
+    "name": "HSNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62079",
+    "name": "MLBN",
+    "lang": "es",
+    "xmltv_id": "MLBNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mlb-network-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62081",
+    "name": "MLBHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62083",
+    "name": "MLBNA",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62085",
+    "name": "MLBHDA",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62094",
+    "name": "DT320",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62125",
+    "name": "CINESTE",
+    "lang": "es",
+    "xmltv_id": "CineEstelar.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62161",
+    "name": "HOLATV",
+    "lang": "es",
+    "xmltv_id": "HolaTVLatinAmerica.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62401",
+    "name": "CINLUS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62420",
+    "name": "CCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62881",
+    "name": "TCTHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62894",
+    "name": "DT87",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62955",
+    "name": "WOWU",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/62957",
+    "name": "DT401",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/63039",
+    "name": "DT224",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/63137",
+    "name": "DT270",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/63138",
+    "name": "NBCSBAH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/63198",
+    "name": "NESNPL",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/63236",
+    "name": "BETHD",
+    "lang": "es",
+    "xmltv_id": "BET.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bet-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/63516",
+    "name": "NESNPLD",
+    "lang": "es",
+    "xmltv_id": "NESNPlus.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nesn-plus-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/63717",
+    "name": "RFDHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/64241",
+    "name": "MNBCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/64312",
+    "name": "TCMHD",
+    "lang": "es",
+    "xmltv_id": "TCM.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tcm-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/64490",
+    "name": "TRUTVHD",
+    "lang": "es",
+    "xmltv_id": "truTV.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tru-tv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/64492",
+    "name": "BBCAHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/64549",
+    "name": "HLNHD",
+    "lang": "es",
+    "xmltv_id": "HLN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/hln-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/64599",
+    "name": "CCHDP",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/64630",
+    "name": "MTVPHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/64673",
+    "name": "BETHDP",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/65025",
+    "name": "NFLNRZD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/65064",
+    "name": "ESTRLLA",
+    "lang": "es",
+    "xmltv_id": "EstrellaTV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/65223",
+    "name": "RKTV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/65342",
+    "name": "IDHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/65412",
+    "name": "FDFLHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/65460",
+    "name": "FDWIHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/65596",
+    "name": "ALTSPHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/65687",
+    "name": "MGMHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/65732",
+    "name": "VICEHD",
+    "lang": "es",
+    "xmltv_id": "VICETV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/66110",
+    "name": "DT309",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/66268",
+    "name": "HALLHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/66379",
+    "name": "FXXHD",
+    "lang": "es",
+    "xmltv_id": "FXX.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fxx-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/66485",
+    "name": "MASN2HD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/66804",
+    "name": "NGWILD",
+    "lang": "es",
+    "xmltv_id": "NatGeoWild.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nat-geo-wild-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/66879",
+    "name": "FSP",
+    "lang": "es",
+    "xmltv_id": "FoxSoccerPlus.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-soccer-plus-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/66880",
+    "name": "FSCPLHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/67235",
+    "name": "STRZIBH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/67236",
+    "name": "STRZCIH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/67331",
+    "name": "NGWIHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/67375",
+    "name": "MAGNHD",
+    "lang": "es",
+    "xmltv_id": "MagnoliaNetwork.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/magnolia-network-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/67454",
+    "name": "SHORTS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/67676",
+    "name": "SBND",
+    "lang": "es",
+    "xmltv_id": "SBNTV.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/67749",
+    "name": "DFCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/67890",
+    "name": "TBSHDP",
+    "lang": "es",
+    "xmltv_id": "TBS.us@West",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tbs-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/67929",
+    "name": "MGMHTH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/68040",
+    "name": "UNIMPHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/68049",
+    "name": "UNIHD",
+    "lang": "es",
+    "xmltv_id": "Univision.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/univision-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/68065",
+    "name": "COOKHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/68340",
+    "name": "SHOBETH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/68342",
+    "name": "NEXTHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/68367",
+    "name": "GALAHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/68385",
+    "name": "REELZHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/68502",
+    "name": "DT255",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/68796",
+    "name": "POPHD",
+    "lang": "es",
+    "xmltv_id": "Pop.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/pop-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/68827",
+    "name": "GSNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/69061",
+    "name": "OVATNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/69130",
+    "name": "SONYHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/69301",
+    "name": "MEGAUSH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/69529",
+    "name": "MITALIA",
+    "lang": "es",
+    "xmltv_id": "MediasetItalia.it@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/70225",
+    "name": "UKIDSH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/70253",
+    "name": "FXMHD",
+    "lang": "es",
+    "xmltv_id": "FXMovieChannel.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/70337",
+    "name": "BABYUS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/70387",
+    "name": "OWN",
+    "lang": "es",
+    "xmltv_id": "OWN.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/70388",
+    "name": "OWNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/70436",
+    "name": "METVN",
+    "lang": "es",
+    "xmltv_id": "MeTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/me-tv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/70460",
+    "name": "DTVCSHP",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/70522",
+    "name": "OXYGNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/71271",
+    "name": "FDSEOMH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/71280",
+    "name": "SUNDHD",
+    "lang": "es",
+    "xmltv_id": "SundanceTV.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/sundance-tv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/71461",
+    "name": "MNMTOM",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/71661",
+    "name": "VIENTTV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/71790",
+    "name": "ANBUSCH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/71798",
+    "name": "IMPCNET",
+    "lang": "es",
+    "xmltv_id": "ImpactNetwork.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/71799",
+    "name": "BLOOMHD",
+    "lang": "es",
+    "xmltv_id": "BloombergTV.us@US"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/71914",
+    "name": "ESPNDHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/72015",
+    "name": "SZEAHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/72094",
+    "name": "FMHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/72189",
+    "name": "FXDEPHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/72449",
+    "name": "NGMUNDO",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/72611",
+    "name": "DT250",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/73067",
+    "name": "BOUNCE",
+    "lang": "es",
+    "xmltv_id": "Bounce.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bounce-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/73413",
+    "name": "FETV",
+    "lang": "es",
+    "xmltv_id": "FETV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fetv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/73541",
+    "name": "TVLNDHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/73564",
+    "name": "NBCSCAS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/73565",
+    "name": "NBSCASH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/74073",
+    "name": "MGMMRHD",
+    "lang": "es",
+    "xmltv_id": "MGMPlusMarquee.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mgm-plus-marquee-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/74333",
+    "name": "FDMSATH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/74436",
+    "name": "FDNORHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/74550",
+    "name": "UNITLNO",
+    "lang": "es",
+    "xmltv_id": "UnivisionTlnovelas.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/74711",
+    "name": "PXX5PRM",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/74796",
+    "name": "DJCH",
+    "lang": "es",
+    "xmltv_id": "DisneyJunior.us@East"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/74859",
+    "name": "FDSCSD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/74885",
+    "name": "DJCHHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/74900",
+    "name": "FDSCSDH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/74978",
+    "name": "JBS",
+    "lang": "es",
+    "xmltv_id": "JBS.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/75077",
+    "name": "MTV2HD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/75176",
+    "name": "TUDNU",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/75220",
+    "name": "MLBSZHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/75621",
+    "name": "KAPATID",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/75761",
+    "name": "VALU",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/76408",
+    "name": "SOCINH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/76894",
+    "name": "IONDHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/76898",
+    "name": "PLYPRMH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/76964",
+    "name": "NMASFOR",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/77033",
+    "name": "TUDNUH",
+    "lang": "es",
+    "xmltv_id": "TUDN.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tudn-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/77375",
+    "name": "SPECTSN",
+    "lang": "es",
+    "xmltv_id": "SpectrumSportsNet.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/77376",
+    "name": "SPECSN",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/77606",
+    "name": "TELESAT",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/77744",
+    "name": "SCHN",
+    "lang": "es",
+    "xmltv_id": "ATTSportsNetSouthwest.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/77746",
+    "name": "SCHNHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/78601",
+    "name": "SHPHQHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/78609",
+    "name": "VETV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/78754",
+    "name": "VFACE",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/78803",
+    "name": "RAINW24",
+    "lang": "es",
+    "xmltv_id": "RaiNews24.it@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/78808",
+    "name": "AHCHD",
+    "lang": "es",
+    "xmltv_id": "AmericanHeroesChannel.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/american-heroes-channel-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/78850",
+    "name": "JUST",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/78851",
+    "name": "COZITV",
+    "lang": "es",
+    "xmltv_id": "CoziTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cozi-tv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/79566",
+    "name": "VIVIDTV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/80621",
+    "name": "WLLOHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/81287",
+    "name": "SCHN2",
+    "lang": "es",
+    "xmltv_id": "ATTSportsNetSouthwestPlus.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82446",
+    "name": "DOGTV",
+    "lang": "es",
+    "xmltv_id": "DogTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/dog-tv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82470",
+    "name": "CMDTVHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82541",
+    "name": "FS1",
+    "lang": "es",
+    "xmltv_id": "FoxSports1.us"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82547",
+    "name": "FS1HD",
+    "lang": "es",
+    "xmltv_id": "FoxSports1.us@HD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82563",
+    "name": "GET",
+    "lang": "es",
+    "xmltv_id": "GetTV.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/get-tv-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82649",
+    "name": "NICJRHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82682",
+    "name": "QVC2",
+    "lang": "es",
+    "xmltv_id": "QVC2.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82773",
+    "name": "INSPHD",
+    "lang": "es",
+    "xmltv_id": "INSP.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/insp-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82808",
+    "name": "A3CINE",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/82892",
+    "name": "GFAMHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/83098",
+    "name": "RVLTHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/86448",
+    "name": "DT262",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/87000",
+    "name": "NLSHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/87001",
+    "name": "DYSTRHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/87023",
+    "name": "SSNLA",
+    "lang": "es",
+    "xmltv_id": "SpectrumSportsNetLA.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/87024",
+    "name": "SNLA",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/87063",
+    "name": "HOGAR",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/87376",
+    "name": "I24NWEN",
+    "lang": "es",
+    "xmltv_id": "i24NEWSEnglishUSA.il@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/87624",
+    "name": "FDSW4HD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/87690",
+    "name": "VIETV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/87925",
+    "name": "NEWSMX",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/88484",
+    "name": "VGNTV",
+    "lang": "es",
+    "xmltv_id": "VGNTV.us"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/89535",
+    "name": "SEC",
+    "lang": "es",
+    "xmltv_id": "StarEntertainmentChannel.hk"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/89714",
+    "name": "SECH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/89922",
+    "name": "GRIT",
+    "lang": "es",
+    "xmltv_id": "Grit.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/grit-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/91035",
+    "name": "WINS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/91060",
+    "name": "CNL22",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/91096",
+    "name": "NEWSNTN",
+    "lang": "es",
+    "xmltv_id": "NewsNation.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/news-nation-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/91097",
+    "name": "NWSNTSD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/91314",
+    "name": "SONLFHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/91588",
+    "name": "UNVSOHD",
+    "lang": "es",
+    "xmltv_id": "NBCUniverso.us@East",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nbc-universo-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/91994",
+    "name": "ACUWTHH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/91998",
+    "name": "ATRESSE",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/92534",
+    "name": "DTVSS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/93372",
+    "name": "LSRC",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/94102",
+    "name": "SMX",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/94842",
+    "name": "CDINA",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/94884",
+    "name": "RAIRAD1",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/95743",
+    "name": "MMTVUS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/95746",
+    "name": "OWNPA",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/96013",
+    "name": "FAITHHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/96368",
+    "name": "CASH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/97041",
+    "name": "ZOOMOOD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/97163",
+    "name": "NEWSMXH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/97409",
+    "name": "ASPREHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/97682",
+    "name": "LIFED",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/98286",
+    "name": "NHK1HD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/100082",
+    "name": "DT310",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/100304",
+    "name": "DT321",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/100316",
+    "name": "WILLOW2",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/100858",
+    "name": "DT455",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/101260",
+    "name": "QVC3",
+    "lang": "es",
+    "xmltv_id": "QVC3.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/101449",
+    "name": "BBCWDEH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/101697",
+    "name": "GETIT1",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/102305",
+    "name": "VEPTVU",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/102490",
+    "name": "SCNTV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/102903",
+    "name": "STZENFS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/102905",
+    "name": "STZESPS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/102906",
+    "name": "STZEWSS",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/103892",
+    "name": "FAMZHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/105619",
+    "name": "SNLVSD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/105628",
+    "name": "SNLV",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/105723",
+    "name": "HFM",
+    "lang": "es",
+    "xmltv_id": "HallmarkDrama.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/105824",
+    "name": "FILM24H",
+    "lang": "es",
+    "xmltv_id": "Film24h.us"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/105858",
+    "name": "SCHANNL",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/106173",
+    "name": "PRIMERF",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/106387",
+    "name": "DTV9800",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/106819",
+    "name": "NSTRAVI",
+    "lang": "es",
+    "xmltv_id": "NuestraVision.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/107076",
+    "name": "TASTE",
+    "lang": "es",
+    "xmltv_id": "Tastemade.us@US",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/tastemade-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/108573",
+    "name": "TEFEIHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/109333",
+    "name": "CHDDRSD",
+    "lang": "es",
+    "xmltv_id": "CheddarNews.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/cheddar-news-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/109718",
+    "name": "NBCESTR",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/109719",
+    "name": "NBCWSTR",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/109979",
+    "name": "TELESAP",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/110289",
+    "name": "CLEOHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/110477",
+    "name": "HERICNH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/110950",
+    "name": "KBSW24",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/111046",
+    "name": "TYCINUH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/111177",
+    "name": "DTVPLBY",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/111293",
+    "name": "NTVCHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/111871",
+    "name": "ACC",
+    "lang": "es",
+    "xmltv_id": "ACCNetwork.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/acc-network-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/111905",
+    "name": "ACCSD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/113717",
+    "name": "DT288",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/113720",
+    "name": "DTV308",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/114483",
+    "name": "DTV203",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/114759",
+    "name": "AMCPLUS",
+    "lang": "es",
+    "xmltv_id": "AMCPlus.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/114881",
+    "name": "HOGARHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/114934",
+    "name": "FIRST",
+    "lang": "es",
+    "xmltv_id": "Pershyi.ua",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/ukraine/pershyi-ua.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/115674",
+    "name": "YUM",
+    "lang": "es",
+    "xmltv_id": "SoYummy.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/so-yummy-us.png"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/116634",
+    "name": "BAR",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/116898",
+    "name": "OPMTV",
+    "lang": "es",
+    "xmltv_id": "NuestraVision.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/116899",
+    "name": "PBO",
+    "lang": "es",
+    "xmltv_id": "PBO.pe"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/117009",
+    "name": "SARISARI",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/117988",
+    "name": "CDINAHD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/122068",
+    "name": "FMC",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/122139",
+    "name": "TCIE",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/122276",
+    "name": "INSPIRE",
+    "lang": "es",
+    "xmltv_id": "TBNInspire.us@SD"
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/122482",
+    "name": "ESTNWSD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/124383",
+    "name": "DTV3231",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/126128",
+    "name": "EARTHX",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/132272",
+    "name": "GRIOCH",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/132423",
+    "name": "DSTRESP",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/136322",
+    "name": "ARID",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/136323",
+    "name": "CINR",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/136332",
+    "name": "MNNT",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/138912",
+    "name": "LIFESKR",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/151128",
+    "name": "BLOSSM",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/155158",
+    "name": "MERITST",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/157315",
+    "name": "MSNNF",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/157317",
+    "name": "MSNNSD",
+    "lang": "es",
+    "xmltv_id": ""
+  },
+  {
+    "site_id": "X/USA-DITV-DEFAULT/DITV/USA/12084/172126",
+    "name": "LOOLOO",
+    "lang": "es",
+    "xmltv_id": ""
+  }
+]
