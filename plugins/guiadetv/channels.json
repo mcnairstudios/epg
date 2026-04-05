@@ -1,264 +1,17 @@
 [
   {
-    "site_id": "terra-viva",
-    "name": "Terra Viva",
+    "site_id": "national-geographic",
+    "name": "National Geographic",
     "lang": "pt",
-    "xmltv_id": "TerraViva.br",
-    "logo": "https://i.imgur.com/wnYsE3O.png"
+    "xmltv_id": "NationalGeographic.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
   },
   {
-    "site_id": "tlc",
-    "name": "TLC",
+    "site_id": "record-news",
+    "name": "Record News",
     "lang": "pt",
-    "xmltv_id": "TelevisionLocaleduCholetais.fr",
-    "logo": "https://i.imgur.com/UdLeLar.jpg"
-  },
-  {
-    "site_id": "discovery-home-health",
-    "name": "Discovery Home \u0026 Health",
-    "lang": "pt"
-  },
-  {
-    "site_id": "food-network",
-    "name": "Food Network",
-    "lang": "pt",
-    "xmltv_id": "FoodNetwork.ca",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg"
-  },
-  {
-    "site_id": "investigacao-discovery",
-    "name": "Investigação Discovery",
-    "lang": "pt",
-    "xmltv_id": "InvestigationDiscovery.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "nick-jr-",
-    "name": "Nick Jr.",
-    "lang": "pt",
-    "xmltv_id": "NickJr.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "star-channel",
-    "name": "STAR Channel",
-    "lang": "pt",
-    "xmltv_id": "StarChannel.bg",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"
-  },
-  {
-    "site_id": "tnt",
-    "name": "TNT",
-    "lang": "pt",
-    "xmltv_id": "TNT.es",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "cancao-nova",
-    "name": "Canção Nova",
-    "lang": "pt"
-  },
-  {
-    "site_id": "fx",
-    "name": "FX",
-    "lang": "pt",
-    "xmltv_id": "FX.ca",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"
-  },
-  {
-    "site_id": "tv-brasil",
-    "name": "TV Brasil",
-    "lang": "pt",
-    "xmltv_id": "TVBrasil.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png"
-  },
-  {
-    "site_id": "tv-camara",
-    "name": "TV Câmara",
-    "lang": "pt",
-    "xmltv_id": "TVCamara.br",
-    "logo": "https://i.imgur.com/Sdou1Ab.png"
-  },
-  {
-    "site_id": "espn-4",
-    "name": "ESPN 4",
-    "lang": "pt",
-    "xmltv_id": "ESPN4.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
-  },
-  {
-    "site_id": "fox-news",
-    "name": "Fox News",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-news-us.png"
-  },
-  {
-    "site_id": "futura",
-    "name": "Futura",
-    "lang": "pt",
-    "xmltv_id": "Futura.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png"
-  },
-  {
-    "site_id": "rede-familia",
-    "name": "Rede Família",
-    "lang": "pt",
-    "xmltv_id": "RedeFamilia.br",
-    "logo": "https://i.imgur.com/7KVFCrQ.png"
-  },
-  {
-    "site_id": "canal-educacao",
-    "name": "Canal Educação",
-    "lang": "pt",
-    "xmltv_id": "CanalEducacao.br",
-    "logo": "https://i.imgur.com/OOB7nrS.png"
-  },
-  {
-    "site_id": "hbo-signature",
-    "name": "HBO Signature",
-    "lang": "pt",
-    "xmltv_id": "HBOSignature.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png"
-  },
-  {
-    "site_id": "megapix",
-    "name": "Megapix",
-    "lang": "pt",
-    "xmltv_id": "Megapix.br",
-    "logo": "https://i.imgur.com/qTYv5jt.png"
-  },
-  {
-    "site_id": "sony",
-    "name": "Sony",
-    "lang": "pt"
-  },
-  {
-    "site_id": "multishow",
-    "name": "Multishow",
-    "lang": "pt",
-    "xmltv_id": "Multishow.br",
-    "logo": "https://i.imgur.com/bqVg8nT.png"
-  },
-  {
-    "site_id": "premiere-3",
-    "name": "Premiere 3",
-    "lang": "pt",
-    "xmltv_id": "SkyCinemaPremieren.de",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "discovery-channel",
-    "name": "Discovery Channel",
-    "lang": "pt",
-    "xmltv_id": "DiscoveryChannel.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "paramount-network",
-    "name": "Paramount Network",
-    "lang": "pt",
-    "xmltv_id": "5Action.uk",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/960px-5Action_logo.svg.png"
-  },
-  {
-    "site_id": "premiere-4",
-    "name": "Premiere 4",
-    "lang": "pt",
-    "xmltv_id": "SkyCinemaFun.de",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sky_Cinema_Fun_DE_Logo_2020.svg/960px-Sky_Cinema_Fun_DE_Logo_2020.svg.png"
-  },
-  {
-    "site_id": "tv-ra-tim-bum",
-    "name": "TV Rá Tim Bum",
-    "lang": "pt",
-    "xmltv_id": "TVRaTimBum.br",
-    "logo": "https://i.imgur.com/JIQwz0w.png"
-  },
-  {
-    "site_id": "universal-tv",
-    "name": "Universal TV",
-    "lang": "pt",
-    "xmltv_id": "UniversalTV.au",
-    "logo": "https://i.imgur.com/jnjvR5f.png"
-  },
-  {
-    "site_id": "animal-planet",
-    "name": "Animal Planet",
-    "lang": "pt",
-    "xmltv_id": "AnimalPlanet.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
-  },
-  {
-    "site_id": "e",
-    "name": "E!",
-    "lang": "pt",
-    "xmltv_id": "E.au",
-    "logo": "https://i.imgur.com/TWFDkap.png"
-  },
-  {
-    "site_id": "hbo",
-    "name": "HBO",
-    "lang": "pt",
-    "xmltv_id": "HBO.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
-  },
-  {
-    "site_id": "hbo-family",
-    "name": "HBO Family",
-    "lang": "pt",
-    "xmltv_id": "HBOFamily.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png"
-  },
-  {
-    "site_id": "hbo-plus",
-    "name": "HBO Plus",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/hbo-plus-ar.png"
-  },
-  {
-    "site_id": "sbt",
-    "name": "SBT",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/sbt-br.png"
-  },
-  {
-    "site_id": "agro",
-    "name": "Agro+",
-    "lang": "pt"
-  },
-  {
-    "site_id": "canal-rural",
-    "name": "Canal Rural",
-    "lang": "pt",
-    "xmltv_id": "CanalRural.ar",
-    "logo": "https://i.imgur.com/NgIBbPX.png"
-  },
-  {
-    "site_id": "sportv",
-    "name": "SporTV",
-    "lang": "pt",
-    "xmltv_id": "SporTV.br",
-    "logo": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png"
-  },
-  {
-    "site_id": "studio-universal",
-    "name": "Studio Universal",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/studio-universal-ar.png"
-  },
-  {
-    "site_id": "telecine-action",
-    "name": "Telecine Action",
-    "lang": "pt",
-    "xmltv_id": "TelecineAction.br",
-    "logo": "https://i.imgur.com/BHYWG0h.png"
-  },
-  {
-    "site_id": "tv-senado",
-    "name": "TV Senado",
-    "lang": "pt",
-    "xmltv_id": "TVSenado.br",
-    "logo": "https://i.imgur.com/duy6waL.png"
+    "xmltv_id": "RecordNews.br",
+    "logo": "https://i.imgur.com/HZDRG0K.png"
   },
   {
     "site_id": "telecine-cult",
@@ -268,123 +21,105 @@
     "logo": "https://i.imgur.com/6GuHXnr.png"
   },
   {
-    "site_id": "off",
-    "name": "Off",
+    "site_id": "tnt-series",
+    "name": "TNT Séries",
     "lang": "pt"
   },
   {
-    "site_id": "premiere-2",
-    "name": "Premiere 2",
+    "site_id": "telecine-action",
+    "name": "Telecine Action",
     "lang": "pt",
-    "xmltv_id": "SkyCinemaPremieren.de",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png"
+    "xmltv_id": "TelecineAction.br",
+    "logo": "https://i.imgur.com/BHYWG0h.png"
   },
   {
-    "site_id": "rede-gospel",
-    "name": "Rede Gospel",
-    "lang": "pt",
-    "xmltv_id": "RedeGospel.br",
-    "logo": "https://i.imgur.com/mttSwgO.png"
-  },
-  {
-    "site_id": "telecine-premium",
-    "name": "Telecine Premium",
-    "lang": "pt",
-    "xmltv_id": "TelecinePremium.br",
-    "logo": "https://i.imgur.com/uVFgIr8.png"
-  },
-  {
-    "site_id": "axn",
-    "name": "AXN",
-    "lang": "pt",
-    "xmltv_id": "AXN.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
-  },
-  {
-    "site_id": "bbc-world",
-    "name": "BBC World",
+    "site_id": "bandsports",
+    "name": "Bandsports",
     "lang": "pt"
   },
   {
-    "site_id": "espn-6",
-    "name": "ESPN 6",
+    "site_id": "espn-3",
+    "name": "ESPN 3",
     "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/espn-6-nl.png"
+    "xmltv_id": "ESPN3.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
   },
   {
-    "site_id": "gnt",
-    "name": "GNT",
+    "site_id": "rede-seculo-21",
+    "name": "Rede Século 21",
     "lang": "pt",
-    "xmltv_id": "GNT.br",
-    "logo": "https://i.imgur.com/XymcvMy.png"
+    "xmltv_id": "RedeSeculo21.br"
   },
   {
-    "site_id": "hbo-2",
-    "name": "HBO 2",
+    "site_id": "tv-cultura",
+    "name": "TV Cultura",
     "lang": "pt",
-    "xmltv_id": "HBO2.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png"
+    "xmltv_id": "TVCultura.br",
+    "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
   },
   {
-    "site_id": "box-kids",
-    "name": "Box Kids",
+    "site_id": "cancao-nova",
+    "name": "Canção Nova",
     "lang": "pt"
   },
   {
-    "site_id": "discovery-science",
-    "name": "Discovery Science",
+    "site_id": "espn",
+    "name": "ESPN",
     "lang": "pt",
-    "xmltv_id": "DiscoveryScience.ca",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"
+    "xmltv_id": "ESPN.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
   },
   {
-    "site_id": "rede-brasil",
-    "name": "Rede Brasil",
-    "lang": "pt",
-    "xmltv_id": "RedeBrasil.br",
-    "logo": "https://i.imgur.com/TXJKwzZ.png"
+    "site_id": "premiere-6",
+    "name": "Premiere 6",
+    "lang": "pt"
   },
   {
-    "site_id": "sportv-2",
-    "name": "SporTV 2",
+    "site_id": "tv-ra-tim-bum",
+    "name": "TV Rá Tim Bum",
     "lang": "pt",
-    "xmltv_id": "SporTV2.br",
-    "logo": "https://i.imgur.com/pBiUnb2.png"
+    "xmltv_id": "TVRaTimBum.br",
+    "logo": "https://i.imgur.com/JIQwz0w.png"
   },
   {
-    "site_id": "discovery-kids",
-    "name": "Discovery Kids",
+    "site_id": "canal-educacao",
+    "name": "Canal Educação",
     "lang": "pt",
-    "xmltv_id": "DiscoveryKids.au",
-    "logo": "https://i.imgur.com/2JPtmZR.png"
+    "xmltv_id": "CanalEducacao.br",
+    "logo": "https://i.imgur.com/OOB7nrS.png"
   },
   {
-    "site_id": "history",
-    "name": "History",
+    "site_id": "discovery-world",
+    "name": "Discovery World",
     "lang": "pt",
-    "xmltv_id": "History.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png"
+    "xmltv_id": "DiscoveryWorld.us",
+    "logo": "https://i.imgur.com/yNFmUkE.png"
   },
   {
-    "site_id": "nickelodeon",
-    "name": "Nickelodeon",
+    "site_id": "hbo-xtreme",
+    "name": "HBO Xtreme",
     "lang": "pt",
-    "xmltv_id": "NickComedyCentralPlus1.de",
-    "logo": "https://i.imgur.com/08ZUI9k.png"
+    "xmltv_id": "HBOXtreme.br",
+    "logo": "https://www.vertvcable.com/wp-content/uploads/2022/02/hboextreme.jpg"
   },
   {
-    "site_id": "rede-tv",
-    "name": "Rede TV",
+    "site_id": "sportv",
+    "name": "SporTV",
     "lang": "pt",
-    "xmltv_id": "RedeTV.br",
-    "logo": "https://i.imgur.com/ZJgD38F.png"
+    "xmltv_id": "SporTV.br",
+    "logo": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png"
   },
   {
-    "site_id": "trutv",
-    "name": "truTV",
+    "site_id": "tnt",
+    "name": "TNT",
     "lang": "pt",
-    "xmltv_id": "truTV.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png"
+    "xmltv_id": "TNT.es",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "warner",
+    "name": "Warner",
+    "lang": "pt"
   },
   {
     "site_id": "disney",
@@ -394,79 +129,18 @@
     "logo": "https://i.imgur.com/n0t2B3Z.png"
   },
   {
-    "site_id": "sportv-3",
-    "name": "SporTV 3",
+    "site_id": "food-network",
+    "name": "Food Network",
     "lang": "pt",
-    "xmltv_id": "SporTV3.br",
-    "logo": "https://i.imgur.com/mWOR8pi.png"
+    "xmltv_id": "FoodNetwork.ca",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg"
   },
   {
-    "site_id": "viva",
-    "name": "Viva",
+    "site_id": "hbo-pop",
+    "name": "HBO Pop",
     "lang": "pt",
-    "xmltv_id": "CanalViva.br",
-    "logo": "https://i.imgur.com/uNHu40M.png"
-  },
-  {
-    "site_id": "travel-box-brasil",
-    "name": "Travel Box Brasil",
-    "lang": "pt"
-  },
-  {
-    "site_id": "hgtv",
-    "name": "HGTV",
-    "lang": "pt",
-    "xmltv_id": "CanThoTV2.vn",
-    "logo": "https://i.ibb.co/JjVvkMsf/cantho2-2025.png"
-  },
-  {
-    "site_id": "tcm",
-    "name": "TCM",
-    "lang": "pt",
-    "xmltv_id": "TCM.ca",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png"
-  },
-  {
-    "site_id": "ae",
-    "name": "A\u0026E",
-    "lang": "pt",
-    "xmltv_id": "AE.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/960px-A%26E_Network_%28Australia%29_logo.svg.png"
-  },
-  {
-    "site_id": "amc",
-    "name": "AMC",
-    "lang": "pt",
-    "xmltv_id": "AfricanMovieChannel.uk",
-    "logo": "https://i.imgur.com/qRrOi3t.png"
-  },
-  {
-    "site_id": "curta",
-    "name": "Curta!",
-    "lang": "pt",
-    "xmltv_id": "Curta.br",
-    "logo": "https://i.imgur.com/Rwrh0zU.png"
-  },
-  {
-    "site_id": "film-arts",
-    "name": "Film \u0026 Arts",
-    "lang": "pt",
-    "xmltv_id": "FilmArts.ar",
-    "logo": "https://i.imgur.com/ukdmEKD.png"
-  },
-  {
-    "site_id": "gloobinho",
-    "name": "Gloobinho",
-    "lang": "pt",
-    "xmltv_id": "Gloobinho.br",
-    "logo": "https://i.imgur.com/UWkHErt.png"
-  },
-  {
-    "site_id": "jovem-pan-news",
-    "name": "Jovem Pan News",
-    "lang": "pt",
-    "xmltv_id": "JovemPanNews.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png"
+    "xmltv_id": "HBOPop.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png"
   },
   {
     "site_id": "mtv-live",
@@ -476,8 +150,215 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
   },
   {
+    "site_id": "ae",
+    "name": "A\u0026E",
+    "lang": "pt",
+    "xmltv_id": "AE.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/960px-A%26E_Network_%28Australia%29_logo.svg.png"
+  },
+  {
+    "site_id": "bloomberg",
+    "name": "Bloomberg",
+    "lang": "pt"
+  },
+  {
+    "site_id": "rede-familia",
+    "name": "Rede Família",
+    "lang": "pt",
+    "xmltv_id": "RedeFamilia.br",
+    "logo": "https://i.imgur.com/7KVFCrQ.png"
+  },
+  {
+    "site_id": "trutv",
+    "name": "truTV",
+    "lang": "pt",
+    "xmltv_id": "truTV.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png"
+  },
+  {
+    "site_id": "tv-gazeta",
+    "name": "Tv Gazeta",
+    "lang": "pt",
+    "xmltv_id": "TVGazeta.br",
+    "logo": "https://i.imgur.com/0sksWse.png"
+  },
+  {
+    "site_id": "cinecanal",
+    "name": "Cinecanal",
+    "lang": "pt",
+    "xmltv_id": "Cinecanal.us",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"
+  },
+  {
+    "site_id": "discovery-turbo",
+    "name": "Discovery Turbo",
+    "lang": "pt",
+    "xmltv_id": "DiscoveryTurbo.au",
+    "logo": "https://i.imgur.com/osCVMop.png"
+  },
+  {
+    "site_id": "premiere-3",
+    "name": "Premiere 3",
+    "lang": "pt",
+    "xmltv_id": "SkyCinemaPremieren.de",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "history-2",
+    "name": "History 2",
+    "lang": "pt",
+    "xmltv_id": "H2.bg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
+  },
+  {
+    "site_id": "nick-jr-",
+    "name": "Nick Jr.",
+    "lang": "pt",
+    "xmltv_id": "NickJr.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "sportv-3",
+    "name": "SporTV 3",
+    "lang": "pt",
+    "xmltv_id": "SporTV3.br",
+    "logo": "https://i.imgur.com/mWOR8pi.png"
+  },
+  {
+    "site_id": "telecine-premium",
+    "name": "Telecine Premium",
+    "lang": "pt",
+    "xmltv_id": "TelecinePremium.br",
+    "logo": "https://i.imgur.com/uVFgIr8.png"
+  },
+  {
+    "site_id": "travel-box-brasil",
+    "name": "Travel Box Brasil",
+    "lang": "pt"
+  },
+  {
+    "site_id": "combate",
+    "name": "Combate",
+    "lang": "pt",
+    "xmltv_id": "Combate.br",
+    "logo": "https://i.imgur.com/ZPYK5jr.png"
+  },
+  {
     "site_id": "premiere-fc",
     "name": "Premiere FC",
+    "lang": "pt"
+  },
+  {
+    "site_id": "espn-4",
+    "name": "ESPN 4",
+    "lang": "pt",
+    "xmltv_id": "ESPN4.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
+  },
+  {
+    "site_id": "hbo-signature",
+    "name": "HBO Signature",
+    "lang": "pt",
+    "xmltv_id": "HBOSignature.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png"
+  },
+  {
+    "site_id": "paramount-network",
+    "name": "Paramount Network",
+    "lang": "pt",
+    "xmltv_id": "5Action.uk",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/960px-5Action_logo.svg.png"
+  },
+  {
+    "site_id": "sbt",
+    "name": "SBT",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/sbt-br.png"
+  },
+  {
+    "site_id": "tv-brasil",
+    "name": "TV Brasil",
+    "lang": "pt",
+    "xmltv_id": "TVBrasil.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png"
+  },
+  {
+    "site_id": "universal-tv",
+    "name": "Universal TV",
+    "lang": "pt",
+    "xmltv_id": "UniversalTV.au",
+    "logo": "https://i.imgur.com/jnjvR5f.png"
+  },
+  {
+    "site_id": "e",
+    "name": "E!",
+    "lang": "pt",
+    "xmltv_id": "E.au",
+    "logo": "https://i.imgur.com/TWFDkap.png"
+  },
+  {
+    "site_id": "multishow",
+    "name": "Multishow",
+    "lang": "pt",
+    "xmltv_id": "Multishow.br",
+    "logo": "https://i.imgur.com/bqVg8nT.png"
+  },
+  {
+    "site_id": "nickelodeon",
+    "name": "Nickelodeon",
+    "lang": "pt",
+    "xmltv_id": "NickComedyCentralPlus1.de",
+    "logo": "https://i.imgur.com/08ZUI9k.png"
+  },
+  {
+    "site_id": "sportv-2",
+    "name": "SporTV 2",
+    "lang": "pt",
+    "xmltv_id": "SporTV2.br",
+    "logo": "https://i.imgur.com/pBiUnb2.png"
+  },
+  {
+    "site_id": "discovery-home-health",
+    "name": "Discovery Home \u0026 Health",
+    "lang": "pt"
+  },
+  {
+    "site_id": "gnt",
+    "name": "GNT",
+    "lang": "pt",
+    "xmltv_id": "GNT.br",
+    "logo": "https://i.imgur.com/XymcvMy.png"
+  },
+  {
+    "site_id": "investigacao-discovery",
+    "name": "Investigação Discovery",
+    "lang": "pt",
+    "xmltv_id": "InvestigationDiscovery.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
+    "site_id": "telecine-pipoca",
+    "name": "Telecine Pipoca",
+    "lang": "pt",
+    "xmltv_id": "TelecinePipoca.br",
+    "logo": "https://i.imgur.com/hW9JYXr.png"
+  },
+  {
+    "site_id": "curta",
+    "name": "Curta!",
+    "lang": "pt",
+    "xmltv_id": "Curta.br",
+    "logo": "https://i.imgur.com/Rwrh0zU.png"
+  },
+  {
+    "site_id": "espn-5",
+    "name": "ESPN 5",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/espn-5-br.png"
+  },
+  {
+    "site_id": "premiere-5",
+    "name": "Premiere 5",
     "lang": "pt"
   },
   {
@@ -488,206 +369,25 @@
     "logo": "https://i.imgur.com/kxrja0X.png"
   },
   {
-    "site_id": "tv-cultura",
-    "name": "TV Cultura",
+    "site_id": "bis",
+    "name": "Bis",
     "lang": "pt",
-    "xmltv_id": "TVCultura.br",
-    "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
+    "xmltv_id": "Bis.br",
+    "logo": "https://i.imgur.com/VUt1lmH.png"
   },
   {
-    "site_id": "combate",
-    "name": "Combate",
+    "site_id": "futura",
+    "name": "Futura",
     "lang": "pt",
-    "xmltv_id": "Combate.br",
-    "logo": "https://i.imgur.com/ZPYK5jr.png"
+    "xmltv_id": "Futura.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png"
   },
   {
-    "site_id": "espn-2",
-    "name": "ESPN 2",
+    "site_id": "history",
+    "name": "History",
     "lang": "pt",
-    "xmltv_id": "ESPN2.nl",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
-  },
-  {
-    "site_id": "gloob",
-    "name": "Gloob",
-    "lang": "pt",
-    "xmltv_id": "Gloob.br",
-    "logo": "https://i.imgur.com/N1BUULh.png"
-  },
-  {
-    "site_id": "hbo-mundi",
-    "name": "HBO Mundi",
-    "lang": "pt",
-    "xmltv_id": "HBOMundi.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png"
-  },
-  {
-    "site_id": "telecine-pipoca",
-    "name": "Telecine Pipoca",
-    "lang": "pt",
-    "xmltv_id": "TelecinePipoca.br",
-    "logo": "https://i.imgur.com/hW9JYXr.png"
-  },
-  {
-    "site_id": "bandsports",
-    "name": "Bandsports",
-    "lang": "pt"
-  },
-  {
-    "site_id": "premiere-5",
-    "name": "Premiere 5",
-    "lang": "pt"
-  },
-  {
-    "site_id": "record-news",
-    "name": "Record News",
-    "lang": "pt",
-    "xmltv_id": "RecordNews.br",
-    "logo": "https://i.imgur.com/HZDRG0K.png"
-  },
-  {
-    "site_id": "space",
-    "name": "Space",
-    "lang": "pt",
-    "xmltv_id": "Space.ar",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png"
-  },
-  {
-    "site_id": "espn-5",
-    "name": "ESPN 5",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/espn-5-br.png"
-  },
-  {
-    "site_id": "tnt-series",
-    "name": "TNT Séries",
-    "lang": "pt"
-  },
-  {
-    "site_id": "band",
-    "name": "Band",
-    "lang": "pt",
-    "xmltv_id": "Band.br",
-    "logo": "https://i.imgur.com/1r5T6Pw.png"
-  },
-  {
-    "site_id": "bloomberg",
-    "name": "Bloomberg",
-    "lang": "pt"
-  },
-  {
-    "site_id": "rede-seculo-21",
-    "name": "Rede Século 21",
-    "lang": "pt",
-    "xmltv_id": "RedeSeculo21.br"
-  },
-  {
-    "site_id": "cartoonito",
-    "name": "Cartoonito",
-    "lang": "pt",
-    "xmltv_id": "Cartoonito.it",
-    "logo": "https://i.imgur.com/6vYWCD0.png"
-  },
-  {
-    "site_id": "espn",
-    "name": "ESPN",
-    "lang": "pt",
-    "xmltv_id": "ESPN.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-  },
-  {
-    "site_id": "prime-box-brazil",
-    "name": "Prime Box Brazil",
-    "lang": "pt",
-    "xmltv_id": "PrimeBoxBrazil.br",
-    "logo": "https://i.imgur.com/BMqSDNn.png"
-  },
-  {
-    "site_id": "tnt-novelas",
-    "name": "TNT Novelas",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/tnt-novelas-lam.png"
-  },
-  {
-    "site_id": "tv-gazeta",
-    "name": "Tv Gazeta",
-    "lang": "pt",
-    "xmltv_id": "TVGazeta.br",
-    "logo": "https://i.imgur.com/0sksWse.png"
-  },
-  {
-    "site_id": "arte-1",
-    "name": "Arte 1",
-    "lang": "pt",
-    "xmltv_id": "Arte1.br",
-    "logo": "https://i.imgur.com/Ivnk7A6.png"
-  },
-  {
-    "site_id": "discovery-world",
-    "name": "Discovery World",
-    "lang": "pt",
-    "xmltv_id": "DiscoveryWorld.us",
-    "logo": "https://i.imgur.com/yNFmUkE.png"
-  },
-  {
-    "site_id": "warner",
-    "name": "Warner",
-    "lang": "pt"
-  },
-  {
-    "site_id": "bandnews",
-    "name": "Bandnews",
-    "lang": "pt",
-    "xmltv_id": "BandNews.br",
-    "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
-  },
-  {
-    "site_id": "cnn-brasil",
-    "name": "CNN Brasil",
-    "lang": "pt",
-    "xmltv_id": "CNNBrasil.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png"
-  },
-  {
-    "site_id": "discovery-turbo",
-    "name": "Discovery Turbo",
-    "lang": "pt",
-    "xmltv_id": "DiscoveryTurbo.au",
-    "logo": "https://i.imgur.com/osCVMop.png"
-  },
-  {
-    "site_id": "espn-3",
-    "name": "ESPN 3",
-    "lang": "pt",
-    "xmltv_id": "ESPN3.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
-  },
-  {
-    "site_id": "globo",
-    "name": "Globo",
-    "lang": "pt",
-    "xmltv_id": "Globo.pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png"
-  },
-  {
-    "site_id": "premiere-7",
-    "name": "Premiere 7",
-    "lang": "pt"
-  },
-  {
-    "site_id": "sony-movies",
-    "name": "SONY Movies",
-    "lang": "pt",
-    "xmltv_id": "GREATmovies.uk",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png"
-  },
-  {
-    "site_id": "woohoo",
-    "name": "Woohoo",
-    "lang": "pt",
-    "xmltv_id": "WooHoo.br",
-    "logo": "https://i.imgur.com/me622pa.png"
+    "xmltv_id": "History.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png"
   },
   {
     "site_id": "rede-vida",
@@ -697,86 +397,14 @@
     "logo": "https://i.imgur.com/mP1qfp2.png"
   },
   {
-    "site_id": "syfy",
-    "name": "Syfy",
-    "lang": "pt",
-    "xmltv_id": "SkySciFi.uk",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2505.png"
-  },
-  {
-    "site_id": "hbo-pop",
-    "name": "HBO Pop",
-    "lang": "pt",
-    "xmltv_id": "HBOPop.br",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png"
-  },
-  {
-    "site_id": "national-geographic",
-    "name": "National Geographic",
-    "lang": "pt",
-    "xmltv_id": "NationalGeographic.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
-  },
-  {
-    "site_id": "telecine-fun",
-    "name": "Telecine Fun",
-    "lang": "pt",
-    "xmltv_id": "TelecineFun.br",
-    "logo": "https://i.imgur.com/MO2Ynki.png"
-  },
-  {
-    "site_id": "cartoon-network",
-    "name": "Cartoon Network",
-    "lang": "pt",
-    "xmltv_id": "CartoonNetwork.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "hbo-xtreme",
-    "name": "HBO Xtreme",
-    "lang": "pt",
-    "xmltv_id": "HBOXtreme.br",
-    "logo": "https://www.vertvcable.com/wp-content/uploads/2022/02/hboextreme.jpg"
-  },
-  {
-    "site_id": "history-2",
-    "name": "History 2",
-    "lang": "pt",
-    "xmltv_id": "H2.bg",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"
-  },
-  {
-    "site_id": "record-tv",
-    "name": "Record TV",
+    "site_id": "sony",
+    "name": "Sony",
     "lang": "pt"
   },
   {
-    "site_id": "bis",
-    "name": "Bis",
-    "lang": "pt",
-    "xmltv_id": "Bis.br",
-    "logo": "https://i.imgur.com/VUt1lmH.png"
-  },
-  {
-    "site_id": "cinecanal",
-    "name": "Cinecanal",
-    "lang": "pt",
-    "xmltv_id": "Cinecanal.us",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"
-  },
-  {
-    "site_id": "cinemax",
-    "name": "Cinemax",
-    "lang": "pt",
-    "xmltv_id": "Cinemax.br",
-    "logo": "https://i.imgur.com/cZWoJWD.png"
-  },
-  {
-    "site_id": "comedy-central",
-    "name": "Comedy Central",
-    "lang": "pt",
-    "xmltv_id": "ComedyCentral.at",
-    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a4/Comedy_Central_Austria_2018.png/960px-Comedy_Central_Austria_2018.png"
+    "site_id": "box-kids",
+    "name": "Box Kids",
+    "lang": "pt"
   },
   {
     "site_id": "discovery-theater",
@@ -786,22 +414,39 @@
     "logo": "https://i.imgur.com/T07gvEb.png"
   },
   {
-    "site_id": "globo-news",
-    "name": "Globo News",
+    "site_id": "discovery-kids",
+    "name": "Discovery Kids",
     "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/globo-news-br.png"
+    "xmltv_id": "DiscoveryKids.au",
+    "logo": "https://i.imgur.com/2JPtmZR.png"
   },
   {
-    "site_id": "lifetime",
-    "name": "Lifetime",
+    "site_id": "globo",
+    "name": "Globo",
     "lang": "pt",
-    "xmltv_id": "Lifetime.ca",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
+    "xmltv_id": "Globo.pt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png"
   },
   {
-    "site_id": "premiere-6",
-    "name": "Premiere 6",
-    "lang": "pt"
+    "site_id": "hbo-2",
+    "name": "HBO 2",
+    "lang": "pt",
+    "xmltv_id": "HBO2.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png"
+  },
+  {
+    "site_id": "hgtv",
+    "name": "HGTV",
+    "lang": "pt",
+    "xmltv_id": "CanThoTV2.vn",
+    "logo": "https://i.ibb.co/JjVvkMsf/cantho2-2025.png"
+  },
+  {
+    "site_id": "jovem-pan-news",
+    "name": "Jovem Pan News",
+    "lang": "pt",
+    "xmltv_id": "JovemPanNews.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png"
   },
   {
     "site_id": "mtv",
@@ -811,11 +456,118 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
   },
   {
-    "site_id": "telecine-touch",
-    "name": "Telecine Touch",
+    "site_id": "rede-tv",
+    "name": "Rede TV",
     "lang": "pt",
-    "xmltv_id": "TelecineTouch.br",
-    "logo": "https://i.imgur.com/Nky0hRo.png"
+    "xmltv_id": "RedeTV.br",
+    "logo": "https://i.imgur.com/ZJgD38F.png"
+  },
+  {
+    "site_id": "syfy",
+    "name": "Syfy",
+    "lang": "pt",
+    "xmltv_id": "SkySciFi.uk",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2505.png"
+  },
+  {
+    "site_id": "studio-universal",
+    "name": "Studio Universal",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/studio-universal-ar.png"
+  },
+  {
+    "site_id": "viva",
+    "name": "Viva",
+    "lang": "pt",
+    "xmltv_id": "CanalViva.br",
+    "logo": "https://i.imgur.com/uNHu40M.png"
+  },
+  {
+    "site_id": "animal-planet",
+    "name": "Animal Planet",
+    "lang": "pt",
+    "xmltv_id": "AnimalPlanet.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+  },
+  {
+    "site_id": "discovery-channel",
+    "name": "Discovery Channel",
+    "lang": "pt",
+    "xmltv_id": "DiscoveryChannel.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "megapix",
+    "name": "Megapix",
+    "lang": "pt",
+    "xmltv_id": "Megapix.br",
+    "logo": "https://i.imgur.com/qTYv5jt.png"
+  },
+  {
+    "site_id": "agro",
+    "name": "Agro+",
+    "lang": "pt"
+  },
+  {
+    "site_id": "cinemax",
+    "name": "Cinemax",
+    "lang": "pt",
+    "xmltv_id": "Cinemax.br",
+    "logo": "https://i.imgur.com/cZWoJWD.png"
+  },
+  {
+    "site_id": "prime-box-brazil",
+    "name": "Prime Box Brazil",
+    "lang": "pt",
+    "xmltv_id": "PrimeBoxBrazil.br",
+    "logo": "https://i.imgur.com/BMqSDNn.png"
+  },
+  {
+    "site_id": "bbc-world",
+    "name": "BBC World",
+    "lang": "pt"
+  },
+  {
+    "site_id": "cartoon-network",
+    "name": "Cartoon Network",
+    "lang": "pt",
+    "xmltv_id": "CartoonNetwork.au",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "site_id": "cnn-brasil",
+    "name": "CNN Brasil",
+    "lang": "pt",
+    "xmltv_id": "CNNBrasil.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png"
+  },
+  {
+    "site_id": "tv-camara",
+    "name": "TV Câmara",
+    "lang": "pt",
+    "xmltv_id": "TVCamara.br",
+    "logo": "https://i.imgur.com/Sdou1Ab.png"
+  },
+  {
+    "site_id": "axn",
+    "name": "AXN",
+    "lang": "pt",
+    "xmltv_id": "AXN.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
+  },
+  {
+    "site_id": "canal-rural",
+    "name": "Canal Rural",
+    "lang": "pt",
+    "xmltv_id": "CanalRural.ar",
+    "logo": "https://i.imgur.com/NgIBbPX.png"
+  },
+  {
+    "site_id": "sony-movies",
+    "name": "SONY Movies",
+    "lang": "pt",
+    "xmltv_id": "GREATmovies.uk",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png"
   },
   {
     "site_id": "tooncast",
@@ -823,5 +575,253 @@
     "lang": "pt",
     "xmltv_id": "Tooncast.us",
     "logo": "https://i.imgur.com/3yXRbQy.png"
+  },
+  {
+    "site_id": "espn-6",
+    "name": "ESPN 6",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/espn-6-nl.png"
+  },
+  {
+    "site_id": "fx",
+    "name": "FX",
+    "lang": "pt",
+    "xmltv_id": "FX.ca",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"
+  },
+  {
+    "site_id": "rede-gospel",
+    "name": "Rede Gospel",
+    "lang": "pt",
+    "xmltv_id": "RedeGospel.br",
+    "logo": "https://i.imgur.com/mttSwgO.png"
+  },
+  {
+    "site_id": "star-channel",
+    "name": "STAR Channel",
+    "lang": "pt",
+    "xmltv_id": "StarChannel.bg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"
+  },
+  {
+    "site_id": "tcm",
+    "name": "TCM",
+    "lang": "pt",
+    "xmltv_id": "TCM.ca",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png"
+  },
+  {
+    "site_id": "hbo-plus",
+    "name": "HBO Plus",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/hbo-plus-ar.png"
+  },
+  {
+    "site_id": "tlc",
+    "name": "TLC",
+    "lang": "pt",
+    "xmltv_id": "TelevisionLocaleduCholetais.fr",
+    "logo": "https://i.imgur.com/UdLeLar.jpg"
+  },
+  {
+    "site_id": "woohoo",
+    "name": "Woohoo",
+    "lang": "pt",
+    "xmltv_id": "WooHoo.br",
+    "logo": "https://i.imgur.com/me622pa.png"
+  },
+  {
+    "site_id": "premiere-2",
+    "name": "Premiere 2",
+    "lang": "pt",
+    "xmltv_id": "SkyCinemaPremieren.de",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/960px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "record-tv",
+    "name": "Record TV",
+    "lang": "pt"
+  },
+  {
+    "site_id": "telecine-fun",
+    "name": "Telecine Fun",
+    "lang": "pt",
+    "xmltv_id": "TelecineFun.br",
+    "logo": "https://i.imgur.com/MO2Ynki.png"
+  },
+  {
+    "site_id": "tv-senado",
+    "name": "TV Senado",
+    "lang": "pt",
+    "xmltv_id": "TVSenado.br",
+    "logo": "https://i.imgur.com/duy6waL.png"
+  },
+  {
+    "site_id": "cartoonito",
+    "name": "Cartoonito",
+    "lang": "pt",
+    "xmltv_id": "Cartoonito.it",
+    "logo": "https://i.imgur.com/6vYWCD0.png"
+  },
+  {
+    "site_id": "discovery-science",
+    "name": "Discovery Science",
+    "lang": "pt",
+    "xmltv_id": "DiscoveryScience.ca",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"
+  },
+  {
+    "site_id": "lifetime",
+    "name": "Lifetime",
+    "lang": "pt",
+    "xmltv_id": "Lifetime.ca",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"
+  },
+  {
+    "site_id": "espn-2",
+    "name": "ESPN 2",
+    "lang": "pt",
+    "xmltv_id": "ESPN2.nl",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
+  },
+  {
+    "site_id": "arte-1",
+    "name": "Arte 1",
+    "lang": "pt",
+    "xmltv_id": "Arte1.br",
+    "logo": "https://i.imgur.com/Ivnk7A6.png"
+  },
+  {
+    "site_id": "band",
+    "name": "Band",
+    "lang": "pt",
+    "xmltv_id": "Band.br",
+    "logo": "https://i.imgur.com/1r5T6Pw.png"
+  },
+  {
+    "site_id": "bandnews",
+    "name": "Bandnews",
+    "lang": "pt",
+    "xmltv_id": "BandNews.br",
+    "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
+  },
+  {
+    "site_id": "film-arts",
+    "name": "Film \u0026 Arts",
+    "lang": "pt",
+    "xmltv_id": "FilmArts.ar",
+    "logo": "https://i.imgur.com/ukdmEKD.png"
+  },
+  {
+    "site_id": "tnt-novelas",
+    "name": "TNT Novelas",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/world-latin-america/tnt-novelas-lam.png"
+  },
+  {
+    "site_id": "comedy-central",
+    "name": "Comedy Central",
+    "lang": "pt",
+    "xmltv_id": "ComedyCentral.at",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a4/Comedy_Central_Austria_2018.png/960px-Comedy_Central_Austria_2018.png"
+  },
+  {
+    "site_id": "gloobinho",
+    "name": "Gloobinho",
+    "lang": "pt",
+    "xmltv_id": "Gloobinho.br",
+    "logo": "https://i.imgur.com/UWkHErt.png"
+  },
+  {
+    "site_id": "premiere-4",
+    "name": "Premiere 4",
+    "lang": "pt",
+    "xmltv_id": "SkyCinemaFun.de",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sky_Cinema_Fun_DE_Logo_2020.svg/960px-Sky_Cinema_Fun_DE_Logo_2020.svg.png"
+  },
+  {
+    "site_id": "hbo",
+    "name": "HBO",
+    "lang": "pt",
+    "xmltv_id": "HBO.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"
+  },
+  {
+    "site_id": "space",
+    "name": "Space",
+    "lang": "pt",
+    "xmltv_id": "Space.ar",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png"
+  },
+  {
+    "site_id": "globo-news",
+    "name": "Globo News",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/globo-news-br.png"
+  },
+  {
+    "site_id": "hbo-mundi",
+    "name": "HBO Mundi",
+    "lang": "pt",
+    "xmltv_id": "HBOMundi.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png"
+  },
+  {
+    "site_id": "off",
+    "name": "Off",
+    "lang": "pt"
+  },
+  {
+    "site_id": "gloob",
+    "name": "Gloob",
+    "lang": "pt",
+    "xmltv_id": "Gloob.br",
+    "logo": "https://i.imgur.com/N1BUULh.png"
+  },
+  {
+    "site_id": "hbo-family",
+    "name": "HBO Family",
+    "lang": "pt",
+    "xmltv_id": "HBOFamily.br",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png"
+  },
+  {
+    "site_id": "premiere-7",
+    "name": "Premiere 7",
+    "lang": "pt"
+  },
+  {
+    "site_id": "rede-brasil",
+    "name": "Rede Brasil",
+    "lang": "pt",
+    "xmltv_id": "RedeBrasil.br",
+    "logo": "https://i.imgur.com/TXJKwzZ.png"
+  },
+  {
+    "site_id": "telecine-touch",
+    "name": "Telecine Touch",
+    "lang": "pt",
+    "xmltv_id": "TelecineTouch.br",
+    "logo": "https://i.imgur.com/Nky0hRo.png"
+  },
+  {
+    "site_id": "terra-viva",
+    "name": "Terra Viva",
+    "lang": "pt",
+    "xmltv_id": "TerraViva.br",
+    "logo": "https://i.imgur.com/wnYsE3O.png"
+  },
+  {
+    "site_id": "amc",
+    "name": "AMC",
+    "lang": "pt",
+    "xmltv_id": "AfricanMovieChannel.uk",
+    "logo": "https://i.imgur.com/qRrOi3t.png"
+  },
+  {
+    "site_id": "fox-news",
+    "name": "Fox News",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fox-news-us.png"
   }
 ]

@@ -1,24 +1,10 @@
 [
   {
-    "site_id": "Eurosport 2 HD",
-    "name": "Eurosport 2 HD",
+    "site_id": "Novasports Premier League",
+    "name": "Novasports Premier League",
     "lang": "el",
-    "xmltv_id": "Eurosport2.fr@Greece",
-    "logo": "https://i.imgur.com/f56dHgR.png"
-  },
-  {
-    "site_id": "Novasports1HD",
-    "name": "Novasports1HD",
-    "lang": "el",
-    "xmltv_id": "Novasports1.gr@HD",
-    "logo": "https://i.imgur.com/Q1FPQeL.png"
-  },
-  {
-    "site_id": "Novasports3HD",
-    "name": "Novasports3HD",
-    "lang": "el",
-    "xmltv_id": "Novasports3.gr@HD",
-    "logo": "https://i.imgur.com/jy7zmlJ.png"
+    "xmltv_id": "NovasportsPremierLeague.gr@HD",
+    "logo": "https://i.imgur.com/aOPBuEa.png"
   },
   {
     "site_id": "Novasports Prime",
@@ -26,6 +12,20 @@
     "lang": "el",
     "xmltv_id": "NovasportsPrime.gr@HD",
     "logo": "https://i.imgur.com/rkap6Yf.png"
+  },
+  {
+    "site_id": "Novasports Εxtra1",
+    "name": "Novasports Εxtra1",
+    "lang": "el",
+    "xmltv_id": "NovasportsExtra1.gr@HD",
+    "logo": "https://i.imgur.com/Zn0uS3z.png"
+  },
+  {
+    "site_id": "Eurosport 2 HD",
+    "name": "Eurosport 2 HD",
+    "lang": "el",
+    "xmltv_id": "Eurosport2.fr@Greece",
+    "logo": "https://i.imgur.com/f56dHgR.png"
   },
   {
     "site_id": "Novasports2HD",
@@ -42,18 +42,11 @@
     "logo": "https://i.imgur.com/Rb550MA.png"
   },
   {
-    "site_id": "Novasports Extra4",
-    "name": "Novasports Extra4",
+    "site_id": "Novasports Extra2",
+    "name": "Novasports Extra2",
     "lang": "el",
-    "xmltv_id": "NovasportsExtra4.gr@HD",
-    "logo": "https://i.imgur.com/4TM3qFP.png"
-  },
-  {
-    "site_id": "Novasports Εxtra1",
-    "name": "Novasports Εxtra1",
-    "lang": "el",
-    "xmltv_id": "NovasportsExtra1.gr@HD",
-    "logo": "https://i.imgur.com/Zn0uS3z.png"
+    "xmltv_id": "NovasportsExtra2.gr@HD",
+    "logo": "https://i.imgur.com/GjX4lUs.png"
   },
   {
     "site_id": "ΝovasportsNews",
@@ -61,6 +54,48 @@
     "lang": "el",
     "xmltv_id": "NovasportsNews.gr@HD",
     "logo": "https://i.imgur.com/io77AJM.png"
+  },
+  {
+    "site_id": "Novasports1HD",
+    "name": "Novasports1HD",
+    "lang": "el",
+    "xmltv_id": "Novasports1.gr@HD",
+    "logo": "https://i.imgur.com/Q1FPQeL.png"
+  },
+  {
+    "site_id": "Novasports Extra3",
+    "name": "Novasports Extra3",
+    "lang": "el",
+    "xmltv_id": "NovasportsExtra3.gr@HD",
+    "logo": "https://i.imgur.com/uTAqgQs.png"
+  },
+  {
+    "site_id": "Eurosport 1 HD",
+    "name": "Eurosport 1 HD",
+    "lang": "el",
+    "xmltv_id": "Eurosport1.fr@Greece",
+    "logo": "https://i.imgur.com/olQJgm7.png"
+  },
+  {
+    "site_id": "Novasports3HD",
+    "name": "Novasports3HD",
+    "lang": "el",
+    "xmltv_id": "Novasports3.gr@HD",
+    "logo": "https://i.imgur.com/jy7zmlJ.png"
+  },
+  {
+    "site_id": "Novasports6HD",
+    "name": "Novasports6HD",
+    "lang": "el",
+    "xmltv_id": "Novasports6.gr@HD",
+    "logo": "https://i.imgur.com/m6RRIxG.png"
+  },
+  {
+    "site_id": "Novasports Extra4",
+    "name": "Novasports Extra4",
+    "lang": "el",
+    "xmltv_id": "NovasportsExtra4.gr@HD",
+    "logo": "https://i.imgur.com/4TM3qFP.png"
   },
   {
     "site_id": "ΝovasportsStart",
@@ -75,40 +110,5 @@
     "lang": "el",
     "xmltv_id": "Novasports4.gr@HD",
     "logo": "https://i.imgur.com/ZANobhK.png"
-  },
-  {
-    "site_id": "Novasports6HD",
-    "name": "Novasports6HD",
-    "lang": "el",
-    "xmltv_id": "Novasports6.gr@HD",
-    "logo": "https://i.imgur.com/m6RRIxG.png"
-  },
-  {
-    "site_id": "Novasports Extra2",
-    "name": "Novasports Extra2",
-    "lang": "el",
-    "xmltv_id": "NovasportsExtra2.gr@HD",
-    "logo": "https://i.imgur.com/GjX4lUs.png"
-  },
-  {
-    "site_id": "Novasports Extra3",
-    "name": "Novasports Extra3",
-    "lang": "el",
-    "xmltv_id": "NovasportsExtra3.gr@HD",
-    "logo": "https://i.imgur.com/uTAqgQs.png"
-  },
-  {
-    "site_id": "Novasports Premier League",
-    "name": "Novasports Premier League",
-    "lang": "el",
-    "xmltv_id": "NovasportsPremierLeague.gr@HD",
-    "logo": "https://i.imgur.com/aOPBuEa.png"
-  },
-  {
-    "site_id": "Eurosport 1 HD",
-    "name": "Eurosport 1 HD",
-    "lang": "el",
-    "xmltv_id": "Eurosport1.fr@Greece",
-    "logo": "https://i.imgur.com/olQJgm7.png"
   }
 ]

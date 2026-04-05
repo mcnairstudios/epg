@@ -1,62 +1,74 @@
 [
   {
-    "site_id": "3100",
-    "name": "ALPHA",
+    "site_id": "5010",
+    "name": "HIGH TV",
     "lang": "el",
-    "logo": "https://i.imgur.com/No45vwk.png"
+    "xmltv_id": "HighTV.gr",
+    "logo": "https://i.imgur.com/8gHuwt7.png"
   },
   {
-    "site_id": "5030",
-    "name": "MAD",
+    "site_id": "3700",
+    "name": "ΜΑΚΕΔΟΝΙΑ ΤV",
     "lang": "el",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/greece/mad-gr.png"
+    "logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png"
   },
   {
-    "site_id": "5320",
-    "name": "FLASH TV",
+    "site_id": "4090",
+    "name": "CENTER TV",
     "lang": "el",
-    "xmltv_id": "FlashTV.gr",
-    "logo": "https://flash-tv.gr/wp-content/uploads/2021/01/flash_logo-panw-1-300x62-1.png"
+    "xmltv_id": "CenterTV.gr",
+    "logo": "https://i.imgur.com/52JW71Q.png"
   },
   {
-    "site_id": "5420",
-    "name": "ΑΧΕΛΩΟΣ",
-    "lang": "el"
-  },
-  {
-    "site_id": "4520",
-    "name": "IONIAN",
-    "lang": "el"
-  },
-  {
-    "site_id": "4690",
-    "name": "SMILE +",
+    "site_id": "4110",
+    "name": "SMILE (Θράκης)",
     "lang": "el",
     "xmltv_id": "SmilePlus.gr",
     "logo": "https://digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-smile-plus.jpg"
   },
   {
-    "site_id": "4940",
-    "name": "One Channel",
+    "site_id": "4300",
+    "name": "TV100 ΘΕΣΣΑΛΟΝΙΚΗ",
     "lang": "el",
-    "xmltv_id": "OneChannel.gr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tv100-tr.png"
   },
   {
-    "site_id": "5730",
-    "name": "ΣΑΤ",
-    "lang": "el"
-  },
-  {
-    "site_id": "4380",
-    "name": "4E",
+    "site_id": "4680",
+    "name": "ASTRA TV",
     "lang": "el",
-    "xmltv_id": "4E.gr",
-    "logo": "https://i.imgur.com/Na0UCV7.png"
+    "xmltv_id": "AstraTV.gr",
+    "logo": "https://i.imgur.com/oYRPfZm.png"
   },
   {
-    "site_id": "4070",
-    "name": "ΟΡΕΣΤΙΑΔΑ",
+    "site_id": "4950",
+    "name": "EXTRA",
+    "lang": "el",
+    "logo": "https://i.imgur.com/2IWZexT.png"
+  },
+  {
+    "site_id": "5470",
+    "name": "ΙTV",
+    "lang": "el",
+    "xmltv_id": "AthinaTV.gr",
+    "logo": "https://i.imgur.com/wmVJOTz.png"
+  },
+  {
+    "site_id": "5620",
+    "name": "NOTOS TV",
+    "lang": "el",
+    "xmltv_id": "NotosTv.gr",
+    "logo": "https://i.imgur.com/apYga7C.png"
+  },
+  {
+    "site_id": "5750",
+    "name": "KOS TV",
+    "lang": "el",
+    "xmltv_id": "KosTV.gr",
+    "logo": "https://i.imgur.com/bdJnQ1W.png"
+  },
+  {
+    "site_id": "4260",
+    "name": "DION ΤΗΛΕΟΡΑΣΗ Κεντρικής Μακεδονίας",
     "lang": "el"
   },
   {
@@ -72,46 +84,80 @@
     "lang": "el"
   },
   {
-    "site_id": "4490",
-    "name": "ΑRT",
-    "lang": "el",
-    "logo": "https://i.imgur.com/55SK22l.png"
-  },
-  {
-    "site_id": "4700",
-    "name": "TRT",
-    "lang": "el",
-    "xmltv_id": "TRT.gr",
-    "logo": "https://i.imgur.com/g0jPOcC.png"
-  },
-  {
-    "site_id": "5740",
-    "name": "IRIDA",
+    "site_id": "4510",
+    "name": "BEST",
     "lang": "el"
   },
   {
-    "site_id": "4090",
-    "name": "CENTER TV",
-    "lang": "el",
-    "xmltv_id": "CenterTV.gr",
-    "logo": "https://i.imgur.com/52JW71Q.png"
-  },
-  {
-    "site_id": "4170",
-    "name": "ΛΥΔΙΑ",
+    "site_id": "4800",
+    "name": "ENA TV KE",
     "lang": "el"
   },
   {
-    "site_id": "4290",
-    "name": "GNOMI TV",
+    "site_id": "5060",
+    "name": "SMILE",
     "lang": "el",
-    "xmltv_id": "GnomiTV.gr",
-    "logo": "https://i.ibb.co/ZNCXr79/gnomi-logo.png"
+    "xmltv_id": "SmilePlus.gr",
+    "logo": "https://digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-smile-plus.jpg"
   },
   {
-    "site_id": "4460",
-    "name": "ΜΕΣΟΓΕΙΟΣ ΤΗΛΕΟΡΑΣΗ",
+    "site_id": "5480",
+    "name": "START",
+    "lang": "el",
+    "logo": "https://i.imgur.com/VBqVkno.png"
+  },
+  {
+    "site_id": "5580",
+    "name": "ΚΡΗΤΗTV",
+    "lang": "el",
+    "xmltv_id": "AthinaTV.gr",
+    "logo": "https://i.imgur.com/wmVJOTz.png"
+  },
+  {
+    "site_id": "5630",
+    "name": "SITIA TV",
     "lang": "el"
+  },
+  {
+    "site_id": "3300",
+    "name": "ANT1",
+    "lang": "el",
+    "xmltv_id": "ANT1.gr",
+    "logo": "https://i.imgur.com/ItxKvVS.png"
+  },
+  {
+    "site_id": "3600",
+    "name": "MEGA",
+    "lang": "el",
+    "xmltv_id": "MegaChannel.gr",
+    "logo": "https://i.imgur.com/UsyFADE.png"
+  },
+  {
+    "site_id": "4470",
+    "name": "ΟΡΤ TELEVISION",
+    "lang": "el"
+  },
+  {
+    "site_id": "4900",
+    "name": "ΑΡΤ",
+    "lang": "el"
+  },
+  {
+    "site_id": "4520",
+    "name": "IONIAN",
+    "lang": "el"
+  },
+  {
+    "site_id": "4530",
+    "name": "LEPANTO ΤΗΛΕΟΡΑΣΗ",
+    "lang": "el"
+  },
+  {
+    "site_id": "4690",
+    "name": "SMILE +",
+    "lang": "el",
+    "xmltv_id": "SmilePlus.gr",
+    "logo": "https://digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-smile-plus.jpg"
   },
   {
     "site_id": "4810",
@@ -119,13 +165,20 @@
     "lang": "el"
   },
   {
-    "site_id": "5300",
-    "name": "OCIOC ΝΙΚΑΝΩΡ",
+    "site_id": "4990",
+    "name": "A.EPSILON",
     "lang": "el"
   },
   {
-    "site_id": "5330",
-    "name": "WEST",
+    "site_id": "5050",
+    "name": "RISE TV",
+    "lang": "el",
+    "xmltv_id": "RISETV.gr",
+    "logo": "https://i.ibb.co/1ZbXtD1/480px-RISE-FINAL-LOGO-1.png"
+  },
+  {
+    "site_id": "5300",
+    "name": "OCIOC ΝΙΚΑΝΩΡ",
     "lang": "el"
   },
   {
@@ -136,16 +189,94 @@
     "logo": "https://i.imgur.com/SfV2gJg.png"
   },
   {
+    "site_id": "3500",
+    "name": "STAR",
+    "lang": "el",
+    "xmltv_id": "StarKentrikisElladas.gr",
+    "logo": "https://i.imgur.com/ZBt6beo.png"
+  },
+  {
+    "site_id": "4080",
+    "name": "ALFA",
+    "lang": "el"
+  },
+  {
+    "site_id": "4670",
+    "name": "ΘΕΣΣΑΛΙΑ ΤΗΛΕΟΡΑΣΗ",
+    "lang": "el"
+  },
+  {
+    "site_id": "4910",
+    "name": "ALERT",
+    "lang": "el"
+  },
+  {
+    "site_id": "4920",
+    "name": "ATTICA",
+    "lang": "el"
+  },
+  {
+    "site_id": "5140",
+    "name": "ΠΑΤΡΙΔΑ TV",
+    "lang": "el",
+    "xmltv_id": "AthinaTV.gr",
+    "logo": "https://i.imgur.com/wmVJOTz.png"
+  },
+  {
+    "site_id": "5430",
+    "name": "ΒΗΜΑ ΤΗΛΕΟΡΑΣΗ",
+    "lang": "el"
+  },
+  {
+    "site_id": "5730",
+    "name": "ΣΑΤ",
+    "lang": "el"
+  },
+  {
+    "site_id": "4060",
+    "name": "ΘΡΑΚΗ ΝΕΤ",
+    "lang": "el"
+  },
+  {
+    "site_id": "4460",
+    "name": "ΜΕΣΟΓΕΙΟΣ ΤΗΛΕΟΡΑΣΗ",
+    "lang": "el"
+  },
+  {
     "site_id": "4930",
     "name": "BLUE SKY",
     "lang": "el",
     "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/greece/blue-sky-gr.png"
   },
   {
-    "site_id": "4950",
-    "name": "EXTRA",
+    "site_id": "5030",
+    "name": "MAD",
     "lang": "el",
-    "logo": "https://i.imgur.com/2IWZexT.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/greece/mad-gr.png"
+  },
+  {
+    "site_id": "5570",
+    "name": "TeleKPHTH",
+    "lang": "el"
+  },
+  {
+    "site_id": "5600",
+    "name": "ΝΕΑ Τηλεόραση Κρήτης",
+    "lang": "el"
+  },
+  {
+    "site_id": "5850",
+    "name": "SYROS TV1",
+    "lang": "el",
+    "xmltv_id": "SyrosTV1.gr",
+    "logo": "https://i.imgur.com/arQe5qS.png"
+  },
+  {
+    "site_id": "5000",
+    "name": "ACTION 24",
+    "lang": "el",
+    "xmltv_id": "Action24.gr",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png"
   },
   {
     "site_id": "5040",
@@ -169,13 +300,37 @@
     "logo": "https://i.imgur.com/3g3yjAq.png"
   },
   {
-    "site_id": "4050",
-    "name": "ΕΠΙΛΟΓΕΣ",
+    "site_id": "4830",
+    "name": "E ΤV",
     "lang": "el"
   },
   {
-    "site_id": "4060",
-    "name": "ΘΡΑΚΗ ΝΕΤ",
+    "site_id": "4270",
+    "name": "EURO TV",
+    "lang": "el",
+    "xmltv_id": "EuroTV.gr",
+    "logo": "https://www.eurotv.gr/wp-content/uploads/2018/03/ima-euro-channel-190-x-400.png"
+  },
+  {
+    "site_id": "4290",
+    "name": "GNOMI TV",
+    "lang": "el",
+    "xmltv_id": "GnomiTV.gr",
+    "logo": "https://i.ibb.co/ZNCXr79/gnomi-logo.png"
+  },
+  {
+    "site_id": "4440",
+    "name": "ΗΛΕΚΤΡΑ",
+    "lang": "el"
+  },
+  {
+    "site_id": "4020",
+    "name": "ΔΕΛΤΑ ΤΗΛΕΟΡΑΣΗ",
+    "lang": "el"
+  },
+  {
+    "site_id": "4240",
+    "name": "ΒΕΡΓΙΝΑ",
     "lang": "el"
   },
   {
@@ -184,28 +339,52 @@
     "lang": "el"
   },
   {
-    "site_id": "4680",
-    "name": "ASTRA TV",
-    "lang": "el",
-    "xmltv_id": "AstraTV.gr",
-    "logo": "https://i.imgur.com/oYRPfZm.png"
-  },
-  {
-    "site_id": "5020",
-    "name": "KONTRA",
+    "site_id": "4450",
+    "name": "ΛΥΧΝΟΣ",
     "lang": "el"
   },
   {
-    "site_id": "5060",
-    "name": "SMILE",
+    "site_id": "4490",
+    "name": "ΑRT",
     "lang": "el",
-    "xmltv_id": "SmilePlus.gr",
-    "logo": "https://digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-smile-plus.jpg"
+    "logo": "https://i.imgur.com/55SK22l.png"
   },
   {
-    "site_id": "5150",
-    "name": "AEOLOS",
+    "site_id": "5130",
+    "name": "ΑΛΗΘΕΙΑ TV",
+    "lang": "el",
+    "xmltv_id": "AthinaTV.gr",
+    "logo": "https://i.imgur.com/wmVJOTz.png"
+  },
+  {
+    "site_id": "5310",
+    "name": "DIKTYO1",
+    "lang": "el",
+    "xmltv_id": "Diktyo1.gr",
+    "logo": "https://www.hellasnet.tv/media/logos/DIKTYO%201.png"
+  },
+  {
+    "site_id": "5420",
+    "name": "ΑΧΕΛΩΟΣ",
     "lang": "el"
+  },
+  {
+    "site_id": "3100",
+    "name": "ALPHA",
+    "lang": "el",
+    "logo": "https://i.imgur.com/No45vwk.png"
+  },
+  {
+    "site_id": "4070",
+    "name": "ΟΡΕΣΤΙΑΔΑ",
+    "lang": "el"
+  },
+  {
+    "site_id": "4700",
+    "name": "TRT",
+    "lang": "el",
+    "xmltv_id": "TRT.gr",
+    "logo": "https://i.imgur.com/g0jPOcC.png"
   },
   {
     "site_id": "5440",
@@ -215,74 +394,57 @@
     "logo": "https://i.imgur.com/nYVqhu8.png"
   },
   {
-    "site_id": "5770",
-    "name": "ΘΑΡΡΙ",
-    "lang": "el"
-  },
-  {
-    "site_id": "3500",
-    "name": "STAR",
-    "lang": "el",
-    "xmltv_id": "StarKentrikisElladas.gr",
-    "logo": "https://i.imgur.com/ZBt6beo.png"
-  },
-  {
-    "site_id": "4260",
-    "name": "DION ΤΗΛΕΟΡΑΣΗ Κεντρικής Μακεδονίας",
-    "lang": "el"
-  },
-  {
-    "site_id": "4280",
-    "name": "EUROPE 1",
-    "lang": "el"
-  },
-  {
-    "site_id": "5430",
-    "name": "ΒΗΜΑ ΤΗΛΕΟΡΑΣΗ",
-    "lang": "el"
-  },
-  {
-    "site_id": "5570",
-    "name": "TeleKPHTH",
-    "lang": "el"
-  },
-  {
     "site_id": "5590",
     "name": "KΡHTH1",
     "lang": "el"
   },
   {
-    "site_id": "5610",
-    "name": "TV CRETA",
-    "lang": "el",
-    "xmltv_id": "TVCreta.gr",
-    "logo": "https://i.imgur.com/CpIeJyt.png"
-  },
-  {
-    "site_id": "5750",
-    "name": "KOS TV",
-    "lang": "el",
-    "xmltv_id": "KosTV.gr",
-    "logo": "https://i.imgur.com/bdJnQ1W.png"
-  },
-  {
-    "site_id": "3300",
-    "name": "ANT1",
-    "lang": "el",
-    "xmltv_id": "ANT1.gr",
-    "logo": "https://i.imgur.com/ItxKvVS.png"
-  },
-  {
-    "site_id": "4240",
-    "name": "ΒΕΡΓΙΝΑ",
+    "site_id": "5770",
+    "name": "ΘΑΡΡΙ",
     "lang": "el"
   },
   {
-    "site_id": "5310",
-    "name": "DIKTYO1",
+    "site_id": "4370",
+    "name": "NICKELODEON+",
     "lang": "el",
-    "xmltv_id": "Diktyo1.gr",
-    "logo": "https://www.hellasnet.tv/media/logos/DIKTYO%201.png"
+    "xmltv_id": "Nickelodeon.gr",
+    "logo": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "site_id": "5150",
+    "name": "AEOLOS",
+    "lang": "el"
+  },
+  {
+    "site_id": "3200",
+    "name": "SKAI",
+    "lang": "el"
+  },
+  {
+    "site_id": "4380",
+    "name": "4E",
+    "lang": "el",
+    "xmltv_id": "4E.gr",
+    "logo": "https://i.imgur.com/Na0UCV7.png"
+  },
+  {
+    "site_id": "5020",
+    "name": "KONTRA",
+    "lang": "el"
+  },
+  {
+    "site_id": "5320",
+    "name": "FLASH TV",
+    "lang": "el",
+    "xmltv_id": "FlashTV.gr",
+    "logo": "https://flash-tv.gr/wp-content/uploads/2021/01/flash_logo-panw-1-300x62-1.png"
+  },
+  {
+    "site_id": "5450",
+    "name": "ART TV",
+    "lang": "el",
+    "xmltv_id": "ARTTV.gr",
+    "logo": "https://i.imgur.com/8uS0sib.png"
   },
   {
     "site_id": "5720",
@@ -297,9 +459,15 @@
     "logo": "https://play-lh.googleusercontent.com/72ZSoN11sHL5AtqrapJ5nHRPGDG-CRY5WZuI2KgRWbQDwlunzCOxSa2MFHPmdJiI1UQ=w240-h480-rw"
   },
   {
-    "site_id": "4080",
-    "name": "ALFA",
+    "site_id": "4170",
+    "name": "ΛΥΔΙΑ",
     "lang": "el"
+  },
+  {
+    "site_id": "4560",
+    "name": "SUPER",
+    "lang": "el",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png"
   },
   {
     "site_id": "4710",
@@ -309,127 +477,30 @@
     "logo": "https://i.imgur.com/8FcJ2I9.png"
   },
   {
-    "site_id": "4800",
-    "name": "ENA TV KE",
+    "site_id": "4940",
+    "name": "One Channel",
+    "lang": "el",
+    "xmltv_id": "OneChannel.gr",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png"
+  },
+  {
+    "site_id": "5330",
+    "name": "WEST",
     "lang": "el"
   },
   {
-    "site_id": "4900",
-    "name": "ΑΡΤ",
+    "site_id": "5860",
+    "name": "VOLCANO",
     "lang": "el"
   },
   {
-    "site_id": "5010",
-    "name": "HIGH TV",
-    "lang": "el",
-    "xmltv_id": "HighTV.gr",
-    "logo": "https://i.imgur.com/8gHuwt7.png"
-  },
-  {
-    "site_id": "5050",
-    "name": "RISE TV",
-    "lang": "el",
-    "xmltv_id": "RISETV.gr",
-    "logo": "https://i.ibb.co/1ZbXtD1/480px-RISE-FINAL-LOGO-1.png"
-  },
-  {
-    "site_id": "5470",
-    "name": "ΙTV",
-    "lang": "el",
-    "xmltv_id": "AthinaTV.gr",
-    "logo": "https://i.imgur.com/wmVJOTz.png"
-  },
-  {
-    "site_id": "4020",
-    "name": "ΔΕΛΤΑ ΤΗΛΕΟΡΑΣΗ",
+    "site_id": "4050",
+    "name": "ΕΠΙΛΟΓΕΣ",
     "lang": "el"
   },
   {
-    "site_id": "5630",
-    "name": "SITIA TV",
-    "lang": "el"
-  },
-  {
-    "site_id": "4830",
-    "name": "E ΤV",
-    "lang": "el"
-  },
-  {
-    "site_id": "4910",
-    "name": "ALERT",
-    "lang": "el"
-  },
-  {
-    "site_id": "4270",
-    "name": "EURO TV",
-    "lang": "el",
-    "xmltv_id": "EuroTV.gr",
-    "logo": "https://www.eurotv.gr/wp-content/uploads/2018/03/ima-euro-channel-190-x-400.png"
-  },
-  {
-    "site_id": "4510",
-    "name": "BEST",
-    "lang": "el"
-  },
-  {
-    "site_id": "5450",
-    "name": "ART TV",
-    "lang": "el",
-    "xmltv_id": "ARTTV.gr",
-    "logo": "https://i.imgur.com/8uS0sib.png"
-  },
-  {
-    "site_id": "5480",
-    "name": "START",
-    "lang": "el",
-    "logo": "https://i.imgur.com/VBqVkno.png"
-  },
-  {
-    "site_id": "3200",
-    "name": "SKAI",
-    "lang": "el"
-  },
-  {
-    "site_id": "4110",
-    "name": "SMILE (Θράκης)",
-    "lang": "el",
-    "xmltv_id": "SmilePlus.gr",
-    "logo": "https://digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-smile-plus.jpg"
-  },
-  {
-    "site_id": "4300",
-    "name": "TV100 ΘΕΣΣΑΛΟΝΙΚΗ",
-    "lang": "el",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/turkey/tv100-tr.png"
-  },
-  {
-    "site_id": "4560",
-    "name": "SUPER",
-    "lang": "el",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png"
-  },
-  {
-    "site_id": "5620",
-    "name": "NOTOS TV",
-    "lang": "el",
-    "xmltv_id": "NotosTv.gr",
-    "logo": "https://i.imgur.com/apYga7C.png"
-  },
-  {
-    "site_id": "5850",
-    "name": "SYROS TV1",
-    "lang": "el",
-    "xmltv_id": "SyrosTV1.gr",
-    "logo": "https://i.imgur.com/arQe5qS.png"
-  },
-  {
-    "site_id": "4450",
-    "name": "ΛΥΧΝΟΣ",
-    "lang": "el"
-  },
-  {
-    "site_id": "4920",
-    "name": "ATTICA",
+    "site_id": "4280",
+    "name": "EUROPE 1",
     "lang": "el"
   },
   {
@@ -440,86 +511,15 @@
     "logo": "https://i.imgur.com/EFL1Tjg.png"
   },
   {
-    "site_id": "5600",
-    "name": "ΝΕΑ Τηλεόραση Κρήτης",
-    "lang": "el"
-  },
-  {
-    "site_id": "3600",
-    "name": "MEGA",
+    "site_id": "5610",
+    "name": "TV CRETA",
     "lang": "el",
-    "xmltv_id": "MegaChannel.gr",
-    "logo": "https://i.imgur.com/UsyFADE.png"
+    "xmltv_id": "TVCreta.gr",
+    "logo": "https://i.imgur.com/CpIeJyt.png"
   },
   {
-    "site_id": "4370",
-    "name": "NICKELODEON+",
-    "lang": "el",
-    "xmltv_id": "Nickelodeon.gr",
-    "logo": "https://i.imgur.com/E84jnP8.png"
-  },
-  {
-    "site_id": "4530",
-    "name": "LEPANTO ΤΗΛΕΟΡΑΣΗ",
-    "lang": "el"
-  },
-  {
-    "site_id": "5580",
-    "name": "ΚΡΗΤΗTV",
-    "lang": "el",
-    "xmltv_id": "AthinaTV.gr",
-    "logo": "https://i.imgur.com/wmVJOTz.png"
-  },
-  {
-    "site_id": "4440",
-    "name": "ΗΛΕΚΤΡΑ",
-    "lang": "el"
-  },
-  {
-    "site_id": "3700",
-    "name": "ΜΑΚΕΔΟΝΙΑ ΤV",
-    "lang": "el",
-    "logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png"
-  },
-  {
-    "site_id": "4670",
-    "name": "ΘΕΣΣΑΛΙΑ ΤΗΛΕΟΡΑΣΗ",
-    "lang": "el"
-  },
-  {
-    "site_id": "5000",
-    "name": "ACTION 24",
-    "lang": "el",
-    "xmltv_id": "Action24.gr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png"
-  },
-  {
-    "site_id": "4470",
-    "name": "ΟΡΤ TELEVISION",
-    "lang": "el"
-  },
-  {
-    "site_id": "4990",
-    "name": "A.EPSILON",
-    "lang": "el"
-  },
-  {
-    "site_id": "5130",
-    "name": "ΑΛΗΘΕΙΑ TV",
-    "lang": "el",
-    "xmltv_id": "AthinaTV.gr",
-    "logo": "https://i.imgur.com/wmVJOTz.png"
-  },
-  {
-    "site_id": "5140",
-    "name": "ΠΑΤΡΙΔΑ TV",
-    "lang": "el",
-    "xmltv_id": "AthinaTV.gr",
-    "logo": "https://i.imgur.com/wmVJOTz.png"
-  },
-  {
-    "site_id": "5860",
-    "name": "VOLCANO",
+    "site_id": "5740",
+    "name": "IRIDA",
     "lang": "el"
   }
 ]

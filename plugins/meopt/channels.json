@@ -1,59 +1,192 @@
 [
   {
-    "site_id": "VIXEN",
-    "name": "VIXEN",
+    "site_id": "CNBC",
+    "name": "CNBC",
     "lang": "pt",
-    "xmltv_id": "VixenTV.ca@SD",
-    "logo": "https://i.imgur.com/5Iq2h96.png"
+    "xmltv_id": "CNBCEurope.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
   },
   {
-    "site_id": "AFRO",
-    "name": "Afro Music",
+    "site_id": "LVTVHD",
+    "name": "Localvisão TV",
     "lang": "pt",
-    "xmltv_id": "AfroMusicChannel.ao@SD",
-    "logo": "https://i.imgur.com/LsLxTBp.png"
+    "xmltv_id": "LocalVisaoTV.pt@SD",
+    "logo": "https://i.imgur.com/IxU1pnb.png"
   },
   {
-    "site_id": "CART",
-    "name": "Cartoon Network",
-    "lang": "pt",
-    "xmltv_id": "CartoonNetworkWesternEurope.uk@Portugal",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+    "site_id": "NHKHD",
+    "name": "NHK World Japan",
+    "lang": "en",
+    "xmltv_id": "NHKWorldJapan.jp@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
   },
   {
-    "site_id": "PANDAK",
-    "name": "Panda Kids",
+    "site_id": "NICKELO",
+    "name": "Nickelodeon",
     "lang": "pt",
-    "xmltv_id": "PandaKids.pt@SD",
-    "logo": "https://i.imgur.com/6OP31oP.png"
+    "xmltv_id": "Nickelodeon.es@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png"
   },
   {
-    "site_id": "TRAHD",
-    "name": "Trace Urban",
+    "site_id": "RTPMA",
+    "name": "RTP Madeira",
     "lang": "pt",
-    "xmltv_id": "TraceUrban.fr@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669893cbac4421ebc53368b/images/logo_20231219_223537_68.png"
+    "xmltv_id": "RTPMadeira.pt@SD",
+    "logo": "https://i.imgur.com/nJNWTqA.png"
   },
   {
-    "site_id": "ZDFNEO",
-    "name": "ZDFNEO",
+    "site_id": "CMTV",
+    "name": "CMTV",
     "lang": "pt",
-    "xmltv_id": "ZDFneo.de@SD",
-    "logo": "https://i.imgur.com/1JIIGgL.png"
+    "xmltv_id": "CMTV.pt@SD",
+    "logo": "https://i.imgur.com/QFLqg8y.png"
   },
   {
-    "site_id": "1E1INT",
-    "name": "1+1 International",
+    "site_id": "FTVHD",
+    "name": "Fashion TV",
     "lang": "pt",
-    "xmltv_id": "1Plus1International.ua@SD",
-    "logo": "https://i.imgur.com/LOY0rtp.png"
+    "xmltv_id": "FashionTVEurope.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"
   },
   {
-    "site_id": "3SAT",
-    "name": "3SAT",
+    "site_id": "PBTVHD",
+    "name": "Playboy TV HD",
     "lang": "pt",
-    "xmltv_id": "3sat.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png"
+    "xmltv_id": "PlayboyTVIberia.us@SD",
+    "logo": "https://i.imgur.com/B3DMUM9.png"
+  },
+  {
+    "site_id": "RAI1",
+    "name": "RAI 1",
+    "lang": "pt",
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "SICNOV",
+    "name": "SIC Novelas",
+    "lang": "pt",
+    "xmltv_id": "SICNovelas.pt@SD",
+    "logo": "https://i.ibb.co/5hQrgqd/SICNovelas.png"
+  },
+  {
+    "site_id": "SYFHD",
+    "name": "SyFy",
+    "lang": "pt",
+    "xmltv_id": "Syfy.pt@SD",
+    "logo": "https://i.imgur.com/4fMWhUE.png"
+  },
+  {
+    "site_id": "TAGES24",
+    "name": "Tagesschau24",
+    "lang": "pt",
+    "xmltv_id": "tagesschau24.de@SD",
+    "logo": "https://i.imgur.com/LH0Gctv.png"
+  },
+  {
+    "site_id": "DIZI",
+    "name": "Dizi Channel",
+    "lang": "pt",
+    "xmltv_id": "TimelessDiziChannel.ro@SD",
+    "logo": "https://i.imgur.com/s3Sqd4L.png"
+  },
+  {
+    "site_id": "C180",
+    "name": "CANAL 180",
+    "lang": "pt",
+    "xmltv_id": "Canal180.pt@SD",
+    "logo": "https://i.imgur.com/2JgwPmm.jpeg"
+  },
+  {
+    "site_id": "PANDA",
+    "name": "Panda",
+    "lang": "pt",
+    "xmltv_id": "CanalPanda.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/08/Canal_Panda_2015.png"
+  },
+  {
+    "site_id": "CNITO",
+    "name": "Cartoonito",
+    "lang": "pt",
+    "xmltv_id": "Cartoonito.pt@SD",
+    "logo": "https://i.imgur.com/6vYWCD0.png"
+  },
+  {
+    "site_id": "CUBAV",
+    "name": "Cubavision",
+    "lang": "pt",
+    "xmltv_id": "CubavisionInternacional.cu@SD",
+    "logo": "https://i.imgur.com/0ZHm9f6.png"
+  },
+  {
+    "site_id": "DAYSTAE",
+    "name": "Daystar (E)",
+    "lang": "pt",
+    "xmltv_id": "DaystarTVEspanol.us@SD",
+    "logo": "https://i.imgur.com/4nP7j4M.png"
+  },
+  {
+    "site_id": "DISNYJ",
+    "name": "Disney Junior",
+    "lang": "pt",
+    "xmltv_id": "DisneyJunior.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
+  },
+  {
+    "site_id": "FR3HD",
+    "name": "France 3",
+    "lang": "pt",
+    "xmltv_id": "France3.fr@National",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/France_3_Rh%C3%B4ne-Alpes_-_Logo_2018.svg"
+  },
+  {
+    "site_id": "ODISSHD",
+    "name": "Odisseia",
+    "lang": "pt",
+    "xmltv_id": "Odisseia.pt@SD",
+    "logo": "https://i.imgur.com/zz0Vtty.png"
+  },
+  {
+    "site_id": "AMCHD",
+    "name": "AMC",
+    "lang": "pt",
+    "xmltv_id": "AMCEurope.uk@Portugal",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"
+  },
+  {
+    "site_id": "PROTV",
+    "name": "PRO TV Internacional",
+    "lang": "pt",
+    "xmltv_id": "PROTVInternational.ro@SD",
+    "logo": "https://i.imgur.com/vfr1ZYw.png"
+  },
+  {
+    "site_id": "RTPACR",
+    "name": "RTP Açores",
+    "lang": "pt",
+    "xmltv_id": "RTPAcores.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/960px-RTP_A%C3%A7ores_%282016%29.svg.png"
+  },
+  {
+    "site_id": "SPT2HD",
+    "name": "Sport TV2",
+    "lang": "pt",
+    "xmltv_id": "SportTV2.pt@SD",
+    "logo": "https://i.imgur.com/0jSR6yG.png"
+  },
+  {
+    "site_id": "TPA",
+    "name": "TPA Notícias",
+    "lang": "en",
+    "xmltv_id": "TPAi.ao@SD",
+    "logo": "https://i.imgur.com/OJru0hW.png"
+  },
+  {
+    "site_id": "TVCTOPH",
+    "name": "TVCine Top",
+    "lang": "pt",
+    "xmltv_id": "TVCineTop.pt@SD",
+    "logo": "https://i.imgur.com/uMmmK0s.png"
   },
   {
     "site_id": "BOMSOM",
@@ -63,11 +196,101 @@
     "logo": "https://i.imgur.com/pUKZ9ec.png"
   },
   {
-    "site_id": "GNEWS",
-    "name": "Globo News",
+    "site_id": "1RUSS",
+    "name": "Channel 1 Russia",
     "lang": "pt",
-    "xmltv_id": "GloboNews.br@SD",
-    "logo": "https://i.imgur.com/3yZyaCm.png"
+    "xmltv_id": "ChannelOne.ru@SD",
+    "logo": "https://i.imgur.com/RUSX0rX.png"
+  },
+  {
+    "site_id": "FR2HD",
+    "name": "France 2",
+    "lang": "pt",
+    "xmltv_id": "France2.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png"
+  },
+  {
+    "site_id": "FR4HD",
+    "name": "France 4",
+    "lang": "pt",
+    "xmltv_id": "France4.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png"
+  },
+  {
+    "site_id": "FR5HD",
+    "name": "France 5",
+    "lang": "pt",
+    "xmltv_id": "France5.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png"
+  },
+  {
+    "site_id": "WILDHD",
+    "name": "National Geographic Wild",
+    "lang": "pt",
+    "xmltv_id": "NationalGeographicWild.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
+  },
+  {
+    "site_id": "SCUOLA",
+    "name": "RAI Scuola",
+    "lang": "pt",
+    "xmltv_id": "RaiScuola.it@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png"
+  },
+  {
+    "site_id": "MAX",
+    "name": "SET Max",
+    "lang": "pt",
+    "xmltv_id": "SonyMax.uk@SD",
+    "logo": "https://i.imgur.com/LBICKI5.png"
+  },
+  {
+    "site_id": "DOGTVHD",
+    "name": "Dog TV",
+    "lang": "pt",
+    "logo": "https://i.imgur.com/dRKis0F.png"
+  },
+  {
+    "site_id": "CINEHD",
+    "name": "Cinemundo",
+    "lang": "pt",
+    "xmltv_id": "CineMundo.pt@SD",
+    "logo": "https://i.imgur.com/U4Wd5HO.png"
+  },
+  {
+    "site_id": "DAZN4",
+    "name": "DAZN 4",
+    "lang": "pt",
+    "xmltv_id": "DAZN4.uk@Portugal",
+    "logo": "https://i.imgur.com/m7ga8bU.png"
+  },
+  {
+    "site_id": "EROXHD",
+    "name": "Erox HD",
+    "lang": "pt",
+    "xmltv_id": "EroX.nl@SD",
+    "logo": "https://i.imgur.com/B9Fz9Yr.png"
+  },
+  {
+    "site_id": "EURNIHD",
+    "name": "Euronews (I)",
+    "lang": "pt",
+    "xmltv_id": "EuronewsEnglish.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
+  },
+  {
+    "site_id": "I24I",
+    "name": "i24 News (I)",
+    "lang": "pt",
+    "xmltv_id": "i24NEWSEnglishWorld.il@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png"
+  },
+  {
+    "site_id": "SEXYHOT",
+    "name": "Sexy Hot",
+    "lang": "pt",
+    "xmltv_id": "SexyHot.br@SD",
+    "logo": "https://i.imgur.com/Fs8xVoY.png"
   },
   {
     "site_id": "SPT1HD",
@@ -84,88 +307,11 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
   },
   {
-    "site_id": "CONTALA",
-    "name": "Conta Lá",
-    "lang": "pt",
-    "xmltv_id": "ContaLa.pt@HD",
-    "logo": "https://i.imgur.com/EAoLV35.png"
-  },
-  {
-    "site_id": "KIKA",
-    "name": "KIKA",
-    "lang": "pt",
-    "xmltv_id": "KiKA.de@SD",
-    "logo": "https://i.imgur.com/vZdNp5S.png"
-  },
-  {
-    "site_id": "RAI1",
-    "name": "RAI 1",
-    "lang": "pt",
-    "xmltv_id": "Rai1.it@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "UNIFE",
-    "name": "Unifé TV",
-    "lang": "pt",
-    "xmltv_id": "UnifeTV.pt@SD",
-    "logo": "https://i.imgur.com/0gFp6Xr.png"
-  },
-  {
-    "site_id": "ABOLA",
-    "name": "A Bola",
-    "lang": "pt",
-    "xmltv_id": "ABolaTV.pt@SD",
-    "logo": "https://i.imgur.com/IP1NWeA.png"
-  },
-  {
-    "site_id": "ARTEHD",
-    "name": "Arte",
-    "lang": "pt",
-    "xmltv_id": "arte.fr@SD",
-    "logo": "https://i.imgur.com/ecXMjNl.png"
-  },
-  {
-    "site_id": "DAZN5",
-    "name": "DAZN 5",
-    "lang": "pt",
-    "xmltv_id": "DAZN5.uk@Portugal",
-    "logo": "https://i.imgur.com/HD2XaeS.png"
-  },
-  {
-    "site_id": "MCM P",
-    "name": "MCM Pop",
-    "lang": "pt",
-    "xmltv_id": "MCMPop.fr@SD",
-    "logo": "https://i.imgur.com/j31lBL7.png"
-  },
-  {
-    "site_id": "MEZZO",
-    "name": "Mezzo",
-    "lang": "pt",
-    "xmltv_id": "Mezzo.fr@SD",
-    "logo": "https://i.imgur.com/auNdGeW.png"
-  },
-  {
-    "site_id": "NICKJR",
-    "name": "Nick Jr.",
-    "lang": "pt",
-    "xmltv_id": "NickJr.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "PROTV",
-    "name": "PRO TV Internacional",
-    "lang": "pt",
-    "xmltv_id": "PROTVInternational.ro@SD",
-    "logo": "https://i.imgur.com/vfr1ZYw.png"
-  },
-  {
-    "site_id": "STORIA",
-    "name": "RAI Storia",
-    "lang": "pt",
-    "xmltv_id": "RaiStoria.it@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png"
+    "site_id": "EURNA",
+    "name": "Euronews (A)",
+    "lang": "en",
+    "xmltv_id": "EuronewsGerman.fr@SD",
+    "logo": "https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png"
   },
   {
     "site_id": "EURHD",
@@ -175,871 +321,11 @@
     "logo": "https://i.imgur.com/olQJgm7.png"
   },
   {
-    "site_id": "FR4HD",
-    "name": "France 4",
-    "lang": "pt",
-    "xmltv_id": "France4.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png"
-  },
-  {
-    "site_id": "ID",
-    "name": "Investigation Discovery",
-    "lang": "pt",
-    "xmltv_id": "InvestigationDiscoveryEurope.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "site_id": "M6",
-    "name": "M6",
-    "lang": "pt",
-    "xmltv_id": "M6International.fr@SD",
-    "logo": "https://i.imgur.com/67KIo8a.png"
-  },
-  {
-    "site_id": "RTPN",
-    "name": "RTP Notícias",
-    "lang": "pt",
-    "xmltv_id": "RTPNoticias.pt@HD",
-    "logo": "https://i.imgur.com/Bm2XEHH.png"
-  },
-  {
-    "site_id": "SICC",
-    "name": "SIC Caras",
-    "lang": "pt",
-    "xmltv_id": "SICCaras.pt@SD",
-    "logo": "https://i.imgur.com/di3sIto.png"
-  },
-  {
-    "site_id": "MAX",
-    "name": "SET Max",
-    "lang": "pt",
-    "xmltv_id": "SonyMax.uk@SD",
-    "logo": "https://i.imgur.com/LBICKI5.png"
-  },
-  {
-    "site_id": "STARCIN",
-    "name": "Star Cinema",
-    "lang": "pt",
-    "xmltv_id": "StarCinema.ua@SD",
-    "logo": "https://i.imgur.com/5sis895.png"
-  },
-  {
-    "site_id": "DOGTVHD",
-    "name": "Dog TV",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/dRKis0F.png"
-  },
-  {
-    "site_id": "BFMB",
-    "name": "BFM Business",
-    "lang": "pt",
-    "xmltv_id": "BFMBusiness.fr@SD",
-    "logo": "https://i.imgur.com/psqIHn4.png"
-  },
-  {
-    "site_id": "FTV4K",
-    "name": "Fashion TV 4K",
-    "lang": "pt",
-    "xmltv_id": "FashionTVUHD.fr@SD",
-    "logo": "https://i.imgur.com/vQuyyWO.png"
-  },
-  {
-    "site_id": "TVCACTH",
-    "name": "TVCine Action",
-    "lang": "pt",
-    "xmltv_id": "TVCineAction.pt@SD",
-    "logo": "https://i.imgur.com/fsQ6dMR.png"
-  },
-  {
-    "site_id": "CGTNHD",
-    "name": "CGTN",
-    "lang": "pt",
-    "xmltv_id": "CGTN.cn@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
-  },
-  {
-    "site_id": "CAÇAVHD",
-    "name": "Caçavision",
-    "lang": "pt",
-    "logo": "https://i.imgur.com/PbgTxWw.png"
-  },
-  {
-    "site_id": "DEST",
-    "name": "MEO Destaques",
-    "lang": "pt"
-  },
-  {
-    "site_id": "AXNHD",
-    "name": "AXN HD",
-    "lang": "pt",
-    "xmltv_id": "AXN.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
-  },
-  {
-    "site_id": "C11",
-    "name": "11",
-    "lang": "pt",
-    "xmltv_id": "Canal11.pt@SD",
-    "logo": "https://i.imgur.com/mbQCGm5.png"
-  },
-  {
-    "site_id": "EURNA",
-    "name": "Euronews (A)",
+    "site_id": "KBS",
+    "name": "KBS World",
     "lang": "en",
-    "xmltv_id": "EuronewsGerman.fr@SD",
-    "logo": "https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png"
-  },
-  {
-    "site_id": "FR24F",
-    "name": "France 24 (F)",
-    "lang": "pt",
-    "xmltv_id": "France24.fr@French",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "HOTTAB",
-    "name": "HOT Taboo",
-    "lang": "pt",
-    "xmltv_id": "HOTTaboo.pt@SD",
-    "logo": "https://i.imgur.com/vt1dtt7.png"
-  },
-  {
-    "site_id": "DORCEL",
-    "name": "Dorcel TV",
-    "lang": "pt",
-    "xmltv_id": "DorcelTV.nl@SD",
-    "logo": "https://i.imgur.com/RkzyjEd.png"
-  },
-  {
-    "site_id": "ODISSHD",
-    "name": "Odisseia",
-    "lang": "pt",
-    "xmltv_id": "Odisseia.pt@SD",
-    "logo": "https://i.imgur.com/zz0Vtty.png"
-  },
-  {
-    "site_id": "SCUOLA",
-    "name": "RAI Scuola",
-    "lang": "pt",
-    "xmltv_id": "RaiScuola.it@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png"
-  },
-  {
-    "site_id": "RUSSTHD",
-    "name": "Russia Today",
-    "lang": "pt",
-    "xmltv_id": "RT.ru@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RT/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "RTPMA",
-    "name": "RTP Madeira",
-    "lang": "pt",
-    "xmltv_id": "RTPMadeira.pt@SD",
-    "logo": "https://i.imgur.com/nJNWTqA.png"
-  },
-  {
-    "site_id": "SICN",
-    "name": "SIC Notícias",
-    "lang": "pt",
-    "xmltv_id": "SICNoticias.pt@SD",
-    "logo": "https://i.imgur.com/Gi6Q26M.png"
-  },
-  {
-    "site_id": "SPT4HD",
-    "name": "Sport TV4",
-    "lang": "pt",
-    "xmltv_id": "SportTV4.pt@SD",
-    "logo": "https://i.imgur.com/mJlbVfW.png"
-  },
-  {
-    "site_id": "TPA",
-    "name": "TPA Notícias",
-    "lang": "en",
-    "xmltv_id": "TPAi.ao@SD",
-    "logo": "https://i.imgur.com/OJru0hW.png"
-  },
-  {
-    "site_id": "I24F",
-    "name": "i24 News (F)",
-    "lang": "pt",
-    "xmltv_id": "i24NEWSFrench.il@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png"
-  },
-  {
-    "site_id": "KURIAKO",
-    "name": "Kuriakos TV",
-    "lang": "pt",
-    "xmltv_id": "KuriakosTV.pt@SD",
-    "logo": "https://i.imgur.com/xdAW0D5.png"
-  },
-  {
-    "site_id": "LOLLY",
-    "name": "Lolly Kids",
-    "lang": "pt",
-    "xmltv_id": "LollyKids.uk@SD",
-    "logo": "https://i.imgur.com/DOpgaBe.png"
-  },
-  {
-    "site_id": "NGHD",
-    "name": "National Geographic",
-    "lang": "pt",
-    "xmltv_id": "NationalGeographic.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
-  },
-  {
-    "site_id": "RTP1",
-    "name": "RTP1",
-    "lang": "pt",
-    "xmltv_id": "RTP1.pt@SD",
-    "logo": "https://i.imgur.com/w7GV86i.png"
-  },
-  {
-    "site_id": "BIGGS",
-    "name": "Biggs",
-    "lang": "pt",
-    "xmltv_id": "Biggs.pt@SD",
-    "logo": "https://i.imgur.com/ANPP7FW.png"
-  },
-  {
-    "site_id": "EURNIHD",
-    "name": "Euronews (I)",
-    "lang": "pt",
-    "xmltv_id": "EuronewsEnglish.fr@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
-  },
-  {
-    "site_id": "FRINFO",
-    "name": "France Info",
-    "lang": "pt",
-    "xmltv_id": "Franceinfo.fr@SD",
-    "logo": "https://i.imgur.com/eITXz6A.png"
-  },
-  {
-    "site_id": "PENTHG",
-    "name": "Penthouse Gold",
-    "lang": "pt",
-    "xmltv_id": "PenthouseGold.us@SD",
-    "logo": "https://i.imgur.com/0JufwBJ.png"
-  },
-  {
-    "site_id": "DJAZZ",
-    "name": "Stingray Djazz",
-    "lang": "pt",
-    "xmltv_id": "StingrayDJAZZ.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png"
-  },
-  {
-    "site_id": "CNOVA",
-    "name": "Canção Nova",
-    "lang": "pt",
-    "xmltv_id": "TVCancaoNova.pt@SD",
-    "logo": "https://i.imgur.com/rSmwbkj.png"
-  },
-  {
-    "site_id": "TVCEDIH",
-    "name": "TVCine Edition",
-    "lang": "pt",
-    "xmltv_id": "TVCineEdition.pt@SD",
-    "logo": "https://i.imgur.com/G2pYTem.png"
-  },
-  {
-    "site_id": "TVCEMOH",
-    "name": "TVCine Emotion",
-    "lang": "pt",
-    "xmltv_id": "TVCineEmotion.pt@SD",
-    "logo": "https://i.imgur.com/5yfDDx3.png"
-  },
-  {
-    "site_id": "HOTGO",
-    "name": "HOTGO",
-    "lang": "pt"
-  },
-  {
-    "site_id": "C180",
-    "name": "CANAL 180",
-    "lang": "pt",
-    "xmltv_id": "Canal180.pt@SD",
-    "logo": "https://i.imgur.com/2JgwPmm.jpeg"
-  },
-  {
-    "site_id": "CONECTV",
-    "name": "Conectv",
-    "lang": "pt",
-    "xmltv_id": "ConecTVAlgarve.pt@SD",
-    "logo": "https://i.imgur.com/dhWE9Gy.jpeg"
-  },
-  {
-    "site_id": "DAZN4",
-    "name": "DAZN 4",
-    "lang": "pt",
-    "xmltv_id": "DAZN4.uk@Portugal",
-    "logo": "https://i.imgur.com/m7ga8bU.png"
-  },
-  {
-    "site_id": "SPT5HD",
-    "name": "Sport TV5",
-    "lang": "pt",
-    "xmltv_id": "SportTV5.pt@SD",
-    "logo": "https://i.imgur.com/4w4vuad.png"
-  },
-  {
-    "site_id": "VENUS",
-    "name": "Venus",
-    "lang": "pt",
-    "xmltv_id": "Venus.ar@SD",
-    "logo": "https://i.imgur.com/4LFXPMk.png"
-  },
-  {
-    "site_id": "AMCBRE",
-    "name": "AMC Break",
-    "lang": "pt",
-    "xmltv_id": "AMCBreak.pt@SD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/512"
-  },
-  {
-    "site_id": "FTVHD",
-    "name": "Fashion TV",
-    "lang": "pt",
-    "xmltv_id": "FashionTVEurope.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"
-  },
-  {
-    "site_id": "RAI3",
-    "name": "RAI 3",
-    "lang": "pt",
-    "xmltv_id": "Rai3.it@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "STARMOV",
-    "name": "STAR Movies",
-    "lang": "pt",
-    "xmltv_id": "StarMovies.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png"
-  },
-  {
-    "site_id": "TVI",
-    "name": "TVI",
-    "lang": "pt",
-    "xmltv_id": "TVI.pt@SD",
-    "logo": "https://i.imgur.com/H8Tgl7m.png"
-  },
-  {
-    "site_id": "ZEECIN",
-    "name": "Zee Cinema",
-    "lang": "pt",
-    "xmltv_id": "ZeeCinema.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
-    "site_id": "QHD",
-    "name": "Q",
-    "lang": "pt",
-    "xmltv_id": "CanalQ.pt@SD",
-    "logo": "https://i.imgur.com/OovTKqv.png"
-  },
-  {
-    "site_id": "GAMET",
-    "name": "Gametoon",
-    "lang": "pt",
-    "xmltv_id": "Gametoon.nl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png"
-  },
-  {
-    "site_id": "PHCNE",
-    "name": "Phoenix CNE",
-    "lang": "pt",
-    "xmltv_id": "PhoenixCNEChannel.hk@SD",
-    "logo": "https://i.imgur.com/tYr9IVZ.png"
-  },
-  {
-    "site_id": "PBTVHD",
-    "name": "Playboy TV HD",
-    "lang": "pt",
-    "xmltv_id": "PlayboyTVIberia.us@SD",
-    "logo": "https://i.imgur.com/B3DMUM9.png"
-  },
-  {
-    "site_id": "RAI2",
-    "name": "RAI 2",
-    "lang": "pt",
-    "xmltv_id": "Rai2.it@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png"
-  },
-  {
-    "site_id": "TVIR",
-    "name": "TVI Reality",
-    "lang": "pt",
-    "xmltv_id": "TVIReality.pt@SD",
-    "logo": "https://i.imgur.com/C9rxqA5.png"
-  },
-  {
-    "site_id": "1E1UNEW",
-    "name": "1+1 United News",
-    "lang": "pt",
-    "xmltv_id": "1Plus1International.ua",
-    "logo": "https://i.imgur.com/LOY0rtp.png"
-  },
-  {
-    "site_id": "DAZN2",
-    "name": "DAZN 2",
-    "lang": "pt",
-    "xmltv_id": "DAZN2.uk@Portugal",
-    "logo": "https://i.imgur.com/OGj3qf5.png"
-  },
-  {
-    "site_id": "SEXYHOT",
-    "name": "Sexy Hot",
-    "lang": "pt",
-    "xmltv_id": "SexyHot.br@SD",
-    "logo": "https://i.imgur.com/Fs8xVoY.png"
-  },
-  {
-    "site_id": "SETAS",
-    "name": "SET Asia",
-    "lang": "pt",
-    "xmltv_id": "SonyEntertainmentTelevisionAsia.in@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Sony_TV_new.png/960px-Sony_TV_new.png"
-  },
-  {
-    "site_id": "STARLIF",
-    "name": "STAR Life",
-    "lang": "pt",
-    "xmltv_id": "StarLife.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png"
-  },
-  {
-    "site_id": "TLC",
-    "name": "TLC",
-    "lang": "pt",
-    "xmltv_id": "TLC.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
-  },
-  {
-    "site_id": "TRAXP",
-    "name": "Travelxp HD",
-    "lang": "pt",
-    "xmltv_id": "Travelxp.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "GALERIA",
-    "name": "Galeria",
-    "lang": "pt"
-  },
-  {
-    "site_id": "AXNMHD",
-    "name": "AXN Movies HD",
-    "lang": "pt",
-    "xmltv_id": "AXNMovies.pt@SD",
-    "logo": "https://i.imgur.com/tJQckal.png"
-  },
-  {
-    "site_id": "CUBAV",
-    "name": "Cubavision",
-    "lang": "pt",
-    "xmltv_id": "CubavisionInternacional.cu@SD",
-    "logo": "https://i.imgur.com/0ZHm9f6.png"
-  },
-  {
-    "site_id": "KVARTV",
-    "name": "Kvartal TV International",
-    "lang": "pt",
-    "xmltv_id": "KvartalTV.ua@SD",
-    "logo": "https://i.imgur.com/6ZYWizP.png"
-  },
-  {
-    "site_id": "NICKELO",
-    "name": "Nickelodeon",
-    "lang": "pt",
-    "xmltv_id": "Nickelodeon.es@SD",
-    "logo": "https://i.imgur.com/E84jnP8.png"
-  },
-  {
-    "site_id": "SEXTRM",
-    "name": "SexTreme",
-    "lang": "pt",
-    "xmltv_id": "Sextreme.br@SD",
-    "logo": "https://i.imgur.com/jWsW2Rd.png"
-  },
-  {
-    "site_id": "SICK",
-    "name": "SIC K",
-    "lang": "pt",
-    "xmltv_id": "SICK.pt@SD",
-    "logo": "https://i.imgur.com/ypTCVsB.png"
-  },
-  {
-    "site_id": "24KTHD",
-    "name": "24Kitchen",
-    "lang": "pt",
-    "xmltv_id": "24Kitchen.us@Portugal",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png"
-  },
-  {
-    "site_id": "FIGHTSP",
-    "name": "Fight Sports",
-    "lang": "pt",
-    "xmltv_id": "FightSports.us@SD",
-    "logo": "https://i.imgur.com/nV55veq.png"
-  },
-  {
-    "site_id": "GLOB",
-    "name": "Globo",
-    "lang": "pt",
-    "xmltv_id": "RedeGlobo.br@SD",
-    "logo": "https://i.imgur.com/O02TF2r.png"
-  },
-  {
-    "site_id": "RTPACR",
-    "name": "RTP Açores",
-    "lang": "pt",
-    "xmltv_id": "RTPAcores.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/960px-RTP_A%C3%A7ores_%282016%29.svg.png"
-  },
-  {
-    "site_id": "RTPA",
-    "name": "RTP África",
-    "lang": "pt",
-    "xmltv_id": "RTPAfrica.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_%C3%81frica_2016_%28Reduced_Version%29.svg/960px-RTP_%C3%81frica_2016_%28Reduced_Version%29.svg.png"
-  },
-  {
-    "site_id": "SPT6HD",
-    "name": "Sport TV6",
-    "lang": "pt",
-    "xmltv_id": "SportTV6.pt@SD",
-    "logo": "https://i.imgur.com/qmlQkyI.png"
-  },
-  {
-    "site_id": "TVEIHD",
-    "name": "TVEi",
-    "lang": "pt",
-    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png"
-  },
-  {
-    "site_id": "DUCKTV",
-    "name": "Duck TV",
-    "lang": "pt",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/duck-tv-rs.png"
-  },
-  {
-    "site_id": "UME",
-    "name": "UM Europa",
-    "lang": "pt",
-    "xmltv_id": "CanalUmEuropa.pt@SD",
-    "logo": "https://i.imgur.com/4C9bzpM.png"
-  },
-  {
-    "site_id": "EURN",
-    "name": "Euronews",
-    "lang": "pt",
-    "xmltv_id": "EuronewsPortuguese.fr@SD",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/73b5e777-8a44-4def-8e33-be43f7f8177c/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png"
-  },
-  {
-    "site_id": "SICR",
-    "name": "SIC Radical",
-    "lang": "pt",
-    "xmltv_id": "SICRadical.pt@SD",
-    "logo": "https://i.imgur.com/6g0obyk.png"
-  },
-  {
-    "site_id": "STARCOM",
-    "name": "STAR Comedy",
-    "lang": "pt",
-    "xmltv_id": "StarComedy.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png"
-  },
-  {
-    "site_id": "CLASSIC",
-    "name": "Stingray Classica",
-    "lang": "pt",
-    "xmltv_id": "StingrayClassica.ca@SD",
-    "logo": "https://i.imgur.com/nh1k5RC.png"
-  },
-  {
-    "site_id": "ZDF",
-    "name": "ZDF",
-    "lang": "pt",
-    "xmltv_id": "ZDF.de@SD",
-    "logo": "https://i.imgur.com/rtLb6m9.png"
-  },
-  {
-    "site_id": "OPTO",
-    "name": "OPTO",
-    "lang": "pt"
-  },
-  {
-    "site_id": "BFM",
-    "name": "BFM TV",
-    "lang": "pt",
-    "xmltv_id": "BFMTV.fr@SD",
-    "logo": "https://i.imgur.com/YJCcczD.png"
-  },
-  {
-    "site_id": "CCTV4HD",
-    "name": "CCTV4",
-    "lang": "pt",
-    "xmltv_id": "CCTV4Europe.cn@SD",
-    "logo": "https://i.imgur.com/HGLFdfk.png"
-  },
-  {
-    "site_id": "FR3HD",
-    "name": "France 3",
-    "lang": "pt",
-    "xmltv_id": "France3.fr@National",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/France_3_Rh%C3%B4ne-Alpes_-_Logo_2018.svg"
-  },
-  {
-    "site_id": "PORTO",
-    "name": "Porto Canal",
-    "lang": "pt",
-    "xmltv_id": "PortoCanal.pt@SD",
-    "logo": "https://i.imgur.com/DwziwMY.png"
-  },
-  {
-    "site_id": "SPT7HD",
-    "name": "Sport TV7",
-    "lang": "pt",
-    "xmltv_id": "SportTV7.pt@SD",
-    "logo": "https://i.imgur.com/2HmCAm5.png"
-  },
-  {
-    "site_id": "SPTVHD",
-    "name": "Sport TV +",
-    "lang": "pt",
-    "xmltv_id": "SportTVPlus.pt@SD",
-    "logo": "https://i.imgur.com/R5FZEW6.png"
-  },
-  {
-    "site_id": "VMAISTVI",
-    "name": "V+ TVI",
-    "lang": "pt",
-    "xmltv_id": "VPlusTVI.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png"
-  },
-  {
-    "site_id": "CAÇAPHD",
-    "name": "Caça e Pesca",
-    "lang": "pt"
-  },
-  {
-    "site_id": "PANDA",
-    "name": "Panda",
-    "lang": "pt",
-    "xmltv_id": "CanalPanda.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/08/Canal_Panda_2015.png"
-  },
-  {
-    "site_id": "CNBC",
-    "name": "CNBC",
-    "lang": "pt",
-    "xmltv_id": "CNBCEurope.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"
-  },
-  {
-    "site_id": "MEZHD",
-    "name": "Mezzo Live HD",
-    "lang": "pt",
-    "xmltv_id": "MezzoLive.fr@SD",
-    "logo": "https://i.imgur.com/H9ytKPN.png"
-  },
-  {
-    "site_id": "NEWSNOW",
-    "name": "News Now",
-    "lang": "pt",
-    "xmltv_id": "NewsNow.pt@SD",
-    "logo": "https://i.imgur.com/e1S1M6H.png"
-  },
-  {
-    "site_id": "NHKHD",
-    "name": "NHK World Japan",
-    "lang": "en",
-    "xmltv_id": "NHKWorldJapan.jp@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/960px-NHK_World-Japan_TV.svg.png"
-  },
-  {
-    "site_id": "CINEHD",
-    "name": "Cinemundo",
-    "lang": "pt",
-    "xmltv_id": "CineMundo.pt@SD",
-    "logo": "https://i.imgur.com/U4Wd5HO.png"
-  },
-  {
-    "site_id": "FR2HD",
-    "name": "France 2",
-    "lang": "pt",
-    "xmltv_id": "France2.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png"
-  },
-  {
-    "site_id": "FR5HD",
-    "name": "France 5",
-    "lang": "pt",
-    "xmltv_id": "France5.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png"
-  },
-  {
-    "site_id": "RTPM",
-    "name": "RTP Memória",
-    "lang": "pt",
-    "xmltv_id": "RTPMemoria.pt@SD",
-    "logo": "https://i.imgur.com/jCpfdiJ.png"
-  },
-  {
-    "site_id": "SMAISHD",
-    "name": "S+",
-    "lang": "pt",
-    "xmltv_id": "SPlus.pt@SD",
-    "logo": "https://i.imgur.com/Vy7PRuq.png"
-  },
-  {
-    "site_id": "WSPORT",
-    "name": "W Sport",
-    "lang": "pt",
-    "xmltv_id": "WSport.za@SD",
-    "logo": "https://i.imgur.com/K4GDwMp.png"
-  },
-  {
-    "site_id": "1RUSS",
-    "name": "Channel 1 Russia",
-    "lang": "pt",
-    "xmltv_id": "ChannelOne.ru@SD",
-    "logo": "https://i.imgur.com/RUSX0rX.png"
-  },
-  {
-    "site_id": "FREEDOM",
-    "name": "Freedom",
-    "lang": "pt",
-    "xmltv_id": "FREEDOM.ua@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png"
-  },
-  {
-    "site_id": "TVGAL",
-    "name": "TV Galícia",
-    "lang": "pt",
-    "xmltv_id": "GaliciaTVEuropa.es@SD",
-    "logo": "https://i.imgur.com/dvkzH8n.png"
-  },
-  {
-    "site_id": "WILDHD",
-    "name": "National Geographic Wild",
-    "lang": "pt",
-    "xmltv_id": "NationalGeographicWild.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
-  },
-  {
-    "site_id": "NEWBR",
-    "name": "New Brasil",
-    "lang": "pt"
-  },
-  {
-    "site_id": "DAYSTAE",
-    "name": "Daystar (E)",
-    "lang": "pt",
-    "xmltv_id": "DaystarTVEspanol.us@SD",
-    "logo": "https://i.imgur.com/4nP7j4M.png"
-  },
-  {
-    "site_id": "ZEETV",
-    "name": "Zee TV",
-    "lang": "pt",
-    "xmltv_id": "ZeeTVUK.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png"
-  },
-  {
-    "site_id": "CNITO",
-    "name": "Cartoonito",
-    "lang": "pt",
-    "xmltv_id": "Cartoonito.pt@SD",
-    "logo": "https://i.imgur.com/6vYWCD0.png"
-  },
-  {
-    "site_id": "CASACOZ",
-    "name": "Casa e Cozinha",
-    "lang": "pt",
-    "xmltv_id": "CasaeCozinha.pt@SD",
-    "logo": "https://i.imgur.com/DMRkYYx.png"
-  },
-  {
-    "site_id": "SLBHD",
-    "name": "BTV",
-    "lang": "pt",
-    "xmltv_id": "BenficaTV.pt@SD",
-    "logo": "https://i.imgur.com/l6LACto.png"
-  },
-  {
-    "site_id": "DISNY",
-    "name": "Disney Channel",
-    "lang": "pt",
-    "xmltv_id": "DisneyChannel.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "site_id": "EROXHD",
-    "name": "Erox HD",
-    "lang": "pt",
-    "xmltv_id": "EroX.nl@SD",
-    "logo": "https://i.imgur.com/B9Fz9Yr.png"
-  },
-  {
-    "site_id": "HISTHD",
-    "name": "História",
-    "lang": "pt",
-    "xmltv_id": "Historia.pt@SD",
-    "logo": "https://i.imgur.com/VUy8xIG.png"
-  },
-  {
-    "site_id": "TAGES24",
-    "name": "Tagesschau24",
-    "lang": "pt",
-    "xmltv_id": "tagesschau24.de@SD",
-    "logo": "https://i.imgur.com/LH0Gctv.png"
-  },
-  {
-    "site_id": "TELESUR",
-    "name": "Telesur HD",
-    "lang": "pt",
-    "xmltv_id": "Telesur.ve@SD",
-    "logo": "https://i.imgur.com/P50VjRX.png"
-  },
-  {
-    "site_id": "BNT4",
-    "name": "BNT 4",
-    "lang": "pt",
-    "xmltv_id": "BNT4.bg@SD",
-    "logo": "https://i.imgur.com/Lw8b3yu.png"
-  },
-  {
-    "site_id": "HOLHD",
-    "name": "Hollywood",
-    "lang": "pt",
-    "xmltv_id": "CanalHollywood.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/960px-HWD_logo.svg.png"
-  },
-  {
-    "site_id": "CNNPT",
-    "name": "CNN Portugal",
-    "lang": "pt",
-    "xmltv_id": "CNNPortugal.pt@SD",
-    "logo": "https://i.imgur.com/bc6tYVZ.png"
-  },
-  {
-    "site_id": "DAYSTAI",
-    "name": "Daystar (I)",
-    "lang": "pt",
-    "xmltv_id": "DaystarTV.us@SD",
-    "logo": "https://i.imgur.com/IjzCv8f.png"
-  },
-  {
-    "site_id": "FR24I",
-    "name": "France 24 (I)",
-    "lang": "en",
-    "xmltv_id": "France24.fr@English",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
+    "xmltv_id": "KBSWorld.kr@SD",
+    "logo": "https://i.imgur.com/7DqgELX.png"
   },
   {
     "site_id": "SPT3HD",
@@ -1049,6 +335,13 @@
     "logo": "https://i.imgur.com/6Dw3GUx.png"
   },
   {
+    "site_id": "STARLIF",
+    "name": "STAR Life",
+    "lang": "pt",
+    "xmltv_id": "StarLife.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png"
+  },
+  {
     "site_id": "TRTWHD",
     "name": "TRT World",
     "lang": "en",
@@ -1056,259 +349,63 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"
   },
   {
-    "site_id": "18",
-    "name": "18",
+    "site_id": "ZDF",
+    "name": "ZDF",
     "lang": "pt",
-    "logo": "https://i.imgur.com/EBFXFnm.png"
+    "xmltv_id": "ZDF.de@SD",
+    "logo": "https://i.imgur.com/rtLb6m9.png"
   },
   {
-    "site_id": "HGTV",
-    "name": "Home \u0026 Garden TV",
-    "lang": "pt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/960px-HGTV_logo.svg.png"
-  },
-  {
-    "site_id": "NOVOT",
-    "name": "NOVO TEMPO",
-    "lang": "pt",
-    "xmltv_id": "NovoTempoPortugal.pt@SD",
-    "logo": "https://i.imgur.com/5mSzvXt.png"
-  },
-  {
-    "site_id": "ITALIA",
-    "name": "RAI Itália",
-    "lang": "pt",
-    "xmltv_id": "RaiItalia.it@EuropeAfrica",
-    "logo": "https://i.imgur.com/1nN4rEP.png"
-  },
-  {
-    "site_id": "SIC",
-    "name": "SIC",
-    "lang": "pt",
-    "xmltv_id": "SIC.pt@SD",
-    "logo": "https://i.imgur.com/SPMqiDG.png"
-  },
-  {
-    "site_id": "SICM",
-    "name": "SIC Mulher",
-    "lang": "pt",
-    "xmltv_id": "SICMulher.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png"
-  },
-  {
-    "site_id": "SICNOV",
-    "name": "SIC Novelas",
-    "lang": "pt",
-    "xmltv_id": "SICNovelas.pt@SD",
-    "logo": "https://i.ibb.co/5hQrgqd/SICNovelas.png"
-  },
-  {
-    "site_id": "RETRO",
-    "name": "Stingray Retro",
-    "lang": "pt",
-    "xmltv_id": "StingrayRetro.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Stingray_Retro.png"
-  },
-  {
-    "site_id": "KBS",
-    "name": "KBS World",
-    "lang": "en",
-    "xmltv_id": "KBSWorld.kr@SD",
-    "logo": "https://i.imgur.com/7DqgELX.png"
-  },
-  {
-    "site_id": "VEJA",
-    "name": "Veja",
+    "site_id": "ONETORO",
+    "name": "OneToro TV",
     "lang": "pt"
   },
   {
-    "site_id": "ALMALUS",
-    "name": "Alma Lusa",
-    "lang": "pt",
-    "xmltv_id": "AlmaLusa.pt@SD",
-    "logo": "https://i.imgur.com/LnLFf8D.png"
+    "site_id": "OPTO",
+    "name": "OPTO",
+    "lang": "pt"
   },
   {
-    "site_id": "BLOOM",
-    "name": "Bloomberg",
+    "site_id": "FR24F",
+    "name": "France 24 (F)",
     "lang": "pt",
-    "xmltv_id": "BloombergTV.us@Europe",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
+    "xmltv_id": "France24.fr@French",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
   },
   {
-    "site_id": "ARD",
-    "name": "ARD",
+    "site_id": "RTP1",
+    "name": "RTP1",
     "lang": "pt",
-    "xmltv_id": "DasErste.de@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"
+    "xmltv_id": "RTP1.pt@SD",
+    "logo": "https://i.imgur.com/w7GV86i.png"
   },
   {
-    "site_id": "EURS2HD",
-    "name": "Eurosport 2",
+    "site_id": "TVCEDIH",
+    "name": "TVCine Edition",
     "lang": "pt",
-    "xmltv_id": "Eurosport2.fr@France",
-    "logo": "https://i.imgur.com/f56dHgR.png"
+    "xmltv_id": "TVCineEdition.pt@SD",
+    "logo": "https://i.imgur.com/G2pYTem.png"
   },
   {
-    "site_id": "RAINEWS",
-    "name": "RAI News",
+    "site_id": "AZORES",
+    "name": "Azores TV",
     "lang": "pt",
-    "xmltv_id": "RaiNews24.it@SD",
-    "logo": "https://i.imgur.com/n2u57y3.png"
+    "xmltv_id": "VITECAzoresTV.pt@SD",
+    "logo": "https://i.imgur.com/NaDX3sm.png"
   },
   {
-    "site_id": "RECNEW",
-    "name": "Record News",
+    "site_id": "AXNMHD",
+    "name": "AXN Movies HD",
     "lang": "pt",
-    "xmltv_id": "RecordNews.br@SD",
-    "logo": "https://i.imgur.com/HZDRG0K.png"
+    "xmltv_id": "AXNMovies.pt@SD",
+    "logo": "https://i.imgur.com/tJQckal.png"
   },
   {
-    "site_id": "ARTV",
-    "name": "ARTV",
+    "site_id": "STARCOM",
+    "name": "STAR Comedy",
     "lang": "pt",
-    "xmltv_id": "ARTV.pt@SD",
-    "logo": "https://i.imgur.com/y00t9hr.png"
-  },
-  {
-    "site_id": "AXWHD",
-    "name": "AXN White HD",
-    "lang": "pt",
-    "xmltv_id": "AXNWhite.us@Portugal",
-    "logo": "https://i.imgur.com/47IKxmt.png"
-  },
-  {
-    "site_id": "CNN",
-    "name": "CNN",
-    "lang": "pt",
-    "xmltv_id": "CNNInternational.us@MENA",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "DAZN3",
-    "name": "DAZN 3",
-    "lang": "pt",
-    "xmltv_id": "DAZN3.uk@Portugal",
-    "logo": "https://i.imgur.com/2rXsq2m.png"
-  },
-  {
-    "site_id": "DISCVHD",
-    "name": "Discovery Channel",
-    "lang": "pt",
-    "xmltv_id": "DiscoveryChannel.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "DISNYJ",
-    "name": "Disney Junior",
-    "lang": "pt",
-    "xmltv_id": "DisneyJunior.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
-  },
-  {
-    "site_id": "HOTMAN",
-    "name": "HOT Man",
-    "lang": "pt",
-    "xmltv_id": "HOTMan.pt@SD",
-    "logo": "https://i.imgur.com/mp0TOqv.png"
-  },
-  {
-    "site_id": "REC HD",
-    "name": "Record Europa",
-    "lang": "pt",
-    "xmltv_id": "RecordTVEuropa.pt@SD",
-    "logo": "https://i.imgur.com/DvxfBTE.png"
-  },
-  {
-    "site_id": "AMCHD",
-    "name": "AMC",
-    "lang": "pt",
-    "xmltv_id": "AMCEurope.uk@Portugal",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"
-  },
-  {
-    "site_id": "ARIRANG",
-    "name": "Arirang TV",
-    "lang": "pt",
-    "xmltv_id": "ArirangTV.kr@SD",
-    "logo": "https://i.imgur.com/Asu5pE9.png"
-  },
-  {
-    "site_id": "BABYT",
-    "name": "Baby TV",
-    "lang": "pt",
-    "xmltv_id": "BabyTV.uk@UK",
-    "logo": "https://i.imgur.com/4BDJ5FT.png"
-  },
-  {
-    "site_id": "HOTHD",
-    "name": "HOT",
-    "lang": "pt",
-    "xmltv_id": "HOT.pt@SD",
-    "logo": "https://i.imgur.com/DMlcjvU.png"
-  },
-  {
-    "site_id": "HUSTLER",
-    "name": "Hustler HD",
-    "lang": "pt",
-    "xmltv_id": "HustlerHD.nl@SD",
-    "logo": "https://i.imgur.com/41Ej2io.png"
-  },
-  {
-    "site_id": "I24I",
-    "name": "i24 News (I)",
-    "lang": "pt",
-    "xmltv_id": "i24NEWSEnglishWorld.il@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png"
-  },
-  {
-    "site_id": "RTP2",
-    "name": "RTP2",
-    "lang": "pt",
-    "xmltv_id": "RTP2.pt@SD",
-    "logo": "https://i.imgur.com/T6WUqdn.png"
-  },
-  {
-    "site_id": "SKYN",
-    "name": "Sky News",
-    "lang": "en",
-    "xmltv_id": "SkyNewsInternational.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Sky_News_logo.svg"
-  },
-  {
-    "site_id": "AMCCRI",
-    "name": "AMC Crime",
-    "lang": "pt",
-    "xmltv_id": "AMCCrime.pt@SD",
-    "logo": "https://i.imgur.com/zTujTRr.png"
-  },
-  {
-    "site_id": "ENGLISH",
-    "name": "English Club TV",
-    "lang": "pt",
-    "xmltv_id": "EnglishClubTV.uk@SD",
-    "logo": "https://i.imgur.com/9FMvaRK.png"
-  },
-  {
-    "site_id": "LVTVHD",
-    "name": "Localvisão TV",
-    "lang": "pt",
-    "xmltv_id": "LocalVisaoTV.pt@SD",
-    "logo": "https://i.imgur.com/IxU1pnb.png"
-  },
-  {
-    "site_id": "SCPHD",
-    "name": "Sporting TV HD",
-    "lang": "pt",
-    "xmltv_id": "SportingTV.pt@SD",
-    "logo": "https://i.imgur.com/GOlNfTo.png"
-  },
-  {
-    "site_id": "STARCRI",
-    "name": "STAR Crime",
-    "lang": "pt",
-    "xmltv_id": "StarCrime.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png"
+    "xmltv_id": "StarComedy.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png"
   },
   {
     "site_id": "ICOHD",
@@ -1318,39 +415,51 @@
     "logo": "https://i.imgur.com/GKc7RFz.png"
   },
   {
-    "site_id": "LOUD",
-    "name": "Stingray Loud",
+    "site_id": "TELESUR",
+    "name": "Telesur HD",
     "lang": "pt",
-    "xmltv_id": "StingrayLoud.ca@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Stingray_Loud.jpg"
+    "xmltv_id": "Telesur.ve@SD",
+    "logo": "https://i.imgur.com/P50VjRX.png"
   },
   {
-    "site_id": "TVCTOPH",
-    "name": "TVCine Top",
+    "site_id": "TVI",
+    "name": "TVI",
     "lang": "pt",
-    "xmltv_id": "TVCineTop.pt@SD",
-    "logo": "https://i.imgur.com/uMmmK0s.png"
+    "xmltv_id": "TVI.pt@SD",
+    "logo": "https://i.imgur.com/H8Tgl7m.png"
   },
   {
-    "site_id": "TVE24HD",
-    "name": "TVE24",
-    "lang": "pt",
-    "xmltv_id": "24Horas.es@SD",
-    "logo": "https://i.ibb.co/21sXZ3GT/24h.png"
+    "site_id": "VEJA",
+    "name": "Veja",
+    "lang": "pt"
   },
   {
-    "site_id": "CGTNDHD",
-    "name": "CGTN Documentary",
+    "site_id": "AMCBRE",
+    "name": "AMC Break",
     "lang": "pt",
-    "xmltv_id": "CGTNDocumentary.cn@SD",
-    "logo": "https://i.imgur.com/JHv0WxM.png"
+    "xmltv_id": "AMCBreak.pt@SD",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/512"
   },
   {
-    "site_id": "DAZN1",
-    "name": "DAZN 1",
+    "site_id": "BIGGS",
+    "name": "Biggs",
     "lang": "pt",
-    "xmltv_id": "DAZN1.uk@Portugal",
-    "logo": "https://i.imgur.com/2Z2EmZF.png"
+    "xmltv_id": "Biggs.pt@SD",
+    "logo": "https://i.imgur.com/ANPP7FW.png"
+  },
+  {
+    "site_id": "DISNY",
+    "name": "Disney Channel",
+    "lang": "pt",
+    "xmltv_id": "DisneyChannel.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+  },
+  {
+    "site_id": "KVARTV",
+    "name": "Kvartal TV International",
+    "lang": "pt",
+    "xmltv_id": "KvartalTV.ua@SD",
+    "logo": "https://i.imgur.com/6ZYWizP.png"
   },
   {
     "site_id": "MCMTHD",
@@ -1360,25 +469,60 @@
     "logo": "https://i.imgur.com/EVtWQLd.png"
   },
   {
-    "site_id": "SPT2HD",
-    "name": "Sport TV2",
+    "site_id": "NGHD",
+    "name": "National Geographic",
     "lang": "pt",
-    "xmltv_id": "SportTV2.pt@SD",
-    "logo": "https://i.imgur.com/0jSR6yG.png"
+    "xmltv_id": "NationalGeographic.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
   },
   {
-    "site_id": "STARCHA",
-    "name": "STAR Channel",
+    "site_id": "STORIA",
+    "name": "RAI Storia",
     "lang": "pt",
-    "xmltv_id": "StarChannel.pt@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"
+    "xmltv_id": "RaiStoria.it@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png"
   },
   {
-    "site_id": "SYFHD",
-    "name": "SyFy",
+    "site_id": "CGTNHD",
+    "name": "CGTN",
     "lang": "pt",
-    "xmltv_id": "Syfy.pt@SD",
-    "logo": "https://i.imgur.com/4fMWhUE.png"
+    "xmltv_id": "CGTN.cn@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
+  },
+  {
+    "site_id": "RAI2",
+    "name": "RAI 2",
+    "lang": "pt",
+    "xmltv_id": "Rai2.it@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "RAI3",
+    "name": "RAI 3",
+    "lang": "pt",
+    "xmltv_id": "Rai3.it@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "STARCIN",
+    "name": "Star Cinema",
+    "lang": "pt",
+    "xmltv_id": "StarCinema.ua@SD",
+    "logo": "https://i.imgur.com/5sis895.png"
+  },
+  {
+    "site_id": "CLASSIC",
+    "name": "Stingray Classica",
+    "lang": "pt",
+    "xmltv_id": "StingrayClassica.ca@SD",
+    "logo": "https://i.imgur.com/nh1k5RC.png"
+  },
+  {
+    "site_id": "UNIFE",
+    "name": "Unifé TV",
+    "lang": "pt",
+    "xmltv_id": "UnifeTV.pt@SD",
+    "logo": "https://i.imgur.com/0gFp6Xr.png"
   },
   {
     "site_id": "XSPORT",
@@ -1388,16 +532,109 @@
     "logo": "https://i.imgur.com/CHDcfrT.png"
   },
   {
-    "site_id": "ONETORO",
-    "name": "OneToro TV",
-    "lang": "pt"
+    "site_id": "BABYT",
+    "name": "Baby TV",
+    "lang": "pt",
+    "xmltv_id": "BabyTV.uk@UK",
+    "logo": "https://i.imgur.com/4BDJ5FT.png"
   },
   {
-    "site_id": "KANUCA",
-    "name": "Kanuca TV",
+    "site_id": "C11",
+    "name": "11",
     "lang": "pt",
-    "xmltv_id": "KanucaTV.ao@SD",
-    "logo": "https://i.imgur.com/D3BcTWU.png"
+    "xmltv_id": "Canal11.pt@SD",
+    "logo": "https://i.imgur.com/mbQCGm5.png"
+  },
+  {
+    "site_id": "EURS2HD",
+    "name": "Eurosport 2",
+    "lang": "pt",
+    "xmltv_id": "Eurosport2.fr@France",
+    "logo": "https://i.imgur.com/f56dHgR.png"
+  },
+  {
+    "site_id": "RTPM",
+    "name": "RTP Memória",
+    "lang": "pt",
+    "xmltv_id": "RTPMemoria.pt@SD",
+    "logo": "https://i.imgur.com/jCpfdiJ.png"
+  },
+  {
+    "site_id": "SPT5HD",
+    "name": "Sport TV5",
+    "lang": "pt",
+    "xmltv_id": "SportTV5.pt@SD",
+    "logo": "https://i.imgur.com/4w4vuad.png"
+  },
+  {
+    "site_id": "TRAHD",
+    "name": "Trace Urban",
+    "lang": "pt",
+    "xmltv_id": "TraceUrban.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669893cbac4421ebc53368b/images/logo_20231219_223537_68.png"
+  },
+  {
+    "site_id": "ZEETV",
+    "name": "Zee TV",
+    "lang": "pt",
+    "xmltv_id": "ZeeTVUK.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png"
+  },
+  {
+    "site_id": "ARTV",
+    "name": "ARTV",
+    "lang": "pt",
+    "xmltv_id": "ARTV.pt@SD",
+    "logo": "https://i.imgur.com/y00t9hr.png"
+  },
+  {
+    "site_id": "BFMB",
+    "name": "BFM Business",
+    "lang": "pt",
+    "xmltv_id": "BFMBusiness.fr@SD",
+    "logo": "https://i.imgur.com/psqIHn4.png"
+  },
+  {
+    "site_id": "SICR",
+    "name": "SIC Radical",
+    "lang": "pt",
+    "xmltv_id": "SICRadical.pt@SD",
+    "logo": "https://i.imgur.com/6g0obyk.png"
+  },
+  {
+    "site_id": "CNOVA",
+    "name": "Canção Nova",
+    "lang": "pt",
+    "xmltv_id": "TVCancaoNova.pt@SD",
+    "logo": "https://i.imgur.com/rSmwbkj.png"
+  },
+  {
+    "site_id": "VENUS",
+    "name": "Venus",
+    "lang": "pt",
+    "xmltv_id": "Venus.ar@SD",
+    "logo": "https://i.imgur.com/4LFXPMk.png"
+  },
+  {
+    "site_id": "VIXEN",
+    "name": "VIXEN",
+    "lang": "pt",
+    "xmltv_id": "VixenTV.ca@SD",
+    "logo": "https://i.imgur.com/5Iq2h96.png"
+  },
+  {
+    "site_id": "DAYSTAI",
+    "name": "Daystar (I)",
+    "lang": "pt",
+    "xmltv_id": "DaystarTV.us@SD",
+    "logo": "https://i.imgur.com/IjzCv8f.png"
+  },
+  {
+    "site_id": "REC HD",
+    "name": "Record Europa",
+    "lang": "pt",
+    "xmltv_id": "RecordTVEuropa.pt@SD",
+    "logo": "https://i.imgur.com/DvxfBTE.png"
   },
   {
     "site_id": "TCV",
@@ -1414,25 +651,64 @@
     "logo": "https://i.imgur.com/rPAbMSu.png"
   },
   {
-    "site_id": "TVA",
-    "name": "Televisão África",
+    "site_id": "HGTV",
+    "name": "Home \u0026 Garden TV",
     "lang": "pt",
-    "xmltv_id": "TVA.cv@SD",
-    "logo": "https://i.imgur.com/KwSxDjm.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/960px-HGTV_logo.svg.png"
   },
   {
-    "site_id": "MAANAIM",
-    "name": "TV Maanaim",
+    "site_id": "STARMOV",
+    "name": "STAR Movies",
     "lang": "pt",
-    "xmltv_id": "TVMaanaim.br@SD",
-    "logo": "https://i.imgur.com/PZhdHvf.png"
+    "xmltv_id": "StarMovies.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png"
   },
   {
-    "site_id": "BBC W",
-    "name": "BBC World News",
+    "site_id": "RETRO",
+    "name": "Stingray Retro",
     "lang": "pt",
-    "xmltv_id": "BBCNews.uk@Europe",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
+    "xmltv_id": "StingrayRetro.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Stingray_Retro.png"
+  },
+  {
+    "site_id": "TLC",
+    "name": "TLC",
+    "lang": "pt",
+    "xmltv_id": "TLC.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
+  },
+  {
+    "site_id": "TRAXP",
+    "name": "Travelxp HD",
+    "lang": "pt",
+    "xmltv_id": "Travelxp.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "KURIAKO",
+    "name": "Kuriakos TV",
+    "lang": "pt",
+    "xmltv_id": "KuriakosTV.pt@SD",
+    "logo": "https://i.imgur.com/xdAW0D5.png"
+  },
+  {
+    "site_id": "LOLLY",
+    "name": "Lolly Kids",
+    "lang": "pt",
+    "xmltv_id": "LollyKids.uk@SD",
+    "logo": "https://i.imgur.com/DOpgaBe.png"
+  },
+  {
+    "site_id": "ZEECIN",
+    "name": "Zee Cinema",
+    "lang": "pt",
+    "xmltv_id": "ZeeCinema.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "site_id": "NEWBR",
+    "name": "New Brasil",
+    "lang": "pt"
   },
   {
     "site_id": "BVN",
@@ -1442,24 +718,748 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/960px-BVN_logo.svg.png"
   },
   {
-    "site_id": "CMTV",
-    "name": "CMTV",
+    "site_id": "GNEWS",
+    "name": "Globo News",
     "lang": "pt",
-    "xmltv_id": "CMTV.pt@SD",
-    "logo": "https://i.imgur.com/QFLqg8y.png"
+    "xmltv_id": "GloboNews.br@SD",
+    "logo": "https://i.imgur.com/3yZyaCm.png"
   },
   {
-    "site_id": "DIZI",
-    "name": "Dizi Channel",
+    "site_id": "NEWSNOW",
+    "name": "News Now",
     "lang": "pt",
-    "xmltv_id": "TimelessDiziChannel.ro@SD",
-    "logo": "https://i.imgur.com/s3Sqd4L.png"
+    "xmltv_id": "NewsNow.pt@SD",
+    "logo": "https://i.imgur.com/e1S1M6H.png"
   },
   {
-    "site_id": "AZORES",
-    "name": "Azores TV",
+    "site_id": "GLOB",
+    "name": "Globo",
     "lang": "pt",
-    "xmltv_id": "VITECAzoresTV.pt@SD",
-    "logo": "https://i.imgur.com/NaDX3sm.png"
+    "xmltv_id": "RedeGlobo.br@SD",
+    "logo": "https://i.imgur.com/O02TF2r.png"
+  },
+  {
+    "site_id": "TVA",
+    "name": "Televisão África",
+    "lang": "pt",
+    "xmltv_id": "TVA.cv@SD",
+    "logo": "https://i.imgur.com/KwSxDjm.png"
+  },
+  {
+    "site_id": "24KTHD",
+    "name": "24Kitchen",
+    "lang": "pt",
+    "xmltv_id": "24Kitchen.us@Portugal",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png"
+  },
+  {
+    "site_id": "FR24I",
+    "name": "France 24 (I)",
+    "lang": "en",
+    "xmltv_id": "France24.fr@English",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "HOTTAB",
+    "name": "HOT Taboo",
+    "lang": "pt",
+    "xmltv_id": "HOTTaboo.pt@SD",
+    "logo": "https://i.imgur.com/vt1dtt7.png"
+  },
+  {
+    "site_id": "PANDAK",
+    "name": "Panda Kids",
+    "lang": "pt",
+    "xmltv_id": "PandaKids.pt@SD",
+    "logo": "https://i.imgur.com/6OP31oP.png"
+  },
+  {
+    "site_id": "PENTHG",
+    "name": "Penthouse Gold",
+    "lang": "pt",
+    "xmltv_id": "PenthouseGold.us@SD",
+    "logo": "https://i.imgur.com/0JufwBJ.png"
+  },
+  {
+    "site_id": "DEST",
+    "name": "MEO Destaques",
+    "lang": "pt"
+  },
+  {
+    "site_id": "DUCKTV",
+    "name": "Duck TV",
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/serbia/duck-tv-rs.png"
+  },
+  {
+    "site_id": "ABOLA",
+    "name": "A Bola",
+    "lang": "pt",
+    "xmltv_id": "ABolaTV.pt@SD",
+    "logo": "https://i.imgur.com/IP1NWeA.png"
+  },
+  {
+    "site_id": "KANUCA",
+    "name": "Kanuca TV",
+    "lang": "pt",
+    "xmltv_id": "KanucaTV.ao@SD",
+    "logo": "https://i.imgur.com/D3BcTWU.png"
+  },
+  {
+    "site_id": "SCPHD",
+    "name": "Sporting TV HD",
+    "lang": "pt",
+    "xmltv_id": "SportingTV.pt@SD",
+    "logo": "https://i.imgur.com/GOlNfTo.png"
+  },
+  {
+    "site_id": "CASACOZ",
+    "name": "Casa e Cozinha",
+    "lang": "pt",
+    "xmltv_id": "CasaeCozinha.pt@SD",
+    "logo": "https://i.imgur.com/DMRkYYx.png"
+  },
+  {
+    "site_id": "HUSTLER",
+    "name": "Hustler HD",
+    "lang": "pt",
+    "xmltv_id": "HustlerHD.nl@SD",
+    "logo": "https://i.imgur.com/41Ej2io.png"
+  },
+  {
+    "site_id": "RECNEW",
+    "name": "Record News",
+    "lang": "pt",
+    "xmltv_id": "RecordNews.br@SD",
+    "logo": "https://i.imgur.com/HZDRG0K.png"
+  },
+  {
+    "site_id": "SICC",
+    "name": "SIC Caras",
+    "lang": "pt",
+    "xmltv_id": "SICCaras.pt@SD",
+    "logo": "https://i.imgur.com/di3sIto.png"
+  },
+  {
+    "site_id": "SPT7HD",
+    "name": "Sport TV7",
+    "lang": "pt",
+    "xmltv_id": "SportTV7.pt@SD",
+    "logo": "https://i.imgur.com/2HmCAm5.png"
+  },
+  {
+    "site_id": "TVCACTH",
+    "name": "TVCine Action",
+    "lang": "pt",
+    "xmltv_id": "TVCineAction.pt@SD",
+    "logo": "https://i.imgur.com/fsQ6dMR.png"
+  },
+  {
+    "site_id": "QHD",
+    "name": "Q",
+    "lang": "pt",
+    "xmltv_id": "CanalQ.pt@SD",
+    "logo": "https://i.imgur.com/OovTKqv.png"
+  },
+  {
+    "site_id": "CCTV4HD",
+    "name": "CCTV4",
+    "lang": "pt",
+    "xmltv_id": "CCTV4Europe.cn@SD",
+    "logo": "https://i.imgur.com/HGLFdfk.png"
+  },
+  {
+    "site_id": "NOVOT",
+    "name": "NOVO TEMPO",
+    "lang": "pt",
+    "xmltv_id": "NovoTempoPortugal.pt@SD",
+    "logo": "https://i.imgur.com/5mSzvXt.png"
+  },
+  {
+    "site_id": "1E1UNEW",
+    "name": "1+1 United News",
+    "lang": "pt",
+    "xmltv_id": "1Plus1International.ua",
+    "logo": "https://i.imgur.com/LOY0rtp.png"
+  },
+  {
+    "site_id": "CART",
+    "name": "Cartoon Network",
+    "lang": "pt",
+    "xmltv_id": "CartoonNetworkWesternEurope.uk@Portugal",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "site_id": "TVGAL",
+    "name": "TV Galícia",
+    "lang": "pt",
+    "xmltv_id": "GaliciaTVEuropa.es@SD",
+    "logo": "https://i.imgur.com/dvkzH8n.png"
+  },
+  {
+    "site_id": "HOTHD",
+    "name": "HOT",
+    "lang": "pt",
+    "xmltv_id": "HOT.pt@SD",
+    "logo": "https://i.imgur.com/DMlcjvU.png"
+  },
+  {
+    "site_id": "M6",
+    "name": "M6",
+    "lang": "pt",
+    "xmltv_id": "M6International.fr@SD",
+    "logo": "https://i.imgur.com/67KIo8a.png"
+  },
+  {
+    "site_id": "MEZHD",
+    "name": "Mezzo Live HD",
+    "lang": "pt",
+    "xmltv_id": "MezzoLive.fr@SD",
+    "logo": "https://i.imgur.com/H9ytKPN.png"
+  },
+  {
+    "site_id": "RAINEWS",
+    "name": "RAI News",
+    "lang": "pt",
+    "xmltv_id": "RaiNews24.it@SD",
+    "logo": "https://i.imgur.com/n2u57y3.png"
+  },
+  {
+    "site_id": "RTPN",
+    "name": "RTP Notícias",
+    "lang": "pt",
+    "xmltv_id": "RTPNoticias.pt@HD",
+    "logo": "https://i.imgur.com/Bm2XEHH.png"
+  },
+  {
+    "site_id": "18",
+    "name": "18",
+    "lang": "pt",
+    "logo": "https://i.imgur.com/EBFXFnm.png"
+  },
+  {
+    "site_id": "CGTNDHD",
+    "name": "CGTN Documentary",
+    "lang": "pt",
+    "xmltv_id": "CGTNDocumentary.cn@SD",
+    "logo": "https://i.imgur.com/JHv0WxM.png"
+  },
+  {
+    "site_id": "KIKA",
+    "name": "KIKA",
+    "lang": "pt",
+    "xmltv_id": "KiKA.de@SD",
+    "logo": "https://i.imgur.com/vZdNp5S.png"
+  },
+  {
+    "site_id": "STARCRI",
+    "name": "STAR Crime",
+    "lang": "pt",
+    "xmltv_id": "StarCrime.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png"
+  },
+  {
+    "site_id": "DJAZZ",
+    "name": "Stingray Djazz",
+    "lang": "pt",
+    "xmltv_id": "StingrayDJAZZ.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png"
+  },
+  {
+    "site_id": "TVCEMOH",
+    "name": "TVCine Emotion",
+    "lang": "pt",
+    "xmltv_id": "TVCineEmotion.pt@SD",
+    "logo": "https://i.imgur.com/5yfDDx3.png"
+  },
+  {
+    "site_id": "VMAISTVI",
+    "name": "V+ TVI",
+    "lang": "pt",
+    "xmltv_id": "VPlusTVI.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png"
+  },
+  {
+    "site_id": "BNT4",
+    "name": "BNT 4",
+    "lang": "pt",
+    "xmltv_id": "BNT4.bg@SD",
+    "logo": "https://i.imgur.com/Lw8b3yu.png"
+  },
+  {
+    "site_id": "DAZN2",
+    "name": "DAZN 2",
+    "lang": "pt",
+    "xmltv_id": "DAZN2.uk@Portugal",
+    "logo": "https://i.imgur.com/OGj3qf5.png"
+  },
+  {
+    "site_id": "FTV4K",
+    "name": "Fashion TV 4K",
+    "lang": "pt",
+    "xmltv_id": "FashionTVUHD.fr@SD",
+    "logo": "https://i.imgur.com/vQuyyWO.png"
+  },
+  {
+    "site_id": "FRINFO",
+    "name": "France Info",
+    "lang": "pt",
+    "xmltv_id": "Franceinfo.fr@SD",
+    "logo": "https://i.imgur.com/eITXz6A.png"
+  },
+  {
+    "site_id": "I24F",
+    "name": "i24 News (F)",
+    "lang": "pt",
+    "xmltv_id": "i24NEWSFrench.il@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png"
+  },
+  {
+    "site_id": "MAANAIM",
+    "name": "TV Maanaim",
+    "lang": "pt",
+    "xmltv_id": "TVMaanaim.br@SD",
+    "logo": "https://i.imgur.com/PZhdHvf.png"
+  },
+  {
+    "site_id": "WSPORT",
+    "name": "W Sport",
+    "lang": "pt",
+    "xmltv_id": "WSport.za@SD",
+    "logo": "https://i.imgur.com/K4GDwMp.png"
+  },
+  {
+    "site_id": "ZDFNEO",
+    "name": "ZDFNEO",
+    "lang": "pt",
+    "xmltv_id": "ZDFneo.de@SD",
+    "logo": "https://i.imgur.com/1JIIGgL.png"
+  },
+  {
+    "site_id": "ARIRANG",
+    "name": "Arirang TV",
+    "lang": "pt",
+    "xmltv_id": "ArirangTV.kr@SD",
+    "logo": "https://i.imgur.com/Asu5pE9.png"
+  },
+  {
+    "site_id": "BLOOM",
+    "name": "Bloomberg",
+    "lang": "pt",
+    "xmltv_id": "BloombergTV.us@Europe",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
+  },
+  {
+    "site_id": "SICM",
+    "name": "SIC Mulher",
+    "lang": "pt",
+    "xmltv_id": "SICMulher.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png"
+  },
+  {
+    "site_id": "SETAS",
+    "name": "SET Asia",
+    "lang": "pt",
+    "xmltv_id": "SonyEntertainmentTelevisionAsia.in@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Sony_TV_new.png/960px-Sony_TV_new.png"
+  },
+  {
+    "site_id": "SPT6HD",
+    "name": "Sport TV6",
+    "lang": "pt",
+    "xmltv_id": "SportTV6.pt@SD",
+    "logo": "https://i.imgur.com/qmlQkyI.png"
+  },
+  {
+    "site_id": "LOUD",
+    "name": "Stingray Loud",
+    "lang": "pt",
+    "xmltv_id": "StingrayLoud.ca@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Stingray_Loud.jpg"
+  },
+  {
+    "site_id": "TVIR",
+    "name": "TVI Reality",
+    "lang": "pt",
+    "xmltv_id": "TVIReality.pt@SD",
+    "logo": "https://i.imgur.com/C9rxqA5.png"
+  },
+  {
+    "site_id": "CONTALA",
+    "name": "Conta Lá",
+    "lang": "pt",
+    "xmltv_id": "ContaLa.pt@HD",
+    "logo": "https://i.imgur.com/EAoLV35.png"
+  },
+  {
+    "site_id": "PORTO",
+    "name": "Porto Canal",
+    "lang": "pt",
+    "xmltv_id": "PortoCanal.pt@SD",
+    "logo": "https://i.imgur.com/DwziwMY.png"
+  },
+  {
+    "site_id": "SPT4HD",
+    "name": "Sport TV4",
+    "lang": "pt",
+    "xmltv_id": "SportTV4.pt@SD",
+    "logo": "https://i.imgur.com/mJlbVfW.png"
+  },
+  {
+    "site_id": "SPTVHD",
+    "name": "Sport TV +",
+    "lang": "pt",
+    "xmltv_id": "SportTVPlus.pt@SD",
+    "logo": "https://i.imgur.com/R5FZEW6.png"
+  },
+  {
+    "site_id": "CAÇAVHD",
+    "name": "Caçavision",
+    "lang": "pt",
+    "logo": "https://i.imgur.com/PbgTxWw.png"
+  },
+  {
+    "site_id": "GALERIA",
+    "name": "Galeria",
+    "lang": "pt"
+  },
+  {
+    "site_id": "TVE24HD",
+    "name": "TVE24",
+    "lang": "pt",
+    "xmltv_id": "24Horas.es@SD",
+    "logo": "https://i.ibb.co/21sXZ3GT/24h.png"
+  },
+  {
+    "site_id": "ARTEHD",
+    "name": "Arte",
+    "lang": "pt",
+    "xmltv_id": "arte.fr@SD",
+    "logo": "https://i.imgur.com/ecXMjNl.png"
+  },
+  {
+    "site_id": "AXWHD",
+    "name": "AXN White HD",
+    "lang": "pt",
+    "xmltv_id": "AXNWhite.us@Portugal",
+    "logo": "https://i.imgur.com/47IKxmt.png"
+  },
+  {
+    "site_id": "BFM",
+    "name": "BFM TV",
+    "lang": "pt",
+    "xmltv_id": "BFMTV.fr@SD",
+    "logo": "https://i.imgur.com/YJCcczD.png"
+  },
+  {
+    "site_id": "UME",
+    "name": "UM Europa",
+    "lang": "pt",
+    "xmltv_id": "CanalUmEuropa.pt@SD",
+    "logo": "https://i.imgur.com/4C9bzpM.png"
+  },
+  {
+    "site_id": "DAZN3",
+    "name": "DAZN 3",
+    "lang": "pt",
+    "xmltv_id": "DAZN3.uk@Portugal",
+    "logo": "https://i.imgur.com/2rXsq2m.png"
+  },
+  {
+    "site_id": "3SAT",
+    "name": "3SAT",
+    "lang": "pt",
+    "xmltv_id": "3sat.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png"
+  },
+  {
+    "site_id": "CNN",
+    "name": "CNN",
+    "lang": "pt",
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "CONECTV",
+    "name": "Conectv",
+    "lang": "pt",
+    "xmltv_id": "ConecTVAlgarve.pt@SD",
+    "logo": "https://i.imgur.com/dhWE9Gy.jpeg"
+  },
+  {
+    "site_id": "DAZN1",
+    "name": "DAZN 1",
+    "lang": "pt",
+    "xmltv_id": "DAZN1.uk@Portugal",
+    "logo": "https://i.imgur.com/2Z2EmZF.png"
+  },
+  {
+    "site_id": "ENGLISH",
+    "name": "English Club TV",
+    "lang": "pt",
+    "xmltv_id": "EnglishClubTV.uk@SD",
+    "logo": "https://i.imgur.com/9FMvaRK.png"
+  },
+  {
+    "site_id": "GAMET",
+    "name": "Gametoon",
+    "lang": "pt",
+    "xmltv_id": "Gametoon.nl@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png"
+  },
+  {
+    "site_id": "HISTHD",
+    "name": "História",
+    "lang": "pt",
+    "xmltv_id": "Historia.pt@SD",
+    "logo": "https://i.imgur.com/VUy8xIG.png"
+  },
+  {
+    "site_id": "MCM P",
+    "name": "MCM Pop",
+    "lang": "pt",
+    "xmltv_id": "MCMPop.fr@SD",
+    "logo": "https://i.imgur.com/j31lBL7.png"
+  },
+  {
+    "site_id": "HOLHD",
+    "name": "Hollywood",
+    "lang": "pt",
+    "xmltv_id": "CanalHollywood.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/960px-HWD_logo.svg.png"
+  },
+  {
+    "site_id": "ARD",
+    "name": "ARD",
+    "lang": "pt",
+    "xmltv_id": "DasErste.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png"
+  },
+  {
+    "site_id": "FREEDOM",
+    "name": "Freedom",
+    "lang": "pt",
+    "xmltv_id": "FREEDOM.ua@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png"
+  },
+  {
+    "site_id": "HOTMAN",
+    "name": "HOT Man",
+    "lang": "pt",
+    "xmltv_id": "HOTMan.pt@SD",
+    "logo": "https://i.imgur.com/mp0TOqv.png"
+  },
+  {
+    "site_id": "ID",
+    "name": "Investigation Discovery",
+    "lang": "pt",
+    "xmltv_id": "InvestigationDiscoveryEurope.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
+    "site_id": "MEZZO",
+    "name": "Mezzo",
+    "lang": "pt",
+    "xmltv_id": "Mezzo.fr@SD",
+    "logo": "https://i.imgur.com/auNdGeW.png"
+  },
+  {
+    "site_id": "SEXTRM",
+    "name": "SexTreme",
+    "lang": "pt",
+    "xmltv_id": "Sextreme.br@SD",
+    "logo": "https://i.imgur.com/jWsW2Rd.png"
+  },
+  {
+    "site_id": "SIC",
+    "name": "SIC",
+    "lang": "pt",
+    "xmltv_id": "SIC.pt@SD",
+    "logo": "https://i.imgur.com/SPMqiDG.png"
+  },
+  {
+    "site_id": "HOTGO",
+    "name": "HOTGO",
+    "lang": "pt"
+  },
+  {
+    "site_id": "DORCEL",
+    "name": "Dorcel TV",
+    "lang": "pt",
+    "xmltv_id": "DorcelTV.nl@SD",
+    "logo": "https://i.imgur.com/RkzyjEd.png"
+  },
+  {
+    "site_id": "RUSSTHD",
+    "name": "Russia Today",
+    "lang": "pt",
+    "xmltv_id": "RT.ru@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RT/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "RTP2",
+    "name": "RTP2",
+    "lang": "pt",
+    "xmltv_id": "RTP2.pt@SD",
+    "logo": "https://i.imgur.com/T6WUqdn.png"
+  },
+  {
+    "site_id": "SICN",
+    "name": "SIC Notícias",
+    "lang": "pt",
+    "xmltv_id": "SICNoticias.pt@SD",
+    "logo": "https://i.imgur.com/Gi6Q26M.png"
+  },
+  {
+    "site_id": "SKYN",
+    "name": "Sky News",
+    "lang": "en",
+    "xmltv_id": "SkyNewsInternational.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Sky_News_logo.svg"
+  },
+  {
+    "site_id": "SMAISHD",
+    "name": "S+",
+    "lang": "pt",
+    "xmltv_id": "SPlus.pt@SD",
+    "logo": "https://i.imgur.com/Vy7PRuq.png"
+  },
+  {
+    "site_id": "STARCHA",
+    "name": "STAR Channel",
+    "lang": "pt",
+    "xmltv_id": "StarChannel.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"
+  },
+  {
+    "site_id": "AFRO",
+    "name": "Afro Music",
+    "lang": "pt",
+    "xmltv_id": "AfroMusicChannel.ao@SD",
+    "logo": "https://i.imgur.com/LsLxTBp.png"
+  },
+  {
+    "site_id": "ALMALUS",
+    "name": "Alma Lusa",
+    "lang": "pt",
+    "xmltv_id": "AlmaLusa.pt@SD",
+    "logo": "https://i.imgur.com/LnLFf8D.png"
+  },
+  {
+    "site_id": "SLBHD",
+    "name": "BTV",
+    "lang": "pt",
+    "xmltv_id": "BenficaTV.pt@SD",
+    "logo": "https://i.imgur.com/l6LACto.png"
+  },
+  {
+    "site_id": "CNNPT",
+    "name": "CNN Portugal",
+    "lang": "pt",
+    "xmltv_id": "CNNPortugal.pt@SD",
+    "logo": "https://i.imgur.com/bc6tYVZ.png"
+  },
+  {
+    "site_id": "DISCVHD",
+    "name": "Discovery Channel",
+    "lang": "pt",
+    "xmltv_id": "DiscoveryChannel.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "NICKJR",
+    "name": "Nick Jr.",
+    "lang": "pt",
+    "xmltv_id": "NickJr.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "SICK",
+    "name": "SIC K",
+    "lang": "pt",
+    "xmltv_id": "SICK.pt@SD",
+    "logo": "https://i.imgur.com/ypTCVsB.png"
+  },
+  {
+    "site_id": "TVEIHD",
+    "name": "TVEi",
+    "lang": "pt",
+    "xmltv_id": "TVEInternacionalEuropeAsia.es@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png"
+  },
+  {
+    "site_id": "1E1INT",
+    "name": "1+1 International",
+    "lang": "pt",
+    "xmltv_id": "1Plus1International.ua@SD",
+    "logo": "https://i.imgur.com/LOY0rtp.png"
+  },
+  {
+    "site_id": "AMCCRI",
+    "name": "AMC Crime",
+    "lang": "pt",
+    "xmltv_id": "AMCCrime.pt@SD",
+    "logo": "https://i.imgur.com/zTujTRr.png"
+  },
+  {
+    "site_id": "DAZN5",
+    "name": "DAZN 5",
+    "lang": "pt",
+    "xmltv_id": "DAZN5.uk@Portugal",
+    "logo": "https://i.imgur.com/HD2XaeS.png"
+  },
+  {
+    "site_id": "EURN",
+    "name": "Euronews",
+    "lang": "pt",
+    "xmltv_id": "EuronewsPortuguese.fr@SD",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/73b5e777-8a44-4def-8e33-be43f7f8177c/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png"
+  },
+  {
+    "site_id": "FIGHTSP",
+    "name": "Fight Sports",
+    "lang": "pt",
+    "xmltv_id": "FightSports.us@SD",
+    "logo": "https://i.imgur.com/nV55veq.png"
+  },
+  {
+    "site_id": "PHCNE",
+    "name": "Phoenix CNE",
+    "lang": "pt",
+    "xmltv_id": "PhoenixCNEChannel.hk@SD",
+    "logo": "https://i.imgur.com/tYr9IVZ.png"
+  },
+  {
+    "site_id": "ITALIA",
+    "name": "RAI Itália",
+    "lang": "pt",
+    "xmltv_id": "RaiItalia.it@EuropeAfrica",
+    "logo": "https://i.imgur.com/1nN4rEP.png"
+  },
+  {
+    "site_id": "RTPA",
+    "name": "RTP África",
+    "lang": "pt",
+    "xmltv_id": "RTPAfrica.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_%C3%81frica_2016_%28Reduced_Version%29.svg/960px-RTP_%C3%81frica_2016_%28Reduced_Version%29.svg.png"
+  },
+  {
+    "site_id": "CAÇAPHD",
+    "name": "Caça e Pesca",
+    "lang": "pt"
+  },
+  {
+    "site_id": "AXNHD",
+    "name": "AXN HD",
+    "lang": "pt",
+    "xmltv_id": "AXN.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
+  },
+  {
+    "site_id": "BBC W",
+    "name": "BBC World News",
+    "lang": "pt",
+    "xmltv_id": "BBCNews.uk@Europe",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
   }
 ]

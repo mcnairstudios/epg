@@ -1,19 +1,5 @@
 [
   {
-    "site_id": "ENA",
-    "name": "ENA",
-    "lang": "ko",
-    "xmltv_id": "ENA.kr@SD",
-    "logo": "https://i.imgur.com/RwMmbtD.png"
-  },
-  {
-    "site_id": "ENA_PLAY",
-    "name": "ENA PLAY",
-    "lang": "ko",
-    "xmltv_id": "ENAPLAY.kr@SD",
-    "logo": "https://i.imgur.com/Ksc8IHf.png"
-  },
-  {
     "site_id": "kidstalktalkplus",
     "name": "kids talk talk plus",
     "lang": "ko",
@@ -40,5 +26,19 @@
     "lang": "ko",
     "xmltv_id": "skyUHD.kr@SD",
     "logo": "https://i.imgur.com/WPoAok9.png"
+  },
+  {
+    "site_id": "ENA",
+    "name": "ENA",
+    "lang": "ko",
+    "xmltv_id": "ENA.kr@SD",
+    "logo": "https://i.imgur.com/RwMmbtD.png"
+  },
+  {
+    "site_id": "ENA_PLAY",
+    "name": "ENA PLAY",
+    "lang": "ko",
+    "xmltv_id": "ENAPLAY.kr@SD",
+    "logo": "https://i.imgur.com/Ksc8IHf.png"
   }
 ]

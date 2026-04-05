@@ -1,12 +1,5 @@
 [
   {
-    "site_id": "rai-1",
-    "name": "RAI 1",
-    "lang": "it",
-    "xmltv_id": "Rai1.it@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
-  },
-  {
     "site_id": "rai-2",
     "name": "RAI 2",
     "lang": "it",
@@ -14,74 +7,11 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png"
   },
   {
-    "site_id": "rai-4",
-    "name": "RAI 4",
-    "lang": "it",
-    "xmltv_id": "Rai4.it@SD",
-    "logo": "https://i.imgur.com/sEY21rg.png"
-  },
-  {
     "site_id": "rai-movie",
     "name": "RAI MOVIE",
     "lang": "it",
     "xmltv_id": "RaiMovie.it@SD",
     "logo": "https://i.imgur.com/0FjxXU9.png"
-  },
-  {
-    "site_id": "rai-news-24",
-    "name": "RAI NEWS 24",
-    "lang": "it",
-    "xmltv_id": "RaiNews24.it@SD",
-    "logo": "https://i.imgur.com/n2u57y3.png"
-  },
-  {
-    "site_id": "rai-radio-2",
-    "name": "RAI RADIO 2",
-    "lang": "it",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-radio-2-it.png"
-  },
-  {
-    "site_id": "rai-storia",
-    "name": "RAI STORIA",
-    "lang": "it",
-    "xmltv_id": "RaiStoria.it@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png"
-  },
-  {
-    "site_id": "rai-yoyo",
-    "name": "RAI YOYO",
-    "lang": "it",
-    "xmltv_id": "RaiYoyo.it@SD",
-    "logo": "https://i.imgur.com/9gCxiDy.png"
-  },
-  {
-    "site_id": "raiplay",
-    "name": "RAIPLAY",
-    "lang": "it"
-  },
-  {
-    "site_id": "raiplay-2",
-    "name": "RAIPLAY 2",
-    "lang": "it"
-  },
-  {
-    "site_id": "raiplay-3",
-    "name": "RAIPLAY 3",
-    "lang": "it"
-  },
-  {
-    "site_id": "rai-gulp",
-    "name": "RAI GULP",
-    "lang": "it",
-    "xmltv_id": "RaiGulp.it@SD",
-    "logo": "https://i.imgur.com/irAhPJM.png"
-  },
-  {
-    "site_id": "rai-scuola",
-    "name": "RAI SCUOLA",
-    "lang": "it",
-    "xmltv_id": "RaiScuola.it@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png"
   },
   {
     "site_id": "rai-sport",
@@ -105,10 +35,80 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png"
   },
   {
+    "site_id": "rai-gulp",
+    "name": "RAI GULP",
+    "lang": "it",
+    "xmltv_id": "RaiGulp.it@SD",
+    "logo": "https://i.imgur.com/irAhPJM.png"
+  },
+  {
+    "site_id": "rai-news-24",
+    "name": "RAI NEWS 24",
+    "lang": "it",
+    "xmltv_id": "RaiNews24.it@SD",
+    "logo": "https://i.imgur.com/n2u57y3.png"
+  },
+  {
     "site_id": "rai-premium",
     "name": "RAI PREMIUM",
     "lang": "it",
     "xmltv_id": "RaiPremium.it@SD",
     "logo": "https://i.imgur.com/40g5Urz.png"
+  },
+  {
+    "site_id": "rai-radio-2",
+    "name": "RAI RADIO 2",
+    "lang": "it",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/italy/rai-radio-2-it.png"
+  },
+  {
+    "site_id": "raiplay-2",
+    "name": "RAIPLAY 2",
+    "lang": "it"
+  },
+  {
+    "site_id": "rai-1",
+    "name": "RAI 1",
+    "lang": "it",
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "rai-4",
+    "name": "RAI 4",
+    "lang": "it",
+    "xmltv_id": "Rai4.it@SD",
+    "logo": "https://i.imgur.com/sEY21rg.png"
+  },
+  {
+    "site_id": "rai-storia",
+    "name": "RAI STORIA",
+    "lang": "it",
+    "xmltv_id": "RaiStoria.it@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png"
+  },
+  {
+    "site_id": "rai-yoyo",
+    "name": "RAI YOYO",
+    "lang": "it",
+    "xmltv_id": "RaiYoyo.it@SD",
+    "logo": "https://i.imgur.com/9gCxiDy.png"
+  },
+  {
+    "site_id": "raiplay",
+    "name": "RAIPLAY",
+    "lang": "it"
+  },
+  {
+    "site_id": "raiplay-3",
+    "name": "RAIPLAY 3",
+    "lang": "it"
+  },
+  {
+    "site_id": "rai-scuola",
+    "name": "RAI SCUOLA",
+    "lang": "it",
+    "xmltv_id": "RaiScuola.it@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png"
   }
 ]

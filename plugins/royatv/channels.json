@@ -1,15 +1,43 @@
 [
   {
+    "site_id": "21",
+    "name": "Roya News",
+    "lang": "ar",
+    "xmltv_id": "RoyaNews.jo@SD",
+    "logo": "https://i.imgur.com/afowXIe.png"
+  },
+  {
+    "site_id": "25",
+    "name": "Roya Music",
+    "lang": "ar",
+    "xmltv_id": "RoyaMusic.jo@SD",
+    "logo": "https://i.imgur.com/7ixeqBF.png"
+  },
+  {
+    "site_id": "27",
+    "name": "Roya Kids Songs",
+    "lang": "ar",
+    "xmltv_id": "RoyaKidsSongs.jo@SD",
+    "logo": "https://i.imgur.com/3wIzEcs.png"
+  },
+  {
     "site_id": "48",
     "name": "Roya Sport",
     "lang": "ar"
   },
   {
-    "site_id": "3",
-    "name": "Roya Comedy",
+    "site_id": "4",
+    "name": "Roya Kitchen",
     "lang": "ar",
-    "xmltv_id": "RoyaComedy.jo@SD",
-    "logo": "https://i.imgur.com/oIThcM8.png"
+    "xmltv_id": "RoyaKitchen.jo@SD",
+    "logo": "https://i.imgur.com/lWfh8pP.png"
+  },
+  {
+    "site_id": "14",
+    "name": "Roya Kids",
+    "lang": "ar",
+    "xmltv_id": "RoyaKids.jo@SD",
+    "logo": "https://i.imgur.com/acuCGF8.png"
   },
   {
     "site_id": "38",
@@ -31,38 +59,10 @@
     "logo": "https://i.imgur.com/V7I0MVf.png"
   },
   {
-    "site_id": "4",
-    "name": "Roya Kitchen",
+    "site_id": "3",
+    "name": "Roya Comedy",
     "lang": "ar",
-    "xmltv_id": "RoyaKitchen.jo@SD",
-    "logo": "https://i.imgur.com/lWfh8pP.png"
-  },
-  {
-    "site_id": "14",
-    "name": "Roya Kids",
-    "lang": "ar",
-    "xmltv_id": "RoyaKids.jo@SD",
-    "logo": "https://i.imgur.com/acuCGF8.png"
-  },
-  {
-    "site_id": "21",
-    "name": "Roya News",
-    "lang": "ar",
-    "xmltv_id": "RoyaNews.jo@SD",
-    "logo": "https://i.imgur.com/afowXIe.png"
-  },
-  {
-    "site_id": "25",
-    "name": "Roya Music",
-    "lang": "ar",
-    "xmltv_id": "RoyaMusic.jo@SD",
-    "logo": "https://i.imgur.com/7ixeqBF.png"
-  },
-  {
-    "site_id": "27",
-    "name": "Roya Kids Songs",
-    "lang": "ar",
-    "xmltv_id": "RoyaKidsSongs.jo@SD",
-    "logo": "https://i.imgur.com/3wIzEcs.png"
+    "xmltv_id": "RoyaComedy.jo@SD",
+    "logo": "https://i.imgur.com/oIThcM8.png"
   }
 ]

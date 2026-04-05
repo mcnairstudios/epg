@@ -1,5 +1,19 @@
 [
   {
+    "site_id": "#",
+    "name": "افلام 1",
+    "lang": "ar",
+    "xmltv_id": "ARTAflam1.sa@SD",
+    "logo": "https://i.imgur.com/aeY4ax8.png"
+  },
+  {
+    "site_id": "#Aflam2",
+    "name": "افلام 2",
+    "lang": "ar",
+    "xmltv_id": "ARTAflam2.sa@SD",
+    "logo": "https://i.imgur.com/icE2WOw.png"
+  },
+  {
     "site_id": "#Cinema",
     "name": "سينما",
     "lang": "ar",
@@ -19,19 +33,5 @@
     "lang": "ar",
     "xmltv_id": "ARTHekayat2.sa@SD",
     "logo": "https://i.imgur.com/EfzfrOL.png"
-  },
-  {
-    "site_id": "#",
-    "name": "افلام 1",
-    "lang": "ar",
-    "xmltv_id": "ARTAflam1.sa@SD",
-    "logo": "https://i.imgur.com/aeY4ax8.png"
-  },
-  {
-    "site_id": "#Aflam2",
-    "name": "افلام 2",
-    "lang": "ar",
-    "xmltv_id": "ARTAflam2.sa@SD",
-    "logo": "https://i.imgur.com/icE2WOw.png"
   }
 ]

@@ -1,113 +1,10 @@
 [
   {
-    "site_id": "shandong",
-    "name": "山东卫视",
-    "lang": "zh",
-    "xmltv_id": "ShandongTV.cn@SD",
-    "logo": "https://i.imgur.com/t3ICc4i.png"
-  },
-  {
-    "site_id": "huanqiuqiguan",
-    "name": "环球奇观",
-    "lang": "zh",
-    "xmltv_id": "SuperChannel.cn@SD",
-    "logo": "https://i.imgur.com/oLgm0xI.png"
-  },
-  {
-    "site_id": "hubei",
-    "name": "湖北卫视",
-    "lang": "zh",
-    "xmltv_id": "HubeiSatelliteTV.cn@SD",
-    "logo": "https://i.imgur.com/CTRa9BJ.png"
-  },
-  {
-    "site_id": "anhui",
-    "name": "安徽卫视",
-    "lang": "zh",
-    "xmltv_id": "AnhuiTV.cn@SD",
-    "logo": "https://i.imgur.com/gDn101f.png"
-  },
-  {
-    "site_id": "btv7",
-    "name": "BTV生活",
-    "lang": "zh",
-    "xmltv_id": "BRTVLifeChannel.cn@SD",
-    "logo": "https://i.imgur.com/Bg05fxY.png"
-  },
-  {
-    "site_id": "chongqing",
-    "name": "重庆卫视",
-    "lang": "zh"
-  },
-  {
-    "site_id": "tianjin",
-    "name": "天津卫视",
-    "lang": "zh",
-    "xmltv_id": "TianjinTV.cn@SD",
-    "logo": "https://i.imgur.com/Bg24eaH.png"
-  },
-  {
-    "site_id": "cctveurope",
-    "name": "CCTV 4 Europe",
-    "lang": "zh",
-    "xmltv_id": "CCTV4Europe.cn@SD",
-    "logo": "https://i.imgur.com/HGLFdfk.png"
-  },
-  {
-    "site_id": "cctv12",
-    "name": "CCTV 12",
-    "lang": "zh",
-    "xmltv_id": "CCTV12.cn@SD",
-    "logo": "https://i.imgur.com/3yTuiOM.png"
-  },
-  {
-    "site_id": "cctv13",
-    "name": "CCTV 13",
-    "lang": "zh",
-    "xmltv_id": "CCTV13.cn@SD",
-    "logo": "https://i.imgur.com/6MTar6J.png"
-  },
-  {
-    "site_id": "cetv2",
-    "name": "CETV 2",
-    "lang": "zh",
-    "xmltv_id": "CETV2.cn@SD",
-    "logo": "https://i.imgur.com/ZD8XPmw.png"
-  },
-  {
-    "site_id": "wsjk",
-    "name": "卫生健康",
-    "lang": "zh",
-    "xmltv_id": "CCTVHealth.cn@SD",
-    "logo": "https://i.imgur.com/AzpRtCz.png"
-  },
-  {
-    "site_id": "jilin",
-    "name": "吉林卫视",
-    "lang": "zh",
-    "xmltv_id": "JilinTVStation.cn@SD",
-    "logo": "https://i.imgur.com/CikxiyB.png"
-  },
-  {
-    "site_id": "wushushijie",
-    "name": "武术世界",
-    "lang": "zh",
-    "xmltv_id": "MartialArtsWorld.cn@SD",
-    "logo": "https://i.imgur.com/Z7aSwv8.png"
-  },
-  {
     "site_id": "btv4",
     "name": "BTV影视",
     "lang": "zh",
     "xmltv_id": "BRTVFilmTelevisionChannel.cn@SD",
     "logo": "https://i.imgur.com/S6XVVbH.png"
-  },
-  {
-    "site_id": "btvjishi",
-    "name": "BTV纪实",
-    "lang": "zh",
-    "xmltv_id": "BRTVWinterOlympicsDocumentaryChannel.cn@SD",
-    "logo": "https://i.imgur.com/X1CQGpD.png"
   },
   {
     "site_id": "cctv2",
@@ -117,471 +14,11 @@
     "logo": "https://i.imgur.com/ILamhwU.png"
   },
   {
-    "site_id": "cctv5",
-    "name": "CCTV 5",
-    "lang": "zh",
-    "xmltv_id": "CCTV5.cn@SD",
-    "logo": "https://i.imgur.com/nbmnGwE.png"
-  },
-  {
-    "site_id": "cctv7",
-    "name": "CCTV 7",
-    "lang": "zh",
-    "xmltv_id": "CCTV7.cn@SD",
-    "logo": "https://i.imgur.com/CKcPMQC.png"
-  },
-  {
-    "site_id": "cctvyule",
-    "name": "CCTV娱乐",
-    "lang": "zh",
-    "xmltv_id": "CCTVEntertainment.cn@SD",
-    "logo": "https://i.imgur.com/GRbTW53.png"
-  },
-  {
-    "site_id": "cdtv1",
-    "name": "成都新闻综合",
-    "lang": "zh",
-    "xmltv_id": "CDTV1.cn@SD",
-    "logo": "https://i.imgur.com/B4RzrDk.png"
-  },
-  {
-    "site_id": "cdtv2new",
-    "name": "成都经济资讯服务",
-    "lang": "zh",
-    "xmltv_id": "CDTV2.cn@SD",
-    "logo": "https://i.imgur.com/VybrHW5.png"
-  },
-  {
-    "site_id": "btv5",
-    "name": "BTV财经",
-    "lang": "zh",
-    "xmltv_id": "BRTVFinancialChannel.cn@SD",
-    "logo": "https://i.imgur.com/Ry0JHYW.png"
-  },
-  {
-    "site_id": "btv9",
-    "name": "BTV新闻",
-    "lang": "zh",
-    "xmltv_id": "BRTVNewsChannel.cn@SD",
-    "logo": "https://i.imgur.com/QwORUF9.png"
-  },
-  {
-    "site_id": "btvchild",
-    "name": "BTV卡酷少儿",
-    "lang": "zh",
-    "xmltv_id": "BRTVKakuChildrensChannel.cn@SD",
-    "logo": "https://i.imgur.com/t8X4wPZ.png"
-  },
-  {
-    "site_id": "cctvlaogushi",
-    "name": "CCTV老故事",
-    "lang": "zh",
-    "xmltv_id": "CCTV.us",
-    "logo": "https://i.imgur.com/WK3keM9.png"
-  },
-  {
-    "site_id": "nbtv2",
-    "name": "宁波二套",
-    "lang": "zh",
-    "xmltv_id": "NBTV2.cn@SD",
-    "logo": "https://i.imgur.com/fpOlkDs.png"
-  },
-  {
-    "site_id": "travel",
-    "name": "旅游卫视",
-    "lang": "zh",
-    "xmltv_id": "HainanSatelliteTV.cn@SD",
-    "logo": "https://i.imgur.com/j6kY8nh.png"
-  },
-  {
-    "site_id": "zhinan",
-    "name": "CCTV电视指南",
-    "lang": "zh",
-    "xmltv_id": "CCTVTVGuide.cn@SD",
-    "logo": "https://i.imgur.com/U73Q4NW.png"
-  },
-  {
-    "site_id": "dianshigouwu",
-    "name": "CCTV中视购物",
-    "lang": "zh",
-    "xmltv_id": "CCTVChinaTelevisionShoppingChannel.cn@SD",
-    "logo": "https://i.imgur.com/ToJBJg4.png"
-  },
-  {
-    "site_id": "shenzhen",
-    "name": "深圳卫视",
-    "lang": "zh",
-    "xmltv_id": "ShenzhenTV.cn@SD",
-    "logo": "https://i.imgur.com/AnZjWm4.png"
-  },
-  {
-    "site_id": "sichuan",
-    "name": "四川卫视",
-    "lang": "zh",
-    "xmltv_id": "SichuanTV1.cn@SD",
-    "logo": "https://i.imgur.com/Crapy6M.png"
-  },
-  {
-    "site_id": "taiqiu",
-    "name": "CCTV央视台球",
-    "lang": "zh",
-    "xmltv_id": "CCTVBilliards.cn@SD",
-    "logo": "https://i.imgur.com/WK3keM9.png"
-  },
-  {
-    "site_id": "wenwubaoku",
-    "name": "文物宝库",
-    "lang": "zh",
-    "xmltv_id": "LiyuanTV.cn@SD",
-    "logo": "https://i.imgur.com/5mn4PJn.png"
-  },
-  {
-    "site_id": "xinjiang",
-    "name": "新疆卫视",
-    "lang": "zh",
-    "xmltv_id": "XizangTVChinese.cn@SD",
-    "logo": "https://i.imgur.com/V0v3ST5.png"
-  },
-  {
-    "site_id": "xizang",
-    "name": "西藏卫视",
-    "lang": "zh",
-    "xmltv_id": "XizangTVTibetan.cn@SD",
-    "logo": "https://i.imgur.com/NtvfnVV.png"
-  },
-  {
-    "site_id": "cctvjilu",
-    "name": "CCTV 9",
-    "lang": "zh",
-    "xmltv_id": "CCTV9.cn@SD",
-    "logo": "https://i.imgur.com/3tivvMm.png"
-  },
-  {
-    "site_id": "jiangxi",
-    "name": "江西卫视",
-    "lang": "zh",
-    "xmltv_id": "JiangxiTV.cn@SD",
-    "logo": "https://i.imgur.com/RrLthH3.png"
-  },
-  {
-    "site_id": "shijiedili",
-    "name": "CCTV世界地理",
-    "lang": "zh",
-    "xmltv_id": "CCTVWorldGeography.cn@SD",
-    "logo": "https://i.imgur.com/V2ncOXi.png"
-  },
-  {
-    "site_id": "xinkedongman",
-    "name": "CCTV新科动漫",
-    "lang": "zh",
-    "xmltv_id": "CCTV.us",
-    "logo": "https://i.imgur.com/WK3keM9.png"
-  },
-  {
-    "site_id": "cctvchild",
-    "name": "CCTV 14",
-    "lang": "zh",
-    "xmltv_id": "CCTV14.cn@SD",
-    "logo": "https://i.imgur.com/c5SXW7i.png"
-  },
-  {
-    "site_id": "cctvfyzq",
-    "name": "CCTV风云足球",
-    "lang": "zh",
-    "xmltv_id": "CCTVStormFootball.cn@SD",
-    "logo": "https://i.imgur.com/Fy6HkX0.png"
-  },
-  {
-    "site_id": "fyyy",
-    "name": "CCTV风云音乐",
-    "lang": "zh",
-    "xmltv_id": "CCTVStormMusic.cn@SD",
-    "logo": "https://i.imgur.com/IiiRmrf.png"
-  },
-  {
-    "site_id": "nbtv4",
-    "name": "宁波四套",
-    "lang": "zh",
-    "xmltv_id": "NBTV4.cn@SD",
-    "logo": "https://i.imgur.com/BPy1jif.png"
-  },
-  {
-    "site_id": "qinghai",
-    "name": "青海卫视",
-    "lang": "zh",
-    "xmltv_id": "QinghaiTV.cn@SD",
-    "logo": "https://i.imgur.com/Nyuxo8S.png"
-  },
-  {
-    "site_id": "yunnan",
-    "name": "云南卫视",
-    "lang": "zh",
-    "xmltv_id": "YunnanTV1.cn@SD",
-    "logo": "https://i.imgur.com/POV1PUV.png"
-  },
-  {
-    "site_id": "btv2",
-    "name": "BTV文艺",
-    "lang": "zh",
-    "xmltv_id": "BRTVArtsChannel.cn@SD",
-    "logo": "https://i.imgur.com/5nimp0q.png"
-  },
-  {
     "site_id": "cctv3",
     "name": "CCTV 3",
     "lang": "zh",
     "xmltv_id": "CCTV3.cn@SD",
     "logo": "https://i.imgur.com/iFlkIuw.png"
-  },
-  {
-    "site_id": "cctv15",
-    "name": "CCTV 15",
-    "lang": "zh",
-    "xmltv_id": "CCTV15.cn@SD",
-    "logo": "https://i.imgur.com/CCV0eRG.png"
-  },
-  {
-    "site_id": "cctvamerica",
-    "name": "CCTV 4 America",
-    "lang": "zh",
-    "xmltv_id": "CCTV4America.cn@SD",
-    "logo": "https://i.imgur.com/gBbLyqh.png"
-  },
-  {
-    "site_id": "cetv3",
-    "name": "CETV 3",
-    "lang": "zh",
-    "xmltv_id": "CETV3.cn@SD",
-    "logo": "https://i.imgur.com/nkXzRJ6.png"
-  },
-  {
-    "site_id": "tianyuanweiqi",
-    "name": "天元围棋",
-    "lang": "zh",
-    "xmltv_id": "TianyuanIGoChannel.cn@SD",
-    "logo": "https://i.imgur.com/zCBOnxL.png"
-  },
-  {
-    "site_id": "zhejiang",
-    "name": "浙江卫视",
-    "lang": "zh",
-    "xmltv_id": "ZhejiangSatelliteTV.cn@SD",
-    "logo": "https://i.imgur.com/NFFQNhq.png"
-  },
-  {
-    "site_id": "guangdong",
-    "name": "广东卫视",
-    "lang": "zh",
-    "xmltv_id": "GuangdongSatelliteTV.cn@SD",
-    "logo": "https://parco-zh.github.io/demo/guangdong.jpg"
-  },
-  {
-    "site_id": "cctv1",
-    "name": "CCTV 1",
-    "lang": "zh",
-    "xmltv_id": "CCTV1.cn@SD",
-    "logo": "https://i.imgur.com/TpA3cUl.png"
-  },
-  {
-    "site_id": "cctv8",
-    "name": "CCTV 8",
-    "lang": "zh",
-    "xmltv_id": "CCTV8.cn@SD",
-    "logo": "https://i.imgur.com/GyHaZ8X.png"
-  },
-  {
-    "site_id": "diyijuchang",
-    "name": "CCTV第一剧场",
-    "lang": "zh",
-    "xmltv_id": "CCTVTheFirstTheater.cn@SD",
-    "logo": "https://i.imgur.com/eFxD3hq.png"
-  },
-  {
-    "site_id": "gansu",
-    "name": "甘肃卫视",
-    "lang": "zh",
-    "xmltv_id": "GansuTV.cn@SD",
-    "logo": "https://i.imgur.com/dANSiug.png"
-  },
-  {
-    "site_id": "nbtv5",
-    "name": "宁波五套",
-    "lang": "zh",
-    "xmltv_id": "NBTV5.cn@SD",
-    "logo": "https://i.imgur.com/RStBo1O.png"
-  },
-  {
-    "site_id": "xiamen",
-    "name": "厦门卫视",
-    "lang": "zh",
-    "xmltv_id": "XiamenStarTVChina.cn@SD",
-    "logo": "https://i.imgur.com/vDwOXvz.png"
-  },
-  {
-    "site_id": "cctvqixiang",
-    "name": "CCTV气象",
-    "lang": "zh",
-    "xmltv_id": "CCTV.us",
-    "logo": "https://i.imgur.com/WK3keM9.png"
-  },
-  {
-    "site_id": "liaoning",
-    "name": "辽宁卫视",
-    "lang": "zh",
-    "xmltv_id": "LiaoningTV.cn@SD",
-    "logo": "https://i.imgur.com/XRfeNTd.png"
-  },
-  {
-    "site_id": "neimenggu",
-    "name": "内蒙古卫视",
-    "lang": "zh",
-    "xmltv_id": "NeiMonggolChineseTV.cn@SD",
-    "logo": "https://i.imgur.com/R4DWvBa.png"
-  },
-  {
-    "site_id": "shan1xi",
-    "name": "山西卫视",
-    "lang": "zh",
-    "xmltv_id": "ShanxiTV.cn@SD",
-    "logo": "https://i.imgur.com/UfKJBWW.png"
-  },
-  {
-    "site_id": "shishang",
-    "name": "CCTV女性时尚",
-    "lang": "zh",
-    "xmltv_id": "CCTVWomensFashion.cn@SD",
-    "logo": "https://i.imgur.com/FVbP0aP.png"
-  },
-  {
-    "site_id": "guangxi",
-    "name": "广西卫视",
-    "lang": "zh",
-    "xmltv_id": "GuangxiTV.cn@SD",
-    "logo": "https://i.imgur.com/dpre5Qs.png"
-  },
-  {
-    "site_id": "heilongjiang",
-    "name": "黑龙江卫视",
-    "lang": "zh",
-    "xmltv_id": "HeilongjiangTV.cn@SD",
-    "logo": "https://i.imgur.com/9fj1uba.png"
-  },
-  {
-    "site_id": "hjjc",
-    "name": "CCTV怀旧剧场",
-    "lang": "zh",
-    "xmltv_id": "CCTVNostalgiaTheater.cn@SD",
-    "logo": "https://i.imgur.com/TVs9PBc.png"
-  },
-  {
-    "site_id": "nbtv1",
-    "name": "宁波一套",
-    "lang": "zh",
-    "xmltv_id": "NBTV1.cn@SD",
-    "logo": "https://i.imgur.com/9P2iTld.png"
-  },
-  {
-    "site_id": "nbtv3",
-    "name": "宁波三套",
-    "lang": "zh",
-    "xmltv_id": "NBTV3.cn@SD",
-    "logo": "https://i.imgur.com/MKB2aaM.png"
-  },
-  {
-    "site_id": "ningxia",
-    "name": "宁夏卫视",
-    "lang": "zh",
-    "xmltv_id": "NingxiaSatelliteChannel.cn@SD",
-    "logo": "https://i.imgur.com/nUQE4Ib.png"
-  },
-  {
-    "site_id": "cctv6",
-    "name": "CCTV 6",
-    "lang": "zh",
-    "xmltv_id": "CCTV6.cn@SD",
-    "logo": "https://i.imgur.com/rFiaef7.png"
-  },
-  {
-    "site_id": "cctvqimo",
-    "name": "汽摩",
-    "lang": "zh"
-  },
-  {
-    "site_id": "cetv1",
-    "name": "CETV 1",
-    "lang": "zh",
-    "xmltv_id": "CETV1.cn@SD",
-    "logo": "https://i.imgur.com/6sOHLq8.png"
-  },
-  {
-    "site_id": "dongfang",
-    "name": "东方卫视",
-    "lang": "zh",
-    "xmltv_id": "DragonTV.cn@SD",
-    "logo": "https://i.imgur.com/WqM6xnF.png"
-  },
-  {
-    "site_id": "guizhou",
-    "name": "贵州卫视",
-    "lang": "zh",
-    "xmltv_id": "GuizhouTV.cn@SD",
-    "logo": "https://i.imgur.com/nkcKCdr.png"
-  },
-  {
-    "site_id": "youxijingji",
-    "name": "游戏竞技",
-    "lang": "zh",
-    "xmltv_id": "GTV.cn@SD",
-    "logo": "https://i.imgur.com/iyQBBgw.png"
-  },
-  {
-    "site_id": "cctv10",
-    "name": "CCTV 10",
-    "lang": "zh",
-    "xmltv_id": "CCTV10.cn@SD",
-    "logo": "https://i.imgur.com/sSSO7UD.png"
-  },
-  {
-    "site_id": "cctv11",
-    "name": "CCTV 11",
-    "lang": "zh",
-    "xmltv_id": "CCTV11.cn@SD",
-    "logo": "https://i.imgur.com/CjOWx7L.png"
-  },
-  {
-    "site_id": "fyjc",
-    "name": "CCTV风云剧场",
-    "lang": "zh",
-    "xmltv_id": "CCTVStormTheater.cn@SD",
-    "logo": "https://i.imgur.com/rEttkKm.png"
-  },
-  {
-    "site_id": "yanbian",
-    "name": "延边卫视",
-    "lang": "zh",
-    "xmltv_id": "YanbianTV1.cn@SD",
-    "logo": "https://i.imgur.com/gBUlAfX.png"
-  },
-  {
-    "site_id": "zaoqijiaoyu",
-    "name": "早期教育",
-    "lang": "zh",
-    "xmltv_id": "CETVEarlyEducation.cn@SD",
-    "logo": "https://i.imgur.com/Ey2MrAj.png"
-  },
-  {
-    "site_id": "btv3",
-    "name": "BTV科教",
-    "lang": "zh",
-    "xmltv_id": "BRTVScienceEducationChannel.cn@SD",
-    "logo": "https://i.imgur.com/q0qvOUe.png"
-  },
-  {
-    "site_id": "cctv5plus",
-    "name": "CCTV 5+",
-    "lang": "zh",
-    "xmltv_id": "CCTV5Plus.cn@SD",
-    "logo": "https://i.imgur.com/OK8mdJV.png"
   },
   {
     "site_id": "cctvgaowang",
@@ -598,11 +35,86 @@
     "logo": "https://i.imgur.com/IBW26kV.png"
   },
   {
-    "site_id": "hunan",
-    "name": "湖南卫视",
+    "site_id": "liaoning",
+    "name": "辽宁卫视",
     "lang": "zh",
-    "xmltv_id": "HunanTV.cn@SD",
-    "logo": "https://parco-zh.github.io/demo/HNWS.png"
+    "xmltv_id": "LiaoningTV.cn@SD",
+    "logo": "https://i.imgur.com/XRfeNTd.png"
+  },
+  {
+    "site_id": "wenwubaoku",
+    "name": "文物宝库",
+    "lang": "zh",
+    "xmltv_id": "LiyuanTV.cn@SD",
+    "logo": "https://i.imgur.com/5mn4PJn.png"
+  },
+  {
+    "site_id": "btv5",
+    "name": "BTV财经",
+    "lang": "zh",
+    "xmltv_id": "BRTVFinancialChannel.cn@SD",
+    "logo": "https://i.imgur.com/Ry0JHYW.png"
+  },
+  {
+    "site_id": "cctveurope",
+    "name": "CCTV 4 Europe",
+    "lang": "zh",
+    "xmltv_id": "CCTV4Europe.cn@SD",
+    "logo": "https://i.imgur.com/HGLFdfk.png"
+  },
+  {
+    "site_id": "cctvjilu",
+    "name": "CCTV 9",
+    "lang": "zh",
+    "xmltv_id": "CCTV9.cn@SD",
+    "logo": "https://i.imgur.com/3tivvMm.png"
+  },
+  {
+    "site_id": "cctvqimo",
+    "name": "汽摩",
+    "lang": "zh"
+  },
+  {
+    "site_id": "cctvqixiang",
+    "name": "CCTV气象",
+    "lang": "zh",
+    "xmltv_id": "CCTV.us",
+    "logo": "https://i.imgur.com/WK3keM9.png"
+  },
+  {
+    "site_id": "cctvyule",
+    "name": "CCTV娱乐",
+    "lang": "zh",
+    "xmltv_id": "CCTVEntertainment.cn@SD",
+    "logo": "https://i.imgur.com/GRbTW53.png"
+  },
+  {
+    "site_id": "cdtv1",
+    "name": "成都新闻综合",
+    "lang": "zh",
+    "xmltv_id": "CDTV1.cn@SD",
+    "logo": "https://i.imgur.com/B4RzrDk.png"
+  },
+  {
+    "site_id": "huanqiuqiguan",
+    "name": "环球奇观",
+    "lang": "zh",
+    "xmltv_id": "SuperChannel.cn@SD",
+    "logo": "https://i.imgur.com/oLgm0xI.png"
+  },
+  {
+    "site_id": "cdtv2new",
+    "name": "成都经济资讯服务",
+    "lang": "zh",
+    "xmltv_id": "CDTV2.cn@SD",
+    "logo": "https://i.imgur.com/VybrHW5.png"
+  },
+  {
+    "site_id": "cetv2",
+    "name": "CETV 2",
+    "lang": "zh",
+    "xmltv_id": "CETV2.cn@SD",
+    "logo": "https://i.imgur.com/ZD8XPmw.png"
   },
   {
     "site_id": "jiangsu",
@@ -611,30 +123,53 @@
     "xmltv_id": "JiangsuSatelliteTV.cn@SD"
   },
   {
-    "site_id": "jingpin",
-    "name": "CCTV央视文化精品",
+    "site_id": "neimenggu",
+    "name": "内蒙古卫视",
     "lang": "zh",
-    "xmltv_id": "CCTVCultureofQuality.cn@SD",
-    "logo": "https://i.imgur.com/Paig8gG.png"
+    "xmltv_id": "NeiMonggolChineseTV.cn@SD",
+    "logo": "https://i.imgur.com/R4DWvBa.png"
   },
   {
-    "site_id": "btv1",
-    "name": "北京卫视",
+    "site_id": "shijiedili",
+    "name": "CCTV世界地理",
     "lang": "zh",
-    "xmltv_id": "BeijingSatelliteTV.cn@SD",
-    "logo": "https://i.imgur.com/vsktAez.png"
+    "xmltv_id": "CCTVWorldGeography.cn@SD",
+    "logo": "https://i.imgur.com/V2ncOXi.png"
   },
   {
-    "site_id": "cctvliangzhuang",
-    "name": "靓妆",
+    "site_id": "wushushijie",
+    "name": "武术世界",
     "lang": "zh",
-    "xmltv_id": "JiangsuLiangMakeUp.cn@SD",
-    "logo": "https://i.imgur.com/LdBsMIV.png"
+    "xmltv_id": "MartialArtsWorld.cn@SD",
+    "logo": "https://i.imgur.com/Z7aSwv8.png"
   },
   {
-    "site_id": "dongnan",
-    "name": "东南卫视",
-    "lang": "zh"
+    "site_id": "cctv1",
+    "name": "CCTV 1",
+    "lang": "zh",
+    "xmltv_id": "CCTV1.cn@SD",
+    "logo": "https://i.imgur.com/TpA3cUl.png"
+  },
+  {
+    "site_id": "cetv1",
+    "name": "CETV 1",
+    "lang": "zh",
+    "xmltv_id": "CETV1.cn@SD",
+    "logo": "https://i.imgur.com/6sOHLq8.png"
+  },
+  {
+    "site_id": "cetv3",
+    "name": "CETV 3",
+    "lang": "zh",
+    "xmltv_id": "CETV3.cn@SD",
+    "logo": "https://i.imgur.com/nkXzRJ6.png"
+  },
+  {
+    "site_id": "dongfang",
+    "name": "东方卫视",
+    "lang": "zh",
+    "xmltv_id": "DragonTV.cn@SD",
+    "logo": "https://i.imgur.com/WqM6xnF.png"
   },
   {
     "site_id": "hebei",
@@ -644,10 +179,475 @@
     "logo": "https://i.imgur.com/Z5Ppzbi.png"
   },
   {
+    "site_id": "qinghai",
+    "name": "青海卫视",
+    "lang": "zh",
+    "xmltv_id": "QinghaiTV.cn@SD",
+    "logo": "https://i.imgur.com/Nyuxo8S.png"
+  },
+  {
+    "site_id": "youxijingji",
+    "name": "游戏竞技",
+    "lang": "zh",
+    "xmltv_id": "GTV.cn@SD",
+    "logo": "https://i.imgur.com/iyQBBgw.png"
+  },
+  {
+    "site_id": "cctv10",
+    "name": "CCTV 10",
+    "lang": "zh",
+    "xmltv_id": "CCTV10.cn@SD",
+    "logo": "https://i.imgur.com/sSSO7UD.png"
+  },
+  {
+    "site_id": "xizang",
+    "name": "西藏卫视",
+    "lang": "zh",
+    "xmltv_id": "XizangTVTibetan.cn@SD",
+    "logo": "https://i.imgur.com/NtvfnVV.png"
+  },
+  {
+    "site_id": "yanbian",
+    "name": "延边卫视",
+    "lang": "zh",
+    "xmltv_id": "YanbianTV1.cn@SD",
+    "logo": "https://i.imgur.com/gBUlAfX.png"
+  },
+  {
+    "site_id": "guangdong",
+    "name": "广东卫视",
+    "lang": "zh",
+    "xmltv_id": "GuangdongSatelliteTV.cn@SD",
+    "logo": "https://parco-zh.github.io/demo/guangdong.jpg"
+  },
+  {
+    "site_id": "jiangxi",
+    "name": "江西卫视",
+    "lang": "zh",
+    "xmltv_id": "JiangxiTV.cn@SD",
+    "logo": "https://i.imgur.com/RrLthH3.png"
+  },
+  {
+    "site_id": "tianyuanweiqi",
+    "name": "天元围棋",
+    "lang": "zh",
+    "xmltv_id": "TianyuanIGoChannel.cn@SD",
+    "logo": "https://i.imgur.com/zCBOnxL.png"
+  },
+  {
+    "site_id": "chongqing",
+    "name": "重庆卫视",
+    "lang": "zh"
+  },
+  {
+    "site_id": "dongnan",
+    "name": "东南卫视",
+    "lang": "zh"
+  },
+  {
     "site_id": "sdetv",
     "name": "山东教育台",
     "lang": "zh",
     "xmltv_id": "ShandongEducationTV.cn@SD",
     "logo": "https://i.imgur.com/yb10kF0.png"
+  },
+  {
+    "site_id": "wsjk",
+    "name": "卫生健康",
+    "lang": "zh",
+    "xmltv_id": "CCTVHealth.cn@SD",
+    "logo": "https://i.imgur.com/AzpRtCz.png"
+  },
+  {
+    "site_id": "xiamen",
+    "name": "厦门卫视",
+    "lang": "zh",
+    "xmltv_id": "XiamenStarTVChina.cn@SD",
+    "logo": "https://i.imgur.com/vDwOXvz.png"
+  },
+  {
+    "site_id": "zhejiang",
+    "name": "浙江卫视",
+    "lang": "zh",
+    "xmltv_id": "ZhejiangSatelliteTV.cn@SD",
+    "logo": "https://i.imgur.com/NFFQNhq.png"
+  },
+  {
+    "site_id": "anhui",
+    "name": "安徽卫视",
+    "lang": "zh",
+    "xmltv_id": "AnhuiTV.cn@SD",
+    "logo": "https://i.imgur.com/gDn101f.png"
+  },
+  {
+    "site_id": "cctv5",
+    "name": "CCTV 5",
+    "lang": "zh",
+    "xmltv_id": "CCTV5.cn@SD",
+    "logo": "https://i.imgur.com/nbmnGwE.png"
+  },
+  {
+    "site_id": "fyjc",
+    "name": "CCTV风云剧场",
+    "lang": "zh",
+    "xmltv_id": "CCTVStormTheater.cn@SD",
+    "logo": "https://i.imgur.com/rEttkKm.png"
+  },
+  {
+    "site_id": "fyyy",
+    "name": "CCTV风云音乐",
+    "lang": "zh",
+    "xmltv_id": "CCTVStormMusic.cn@SD",
+    "logo": "https://i.imgur.com/IiiRmrf.png"
+  },
+  {
+    "site_id": "cctv6",
+    "name": "CCTV 6",
+    "lang": "zh",
+    "xmltv_id": "CCTV6.cn@SD",
+    "logo": "https://i.imgur.com/rFiaef7.png"
+  },
+  {
+    "site_id": "hjjc",
+    "name": "CCTV怀旧剧场",
+    "lang": "zh",
+    "xmltv_id": "CCTVNostalgiaTheater.cn@SD",
+    "logo": "https://i.imgur.com/TVs9PBc.png"
+  },
+  {
+    "site_id": "xinkedongman",
+    "name": "CCTV新科动漫",
+    "lang": "zh",
+    "xmltv_id": "CCTV.us",
+    "logo": "https://i.imgur.com/WK3keM9.png"
+  },
+  {
+    "site_id": "btv3",
+    "name": "BTV科教",
+    "lang": "zh",
+    "xmltv_id": "BRTVScienceEducationChannel.cn@SD",
+    "logo": "https://i.imgur.com/q0qvOUe.png"
+  },
+  {
+    "site_id": "cctv5plus",
+    "name": "CCTV 5+",
+    "lang": "zh",
+    "xmltv_id": "CCTV5Plus.cn@SD",
+    "logo": "https://i.imgur.com/OK8mdJV.png"
+  },
+  {
+    "site_id": "guangxi",
+    "name": "广西卫视",
+    "lang": "zh",
+    "xmltv_id": "GuangxiTV.cn@SD",
+    "logo": "https://i.imgur.com/dpre5Qs.png"
+  },
+  {
+    "site_id": "guizhou",
+    "name": "贵州卫视",
+    "lang": "zh",
+    "xmltv_id": "GuizhouTV.cn@SD",
+    "logo": "https://i.imgur.com/nkcKCdr.png"
+  },
+  {
+    "site_id": "nbtv3",
+    "name": "宁波三套",
+    "lang": "zh",
+    "xmltv_id": "NBTV3.cn@SD",
+    "logo": "https://i.imgur.com/MKB2aaM.png"
+  },
+  {
+    "site_id": "shan1xi",
+    "name": "山西卫视",
+    "lang": "zh",
+    "xmltv_id": "ShanxiTV.cn@SD",
+    "logo": "https://i.imgur.com/UfKJBWW.png"
+  },
+  {
+    "site_id": "tianjin",
+    "name": "天津卫视",
+    "lang": "zh",
+    "xmltv_id": "TianjinTV.cn@SD",
+    "logo": "https://i.imgur.com/Bg24eaH.png"
+  },
+  {
+    "site_id": "yunnan",
+    "name": "云南卫视",
+    "lang": "zh",
+    "xmltv_id": "YunnanTV1.cn@SD",
+    "logo": "https://i.imgur.com/POV1PUV.png"
+  },
+  {
+    "site_id": "diyijuchang",
+    "name": "CCTV第一剧场",
+    "lang": "zh",
+    "xmltv_id": "CCTVTheFirstTheater.cn@SD",
+    "logo": "https://i.imgur.com/eFxD3hq.png"
+  },
+  {
+    "site_id": "heilongjiang",
+    "name": "黑龙江卫视",
+    "lang": "zh",
+    "xmltv_id": "HeilongjiangTV.cn@SD",
+    "logo": "https://i.imgur.com/9fj1uba.png"
+  },
+  {
+    "site_id": "hunan",
+    "name": "湖南卫视",
+    "lang": "zh",
+    "xmltv_id": "HunanTV.cn@SD",
+    "logo": "https://parco-zh.github.io/demo/HNWS.png"
+  },
+  {
+    "site_id": "shandong",
+    "name": "山东卫视",
+    "lang": "zh",
+    "xmltv_id": "ShandongTV.cn@SD",
+    "logo": "https://i.imgur.com/t3ICc4i.png"
+  },
+  {
+    "site_id": "zhinan",
+    "name": "CCTV电视指南",
+    "lang": "zh",
+    "xmltv_id": "CCTVTVGuide.cn@SD",
+    "logo": "https://i.imgur.com/U73Q4NW.png"
+  },
+  {
+    "site_id": "cctv7",
+    "name": "CCTV 7",
+    "lang": "zh",
+    "xmltv_id": "CCTV7.cn@SD",
+    "logo": "https://i.imgur.com/CKcPMQC.png"
+  },
+  {
+    "site_id": "gansu",
+    "name": "甘肃卫视",
+    "lang": "zh",
+    "xmltv_id": "GansuTV.cn@SD",
+    "logo": "https://i.imgur.com/dANSiug.png"
+  },
+  {
+    "site_id": "jilin",
+    "name": "吉林卫视",
+    "lang": "zh",
+    "xmltv_id": "JilinTVStation.cn@SD",
+    "logo": "https://i.imgur.com/CikxiyB.png"
+  },
+  {
+    "site_id": "nbtv1",
+    "name": "宁波一套",
+    "lang": "zh",
+    "xmltv_id": "NBTV1.cn@SD",
+    "logo": "https://i.imgur.com/9P2iTld.png"
+  },
+  {
+    "site_id": "nbtv5",
+    "name": "宁波五套",
+    "lang": "zh",
+    "xmltv_id": "NBTV5.cn@SD",
+    "logo": "https://i.imgur.com/RStBo1O.png"
+  },
+  {
+    "site_id": "sichuan",
+    "name": "四川卫视",
+    "lang": "zh",
+    "xmltv_id": "SichuanTV1.cn@SD",
+    "logo": "https://i.imgur.com/Crapy6M.png"
+  },
+  {
+    "site_id": "travel",
+    "name": "旅游卫视",
+    "lang": "zh",
+    "xmltv_id": "HainanSatelliteTV.cn@SD",
+    "logo": "https://i.imgur.com/j6kY8nh.png"
+  },
+  {
+    "site_id": "xinjiang",
+    "name": "新疆卫视",
+    "lang": "zh",
+    "xmltv_id": "XizangTVChinese.cn@SD",
+    "logo": "https://i.imgur.com/V0v3ST5.png"
+  },
+  {
+    "site_id": "btvjishi",
+    "name": "BTV纪实",
+    "lang": "zh",
+    "xmltv_id": "BRTVWinterOlympicsDocumentaryChannel.cn@SD",
+    "logo": "https://i.imgur.com/X1CQGpD.png"
+  },
+  {
+    "site_id": "cctv8",
+    "name": "CCTV 8",
+    "lang": "zh",
+    "xmltv_id": "CCTV8.cn@SD",
+    "logo": "https://i.imgur.com/GyHaZ8X.png"
+  },
+  {
+    "site_id": "cctvlaogushi",
+    "name": "CCTV老故事",
+    "lang": "zh",
+    "xmltv_id": "CCTV.us",
+    "logo": "https://i.imgur.com/WK3keM9.png"
+  },
+  {
+    "site_id": "nbtv2",
+    "name": "宁波二套",
+    "lang": "zh",
+    "xmltv_id": "NBTV2.cn@SD",
+    "logo": "https://i.imgur.com/fpOlkDs.png"
+  },
+  {
+    "site_id": "btv7",
+    "name": "BTV生活",
+    "lang": "zh",
+    "xmltv_id": "BRTVLifeChannel.cn@SD",
+    "logo": "https://i.imgur.com/Bg05fxY.png"
+  },
+  {
+    "site_id": "jingpin",
+    "name": "CCTV央视文化精品",
+    "lang": "zh",
+    "xmltv_id": "CCTVCultureofQuality.cn@SD",
+    "logo": "https://i.imgur.com/Paig8gG.png"
+  },
+  {
+    "site_id": "nbtv4",
+    "name": "宁波四套",
+    "lang": "zh",
+    "xmltv_id": "NBTV4.cn@SD",
+    "logo": "https://i.imgur.com/BPy1jif.png"
+  },
+  {
+    "site_id": "ningxia",
+    "name": "宁夏卫视",
+    "lang": "zh",
+    "xmltv_id": "NingxiaSatelliteChannel.cn@SD",
+    "logo": "https://i.imgur.com/nUQE4Ib.png"
+  },
+  {
+    "site_id": "shenzhen",
+    "name": "深圳卫视",
+    "lang": "zh",
+    "xmltv_id": "ShenzhenTV.cn@SD",
+    "logo": "https://i.imgur.com/AnZjWm4.png"
+  },
+  {
+    "site_id": "shishang",
+    "name": "CCTV女性时尚",
+    "lang": "zh",
+    "xmltv_id": "CCTVWomensFashion.cn@SD",
+    "logo": "https://i.imgur.com/FVbP0aP.png"
+  },
+  {
+    "site_id": "taiqiu",
+    "name": "CCTV央视台球",
+    "lang": "zh",
+    "xmltv_id": "CCTVBilliards.cn@SD",
+    "logo": "https://i.imgur.com/WK3keM9.png"
+  },
+  {
+    "site_id": "zaoqijiaoyu",
+    "name": "早期教育",
+    "lang": "zh",
+    "xmltv_id": "CETVEarlyEducation.cn@SD",
+    "logo": "https://i.imgur.com/Ey2MrAj.png"
+  },
+  {
+    "site_id": "btv2",
+    "name": "BTV文艺",
+    "lang": "zh",
+    "xmltv_id": "BRTVArtsChannel.cn@SD",
+    "logo": "https://i.imgur.com/5nimp0q.png"
+  },
+  {
+    "site_id": "btv9",
+    "name": "BTV新闻",
+    "lang": "zh",
+    "xmltv_id": "BRTVNewsChannel.cn@SD",
+    "logo": "https://i.imgur.com/QwORUF9.png"
+  },
+  {
+    "site_id": "btvchild",
+    "name": "BTV卡酷少儿",
+    "lang": "zh",
+    "xmltv_id": "BRTVKakuChildrensChannel.cn@SD",
+    "logo": "https://i.imgur.com/t8X4wPZ.png"
+  },
+  {
+    "site_id": "cctvchild",
+    "name": "CCTV 14",
+    "lang": "zh",
+    "xmltv_id": "CCTV14.cn@SD",
+    "logo": "https://i.imgur.com/c5SXW7i.png"
+  },
+  {
+    "site_id": "cctvfyzq",
+    "name": "CCTV风云足球",
+    "lang": "zh",
+    "xmltv_id": "CCTVStormFootball.cn@SD",
+    "logo": "https://i.imgur.com/Fy6HkX0.png"
+  },
+  {
+    "site_id": "cctvamerica",
+    "name": "CCTV 4 America",
+    "lang": "zh",
+    "xmltv_id": "CCTV4America.cn@SD",
+    "logo": "https://i.imgur.com/gBbLyqh.png"
+  },
+  {
+    "site_id": "btv1",
+    "name": "北京卫视",
+    "lang": "zh",
+    "xmltv_id": "BeijingSatelliteTV.cn@SD",
+    "logo": "https://i.imgur.com/vsktAez.png"
+  },
+  {
+    "site_id": "cctv11",
+    "name": "CCTV 11",
+    "lang": "zh",
+    "xmltv_id": "CCTV11.cn@SD",
+    "logo": "https://i.imgur.com/CjOWx7L.png"
+  },
+  {
+    "site_id": "cctv12",
+    "name": "CCTV 12",
+    "lang": "zh",
+    "xmltv_id": "CCTV12.cn@SD",
+    "logo": "https://i.imgur.com/3yTuiOM.png"
+  },
+  {
+    "site_id": "cctv13",
+    "name": "CCTV 13",
+    "lang": "zh",
+    "xmltv_id": "CCTV13.cn@SD",
+    "logo": "https://i.imgur.com/6MTar6J.png"
+  },
+  {
+    "site_id": "cctv15",
+    "name": "CCTV 15",
+    "lang": "zh",
+    "xmltv_id": "CCTV15.cn@SD",
+    "logo": "https://i.imgur.com/CCV0eRG.png"
+  },
+  {
+    "site_id": "cctvliangzhuang",
+    "name": "靓妆",
+    "lang": "zh",
+    "xmltv_id": "JiangsuLiangMakeUp.cn@SD",
+    "logo": "https://i.imgur.com/LdBsMIV.png"
+  },
+  {
+    "site_id": "dianshigouwu",
+    "name": "CCTV中视购物",
+    "lang": "zh",
+    "xmltv_id": "CCTVChinaTelevisionShoppingChannel.cn@SD",
+    "logo": "https://i.imgur.com/ToJBJg4.png"
+  },
+  {
+    "site_id": "hubei",
+    "name": "湖北卫视",
+    "lang": "zh",
+    "xmltv_id": "HubeiSatelliteTV.cn@SD",
+    "logo": "https://i.imgur.com/CTRa9BJ.png"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "site_id": "8",
-    "name": "TV6",
-    "lang": "ms",
-    "xmltv_id": "TV6.my@SD",
-    "logo": "https://i.imgur.com/bK8UH9D.png"
-  },
-  {
-    "site_id": "9",
-    "name": "Dewan Rakyat",
-    "lang": "ms"
-  },
-  {
     "site_id": "10",
     "name": "Dewan Negara",
     "lang": "ms"
@@ -50,5 +38,17 @@
     "lang": "ms",
     "xmltv_id": "BeritaRTM.my@SD",
     "logo": "https://i.imgur.com/1Xzxsgl.png"
+  },
+  {
+    "site_id": "8",
+    "name": "TV6",
+    "lang": "ms",
+    "xmltv_id": "TV6.my@SD",
+    "logo": "https://i.imgur.com/bK8UH9D.png"
+  },
+  {
+    "site_id": "9",
+    "name": "Dewan Rakyat",
+    "lang": "ms"
   }
 ]

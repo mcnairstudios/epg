@@ -1,10 +1,17 @@
 [
   {
-    "site_id": "tijdloze",
-    "name": "De Tijdloze",
+    "site_id": "radio-bene",
+    "name": "Radio Bene",
     "lang": "nl",
-    "xmltv_id": "DeTijdloze.be",
-    "logo": "https://images.vrt.be/orig/2025/06/19/a8150bd0-4af0-4c4f-bdaf-193f579adba6.png"
+    "xmltv_id": "RadioBene.be",
+    "logo": "https://images.vrt.be/orig/2025/06/19/d7fc517e-2fc8-4467-b1d0-90a32b1c7334.png"
+  },
+  {
+    "site_id": "vrt1",
+    "name": "VRT 1",
+    "lang": "nl",
+    "xmltv_id": "VRT1.be",
+    "logo": "https://images.vrt.be/orig/2023/04/28/c448d669-e5c1-11ed-91d7-02b7b76bf47f.png"
   },
   {
     "site_id": "ketnet",
@@ -21,20 +28,6 @@
     "logo": "https://images.vrt.be/orig/2025/06/19/2a99563b-7503-4906-81fb-aa6bc91bfa08.png"
   },
   {
-    "site_id": "radio2",
-    "name": "Radio 2",
-    "lang": "nl",
-    "xmltv_id": "Radio2.be",
-    "logo": "https://images.vrt.be/orig/2025/06/19/11b3ccce-bc76-43cf-aa15-b6c93e75f6db.png"
-  },
-  {
-    "site_id": "radio-bene",
-    "name": "Radio Bene",
-    "lang": "nl",
-    "xmltv_id": "RadioBene.be",
-    "logo": "https://images.vrt.be/orig/2025/06/19/d7fc517e-2fc8-4467-b1d0-90a32b1c7334.png"
-  },
-  {
     "site_id": "studio-brussel",
     "name": "Studio Brussel",
     "lang": "nl",
@@ -42,18 +35,18 @@
     "logo": "https://images.vrt.be/orig/2023/12/08/a6d153f0-95cb-11ee-b483-02b7b76bf47f.png"
   },
   {
-    "site_id": "vrt1",
-    "name": "VRT 1",
-    "lang": "nl",
-    "xmltv_id": "VRT1.be",
-    "logo": "https://images.vrt.be/orig/2023/04/28/c448d669-e5c1-11ed-91d7-02b7b76bf47f.png"
-  },
-  {
     "site_id": "vrt-canvas",
     "name": "VRT CANVAS",
     "lang": "nl",
     "xmltv_id": "VRTCanvas.be",
     "logo": "https://images.vrt.be/orig/2023/11/09/1ae4c23e-7ef9-11ee-91d7-02b7b76bf47f.png"
+  },
+  {
+    "site_id": "tijdloze",
+    "name": "De Tijdloze",
+    "lang": "nl",
+    "xmltv_id": "DeTijdloze.be",
+    "logo": "https://images.vrt.be/orig/2025/06/19/a8150bd0-4af0-4c4f-bdaf-193f579adba6.png"
   },
   {
     "site_id": "klara",
@@ -68,5 +61,12 @@
     "lang": "nl",
     "xmltv_id": "MNM.be",
     "logo": "https://images.vrt.be/orig/2025/06/19/f0be1c65-3f98-43d1-b962-ded0f3bca602.png"
+  },
+  {
+    "site_id": "radio2",
+    "name": "Radio 2",
+    "lang": "nl",
+    "xmltv_id": "Radio2.be",
+    "logo": "https://images.vrt.be/orig/2025/06/19/11b3ccce-bc76-43cf-aa15-b6c93e75f6db.png"
   }
 ]

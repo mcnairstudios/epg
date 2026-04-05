@@ -1,5 +1,19 @@
 [
   {
+    "site_id": "3",
+    "name": "AFN|spectrum",
+    "lang": "en",
+    "xmltv_id": "AFNSpectrum.us@SD",
+    "logo": "https://i.imgur.com/kepHNgX.png"
+  },
+  {
+    "site_id": "4",
+    "name": "AFN|prime Pacific",
+    "lang": "en",
+    "xmltv_id": "AFNPrimePacific.us@SD",
+    "logo": "https://i.imgur.com/35ZmoAI.png"
+  },
+  {
     "site_id": "5",
     "name": "AFN|news",
     "lang": "en",
@@ -40,19 +54,5 @@
     "lang": "en",
     "xmltv_id": "AFNPrimeAtlantic.us@SD",
     "logo": "https://i.imgur.com/IcCyQEh.png"
-  },
-  {
-    "site_id": "3",
-    "name": "AFN|spectrum",
-    "lang": "en",
-    "xmltv_id": "AFNSpectrum.us@SD",
-    "logo": "https://i.imgur.com/kepHNgX.png"
-  },
-  {
-    "site_id": "4",
-    "name": "AFN|prime Pacific",
-    "lang": "en",
-    "xmltv_id": "AFNPrimePacific.us@SD",
-    "logo": "https://i.imgur.com/35ZmoAI.png"
   }
 ]
