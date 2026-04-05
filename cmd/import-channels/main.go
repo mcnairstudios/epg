@@ -280,6 +280,7 @@ func main() {
 	}
 
 	tvLogos := make(map[string]string)
+	channelMapOverrides := make(map[string]string) // "\x00cc:norm" or "norm" → xmltv_id
 	if *tvLogosDir != "" {
 		var err error
 		tvLogos, err = buildTVLogosIndex(*tvLogosDir, *tvLogosURL)
@@ -287,6 +288,12 @@ func main() {
 			log.Fatal().Err(err).Msg("failed to build tv-logos index")
 		}
 		log.Info().Int("tv_logos", len(tvLogos)).Msg("built tv-logos index")
+
+		channelMapOverrides, err = loadChannelMaps(*tvLogosDir)
+		if err != nil {
+			log.Fatal().Err(err).Msg("failed to load channel maps")
+		}
+		log.Info().Int("channel_map_entries", len(channelMapOverrides)).Msg("loaded channel map overrides")
 	}
 
 	files, err := filepath.Glob(filepath.Join(*sitesDir, "*", "*.channels.xml"))
@@ -325,9 +332,14 @@ func main() {
 			}
 
 			xmltvID := ch.XmltvID
-			if xmltvID == "" && name != "" {
+			if name != "" {
 				siteCC := countryCodeFromDomain(ch.Site)
-				xmltvID = lookupXmltvID(xmltvByName, name, siteCC)
+				// Channel-map overrides take highest priority
+				if override := lookupXmltvID(channelMapOverrides, name, siteCC); override != "" {
+					xmltvID = override
+				} else if xmltvID == "" {
+					xmltvID = lookupXmltvID(xmltvByName, name, siteCC)
+				}
 			}
 
 			logo := ch.Logo
@@ -611,6 +623,52 @@ func loadExistingLogos(path string) map[string]string {
 		}
 	}
 	return m
+}
+
+// loadChannelMaps reads channel-map.json from each countries/* directory in
+// the tv-logos repo. Each file maps normalized channel name → xmltv_id for
+// that country. Returns the same format as xmltvByName (sentinel-keyed).
+func loadChannelMaps(dir string) (map[string]string, error) {
+	result := make(map[string]string)
+	countriesDir := filepath.Join(dir, "countries")
+
+	entries, err := os.ReadDir(countriesDir)
+	if err != nil {
+		return nil, fmt.Errorf("reading tv-logos countries dir: %w", err)
+	}
+
+	for _, entry := range entries {
+		if !entry.IsDir() {
+			continue
+		}
+		mapFile := filepath.Join(countriesDir, entry.Name(), "channel-map.json")
+		data, err := os.ReadFile(mapFile)
+		if err != nil {
+			continue // no channel-map.json in this directory — skip
+		}
+
+		var m map[string]string
+		if err := json.Unmarshal(data, &m); err != nil {
+			return nil, fmt.Errorf("parsing %s: %w", mapFile, err)
+		}
+
+		cc := dirToCountryCode[entry.Name()]
+		for name, xmltvID := range m {
+			norm := normalizeName(name)
+			if norm == "" || xmltvID == "" {
+				continue
+			}
+			if cc != "" {
+				result["\x00"+cc+":"+norm] = xmltvID
+			}
+			// Also add to global fallback if not already set
+			if _, exists := result[norm]; !exists {
+				result[norm] = xmltvID
+			}
+		}
+	}
+
+	return result, nil
 }
 
 var dirToCountryCode = map[string]string{

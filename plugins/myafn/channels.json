@@ -1,5 +1,26 @@
 [
   {
+    "site_id": "5",
+    "name": "AFN|news",
+    "lang": "en",
+    "xmltv_id": "AFNNews.us@SD",
+    "logo": "https://i.imgur.com/NB5m2OG.png"
+  },
+  {
+    "site_id": "6",
+    "name": "AFN|sports2",
+    "lang": "en",
+    "xmltv_id": "AFNSports2.us@SD",
+    "logo": "https://i.imgur.com/AIsjtPz.png"
+  },
+  {
+    "site_id": "9",
+    "name": "AFN|pulse",
+    "lang": "en",
+    "xmltv_id": "AFNFamily.us@SD",
+    "logo": "https://i.imgur.com/N0OY1Hg.png"
+  },
+  {
     "site_id": "10",
     "name": "AFN|movie",
     "lang": "en",
@@ -33,26 +54,5 @@
     "lang": "en",
     "xmltv_id": "AFNPrimePacific.us@SD",
     "logo": "https://i.imgur.com/35ZmoAI.png"
-  },
-  {
-    "site_id": "5",
-    "name": "AFN|news",
-    "lang": "en",
-    "xmltv_id": "AFNNews.us@SD",
-    "logo": "https://i.imgur.com/NB5m2OG.png"
-  },
-  {
-    "site_id": "6",
-    "name": "AFN|sports2",
-    "lang": "en",
-    "xmltv_id": "AFNSports2.us@SD",
-    "logo": "https://i.imgur.com/AIsjtPz.png"
-  },
-  {
-    "site_id": "9",
-    "name": "AFN|pulse",
-    "lang": "en",
-    "xmltv_id": "AFNFamily.us@SD",
-    "logo": "https://i.imgur.com/N0OY1Hg.png"
   }
 ]

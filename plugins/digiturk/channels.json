@@ -1,45 +1,50 @@
 [
   {
-    "site_id": "74",
-    "name": "FASHION TV",
+    "site_id": "521",
+    "name": "EKOTURK",
     "lang": "tr",
-    "xmltv_id": "FashionTVEurope.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"
+    "xmltv_id": "Ekoturk.tr@SD",
+    "logo": "https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"
   },
   {
-    "site_id": "31",
-    "name": "HABERTURK",
-    "lang": "tr",
-    "xmltv_id": "HaberturkTV.tr@SD",
-    "logo": "https://i.imgur.com/6Tw3rUp.png"
+    "site_id": "552",
+    "name": "HT SPOR",
+    "lang": "tr"
   },
   {
-    "site_id": "60",
-    "name": "MCM TOP",
+    "site_id": "301",
+    "name": "AHABER",
     "lang": "tr",
-    "xmltv_id": "MCMTop.ru@SD",
-    "logo": "https://i.imgur.com/EVtWQLd.png"
+    "xmltv_id": "AHaber.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"
   },
   {
-    "site_id": "291",
-    "name": "MİNİKAGO",
+    "site_id": "512",
+    "name": "CBeebies",
     "lang": "tr",
-    "xmltv_id": "MinikaGo.tr@SD",
-    "logo": "https://i.imgur.com/qIoipDq.png"
+    "xmltv_id": "CBeebies.uk@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
   },
   {
-    "site_id": "322",
-    "name": "MTV LIVE",
+    "site_id": "528",
+    "name": "KRT TV",
     "lang": "tr",
-    "xmltv_id": "MTVLive.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
+    "xmltv_id": "KRT.tr@SD",
+    "logo": "https://i.imgur.com/9ZKqdQJ.png"
   },
   {
-    "site_id": "556",
-    "name": "AKİT TV",
+    "site_id": "543",
+    "name": "LİDER HABER TV",
     "lang": "tr",
-    "xmltv_id": "AkitTV.tr",
-    "logo": "https://i.imgur.com/oGto929.png"
+    "xmltv_id": "LiderHaber.tr@SD",
+    "logo": "https://i.imgur.com/5B42KwY.png"
+  },
+  {
+    "site_id": "61",
+    "name": "MEZZO",
+    "lang": "tr",
+    "xmltv_id": "Mezzo.fr@SD",
+    "logo": "https://i.imgur.com/auNdGeW.png"
   },
   {
     "site_id": "294",
@@ -49,46 +54,17 @@
     "logo": "https://i.imgur.com/1l7SCCu.png"
   },
   {
-    "site_id": "487",
-    "name": "TRT BELGESEL",
+    "site_id": "555",
+    "name": "EUROSPORT 2",
     "lang": "tr",
-    "xmltv_id": "TRTBelgesel.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png"
+    "logo": "https://i.imgur.com/f56dHgR.png"
   },
   {
-    "site_id": "246",
-    "name": "TRT KURDI",
+    "site_id": "490",
+    "name": "A2",
     "lang": "tr",
-    "xmltv_id": "TRTKurdi.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png"
-  },
-  {
-    "site_id": "428",
-    "name": "TV8",
-    "lang": "tr",
-    "xmltv_id": "TV8.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png"
-  },
-  {
-    "site_id": "166",
-    "name": "ÜLKE TV",
-    "lang": "tr",
-    "xmltv_id": "UlkeTV.tr@SD",
-    "logo": "https://i.imgur.com/wdWR7Qk.png"
-  },
-  {
-    "site_id": "332",
-    "name": "DİYANET TV",
-    "lang": "tr",
-    "xmltv_id": "DiyanetTV.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png"
-  },
-  {
-    "site_id": "178",
-    "name": "24 TV",
-    "lang": "tr",
-    "xmltv_id": "24TV.tr@SD",
-    "logo": "https://i.imgur.com/8FO41es.png"
+    "xmltv_id": "A2TV.tr@SD",
+    "logo": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"
   },
   {
     "site_id": "182",
@@ -96,6 +72,13 @@
     "lang": "tr",
     "xmltv_id": "AlJazeera.qa@Arabic",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"
+  },
+  {
+    "site_id": "76",
+    "name": "CNN INTERNATIONAL",
+    "lang": "tr",
+    "xmltv_id": "CNNInternational.us@MENA",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
   },
   {
     "site_id": "529",
@@ -112,75 +95,6 @@
     "logo": "https://i.imgur.com/qBVqtYd.png"
   },
   {
-    "site_id": "543",
-    "name": "LİDER HABER TV",
-    "lang": "tr",
-    "xmltv_id": "LiderHaber.tr@SD",
-    "logo": "https://i.imgur.com/5B42KwY.png"
-  },
-  {
-    "site_id": "243",
-    "name": "TRT ÇOCUK",
-    "lang": "tr",
-    "xmltv_id": "TRTCocuk.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"
-  },
-  {
-    "site_id": "468",
-    "name": "TRT WORLD",
-    "lang": "tr",
-    "xmltv_id": "TRTWorld.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"
-  },
-  {
-    "site_id": "312",
-    "name": "beIN SPORTS 3",
-    "lang": "tr",
-    "logo": "https://i.imgur.com/UYSMao3.png"
-  },
-  {
-    "site_id": "501",
-    "name": "A NEWS",
-    "lang": "tr",
-    "xmltv_id": "ANews.tr@SD",
-    "logo": "https://i.imgur.com/6tWCzTp.png"
-  },
-  {
-    "site_id": "271",
-    "name": "beIN MOVIES PREMIERE",
-    "lang": "tr",
-    "xmltv_id": "beINMoviesPremiere.tr@SD",
-    "logo": "https://i.imgur.com/SVwK50e.png"
-  },
-  {
-    "site_id": "272",
-    "name": "beIN MOVIES STARS",
-    "lang": "tr",
-    "xmltv_id": "beINMoviesStars.tr@SD",
-    "logo": "https://i.imgur.com/eryPkrT.png"
-  },
-  {
-    "site_id": "220",
-    "name": "CARTOON NETWORK",
-    "lang": "tr",
-    "xmltv_id": "CartoonNetwork.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
-  },
-  {
-    "site_id": "542",
-    "name": "FLASH HABER",
-    "lang": "tr",
-    "xmltv_id": "FlashHaberTV.tr@SD",
-    "logo": "https://www.lyngsat.com/logo/tv/ff/flash-haber-tv-tr.png"
-  },
-  {
-    "site_id": "520",
-    "name": "HABERGLOBAL",
-    "lang": "tr",
-    "xmltv_id": "HaberGlobal.tr@SD",
-    "logo": "https://i.imgur.com/fu6XeGS.png"
-  },
-  {
     "site_id": "546",
     "name": "TÜRKHABER TV",
     "lang": "tr",
@@ -188,89 +102,24 @@
     "logo": "https://i.imgur.com/6Tw3rUp.png"
   },
   {
-    "site_id": "459",
-    "name": "BBC FIRST",
+    "site_id": "322",
+    "name": "MTV LIVE",
     "lang": "tr",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/BBC_First_Foxtel_logo.svg/960px-BBC_First_Foxtel_logo.svg.png"
+    "xmltv_id": "MTVLive.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png"
   },
   {
-    "site_id": "555",
-    "name": "EUROSPORT 2",
+    "site_id": "558",
+    "name": "BRT 2",
     "lang": "tr",
-    "logo": "https://i.imgur.com/f56dHgR.png"
+    "logo": "https://i.imgur.com/t5kbIuj.png"
   },
   {
-    "site_id": "562",
-    "name": "EKOL TV",
-    "lang": "tr"
-  },
-  {
-    "site_id": "77",
-    "name": "BBC WORLD NEWS",
+    "site_id": "483",
+    "name": "beIN",
     "lang": "tr",
-    "xmltv_id": "BBCNews.uk@Europe",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "326",
-    "name": "beIN SERIES 2",
-    "lang": "tr",
-    "xmltv_id": "beINSeries2.qa@SD",
-    "logo": "https://i.imgur.com/c0B8bmf.png"
-  },
-  {
-    "site_id": "523",
-    "name": "CGTN",
-    "lang": "tr",
-    "xmltv_id": "CGTN.cn@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
-  },
-  {
-    "site_id": "528",
-    "name": "KRT TV",
-    "lang": "tr",
-    "xmltv_id": "KRT.tr@SD",
-    "logo": "https://i.imgur.com/9ZKqdQJ.png"
-  },
-  {
-    "site_id": "337",
-    "name": "MTV HITS",
-    "lang": "tr",
-    "xmltv_id": "MTVHits.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/960px-MTV_Hits_2021.svg.png"
-  },
-  {
-    "site_id": "552",
-    "name": "HT SPOR",
-    "lang": "tr"
-  },
-  {
-    "site_id": "300",
-    "name": "ATV",
-    "lang": "tr",
-    "xmltv_id": "ATV.tr@SD",
-    "logo": "https://i.imgur.com/HyVUwFC.png"
-  },
-  {
-    "site_id": "63",
-    "name": "MTV 00s",
-    "lang": "tr",
-    "xmltv_id": "MTV00s.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
-  },
-  {
-    "site_id": "321",
-    "name": "NICK JR",
-    "lang": "tr",
-    "xmltv_id": "NickJr.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "site_id": "85",
-    "name": "RAI1",
-    "lang": "tr",
-    "xmltv_id": "Rai1.it@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
+    "xmltv_id": "Digiturk4K.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Digiturk4K_Logo.png/960px-Digiturk4K_Logo.png"
   },
   {
     "site_id": "406",
@@ -280,25 +129,25 @@
     "logo": "https://i.imgur.com/9O3DHRB.png"
   },
   {
-    "site_id": "545",
-    "name": "TARİH TV",
+    "site_id": "229",
+    "name": "TRT 3 / TRT SPOR",
     "lang": "tr",
-    "xmltv_id": "TarihTV.tr@SD",
-    "logo": "https://i.imgur.com/HbIGZUt.png"
+    "xmltv_id": "TRT3.tr@SD",
+    "logo": "https://i.imgur.com/JrWFwBd.png"
   },
   {
-    "site_id": "244",
-    "name": "TRT AVAZ",
+    "site_id": "246",
+    "name": "TRT KURDI",
     "lang": "tr",
-    "xmltv_id": "TRTAvaz.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png"
+    "xmltv_id": "TRTKurdi.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png"
   },
   {
-    "site_id": "560",
-    "name": "TYT TÜRK",
+    "site_id": "468",
+    "name": "TRT WORLD",
     "lang": "tr",
-    "xmltv_id": "TYTTurk.tr",
-    "logo": "https://tytturk.com/upload/tyt-logo.png"
+    "xmltv_id": "TRTWorld.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"
   },
   {
     "site_id": "375",
@@ -308,234 +157,16 @@
     "logo": "https://i.imgur.com/nCkbPOD.png"
   },
   {
-    "site_id": "214",
-    "name": "NATIONAL GEO.",
-    "lang": "tr",
-    "xmltv_id": "NationalGeographic.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
-  },
-  {
-    "site_id": "544",
-    "name": "SÖZCÜ TV",
-    "lang": "tr",
-    "xmltv_id": "SozcuTV.tr@SD",
-    "logo": "https://i.imgur.com/BxpdvsG.png"
-  },
-  {
-    "site_id": "19",
-    "name": "TRT 1",
-    "lang": "tr",
-    "xmltv_id": "TRT1.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png"
-  },
-  {
-    "site_id": "308",
-    "name": "TRT 2",
-    "lang": "tr",
-    "xmltv_id": "TRT2.tr@SD",
-    "logo": "https://i.imgur.com/iOCQdyD.png"
-  },
-  {
-    "site_id": "245",
-    "name": "TRT TURK",
-    "lang": "tr",
-    "xmltv_id": "TRTTurk.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png"
-  },
-  {
-    "site_id": "489",
-    "name": "TV8,5",
-    "lang": "tr",
-    "xmltv_id": "TV85.tr@SD",
-    "logo": "https://i.imgur.com/QuelSsc.png"
-  },
-  {
-    "site_id": "558",
-    "name": "BRT 2",
-    "lang": "tr",
-    "logo": "https://i.imgur.com/t5kbIuj.png"
-  },
-  {
-    "site_id": "61",
-    "name": "MEZZO",
-    "lang": "tr",
-    "xmltv_id": "Mezzo.fr@SD",
-    "logo": "https://i.imgur.com/auNdGeW.png"
-  },
-  {
-    "site_id": "261",
-    "name": "TRT MÜZİK",
-    "lang": "tr",
-    "xmltv_id": "TRTMuzik.tr@SD",
-    "logo": "https://i.imgur.com/JgUzRH8.png"
-  },
-  {
-    "site_id": "539",
-    "name": "ULUSAL TV",
-    "lang": "tr",
-    "xmltv_id": "UlusalKanal.tr@SD",
-    "logo": "https://i.imgur.com/EwSg612.png"
-  },
-  {
-    "site_id": "540",
-    "name": "VAV TV",
-    "lang": "tr",
-    "xmltv_id": "VavTV.tr@SD",
-    "logo": "https://i.imgur.com/jw0gB8L.png"
-  },
-  {
-    "site_id": "433",
-    "name": "A SPOR",
-    "lang": "tr",
-    "xmltv_id": "ASpor.tr@SD",
-    "logo": "https://i.imgur.com/ZhkZzLf.png"
-  },
-  {
-    "site_id": "299",
-    "name": "beIN İZ",
-    "lang": "tr",
-    "xmltv_id": "beINIZ.tr@SD",
-    "logo": "https://i.imgur.com/K8HU6aQ.png"
-  },
-  {
-    "site_id": "547",
-    "name": "BENGÜTÜRK",
-    "lang": "tr",
-    "xmltv_id": "BenguturkTV.tr@SD",
-    "logo": "https://i.imgur.com/p3ON1oX.png"
-  },
-  {
-    "site_id": "18",
-    "name": "FOX",
-    "lang": "tr",
-    "xmltv_id": "Fox.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png"
-  },
-  {
-    "site_id": "532",
-    "name": "YABAN TV",
-    "lang": "tr",
-    "xmltv_id": "YabanTV.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/960px-Yabantv_logo.png"
-  },
-  {
-    "site_id": "513",
-    "name": "BBC EARTH",
-    "lang": "tr",
-    "logo": "https://bbcearth.ca/wp-content/uploads/2024/02/BBCEarth_Logo-1.png"
-  },
-  {
-    "site_id": "557",
-    "name": "BRT 1",
-    "lang": "tr",
-    "logo": "https://i.imgur.com/gOPAi2c.png"
-  },
-  {
-    "site_id": "490",
-    "name": "A2",
-    "lang": "tr",
-    "xmltv_id": "A2TV.tr@SD",
-    "logo": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"
-  },
-  {
-    "site_id": "29",
-    "name": "CNN TURK",
-    "lang": "tr",
-    "xmltv_id": "CNNTurk.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/960px-CNN_T%C3%BCrk_logo.svg.png"
-  },
-  {
-    "site_id": "439",
-    "name": "KANAL 7",
-    "lang": "tr",
-    "xmltv_id": "Kanal7.tr@SD",
-    "logo": "https://i.imgur.com/0gq9xOm.png"
-  },
-  {
-    "site_id": "351",
-    "name": "NICKELODEON HD",
-    "lang": "tr",
-    "xmltv_id": "Nickelodeon.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png"
-  },
-  {
-    "site_id": "28",
-    "name": "NTV",
-    "lang": "tr",
-    "xmltv_id": "NTV.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png"
-  },
-  {
-    "site_id": "20",
-    "name": "TRT HABER",
-    "lang": "tr",
-    "xmltv_id": "TRTHaber.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"
-  },
-  {
-    "site_id": "507",
-    "name": "beIN SPORTS MAX 1",
-    "lang": "tr",
-    "logo": "https://i.imgur.com/FjWQjdy.png"
-  },
-  {
-    "site_id": "554",
-    "name": "EUROSPORT 1",
-    "lang": "tr",
-    "logo": "https://i.imgur.com/olQJgm7.png"
-  },
-  {
-    "site_id": "456",
-    "name": "beIN H\u0026E",
-    "lang": "tr",
-    "xmltv_id": "beINHE.tr@SD",
-    "logo": "https://i.imgur.com/QmVitgD.png"
-  },
-  {
-    "site_id": "381",
-    "name": "beIN MOVIES TURK",
-    "lang": "tr",
-    "xmltv_id": "beINMoviesTurk.tr@SD",
-    "logo": "https://i.imgur.com/nw8Sa2z.png"
-  },
-  {
-    "site_id": "24",
-    "name": "BLOOMBERG HT",
-    "lang": "tr",
-    "xmltv_id": "BloombergHT.tr@SD",
-    "logo": "https://i.imgur.com/bmkXfIE.png"
-  },
-  {
-    "site_id": "298",
-    "name": "HALK TV",
-    "lang": "tr",
-    "xmltv_id": "HalkTV.tr@SD",
-    "logo": "https://i.imgur.com/xM0HA30.png"
-  },
-  {
-    "site_id": "525",
-    "name": "TELE 1",
-    "lang": "tr",
-    "xmltv_id": "Tele1.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png"
-  },
-  {
-    "site_id": "310",
-    "name": "beIN SPORTS 2",
-    "lang": "tr",
-    "logo": "https://i.imgur.com/vUJZSvs.png"
-  },
-  {
-    "site_id": "550",
-    "name": "EKOL Sports",
+    "site_id": "562",
+    "name": "EKOL TV",
     "lang": "tr"
   },
   {
-    "site_id": "30",
-    "name": "360",
+    "site_id": "501",
+    "name": "A NEWS",
     "lang": "tr",
-    "xmltv_id": "360.tr@SD",
-    "logo": "https://i.imgur.com/agn47sQ.png"
+    "xmltv_id": "ANews.tr@SD",
+    "logo": "https://i.imgur.com/6tWCzTp.png"
   },
   {
     "site_id": "519",
@@ -545,18 +176,37 @@
     "logo": "https://i.imgur.com/GjHnq0c.png"
   },
   {
-    "site_id": "407",
-    "name": "beIN GURME",
+    "site_id": "214",
+    "name": "NATIONAL GEO.",
     "lang": "tr",
-    "xmltv_id": "beINGurme.tr@SD",
-    "logo": "https://i.imgur.com/Q8ITIMl.png"
+    "xmltv_id": "NationalGeographic.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
   },
   {
-    "site_id": "282",
-    "name": "DISNEY JUNIOR",
+    "site_id": "189",
+    "name": "NICKELODEON SD",
     "lang": "tr",
-    "xmltv_id": "DisneyJr.tr@SD",
-    "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png"
+    "xmltv_id": "Nickelodeon.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png"
+  },
+  {
+    "site_id": "84",
+    "name": "TGRT HABER",
+    "lang": "tr",
+    "xmltv_id": "TGRTHaber.tr@SD",
+    "logo": "https://i.imgur.com/PrxwKDw.png"
+  },
+  {
+    "site_id": "308",
+    "name": "TRT 2",
+    "lang": "tr",
+    "xmltv_id": "TRT2.tr@SD",
+    "logo": "https://i.imgur.com/iOCQdyD.png"
+  },
+  {
+    "site_id": "550",
+    "name": "EKOL Sports",
+    "lang": "tr"
   },
   {
     "site_id": "179",
@@ -566,11 +216,25 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png"
   },
   {
-    "site_id": "256",
-    "name": "TEVE2",
+    "site_id": "545",
+    "name": "TARİH TV",
     "lang": "tr",
-    "xmltv_id": "Teve2.tr@SD",
-    "logo": "https://i.imgur.com/rsoSLih.png"
+    "xmltv_id": "TarihTV.tr@SD",
+    "logo": "https://i.imgur.com/HbIGZUt.png"
+  },
+  {
+    "site_id": "525",
+    "name": "TELE 1",
+    "lang": "tr",
+    "xmltv_id": "Tele1.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png"
+  },
+  {
+    "site_id": "245",
+    "name": "TRT TURK",
+    "lang": "tr",
+    "xmltv_id": "TRTTurk.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png"
   },
   {
     "site_id": "495",
@@ -579,11 +243,88 @@
     "logo": "https://i.imgur.com/vwAgJNi.png"
   },
   {
-    "site_id": "561",
-    "name": "CNBC-e",
+    "site_id": "407",
+    "name": "beIN GURME",
     "lang": "tr",
-    "xmltv_id": "CNBCe.tr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CNBC-e_2025.svg/960px-CNBC-e_2025.svg.png"
+    "xmltv_id": "beINGurme.tr@SD",
+    "logo": "https://i.imgur.com/Q8ITIMl.png"
+  },
+  {
+    "site_id": "381",
+    "name": "beIN MOVIES TURK",
+    "lang": "tr",
+    "xmltv_id": "beINMoviesTurk.tr@SD",
+    "logo": "https://i.imgur.com/nw8Sa2z.png"
+  },
+  {
+    "site_id": "29",
+    "name": "CNN TURK",
+    "lang": "tr",
+    "xmltv_id": "CNNTurk.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/960px-CNN_T%C3%BCrk_logo.svg.png"
+  },
+  {
+    "site_id": "20",
+    "name": "TRT HABER",
+    "lang": "tr",
+    "xmltv_id": "TRTHaber.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"
+  },
+  {
+    "site_id": "331",
+    "name": "TRT SPOR",
+    "lang": "tr",
+    "xmltv_id": "TRTSpor.tr@SD",
+    "logo": "https://i.imgur.com/6tv0zxh.png"
+  },
+  {
+    "site_id": "436",
+    "name": "BABY TV",
+    "lang": "tr",
+    "xmltv_id": "BabyTV.uk@France",
+    "logo": "https://i.imgur.com/4BDJ5FT.png"
+  },
+  {
+    "site_id": "77",
+    "name": "BBC WORLD NEWS",
+    "lang": "tr",
+    "xmltv_id": "BBCNews.uk@Europe",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
+  },
+  {
+    "site_id": "332",
+    "name": "DİYANET TV",
+    "lang": "tr",
+    "xmltv_id": "DiyanetTV.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png"
+  },
+  {
+    "site_id": "439",
+    "name": "KANAL 7",
+    "lang": "tr",
+    "xmltv_id": "Kanal7.tr@SD",
+    "logo": "https://i.imgur.com/0gq9xOm.png"
+  },
+  {
+    "site_id": "262",
+    "name": "TRT ARABI",
+    "lang": "tr",
+    "xmltv_id": "TRTArabi.tr@SD",
+    "logo": "https://i.imgur.com/dEfI2M9.png"
+  },
+  {
+    "site_id": "243",
+    "name": "TRT ÇOCUK",
+    "lang": "tr",
+    "xmltv_id": "TRTCocuk.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"
+  },
+  {
+    "site_id": "300",
+    "name": "ATV",
+    "lang": "tr",
+    "xmltv_id": "ATV.tr@SD",
+    "logo": "https://i.imgur.com/HyVUwFC.png"
   },
   {
     "site_id": "541",
@@ -600,130 +341,6 @@
     "logo": "https://i.imgur.com/uykIdML.png"
   },
   {
-    "site_id": "512",
-    "name": "CBeebies",
-    "lang": "tr",
-    "xmltv_id": "CBeebies.uk@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "317",
-    "name": "DISCOVERY CHANNEL",
-    "lang": "tr",
-    "xmltv_id": "DiscoveryChannel.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
-  },
-  {
-    "site_id": "430",
-    "name": "KANAL D",
-    "lang": "tr",
-    "xmltv_id": "KanalD.tr@SD",
-    "logo": "https://i.imgur.com/9o1atM6.png"
-  },
-  {
-    "site_id": "189",
-    "name": "NICKELODEON SD",
-    "lang": "tr",
-    "xmltv_id": "Nickelodeon.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png"
-  },
-  {
-    "site_id": "313",
-    "name": "Sports TV",
-    "lang": "tr",
-    "xmltv_id": "SportsTV.tr",
-    "logo": "https://i.imgur.com/tGTVcVe.jpg"
-  },
-  {
-    "site_id": "508",
-    "name": "beIN SPORTS MAX 2",
-    "lang": "tr",
-    "logo": "https://i.imgur.com/5dBc5rn.png"
-  },
-  {
-    "site_id": "436",
-    "name": "BABY TV",
-    "lang": "tr",
-    "xmltv_id": "BabyTV.uk@France",
-    "logo": "https://i.imgur.com/4BDJ5FT.png"
-  },
-  {
-    "site_id": "137",
-    "name": "BLOOMBERG",
-    "lang": "tr",
-    "xmltv_id": "BloombergTV.us@Europe",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
-  },
-  {
-    "site_id": "84",
-    "name": "TGRT HABER",
-    "lang": "tr",
-    "xmltv_id": "TGRTHaber.tr@SD",
-    "logo": "https://i.imgur.com/PrxwKDw.png"
-  },
-  {
-    "site_id": "229",
-    "name": "TRT 3 / TRT SPOR",
-    "lang": "tr",
-    "xmltv_id": "TRT3.tr@SD",
-    "logo": "https://i.imgur.com/JrWFwBd.png"
-  },
-  {
-    "site_id": "537",
-    "name": "TRT EBA TV ORTAOKUL",
-    "lang": "tr",
-    "xmltv_id": "TRTEBA.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png"
-  },
-  {
-    "site_id": "331",
-    "name": "TRT SPOR",
-    "lang": "tr",
-    "xmltv_id": "TRTSpor.tr@SD",
-    "logo": "https://i.imgur.com/6tv0zxh.png"
-  },
-  {
-    "site_id": "506",
-    "name": "beIN SPORTS 5",
-    "lang": "tr",
-    "logo": "https://i.imgur.com/2Rha5aY.png"
-  },
-  {
-    "site_id": "551",
-    "name": "GZT",
-    "lang": "tr",
-    "xmltv_id": "GZT.tr",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png"
-  },
-  {
-    "site_id": "301",
-    "name": "AHABER",
-    "lang": "tr",
-    "xmltv_id": "AHaber.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"
-  },
-  {
-    "site_id": "76",
-    "name": "CNN INTERNATIONAL",
-    "lang": "tr",
-    "xmltv_id": "CNNInternational.us@MENA",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
-  },
-  {
-    "site_id": "78",
-    "name": "EURONEWS",
-    "lang": "tr",
-    "xmltv_id": "EuronewsEnglish.fr@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
-  },
-  {
-    "site_id": "262",
-    "name": "TRT ARABI",
-    "lang": "tr",
-    "xmltv_id": "TRTArabi.tr@SD",
-    "logo": "https://i.imgur.com/dEfI2M9.png"
-  },
-  {
     "site_id": "533",
     "name": "TRT SPOR YILDIZ",
     "lang": "tr",
@@ -738,11 +355,11 @@
     "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png"
   },
   {
-    "site_id": "222",
-    "name": "TVNET",
+    "site_id": "539",
+    "name": "ULUSAL TV",
     "lang": "tr",
-    "xmltv_id": "TVNET.tr@SD",
-    "logo": "https://i.imgur.com/mQo8yWQ.png"
+    "xmltv_id": "UlusalKanal.tr@SD",
+    "logo": "https://i.imgur.com/EwSg612.png"
   },
   {
     "site_id": "193",
@@ -751,17 +368,400 @@
     "logo": "https://i.imgur.com/Vtk2cGI.png"
   },
   {
-    "site_id": "483",
-    "name": "beIN",
+    "site_id": "310",
+    "name": "beIN SPORTS 2",
     "lang": "tr",
-    "xmltv_id": "Digiturk4K.tr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Digiturk4K_Logo.png/960px-Digiturk4K_Logo.png"
+    "logo": "https://i.imgur.com/vUJZSvs.png"
   },
   {
-    "site_id": "521",
-    "name": "EKOTURK",
+    "site_id": "556",
+    "name": "AKİT TV",
     "lang": "tr",
-    "xmltv_id": "Ekoturk.tr@SD",
-    "logo": "https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"
+    "xmltv_id": "AkitTV.tr",
+    "logo": "https://i.imgur.com/oGto929.png"
+  },
+  {
+    "site_id": "560",
+    "name": "TYT TÜRK",
+    "lang": "tr",
+    "xmltv_id": "TYTTurk.tr",
+    "logo": "https://tytturk.com/upload/tyt-logo.png"
+  },
+  {
+    "site_id": "523",
+    "name": "CGTN",
+    "lang": "tr",
+    "xmltv_id": "CGTN.cn@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
+  },
+  {
+    "site_id": "317",
+    "name": "DISCOVERY CHANNEL",
+    "lang": "tr",
+    "xmltv_id": "DiscoveryChannel.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+  },
+  {
+    "site_id": "63",
+    "name": "MTV 00s",
+    "lang": "tr",
+    "xmltv_id": "MTV00s.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
+  },
+  {
+    "site_id": "85",
+    "name": "RAI1",
+    "lang": "tr",
+    "xmltv_id": "Rai1.it@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png"
+  },
+  {
+    "site_id": "433",
+    "name": "A SPOR",
+    "lang": "tr",
+    "xmltv_id": "ASpor.tr@SD",
+    "logo": "https://i.imgur.com/ZhkZzLf.png"
+  },
+  {
+    "site_id": "547",
+    "name": "BENGÜTÜRK",
+    "lang": "tr",
+    "xmltv_id": "BenguturkTV.tr@SD",
+    "logo": "https://i.imgur.com/p3ON1oX.png"
+  },
+  {
+    "site_id": "282",
+    "name": "DISNEY JUNIOR",
+    "lang": "tr",
+    "xmltv_id": "DisneyJr.tr@SD",
+    "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png"
+  },
+  {
+    "site_id": "60",
+    "name": "MCM TOP",
+    "lang": "tr",
+    "xmltv_id": "MCMTop.ru@SD",
+    "logo": "https://i.imgur.com/EVtWQLd.png"
+  },
+  {
+    "site_id": "19",
+    "name": "TRT 1",
+    "lang": "tr",
+    "xmltv_id": "TRT1.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png"
+  },
+  {
+    "site_id": "222",
+    "name": "TVNET",
+    "lang": "tr",
+    "xmltv_id": "TVNET.tr@SD",
+    "logo": "https://i.imgur.com/mQo8yWQ.png"
+  },
+  {
+    "site_id": "540",
+    "name": "VAV TV",
+    "lang": "tr",
+    "xmltv_id": "VavTV.tr@SD",
+    "logo": "https://i.imgur.com/jw0gB8L.png"
+  },
+  {
+    "site_id": "532",
+    "name": "YABAN TV",
+    "lang": "tr",
+    "xmltv_id": "YabanTV.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/960px-Yabantv_logo.png"
+  },
+  {
+    "site_id": "507",
+    "name": "beIN SPORTS MAX 1",
+    "lang": "tr",
+    "logo": "https://i.imgur.com/FjWQjdy.png"
+  },
+  {
+    "site_id": "78",
+    "name": "EURONEWS",
+    "lang": "tr",
+    "xmltv_id": "EuronewsEnglish.fr@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png"
+  },
+  {
+    "site_id": "428",
+    "name": "TV8",
+    "lang": "tr",
+    "xmltv_id": "TV8.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png"
+  },
+  {
+    "site_id": "220",
+    "name": "CARTOON NETWORK",
+    "lang": "tr",
+    "xmltv_id": "CartoonNetwork.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+  },
+  {
+    "site_id": "513",
+    "name": "BBC EARTH",
+    "lang": "tr",
+    "logo": "https://bbcearth.ca/wp-content/uploads/2024/02/BBCEarth_Logo-1.png"
+  },
+  {
+    "site_id": "554",
+    "name": "EUROSPORT 1",
+    "lang": "tr",
+    "logo": "https://i.imgur.com/olQJgm7.png"
+  },
+  {
+    "site_id": "456",
+    "name": "beIN H\u0026E",
+    "lang": "tr",
+    "xmltv_id": "beINHE.tr@SD",
+    "logo": "https://i.imgur.com/QmVitgD.png"
+  },
+  {
+    "site_id": "271",
+    "name": "beIN MOVIES PREMIERE",
+    "lang": "tr",
+    "xmltv_id": "beINMoviesPremiere.tr@SD",
+    "logo": "https://i.imgur.com/SVwK50e.png"
+  },
+  {
+    "site_id": "272",
+    "name": "beIN MOVIES STARS",
+    "lang": "tr",
+    "xmltv_id": "beINMoviesStars.tr@SD",
+    "logo": "https://i.imgur.com/eryPkrT.png"
+  },
+  {
+    "site_id": "430",
+    "name": "KANAL D",
+    "lang": "tr",
+    "xmltv_id": "KanalD.tr@SD",
+    "logo": "https://i.imgur.com/9o1atM6.png"
+  },
+  {
+    "site_id": "291",
+    "name": "MİNİKAGO",
+    "lang": "tr",
+    "xmltv_id": "MinikaGo.tr@SD",
+    "logo": "https://i.imgur.com/qIoipDq.png"
+  },
+  {
+    "site_id": "313",
+    "name": "Sports TV",
+    "lang": "tr",
+    "xmltv_id": "SportsTV.tr",
+    "logo": "https://i.imgur.com/tGTVcVe.jpg"
+  },
+  {
+    "site_id": "506",
+    "name": "beIN SPORTS 5",
+    "lang": "tr",
+    "logo": "https://i.imgur.com/2Rha5aY.png"
+  },
+  {
+    "site_id": "178",
+    "name": "24 TV",
+    "lang": "tr",
+    "xmltv_id": "24TV.tr@SD",
+    "logo": "https://i.imgur.com/8FO41es.png"
+  },
+  {
+    "site_id": "74",
+    "name": "FASHION TV",
+    "lang": "tr",
+    "xmltv_id": "FashionTVEurope.fr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png"
+  },
+  {
+    "site_id": "31",
+    "name": "HABERTURK",
+    "lang": "tr",
+    "xmltv_id": "HaberturkTV.tr@SD",
+    "logo": "https://i.imgur.com/6Tw3rUp.png"
+  },
+  {
+    "site_id": "351",
+    "name": "NICKELODEON HD",
+    "lang": "tr",
+    "xmltv_id": "Nickelodeon.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png"
+  },
+  {
+    "site_id": "321",
+    "name": "NICK JR",
+    "lang": "tr",
+    "xmltv_id": "NickJr.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "site_id": "28",
+    "name": "NTV",
+    "lang": "tr",
+    "xmltv_id": "NTV.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png"
+  },
+  {
+    "site_id": "312",
+    "name": "beIN SPORTS 3",
+    "lang": "tr",
+    "logo": "https://i.imgur.com/UYSMao3.png"
+  },
+  {
+    "site_id": "557",
+    "name": "BRT 1",
+    "lang": "tr",
+    "logo": "https://i.imgur.com/gOPAi2c.png"
+  },
+  {
+    "site_id": "561",
+    "name": "CNBC-e",
+    "lang": "tr",
+    "xmltv_id": "CNBCe.tr",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CNBC-e_2025.svg/960px-CNBC-e_2025.svg.png"
+  },
+  {
+    "site_id": "137",
+    "name": "BLOOMBERG",
+    "lang": "tr",
+    "xmltv_id": "BloombergTV.us@Europe",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
+  },
+  {
+    "site_id": "520",
+    "name": "HABERGLOBAL",
+    "lang": "tr",
+    "xmltv_id": "HaberGlobal.tr@SD",
+    "logo": "https://i.imgur.com/fu6XeGS.png"
+  },
+  {
+    "site_id": "298",
+    "name": "HALK TV",
+    "lang": "tr",
+    "xmltv_id": "HalkTV.tr@SD",
+    "logo": "https://i.imgur.com/xM0HA30.png"
+  },
+  {
+    "site_id": "487",
+    "name": "TRT BELGESEL",
+    "lang": "tr",
+    "xmltv_id": "TRTBelgesel.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png"
+  },
+  {
+    "site_id": "261",
+    "name": "TRT MÜZİK",
+    "lang": "tr",
+    "xmltv_id": "TRTMuzik.tr@SD",
+    "logo": "https://i.imgur.com/JgUzRH8.png"
+  },
+  {
+    "site_id": "459",
+    "name": "BBC FIRST",
+    "lang": "tr",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/BBC_First_Foxtel_logo.svg/960px-BBC_First_Foxtel_logo.svg.png"
+  },
+  {
+    "site_id": "30",
+    "name": "360",
+    "lang": "tr",
+    "xmltv_id": "360.tr@SD",
+    "logo": "https://i.imgur.com/agn47sQ.png"
+  },
+  {
+    "site_id": "326",
+    "name": "beIN SERIES 2",
+    "lang": "tr",
+    "xmltv_id": "beINSeries2.qa@SD",
+    "logo": "https://i.imgur.com/c0B8bmf.png"
+  },
+  {
+    "site_id": "542",
+    "name": "FLASH HABER",
+    "lang": "tr",
+    "xmltv_id": "FlashHaberTV.tr@SD",
+    "logo": "https://www.lyngsat.com/logo/tv/ff/flash-haber-tv-tr.png"
+  },
+  {
+    "site_id": "337",
+    "name": "MTV HITS",
+    "lang": "tr",
+    "xmltv_id": "MTVHits.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/960px-MTV_Hits_2021.svg.png"
+  },
+  {
+    "site_id": "544",
+    "name": "SÖZCÜ TV",
+    "lang": "tr",
+    "xmltv_id": "SozcuTV.tr@SD",
+    "logo": "https://i.imgur.com/BxpdvsG.png"
+  },
+  {
+    "site_id": "256",
+    "name": "TEVE2",
+    "lang": "tr",
+    "xmltv_id": "Teve2.tr@SD",
+    "logo": "https://i.imgur.com/rsoSLih.png"
+  },
+  {
+    "site_id": "244",
+    "name": "TRT AVAZ",
+    "lang": "tr",
+    "xmltv_id": "TRTAvaz.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png"
+  },
+  {
+    "site_id": "508",
+    "name": "beIN SPORTS MAX 2",
+    "lang": "tr",
+    "logo": "https://i.imgur.com/5dBc5rn.png"
+  },
+  {
+    "site_id": "551",
+    "name": "GZT",
+    "lang": "tr",
+    "xmltv_id": "GZT.tr",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png"
+  },
+  {
+    "site_id": "299",
+    "name": "beIN İZ",
+    "lang": "tr",
+    "xmltv_id": "beINIZ.tr@SD",
+    "logo": "https://i.imgur.com/K8HU6aQ.png"
+  },
+  {
+    "site_id": "24",
+    "name": "BLOOMBERG HT",
+    "lang": "tr",
+    "xmltv_id": "BloombergHT.tr@SD",
+    "logo": "https://i.imgur.com/bmkXfIE.png"
+  },
+  {
+    "site_id": "18",
+    "name": "FOX",
+    "lang": "tr",
+    "xmltv_id": "Fox.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png"
+  },
+  {
+    "site_id": "537",
+    "name": "TRT EBA TV ORTAOKUL",
+    "lang": "tr",
+    "xmltv_id": "TRTEBA.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png"
+  },
+  {
+    "site_id": "489",
+    "name": "TV8,5",
+    "lang": "tr",
+    "xmltv_id": "TV85.tr@SD",
+    "logo": "https://i.imgur.com/QuelSsc.png"
+  },
+  {
+    "site_id": "166",
+    "name": "ÜLKE TV",
+    "lang": "tr",
+    "xmltv_id": "UlkeTV.tr@SD",
+    "logo": "https://i.imgur.com/wdWR7Qk.png"
   }
 ]

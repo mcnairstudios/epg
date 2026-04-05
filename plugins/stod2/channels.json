@@ -1,5 +1,38 @@
 [
   {
+    "site_id": "besta02",
+    "name": "Besta02",
+    "lang": "is"
+  },
+  {
+    "site_id": "sport",
+    "name": "Stöð 2 Sport",
+    "lang": "is",
+    "xmltv_id": "Stod2Sport.is@SD",
+    "logo": "https://i.imgur.com/JD5nyED.png"
+  },
+  {
+    "site_id": "sport2",
+    "name": "Stöð 2 Sport 2",
+    "lang": "is",
+    "xmltv_id": "Stod2Sport2.is@SD",
+    "logo": "https://i.imgur.com/isXJASk.png"
+  },
+  {
+    "site_id": "sport3",
+    "name": "Stöð 2 Sport 3",
+    "lang": "is",
+    "xmltv_id": "Stod2Sport3.is@SD",
+    "logo": "https://i.imgur.com/xzJg1Ip.png"
+  },
+  {
+    "site_id": "stod2",
+    "name": "Stöð 2",
+    "lang": "is",
+    "xmltv_id": "Stod2.is@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St%C3%B6%C3%B0-2-Logo.svg/960px-St%C3%B6%C3%B0-2-Logo.svg.png"
+  },
+  {
     "site_id": "besta03",
     "name": "Besta03",
     "lang": "is"
@@ -12,44 +45,6 @@
     "logo": "https://i.imgur.com/wYKlDhk.png"
   },
   {
-    "site_id": "sport",
-    "name": "Stöð 2 Sport",
-    "lang": "is",
-    "xmltv_id": "Stod2Sport.is@SD",
-    "logo": "https://i.imgur.com/JD5nyED.png"
-  },
-  {
-    "site_id": "sport3",
-    "name": "Stöð 2 Sport 3",
-    "lang": "is",
-    "xmltv_id": "Stod2Sport3.is@SD",
-    "logo": "https://i.imgur.com/xzJg1Ip.png"
-  },
-  {
-    "site_id": "sport6",
-    "name": "Stöð 2 Sport 6",
-    "lang": "is",
-    "xmltv_id": "Stod2Sport6.is@SD",
-    "logo": "https://i.imgur.com/Is4vjiZ.png"
-  },
-  {
-    "site_id": "besta01",
-    "name": "Besta01",
-    "lang": "is"
-  },
-  {
-    "site_id": "besta02",
-    "name": "Besta02",
-    "lang": "is"
-  },
-  {
-    "site_id": "sport2",
-    "name": "Stöð 2 Sport 2",
-    "lang": "is",
-    "xmltv_id": "Stod2Sport2.is@SD",
-    "logo": "https://i.imgur.com/isXJASk.png"
-  },
-  {
     "site_id": "sport4",
     "name": "Stöð 2 Sport 4",
     "lang": "is",
@@ -57,11 +52,11 @@
     "logo": "https://i.imgur.com/2tJ4SRT.png"
   },
   {
-    "site_id": "stod2",
-    "name": "Stöð 2",
+    "site_id": "sport6",
+    "name": "Stöð 2 Sport 6",
     "lang": "is",
-    "xmltv_id": "Stod2.is@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St%C3%B6%C3%B0-2-Logo.svg/960px-St%C3%B6%C3%B0-2-Logo.svg.png"
+    "xmltv_id": "Stod2Sport6.is@SD",
+    "logo": "https://i.imgur.com/Is4vjiZ.png"
   },
   {
     "site_id": "stod3",
@@ -73,6 +68,11 @@
   {
     "site_id": "vodasport",
     "name": "Vodafone Sport",
+    "lang": "is"
+  },
+  {
+    "site_id": "besta01",
+    "name": "Besta01",
     "lang": "is"
   }
 ]
