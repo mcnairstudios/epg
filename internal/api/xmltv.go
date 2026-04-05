@@ -2,6 +2,8 @@ package api
 
 import (
 	"compress/gzip"
+	"fmt"
+	"hash/fnv"
 	"net/http"
 	"strings"
 
@@ -92,7 +94,18 @@ func (s *Server) writeXMLTV(w http.ResponseWriter, r *http.Request, f store.Filt
 		return
 	}
 
+	h := fnv.New64a()
+	h.Write(data)
+	etag := fmt.Sprintf(`"%x"`, h.Sum64())
+
 	w.Header().Set("Content-Type", "application/xml")
+	w.Header().Set("ETag", etag)
+	w.Header().Set("Cache-Control", "no-cache")
+
+	if r.Header.Get("If-None-Match") == etag {
+		w.WriteHeader(http.StatusNotModified)
+		return
+	}
 
 	if strings.Contains(r.Header.Get("Accept-Encoding"), "gzip") {
 		w.Header().Set("Content-Encoding", "gzip")
