@@ -1,6 +1,6 @@
 # Missing Logos
 Channels with no logo found in tv-logos, grouped by plugin.
-**62380/160131** channels have logos. **97751** missing.
+**62383/160131** channels have logos. **97748** missing.
 
 ## abcau (240/548)
 - NO_XMLTV_ID (ASPIR)
@@ -12465,7 +12465,7 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (江苏影视)
 - NO_XMLTV_ID (江西卫视)
 
-## epgshare (7813/20706)
+## epgshare (7815/20706)
 - NO_XMLTV_ID (EuroNews)
 - NO_XMLTV_ID (FR: Les Anges)
 - NO_XMLTV_ID (DirecTV MLB Extra Innings (729))
@@ -15595,7 +15595,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (BYU (K51KS-D2) Malad, Idaho)
 - NO_XMLTV_ID (ABC News Adelaide)
 - HAHATV.sk (HaHa TV)
-- TraLaLaTV.ro (TraLaLa TV)
 - KDBCDT1.us (CBS (KDBC) El Paso, TX)
 - NO_XMLTV_ID (Sky News Australia Extra)
 - NO_XMLTV_ID (Todo Novelas, más Pasiones)
@@ -17607,7 +17606,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (WPGA-TV Macon, GA)
 - NO_XMLTV_ID (北海道（札幌）)
 - RyanandFriends.us (Ryan and Friends)
-- MusicMemories.uk (Spotlight TV)
 - KXTVDT1.us (ABC (KXTV) Sacramento, CA)
 - NO_XMLTV_ID (SWX Right Now (KNDU-DT3) Tri-Cities, WA)
 - NO_XMLTV_ID (Court Sports Network)
@@ -75629,7 +75627,7 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (France Inter)
 - NO_XMLTV_ID (Classic RnB & Soul)
 
-## teliatv (285/342)
+## teliatv (286/342)
 - Duo4.ee (Duo 4)
 - NO_XMLTV_ID (3+)
 - NO_XMLTV_ID (Classica)
@@ -75677,7 +75675,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - AloTV.ee (ALO-TV)
 - NO_XMLTV_ID (НЕБЕСА ТВ7)
 - Kanal2.ee (Kanal 2)
-- TaevasTV7.fi (TAEVAS TV7)
 - NO_XMLTV_ID (НЕБЕСА ТВ7)
 - Inspira.ee (Inspira)
 - Ukraina24.ua (Ukraina 24)
