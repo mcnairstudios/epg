@@ -217,8 +217,7 @@
   {
     "site_id": "hgtv-hd",
     "name": "HGTV HD",
-    "lang": "ro",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/51758843991.png"
+    "lang": "ro"
   },
   {
     "site_id": "magic-tv",
@@ -1087,8 +1086,7 @@
   {
     "site_id": "cinethronix",
     "name": "Cinethronix",
-    "lang": "ro",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/91435387721.png"
+    "lang": "ro"
   },
   {
     "site_id": "digi-sport-1-hd",
@@ -1217,8 +1215,7 @@
   {
     "site_id": "exploris-tv",
     "name": "Exploris TV",
-    "lang": "ro",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/6b744618c8e06c4797d77a2fce1519b0.png"
+    "lang": "ro"
   },
   {
     "site_id": "moldova-tv",
@@ -1790,8 +1787,7 @@
   {
     "site_id": "bucuresti-tv",
     "name": "Bucuresti TV",
-    "lang": "ro",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/16392172891.png"
+    "lang": "ro"
   },
   {
     "site_id": "fashion-box-hd",
@@ -1846,7 +1842,8 @@
     "site_id": "crime-investigation",
     "name": "Crime + Investigation",
     "lang": "ro",
-    "xmltv_id": "CrimePlusInvestigation.uk@SD"
+    "xmltv_id": "CrimePlusInvestigation.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/crime-and-investigation-uk.png"
   },
   {
     "site_id": "duna",
@@ -2022,8 +2019,7 @@
   {
     "site_id": "fashion-tv-hd",
     "name": "Fashion TV HD",
-    "lang": "ro",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/93071639971.png"
+    "lang": "ro"
   },
   {
     "site_id": "m5-hd",
@@ -2264,8 +2260,7 @@
   {
     "site_id": "bbc-world-news-hd",
     "name": "BBC World News HD",
-    "lang": "ro",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/34947262281.png"
+    "lang": "ro"
   },
   {
     "site_id": "fashion-tv",

@@ -3,7 +3,8 @@
     "site_id": "dvb://233a..1c00",
     "name": "BBC RB 1",
     "lang": "en",
-    "xmltv_id": "BBCRedButton1.uk@SD"
+    "xmltv_id": "BBCRedButton1.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-red-button-uk.png"
   },
   {
     "site_id": "dvb://233a..2100",
@@ -219,8 +220,7 @@
   {
     "site_id": "http://bds.tv/services/BT_771750_1354_HD",
     "name": "Sky Sports Racing HD",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/2ef6110eda04cbb88f07c176a8d7d794.png"
+    "lang": "en"
   },
   {
     "site_id": "dvb://233a..3850",
@@ -915,8 +915,7 @@
   {
     "site_id": "http://bds.tv/services/BT_756787",
     "name": "Discovery HD",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/26040173181.png"
+    "lang": "en"
   },
   {
     "site_id": "http://bds.tv/services/BT_758031_1815_HD",
@@ -1057,7 +1056,8 @@
     "site_id": "dvb://233a..6ec0",
     "name": "GREAT! tv +1",
     "lang": "en",
-    "xmltv_id": "GREATtv.uk@Plus1"
+    "xmltv_id": "GREATtv.uk@Plus1",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-tv-uk.png"
   },
   {
     "site_id": "dvb://233a..6ee0",
@@ -1137,8 +1137,7 @@
   {
     "site_id": "dvb://233a..5740",
     "name": "Drama+1",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/2216615134.png"
+    "lang": "en"
   },
   {
     "site_id": "http://bds.tv/services/BT_760134_1306_HD",
@@ -1192,8 +1191,7 @@
   {
     "site_id": "dvb://233a..2104",
     "name": "Channel 4 +1",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/dd3948904a5c3aed436f6c67ddff6ef7.png"
+    "lang": "en"
   },
   {
     "site_id": "http://bds.tv/services/BT_772488_1276_HD",
@@ -1473,8 +1471,7 @@
   {
     "site_id": "dvb://233a..4680",
     "name": "BBC Four HD",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/74e2d2bf400cac3c130718da4342fdc8.png"
+    "lang": "en"
   },
   {
     "site_id": "http://bds.tv/services/BT_756533_1302_HD",

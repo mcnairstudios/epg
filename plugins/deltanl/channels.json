@@ -758,8 +758,7 @@
   {
     "site_id": "3030",
     "name": "Ziggo Sport Select",
-    "lang": "nl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/74870643241.png"
+    "lang": "nl"
   },
   {
     "site_id": "3096",
@@ -1076,8 +1075,7 @@
   {
     "site_id": "72",
     "name": "TV Rijnmond",
-    "lang": "nl",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/7071139738.jpg"
+    "lang": "nl"
   },
   {
     "site_id": "3015",
@@ -1166,8 +1164,7 @@
   {
     "site_id": "10022",
     "name": "LOVO-MTV",
-    "lang": "nl",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/83bd6e471145729312feca942b26e010.png"
+    "lang": "nl"
   },
   {
     "site_id": "10042",
@@ -1193,7 +1190,8 @@
     "site_id": "3007",
     "name": "Crime+Investigation",
     "lang": "nl",
-    "xmltv_id": "CrimePlusInvestigation.uk@SD"
+    "xmltv_id": "CrimePlusInvestigation.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/crime-and-investigation-uk.png"
   },
   {
     "site_id": "3057",
@@ -1597,8 +1595,7 @@
     "site_id": "3067",
     "name": "Den Haag TV",
     "lang": "nl",
-    "xmltv_id": "DenHaagTV.nl@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/24382729541.png"
+    "xmltv_id": "DenHaagTV.nl@SD"
   },
   {
     "site_id": "3185",

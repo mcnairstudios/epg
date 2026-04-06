@@ -137,8 +137,7 @@
   {
     "site_id": "si/tvspored#da-vinci-learning",
     "name": "Da Vinci Learning",
-    "lang": "sl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0c17ada39729404d61e0fd203429abc7.png"
+    "lang": "sl"
   },
   {
     "site_id": "at/tvprogramm#cgtn",
@@ -585,8 +584,7 @@
     "site_id": "ks/programacioni#elrodi",
     "name": "Elrodi",
     "lang": "sq",
-    "xmltv_id": "ElrodiTV.al@SD",
-    "logo": "https://curl.pk/img/u/5d1d61ed55450c7030b78b2eb48ba09d7106.jpg"
+    "xmltv_id": "ElrodiTV.al@SD"
   },
   {
     "site_id": "pl/program#filmbox-extra-pl",
@@ -618,8 +616,7 @@
   {
     "site_id": "ks/programacioni#pink-erotic-2",
     "name": "Pink Erotic 2",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "sq"
   },
   {
     "site_id": "ks/programacioni#rai-2",
@@ -718,8 +715,7 @@
     "site_id": "bg/tv-programa#xxl",
     "name": "XXL",
     "lang": "fr",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "es/programacion-tv#mtv-dance-international",
@@ -959,7 +955,8 @@
     "site_id": "gb/tvschedule#sony-movies-christmas",
     "name": "Great! Movies Classic",
     "lang": "en",
-    "xmltv_id": "GREATromance.uk"
+    "xmltv_id": "GREATromance.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-romance-uk.png"
   },
   {
     "site_id": "ie/tvschedule#kix",
@@ -1105,8 +1102,7 @@
     "site_id": "si/tvspored#tv-vijesti",
     "name": "TV Vijesti",
     "lang": "sl",
-    "xmltv_id": "TVVijesti.me@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/92455565781.png"
+    "xmltv_id": "TVVijesti.me@SD"
   },
   {
     "site_id": "pt/programacao#eleven-sports-6-pt",
@@ -1200,8 +1196,7 @@
   {
     "site_id": "ie/tvschedule#alibi",
     "name": "U&Alibi",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/14558378dd001a76a4bc375c692111a8.png"
+    "lang": "en"
   },
   {
     "site_id": "ks/programacioni#alsat-m",
@@ -1442,8 +1437,7 @@
     "site_id": "me/tvprogram#mcn-tv-albania",
     "name": "MCN TV",
     "lang": "en",
-    "xmltv_id": "MCNTV.al",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/4013e28e38c6e6ba7aa90815db541529.png"
+    "xmltv_id": "MCNTV.al"
   },
   {
     "site_id": "si/tvspored#alfa-tv",
@@ -1572,8 +1566,7 @@
   {
     "site_id": "tvprogram#nick-junior-uk",
     "name": "Nick Junior UK",
-    "lang": "hr",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "hr"
   },
   {
     "site_id": "tvprogram#polsat-games",
@@ -1753,8 +1746,7 @@
   {
     "site_id": "ch/tv-programm#sportdigital-fussball",
     "name": "Sportdigital Fußball",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/6143353842.png"
+    "lang": "de"
   },
   {
     "site_id": "me/tvprogram#tv-duga-sat",
@@ -1791,8 +1783,7 @@
   {
     "site_id": "ch/tv-programm#pro-7",
     "name": "ProSieben",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "de"
   },
   {
     "site_id": "mk/tv-raspored#pikaboo",
@@ -2027,8 +2018,7 @@
   {
     "site_id": "me/tvprogram#pink-erotic-4",
     "name": "Pink Erotic 4",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "en"
   },
   {
     "site_id": "al/programacioni#kino-polska-muzyka",
@@ -2323,8 +2313,7 @@
     "site_id": "ks/programacioni#21-mix",
     "name": "21 Mix",
     "lang": "sq",
-    "xmltv_id": "21Mix.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/33152009321.png"
+    "xmltv_id": "21Mix.xk@SD"
   },
   {
     "site_id": "ks/programacioni#balkanika",
@@ -2662,8 +2651,7 @@
   {
     "site_id": "ie/tvschedule#national-geo-uk",
     "name": "National Geographic Channel UK",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14392145511.png"
+    "lang": "en"
   },
   {
     "site_id": "pl/program#beyaz-tv",
@@ -2735,8 +2723,7 @@
     "site_id": "mk/tv-raspored#junior-tv",
     "name": "Junior TV",
     "lang": "mk",
-    "xmltv_id": "JuniorTV.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50689904111.png"
+    "xmltv_id": "JuniorTV.al@SD"
   },
   {
     "site_id": "pl/program#tgrt-belgesel",
@@ -3004,8 +2991,7 @@
     "site_id": "mk/tv-raspored#explorer-natyra",
     "name": "Explorer Natyra",
     "lang": "mk",
-    "xmltv_id": "ExplorerNatyra.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/38436400491.png"
+    "xmltv_id": "ExplorerNatyra.al@SD"
   },
   {
     "site_id": "pt/programacao#active-family",
@@ -3097,8 +3083,7 @@
     "site_id": "al/programacioni#my-music",
     "name": "My Music",
     "lang": "sq",
-    "xmltv_id": "MyMusic.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/89070351491.png"
+    "xmltv_id": "MyMusic.al@SD"
   },
   {
     "site_id": "at/tvprogramm#axn-black-pl",
@@ -3149,8 +3134,7 @@
   {
     "site_id": "al/programacioni#rtv-21-popullore",
     "name": "RTV 21 Popullore",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/98255322761.png"
+    "lang": "sq"
   },
   {
     "site_id": "ks/programacioni#tv-arena-sport-3",
@@ -3291,8 +3275,7 @@
   {
     "site_id": "ba/tvprogram#pro-7",
     "name": "ProSieben",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "bs"
   },
   {
     "site_id": "gb/tvschedule#beyaz-tv",
@@ -3635,8 +3618,7 @@
   {
     "site_id": "ks/programacioni#rts1",
     "name": "RTS 1",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a6e62138c1373db1b97e3db48e629554.png"
+    "lang": "sq"
   },
   {
     "site_id": "de/tvprogramm#ginx",
@@ -4006,8 +3988,7 @@
     "site_id": "ks/programacioni#my-music",
     "name": "My Music",
     "lang": "sq",
-    "xmltv_id": "MyMusic.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/89070351491.png"
+    "xmltv_id": "MyMusic.al@SD"
   },
   {
     "site_id": "mk/tv-raspored#nowa-tv",
@@ -4191,8 +4172,7 @@
   {
     "site_id": "hu/tvmusor#pro-7",
     "name": "ProSieben",
-    "lang": "hu",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "hu"
   },
   {
     "site_id": "rs/tvprogram#rai-3",
@@ -4351,8 +4331,7 @@
     "site_id": "rs/tvprogram#hema-tv",
     "name": "HEMA TV",
     "lang": "sr",
-    "xmltv_id": "HemaTV.ba",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/88748236951.png"
+    "xmltv_id": "HemaTV.ba"
   },
   {
     "site_id": "tr/tv-rehberi#dizi-smart-premium",
@@ -4392,8 +4371,7 @@
   {
     "site_id": "ch/tv-programm#nautical-channel",
     "name": "The Nautical Channel",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/2840376147.png"
+    "lang": "de"
   },
   {
     "site_id": "gb/tvschedule#film4",
@@ -4410,8 +4388,7 @@
   {
     "site_id": "rs/tvprogram#top-tv",
     "name": "Top TV",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/35817394071.png"
+    "lang": "sr"
   },
   {
     "site_id": "fr/programme-tv#stars-tv-pl",
@@ -4487,7 +4464,8 @@
     "site_id": "ie/tvschedule#sony-movies-christmas",
     "name": "Great! Movies Classic",
     "lang": "en",
-    "xmltv_id": "GREATromance.uk"
+    "xmltv_id": "GREATromance.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-romance-uk.png"
   },
   {
     "site_id": "me/tvprogram#kino-polska-muzyka",
@@ -4499,8 +4477,7 @@
   {
     "site_id": "me/tvprogram#pink-erotic-3",
     "name": "Pink Erotic 3",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "en"
   },
   {
     "site_id": "rs/tvprogram#tdc",
@@ -4531,8 +4508,7 @@
   {
     "site_id": "rs/tvprogram#nick-jr",
     "name": "Nick Junior",
-    "lang": "sr",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "sr"
   },
   {
     "site_id": "tr/tv-rehberi#kral-pop-tv",
@@ -4876,8 +4852,7 @@
     "site_id": "al/programacioni#cufo-tv",
     "name": "Cufo TV",
     "lang": "hr",
-    "xmltv_id": "Cufo.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/85299428171.png"
+    "xmltv_id": "Cufo.al@SD"
   },
   {
     "site_id": "al/programacioni#hse24-trend",
@@ -4902,8 +4877,7 @@
     "site_id": "me/tvprogram#junior-tv",
     "name": "Junior TV",
     "lang": "en",
-    "xmltv_id": "JuniorTV.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50689904111.png"
+    "xmltv_id": "JuniorTV.al@SD"
   },
   {
     "site_id": "pl/program#cine-famiz",
@@ -5331,8 +5305,7 @@
     "site_id": "me/tvprogram#explorer-shkence",
     "name": "Explorer Shkence",
     "lang": "en",
-    "xmltv_id": "ExplorerShkence.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/07f7f54bb06de982405c06c106718c7e.png"
+    "xmltv_id": "ExplorerShkence.al@SD"
   },
   {
     "site_id": "me/tvprogram#vojvodina-2",
@@ -5344,8 +5317,7 @@
   {
     "site_id": "mk/tv-raspored#super-rtl",
     "name": "Super RTL",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "mk"
   },
   {
     "site_id": "rs/tvprogram#pink-erotic-6",
@@ -5355,8 +5327,7 @@
   {
     "site_id": "rs/tvprogram#pink-erotic-8",
     "name": "Pink Erotic 8",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "sr"
   },
   {
     "site_id": "si/tvspored#arena-sport-3-si",
@@ -5472,8 +5443,7 @@
     "site_id": "ba/tvprogram#o-kanal",
     "name": "O Kanal",
     "lang": "hr",
-    "xmltv_id": "OKanal.ba@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/76360529401.png"
+    "xmltv_id": "OKanal.ba@SD"
   },
   {
     "site_id": "at/tvprogramm#eska-rock-tv",
@@ -5493,8 +5463,7 @@
     "site_id": "de/tvprogramm#rtk-1",
     "name": "RTK 1",
     "lang": "de",
-    "xmltv_id": "RTK1.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/64228270451.png"
+    "xmltv_id": "RTK1.xk@SD"
   },
   {
     "site_id": "fr/programme-tv#telezuri",
@@ -5511,8 +5480,7 @@
     "site_id": "ks/programacioni#smile",
     "name": "Tring Smile",
     "lang": "sq",
-    "xmltv_id": "Smile.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/46661418561.png"
+    "xmltv_id": "Smile.al@SD"
   },
   {
     "site_id": "at/tvprogramm#tvp-info",
@@ -5590,8 +5558,7 @@
     "site_id": "me/tvprogram#elrodi",
     "name": "Elrodi",
     "lang": "en",
-    "xmltv_id": "ElrodiTV.al@SD",
-    "logo": "https://curl.pk/img/u/5d1d61ed55450c7030b78b2eb48ba09d7106.jpg"
+    "xmltv_id": "ElrodiTV.al@SD"
   },
   {
     "site_id": "mk/tv-raspored#xtreme-tv",
@@ -5622,8 +5589,7 @@
     "site_id": "al/programacioni#tv-dukagjini",
     "name": "TV Dukagjini",
     "lang": "sq",
-    "xmltv_id": "RTVDukagjini.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/8171032546.png"
+    "xmltv_id": "RTVDukagjini.xk@SD"
   },
   {
     "site_id": "de/tvprogramm#pink-extra",
@@ -5755,8 +5721,7 @@
   {
     "site_id": "pt/programacao#pro-7",
     "name": "ProSieben",
-    "lang": "pt",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "pt"
   },
   {
     "site_id": "si/tvspored#pink-film",
@@ -6155,8 +6120,7 @@
     "site_id": "ba/tvprogram#tv-vijesti",
     "name": "TV Vijesti",
     "lang": "bs",
-    "xmltv_id": "TVVijesti.me@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/92455565781.png"
+    "xmltv_id": "TVVijesti.me@SD"
   },
   {
     "site_id": "ba/tvprogram#tvp-3",
@@ -6667,8 +6631,7 @@
   {
     "site_id": "at/tvprogramm#sky-sport-bundesliga-3",
     "name": "Sky Bundesliga 3",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/5405529047.jpg"
+    "lang": "de"
   },
   {
     "site_id": "me/tvprogram#slo1",
@@ -6755,8 +6718,7 @@
   {
     "site_id": "me/tvprogram#pink-erotic-7",
     "name": "Pink Erotic 7",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "en"
   },
   {
     "site_id": "me/tvprogram#tvcg3",
@@ -6843,8 +6805,7 @@
     "site_id": "ba/tvprogram#rtv-ze",
     "name": "RTV Zenica",
     "lang": "bs",
-    "xmltv_id": "RTVZenica.ba",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/3188739260.png"
+    "xmltv_id": "RTVZenica.ba"
   },
   {
     "site_id": "ch/tv-programm#ale-kino",
@@ -7154,8 +7115,7 @@
   {
     "site_id": "gb/tvschedule#channel-4-plus-1",
     "name": "Channel 4 +1",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/dd3948904a5c3aed436f6c67ddff6ef7.png"
+    "lang": "en"
   },
   {
     "site_id": "mk/tv-raspored#anixe-hd",
@@ -7259,8 +7219,7 @@
     "site_id": "al/programacioni#tip-tv",
     "name": "Tip TV",
     "lang": "sq",
-    "xmltv_id": "TipTV.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14247623801.png"
+    "xmltv_id": "TipTV.al@SD"
   },
   {
     "site_id": "ba/tvprogram#ewtn-pl",
@@ -7321,8 +7280,7 @@
   {
     "site_id": "ie/tvschedule#nicktoons-uk",
     "name": "Nicktoons UK",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/edc33800ea092479a2f752bf0f09964d.png"
+    "lang": "en"
   },
   {
     "site_id": "it/guida-tv#telequattro",
@@ -7339,8 +7297,7 @@
   {
     "site_id": "rs/tvprogram#pro-7",
     "name": "ProSieben",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "sr"
   },
   {
     "site_id": "ba/tvprogram#cinestar-tv-2",
@@ -7460,8 +7417,7 @@
     "site_id": "ks/programacioni#explorer-shkence",
     "name": "Explorer Shkence",
     "lang": "sq",
-    "xmltv_id": "ExplorerShkence.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/07f7f54bb06de982405c06c106718c7e.png"
+    "xmltv_id": "ExplorerShkence.al@SD"
   },
   {
     "site_id": "pt/programacao#ard-alpha",
@@ -7902,8 +7858,7 @@
     "site_id": "mk/tv-raspored#my-music",
     "name": "My Music",
     "lang": "mk",
-    "xmltv_id": "MyMusic.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/89070351491.png"
+    "xmltv_id": "MyMusic.al@SD"
   },
   {
     "site_id": "mk/tv-raspored#nova-s",
@@ -7929,8 +7884,7 @@
   {
     "site_id": "bg/tv-programa#love-nature",
     "name": "Love Nature US",
-    "lang": "bg",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50027339511.png"
+    "lang": "bg"
   },
   {
     "site_id": "de/tvprogramm#tv-4",
@@ -7954,8 +7908,7 @@
   {
     "site_id": "ro/program-tv#nautical-channel",
     "name": "The Nautical Channel",
-    "lang": "ro",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/2840376147.png"
+    "lang": "ro"
   },
   {
     "site_id": "si/tvspored#rtl2",
@@ -8180,8 +8133,7 @@
   {
     "site_id": "at/tvprogramm#nautical-channel",
     "name": "The Nautical Channel",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/2840376147.png"
+    "lang": "de"
   },
   {
     "site_id": "ch/tv-programm#trt-arabic",
@@ -8271,8 +8223,7 @@
   {
     "site_id": "bg/tv-programa#super-rtl",
     "name": "Super RTL",
-    "lang": "bg",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "bg"
   },
   {
     "site_id": "es/programacion-tv#folx-tv",
@@ -8333,8 +8284,7 @@
     "site_id": "pt/programacao#casa-e-cozinha",
     "name": "Casa e Cozinha",
     "lang": "pt",
-    "xmltv_id": "CasaeCozinha.pt@SD",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/6712fdaf0d006b5d9042a077c4d70f22.png"
+    "xmltv_id": "CasaeCozinha.pt@SD"
   },
   {
     "site_id": "ba/tvprogram#qvc-deutschland",
@@ -8387,8 +8337,7 @@
     "site_id": "gb/tvschedule#xxl",
     "name": "XXL",
     "lang": "en",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "ie/tvschedule#tgrt-belgesel",
@@ -8671,8 +8620,7 @@
   {
     "site_id": "gb/tvschedule#national-geo-uk",
     "name": "National Geographic Channel UK",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14392145511.png"
+    "lang": "en"
   },
   {
     "site_id": "ie/tvschedule#nuta-tv",
@@ -9237,8 +9185,7 @@
   {
     "site_id": "mk/tv-raspored#syri-tv",
     "name": "Syri TV",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/bfb4c5b1297eb56379aa46026b39658d.png"
+    "lang": "mk"
   },
   {
     "site_id": "ro/program-tv#fokus-tv",
@@ -9421,8 +9368,7 @@
   {
     "site_id": "at/tvprogramm#sky-sport-bundesliga-6",
     "name": "Sky Bundesliga 6",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/7458211925.jpg"
+    "lang": "de"
   },
   {
     "site_id": "fr/programme-tv#rtl-2",
@@ -9633,8 +9579,7 @@
   {
     "site_id": "gb/tvschedule#alibi",
     "name": "U&Alibi",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/14558378dd001a76a4bc375c692111a8.png"
+    "lang": "en"
   },
   {
     "site_id": "it/guida-tv#crime-investigation-polsat",
@@ -9729,8 +9674,7 @@
   {
     "site_id": "de/tvprogramm#sky-sport-bundesliga-5",
     "name": "Sky Bundesliga 5",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/8037478961.jpg"
+    "lang": "de"
   },
   {
     "site_id": "es/programacion-tv#tvp-2",
@@ -9775,8 +9719,7 @@
     "site_id": "mk/tv-raspored#stinet",
     "name": "Stinet",
     "lang": "mk",
-    "xmltv_id": "Stinet.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/984dee2c519c758d80cf4438dee84aba.png"
+    "xmltv_id": "Stinet.al@SD"
   },
   {
     "site_id": "pl/program#atv2",
@@ -9912,8 +9855,7 @@
     "site_id": "mk/tv-raspored#tv-dukagjini",
     "name": "TV Dukagjini",
     "lang": "mk",
-    "xmltv_id": "RTVDukagjini.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/8171032546.png"
+    "xmltv_id": "RTVDukagjini.xk@SD"
   },
   {
     "site_id": "si/tvspored#duna-world",
@@ -9946,8 +9888,7 @@
   {
     "site_id": "pl/program#nautical-channel",
     "name": "The Nautical Channel",
-    "lang": "pl",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/2840376147.png"
+    "lang": "pl"
   },
   {
     "site_id": "si/tvspored#mezzo-live-hd",
@@ -9997,8 +9938,7 @@
     "site_id": "al/programacioni#zjarr-tv",
     "name": "Zjarr TV",
     "lang": "sq",
-    "xmltv_id": "ZjarrTV.al",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/24675970871.png"
+    "xmltv_id": "ZjarrTV.al"
   },
   {
     "site_id": "es/programacion-tv#tvn-style",
@@ -10025,8 +9965,7 @@
   {
     "site_id": "me/tvprogram#pink-erotic-1",
     "name": "Pink Erotic 1",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "en"
   },
   {
     "site_id": "ro/program-tv#bollywood-tv-film-ro",
@@ -10647,8 +10586,7 @@
     "site_id": "al/programacioni#stinet",
     "name": "Stinet",
     "lang": "sq",
-    "xmltv_id": "Stinet.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/984dee2c519c758d80cf4438dee84aba.png"
+    "xmltv_id": "Stinet.al@SD"
   },
   {
     "site_id": "ch/tv-programm#euronews",
@@ -11473,8 +11411,7 @@
     "site_id": "si/tvspored#o-kanal",
     "name": "O Kanal",
     "lang": "sl",
-    "xmltv_id": "OKanal.ba@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/76360529401.png"
+    "xmltv_id": "OKanal.ba@SD"
   },
   {
     "site_id": "tr/tv-rehberi#discovery-historia",
@@ -11577,8 +11514,7 @@
     "site_id": "ks/programacioni#zico-tv",
     "name": "Zico TV",
     "lang": "sq",
-    "xmltv_id": "ZICOTV.rs@SD",
-    "logo": "https://curl.pk/img/u/0f30fbd07472a8a0376f314734a593dd1956.png"
+    "xmltv_id": "ZICOTV.rs@SD"
   },
   {
     "site_id": "ro/program-tv#tv2-comedy",
@@ -11751,8 +11687,7 @@
   {
     "site_id": "de/tvprogramm#rbb-fernsehen-berlin",
     "name": "RBB Fernsehen Berlin",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0d79953bdcbc59cc45d3277be8fd8799.png"
+    "lang": "de"
   },
   {
     "site_id": "es/programacion-tv#trt-avaz",
@@ -11844,8 +11779,7 @@
   {
     "site_id": "ba/tvprogram#n1-rs",
     "name": "N1 RS",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/3391356212.png"
+    "lang": "bs"
   },
   {
     "site_id": "ch/tv-programm#sinema-aksiyon-2",
@@ -11914,8 +11848,7 @@
     "site_id": "mk/tv-raspored#bang-bang",
     "name": "Bang Bang",
     "lang": "mk",
-    "xmltv_id": "BangBang.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/20194647121.png"
+    "xmltv_id": "BangBang.al@SD"
   },
   {
     "site_id": "ro/program-tv#pro-gold-ro",
@@ -11986,8 +11919,7 @@
   {
     "site_id": "gb/tvschedule#nick-junior-uk",
     "name": "Nick Junior UK",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "en"
   },
   {
     "site_id": "si/tvspored#kanal-24-tr",
@@ -12145,7 +12077,8 @@
     "site_id": "tvprogram#sony-movies-action",
     "name": "Great! Movies Action",
     "lang": "hr",
-    "xmltv_id": "GREATaction.uk@SD"
+    "xmltv_id": "GREATaction.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-action-uk.png"
   },
   {
     "site_id": "at/tvprogramm#sat-1-at",
@@ -12254,8 +12187,7 @@
   {
     "site_id": "rs/tvprogram#pink-erotic-2",
     "name": "Pink Erotic 2",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "sr"
   },
   {
     "site_id": "gb/tvschedule#smithsonian-channel",
@@ -12286,8 +12218,7 @@
   {
     "site_id": "me/tvprogram#n1-rs",
     "name": "N1 RS",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/3391356212.png"
+    "lang": "en"
   },
   {
     "site_id": "rs/tvprogram#obn",
@@ -12500,8 +12431,7 @@
     "site_id": "ks/programacioni#zjarr-tv",
     "name": "Zjarr TV",
     "lang": "sq",
-    "xmltv_id": "ZjarrTV.al",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/24675970871.png"
+    "xmltv_id": "ZjarrTV.al"
   },
   {
     "site_id": "pl/program#djazz-tv",
@@ -12605,8 +12535,7 @@
   {
     "site_id": "si/tvspored#n1-rs",
     "name": "N1 RS",
-    "lang": "sl",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/3391356212.png"
+    "lang": "sl"
   },
   {
     "site_id": "tr/tv-rehberi#sinema-yerli",
@@ -12730,8 +12659,7 @@
     "site_id": "me/tvprogram#o-kanal",
     "name": "O Kanal",
     "lang": "en",
-    "xmltv_id": "OKanal.ba@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/76360529401.png"
+    "xmltv_id": "OKanal.ba@SD"
   },
   {
     "site_id": "ba/tvprogram#pink-world",
@@ -13033,8 +12961,7 @@
   {
     "site_id": "al/programacioni#art-sport-1",
     "name": "ART Sport 1",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/13255073441.png"
+    "lang": "sq"
   },
   {
     "site_id": "hu/tvmusor#viasat-history",
@@ -13111,8 +13038,7 @@
     "site_id": "me/tvprogram#my-music",
     "name": "My Music",
     "lang": "en",
-    "xmltv_id": "MyMusic.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/89070351491.png"
+    "xmltv_id": "MyMusic.al@SD"
   },
   {
     "site_id": "ba/tvprogram#hbo-comedy",
@@ -13265,8 +13191,7 @@
   {
     "site_id": "de/tvprogramm#super-rtl",
     "name": "Super RTL",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "de"
   },
   {
     "site_id": "hu/tvmusor#polsat-2",
@@ -13384,8 +13309,7 @@
     "site_id": "mk/tv-raspored#xxl",
     "name": "XXL",
     "lang": "mk",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "ch/tv-programm#a-news",
@@ -13404,8 +13328,7 @@
   {
     "site_id": "rs/tvprogram#pink-erotic-5",
     "name": "Pink Erotic 5",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "sr"
   },
   {
     "site_id": "at/tvprogramm#sr",
@@ -13657,8 +13580,7 @@
   {
     "site_id": "tr/tv-rehberi#tivibu-spor-1",
     "name": "Tivibu Spor 1",
-    "lang": "tr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/e9232f3bd3029bcf99f4dc618575ebed.png"
+    "lang": "tr"
   },
   {
     "site_id": "es/programacion-tv#movistar-plus-2",
@@ -13671,8 +13593,7 @@
     "site_id": "mk/tv-raspored#cufo-tv",
     "name": "Cufo TV",
     "lang": "mk",
-    "xmltv_id": "Cufo.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/85299428171.png"
+    "xmltv_id": "Cufo.al@SD"
   },
   {
     "site_id": "ro/program-tv#cinethronix-ro",
@@ -13884,8 +13805,7 @@
   {
     "site_id": "ro/program-tv#eurosport-2-int",
     "name": "Eurosport 2 INT",
-    "lang": "ro",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/7e2d38cf7858e2d4001491c5d5e5ef2f.png"
+    "lang": "ro"
   },
   {
     "site_id": "rs/tvprogram#pink-kuvar",
@@ -13997,8 +13917,7 @@
   {
     "site_id": "pl/program#super-rtl",
     "name": "Super RTL",
-    "lang": "pl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "pl"
   },
   {
     "site_id": "pl/program#trt-eba-tv-ortaokul",
@@ -14220,8 +14139,7 @@
   {
     "site_id": "ks/programacioni#pink-erotic-1",
     "name": "Pink Erotic 1",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "sq"
   },
   {
     "site_id": "mk/tv-raspored#tera-tv",
@@ -14319,8 +14237,7 @@
   {
     "site_id": "at/tvprogramm#sky-sport-bundesliga-4",
     "name": "Sky Bundesliga 4",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/7594288508.jpg"
+    "lang": "de"
   },
   {
     "site_id": "ba/tvprogram#viasat-nature",
@@ -14395,8 +14312,7 @@
   {
     "site_id": "si/tvspored#nautical-channel",
     "name": "The Nautical Channel",
-    "lang": "sl",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/2840376147.png"
+    "lang": "sl"
   },
   {
     "site_id": "si/tvspored#obn",
@@ -14563,8 +14479,7 @@
   {
     "site_id": "pt/programacao#nautical-channel",
     "name": "The Nautical Channel",
-    "lang": "pt",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/2840376147.png"
+    "lang": "pt"
   },
   {
     "site_id": "ro/program-tv#tvs",
@@ -14808,8 +14723,7 @@
     "site_id": "pt/programacao#xxl",
     "name": "XXL",
     "lang": "pt",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "rs/tvprogram#alfa-tv",
@@ -15177,8 +15091,7 @@
     "site_id": "ro/program-tv#xxl",
     "name": "XXL",
     "lang": "ro",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "si/tvspored#grand-narodna-tv",
@@ -15432,7 +15345,8 @@
     "site_id": "tvprogram#sony-movies-christmas",
     "name": "Great! Movies Classic",
     "lang": "hr",
-    "xmltv_id": "GREATromance.uk"
+    "xmltv_id": "GREATromance.uk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-romance-uk.png"
   },
   {
     "site_id": "es/programacion-tv#movistar-laliga",
@@ -15449,8 +15363,7 @@
   {
     "site_id": "rs/tvprogram#pink-erotic-1",
     "name": "Pink Erotic 1",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "sr"
   },
   {
     "site_id": "si/tvspored#tgrt-belgesel",
@@ -15492,8 +15405,7 @@
     "site_id": "ba/tvprogram#mtv-igman",
     "name": "MTV Igman",
     "lang": "bs",
-    "xmltv_id": "MTVIgman.ba",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/95030238411.png"
+    "xmltv_id": "MTVIgman.ba"
   },
   {
     "site_id": "bg/tv-programa#360-tunebox",
@@ -15553,8 +15465,7 @@
   {
     "site_id": "ks/programacioni#pro-7",
     "name": "ProSieben",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "sq"
   },
   {
     "site_id": "me/tvprogram#kanal-3-prnjavor",
@@ -15691,8 +15602,7 @@
   {
     "site_id": "de/tvprogramm#nick-jr",
     "name": "Nick Junior",
-    "lang": "de",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "de"
   },
   {
     "site_id": "de/tvprogramm#tgrt-haber",
@@ -15951,8 +15861,7 @@
   {
     "site_id": "pl/program#tv-puls-2",
     "name": "TV Puls 2",
-    "lang": "pl",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/84dcde07cff45f441f21bcb57c1fe465.png"
+    "lang": "pl"
   },
   {
     "site_id": "si/tvspored#power-tv-pl",
@@ -16053,8 +15962,7 @@
   {
     "site_id": "mk/tv-raspored#rts1",
     "name": "RTS 1",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a6e62138c1373db1b97e3db48e629554.png"
+    "lang": "mk"
   },
   {
     "site_id": "ro/program-tv#4funtv",
@@ -16115,8 +16023,7 @@
   {
     "site_id": "si/tvspored#telma",
     "name": "Telma",
-    "lang": "sl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/44101108011.png"
+    "lang": "sl"
   },
   {
     "site_id": "tvprogram#polsat-doku",
@@ -16167,8 +16074,7 @@
   {
     "site_id": "at/tvprogramm#sportdigital-fussball",
     "name": "Sportdigital Fußball",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/6143353842.png"
+    "lang": "de"
   },
   {
     "site_id": "bg/tv-programa#axn-white-pl",
@@ -16224,8 +16130,7 @@
     "site_id": "ba/tvprogram#hema-tv",
     "name": "HEMA TV",
     "lang": "bs",
-    "xmltv_id": "HemaTV.ba",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/88748236951.png"
+    "xmltv_id": "HemaTV.ba"
   },
   {
     "site_id": "rs/tvprogram#tv-duga-sat",
@@ -16362,8 +16267,7 @@
   {
     "site_id": "at/tvprogramm#nick-jr",
     "name": "Nick Junior",
-    "lang": "de",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "de"
   },
   {
     "site_id": "pt/programacao#polo-tv",
@@ -16550,8 +16454,7 @@
   {
     "site_id": "me/tvprogram#pink-erotic-8",
     "name": "Pink Erotic 8",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "en"
   },
   {
     "site_id": "mk/tv-raspored#sinema-1002",
@@ -16925,8 +16828,7 @@
   {
     "site_id": "gb/tvschedule#e4",
     "name": "E4",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/3b4a301fb575a6b778dcf1696d556d33.png"
+    "lang": "en"
   },
   {
     "site_id": "ro/program-tv#alfa-tvp",
@@ -17026,8 +16928,7 @@
   {
     "site_id": "ba/tvprogram#nick-jr",
     "name": "Nick Junior",
-    "lang": "bs",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "bs"
   },
   {
     "site_id": "pl/program#dizi-smart-premium",
@@ -17106,14 +17007,12 @@
   {
     "site_id": "mk/tv-raspored#n1-rs",
     "name": "N1 RS",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/3391356212.png"
+    "lang": "mk"
   },
   {
     "site_id": "rs/tvprogram#ozone-network",
     "name": "Ozone Network",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/42801409721.png"
+    "lang": "sr"
   },
   {
     "site_id": "tvprogram#sinema-yerli-2",
@@ -17169,8 +17068,7 @@
     "site_id": "me/tvprogram#novi-pazar",
     "name": "RTV Novi Pazar",
     "lang": "en",
-    "xmltv_id": "RTVNoviPazar.rs",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/96654588291.png"
+    "xmltv_id": "RTVNoviPazar.rs"
   },
   {
     "site_id": "it/guida-tv#wydarzenia24",
@@ -17383,8 +17281,7 @@
   {
     "site_id": "pl/program#love-nature",
     "name": "Love Nature US",
-    "lang": "pl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50027339511.png"
+    "lang": "pl"
   },
   {
     "site_id": "de/tvprogramm#obn",
@@ -17488,8 +17385,7 @@
   {
     "site_id": "mk/tv-raspored#rtv-21-popullore",
     "name": "RTV 21 Popullore",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/98255322761.png"
+    "lang": "mk"
   },
   {
     "site_id": "ro/program-tv#tv1000-balkan",
@@ -17567,8 +17463,7 @@
     "site_id": "al/programacioni#kanali-7",
     "name": "Kanali 7",
     "lang": "sq",
-    "xmltv_id": "Kanali7.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/35212494501.png"
+    "xmltv_id": "Kanali7.al@SD"
   },
   {
     "site_id": "hu/tvmusor#polsat-viasat-nature",
@@ -17903,8 +17798,7 @@
     "site_id": "mk/tv-raspored#o-kanal",
     "name": "O Kanal",
     "lang": "mk",
-    "xmltv_id": "OKanal.ba@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/76360529401.png"
+    "xmltv_id": "OKanal.ba@SD"
   },
   {
     "site_id": "pt/programacao#sport-tv1-pt",
@@ -17973,8 +17867,7 @@
     "site_id": "me/tvprogram#tip-tv",
     "name": "Tip TV",
     "lang": "en",
-    "xmltv_id": "TipTV.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14247623801.png"
+    "xmltv_id": "TipTV.al@SD"
   },
   {
     "site_id": "mk/tv-raspored#klasiktv",
@@ -18202,8 +18095,7 @@
   {
     "site_id": "at/tvprogramm#sky-sport-bundesliga-7",
     "name": "Sky Bundesliga 7",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/7458211925.jpg"
+    "lang": "de"
   },
   {
     "site_id": "ba/tvprogram#tv-visoko",
@@ -18283,8 +18175,7 @@
   {
     "site_id": "ch/tv-programm#e4",
     "name": "E4",
-    "lang": "de",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/3b4a301fb575a6b778dcf1696d556d33.png"
+    "lang": "de"
   },
   {
     "site_id": "ch/tv-programm#kanal-24-tr",
@@ -18452,8 +18343,7 @@
     "site_id": "ks/programacioni#kanali-7",
     "name": "Kanali 7",
     "lang": "sq",
-    "xmltv_id": "Kanali7.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/35212494501.png"
+    "xmltv_id": "Kanali7.al@SD"
   },
   {
     "site_id": "me/tvprogram#novelas",
@@ -18695,8 +18585,7 @@
     "site_id": "al/programacioni#21-mix",
     "name": "21 Mix",
     "lang": "sq",
-    "xmltv_id": "21Mix.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/33152009321.png"
+    "xmltv_id": "21Mix.xk@SD"
   },
   {
     "site_id": "al/programacioni#tgcom24",
@@ -19021,8 +18910,7 @@
   {
     "site_id": "gb/tvschedule#nautical-channel",
     "name": "The Nautical Channel",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/2840376147.png"
+    "lang": "en"
   },
   {
     "site_id": "ch/tv-programm#radio-ticino-channel",
@@ -19856,8 +19744,7 @@
     "site_id": "rs/tvprogram#tv-vijesti",
     "name": "TV Vijesti",
     "lang": "sr",
-    "xmltv_id": "TVVijesti.me@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/92455565781.png"
+    "xmltv_id": "TVVijesti.me@SD"
   },
   {
     "site_id": "si/tvspored#nat-geo-wild-si",
@@ -19897,8 +19784,7 @@
   {
     "site_id": "rs/tvprogram#da-vinci-learning",
     "name": "Da Vinci Learning",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0c17ada39729404d61e0fd203429abc7.png"
+    "lang": "sr"
   },
   {
     "site_id": "rs/tvprogram#discovery-tlc",
@@ -20000,8 +19886,7 @@
   {
     "site_id": "tr/tv-rehberi#nick-jr",
     "name": "Nick Junior",
-    "lang": "tr",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "tr"
   },
   {
     "site_id": "tvprogram#movie-generation",
@@ -20163,8 +20048,7 @@
     "site_id": "ks/programacioni#rtk-4",
     "name": "RTK 4",
     "lang": "sq",
-    "xmltv_id": "RTK4.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/27884385891.png"
+    "xmltv_id": "RTK4.xk@SD"
   },
   {
     "site_id": "me/tvprogram#melodie-tv",
@@ -20507,8 +20391,7 @@
     "site_id": "it/guida-tv#xxl",
     "name": "XXL",
     "lang": "it",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "de/tvprogramm#myzen",
@@ -20600,8 +20483,7 @@
     "site_id": "al/programacioni#elrodi",
     "name": "Elrodi",
     "lang": "sq",
-    "xmltv_id": "ElrodiTV.al@SD",
-    "logo": "https://curl.pk/img/u/5d1d61ed55450c7030b78b2eb48ba09d7106.jpg"
+    "xmltv_id": "ElrodiTV.al@SD"
   },
   {
     "site_id": "at/tvprogramm#ekoturk",
@@ -20753,8 +20635,7 @@
     "site_id": "al/programacioni#tring-sport-1-hd",
     "name": "Tring Sport 1",
     "lang": "sq",
-    "xmltv_id": "TringSport1.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50474800931.png"
+    "xmltv_id": "TringSport1.al@SD"
   },
   {
     "site_id": "it/guida-tv#polsat-play",
@@ -20869,8 +20750,7 @@
   {
     "site_id": "tvprogram#national-geographic-hd",
     "name": "National Geographic Channel HD",
-    "lang": "hr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14392145511.png"
+    "lang": "hr"
   },
   {
     "site_id": "tvprogram#rai-sport",
@@ -21039,8 +20919,7 @@
   {
     "site_id": "at/tvprogramm#pro-7",
     "name": "ProSieben",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "de"
   },
   {
     "site_id": "fr/programme-tv#infosport",
@@ -21066,8 +20945,7 @@
   {
     "site_id": "ch/tv-programm#super-rtl",
     "name": "Super RTL",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "de"
   },
   {
     "site_id": "it/guida-tv#eurosport-hd-it",
@@ -21201,8 +21079,7 @@
   {
     "site_id": "si/tvspored#pro-7",
     "name": "ProSieben",
-    "lang": "sl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "sl"
   },
   {
     "site_id": "ba/tvprogram#sixx-at",
@@ -21258,8 +21135,7 @@
   {
     "site_id": "gb/tvschedule#nat-geo-wild-uk",
     "name": "Nat Geo Wild UK",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/33c00c0bf5b533fd522628e2d34c48a3.png"
+    "lang": "en"
   },
   {
     "site_id": "me/tvprogram#prva-kick",
@@ -21416,8 +21292,7 @@
   {
     "site_id": "tvprogram#pro-7",
     "name": "ProSieben",
-    "lang": "hr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "hr"
   },
   {
     "site_id": "ba/tvprogram#sinema-1001",
@@ -21925,8 +21800,7 @@
   {
     "site_id": "ba/tvprogram#super-rtl",
     "name": "Super RTL",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "bs"
   },
   {
     "site_id": "hu/tvmusor#power-tv-pl",
@@ -22314,8 +22188,7 @@
   {
     "site_id": "mk/tv-raspored#pro-7",
     "name": "ProSieben",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "mk"
   },
   {
     "site_id": "pl/program#ard",
@@ -22462,8 +22335,7 @@
     "site_id": "mk/tv-raspored#smile",
     "name": "Tring Smile",
     "lang": "mk",
-    "xmltv_id": "Smile.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/46661418561.png"
+    "xmltv_id": "Smile.al@SD"
   },
   {
     "site_id": "pt/programacao#yaban-tv",
@@ -22489,8 +22361,7 @@
     "site_id": "ks/programacioni#rtk-2",
     "name": "RTK 2",
     "lang": "sq",
-    "xmltv_id": "RTK2.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/89576017361.png"
+    "xmltv_id": "RTK2.xk@SD"
   },
   {
     "site_id": "me/tvprogram#fox-crime",
@@ -22829,8 +22700,7 @@
     "site_id": "me/tvprogram#stinet",
     "name": "Stinet",
     "lang": "en",
-    "xmltv_id": "Stinet.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/984dee2c519c758d80cf4438dee84aba.png"
+    "xmltv_id": "Stinet.al@SD"
   },
   {
     "site_id": "ba/tvprogram#svet-plus",
@@ -22848,8 +22718,7 @@
     "site_id": "me/tvprogram#zico-tv",
     "name": "Zico TV",
     "lang": "en",
-    "xmltv_id": "ZICOTV.rs@SD",
-    "logo": "https://curl.pk/img/u/0f30fbd07472a8a0376f314734a593dd1956.png"
+    "xmltv_id": "ZICOTV.rs@SD"
   },
   {
     "site_id": "mk/tv-raspored#top-channel",
@@ -23199,8 +23068,7 @@
   {
     "site_id": "pl/program#pro-7",
     "name": "ProSieben",
-    "lang": "pl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "pl"
   },
   {
     "site_id": "at/tvprogramm#ale-kino",
@@ -24451,8 +24319,7 @@
     "site_id": "al/programacioni#living-hd",
     "name": "Living HD",
     "lang": "hr",
-    "xmltv_id": "LivingTV.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/9747039200.jpg"
+    "xmltv_id": "LivingTV.al@SD"
   },
   {
     "site_id": "ba/tvprogram#sinema-komedi-2",
@@ -24736,8 +24603,7 @@
   {
     "site_id": "me/tvprogram#national-geographic-hd",
     "name": "National Geographic Channel HD",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14392145511.png"
+    "lang": "en"
   },
   {
     "site_id": "pl/program#polsat-news-polityka",
@@ -24800,8 +24666,7 @@
     "site_id": "me/tvprogram#hema-tv",
     "name": "HEMA TV",
     "lang": "en",
-    "xmltv_id": "HemaTV.ba",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/88748236951.png"
+    "xmltv_id": "HemaTV.ba"
   },
   {
     "site_id": "pt/programacao#sport-tv",
@@ -24905,8 +24770,7 @@
     "site_id": "ch/tv-programm#xxl",
     "name": "XXL",
     "lang": "de",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "pt/programacao#myzen",
@@ -25009,8 +24873,7 @@
     "site_id": "pl/program#xxl",
     "name": "XXL",
     "lang": "pl",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "pt/programacao#hustler-tv",
@@ -25231,8 +25094,7 @@
   {
     "site_id": "me/tvprogram#syri-tv",
     "name": "Syri TV",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/bfb4c5b1297eb56379aa46026b39658d.png"
+    "lang": "en"
   },
   {
     "site_id": "ro/program-tv#pro-7-at",
@@ -25295,8 +25157,7 @@
     "site_id": "de/tvprogramm#xxl",
     "name": "XXL",
     "lang": "de",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "hu/tvmusor#h-t-music-channel-ro",
@@ -25417,8 +25278,7 @@
   {
     "site_id": "rs/tvprogram#national-geographic-hd",
     "name": "National Geographic Channel HD",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14392145511.png"
+    "lang": "sr"
   },
   {
     "site_id": "ks/programacioni#yaban-tv",
@@ -25450,8 +25310,7 @@
   {
     "site_id": "gb/tvschedule#uk-gold",
     "name": "U&Gold",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/cd97c816ba8d1689076b9b949e4c0f79.png"
+    "lang": "en"
   },
   {
     "site_id": "ie/tvschedule#kino-polska-muzyka",
@@ -25825,8 +25684,7 @@
   {
     "site_id": "rs/tvprogram#pink-erotic-4",
     "name": "Pink Erotic 4",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "sr"
   },
   {
     "site_id": "bg/tv-programa#filmax",
@@ -25972,8 +25830,7 @@
   {
     "site_id": "si/tvspored#hayat-tv",
     "name": "Hayat TV",
-    "lang": "sl",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/1127960918.jpg"
+    "lang": "sl"
   },
   {
     "site_id": "mk/tv-raspored#kanal8",
@@ -25990,8 +25847,7 @@
     "site_id": "al/programacioni#explorer-natyra",
     "name": "Explorer Natyra",
     "lang": "hr",
-    "xmltv_id": "ExplorerNatyra.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/38436400491.png"
+    "xmltv_id": "ExplorerNatyra.al@SD"
   },
   {
     "site_id": "mk/tv-raspored#polsat-rodzina",
@@ -26024,8 +25880,7 @@
     "site_id": "ks/programacioni#rtk-1",
     "name": "RTK 1",
     "lang": "sq",
-    "xmltv_id": "RTK1.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/64228270451.png"
+    "xmltv_id": "RTK1.xk@SD"
   },
   {
     "site_id": "pl/program#kika",
@@ -26113,8 +25968,7 @@
   {
     "site_id": "ie/tvschedule#nat-geo-wild-uk",
     "name": "Nat Geo Wild UK",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/33c00c0bf5b533fd522628e2d34c48a3.png"
+    "lang": "en"
   },
   {
     "site_id": "mk/tv-raspored#tv-arena-sport-4",
@@ -26225,8 +26079,7 @@
     "site_id": "tvprogram#o-kanal",
     "name": "O Kanal",
     "lang": "hr",
-    "xmltv_id": "OKanal.ba@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/76360529401.png"
+    "xmltv_id": "OKanal.ba@SD"
   },
   {
     "site_id": "at/tvprogramm#4fun-gold",
@@ -26287,8 +26140,7 @@
   {
     "site_id": "ba/tvprogram#pink-erotic-4",
     "name": "Pink Erotic 4",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "bs"
   },
   {
     "site_id": "ch/tv-programm#axn-polska",
@@ -26306,8 +26158,7 @@
   {
     "site_id": "rs/tvprogram#rts1",
     "name": "RTS 1",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a6e62138c1373db1b97e3db48e629554.png"
+    "lang": "sr"
   },
   {
     "site_id": "rs/tvprogram#tv-hram",
@@ -26325,8 +26176,7 @@
     "site_id": "ks/programacioni#cufo-tv",
     "name": "Cufo TV",
     "lang": "sq",
-    "xmltv_id": "Cufo.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/85299428171.png"
+    "xmltv_id": "Cufo.al@SD"
   },
   {
     "site_id": "fr/programme-tv#5-plus",
@@ -26698,8 +26548,7 @@
     "site_id": "al/programacioni#rtk-1",
     "name": "RTK 1",
     "lang": "hr",
-    "xmltv_id": "RTK1.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/64228270451.png"
+    "xmltv_id": "RTK1.xk@SD"
   },
   {
     "site_id": "al/programacioni#polsat-cafe",
@@ -26734,8 +26583,7 @@
   {
     "site_id": "tvprogram#fuel-tv",
     "name": "Fuel TV",
-    "lang": "hr",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/aecbbed4ec9c994abf7557c31f0ce499.png"
+    "lang": "hr"
   },
   {
     "site_id": "pl/program#qvc-deutschland",
@@ -27024,8 +26872,7 @@
   {
     "site_id": "me/tvprogram#pink-erotic-2",
     "name": "Pink Erotic 2",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "en"
   },
   {
     "site_id": "si/tvspored#dizi-smart-premium",
@@ -27121,8 +26968,7 @@
   {
     "site_id": "mk/tv-raspored#telma",
     "name": "Telma",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/44101108011.png"
+    "lang": "mk"
   },
   {
     "site_id": "at/tvprogramm#history-channel-de",
@@ -27132,8 +26978,7 @@
   {
     "site_id": "at/tvprogramm#love-nature",
     "name": "Love Nature US",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50027339511.png"
+    "lang": "de"
   },
   {
     "site_id": "ba/tvprogram#anixe-hd",
@@ -27183,14 +27028,12 @@
   {
     "site_id": "gb/tvschedule#love-nature",
     "name": "Love Nature US",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50027339511.png"
+    "lang": "en"
   },
   {
     "site_id": "me/tvprogram#pink-erotic-5",
     "name": "Pink Erotic 5",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "en"
   },
   {
     "site_id": "me/tvprogram#arena-sport-7",
@@ -27318,8 +27161,7 @@
     "site_id": "ks/programacioni#tip-tv",
     "name": "Tip TV",
     "lang": "sq",
-    "xmltv_id": "TipTV.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14247623801.png"
+    "xmltv_id": "TipTV.al@SD"
   },
   {
     "site_id": "mk/tv-raspored#trt-world",
@@ -27920,8 +27762,7 @@
   {
     "site_id": "tvprogram#da-vinci-learning",
     "name": "Da Vinci Learning",
-    "lang": "hr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0c17ada39729404d61e0fd203429abc7.png"
+    "lang": "hr"
   },
   {
     "site_id": "ie/tvschedule#itvn-extra",
@@ -28001,8 +27842,7 @@
   {
     "site_id": "me/tvprogram#rts1",
     "name": "RTS 1",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a6e62138c1373db1b97e3db48e629554.png"
+    "lang": "en"
   },
   {
     "site_id": "rs/tvprogram#euro-cinema-4",
@@ -28045,8 +27885,7 @@
   {
     "site_id": "bg/tv-programa#nick-jr",
     "name": "Nick Junior",
-    "lang": "bg",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "bg"
   },
   {
     "site_id": "gb/tvschedule#star-tv-tr",
@@ -28243,8 +28082,7 @@
   {
     "site_id": "ro/program-tv#eurosport-1-int",
     "name": "Eurosport 1 INT",
-    "lang": "ro",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/7d33a22178fc078d38970b141f6c644b.png"
+    "lang": "ro"
   },
   {
     "site_id": "si/tvspored#france24",
@@ -28375,8 +28213,7 @@
   {
     "site_id": "gb/tvschedule#fuel-tv",
     "name": "Fuel TV",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/aecbbed4ec9c994abf7557c31f0ce499.png"
+    "lang": "en"
   },
   {
     "site_id": "hu/tvmusor#mediaset-italia",
@@ -28413,8 +28250,7 @@
   {
     "site_id": "me/tvprogram#pro-7",
     "name": "ProSieben",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "en"
   },
   {
     "site_id": "pl/program#tvp-2",
@@ -28454,8 +28290,7 @@
   {
     "site_id": "al/programacioni#syri-tv",
     "name": "Syri TV",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/bfb4c5b1297eb56379aa46026b39658d.png"
+    "lang": "sq"
   },
   {
     "site_id": "ba/tvprogram#arena-sport-2-premium-bih",
@@ -28655,8 +28490,7 @@
   {
     "site_id": "fr/programme-tv#nautical-channel",
     "name": "The Nautical Channel",
-    "lang": "fr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/2840376147.png"
+    "lang": "fr"
   },
   {
     "site_id": "ie/tvschedule#nowa-tv",
@@ -28881,8 +28715,7 @@
   {
     "site_id": "ba/tvprogram#rts1",
     "name": "RTS 1",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a6e62138c1373db1b97e3db48e629554.png"
+    "lang": "bs"
   },
   {
     "site_id": "me/tvprogram#rtrs-plus",
@@ -29244,8 +29077,7 @@
     "site_id": "at/tvprogramm#xxl",
     "name": "XXL",
     "lang": "de",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "bg/tv-programa#bbn-turk",
@@ -29340,8 +29172,7 @@
     "site_id": "al/programacioni#bang-bang",
     "name": "Bang Bang",
     "lang": "sq",
-    "xmltv_id": "BangBang.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/20194647121.png"
+    "xmltv_id": "BangBang.al@SD"
   },
   {
     "site_id": "bg/tv-programa#krt-tv",
@@ -30311,8 +30142,7 @@
   {
     "site_id": "ch/tv-programm#rbb-fernsehen-berlin",
     "name": "RBB Fernsehen Berlin",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0d79953bdcbc59cc45d3277be8fd8799.png"
+    "lang": "de"
   },
   {
     "site_id": "de/tvprogramm#sky-sport-7-de",
@@ -31407,8 +31237,7 @@
   {
     "site_id": "gb/tvschedule#gems-tv",
     "name": "Gems TV",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/72586a1d1fe2fa2afb559bd46c19394b.png"
+    "lang": "en"
   },
   {
     "site_id": "pl/program#mdr-sachsenspiegel",
@@ -31451,8 +31280,7 @@
     "site_id": "me/tvprogram#cufo-tv",
     "name": "Cufo TV",
     "lang": "en",
-    "xmltv_id": "Cufo.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/85299428171.png"
+    "xmltv_id": "Cufo.al@SD"
   },
   {
     "site_id": "me/tvprogram#htv1",
@@ -31510,8 +31338,7 @@
     "site_id": "me/tvprogram#kanali-7",
     "name": "Kanali 7",
     "lang": "en",
-    "xmltv_id": "Kanali7.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/35212494501.png"
+    "xmltv_id": "Kanali7.al@SD"
   },
   {
     "site_id": "pt/programacao#nick-jr-pt",
@@ -31887,8 +31714,7 @@
   {
     "site_id": "me/tvprogram#hayat-tv",
     "name": "Hayat TV",
-    "lang": "en",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/1127960918.jpg"
+    "lang": "en"
   },
   {
     "site_id": "me/tvprogram#stopklatka",
@@ -32117,8 +31943,7 @@
   {
     "site_id": "gb/tvschedule#nicktoons-uk",
     "name": "Nicktoons UK",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/edc33800ea092479a2f752bf0f09964d.png"
+    "lang": "en"
   },
   {
     "site_id": "ie/tvschedule#channel-s-5726",
@@ -32172,8 +31997,7 @@
     "site_id": "ch/tv-programm#rtk-1",
     "name": "RTK 1",
     "lang": "de",
-    "xmltv_id": "RTK1.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/64228270451.png"
+    "xmltv_id": "RTK1.xk@SD"
   },
   {
     "site_id": "ks/programacioni#abc-news",
@@ -32424,8 +32248,7 @@
   {
     "site_id": "gb/tvschedule#w-uk",
     "name": "U&W",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/879c261e825bf9bd998755f5cf3f8710.png"
+    "lang": "en"
   },
   {
     "site_id": "ie/tvschedule#fox-pl",
@@ -32576,8 +32399,7 @@
   {
     "site_id": "mk/tv-raspored#nick-jr",
     "name": "Nick Junior",
-    "lang": "mk",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "mk"
   },
   {
     "site_id": "mk/tv-raspored#planete-plus-pl",
@@ -32704,8 +32526,7 @@
   {
     "site_id": "rs/tvprogram#n1-rs",
     "name": "N1 RS",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/3391356212.png"
+    "lang": "sr"
   },
   {
     "site_id": "rs/tvprogram#zdfinfo",
@@ -33050,8 +32871,7 @@
   {
     "site_id": "ks/programacioni#super-rtl",
     "name": "Super RTL",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "sq"
   },
   {
     "site_id": "tr/tv-rehberi#beyaz-tv",
@@ -33096,8 +32916,7 @@
     "site_id": "me/tvprogram#smile",
     "name": "Tring Smile",
     "lang": "en",
-    "xmltv_id": "Smile.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/46661418561.png"
+    "xmltv_id": "Smile.al@SD"
   },
   {
     "site_id": "mk/tv-raspored#svet-plus",
@@ -34207,8 +34026,7 @@
   {
     "site_id": "at/tvprogramm#super-rtl",
     "name": "Super RTL",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "de"
   },
   {
     "site_id": "ba/tvprogram#rtsh-shkolle",
@@ -34293,8 +34111,7 @@
     "site_id": "me/tvprogram#tv-dukagjini",
     "name": "TV Dukagjini",
     "lang": "en",
-    "xmltv_id": "RTVDukagjini.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/8171032546.png"
+    "xmltv_id": "RTVDukagjini.xk@SD"
   },
   {
     "site_id": "pl/program#13-ulica",
@@ -34393,8 +34210,7 @@
     "site_id": "ba/tvprogram#xxl",
     "name": "XXL",
     "lang": "bs",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "hu/tvmusor#magyar-slager-tv",
@@ -34553,8 +34369,7 @@
   {
     "site_id": "ba/tvprogram#pink-erotic-2",
     "name": "Pink Erotic 2",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "bs"
   },
   {
     "site_id": "me/tvprogram#prva-plus",
@@ -34649,8 +34464,7 @@
     "site_id": "rs/tvprogram#xxl",
     "name": "XXL",
     "lang": "sr",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "at/tvprogramm#romance-tv-pl",
@@ -34686,8 +34500,7 @@
     "site_id": "al/programacioni#xxl",
     "name": "XXL",
     "lang": "sq",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "hu/tvmusor#ekoturk",
@@ -34916,8 +34729,7 @@
   {
     "site_id": "tr/tv-rehberi#love-nature",
     "name": "Love Nature US",
-    "lang": "tr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50027339511.png"
+    "lang": "tr"
   },
   {
     "site_id": "bg/tv-programa#teve2",
@@ -35006,8 +34818,7 @@
     "site_id": "tvprogram#hema-tv",
     "name": "HEMA TV",
     "lang": "hr",
-    "xmltv_id": "HemaTV.ba",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/88748236951.png"
+    "xmltv_id": "HemaTV.ba"
   },
   {
     "site_id": "ba/tvprogram#entertainment",
@@ -35210,8 +35021,7 @@
   {
     "site_id": "al/programacioni#national-geographic-hd",
     "name": "National Geographic Channel HD",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14392145511.png"
+    "lang": "sq"
   },
   {
     "site_id": "bg/tv-programa#deluxe-music",
@@ -35674,8 +35484,7 @@
     "site_id": "tvprogram#tv-vijesti",
     "name": "TV Vijesti",
     "lang": "hr",
-    "xmltv_id": "TVVijesti.me@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/92455565781.png"
+    "xmltv_id": "TVVijesti.me@SD"
   },
   {
     "site_id": "ba/tvprogram#rai-1",
@@ -35840,8 +35649,7 @@
   {
     "site_id": "ba/tvprogram#pink-erotic-1",
     "name": "Pink Erotic 1",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "bs"
   },
   {
     "site_id": "ba/tvprogram#pink-n-roll",
@@ -36016,8 +35824,7 @@
   {
     "site_id": "ie/tvschedule#channel-4-plus-1",
     "name": "Channel 4 +1",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/dd3948904a5c3aed436f6c67ddff6ef7.png"
+    "lang": "en"
   },
   {
     "site_id": "mk/tv-raspored#private-spice",
@@ -36118,8 +35925,7 @@
   {
     "site_id": "rs/tvprogram#pink-erotic-3",
     "name": "Pink Erotic 3",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "sr"
   },
   {
     "site_id": "bg/tv-programa#polsat-news",
@@ -36204,8 +36010,7 @@
   {
     "site_id": "ie/tvschedule#w-uk",
     "name": "U&W",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/879c261e825bf9bd998755f5cf3f8710.png"
+    "lang": "en"
   },
   {
     "site_id": "me/tvprogram#hayat-music",
@@ -36277,8 +36082,7 @@
   {
     "site_id": "rs/tvprogram#love-nature",
     "name": "Love Nature US",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50027339511.png"
+    "lang": "sr"
   },
   {
     "site_id": "ba/tvprogram#super-polsat",
@@ -36483,8 +36287,7 @@
   {
     "site_id": "ba/tvprogram#pink-erotic-7",
     "name": "Pink Erotic 7",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "bs"
   },
   {
     "site_id": "ba/tvprogram#toggo-plus",
@@ -36562,8 +36365,7 @@
   {
     "site_id": "de/tvprogramm#sky-sport-bundesliga-7",
     "name": "Sky Bundesliga 7",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/7458211925.jpg"
+    "lang": "de"
   },
   {
     "site_id": "hu/tvmusor#crime-investigation-polsat",
@@ -36602,8 +36404,7 @@
     "site_id": "me/tvprogram#xxl",
     "name": "XXL",
     "lang": "en",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "pl/program#canal-seriale-pl",
@@ -36833,8 +36634,7 @@
     "site_id": "mk/tv-raspored#rtk-1",
     "name": "RTK 1",
     "lang": "mk",
-    "xmltv_id": "RTK1.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/64228270451.png"
+    "xmltv_id": "RTK1.xk@SD"
   },
   {
     "site_id": "pl/program#cnews",
@@ -36988,8 +36788,7 @@
     "site_id": "mk/tv-raspored#tv-sarajevo",
     "name": "TV Sarajevo",
     "lang": "mk",
-    "xmltv_id": "TVSA.ba@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/83371835501.png"
+    "xmltv_id": "TVSA.ba@SD"
   },
   {
     "site_id": "si/tvspored#discovery-historia",
@@ -37143,8 +36942,7 @@
   {
     "site_id": "pt/programacao#canal-sur",
     "name": "Canal Sur",
-    "lang": "pt",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a26a239faf6c1c0883a649f116babf2b.png"
+    "lang": "pt"
   },
   {
     "site_id": "ro/program-tv#dorcel",
@@ -37157,8 +36955,7 @@
     "site_id": "al/programacioni#junior-tv",
     "name": "Junior TV",
     "lang": "sq",
-    "xmltv_id": "JuniorTV.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50689904111.png"
+    "xmltv_id": "JuniorTV.al@SD"
   },
   {
     "site_id": "de/tvprogramm#eska-rock-tv",
@@ -37209,8 +37006,7 @@
   {
     "site_id": "ba/tvprogram#pink-erotic-8",
     "name": "Pink Erotic 8",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "bs"
   },
   {
     "site_id": "ie/tvschedule#fokus-tv",
@@ -37471,8 +37267,7 @@
   {
     "site_id": "al/programacioni#art-sport-3",
     "name": "ART Sport 3",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/38165550761.png"
+    "lang": "sq"
   },
   {
     "site_id": "gb/tvschedule#13-ulica",
@@ -37716,8 +37511,7 @@
     "site_id": "si/tvspored#tv-sarajevo",
     "name": "TV Sarajevo",
     "lang": "sl",
-    "xmltv_id": "TVSA.ba@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/83371835501.png"
+    "xmltv_id": "TVSA.ba@SD"
   },
   {
     "site_id": "pl/program#france-info",
@@ -38202,8 +37996,7 @@
   {
     "site_id": "si/tvspored#rts1",
     "name": "RTS 1",
-    "lang": "sl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a6e62138c1373db1b97e3db48e629554.png"
+    "lang": "sl"
   },
   {
     "site_id": "bg/tv-programa#travel-tv-bg",
@@ -38356,8 +38149,7 @@
     "site_id": "al/programacioni#rtk-2",
     "name": "RTK 2",
     "lang": "hr",
-    "xmltv_id": "RTK2.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/89576017361.png"
+    "xmltv_id": "RTK2.xk@SD"
   },
   {
     "site_id": "es/programacion-tv#nowa-tv",
@@ -38747,8 +38539,7 @@
   {
     "site_id": "ks/programacioni#nick-jr",
     "name": "Nick Junior",
-    "lang": "sq",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "sq"
   },
   {
     "site_id": "mk/tv-raspored#cbs-europa-pl",
@@ -38778,7 +38569,8 @@
     "site_id": "gb/tvschedule#sony-movies-action",
     "name": "Great! Movies Action",
     "lang": "en",
-    "xmltv_id": "GREATaction.uk@SD"
+    "xmltv_id": "GREATaction.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-action-uk.png"
   },
   {
     "site_id": "mk/tv-raspored#tvp-historia",
@@ -38918,8 +38710,7 @@
     "site_id": "tvprogram#xxl",
     "name": "XXL",
     "lang": "hr",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "ks/programacioni#crime-investigation",
@@ -39319,8 +39110,7 @@
   {
     "site_id": "si/tvspored#top-tv",
     "name": "Top TV",
-    "lang": "sl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/35817394071.png"
+    "lang": "sl"
   },
   {
     "site_id": "tr/tv-rehberi#trt-world",
@@ -39644,8 +39434,7 @@
     "site_id": "si/tvspored#xxl",
     "name": "XXL",
     "lang": "sl",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "gb/tvschedule#fox-comedy-pl",
@@ -39782,8 +39571,7 @@
   {
     "site_id": "ks/programacioni#syri-tv",
     "name": "Syri TV",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/bfb4c5b1297eb56379aa46026b39658d.png"
+    "lang": "sq"
   },
   {
     "site_id": "ba/tvprogram#pink-lol",
@@ -40051,8 +39839,7 @@
   {
     "site_id": "de/tvprogramm#sportdigital-fussball",
     "name": "Sportdigital Fußball",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/6143353842.png"
+    "lang": "de"
   },
   {
     "site_id": "rs/tvprogram#elf",
@@ -40232,8 +40019,7 @@
   {
     "site_id": "ks/programacioni#kanal-10",
     "name": "Kanal 10",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/54657514401.png"
+    "lang": "sq"
   },
   {
     "site_id": "rs/tvprogram#tv-arena-sport-2",
@@ -40712,8 +40498,7 @@
     "site_id": "ks/programacioni#tv-dukagjini",
     "name": "TV Dukagjini",
     "lang": "sq",
-    "xmltv_id": "RTVDukagjini.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/8171032546.png"
+    "xmltv_id": "RTVDukagjini.xk@SD"
   },
   {
     "site_id": "mk/tv-raspored#hayat-music",
@@ -41051,8 +40836,7 @@
   {
     "site_id": "al/programacioni#kanal-10",
     "name": "Kanal 10",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/54657514401.png"
+    "lang": "sq"
   },
   {
     "site_id": "ch/tv-programm#trace-urban",
@@ -41132,8 +40916,7 @@
     "site_id": "al/programacioni#smile",
     "name": "Tring Smile",
     "lang": "sq",
-    "xmltv_id": "Smile.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/46661418561.png"
+    "xmltv_id": "Smile.al@SD"
   },
   {
     "site_id": "me/tvprogram#pink-3",
@@ -41189,8 +40972,7 @@
   {
     "site_id": "ro/program-tv#pro-7",
     "name": "ProSieben",
-    "lang": "ro",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "ro"
   },
   {
     "site_id": "rs/tvprogram#tvri",
@@ -41604,8 +41386,7 @@
     "site_id": "me/tvprogram#tv-vijesti",
     "name": "TV Vijesti",
     "lang": "hr",
-    "xmltv_id": "TVVijesti.me@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/92455565781.png"
+    "xmltv_id": "TVVijesti.me@SD"
   },
   {
     "site_id": "tvprogram#tvp-hd",
@@ -41824,8 +41605,7 @@
   {
     "site_id": "ba/tvprogram#hayat-tv",
     "name": "Hayat TV",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/1127960918.jpg"
+    "lang": "bs"
   },
   {
     "site_id": "ch/tv-programm#n24-doku",
@@ -41849,8 +41629,7 @@
   {
     "site_id": "pl/program#rbb-fernsehen-berlin",
     "name": "RBB Fernsehen Berlin",
-    "lang": "pl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0d79953bdcbc59cc45d3277be8fd8799.png"
+    "lang": "pl"
   },
   {
     "site_id": "pl/program#wdr-koln",
@@ -42028,8 +41807,7 @@
     "site_id": "ba/tvprogram#tv-sarajevo",
     "name": "TV Sarajevo",
     "lang": "bs",
-    "xmltv_id": "TVSA.ba@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/83371835501.png"
+    "xmltv_id": "TVSA.ba@SD"
   },
   {
     "site_id": "bg/tv-programa#wpolsce-pl",
@@ -42451,8 +42229,7 @@
     "site_id": "si/tvspored#hema-tv",
     "name": "HEMA TV",
     "lang": "sl",
-    "xmltv_id": "HemaTV.ba",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/88748236951.png"
+    "xmltv_id": "HemaTV.ba"
   },
   {
     "site_id": "tvprogram#happytv",
@@ -42497,8 +42274,7 @@
   {
     "site_id": "ie/tvschedule#e4",
     "name": "E4",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/3b4a301fb575a6b778dcf1696d556d33.png"
+    "lang": "en"
   },
   {
     "site_id": "pl/program#ct-decko",
@@ -43138,8 +42914,7 @@
     "site_id": "al/programacioni#mcn-tv-albania",
     "name": "MCN TV",
     "lang": "sq",
-    "xmltv_id": "MCNTV.al",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/4013e28e38c6e6ba7aa90815db541529.png"
+    "xmltv_id": "MCNTV.al"
   },
   {
     "site_id": "de/tvprogramm#mtv-de",
@@ -43667,8 +43442,7 @@
   {
     "site_id": "tvprogram#nautical-channel",
     "name": "The Nautical Channel",
-    "lang": "hr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/2840376147.png"
+    "lang": "hr"
   },
   {
     "site_id": "tvprogram#sundance-tv-pl",
@@ -44352,8 +44126,7 @@
     "site_id": "me/tvprogram#click-tv",
     "name": "Click TV",
     "lang": "en",
-    "xmltv_id": "Click.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/59840105381.png"
+    "xmltv_id": "Click.al@SD"
   },
   {
     "site_id": "tr/tv-rehberi#cnn-turk-tv",
@@ -44412,8 +44185,7 @@
   {
     "site_id": "mk/tv-raspored#hayat-tv",
     "name": "Hayat TV",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/1127960918.jpg"
+    "lang": "mk"
   },
   {
     "site_id": "pl/program#polsat-sport",
@@ -44769,8 +44541,7 @@
     "site_id": "ks/programacioni#junior-tv",
     "name": "Junior TV",
     "lang": "sq",
-    "xmltv_id": "JuniorTV.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50689904111.png"
+    "xmltv_id": "JuniorTV.al@SD"
   },
   {
     "site_id": "rs/tvprogram#cinestar-premiere-2",
@@ -45165,8 +44936,7 @@
   {
     "site_id": "si/tvspored#nick-jr",
     "name": "Nick Junior",
-    "lang": "sl",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "sl"
   },
   {
     "site_id": "gb/tvschedule#orf2",
@@ -45276,8 +45046,7 @@
   {
     "site_id": "tr/tv-rehberi#bloomberg-mena",
     "name": "Bloomberg TV MENA",
-    "lang": "tr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/17286893831.png"
+    "lang": "tr"
   },
   {
     "site_id": "ks/programacioni#pink-music",
@@ -45401,8 +45170,7 @@
   {
     "site_id": "rs/tvprogram#hayat-tv",
     "name": "Hayat TV",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/1127960918.jpg"
+    "lang": "sr"
   },
   {
     "site_id": "tvprogram#klasik-hr",
@@ -45412,8 +45180,7 @@
   {
     "site_id": "bg/tv-programa#da-vinci-learning",
     "name": "Da Vinci Learning",
-    "lang": "bg",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0c17ada39729404d61e0fd203429abc7.png"
+    "lang": "bg"
   },
   {
     "site_id": "me/tvprogram#bn-music",
@@ -45552,8 +45319,7 @@
     "site_id": "si/tvspored#rtk-1",
     "name": "RTK 1",
     "lang": "sl",
-    "xmltv_id": "RTK1.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/64228270451.png"
+    "xmltv_id": "RTK1.xk@SD"
   },
   {
     "site_id": "at/tvprogramm#rtl-crime-de",
@@ -45972,8 +45738,7 @@
   {
     "site_id": "tvprogram#hayat-tv",
     "name": "Hayat TV",
-    "lang": "hr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/1127960918.jpg"
+    "lang": "hr"
   },
   {
     "site_id": "tvprogram#travel-channel",
@@ -46073,8 +45838,7 @@
   {
     "site_id": "ks/programacioni#da-vinci-learning",
     "name": "Da Vinci Learning",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0c17ada39729404d61e0fd203429abc7.png"
+    "lang": "sq"
   },
   {
     "site_id": "ks/programacioni#rts2",
@@ -46208,8 +45972,7 @@
     "site_id": "ba/tvprogram#kanal-6",
     "name": "Kanal 6",
     "lang": "bs",
-    "xmltv_id": "Kanal6.ba",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/35830702601.png"
+    "xmltv_id": "Kanal6.ba"
   },
   {
     "site_id": "me/tvprogram#kitchentv",
@@ -46260,8 +46023,7 @@
     "site_id": "ks/programacioni#click-tv",
     "name": "Click TV",
     "lang": "sq",
-    "xmltv_id": "Click.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/59840105381.png"
+    "xmltv_id": "Click.al@SD"
   },
   {
     "site_id": "ks/programacioni#klan-plus",
@@ -46280,8 +46042,7 @@
   {
     "site_id": "at/tvprogramm#rbb-fernsehen-berlin",
     "name": "RBB Fernsehen Berlin",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0d79953bdcbc59cc45d3277be8fd8799.png"
+    "lang": "de"
   },
   {
     "site_id": "ch/tv-programm#polsat-news-2",
@@ -46450,8 +46211,7 @@
     "site_id": "mk/tv-raspored#rtk-4",
     "name": "RTK 4",
     "lang": "mk",
-    "xmltv_id": "RTK4.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/27884385891.png"
+    "xmltv_id": "RTK4.xk@SD"
   },
   {
     "site_id": "pt/programacao#bbc-world",
@@ -46884,8 +46644,7 @@
     "site_id": "es/programacion-tv#canal-parlamento",
     "name": "Canal Parlamento",
     "lang": "es",
-    "xmltv_id": "CanalParlamento.es@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/bd9446f15eb3548843c885c3428c08b1.png"
+    "xmltv_id": "CanalParlamento.es@SD"
   },
   {
     "site_id": "fr/programme-tv#lcp",
@@ -46903,8 +46662,7 @@
   {
     "site_id": "hu/tvmusor#ozone-network",
     "name": "Ozone Network",
-    "lang": "hu",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/42801409721.png"
+    "lang": "hu"
   },
   {
     "site_id": "mk/tv-raspored#balkanika",
@@ -46954,8 +46712,7 @@
     "site_id": "al/programacioni#premium-channel",
     "name": "Premium Channel",
     "lang": "sq",
-    "xmltv_id": "PremiumChannel.at",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/76d763c222248c15504b1ad0affbd6ce.png"
+    "xmltv_id": "PremiumChannel.at"
   },
   {
     "site_id": "fr/programme-tv#swr-baden-wurttemberg",
@@ -47562,8 +47319,7 @@
   {
     "site_id": "de/tvprogramm#sky-sport-bundesliga-3",
     "name": "Sky Bundesliga 3",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/5405529047.jpg"
+    "lang": "de"
   },
   {
     "site_id": "es/programacion-tv#iberalia-tv",
@@ -47851,8 +47607,7 @@
   {
     "site_id": "ba/tvprogram#national-geographic-hd",
     "name": "National Geographic Channel HD",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14392145511.png"
+    "lang": "bs"
   },
   {
     "site_id": "ks/programacioni#france-2",
@@ -47989,8 +47744,7 @@
     "site_id": "mk/tv-raspored#explorer-shkence",
     "name": "Explorer Shkence",
     "lang": "mk",
-    "xmltv_id": "ExplorerShkence.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/07f7f54bb06de982405c06c106718c7e.png"
+    "xmltv_id": "ExplorerShkence.al@SD"
   },
   {
     "site_id": "mk/tv-raspored#mezzo-live-hd",
@@ -48028,8 +47782,7 @@
   {
     "site_id": "ie/tvschedule#gems-tv",
     "name": "Gems TV",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/72586a1d1fe2fa2afb559bd46c19394b.png"
+    "lang": "en"
   },
   {
     "site_id": "mk/tv-raspored#active-family",
@@ -48568,8 +48321,7 @@
   {
     "site_id": "tvprogram#nick-jr",
     "name": "Nick Junior",
-    "lang": "hr",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "hr"
   },
   {
     "site_id": "ch/tv-programm#itv1",
@@ -48687,8 +48439,7 @@
   {
     "site_id": "ks/programacioni#hayat-tv",
     "name": "Hayat TV",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/1127960918.jpg"
+    "lang": "sq"
   },
   {
     "site_id": "ba/tvprogram#club-tv",
@@ -48820,8 +48571,7 @@
     "site_id": "al/programacioni#click-tv",
     "name": "Click TV",
     "lang": "sq",
-    "xmltv_id": "Click.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/59840105381.png"
+    "xmltv_id": "Click.al@SD"
   },
   {
     "site_id": "bg/tv-programa#nova-tv-bg",
@@ -48961,8 +48711,7 @@
   {
     "site_id": "rs/tvprogram#super-rtl",
     "name": "Super RTL",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "sr"
   },
   {
     "site_id": "al/programacioni#rai-storia",
@@ -49065,8 +48814,7 @@
   {
     "site_id": "ro/program-tv#love-nature",
     "name": "Love Nature US",
-    "lang": "ro",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/50027339511.png"
+    "lang": "ro"
   },
   {
     "site_id": "rs/tvprogram#bk-tv",
@@ -49077,8 +48825,7 @@
   {
     "site_id": "al/programacioni#art-sport-2",
     "name": "ART Sport 2",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/19202116431.png"
+    "lang": "sq"
   },
   {
     "site_id": "ch/tv-programm#kika",
@@ -49089,8 +48836,7 @@
   {
     "site_id": "ie/tvschedule#uk-gold",
     "name": "U&Gold",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/cd97c816ba8d1689076b9b949e4c0f79.png"
+    "lang": "en"
   },
   {
     "site_id": "ba/tvprogram#prosieben-maxx",
@@ -49365,8 +49111,7 @@
     "site_id": "al/programacioni#explorer-shkence",
     "name": "Explorer Shkence",
     "lang": "hr",
-    "xmltv_id": "ExplorerShkence.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/07f7f54bb06de982405c06c106718c7e.png"
+    "xmltv_id": "ExplorerShkence.al@SD"
   },
   {
     "site_id": "ch/tv-programm#eska-tv-extra",
@@ -49501,8 +49246,7 @@
     "site_id": "ks/programacioni#kanal-6",
     "name": "Kanal 6",
     "lang": "sq",
-    "xmltv_id": "Kanal6.ba",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/35830702601.png"
+    "xmltv_id": "Kanal6.ba"
   },
   {
     "site_id": "si/tvspored#viasat-history",
@@ -49716,8 +49460,7 @@
   {
     "site_id": "ie/tvschedule#atr",
     "name": "At The Races",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/1c609780d4c908e220a3193dd1a97986.png"
+    "lang": "en"
   },
   {
     "site_id": "al/programacioni#sinema-2",
@@ -49763,8 +49506,7 @@
     "site_id": "rs/tvprogram#o-kanal",
     "name": "O Kanal",
     "lang": "sr",
-    "xmltv_id": "OKanal.ba@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/76360529401.png"
+    "xmltv_id": "OKanal.ba@SD"
   },
   {
     "site_id": "tr/tv-rehberi#trt-turk",
@@ -49901,8 +49643,7 @@
   {
     "site_id": "tvprogram#super-rtl",
     "name": "Super RTL",
-    "lang": "hr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "hr"
   },
   {
     "site_id": "bg/tv-programa#nuta-tv",
@@ -50105,8 +49846,7 @@
   {
     "site_id": "ks/programacioni#rtv-21-popullore",
     "name": "RTV 21 Popullore",
-    "lang": "sq",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/98255322761.png"
+    "lang": "sq"
   },
   {
     "site_id": "ro/program-tv#mezzo-live-hd",
@@ -50132,8 +49872,7 @@
   {
     "site_id": "si/tvspored#national-geographic-hd",
     "name": "National Geographic Channel HD",
-    "lang": "sl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14392145511.png"
+    "lang": "sl"
   },
   {
     "site_id": "ie/tvschedule#krone-tv",
@@ -50244,8 +49983,7 @@
   {
     "site_id": "hu/tvmusor#da-vinci-learning",
     "name": "Da Vinci Learning",
-    "lang": "hu",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0c17ada39729404d61e0fd203429abc7.png"
+    "lang": "hu"
   },
   {
     "site_id": "ie/tvschedule#trt-4k",
@@ -51009,8 +50747,7 @@
   {
     "site_id": "me/tvprogram#nick-jr",
     "name": "Nick Junior",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "en"
   },
   {
     "site_id": "rs/tvprogram#anixe-plus",
@@ -51207,8 +50944,7 @@
     "site_id": "al/programacioni#zico-tv",
     "name": "Zico TV",
     "lang": "sq",
-    "xmltv_id": "ZICOTV.rs@SD",
-    "logo": "https://curl.pk/img/u/0f30fbd07472a8a0376f314734a593dd1956.png"
+    "xmltv_id": "ZICOTV.rs@SD"
   },
   {
     "site_id": "ro/program-tv#tvn24",
@@ -51330,8 +51066,7 @@
     "site_id": "me/tvprogram#bang-bang",
     "name": "Bang Bang",
     "lang": "en",
-    "xmltv_id": "BangBang.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/20194647121.png"
+    "xmltv_id": "BangBang.al@SD"
   },
   {
     "site_id": "tr/tv-rehberi#show-turk",
@@ -52150,8 +51885,7 @@
   {
     "site_id": "gb/tvschedule#atr",
     "name": "At The Races",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/1c609780d4c908e220a3193dd1a97986.png"
+    "lang": "en"
   },
   {
     "site_id": "hu/tvmusor#dizi-smart-premium",
@@ -52209,8 +51943,7 @@
   {
     "site_id": "hu/tvmusor#super-rtl",
     "name": "Super RTL",
-    "lang": "hu",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "hu"
   },
   {
     "site_id": "me/tvprogram#rts-sat",
@@ -52581,8 +52314,7 @@
   {
     "site_id": "mk/tv-raspored#kanal-10",
     "name": "Kanal 10",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/54657514401.png"
+    "lang": "mk"
   },
   {
     "site_id": "tvprogram#cinestar-action-thriller",
@@ -52623,8 +52355,7 @@
     "site_id": "mk/tv-raspored#novi-pazar",
     "name": "RTV Novi Pazar",
     "lang": "mk",
-    "xmltv_id": "RTVNoviPazar.rs",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/96654588291.png"
+    "xmltv_id": "RTVNoviPazar.rs"
   },
   {
     "site_id": "ro/program-tv#trt-eba-tv-lise",
@@ -52882,8 +52613,7 @@
     "site_id": "me/tvprogram#explorer-natyra",
     "name": "Explorer Natyra",
     "lang": "en",
-    "xmltv_id": "ExplorerNatyra.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/38436400491.png"
+    "xmltv_id": "ExplorerNatyra.al@SD"
   },
   {
     "site_id": "al/programacioni#kanal-7",
@@ -53034,8 +52764,7 @@
   {
     "site_id": "mk/tv-raspored#da-vinci-learning",
     "name": "Da Vinci Learning",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0c17ada39729404d61e0fd203429abc7.png"
+    "lang": "mk"
   },
   {
     "site_id": "ks/programacioni#hbo",
@@ -53046,8 +52775,7 @@
   {
     "site_id": "at/tvprogramm#sky-sport-bundesliga-5",
     "name": "Sky Bundesliga 5",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/8037478961.jpg"
+    "lang": "de"
   },
   {
     "site_id": "de/tvprogramm#fight-24",
@@ -53138,8 +52866,7 @@
   {
     "site_id": "rs/tvprogram#pink-erotic-7",
     "name": "Pink Erotic 7",
-    "lang": "sr",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "sr"
   },
   {
     "site_id": "tvprogram#tvp-historia",
@@ -53497,8 +53224,7 @@
     "site_id": "rs/tvprogram#novi-pazar",
     "name": "RTV Novi Pazar",
     "lang": "sr",
-    "xmltv_id": "RTVNoviPazar.rs",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/96654588291.png"
+    "xmltv_id": "RTVNoviPazar.rs"
   },
   {
     "site_id": "de/tvprogramm#tvp-kobieta",
@@ -53694,8 +53420,7 @@
   {
     "site_id": "de/tvprogramm#sky-sport-bundesliga-6",
     "name": "Sky Bundesliga 6",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/7458211925.jpg"
+    "lang": "de"
   },
   {
     "site_id": "tvprogram#rtl-plus-de",
@@ -53907,8 +53632,7 @@
   {
     "site_id": "mk/tv-raspored#national-geographic-hd",
     "name": "National Geographic Channel HD",
-    "lang": "mk",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14392145511.png"
+    "lang": "mk"
   },
   {
     "site_id": "pt/programacao#globo-portugal",
@@ -54007,8 +53731,7 @@
     "site_id": "ks/programacioni#bang-bang",
     "name": "Bang Bang",
     "lang": "sq",
-    "xmltv_id": "BangBang.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/20194647121.png"
+    "xmltv_id": "BangBang.al@SD"
   },
   {
     "site_id": "ro/program-tv#folx-tv",
@@ -54027,8 +53750,7 @@
   {
     "site_id": "tvprogram#rts1",
     "name": "RTS 1",
-    "lang": "hr",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a6e62138c1373db1b97e3db48e629554.png"
+    "lang": "hr"
   },
   {
     "site_id": "gb/tvschedule#a-haber",
@@ -54110,8 +53832,7 @@
     "site_id": "mk/tv-raspored#tip-tv",
     "name": "Tip TV",
     "lang": "mk",
-    "xmltv_id": "TipTV.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/14247623801.png"
+    "xmltv_id": "TipTV.al@SD"
   },
   {
     "site_id": "pt/programacao#bfm-tv",
@@ -54343,8 +54064,7 @@
   {
     "site_id": "pl/program#epic-drama-pl",
     "name": "Epic Drama (Poland)",
-    "lang": "pl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/35518318951.png"
+    "lang": "pl"
   },
   {
     "site_id": "pl/program#warner-tv-pl",
@@ -54376,8 +54096,7 @@
     "site_id": "me/tvprogram#rtk-1",
     "name": "RTK 1",
     "lang": "en",
-    "xmltv_id": "RTK1.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/64228270451.png"
+    "xmltv_id": "RTK1.xk@SD"
   },
   {
     "site_id": "ro/program-tv#bbc-earth",
@@ -54702,8 +54421,7 @@
   {
     "site_id": "de/tvprogramm#sky-sport-bundesliga-4",
     "name": "Sky Bundesliga 4",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/7594288508.jpg"
+    "lang": "de"
   },
   {
     "site_id": "mk/tv-raspored#krone-tv",
@@ -54968,8 +54686,7 @@
   {
     "site_id": "ie/tvschedule#nick-junior-uk",
     "name": "Nick Junior UK",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/8091b8683a365594678336af5c969d34.png"
+    "lang": "en"
   },
   {
     "site_id": "si/tvspored#hustler-tv",
@@ -55276,8 +54993,7 @@
   {
     "site_id": "es/programacion-tv#canal-sur",
     "name": "Canal Sur",
-    "lang": "es",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a26a239faf6c1c0883a649f116babf2b.png"
+    "lang": "es"
   },
   {
     "site_id": "gb/tvschedule#mtv-uk",
@@ -55596,8 +55312,7 @@
   {
     "site_id": "ba/tvprogram#pink-erotic-5",
     "name": "Pink Erotic 5",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "bs"
   },
   {
     "site_id": "fr/programme-tv#game-one-1",
@@ -56100,7 +55815,8 @@
     "site_id": "ie/tvschedule#sony-movies-action",
     "name": "Great! Movies Action",
     "lang": "en",
-    "xmltv_id": "GREATaction.uk@SD"
+    "xmltv_id": "GREATaction.uk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-action-uk.png"
   },
   {
     "site_id": "it/guida-tv#tgcom24",
@@ -56187,8 +55903,7 @@
     "site_id": "de/tvprogramm#tv-dukagjini",
     "name": "TV Dukagjini",
     "lang": "de",
-    "xmltv_id": "RTVDukagjini.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/8171032546.png"
+    "xmltv_id": "RTVDukagjini.xk@SD"
   },
   {
     "site_id": "hu/tvmusor#hir-tv",
@@ -56562,8 +56277,7 @@
   {
     "site_id": "ba/tvprogram#pink-erotic-3",
     "name": "Pink Erotic 3",
-    "lang": "bs",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "lang": "bs"
   },
   {
     "site_id": "ch/tv-programm#rtl-2",
@@ -56741,8 +56455,7 @@
     "site_id": "es/programacion-tv#xxl",
     "name": "XXL",
     "lang": "es",
-    "xmltv_id": "XXL.fr@SD",
-    "logo": "http://img-cdn.curl.pk:8880/chimg/asdfasd.gif"
+    "xmltv_id": "XXL.fr@SD"
   },
   {
     "site_id": "ch/tv-programm#france-5",
@@ -56825,8 +56538,7 @@
     "site_id": "ks/programacioni#explorer-natyra",
     "name": "Explorer Natyra",
     "lang": "sq",
-    "xmltv_id": "ExplorerNatyra.al@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/38436400491.png"
+    "xmltv_id": "ExplorerNatyra.al@SD"
   },
   {
     "site_id": "ks/programacioni#investigation-discovery",
@@ -57006,8 +56718,7 @@
     "site_id": "es/programacion-tv#casa-e-cozinha",
     "name": "Casa e Cozinha",
     "lang": "es",
-    "xmltv_id": "CasaeCozinha.pt@SD",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/6712fdaf0d006b5d9042a077c4d70f22.png"
+    "xmltv_id": "CasaeCozinha.pt@SD"
   },
   {
     "site_id": "me/tvprogram#a2tv-tr",
@@ -57066,8 +56777,7 @@
   {
     "site_id": "si/tvspored#super-rtl",
     "name": "Super RTL",
-    "lang": "sl",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/62524129991.png"
+    "lang": "sl"
   },
   {
     "site_id": "bg/tv-programa#agro-tv-bg",
@@ -57484,8 +57194,7 @@
   {
     "site_id": "de/tvprogramm#pro-7",
     "name": "ProSieben",
-    "lang": "de",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/7608427120.png"
+    "lang": "de"
   },
   {
     "site_id": "fr/programme-tv#polsat-cafe",
@@ -57580,8 +57289,7 @@
     "site_id": "mk/tv-raspored#rtk-2",
     "name": "RTK 2",
     "lang": "mk",
-    "xmltv_id": "RTK2.xk@SD",
-    "logo": "http://img-cdn.curl.pk:8880/channels_icon/89576017361.png"
+    "xmltv_id": "RTK2.xk@SD"
   },
   {
     "site_id": "tvprogram#fox-news",

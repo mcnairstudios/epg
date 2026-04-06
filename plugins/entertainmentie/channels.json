@@ -291,8 +291,7 @@
   {
     "site_id": "ugold",
     "name": "U&Gold",
-    "lang": "en",
-    "logo": "https://img-cdn.curl.pk/channels_icon_api/cd97c816ba8d1689076b9b949e4c0f79.png"
+    "lang": "en"
   },
   {
     "site_id": "bbc-three",
@@ -305,7 +304,8 @@
     "site_id": "great-movies-romance",
     "name": "Great! Movies Romance",
     "lang": "en",
-    "xmltv_id": "GREATromance.uk@UK"
+    "xmltv_id": "GREATromance.uk@UK",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-romance-uk.png"
   },
   {
     "site_id": "reality-xtra",
@@ -673,7 +673,8 @@
     "site_id": "udave",
     "name": "U&Dave",
     "lang": "en",
-    "xmltv_id": "Dave.ie@SD"
+    "xmltv_id": "Dave.ie@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dave-uk.png"
   },
   {
     "site_id": "uyesterday",
