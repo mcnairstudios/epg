@@ -21,6 +21,7 @@ import (
 	"github.com/gavinmcnair/epg/internal/logocache"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"github.com/gavinmcnair/epg/internal/scheduler"
+	"github.com/gavinmcnair/epg/internal/settings"
 	"github.com/gavinmcnair/epg/internal/seed"
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
@@ -325,7 +326,9 @@ func main() {
 	logos := logocache.New(filepath.Join(*dataDir, "logos"), logger)
 	logos.Index(s.GetChannels())
 
-	srv := api.NewServer(s, g, ext, users, disabled, logos, logger, bw)
+	sets := settings.New(filepath.Join(*dataDir, "settings.json"))
+
+	srv := api.NewServer(s, g, ext, users, disabled, logos, sets, logger, bw)
 
 	var sched *scheduler.Scheduler
 	if *schedule != "" {

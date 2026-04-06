@@ -12,6 +12,7 @@ import (
 	"github.com/gavinmcnair/epg/internal/bandwidth"
 	"github.com/gavinmcnair/epg/internal/grabber"
 	"github.com/gavinmcnair/epg/internal/logocache"
+	"github.com/gavinmcnair/epg/internal/settings"
 	"github.com/gavinmcnair/epg/internal/source"
 	"github.com/gavinmcnair/epg/internal/store"
 	"github.com/gavinmcnair/epg/internal/ui"
@@ -24,12 +25,13 @@ type Server struct {
 	users           *auth.UserStore
 	disabled        *store.DisabledStore
 	logoCache       *logocache.Cache
+	settings        *settings.Store
 	bandwidth       *bandwidth.Tracker
 	log             zerolog.Logger
 	router          chi.Router
 }
 
-func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, disabled *store.DisabledStore, logos *logocache.Cache, logger zerolog.Logger, bw *bandwidth.Tracker) *Server {
+func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceManager, users *auth.UserStore, disabled *store.DisabledStore, logos *logocache.Cache, sets *settings.Store, logger zerolog.Logger, bw *bandwidth.Tracker) *Server {
 	srv := &Server{
 		store:           s,
 		grabber:         g,
@@ -37,6 +39,7 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		users:           users,
 		disabled:        disabled,
 		logoCache:       logos,
+		settings:        sets,
 		log:             logger,
 		bandwidth:       bw,
 		router:          chi.NewRouter(),
@@ -95,6 +98,12 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 			r.Post("/users", srv.createUser)
 			r.Put("/users/{id}/password", srv.changePassword)
 			r.Delete("/users/{id}", srv.deleteUser)
+
+			r.Get("/settings", srv.getSettings)
+			r.Put("/settings", srv.putSettings)
+
+			r.Get("/tmdb/search", srv.tmdbSearch)
+			r.Get("/tmdb/details", srv.tmdbDetails)
 		})
 	})
 

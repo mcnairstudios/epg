@@ -55,8 +55,22 @@
     .epg-channel-tooltip { display: none; position: absolute; left: 100%; top: 50%; transform: translateY(-50%); background: #1a2332; border: 1px solid #2f3336; border-radius: 6px; padding: 8px 12px; font-size: 11px; color: #8b98a5; white-space: nowrap; z-index: 10; margin-left: 4px; }
     .epg-channel:hover .epg-channel-tooltip { display: block; }
     .epg-programs { display: flex; position: relative; flex: 1; min-width: 0; }
-    .epg-program { position: absolute; top: 2px; bottom: 2px; background: #1c2b3a; border: 1px solid #2f3336; border-radius: 4px; padding: 4px 8px; overflow: hidden; cursor: default; font-size: 12px; }
+    .epg-program { position: absolute; top: 2px; bottom: 2px; background: #1c2b3a; border: 1px solid #2f3336; border-radius: 4px; padding: 4px 8px; overflow: hidden; cursor: pointer; font-size: 12px; }
     .epg-program:hover { background: #243447; border-color: #1d9bf0; z-index: 1; }
+    .prog-modal-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.85); z-index:1000; overflow-y:auto; }
+    .prog-modal-overlay.open { display:flex; justify-content:center; align-items:flex-start; padding:40px 16px; }
+    .prog-modal { background:#16202a; border-radius:16px; max-width:700px; width:100%; overflow:hidden; position:relative; }
+    .prog-modal-backdrop { height:260px; background:#0f1419; background-size:cover; background-position:center 20%; position:relative; }
+    .prog-modal-backdrop::after { content:''; position:absolute; inset:0; background:linear-gradient(to top,#16202a,transparent 60%); }
+    .prog-modal-content { padding:0 28px 28px; position:relative; z-index:1; margin-top:-40px; }
+    .prog-modal-title { font-size:22px; font-weight:700; color:#e7e9ea; margin-bottom:4px; }
+    .prog-modal-sub { font-size:13px; color:#8b98a5; margin-bottom:12px; }
+    .prog-modal-meta { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:16px; min-height:24px; }
+    .prog-modal-desc { color:#b0b8c8; font-size:15px; line-height:1.7; margin-bottom:16px; }
+    .prog-modal-cast { display:none; margin-bottom:16px; }
+    .prog-modal-cast-grid { display:flex; gap:16px; overflow-x:auto; padding-bottom:8px; }
+    .prog-modal-close { position:absolute; top:16px; right:16px; background:rgba(0,0,0,0.6); border:none; color:#fff; width:36px; height:36px; border-radius:50%; font-size:20px; cursor:pointer; z-index:2; display:flex; align-items:center; justify-content:center; }
+    .prog-modal-close:hover { background:rgba(255,255,255,0.2); }
     .epg-program-title { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
     .epg-program-time { font-size: 10px; color: #8b98a5; white-space: nowrap; }
     .epg-program.live { background: rgba(59, 130, 246, 0.15); border-color: #3b82f6; }
@@ -179,6 +193,17 @@
         <p class="xmltv-url" id="xmltv-full-url"></p>
         <button class="btn btn-primary" style="margin-top:8px;" onclick="copyXmltvUrl('xmltv-full-url')">Copy URL</button>
       </div>
+      <div class="card" style="margin-bottom:16px;">
+        <h3>TMDB Integration</h3>
+        <p style="font-size:12px;color:#8b98a5;margin-bottom:8px;">Free API key from <a href="https://www.themoviedb.org/signup" target="_blank" style="color:#1d9bf0;">themoviedb.org</a>. Enables programme artwork, ratings, and cast info when clicking programmes in the guide.</p>
+        <div class="form-row">
+          <div class="form-group">
+            <label>API Key</label>
+            <input type="text" id="tmdb-key-input" placeholder="Enter TMDB API key" style="font-size:13px;">
+          </div>
+          <button class="btn btn-primary" id="tmdb-save-btn" onclick="saveTmdbKey()">Save</button>
+        </div>
+      </div>
       <h3 style="margin-bottom:12px;">Users</h3>
       <div class="form-row">
         <div class="form-group">
@@ -258,6 +283,26 @@
       loadXmltvUrls();
       loadUsers();
       loadSleepingSources();
+      loadTmdbSettings();
+    }
+
+    async function loadTmdbSettings() {
+      try {
+        const data = await apiFetch('/settings');
+        document.getElementById('tmdb-key-input').value = data.tmdb_api_key || '';
+      } catch {}
+    }
+
+    async function saveTmdbKey() {
+      const btn = document.getElementById('tmdb-save-btn');
+      btn.disabled = true;
+      try {
+        await apiFetch('/settings', {method:'PUT', body: JSON.stringify({tmdb_api_key: document.getElementById('tmdb-key-input').value.trim()})});
+        showStatus('TMDB API key saved', 'success');
+      } catch(e) {
+        showStatus(e.message, 'error');
+      }
+      btn.disabled = false;
     }
 
     async function grabSettingsSource(name) {
@@ -819,7 +864,8 @@
           const titleEsc = (p.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
           const descEsc = (p.description||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 
-          progsHtml += `<div class="${cls}" style="left:${leftPx}px;width:${widthPx}px;" title="${titleEsc}\n${startStr}-${stopStr}\n${descEsc}">
+          const subEsc = (p.sub_title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+          progsHtml += `<div class="${cls}" style="left:${leftPx}px;width:${widthPx}px;" title="${titleEsc}\n${startStr}-${stopStr}\n${descEsc}" onclick="showProgModal('${titleEsc.replace(/'/g,"\\'")}','${subEsc.replace(/'/g,"\\'")}','${descEsc.replace(/'/g,"\\'")}','${startStr}','${stopStr}','${(ch._displayName||ch.name||'').replace(/'/g,"\\'")}')">
             <div class="epg-program-title">${titleEsc}</div>
             <div class="epg-program-time">${startStr} - ${stopStr}</div>
           </div>`;
@@ -975,6 +1021,115 @@
     pollBandwidth();
 
     refreshAll();
+
+    // TMDB genre mapping
+    const TMDB_GENRES = {10759:'Action & Adventure',10762:'Kids',10763:'News',10764:'Reality',10765:'Sci-Fi & Fantasy',10766:'Soap',10767:'Talk',10768:'War & Politics',28:'Action',12:'Adventure',16:'Animation',35:'Comedy',80:'Crime',99:'Documentary',18:'Drama',10751:'Family',14:'Fantasy',36:'History',27:'Horror',10402:'Music',9648:'Mystery',10749:'Romance',878:'Science Fiction',53:'Thriller',10752:'War',37:'Western'};
+
+    function showProgModal(title, subtitle, desc, startTime, stopTime, channel) {
+      const overlay = document.getElementById('prog-modal-overlay');
+      document.getElementById('prog-modal-title').textContent = title;
+      document.getElementById('prog-modal-sub').textContent = (subtitle ? subtitle + ' — ' : '') + channel + ' ' + startTime + '–' + stopTime;
+      const descArea = document.getElementById('prog-modal-desc');
+      descArea.textContent = desc || '';
+      const backdrop = document.getElementById('prog-modal-backdrop');
+      backdrop.style.backgroundImage = '';
+      const meta = document.getElementById('prog-modal-meta');
+      meta.innerHTML = '';
+      const castArea = document.getElementById('prog-modal-cast');
+      castArea.style.display = 'none';
+      castArea.innerHTML = '';
+      const tagline = document.getElementById('prog-modal-tagline');
+      tagline.textContent = '';
+      tagline.style.display = 'none';
+
+      overlay.classList.add('open');
+
+      // TMDB search
+      if (!title) return;
+      fetch('/api/v1/tmdb/search?query=' + encodeURIComponent(title), {credentials:'same-origin'})
+        .then(r => r.json())
+        .then(data => {
+          if (!data || !data.results || !data.results.length) return;
+          const match = data.results.find(r => r.media_type === 'tv' || r.media_type === 'movie');
+          if (!match) return;
+
+          if (match.backdrop_path) {
+            const img = new Image();
+            img.onload = () => {
+              backdrop.style.backgroundImage = 'url(https://image.tmdb.org/t/p/w1280' + match.backdrop_path + ')';
+            };
+            img.src = 'https://image.tmdb.org/t/p/w1280' + match.backdrop_path;
+          }
+
+          const pills = [];
+          if (match.vote_average > 0) {
+            const stars = match.vote_average.toFixed(1);
+            const col = match.vote_average >= 7 ? '#22c55e' : match.vote_average >= 5 ? '#eab308' : '#ef4444';
+            pills.push(`<span style="background:${col}20;color:${col};padding:3px 10px;border-radius:6px;font-weight:700;font-size:13px">★ ${stars}</span>`);
+          }
+          const year = (match.first_air_date||match.release_date||'').substring(0,4);
+          if (year) pills.push(`<span style="color:#9ca3af;font-size:13px">${year}</span>`);
+          pills.push(`<span style="background:rgba(255,255,255,0.1);color:#9ca3af;padding:3px 10px;border-radius:6px;font-size:12px">${match.media_type==='tv'?'TV Series':'Film'}</span>`);
+          if (match.genre_ids) match.genre_ids.slice(0,3).forEach(gid => {
+            const name = TMDB_GENRES[gid];
+            if (name) pills.push(`<span style="background:rgba(59,130,246,0.15);color:#60a5fa;padding:3px 10px;border-radius:6px;font-size:12px">${name}</span>`);
+          });
+          meta.innerHTML = pills.join('');
+
+          if (match.overview && !desc) descArea.textContent = match.overview;
+
+          fetch('/api/v1/tmdb/details?type=' + match.media_type + '&id=' + match.id, {credentials:'same-origin'})
+            .then(r => r.json())
+            .then(detail => {
+              if (!detail) return;
+              if (detail.tagline) {
+                tagline.textContent = '"' + detail.tagline + '"';
+                tagline.style.display = 'block';
+              }
+              if (detail.number_of_seasons) {
+                meta.innerHTML += `<span style="color:#9ca3af;font-size:12px">${detail.number_of_seasons} season${detail.number_of_seasons>1?'s':''}</span>`;
+              }
+              if (detail.runtime) {
+                const h = Math.floor(detail.runtime/60), m = detail.runtime%60;
+                meta.innerHTML += `<span style="color:#9ca3af;font-size:12px">${h>0?h+'h ':''}${m}m</span>`;
+              }
+              if (detail.credits && detail.credits.cast && detail.credits.cast.length) {
+                castArea.style.display = 'block';
+                let castHtml = '<div style="color:#9ca3af;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:1px;margin-bottom:12px">Cast</div><div class="prog-modal-cast-grid">';
+                detail.credits.cast.slice(0,8).forEach(p => {
+                  const imgUrl = p.profile_path ? 'https://image.tmdb.org/t/p/w185'+p.profile_path : '';
+                  const imgHtml = imgUrl
+                    ? `<img src="${imgUrl}" style="width:64px;height:64px;border-radius:50%;object-fit:cover;margin-bottom:6px">`
+                    : '<div style="width:64px;height:64px;border-radius:50%;background:#374151;margin:0 auto 6px;display:flex;align-items:center;justify-content:center;color:#6b7280;font-size:24px">&#9786;</div>';
+                  castHtml += `<div style="flex-shrink:0;text-align:center;width:72px">${imgHtml}<div style="font-size:11px;color:#d1d5db;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${(p.name||'').replace(/</g,'&lt;')}</div><div style="font-size:10px;color:#6b7280;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${(p.character||'').replace(/</g,'&lt;')}</div></div>`;
+                });
+                castHtml += '</div>';
+                castArea.innerHTML = castHtml;
+              }
+            }).catch(() => {});
+        }).catch(() => {});
+    }
+
+    function closeProgModal() {
+      document.getElementById('prog-modal-overlay').classList.remove('open');
+    }
+
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeProgModal(); });
   </script>
+
+  <div class="prog-modal-overlay" id="prog-modal-overlay" onclick="if(event.target===this)closeProgModal()">
+    <div class="prog-modal">
+      <div class="prog-modal-backdrop" id="prog-modal-backdrop"></div>
+      <button class="prog-modal-close" onclick="closeProgModal()">&times;</button>
+      <div class="prog-modal-content">
+        <div class="prog-modal-title" id="prog-modal-title"></div>
+        <div class="prog-modal-sub" id="prog-modal-sub"></div>
+        <div class="prog-modal-meta" id="prog-modal-meta"></div>
+        <div id="prog-modal-tagline" style="color:#6b7280;font-style:italic;font-size:14px;margin-bottom:12px;display:none"></div>
+        <div class="prog-modal-desc" id="prog-modal-desc"></div>
+        <div class="prog-modal-cast" id="prog-modal-cast"></div>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
