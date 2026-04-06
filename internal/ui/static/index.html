@@ -826,9 +826,13 @@
         }
 
         const nameEsc = (ch._displayName||ch.name||'').replace(/</g,'&lt;');
+        const logoUrl = ch.logo || '';
+        const channelContent = logoUrl
+          ? `<img src="${logoUrl}" alt="${nameEsc}" title="${nameEsc}" style="max-width:160px;max-height:36px;object-fit:contain;">`
+          : nameEsc;
         bodyHtml += `<div class="epg-row">
-          <div class="epg-channel">
-            ${nameEsc}
+          <div class="epg-channel" title="${nameEsc}">
+            ${channelContent}
             <div class="epg-channel-tooltip">
               <div><b>${nameEsc}</b></div>
               <div>XMLTV: ${ch.xmltv_id}</div>
