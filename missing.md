@@ -1,6 +1,6 @@
 # Missing Logos
 Channels with no logo found in tv-logos, grouped by plugin.
-**67170/160131** channels have logos. **92961** missing.
+**67172/160131** channels have logos. **92959** missing.
 
 ## abcau (240/548)
 - NO_XMLTV_ID (ASPIR)
@@ -23340,7 +23340,7 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - TVFinland.fi (TV Finland)
 - NO_XMLTV_ID (MTV Liiga UHD)
 
-## imjhnz (1953/6464)
+## imjhnz (1954/6464)
 - NO_XMLTV_ID (See Dad Run)
 - WalkerTexasRanger.us (Walker Texas Ranger)
 - BeverlyHillbillies.us (Beverly Hillbillies)
@@ -26260,7 +26260,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (Bob the Builder)
 - NO_XMLTV_ID (Antiques Roadshow)
 - NO_XMLTV_ID (Nick Rewind)
-- KCWCDT1.us (KCWCDT)
 - ReutersTV.us (Reuters TV)
 - LesorelleMcLeod.us (Le sorelle McLeod)
 - OnTheCase.us (On The Case)
@@ -73071,7 +73070,7 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (V Sport Football Live 3)
 - DRK.dk (DR K)
 
-## tvpassport (3784/19287)
+## tvpassport (3785/19287)
 - NO_XMLTV_ID (CBC (CBCT) Charlottetown, PE)
 - NO_XMLTV_ID (Defy (WBKI-TV6) Louisville, KY)
 - NO_XMLTV_ID (Estrella (WGEN-LD) HD Miami, FL)
@@ -80848,7 +80847,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (PBS (WKLE) Lexington-Richmond, KY HD)
 - NO_XMLTV_ID (Tele-Quebec (CIVG) Sept-Iles)
 - NO_XMLTV_ID (TrueReal (KWBA-TV6) Sierra Vista, AZ)
-- K28CWD1.us (FOX (K28CW) Flagstaff, AZ)
 - NO_XMLTV_ID (PBS KIDS 24/7 (K43DU-D2) Butte, MT)
 - NO_XMLTV_ID (Antenna (KWKT-TV3) Waco, TX)
 - NO_XMLTV_ID (CBC (CBLT-TV-1) Toronto, ON)
