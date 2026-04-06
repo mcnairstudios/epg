@@ -58,7 +58,8 @@
     "site_id": "BIT",
     "name": "Bloomberg",
     "lang": "pt",
-    "xmltv_id": "BloombergTV.us"
+    "xmltv_id": "BloombergTV.us",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bloomberg-television-us.png"
   },
   {
     "site_id": "BOI",
@@ -70,7 +71,8 @@
     "site_id": "BQ5",
     "name": "Arte 1",
     "lang": "pt",
-    "xmltv_id": "Arte1.br"
+    "xmltv_id": "Arte1.br",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/arte1-br.png"
   },
   {
     "site_id": "BSP",
@@ -490,19 +492,22 @@
     "site_id": "SIC",
     "name": "SIC International",
     "lang": "pt",
-    "xmltv_id": "SICInternacional.pt"
+    "xmltv_id": "SICInternacional.pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/portugal/sic-pt.png"
   },
   {
     "site_id": "SP2",
     "name": "SporTV 2",
     "lang": "pt",
-    "xmltv_id": "SporTV2.br"
+    "xmltv_id": "SporTV2.br",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/sportv2-br.png"
   },
   {
     "site_id": "SP3",
     "name": "SporTV 3",
     "lang": "pt",
-    "xmltv_id": "SporTV3.br"
+    "xmltv_id": "SporTV3.br",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/sportv3-br.png"
   },
   {
     "site_id": "SPA",
@@ -637,7 +642,8 @@
     "site_id": "TVV",
     "name": "Terra Viva",
     "lang": "pt",
-    "xmltv_id": "TerraViva.br"
+    "xmltv_id": "TerraViva.br",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/terraviva-br.png"
   },
   {
     "site_id": "USA",
@@ -670,6 +676,7 @@
     "site_id": "WOO",
     "name": "Woohoo",
     "lang": "pt",
-    "xmltv_id": "WooHoo.br"
+    "xmltv_id": "WooHoo.br",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/brazil/woohoo-br.png"
   }
 ]
