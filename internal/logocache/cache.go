@@ -88,6 +88,7 @@ func (c *Cache) Index(channels []domain.Channel) {
 			c.index[key] = ch.Logo
 		}
 	}
+	c.log.Info().Int("indexed", len(c.index)).Msg("logo cache: indexed channel logos")
 }
 
 func (c *Cache) Has(xmltvID string) bool {
@@ -126,6 +127,7 @@ func (c *Cache) Serve(w http.ResponseWriter, r *http.Request, xmltvID string) {
 	}
 
 	if sourceURL == "" {
+		c.log.Warn().Str("key", key).Str("id", xmltvID).Msg("logo cache: no source URL in index")
 		http.NotFound(w, r)
 		return
 	}
