@@ -107,7 +107,7 @@
     "name": "BBC One",
     "lang": "en",
     "xmltv_id": "BBCOne.uk@London",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-one.webp"
   },
   {
     "site_id": "UID50075",
@@ -151,7 +151,8 @@
   {
     "site_id": "UID2481",
     "name": "BBC News HD",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-news.webp"
   },
   {
     "site_id": "UID2552",
@@ -165,7 +166,7 @@
     "name": "BBC News",
     "lang": "en",
     "xmltv_id": "BBCNews.uk@Europe",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-news.webp"
   },
   {
     "site_id": "UID2044",
@@ -1380,7 +1381,7 @@
     "name": "TLC",
     "lang": "nl",
     "xmltv_id": "TLC.nl@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/netherlands/tlc-nl.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/tlc.webp"
   },
   {
     "site_id": "UID2219",
@@ -2307,7 +2308,7 @@
     "name": "BBC Two",
     "lang": "en",
     "xmltv_id": "BBCTwo.uk@England",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-two.webp"
   },
   {
     "site_id": "UID0309",
@@ -2382,7 +2383,7 @@
     "name": "BBC One HD",
     "lang": "en",
     "xmltv_id": "BBCOne.uk@London",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-one-hd.webp"
   },
   {
     "site_id": "UID2369",
@@ -2636,7 +2637,7 @@
     "name": "BBC Two HD",
     "lang": "en",
     "xmltv_id": "BBCTwo.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-two-hd.webp"
   },
   {
     "site_id": "UID2475",

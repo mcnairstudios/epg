@@ -16,7 +16,7 @@
     "name": "Film4",
     "lang": "hu",
     "xmltv_id": "Film4.hu@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hungary/film4-hu.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/film4.webp"
   },
   {
     "site_id": "365",
@@ -545,7 +545,7 @@
     "name": "Food Network",
     "lang": "hu",
     "xmltv_id": "FoodNetwork.hu",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/food-network-ar.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/food-network.webp"
   },
   {
     "site_id": "366",
@@ -579,7 +579,7 @@
     "name": "TLC",
     "lang": "hu",
     "xmltv_id": "TLC.hu",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/argentina/tlc-ar.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/tlc.webp"
   },
   {
     "site_id": "362",
@@ -974,6 +974,7 @@
   {
     "site_id": "158",
     "name": "Sky News (English)",
-    "lang": "hu"
+    "lang": "hu",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/sky-news.webp"
   }
 ]

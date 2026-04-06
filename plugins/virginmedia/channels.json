@@ -4,7 +4,7 @@
     "name": "BBC ALBA HD",
     "lang": "en",
     "xmltv_id": "BBCAlba.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-alba.webp"
   },
   {
     "site_id": "322",
@@ -24,7 +24,7 @@
     "name": "ITV3 HD",
     "lang": "en",
     "xmltv_id": "ITV3.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-3-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/itv3.webp"
   },
   {
     "site_id": "1837",
@@ -65,7 +65,8 @@
     "site_id": "2330",
     "name": "HobbyMaker HD",
     "lang": "en",
-    "xmltv_id": "HobbyMaker.uk@HD"
+    "xmltv_id": "HobbyMaker.uk@HD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/hobbymaker.webp"
   },
   {
     "site_id": "1734",
@@ -98,7 +99,7 @@
     "name": "U&Yesterday HD",
     "lang": "en",
     "xmltv_id": "UYesterday.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/u-and-yesterday-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/yesterday.webp"
   },
   {
     "site_id": "1343",
@@ -140,7 +141,7 @@
     "name": "BBC TWO HD",
     "lang": "en",
     "xmltv_id": "BBCTwo.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-two-hd.webp"
   },
   {
     "site_id": "329",
@@ -187,21 +188,21 @@
     "name": "ITVBe HD",
     "lang": "en",
     "xmltv_id": "ITVBe.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-be-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/itvbe.webp"
   },
   {
     "site_id": "246",
     "name": "Really",
     "lang": "en",
     "xmltv_id": "Really.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/really-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/really.webp"
   },
   {
     "site_id": "236",
     "name": "Together TV",
     "lang": "en",
     "xmltv_id": "TogetherTV.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/together-tv-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/together-tv.webp"
   },
   {
     "site_id": "276",
@@ -253,14 +254,14 @@
     "name": "BBC TWO HD",
     "lang": "en",
     "xmltv_id": "BBCTwo.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-two-hd.webp"
   },
   {
     "site_id": "2198",
     "name": "BBC Parliament HD",
     "lang": "en",
     "xmltv_id": "BBCParliament.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-parliament.webp"
   },
   {
     "site_id": "330",
@@ -281,7 +282,7 @@
     "name": "BBC ONE Wales HD",
     "lang": "en",
     "xmltv_id": "BBCOne.uk@WalesHD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-one-hd.webp"
   },
   {
     "site_id": "174",
@@ -320,7 +321,8 @@
   {
     "site_id": "1756",
     "name": "BBC NEWS HD",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-news.webp"
   },
   {
     "site_id": "2355",
@@ -333,7 +335,7 @@
     "site_id": "2122",
     "name": "ITV1 HD",
     "lang": "en",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-1-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/itv1-hd.webp"
   },
   {
     "site_id": "1338",
@@ -368,7 +370,7 @@
     "name": "5Select",
     "lang": "en",
     "xmltv_id": "5SELECT.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/5-select-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/5-select.webp"
   },
   {
     "site_id": "1855",
@@ -382,14 +384,14 @@
     "name": "PBS America",
     "lang": "en",
     "xmltv_id": "PBSAmerica.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/pbs-america-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/pbs-america.webp"
   },
   {
     "site_id": "1894",
     "name": "GREAT! movies",
     "lang": "en",
     "xmltv_id": "GREATmovies.uk@UK",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-movies-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/great-movies.webp"
   },
   {
     "site_id": "2090",
@@ -416,7 +418,7 @@
     "name": "Food Network",
     "lang": "en",
     "xmltv_id": "FoodNetwork.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/food-network-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/food-network.webp"
   },
   {
     "site_id": "567",
@@ -472,7 +474,7 @@
     "name": "E4 +1",
     "lang": "en",
     "xmltv_id": "E4.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/e-4-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/e4.webp"
   },
   {
     "site_id": "1699",
@@ -526,7 +528,7 @@
     "name": "ITV3 +1",
     "lang": "en",
     "xmltv_id": "ITV3.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-3-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/itv3.webp"
   },
   {
     "site_id": "1511",
@@ -540,7 +542,7 @@
     "name": "ITV4 HD",
     "lang": "en",
     "xmltv_id": "ITV4.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-4-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/itv4.webp"
   },
   {
     "site_id": "1677",
@@ -561,14 +563,14 @@
     "name": "U&Yesterday +1",
     "lang": "en",
     "xmltv_id": "UYesterday.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/u-and-yesterday-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/yesterday.webp"
   },
   {
     "site_id": "1751",
     "name": "TRUE CRIME +1",
     "lang": "en",
     "xmltv_id": "CBSReality.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/cbs-reality-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/true-crime.webp"
   },
   {
     "site_id": "2032",
@@ -582,7 +584,7 @@
     "name": "GB News",
     "lang": "en",
     "xmltv_id": "GBNews.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/gb-news-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/gb-news.webp"
   },
   {
     "site_id": "1745",
@@ -596,7 +598,7 @@
     "name": "Blaze",
     "lang": "en",
     "xmltv_id": "Blaze.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/blaze-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/blaze.webp"
   },
   {
     "site_id": "405",
@@ -615,7 +617,7 @@
     "name": "BBC ONE NI HD",
     "lang": "en",
     "xmltv_id": "BBCOne.uk@NorthernIrelandHD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-one-hd.webp"
   },
   {
     "site_id": "406",
@@ -706,7 +708,7 @@
     "name": "Channel 5+1",
     "lang": "en",
     "xmltv_id": "Channel5.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/channel-5-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/channel-5.webp"
   },
   {
     "site_id": "1732",
@@ -732,14 +734,14 @@
     "name": "5STAR +1",
     "lang": "en",
     "xmltv_id": "5STAR.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/5-star-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/5-star.webp"
   },
   {
     "site_id": "1496",
     "name": "Channel 5 HD",
     "lang": "en",
     "xmltv_id": "Channel5.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/channel-5-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/channel-5-hd.webp"
   },
   {
     "site_id": "320",
@@ -752,21 +754,21 @@
     "name": "DMAX",
     "lang": "en",
     "xmltv_id": "DMAX.uk@UK",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dmax-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/dmax.webp"
   },
   {
     "site_id": "1907",
     "name": "Quest Red",
     "lang": "en",
     "xmltv_id": "QuestRed.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/quest-red-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/quest-red.webp"
   },
   {
     "site_id": "1965",
     "name": "Quest HD",
     "lang": "en",
     "xmltv_id": "Quest.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/quest-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/quest.webp"
   },
   {
     "site_id": "1974",
@@ -780,7 +782,7 @@
     "name": "5 USA",
     "lang": "en",
     "xmltv_id": "5USA.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/5-usa-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/5-usa.webp"
   },
   {
     "site_id": "327",
@@ -815,7 +817,7 @@
     "name": "TJC HD",
     "lang": "en",
     "xmltv_id": "TJC.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/tjc.webp"
   },
   {
     "site_id": "1921",
@@ -840,7 +842,7 @@
     "name": "BBC Scotland HD",
     "lang": "en",
     "xmltv_id": "BBCScotland.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-scotland-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-scotland-hd.webp"
   },
   {
     "site_id": "1720",
@@ -896,14 +898,14 @@
     "name": "DMAX + 1",
     "lang": "en",
     "xmltv_id": "DMAX.uk@UKPlus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/dmax-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/dmax.webp"
   },
   {
     "site_id": "1709",
     "name": "Quest +1",
     "lang": "en",
     "xmltv_id": "Quest.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/quest-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/quest.webp"
   },
   {
     "site_id": "138",
@@ -915,21 +917,21 @@
     "name": "Film4 +1",
     "lang": "en",
     "xmltv_id": "Film4.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/film-4-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/film4.webp"
   },
   {
     "site_id": "1044",
     "name": "TLC+1",
     "lang": "en",
     "xmltv_id": "TLC.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tlc-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/tlc.webp"
   },
   {
     "site_id": "2148",
     "name": "ITVBe +1",
     "lang": "en",
     "xmltv_id": "ITVBe.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-be-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/itvbe.webp"
   },
   {
     "site_id": "235",
@@ -941,7 +943,8 @@
   {
     "site_id": "1322",
     "name": "Channel 4 +1",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/channel-4.webp"
   },
   {
     "site_id": "1324",
@@ -961,13 +964,13 @@
     "name": "5 USA +1",
     "lang": "en",
     "xmltv_id": "5USA.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/5-usa-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/5-usa.webp"
   },
   {
     "site_id": "2244",
     "name": "BBC FOUR HD",
     "lang": "en",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-four-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-four-hd.webp"
   },
   {
     "site_id": "2298",
@@ -988,7 +991,7 @@
     "name": "Sky Arts HD",
     "lang": "en",
     "xmltv_id": "SkyArts.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-arts-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/sky-arts.webp"
   },
   {
     "site_id": "1673",
@@ -1002,19 +1005,20 @@
     "name": "Talking Pictures",
     "lang": "en",
     "xmltv_id": "TalkingPicturesTV.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/talkingpictures-tv.webp"
   },
   {
     "site_id": "2021",
     "name": "Channel 4HD",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/channel-4-hd.webp"
   },
   {
     "site_id": "2248",
     "name": "BBC ONE London HD",
     "lang": "en",
     "xmltv_id": "BBCOne.uk@LondonHD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-one-hd.webp"
   },
   {
     "site_id": "1341",
@@ -1091,7 +1095,7 @@
     "name": "BBC THREE HD",
     "lang": "en",
     "xmltv_id": "BBCThree.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-three-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-three-hd.webp"
   },
   {
     "site_id": "259",
@@ -1105,21 +1109,21 @@
     "name": "U&DaveJaVu",
     "lang": "en",
     "xmltv_id": "UDaveJaVu.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/u-and-dave-javu-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/dave-ja-vu.webp"
   },
   {
     "site_id": "1470",
     "name": "Film4 HD",
     "lang": "en",
     "xmltv_id": "Film4.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/film-4-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/film4.webp"
   },
   {
     "site_id": "2061",
     "name": "U&Drama +1",
     "lang": "en",
     "xmltv_id": "UDrama.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/u-and-drama-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/drama.webp"
   },
   {
     "site_id": "2166",
@@ -1140,7 +1144,7 @@
     "name": "More 4 HD",
     "lang": "en",
     "xmltv_id": "More4.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/4-more-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/more-4.webp"
   },
   {
     "site_id": "2125",
@@ -1166,7 +1170,7 @@
     "name": "TRUE CRIME",
     "lang": "en",
     "xmltv_id": "TrueCrime.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/true-crime-uk-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/true-crime.webp"
   },
   {
     "site_id": "321",
@@ -1221,7 +1225,7 @@
     "name": "4SevenHD",
     "lang": "en",
     "xmltv_id": "4seven.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/4-seven-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/4seven.webp"
   },
   {
     "site_id": "1954",
@@ -1242,7 +1246,7 @@
     "name": "GREAT! tv",
     "lang": "en",
     "xmltv_id": "GREATtv.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-tv-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/great-tv.webp"
   },
   {
     "site_id": "1770",
@@ -1270,14 +1274,14 @@
     "name": "E4 HD",
     "lang": "en",
     "xmltv_id": "E4.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/e-4-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/e4.webp"
   },
   {
     "site_id": "1597",
     "name": "ITV2 HD",
     "lang": "en",
     "xmltv_id": "ITV2.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-2-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/itv2.webp"
   },
   {
     "site_id": "1675",
@@ -1310,7 +1314,7 @@
     "name": "GREAT! action",
     "lang": "en",
     "xmltv_id": "GREATaction.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/great-action-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/great-action.webp"
   },
   {
     "site_id": "1922",
@@ -1329,7 +1333,7 @@
     "name": "5STAR",
     "lang": "en",
     "xmltv_id": "5STAR.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/5-star-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/5-star.webp"
   },
   {
     "site_id": "414",
@@ -1343,7 +1347,7 @@
     "name": "More 4 +1",
     "lang": "en",
     "xmltv_id": "More4.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/4-more-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/more-4.webp"
   },
   {
     "site_id": "407",
@@ -1357,7 +1361,7 @@
     "name": "TLC HD",
     "lang": "en",
     "xmltv_id": "TLC.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/tlc-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/tlc.webp"
   },
   {
     "site_id": "2088",
@@ -1371,7 +1375,7 @@
     "name": "BBC ONE London HD",
     "lang": "en",
     "xmltv_id": "BBCOne.uk@LondonHD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-one-hd.webp"
   },
   {
     "site_id": "427",
@@ -1392,14 +1396,14 @@
     "name": "Sky Mix HD",
     "lang": "en",
     "xmltv_id": "SkyMix.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-mix-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/sky-mix.webp"
   },
   {
     "site_id": "198",
     "name": "Challenge",
     "lang": "en",
     "xmltv_id": "Challenge.uk@SD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/challenge-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/challenge.webp"
   },
   {
     "site_id": "1689",
@@ -1413,14 +1417,14 @@
     "name": "CBeebies HD",
     "lang": "en",
     "xmltv_id": "CBeebies.uk@HD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/cbeebies-hd.webp"
   },
   {
     "site_id": "2015",
     "name": "S4C HD",
     "lang": "en",
     "xmltv_id": "S4C.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/s4c-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/s4c.webp"
   },
   {
     "site_id": "2265",
@@ -1464,7 +1468,7 @@
     "name": "BBC ONE Scotland HD",
     "lang": "en",
     "xmltv_id": "BBCOne.uk@ScotlandHD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/bbc-one-hd.webp"
   },
   {
     "site_id": "1469",
@@ -1492,14 +1496,14 @@
     "name": "Sky News HD",
     "lang": "en",
     "xmltv_id": "SkyNews.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/australia/sky-news-hd-au.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/sky-news.webp"
   },
   {
     "site_id": "1456",
     "name": "ITV4 +1",
     "lang": "en",
     "xmltv_id": "ITV4.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-4-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/itv4.webp"
   },
   {
     "site_id": "265",
@@ -1513,7 +1517,7 @@
     "name": "ITV2 +1",
     "lang": "en",
     "xmltv_id": "ITV2.uk@Plus1",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-2-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/itv2.webp"
   },
   {
     "site_id": "2297",
@@ -1548,7 +1552,7 @@
     "name": "CBBC HD",
     "lang": "en",
     "xmltv_id": "CBBC.uk@HD",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/cbbc-hd.webp"
   },
   {
     "site_id": "1786",
@@ -1601,7 +1605,7 @@
     "site_id": "1553",
     "name": "ITV1 +1",
     "lang": "en",
-    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-1-uk.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/epg/main/images/freeview/itv1.webp"
   },
   {
     "site_id": "1713",
