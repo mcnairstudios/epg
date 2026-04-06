@@ -941,7 +941,8 @@
   {
     "site_id": "pl/program#cbeebies-pl",
     "name": "CBeebies PL",
-    "lang": "pl"
+    "lang": "pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png"
   },
   {
     "site_id": "ba/tvprogram#universal-channel",
@@ -958,8 +959,7 @@
     "site_id": "gb/tvschedule#sony-movies-christmas",
     "name": "Great! Movies Classic",
     "lang": "en",
-    "xmltv_id": "GREATromance.uk",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png"
+    "xmltv_id": "GREATromance.uk"
   },
   {
     "site_id": "ie/tvschedule#kix",
@@ -1042,8 +1042,7 @@
   {
     "site_id": "ch/tv-programm#dave",
     "name": "U&Dave",
-    "lang": "de",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png"
+    "lang": "de"
   },
   {
     "site_id": "de/tvprogramm#dmax-tr",
@@ -3467,7 +3466,8 @@
     "site_id": "mk/tv-raspored#stv-folk",
     "name": "STV Folk",
     "lang": "mk",
-    "xmltv_id": "STVFolk.al@SD"
+    "xmltv_id": "STVFolk.al@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/stv-uk.png"
   },
   {
     "site_id": "pl/program#canal-family-pl",
@@ -4487,8 +4487,7 @@
     "site_id": "ie/tvschedule#sony-movies-christmas",
     "name": "Great! Movies Classic",
     "lang": "en",
-    "xmltv_id": "GREATromance.uk",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png"
+    "xmltv_id": "GREATromance.uk"
   },
   {
     "site_id": "me/tvprogram#kino-polska-muzyka",
@@ -4970,7 +4969,8 @@
   {
     "site_id": "ie/tvschedule#itv1",
     "name": "ITV1",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-1-uk.png"
   },
   {
     "site_id": "si/tvspored#alfa-tvp",
@@ -9154,7 +9154,8 @@
   {
     "site_id": "bg/tv-programa#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "bg"
+    "lang": "bg",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "de/tvprogramm#htv1",
@@ -9173,8 +9174,7 @@
   {
     "site_id": "ie/tvschedule#dave",
     "name": "U&Dave",
-    "lang": "en",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png"
+    "lang": "en"
   },
   {
     "site_id": "it/guida-tv#4fun-gold",
@@ -9811,7 +9811,8 @@
   {
     "site_id": "ch/tv-programm#more4",
     "name": "More4",
-    "lang": "de"
+    "lang": "de",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/4-more-uk.png"
   },
   {
     "site_id": "de/tvprogramm#sky-sport-5-de",
@@ -11452,7 +11453,8 @@
     "site_id": "me/tvprogram#stv-folk",
     "name": "STV Folk",
     "lang": "en",
-    "xmltv_id": "STVFolk.al@SD"
+    "xmltv_id": "STVFolk.al@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/stv-uk.png"
   },
   {
     "site_id": "ro/program-tv#prima-sport-4-ro",
@@ -12143,8 +12145,7 @@
     "site_id": "tvprogram#sony-movies-action",
     "name": "Great! Movies Action",
     "lang": "hr",
-    "xmltv_id": "GREATaction.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3708.png"
+    "xmltv_id": "GREATaction.uk@SD"
   },
   {
     "site_id": "at/tvprogramm#sat-1-at",
@@ -13910,7 +13911,8 @@
   {
     "site_id": "ie/tvschedule#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "ks/programacioni#tgrt-eu",
@@ -14618,7 +14620,8 @@
   {
     "site_id": "ie/tvschedule#itv2",
     "name": "ITV2",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-2-uk.png"
   },
   {
     "site_id": "ie/tvschedule#nuta-gold",
@@ -15060,7 +15063,8 @@
   {
     "site_id": "ks/programacioni#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "sq"
+    "lang": "sq",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "me/tvprogram#tvcg2",
@@ -15252,7 +15256,8 @@
   {
     "site_id": "gb/tvschedule#more4",
     "name": "More4",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/4-more-uk.png"
   },
   {
     "site_id": "hu/tvmusor#dreamturk-tv",
@@ -15427,8 +15432,7 @@
     "site_id": "tvprogram#sony-movies-christmas",
     "name": "Great! Movies Classic",
     "lang": "hr",
-    "xmltv_id": "GREATromance.uk",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png"
+    "xmltv_id": "GREATromance.uk"
   },
   {
     "site_id": "es/programacion-tv#movistar-laliga",
@@ -16606,7 +16610,8 @@
   {
     "site_id": "pt/programacao#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "pt"
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "de/tvprogramm#polsat-seriale",
@@ -16656,7 +16661,8 @@
   {
     "site_id": "it/guida-tv#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "it"
+    "lang": "it",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "me/tvprogram#sinema-yerli",
@@ -17592,7 +17598,8 @@
   {
     "site_id": "gb/tvschedule#itv3",
     "name": "ITV3",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-3-uk.png"
   },
   {
     "site_id": "pl/program#nr1-turk",
@@ -19273,7 +19280,8 @@
     "site_id": "ie/tvschedule#quest",
     "name": "Quest TV",
     "lang": "en",
-    "xmltv_id": "QuestTV.ng"
+    "xmltv_id": "QuestTV.ng",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/quest-uk.png"
   },
   {
     "site_id": "me/tvprogram#fox-comedy-pl",
@@ -21942,7 +21950,8 @@
   {
     "site_id": "gb/tvschedule#itv4",
     "name": "ITV4",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-4-uk.png"
   },
   {
     "site_id": "hu/tvmusor#atv1",
@@ -21986,7 +21995,8 @@
   {
     "site_id": "ch/tv-programm#itv4",
     "name": "ITV4",
-    "lang": "de"
+    "lang": "de",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-4-uk.png"
   },
   {
     "site_id": "de/tvprogramm#sky-cinema-action-de",
@@ -24855,7 +24865,8 @@
   {
     "site_id": "tvprogram#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "hr"
+    "lang": "hr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "tvprogram#sonnenklar-tv",
@@ -26431,7 +26442,8 @@
   {
     "site_id": "es/programacion-tv#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "es"
+    "lang": "es",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "it/guida-tv#sinema-yerli",
@@ -26466,7 +26478,8 @@
   {
     "site_id": "ch/tv-programm#itv2",
     "name": "ITV2",
-    "lang": "de"
+    "lang": "de",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-2-uk.png"
   },
   {
     "site_id": "de/tvprogramm#xtreme-tv",
@@ -28179,7 +28192,8 @@
   {
     "site_id": "fr/programme-tv#discovery-investigation-fr",
     "name": "Discovery Investigation FR",
-    "lang": "fr"
+    "lang": "fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "me/tvprogram#pink-hits",
@@ -29521,7 +29535,8 @@
   {
     "site_id": "mk/tv-raspored#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "mk"
+    "lang": "mk",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "es/programacion-tv#tvp-abc",
@@ -29705,7 +29720,8 @@
   {
     "site_id": "ba/tvprogram#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "bs"
+    "lang": "bs",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "ch/tv-programm#dizi-smart-max",
@@ -30189,7 +30205,8 @@
   {
     "site_id": "ie/tvschedule#more4",
     "name": "More4",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/4-more-uk.png"
   },
   {
     "site_id": "si/tvspored#hit-tv",
@@ -30655,7 +30672,8 @@
   {
     "site_id": "pl/program#discovery-science-pl",
     "name": "Discovery Science PL",
-    "lang": "pl"
+    "lang": "pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "tr/tv-rehberi#sinema-komedi",
@@ -30975,7 +30993,8 @@
   {
     "site_id": "pl/program#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "pl"
+    "lang": "pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "ro/program-tv#13-ulica",
@@ -31070,7 +31089,8 @@
   {
     "site_id": "gb/tvschedule#itv2",
     "name": "ITV2",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-2-uk.png"
   },
   {
     "site_id": "it/guida-tv#rts-un",
@@ -31483,7 +31503,8 @@
   {
     "site_id": "ie/tvschedule#itv3",
     "name": "ITV3",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-3-uk.png"
   },
   {
     "site_id": "me/tvprogram#kanali-7",
@@ -31893,7 +31914,8 @@
   {
     "site_id": "me/tvprogram#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "si/tvspored#rai-4",
@@ -32756,7 +32778,7 @@
     "site_id": "ie/tvschedule#cbbc",
     "name": "CBBC",
     "lang": "en",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2078.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png"
   },
   {
     "site_id": "it/guida-tv#trt-eba-tv-ilkokul",
@@ -34142,8 +34164,7 @@
   {
     "site_id": "gb/tvschedule#dave",
     "name": "U&Dave",
-    "lang": "en",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png"
+    "lang": "en"
   },
   {
     "site_id": "ro/program-tv#kanal-d-tr",
@@ -34927,7 +34948,8 @@
   {
     "site_id": "al/programacioni#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "sq"
+    "lang": "sq",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "ch/tv-programm#haber-global",
@@ -35709,7 +35731,8 @@
   {
     "site_id": "fr/programme-tv#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "fr"
+    "lang": "fr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "hu/tvmusor#bbn-turk",
@@ -38320,7 +38343,8 @@
   {
     "site_id": "ie/tvschedule#itv4",
     "name": "ITV4",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-4-uk.png"
   },
   {
     "site_id": "tvprogram#orf2",
@@ -38754,8 +38778,7 @@
     "site_id": "gb/tvschedule#sony-movies-action",
     "name": "Great! Movies Action",
     "lang": "en",
-    "xmltv_id": "GREATaction.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3708.png"
+    "xmltv_id": "GREATaction.uk@SD"
   },
   {
     "site_id": "mk/tv-raspored#tvp-historia",
@@ -41251,7 +41274,8 @@
   {
     "site_id": "pl/program#discovery-channel-pl",
     "name": "Discovery Channel PL",
-    "lang": "pl"
+    "lang": "pl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "rs/tvprogram#nr1-turk",
@@ -41787,7 +41811,8 @@
   {
     "site_id": "si/tvspored#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "sl"
+    "lang": "sl",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "tvprogram#una-tv",
@@ -44156,7 +44181,8 @@
     "site_id": "gb/tvschedule#quest",
     "name": "Quest TV",
     "lang": "en",
-    "xmltv_id": "QuestTV.ng"
+    "xmltv_id": "QuestTV.ng",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/quest-uk.png"
   },
   {
     "site_id": "bg/tv-programa#filmbox-stars-bg",
@@ -46369,7 +46395,8 @@
   {
     "site_id": "ch/tv-programm#itv3",
     "name": "ITV3",
-    "lang": "de"
+    "lang": "de",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-3-uk.png"
   },
   {
     "site_id": "de/tvprogramm#syfy-de",
@@ -47065,7 +47092,8 @@
   {
     "site_id": "de/tvprogramm#sky-nature-de",
     "name": "Sky Nature DE",
-    "lang": "de"
+    "lang": "de",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-nature-uk.png"
   },
   {
     "site_id": "gb/tvschedule#tele-1",
@@ -47373,7 +47401,7 @@
     "site_id": "gb/tvschedule#cbbc",
     "name": "CBBC",
     "lang": "en",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2078.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png"
   },
   {
     "site_id": "pt/programacao#minimini",
@@ -47736,7 +47764,8 @@
   {
     "site_id": "gb/tvschedule#itv1",
     "name": "ITV1",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-1-uk.png"
   },
   {
     "site_id": "ie/tvschedule#canal-plus-kuchnia",
@@ -48545,7 +48574,8 @@
   {
     "site_id": "ch/tv-programm#itv1",
     "name": "ITV1",
-    "lang": "de"
+    "lang": "de",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-1-uk.png"
   },
   {
     "site_id": "ks/programacioni#tv-klan",
@@ -50352,7 +50382,8 @@
   {
     "site_id": "pt/programacao#discovery-channel-pt",
     "name": "Discovery Channel PT",
-    "lang": "pt"
+    "lang": "pt",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "ba/tvprogram#wydarzenia24",
@@ -50509,7 +50540,7 @@
     "site_id": "ch/tv-programm#cbbc",
     "name": "CBBC",
     "lang": "de",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2078.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png"
   },
   {
     "site_id": "rs/tvprogram#fightbox-hd",
@@ -51838,7 +51869,8 @@
     "site_id": "al/programacioni#stv-folk",
     "name": "STV Folk",
     "lang": "sq",
-    "xmltv_id": "STVFolk.al@SD"
+    "xmltv_id": "STVFolk.al@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/stv-uk.png"
   },
   {
     "site_id": "at/tvprogramm#nowa-tv",
@@ -51939,7 +51971,8 @@
   {
     "site_id": "rs/tvprogram#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "sr"
+    "lang": "sr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "tr/tv-rehberi#motorvision-hd-ro",
@@ -54638,7 +54671,8 @@
   {
     "site_id": "tr/tv-rehberi#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "tr"
+    "lang": "tr",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "tvprogram#sos",
@@ -54719,7 +54753,8 @@
   {
     "site_id": "ro/program-tv#discovery-animal",
     "name": "Discovery Animal Planet",
-    "lang": "ro"
+    "lang": "ro",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png"
   },
   {
     "site_id": "ro/program-tv#fightbox-hd",
@@ -56065,8 +56100,7 @@
     "site_id": "ie/tvschedule#sony-movies-action",
     "name": "Great! Movies Action",
     "lang": "en",
-    "xmltv_id": "GREATaction.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3708.png"
+    "xmltv_id": "GREATaction.uk@SD"
   },
   {
     "site_id": "it/guida-tv#tgcom24",

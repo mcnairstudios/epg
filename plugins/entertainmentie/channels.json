@@ -245,7 +245,8 @@
   {
     "site_id": "itv1",
     "name": "ITV1",
-    "lang": "en"
+    "lang": "en",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/itv-1-uk.png"
   },
   {
     "site_id": "legend",
@@ -304,8 +305,7 @@
     "site_id": "great-movies-romance",
     "name": "Great! Movies Romance",
     "lang": "en",
-    "xmltv_id": "GREATromance.uk@UK",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png"
+    "xmltv_id": "GREATromance.uk@UK"
   },
   {
     "site_id": "reality-xtra",
@@ -429,7 +429,7 @@
     "name": "Sky Sports Premier League ROI",
     "lang": "en",
     "xmltv_id": "SkySportsPremierLeague.uk@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png"
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png"
   },
   {
     "site_id": "cartoon-network",
@@ -673,8 +673,7 @@
     "site_id": "udave",
     "name": "U&Dave",
     "lang": "en",
-    "xmltv_id": "Dave.ie@SD",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png"
+    "xmltv_id": "Dave.ie@SD"
   },
   {
     "site_id": "uyesterday",
