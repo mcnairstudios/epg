@@ -1,6 +1,6 @@
 # Missing Logos
 Channels with no logo found in tv-logos, grouped by plugin.
-**66736/160131** channels have logos. **93395** missing.
+**66743/160131** channels have logos. **93388** missing.
 
 ## abcau (240/548)
 - NO_XMLTV_ID (ASPIR)
@@ -28096,7 +28096,7 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - RTV21.xk (RTV 21)
 - TringKids.al (Tring Kids)
 
-## iptvxone (843/3329)
+## iptvxone (844/3329)
 - NO_XMLTV_ID (5Sport Stars)
 - NO_XMLTV_ID (BOX SR Sport 3 Live 4K HDR)
 - NO_XMLTV_ID (BT Sport 3 HD)
@@ -30507,7 +30507,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (VF Comedy)
 - NO_XMLTV_ID (CineMan MiniSeries)
 - NO_XMLTV_ID (CineMan Сваты)
-- DaVinciLearning.in (Da Vinci Learning)
 - NO_XMLTV_ID (Magic Thriller)
 - GalychynaTV.ua (ОТБ Галичина)
 - NO_XMLTV_ID (Setanta Sports 1 Lietuva)
@@ -31713,7 +31712,7 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (SPL02)
 - oktolidays.sg (oktolidays)
 
-## mitv (1211/2084)
+## mitv (1212/2084)
 - CanalEcool.cl (Ecool TV)
 - NO_XMLTV_ID (Rede TV Belem HD)
 - NO_XMLTV_ID (TVE)
@@ -31774,7 +31773,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (Rede Vida Belo Horizonte HD)
 - NO_XMLTV_ID (TV Gazeta Rio Branco HD)
 - NO_XMLTV_ID (TV Vanguarda HD)
-- FunBox.cl (Funbox)
 - NO_XMLTV_ID (TIIN)
 - Genteve.sv (Gentevé)
 - TVCeara.br (TV Ceará HD)
@@ -68005,7 +68003,7 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - AlMajdHolyQuran.sa (Al Majd Holy Quran)
 - NO_XMLTV_ID (TinyTeen)
 
-## shahid (135/207)
+## shahid (138/207)
 - MBCFM.ae (MBC FM)
 - NO_XMLTV_ID (Tash Channel)
 - AlSaudiyaAlaan.sa (السعودية الآن)
@@ -68022,7 +68020,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (BIG TIME)
 - NO_XMLTV_ID (El Le'ba Channel)
 - NO_XMLTV_ID (Al Hisn Channel)
-- MBC1Egypt.eg (MBC1)
 - NO_XMLTV_ID (الصحراء)
 - NO_XMLTV_ID (Nasser Al Qassabi)
 - NO_XMLTV_ID (El Kebeer Awi Channel)
@@ -68054,7 +68051,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - AsharqDiscovery.sa (الشرق ديسكفري)
 - NO_XMLTV_ID (Masrah Masr Channel)
 - AlSunnahAlNabawiyahTV.sa (Al Sunnah al Nabawiyah)
-- MBC1Egypt.eg (MBC1)
 - NO_XMLTV_ID (Al Hisn Channel)
 - BabAlHara.sa (Bab Al Hara Channel)
 - AsharqDocumentary.sa (Asharq Documentary)
@@ -68075,7 +68071,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (حكايات دفعة)
 - NO_XMLTV_ID (BIG TIME)
 - NO_XMLTV_ID (Hikayat Dofaa)
-- MBC1Egypt.eg (MBC1)
 - NO_XMLTV_ID (Sikkat Safar Channel)
 - NO_XMLTV_ID (BIG TIME)
 
@@ -72462,7 +72457,7 @@ Channels with no logo found in tv-logos, grouped by plugin.
 ## tvguide (152/153)
 - ShoxBet.us (SHOxBET)
 
-## tvhebdo (274/317)
+## tvhebdo (275/317)
 - ARTAmerica.sa (Art America)
 - NO_XMLTV_ID (WPTZDT)
 - NO_XMLTV_ID (MATV HD)
@@ -72502,7 +72497,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - WCFEDT1.us (WCFE)
 - Odyssey.ca (OTN)
 - NO_XMLTV_ID (ABC Sparks HD)
-- MediasetItalia.ca (Mediaset Italia)
 - OWN.ca (OWN Canada)
 - NO_XMLTV_ID (ICI Canal international HD)
 - UniNettunoUniversityTV.it (RAI Nettuno Sat Uno)
@@ -73240,7 +73234,7 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (V Sport Football Live 3)
 - DRK.dk (DR K)
 
-## tvpassport (3615/19287)
+## tvpassport (3616/19287)
 - NO_XMLTV_ID (CBC (CBCT) Charlottetown, PE)
 - NO_XMLTV_ID (Defy (WBKI-TV6) Louisville, KY)
 - NO_XMLTV_ID (Estrella (WGEN-LD) HD Miami, FL)
@@ -87267,7 +87261,6 @@ Channels with no logo found in tv-logos, grouped by plugin.
 - NO_XMLTV_ID (DirecTV NHL Center Ice (771))
 - NO_XMLTV_ID (GetTV (K34DC-D2) Astoria, OR)
 - NO_XMLTV_ID (Movies On Demand Hits HD)
-- MediasetItalia.ca (Mediaset Italia)
 - NO_XMLTV_ID (FanDuel Sports New Orleans)
 - NO_XMLTV_ID (BYU (K38AJ-D2) Blanding, Utah)
 - NO_XMLTV_ID (Dish MLB Extra Innings 15 HD)
