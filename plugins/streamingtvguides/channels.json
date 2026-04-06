@@ -37,7 +37,8 @@
     "site_id": "DTV:BUZZ:288",
     "name": "BUZZ TV (288)",
     "lang": "en",
-    "xmltv_id": "BuzzTV.us"
+    "xmltv_id": "BuzzTV.us",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e7/Buzz344x100.jpg"
   },
   {
     "site_id": "DTV:CINEHD:161",
@@ -243,7 +244,8 @@
     "site_id": "DTV:WOVA:22",
     "name": "Parkersburg, WV WOVA FOX 22 A3 HD",
     "lang": "en",
-    "xmltv_id": "WOVALD1.us@SD"
+    "xmltv_id": "WOVALD1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png"
   },
   {
     "site_id": "DXDHD",
@@ -744,7 +746,8 @@
     "site_id": "FMHD",
     "name": "FM HD",
     "lang": "en",
-    "xmltv_id": "PilotFM.ru"
+    "xmltv_id": "PilotFM.ru",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fm-us.png"
   },
   {
     "site_id": "MLBSD",
@@ -2431,7 +2434,8 @@
     "site_id": "CARAIHD",
     "name": "Caracol Internacional HD",
     "lang": "en",
-    "xmltv_id": "CaracolInternacional.co@SD"
+    "xmltv_id": "CaracolInternacional.co@SD",
+    "logo": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/772.png"
   },
   {
     "site_id": "CLIKIA:ABC-NY",
@@ -2600,7 +2604,8 @@
     "site_id": "ALNHRDR",
     "name": "Al Nahar Drama",
     "lang": "en",
-    "xmltv_id": "AlNaharDrama.eg@SD"
+    "xmltv_id": "AlNaharDrama.eg@SD",
+    "logo": "https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png"
   },
   {
     "site_id": "DTV:MCRS:843",
@@ -2759,7 +2764,8 @@
     "site_id": "RETROHD",
     "name": "RetroPlex HD",
     "lang": "en",
-    "xmltv_id": "RetroPlex.us@East"
+    "xmltv_id": "RetroPlex.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Retroplex_logo.svg/960px-Retroplex_logo.svg.png"
   },
   {
     "site_id": "CLIKIA:ONSET-SITCOMS",
@@ -3444,7 +3450,8 @@
     "site_id": "DTV:CBSe:390",
     "name": "WCBS (New York) CBS East",
     "lang": "en",
-    "xmltv_id": "WCBSDT1.us@SD"
+    "xmltv_id": "WCBSDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/960px-CBS_2.svg.png"
   },
   {
     "site_id": "DTV:DTV:9514",
@@ -3719,7 +3726,8 @@
     "site_id": "CCMOV",
     "name": "CHINA MOVIE CHANNEL",
     "lang": "en",
-    "xmltv_id": "ChinaMovieChannel.cn@SD"
+    "xmltv_id": "ChinaMovieChannel.cn@SD",
+    "logo": "https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_china_movie_channel%2F20221212_170133%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&device=W_PC"
   },
   {
     "site_id": "DTV:LSRC:2039",
@@ -3786,7 +3794,8 @@
     "site_id": "CTSI",
     "name": "CTS (International)",
     "lang": "en",
-    "xmltv_id": "CTS.tw"
+    "xmltv_id": "CTS.tw",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png"
   },
   {
     "site_id": "HITZ",
@@ -4087,7 +4096,8 @@
     "site_id": "DTV:VPLUS:409",
     "name": "VePlus (103A)",
     "lang": "en",
-    "xmltv_id": "Venevision.ve@SD"
+    "xmltv_id": "Venevision.ve@SD",
+    "logo": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1237.png"
   },
   {
     "site_id": "LSNET",
@@ -4850,7 +4860,8 @@
     "site_id": "CLIKIA:OWN",
     "name": "OWN",
     "lang": "en",
-    "xmltv_id": "OWN.us@East"
+    "xmltv_id": "OWN.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png"
   },
   {
     "site_id": "DTV4K",
@@ -5279,7 +5290,8 @@
     "site_id": "INDIEHD",
     "name": "IndiePlex HD",
     "lang": "en",
-    "xmltv_id": "IndiePlex.us"
+    "xmltv_id": "IndiePlex.us",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Indieplex_logo.svg/960px-Indieplex_logo.svg.png"
   },
   {
     "site_id": "PPV505",
@@ -5501,7 +5513,8 @@
     "site_id": "DTV:5MAXHD:520",
     "name": "5StarMAX HD",
     "lang": "en",
-    "xmltv_id": "5StarMax.us@East"
+    "xmltv_id": "5StarMax.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/960px-5StarMax_Logo.svg.png"
   },
   {
     "site_id": "DTV:STZKHD:527",
@@ -6159,7 +6172,8 @@
     "site_id": "CLIKIA:ETV",
     "name": "ETV",
     "lang": "en",
-    "xmltv_id": "ETVTelugu.in@HD"
+    "xmltv_id": "ETVTelugu.in@HD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_TELUGU/images/LOGO_HD/image.png"
   },
   {
     "site_id": "DTV:TMCw:554",
@@ -6287,7 +6301,8 @@
     "site_id": "DTV:CWw:395",
     "name": "KTLA CW West",
     "lang": "en",
-    "xmltv_id": "KTLADT1.us@SD"
+    "xmltv_id": "KTLADT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png"
   },
   {
     "site_id": "FYISD",
@@ -6773,7 +6788,8 @@
     "site_id": "NUESTRT",
     "name": "RCN Nuestra Tele",
     "lang": "en",
-    "xmltv_id": "NuestraTeleInternacional.co@SD"
+    "xmltv_id": "NuestraTeleInternacional.co@SD",
+    "logo": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/775.png"
   },
   {
     "site_id": "CLIKIA:CSPAN",
@@ -6953,7 +6969,8 @@
     "site_id": "CCENT",
     "name": "CCTV Entertainment",
     "lang": "en",
-    "xmltv_id": "CCTVEntertainment.cn@SD"
+    "xmltv_id": "CCTVEntertainment.cn@SD",
+    "logo": "https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cctv_divertissement%2F20221212_170133%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&device=W_PC"
   },
   {
     "site_id": "DT250",
@@ -7681,7 +7698,8 @@
     "site_id": "TIKI:HTTPS://WWW.TIKILIVE.COM/CHANNEL/OWN-4",
     "name": "OWN",
     "lang": "en",
-    "xmltv_id": "OWN.us@East"
+    "xmltv_id": "OWN.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png"
   },
   {
     "site_id": "XMBWAY",
@@ -8097,7 +8115,8 @@
     "site_id": "EHD",
     "name": "E! Entertainment Television HD",
     "lang": "en",
-    "xmltv_id": "ELatinAmerica.us"
+    "xmltv_id": "ELatinAmerica.us",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png"
   },
   {
     "site_id": "JMAX",
@@ -8126,7 +8145,8 @@
     "site_id": "CSPANHD",
     "name": "CSPAN HD",
     "lang": "en",
-    "xmltv_id": "CSPAN.us@SD"
+    "xmltv_id": "CSPAN.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png"
   },
   {
     "site_id": "NESNPL",
@@ -8255,7 +8275,8 @@
     "site_id": "DTV:ABCe:396",
     "name": "WABC (New York) ABC East",
     "lang": "en",
-    "xmltv_id": "WABCDT1.us@SD"
+    "xmltv_id": "WABCDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/960px-WABC_TV_New_2021.svg.png"
   },
   {
     "site_id": "NHLD782",
@@ -8497,7 +8518,8 @@
     "site_id": "DTV:CTS:2092",
     "name": "CTS (99R)",
     "lang": "en",
-    "xmltv_id": "CTS.tw"
+    "xmltv_id": "CTS.tw",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png"
   },
   {
     "site_id": "DTV:HLN:204",
@@ -8736,7 +8758,8 @@
     "site_id": "DTV:FM HD:386",
     "name": "FM HD",
     "lang": "en",
-    "xmltv_id": "PilotFM.ru"
+    "xmltv_id": "PilotFM.ru",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/fm-us.png"
   },
   {
     "site_id": "DTV:HALL:312",
@@ -8749,7 +8772,8 @@
     "site_id": "DTV:NBCe:392",
     "name": "WNBC (New York) NBC East",
     "lang": "en",
-    "xmltv_id": "WNBCDT1.us@SD"
+    "xmltv_id": "WNBCDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/960px-WNBC_4_NY.svg.png"
   },
   {
     "site_id": "HBOLPHD",
@@ -8821,7 +8845,8 @@
     "site_id": "DTV:LINK:375",
     "name": "LinkTV",
     "lang": "en",
-    "xmltv_id": "LinkTV.us@SD"
+    "xmltv_id": "LinkTV.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/LinkTV-2018.svg/960px-LinkTV-2018.svg.png"
   },
   {
     "site_id": "HBOZPHD",
@@ -9289,7 +9314,8 @@
     "site_id": "EP",
     "name": "E! Entertainment Television (Pacific)",
     "lang": "en",
-    "xmltv_id": "ELatinAmerica.us"
+    "xmltv_id": "ELatinAmerica.us",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png"
   },
   {
     "site_id": "KTV1",
@@ -9760,7 +9786,8 @@
     "site_id": "DTV:JLTV:325",
     "name": "Jewish Life TV",
     "lang": "en",
-    "xmltv_id": "JewishLifeTelevision.us@SD"
+    "xmltv_id": "JewishLifeTelevision.us@SD",
+    "logo": "https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj"
   },
   {
     "site_id": "DTV:PENT:587",
@@ -10534,7 +10561,8 @@
     "site_id": "EPHD",
     "name": "E! Entertainment Television HD (Pacific)",
     "lang": "en",
-    "xmltv_id": "ELatinAmerica.us"
+    "xmltv_id": "ELatinAmerica.us",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png"
   },
   {
     "site_id": "FSD",
@@ -11139,7 +11167,8 @@
     "site_id": "DTV:PBS:65",
     "name": "A3 Parkersburg 65 PBS (Virt)",
     "lang": "en",
-    "xmltv_id": "W51EGD1.us@SD"
+    "xmltv_id": "W51EGD1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"
   },
   {
     "site_id": "ECHOJAN",
@@ -11163,7 +11192,8 @@
     "site_id": "BEJTV",
     "name": "Beijing TV",
     "lang": "en",
-    "xmltv_id": "BeijingSatelliteTV.cn@SD"
+    "xmltv_id": "BeijingSatelliteTV.cn@SD",
+    "logo": "https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_beijing_tv%2F20221212_170133%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&device=W_PC"
   },
   {
     "site_id": "DTV:INFO:614",
@@ -11599,7 +11629,8 @@
     "site_id": "DTV:ABCw:397",
     "name": "KABC (Los Angeles) ABC West",
     "lang": "en",
-    "xmltv_id": "KABCDT1.us@SD"
+    "xmltv_id": "KABCDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/960px-KABC-TV-Logo-2021.png"
   },
   {
     "site_id": "DTV:GEM:228",
@@ -11772,7 +11803,8 @@
     "site_id": "DTV:FOXw:399",
     "name": "KTTV (Los Angeles) FOX West",
     "lang": "en",
-    "xmltv_id": "KTTVDT1.us@SD"
+    "xmltv_id": "KTTVDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png"
   },
   {
     "site_id": "ECUTVIN",
@@ -12713,7 +12745,8 @@
     "site_id": "DTV:GLOB:2134",
     "name": "TV Globo (99R)",
     "lang": "en",
-    "xmltv_id": "TVGloboInternacionalAmericas.br@SD"
+    "xmltv_id": "TVGloboInternacionalAmericas.br@SD",
+    "logo": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/776.png"
   },
   {
     "site_id": "DTV:Golf:218",
@@ -13355,7 +13388,8 @@
     "site_id": "5MAX",
     "name": "5 StarMAX",
     "lang": "en",
-    "xmltv_id": "5StarMax.us@East"
+    "xmltv_id": "5StarMax.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/960px-5StarMax_Logo.svg.png"
   },
   {
     "site_id": "DTV:NHL:773",
@@ -13976,7 +14010,8 @@
     "site_id": "MASALA",
     "name": "Hum Masala",
     "lang": "en",
-    "xmltv_id": "MasalaTV.pk@SD"
+    "xmltv_id": "MasalaTV.pk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg"
   },
   {
     "site_id": "MLBD740",
@@ -14420,7 +14455,8 @@
     "site_id": "DTV:WIYE:47",
     "name": "Parkersburg, WV WIYE CBS 47 A3 HD",
     "lang": "en",
-    "xmltv_id": "WIYELD1.us@SD"
+    "xmltv_id": "WIYELD1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png"
   },
   {
     "site_id": "KBSW24",
@@ -14797,7 +14833,8 @@
     "site_id": "DTV:TFC:2060",
     "name": "TFC - The Filipino Channel (99R)",
     "lang": "en",
-    "xmltv_id": "TheFilipinoChannelNorthAmerica.us@SD"
+    "xmltv_id": "TheFilipinoChannelNorthAmerica.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/960px-The_Filipino_Channel_2011_logo.svg.png"
   },
   {
     "site_id": "DTV:UMas:408",
@@ -14852,7 +14889,8 @@
     "site_id": "DTV:OWN:279",
     "name": "OWN",
     "lang": "en",
-    "xmltv_id": "OWN.us@East"
+    "xmltv_id": "OWN.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png"
   },
   {
     "site_id": "DTV:STZw:526",
@@ -15005,7 +15043,8 @@
     "site_id": "PTCCD",
     "name": "PTC Chak De",
     "lang": "en",
-    "xmltv_id": "PTCChakde.in@SD"
+    "xmltv_id": "PTCChakde.in@SD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png"
   },
   {
     "site_id": "ROTAN",
@@ -15088,7 +15127,8 @@
     "site_id": "AFRCA24",
     "name": "AFRICA24",
     "lang": "en",
-    "xmltv_id": "Africa24.fr@SD"
+    "xmltv_id": "Africa24.fr@SD",
+    "logo": "https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_africa24%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&device=W_PC"
   },
   {
     "site_id": "AHCHD",
@@ -15248,7 +15288,8 @@
     "site_id": "TIKI:ETV-1",
     "name": "ETV",
     "lang": "en",
-    "xmltv_id": "ETVTelugu.in@HD"
+    "xmltv_id": "ETVTelugu.in@HD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_TELUGU/images/LOGO_HD/image.png"
   },
   {
     "site_id": "BIGMGC",
@@ -15350,7 +15391,8 @@
     "site_id": "JLTV",
     "name": "Jewish Life TV",
     "lang": "en",
-    "xmltv_id": "JewishLifeTelevision.us@SD"
+    "xmltv_id": "JewishLifeTelevision.us@SD",
+    "logo": "https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj"
   },
   {
     "site_id": "MAMUSIC",
@@ -15652,7 +15694,8 @@
     "site_id": "TIKI:OWN-3",
     "name": "OWN",
     "lang": "en",
-    "xmltv_id": "OWN.us@East"
+    "xmltv_id": "OWN.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png"
   },
   {
     "site_id": "ADTRPB",
@@ -15835,7 +15878,8 @@
     "site_id": "MOMAXHD",
     "name": "MoreMax HD",
     "lang": "en",
-    "xmltv_id": "MoreMax.us@East"
+    "xmltv_id": "MoreMax.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png"
   },
   {
     "site_id": "PPV523",
@@ -16013,7 +16057,8 @@
     "site_id": "DTV:MNT:17",
     "name": "Parkersburg, WV WTAPDT2 MNT 17 A3 SD",
     "lang": "en",
-    "xmltv_id": "WTAPDT2.us@SD"
+    "xmltv_id": "WTAPDT2.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png"
   },
   {
     "site_id": "ETDRA",
@@ -17229,7 +17274,8 @@
     "site_id": "DTV:WTAP:15",
     "name": "Parkersburg, WV WTAP NBC 15 A3 HD",
     "lang": "en",
-    "xmltv_id": "WTAPDT1.us@SD"
+    "xmltv_id": "WTAPDT1.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png"
   },
   {
     "site_id": "HOPHOW",
