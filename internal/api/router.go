@@ -109,10 +109,11 @@ func NewServer(s *store.Store, g *grabber.Grabber, ext *source.ExternalSourceMan
 		r.Get("/epg/*", srv.getSourceXMLTV)
 	})
 
-	// Admin UI: session cookie required
-	srv.router.Group(func(r chi.Router) {
-		r.Use(users.AdminMiddleware)
-		r.Handle("/*", ui.Handler())
+	// Admin UI: session cookie required — uses NotFound so explicit routes
+	// like /logos/{id} are not swallowed by the catch-all.
+	uiHandler := ui.Handler()
+	srv.router.NotFound(func(w http.ResponseWriter, r *http.Request) {
+		users.AdminMiddleware(uiHandler).ServeHTTP(w, r)
 	})
 
 	return srv
