@@ -512,7 +512,8 @@
     "name": "AMC en Español",
     "lang": "en",
     "region": "PLEX",
-    "xmltv_id": "AMCenEspanol.us@SD"
+    "xmltv_id": "AMCenEspanol.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/amc-us.png"
   },
   {
     "site_id": "PlutoTV/br#6474ab1da51cb80008bfb5f4",
@@ -985,7 +986,8 @@
     "name": "tvN HD (Mandarin)",
     "lang": "en",
     "region": "SINGTEL",
-    "xmltv_id": "tvNAsia.hk@SD"
+    "xmltv_id": "tvNAsia.hk@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/hong-kong/tvn-hk.png"
   },
   {
     "site_id": "au/Hobart/epg#mjh-channel-9-vic",
@@ -2062,7 +2064,8 @@
     "name": "MTV en español",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "MTVenEspanol.us@SD"
+    "xmltv_id": "MTVenEspanol.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-us.png"
   },
   {
     "site_id": "Roku/epg#roku-285f3ba210e8561fa5261af0871ace90",
@@ -5058,7 +5061,8 @@
     "name": "Qwest TV",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "QwestTV.fr@SD"
+    "xmltv_id": "QwestTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/qwest-tv-mix-es.png"
   },
   {
     "site_id": "SamsungTVPlus/us#USAJ34000175A",
@@ -7971,7 +7975,8 @@
     "name": "QwestTV Jazz & Beyond",
     "lang": "en",
     "region": "PLEX",
-    "xmltv_id": "QwestTVJazzBeyond.fr@SD"
+    "xmltv_id": "QwestTVJazzBeyond.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/qwest-tv-mix-es.png"
   },
   {
     "site_id": "Plex/all#5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb",
@@ -9882,7 +9887,8 @@
     "name": "AMC en Español",
     "lang": "en",
     "region": "ROKU",
-    "xmltv_id": "AMCenEspanol.us@SD"
+    "xmltv_id": "AMCenEspanol.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/amc-us.png"
   },
   {
     "site_id": "Roku/epg#roku-a3b212829dd85675bf997edc25a40a73",
@@ -14088,7 +14094,8 @@
     "name": "MTV The Hills (OV)",
     "lang": "de",
     "region": "PLUTO",
-    "xmltv_id": "MTVTheHillsOV.us@Germany"
+    "xmltv_id": "MTVTheHillsOV.us@Germany",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-us.png"
   },
   {
     "site_id": "PlutoTV/us#5de94dacb394a300099fa22a",
@@ -14263,7 +14270,8 @@
     "name": "MTV Teen (OV)",
     "lang": "de",
     "region": "PLUTO",
-    "xmltv_id": "MTVTeenOV.us@Germany"
+    "xmltv_id": "MTVTeenOV.us@Germany",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-us.png"
   },
   {
     "site_id": "PlutoTV/us#610c5f80f71f660007a2ad8e",
@@ -14324,7 +14332,8 @@
     "name": "AMC en Español",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "AMCenEspanol.us@SD"
+    "xmltv_id": "AMCenEspanol.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/amc-us.png"
   },
   {
     "site_id": "au/Melbourne/epg#mjh-10-wicked-tuna",
@@ -14636,7 +14645,8 @@
     "name": "Qwest TV",
     "lang": "it",
     "region": "SAMSUNG",
-    "xmltv_id": "QwestTV.fr@SD"
+    "xmltv_id": "QwestTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/qwest-tv-mix-es.png"
   },
   {
     "site_id": "SkyGo/epg#sky.12",
@@ -15162,7 +15172,8 @@
     "name": "beIN SPORTS XTRA en español",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "beINSPORTSXTRAenEspanol.us@SD"
+    "xmltv_id": "beINSPORTSXTRAenEspanol.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bein-sports-xtra-us.png"
   },
   {
     "site_id": "SamsungTVPlus/at#ATBA10000096N",
@@ -16401,14 +16412,16 @@
     "name": "Qwest TV",
     "lang": "de",
     "region": "SAMSUNG",
-    "xmltv_id": "QwestTV.fr@SD"
+    "xmltv_id": "QwestTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/qwest-tv-mix-es.png"
   },
   {
     "site_id": "SamsungTVPlus/es#ESAJ49000023R",
     "name": "Qwest TV",
     "lang": "es",
     "region": "SAMSUNG",
-    "xmltv_id": "QwestTV.fr@SD"
+    "xmltv_id": "QwestTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/qwest-tv-mix-es.png"
   },
   {
     "site_id": "au/Perth/epg#mjh-betterhomesandgardens-FAST",
@@ -18990,7 +19003,8 @@
     "name": "MTV Dating (OV)",
     "lang": "de",
     "region": "PLUTO",
-    "xmltv_id": "MTVDatingOV.us@Germany"
+    "xmltv_id": "MTVDatingOV.us@Germany",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/mtv-us.png"
   },
   {
     "site_id": "PlutoTV/no#62da7159ca8f220008032730",
@@ -19712,7 +19726,8 @@
     "name": "Qwest TV",
     "lang": "fr",
     "region": "SAMSUNG",
-    "xmltv_id": "QwestTV.fr@SD"
+    "xmltv_id": "QwestTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/qwest-tv-mix-es.png"
   },
   {
     "site_id": "SamsungTVPlus/kr#KRBD2700007S0",
@@ -21200,7 +21215,8 @@
     "name": "QwestTV Classical",
     "lang": "en",
     "region": "PLEX",
-    "xmltv_id": "QwestTVClassical.fr@SD"
+    "xmltv_id": "QwestTVClassical.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/qwest-tv-mix-es.png"
   },
   {
     "site_id": "PlutoTV/br#5f5141c1605ddf000748eb1b",
@@ -22907,7 +22923,8 @@
     "name": "Qwest TV",
     "lang": "de",
     "region": "SAMSUNG",
-    "xmltv_id": "QwestTV.fr@SD"
+    "xmltv_id": "QwestTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/qwest-tv-mix-es.png"
   },
   {
     "site_id": "SamsungTVPlus/us#USBD300006A6",
@@ -30358,7 +30375,8 @@
     "name": "beIN SPORTS Xtra en Español",
     "lang": "en",
     "region": "ROKU",
-    "xmltv_id": "beINSPORTSXTRAenEspanol.us@SD"
+    "xmltv_id": "beINSPORTSXTRAenEspanol.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/bein-sports-xtra-us.png"
   },
   {
     "site_id": "SamsungTVPlus/ch#CHBD2500001SY",
@@ -31529,7 +31547,8 @@
     "name": "Qwest TV",
     "lang": "de",
     "region": "SAMSUNG",
-    "xmltv_id": "QwestTV.fr@SD"
+    "xmltv_id": "QwestTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/qwest-tv-mix-es.png"
   },
   {
     "site_id": "SamsungTVPlus/ca#CABC52000180Z",
@@ -33428,7 +33447,8 @@
     "name": "Nickelodeon en español",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "NickenEspanol.us@SD"
+    "xmltv_id": "NickenEspanol.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/nick-us.png"
   },
   {
     "site_id": "SamsungTVPlus/es#ESAJ45000181E",
@@ -35642,7 +35662,8 @@
     "name": "AMC en español",
     "lang": "en",
     "region": "PLUTO",
-    "xmltv_id": "AMCenEspanol.us@SD"
+    "xmltv_id": "AMCenEspanol.us@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/united-states/amc-us.png"
   },
   {
     "site_id": "SamsungTVPlus/us#USBC1300012VK",
@@ -41310,7 +41331,8 @@
     "name": "Qwest TV",
     "lang": "en",
     "region": "SAMSUNG",
-    "xmltv_id": "QwestTV.fr@SD"
+    "xmltv_id": "QwestTV.fr@SD",
+    "logo": "https://raw.githubusercontent.com/gavinmcnair/tv-logos/main/countries/spain/qwest-tv-mix-es.png"
   },
   {
     "site_id": "SamsungTVPlus/it#ITAJ3800008QW",
