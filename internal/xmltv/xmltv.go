@@ -2,6 +2,7 @@ package xmltv
 
 import (
 	"encoding/xml"
+	"strconv"
 	"time"
 
 	"github.com/gavinmcnair/epg/internal/domain"
@@ -106,25 +107,10 @@ func formatEpisodeNum(season, episode int) string {
 	s := ""
 	e := ""
 	if season > 0 {
-		s = intToStr(season - 1)
+		s = strconv.Itoa(season - 1)
 	}
 	if episode > 0 {
-		e = intToStr(episode - 1)
+		e = strconv.Itoa(episode - 1)
 	}
 	return s + "." + e + "."
-}
-
-func intToStr(n int) string {
-	if n < 0 {
-		return ""
-	}
-	result := ""
-	if n == 0 {
-		return "0"
-	}
-	for n > 0 {
-		result = string(rune('0'+n%10)) + result
-		n /= 10
-	}
-	return result
 }

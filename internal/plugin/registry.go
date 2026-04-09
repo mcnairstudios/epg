@@ -2,6 +2,7 @@ package plugin
 
 import (
 	"fmt"
+	"sort"
 	"sync"
 )
 
@@ -33,9 +34,15 @@ func List() []Provider {
 	mu.RLock()
 	defer mu.RUnlock()
 
+	names := make([]string, 0, len(providers))
+	for name := range providers {
+		names = append(names, name)
+	}
+	sort.Strings(names)
+
 	result := make([]Provider, 0, len(providers))
-	for _, p := range providers {
-		result = append(result, p)
+	for _, name := range names {
+		result = append(result, providers[name])
 	}
 	return result
 }
@@ -48,6 +55,7 @@ func Names() []string {
 	for name := range providers {
 		result = append(result, name)
 	}
+	sort.Strings(result)
 	return result
 }
 

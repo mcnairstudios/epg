@@ -27,8 +27,13 @@ func (t *Tracker) Add(n int64) {
 	cutoff := now.Add(-5 * time.Second)
 	t.mu.Lock()
 	t.samples = append(t.samples, sample{now, n})
-	for len(t.samples) > 0 && t.samples[0].t.Before(cutoff) {
-		t.samples = t.samples[1:]
+	trim := 0
+	for trim < len(t.samples) && t.samples[trim].t.Before(cutoff) {
+		trim++
+	}
+	if trim > 0 {
+		copy(t.samples, t.samples[trim:])
+		t.samples = t.samples[:len(t.samples)-trim]
 	}
 	t.mu.Unlock()
 }

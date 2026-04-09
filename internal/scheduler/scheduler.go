@@ -61,14 +61,17 @@ func (s *Scheduler) Start(schedule string) error {
 
 func (s *Scheduler) Stop() {
 	s.mu.Lock()
-	defer s.mu.Unlock()
-
-	if s.running {
-		s.cancel()
-		<-s.cron.Stop().Done()
-		s.running = false
-		s.log.Info().Msg("scheduler stopped")
+	if !s.running {
+		s.mu.Unlock()
+		return
 	}
+	s.cancel()
+	doneCh := s.cron.Stop().Done()
+	s.running = false
+	s.mu.Unlock()
+
+	<-doneCh
+	s.log.Info().Msg("scheduler stopped")
 }
 
 func (s *Scheduler) IsRunning() bool {

@@ -377,6 +377,7 @@ func main() {
 
 	g.Close()
 	s.Close()
+	users.Close()
 
 	logger.Info().Msg("saving data")
 	s.Save()

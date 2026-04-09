@@ -48,7 +48,9 @@ func New(dir string, logger zerolog.Logger) *Cache {
 		log: logger,
 	}
 	if dir != "" {
-		os.MkdirAll(dir, 0755)
+		if err := os.MkdirAll(dir, 0755); err != nil {
+			logger.Error().Err(err).Str("dir", dir).Msg("logo cache: failed to create directory")
+		}
 		c.scanDir()
 	}
 	return c

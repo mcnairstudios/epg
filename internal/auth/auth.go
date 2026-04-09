@@ -40,6 +40,8 @@ type UserStore struct {
 	users    map[string]User
 	sessions map[string]Session
 	path     string
+	stopOnce sync.Once
+	stopCh   chan struct{}
 }
 
 type userSnapshot struct {
@@ -47,10 +49,41 @@ type userSnapshot struct {
 }
 
 func NewUserStore(path string) *UserStore {
-	return &UserStore{
+	s := &UserStore{
 		users:    make(map[string]User),
 		sessions: make(map[string]Session),
 		path:     path,
+		stopCh:   make(chan struct{}),
+	}
+	go s.cleanupLoop()
+	return s
+}
+
+func (s *UserStore) Close() {
+	s.stopOnce.Do(func() { close(s.stopCh) })
+}
+
+func (s *UserStore) cleanupLoop() {
+	ticker := time.NewTicker(10 * time.Minute)
+	defer ticker.Stop()
+	for {
+		select {
+		case <-ticker.C:
+			s.purgeExpiredSessions()
+		case <-s.stopCh:
+			return
+		}
+	}
+}
+
+func (s *UserStore) purgeExpiredSessions() {
+	now := time.Now()
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	for token, sess := range s.sessions {
+		if now.After(sess.Expires) {
+			delete(s.sessions, token)
+		}
 	}
 }
 
