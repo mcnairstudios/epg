@@ -1,11 +1,14 @@
 package epgshare
 
 import (
+	"bytes"
 	"compress/gzip"
 	"encoding/xml"
+	"errors"
 	"fmt"
 	"io"
 	"net/http"
+	"sort"
 	"strings"
 	"time"
 
@@ -23,11 +26,13 @@ var channelsData []byte
 func init() {
 	plugin.Register(&provider{
 		client: httpclient.Browser(),
+		cache:  newTagCache(),
 	})
 }
 
 type provider struct {
 	client httpClient
+	cache  *tagCache
 }
 
 type httpClient interface {
@@ -38,12 +43,28 @@ func (p *provider) Name() string        { return "epgshare01.online" }
 func (p *provider) Description() string { return "EPGShare01 XMLTV aggregator (20706 channels)" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return channels.Load(channelsData, "epgshare01.online")
+	chs, err := channels.Load(channelsData, "epgshare01.online")
+	if err != nil {
+		return nil, err
+	}
+	sort.SliceStable(chs, func(i, j int) bool { return tagOf(chs[i]) < tagOf(chs[j]) })
+	return chs, nil
+}
+
+func tagOf(ch domain.Channel) string {
+	tag, _, _ := strings.Cut(ch.SiteID, "#")
+	return tag
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	tag, _, _ := strings.Cut(channel.SiteID, "#")
+	idx, err := p.cache.get(tagOf(channel), p.download)
+	if err != nil {
+		return nil, err
+	}
+	return selectPrograms(idx, channel, date), nil
+}
 
+func (p *provider) download(tag string) (index, error) {
 	url := fmt.Sprintf("https://epgshare01.online/epgshare01/epg_ripper_%s.xml.gz", tag)
 
 	req, err := http.NewRequest(http.MethodGet, url, nil)
@@ -58,7 +79,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("HTTP %d from epgshare", resp.StatusCode)
+		return nil, &statusError{code: resp.StatusCode}
 	}
 
 	gz, err := gzip.NewReader(resp.Body)
@@ -67,68 +88,92 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	}
 	defer gz.Close()
 
-	data, err := io.ReadAll(gz)
-	if err != nil {
-		return nil, err
-	}
-
-	return Parse(data, channel, date)
+	return buildIndex(gz)
 }
 
 func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Program, error) {
 	if len(data) == 0 {
 		return []domain.Program{}, nil
 	}
-
-	_, channelID, _ := strings.Cut(channel.SiteID, "#")
-
-	var tv xmlTV
-	if err := xml.Unmarshal(data, &tv); err != nil {
+	idx, err := buildIndex(bytes.NewReader(data))
+	if err != nil {
 		return nil, err
 	}
+	return selectPrograms(idx, channel, date), nil
+}
 
-	datePrefix := date.Format("20060102")
+type entry struct {
+	day         string
+	start, stop time.Time
+	title, desc string
+}
 
-	var programs []domain.Program
-	for _, prog := range tv.Programmes {
-		if prog.Channel != channelID {
+type index map[string][]entry
+
+func buildIndex(r io.Reader) (index, error) {
+	dec := xml.NewDecoder(r)
+	idx := make(index)
+	sawElement := false
+	for {
+		tok, err := dec.Token()
+		if err == io.EOF {
+			break
+		}
+		if err != nil {
+			return nil, err
+		}
+		se, ok := tok.(xml.StartElement)
+		if !ok {
 			continue
 		}
-
-		if !strings.HasPrefix(strings.TrimSpace(prog.Start), datePrefix) {
+		sawElement = true
+		if se.Name.Local != "programme" {
 			continue
 		}
-
+		var prog xmlProgramme
+		if err := dec.DecodeElement(&prog, &se); err != nil {
+			return nil, err
+		}
+		raw := strings.TrimSpace(prog.Start)
 		start := parseXMLTVTime(prog.Start)
-		stop := parseXMLTVTime(prog.Stop)
-
 		if start.IsZero() {
 			continue
 		}
-
-		p := domain.Program{
-			Channel: channel.XmltvID,
-			Source:  "epgshare01.online",
-			Lang:    channel.Lang,
-			Start:   start,
-			Stop:    stop,
-		}
-
+		e := entry{day: raw[:8], start: start, stop: parseXMLTVTime(prog.Stop)}
 		if len(prog.Title) > 0 {
-			p.Title = prog.Title[0].Value
+			e.title = prog.Title[0].Value
 		}
 		if len(prog.Desc) > 0 {
-			p.Description = prog.Desc[0].Value
+			e.desc = prog.Desc[0].Value
 		}
-
-		programs = append(programs, p)
+		idx[prog.Channel] = append(idx[prog.Channel], e)
 	}
-
-	if programs == nil {
-		return []domain.Program{}, nil
+	if !sawElement {
+		return nil, errors.New("epgshare: no XML elements found")
 	}
+	return idx, nil
+}
 
-	return programs, nil
+func selectPrograms(idx index, channel domain.Channel, date time.Time) []domain.Program {
+	_, channelID, _ := strings.Cut(channel.SiteID, "#")
+	day := date.Format("20060102")
+
+	programs := []domain.Program{}
+	for _, e := range idx[channelID] {
+		if e.day != day {
+			continue
+		}
+		programs = append(programs, domain.Program{
+			Channel:     channel.XmltvID,
+			Source:      "epgshare01.online",
+			Lang:        channel.Lang,
+			Start:       e.start,
+			Stop:        e.stop,
+			Title:       e.title,
+			Description: e.desc,
+		})
+	}
+	return programs
 }
 
 func parseXMLTVTime(s string) time.Time {
@@ -149,10 +194,6 @@ func parseXMLTVTime(s string) time.Time {
 		return time.Time{}
 	}
 	return t.UTC()
-}
-
-type xmlTV struct {
-	Programmes []xmlProgramme `xml:"programme"`
 }
 
 type xmlProgramme struct {
