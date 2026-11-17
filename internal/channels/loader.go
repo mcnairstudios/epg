@@ -3,6 +3,7 @@ package channels
 import (
 	"encoding/json"
 	"fmt"
+	"sort"
 
 	"github.com/gavinmcnair/epg/internal/domain"
 )
@@ -37,4 +38,12 @@ func Load(data []byte, source string) ([]domain.Channel, error) {
 	}
 
 	return channels, nil
+}
+
+// GroupBy reorders channels, stably, so those sharing a key are adjacent.
+// Plugins whose channels share an upstream document use it so a grab needs
+// each document only for one stretch of the run.
+func GroupBy(chs []domain.Channel, key func(domain.Channel) string) []domain.Channel {
+	sort.SliceStable(chs, func(i, j int) bool { return key(chs[i]) < key(chs[j]) })
+	return chs
 }

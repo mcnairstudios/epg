@@ -13,6 +13,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/fetchcache"
 	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
@@ -24,11 +25,23 @@ var channelsData []byte
 func init() {
 	plugin.Register(&provider{
 		client: httpclient.Browser(),
+		docs:   newDocs(),
 	})
 }
 
 type provider struct {
 	client httpClient
+	docs   *fetchcache.Cache[doc]
+}
+
+// doc maps a channel title to its listing container in one response page.
+type doc map[string]*html.Node
+
+func newDocs() *fetchcache.Cache[doc] {
+	return fetchcache.New(fetchcache.Options[doc]{
+		TTL:        fetchcache.DocTTL[doc](15 * time.Minute),
+		MaxEntries: 4,
+	})
 }
 
 type httpClient interface {
@@ -39,7 +52,17 @@ func (p *provider) Name() string        { return "sat.tv" }
 func (p *provider) Description() string { return "Sat.TV satellite TV guide" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return channels.Load(channelsData, "sat.tv")
+	chs, err := channels.Load(channelsData, "sat.tv")
+	if err != nil {
+		return nil, err
+	}
+	return channels.GroupBy(chs, func(c domain.Channel) string {
+		parts := strings.SplitN(c.SiteID, "#", 3)
+		if len(parts) < 2 {
+			return c.SiteID
+		}
+		return parts[0] + "#" + parts[1] + "#" + c.Lang
+	}), nil
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
@@ -58,12 +81,22 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		date.UnixMilli(),
 	)
 
+	d, err := p.docs.Get(body+"|"+channel.Lang, func() (doc, error) {
+		return p.download(url, body, channel.Lang)
+	})
+	if err != nil {
+		return nil, err
+	}
+	return programsFor(d, channel, parts[2], date), nil
+}
+
+func (p *provider) download(url, body, lang string) (doc, error) {
 	req, err := http.NewRequest(http.MethodPost, url, strings.NewReader(body))
 	if err != nil {
 		return nil, err
 	}
 	req.Header.Set("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8")
-	req.Header.Set("Cookie", fmt.Sprintf("pll_language=%s", channel.Lang))
+	req.Header.Set("Cookie", fmt.Sprintf("pll_language=%s", lang))
 
 	resp, err := p.client.Do(req)
 	if err != nil {
@@ -72,7 +105,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("HTTP %d from sattv", resp.StatusCode)
+		return nil, &fetchcache.StatusError{Code: resp.StatusCode, Source: "sattv"}
 	}
 
 	respBody, err := io.ReadAll(resp.Body)
@@ -80,7 +113,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 
-	return Parse(respBody, channel, date)
+	return buildDoc(respBody)
 }
 
 func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Program, error) {
@@ -92,26 +125,42 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 	if len(parts) < 3 {
 		return nil, fmt.Errorf("invalid site_id format: %s", channel.SiteID)
 	}
-	channelName := parts[2]
 
-	doc, err := html.Parse(strings.NewReader(string(data)))
+	d, err := buildDoc(data)
+	if err != nil {
+		return nil, err
+	}
+	return programsFor(d, channel, parts[2], date), nil
+}
+
+func buildDoc(data []byte) (doc, error) {
+	d := make(doc)
+	if len(data) == 0 {
+		return d, nil
+	}
+
+	root, err := html.Parse(strings.NewReader(string(data)))
 	if err != nil {
 		return nil, err
 	}
 
-	channelContainers := findNodesByClass(doc, "container-channel-events")
-
-	var targetContainer *html.Node
-	for _, container := range channelContainers {
+	for _, container := range findNodesByClass(root, "container-channel-events") {
 		titleNode := findNodeByClass(container, "channel-title")
-		if titleNode != nil && strings.TrimSpace(textContent(titleNode)) == channelName {
-			targetContainer = container
-			break
+		if titleNode == nil {
+			continue
+		}
+		name := strings.TrimSpace(textContent(titleNode))
+		if _, dup := d[name]; !dup {
+			d[name] = container
 		}
 	}
+	return d, nil
+}
 
+func programsFor(d doc, channel domain.Channel, channelName string, date time.Time) []domain.Program {
+	targetContainer := d[channelName]
 	if targetContainer == nil {
-		return []domain.Program{}, nil
+		return []domain.Program{}
 	}
 
 	events := findNodesByClass(targetContainer, "container-event")
@@ -175,7 +224,7 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 		})
 	}
 
-	return programs, nil
+	return programs
 }
 
 func findEventImage(event *html.Node) string {

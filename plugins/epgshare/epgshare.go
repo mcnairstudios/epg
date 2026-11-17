@@ -8,7 +8,6 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-	"sort"
 	"strings"
 	"time"
 
@@ -16,6 +15,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/fetchcache"
 	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
@@ -26,13 +26,13 @@ var channelsData []byte
 func init() {
 	plugin.Register(&provider{
 		client: httpclient.Browser(),
-		cache:  newTagCache(),
+		cache:  newCache(),
 	})
 }
 
 type provider struct {
 	client httpClient
-	cache  *tagCache
+	cache  *fetchcache.Cache[index]
 }
 
 type httpClient interface {
@@ -47,8 +47,7 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 	if err != nil {
 		return nil, err
 	}
-	sort.SliceStable(chs, func(i, j int) bool { return tagOf(chs[i]) < tagOf(chs[j]) })
-	return chs, nil
+	return channels.GroupBy(chs, tagOf), nil
 }
 
 func tagOf(ch domain.Channel) string {
@@ -57,7 +56,7 @@ func tagOf(ch domain.Channel) string {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	idx, err := p.cache.get(tagOf(channel), p.download)
+	idx, err := p.cache.Get(tagOf(channel), func() (index, error) { return p.download(tagOf(channel)) })
 	if err != nil {
 		return nil, err
 	}
@@ -79,7 +78,7 @@ func (p *provider) download(tag string) (index, error) {
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return nil, &statusError{code: resp.StatusCode}
+		return nil, &fetchcache.StatusError{Code: resp.StatusCode, Source: "epgshare"}
 	}
 
 	gz, err := gzip.NewReader(resp.Body)

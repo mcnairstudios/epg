@@ -12,6 +12,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpcache"
 	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
@@ -29,7 +30,7 @@ func init() {
 		eastern = time.FixedZone("EST", -5*60*60)
 	}
 	plugin.Register(&provider{
-		client: httpclient.Browser(),
+		client: httpcache.Wrap(httpclient.Browser()),
 	})
 }
 

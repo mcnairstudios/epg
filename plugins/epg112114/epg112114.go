@@ -2,7 +2,6 @@ package epg112114
 
 import (
 	"encoding/xml"
-	"fmt"
 	"io"
 	"net/http"
 	"time"
@@ -11,6 +10,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/fetchcache"
 	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
@@ -19,11 +19,21 @@ import (
 var channelsData []byte
 
 func init() {
-	plugin.Register(&provider{client: httpclient.Browser()})
+	plugin.Register(&provider{client: httpclient.Browser(), docs: newDocs()})
 }
 
 type provider struct {
 	client httpClient
+	docs   *fetchcache.Cache[doc]
+}
+
+type doc map[string][]programme
+
+func newDocs() *fetchcache.Cache[doc] {
+	return fetchcache.New(fetchcache.Options[doc]{
+		TTL:        fetchcache.DocTTL[doc](15 * time.Minute),
+		MaxEntries: 1,
+	})
 }
 
 type httpClient interface {
@@ -38,6 +48,14 @@ func (p *provider) Channels() ([]domain.Channel, error) {
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
+	d, err := p.docs.Get("pp.xml", p.download)
+	if err != nil {
+		return nil, err
+	}
+	return selectPrograms(d, channel, date), nil
+}
+
+func (p *provider) download() (doc, error) {
 	url := "https://epg.112114.xyz/pp.xml"
 
 	req, err := http.NewRequest(http.MethodGet, url, nil)
@@ -52,7 +70,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("HTTP %d from epg112114", resp.StatusCode)
+		return nil, &fetchcache.StatusError{Code: resp.StatusCode, Source: "epg112114"}
 	}
 
 	body, err := io.ReadAll(resp.Body)
@@ -60,27 +78,41 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 
-	return Parse(body, channel, date)
+	d, err := buildDoc(body)
+	if err != nil {
+		return doc{}, nil
+	}
+	return d, nil
 }
 
 func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Program, error) {
-	if len(data) == 0 {
+	d, err := buildDoc(data)
+	if err != nil {
 		return []domain.Program{}, nil
 	}
+	return selectPrograms(d, channel, date), nil
+}
 
+func buildDoc(data []byte) (doc, error) {
+	d := make(doc)
+	if len(data) == 0 {
+		return d, nil
+	}
 	var tv xmlTV
 	if err := xml.Unmarshal(data, &tv); err != nil {
-		return []domain.Program{}, nil
+		return nil, err
 	}
+	for _, prog := range tv.Programmes {
+		d[prog.Channel] = append(d[prog.Channel], prog)
+	}
+	return d, nil
+}
 
+func selectPrograms(d doc, channel domain.Channel, date time.Time) []domain.Program {
 	dateStr := date.Format("20060102")
 	var programs []domain.Program
 
-	for _, prog := range tv.Programmes {
-		if prog.Channel != channel.SiteID {
-			continue
-		}
-
+	for _, prog := range d[channel.SiteID] {
 		start, err := parseXMLTVTime(prog.Start)
 		if err != nil {
 			continue
@@ -114,8 +146,9 @@ func Parse(data []byte, channel domain.Channel, date time.Time) ([]domain.Progra
 		programs = []domain.Program{}
 	}
 
-	return programs, nil
+	return programs
 }
+
 
 func parseXMLTVTime(s string) (time.Time, error) {
 	return time.Parse("20060102150405 -0700", s)

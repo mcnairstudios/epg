@@ -4,6 +4,7 @@ import (
 	"testing"
 
 	"github.com/gavinmcnair/epg/internal/channels"
+	"github.com/gavinmcnair/epg/internal/domain"
 )
 
 func TestLoad(t *testing.T) {
@@ -53,5 +54,19 @@ func TestLoadInvalid(t *testing.T) {
 	_, err := channels.Load([]byte("not json"), "test")
 	if err == nil {
 		t.Fatal("expected error")
+	}
+}
+
+func TestGroupByIsStableAndAdjacent(t *testing.T) {
+	in := []domain.Channel{
+		{ID: "1", SiteID: "b#1"}, {ID: "2", SiteID: "a#1"}, {ID: "3", SiteID: "b#2"}, {ID: "4", SiteID: "a#2"},
+	}
+	out := channels.GroupBy(in, func(c domain.Channel) string { return c.SiteID[:1] })
+	got := ""
+	for _, c := range out {
+		got += c.ID
+	}
+	if got != "2413" {
+		t.Fatalf("got %s want 2413", got)
 	}
 }

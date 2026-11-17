@@ -14,6 +14,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpcache"
 	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"golang.org/x/net/html"
@@ -23,7 +24,7 @@ import (
 var channelsData []byte
 
 func init() {
-	plugin.Register(&provider{client: httpclient.Browser()})
+	plugin.Register(&provider{client: httpcache.Wrap(httpclient.Browser())})
 }
 
 type provider struct {

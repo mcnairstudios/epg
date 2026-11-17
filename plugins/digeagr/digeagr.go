@@ -13,6 +13,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/httpcache"
 	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 )
@@ -25,7 +26,7 @@ var channelsData []byte
 func init() {
 	athensTZ, _ = time.LoadLocation("Europe/Athens")
 	plugin.Register(&provider{
-		client: httpclient.Browser(),
+		client: httpcache.Wrap(httpclient.Browser(), httpcache.WithPOST()),
 	})
 }
 

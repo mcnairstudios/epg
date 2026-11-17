@@ -13,6 +13,7 @@ import (
 	"time"
 
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/fetchcache"
 )
 
 type fakeClient struct {
@@ -53,7 +54,7 @@ var testChannel = domain.Channel{
 
 func TestFetchDownloadsOncePerTagConcurrently(t *testing.T) {
 	fc := &fakeClient{status: 200, body: gzipped(t, "testdata/content.xml"), delay: 50 * time.Millisecond}
-	p := &provider{client: fc, cache: newTagCache()}
+	p := &provider{client: fc, cache: newCache()}
 
 	var wg sync.WaitGroup
 	counts := make([]int, 30)
@@ -87,7 +88,7 @@ func TestFetchMatchesParse(t *testing.T) {
 		t.Fatal(err)
 	}
 	fc := &fakeClient{status: 200, body: gzipped(t, "testdata/content.xml")}
-	p := &provider{client: fc, cache: newTagCache()}
+	p := &provider{client: fc, cache: newCache()}
 
 	for d := 8; d <= 11; d++ {
 		date := time.Date(2025, 2, d, 0, 0, 0, 0, time.UTC)
@@ -112,12 +113,12 @@ func TestFetchMatchesParse(t *testing.T) {
 
 func TestFetch404CachedPerTag(t *testing.T) {
 	fc := &fakeClient{status: 404}
-	p := &provider{client: fc, cache: newTagCache()}
+	p := &provider{client: fc, cache: newCache()}
 
 	for i := 0; i < 10; i++ {
 		_, err := p.Fetch(testChannel, time.Now())
-		var se *statusError
-		if !errors.As(err, &se) || se.code != 404 {
+		var se *fetchcache.StatusError
+		if !errors.As(err, &se) || se.Code != 404 {
 			t.Fatalf("expected 404 status error, got %v", err)
 		}
 		if err.Error() != "HTTP 404 from epgshare" {
@@ -126,55 +127,6 @@ func TestFetch404CachedPerTag(t *testing.T) {
 	}
 	if n := fc.calls.Load(); n != 1 {
 		t.Fatalf("expected 1 request, got %d", n)
-	}
-}
-
-func TestCacheExpiry(t *testing.T) {
-	c := newTagCache()
-	now := time.Now()
-	c.now = func() time.Time { return now }
-	var loads int
-	load := func(string) (index, error) { loads++; return index{}, nil }
-
-	c.get("A", load)
-	c.get("A", load)
-	if loads != 1 {
-		t.Fatalf("expected 1 load, got %d", loads)
-	}
-	now = now.Add(cacheTTL + time.Second)
-	c.get("A", load)
-	if loads != 2 {
-		t.Fatalf("expected reload after TTL, got %d loads", loads)
-	}
-}
-
-func TestCacheErrorRetriesAfterShortTTL(t *testing.T) {
-	c := newTagCache()
-	now := time.Now()
-	c.now = func() time.Time { return now }
-	var loads int
-	load := func(string) (index, error) { loads++; return nil, errors.New("boom") }
-
-	c.get("A", load)
-	c.get("A", load)
-	if loads != 1 {
-		t.Fatalf("expected error cached, got %d loads", loads)
-	}
-	now = now.Add(errorTTL + time.Second)
-	c.get("A", load)
-	if loads != 2 {
-		t.Fatalf("expected retry after errorTTL, got %d loads", loads)
-	}
-}
-
-func TestCacheBounded(t *testing.T) {
-	c := newTagCache()
-	load := func(string) (index, error) { return index{}, nil }
-	for _, tag := range []string{"A", "B", "C", "D", "E", "F"} {
-		c.get(tag, load)
-	}
-	if n := len(c.items); n > maxCacheItems {
-		t.Fatalf("cache holds %d items, max %d", n, maxCacheItems)
 	}
 }
 

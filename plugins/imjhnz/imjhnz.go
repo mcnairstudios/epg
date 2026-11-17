@@ -11,6 +11,7 @@ import (
 
 	"github.com/gavinmcnair/epg/internal/channels"
 	"github.com/gavinmcnair/epg/internal/domain"
+	"github.com/gavinmcnair/epg/internal/fetchcache"
 	"github.com/gavinmcnair/epg/internal/httpclient"
 	"github.com/gavinmcnair/epg/internal/plugin"
 	"github.com/gavinmcnair/epg/internal/xmltv"
@@ -22,11 +23,21 @@ const apiEndpoint = "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/mast
 var channelsData []byte
 
 func init() {
-	plugin.Register(&provider{client: httpclient.Browser()})
+	plugin.Register(&provider{client: httpclient.Browser(), docs: newDocs()})
 }
 
 type provider struct {
 	client httpClient
+	docs   *fetchcache.Cache[doc]
+}
+
+type doc map[string][]domain.Program
+
+func newDocs() *fetchcache.Cache[doc] {
+	return fetchcache.New(fetchcache.Options[doc]{
+		TTL:        fetchcache.DocTTL[doc](15 * time.Minute),
+		MaxEntries: 4,
+	})
 }
 
 type httpClient interface {
@@ -37,7 +48,14 @@ func (p *provider) Name() string        { return "i.mjh.nz" }
 func (p *provider) Description() string { return "Matt Huisman XMLTV aggregator (AU/NZ/Plex/Samsung/etc)" }
 
 func (p *provider) Channels() ([]domain.Channel, error) {
-	return channels.Load(channelsData, "i.mjh.nz")
+	chs, err := channels.Load(channelsData, "i.mjh.nz")
+	if err != nil {
+		return nil, err
+	}
+	return channels.GroupBy(chs, func(c domain.Channel) string {
+		path, _, _ := splitSiteID(c.SiteID)
+		return path
+	}), nil
 }
 
 func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Program, error) {
@@ -46,6 +64,14 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, fmt.Errorf("invalid site_id format: %s", channel.SiteID)
 	}
 
+	d, err := p.docs.Get(path, func() (doc, error) { return p.download(path) })
+	if err != nil {
+		return nil, err
+	}
+	return selectPrograms(d, channel, channelID, date), nil
+}
+
+func (p *provider) download(path string) (doc, error) {
 	url := fmt.Sprintf("%s/%s.xml", apiEndpoint, path)
 	req, err := http.NewRequest(http.MethodGet, url, nil)
 	if err != nil {
@@ -59,7 +85,7 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("HTTP %d from imjhnz", resp.StatusCode)
+		return nil, &fetchcache.StatusError{Code: resp.StatusCode, Source: "imjhnz"}
 	}
 
 	body, err := io.ReadAll(resp.Body)
@@ -67,23 +93,35 @@ func (p *provider) Fetch(channel domain.Channel, date time.Time) ([]domain.Progr
 		return nil, err
 	}
 
-	return Parse(body, channel, channelID, date)
+	return buildDoc(body)
 }
 
 func Parse(data []byte, channel domain.Channel, channelID string, date time.Time) ([]domain.Program, error) {
+	d, err := buildDoc(data)
+	if err != nil {
+		return nil, err
+	}
+	return selectPrograms(d, channel, channelID, date), nil
+}
+
+func buildDoc(data []byte) (doc, error) {
 	_, allPrograms, err := xmltv.Parse(data, "i.mjh.nz")
 	if err != nil {
 		return nil, err
 	}
+	d := make(doc)
+	for _, p := range allPrograms {
+		d[p.Channel] = append(d[p.Channel], p)
+	}
+	return d, nil
+}
 
+func selectPrograms(d doc, channel domain.Channel, channelID string, date time.Time) []domain.Program {
 	day := date.Truncate(24 * time.Hour)
 	nextDay := day.Add(24 * time.Hour)
 
 	var filtered []domain.Program
-	for _, p := range allPrograms {
-		if p.Channel != channelID {
-			continue
-		}
+	for _, p := range d[channelID] {
 		if p.Start.Before(day) || !p.Start.Before(nextDay) {
 			continue
 		}
@@ -92,7 +130,7 @@ func Parse(data []byte, channel domain.Channel, channelID string, date time.Time
 		filtered = append(filtered, p)
 	}
 
-	return mergeMovieParts(filtered), nil
+	return mergeMovieParts(filtered)
 }
 
 func mergeMovieParts(programs []domain.Program) []domain.Program {
